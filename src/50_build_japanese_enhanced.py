@@ -21,6 +21,25 @@ OUT.mkdir(parents=True, exist_ok=True)
 
 tagger = Tagger()
 
+# ── MeCab reading overrides ──────────────────────────────────────────────
+# MeCab often misreads homographs. These overrides supply the correct kana.
+
+KANA_OVERRIDES = {
+    "月": "ガツ",     # month counter, not "moon"
+    "土": "ド",      # day of week, not "earth"
+    "的": "テキ",    # adjectival suffix, not "target"
+    "一人": "ヒトリ",
+    "１人": "ヒトリ",
+    "二人": "フタリ",
+    "２人": "フタリ",
+    "他": "ホカ",
+}
+
+EXPR_OVERRIDES = {
+    "後に": "後[のち]に",
+    "入式": "入式[にゅうしき]",
+}
+
 # ── Furigana helpers ────────────────────────────────────────────────────────
 
 def kata_to_hira(s):
@@ -138,10 +157,17 @@ def token_furigana_clean(surface, reading):
 
 def make_furigana(expr):
     """Tokenize and produce furigana for the whole expression."""
+    if expr in EXPR_OVERRIDES:
+        return EXPR_OVERRIDES[expr]
     parts = []
     for word in tagger(expr):
         surface = word.surface
-        reading = kata_to_hira(word.feature.kana) if word.feature.kana else ''
+        if surface in KANA_OVERRIDES:
+            kana = KANA_OVERRIDES[surface]
+            reading = kata_to_hira(kana)
+        else:
+            kana = word.feature.kana
+            reading = kata_to_hira(kana) if kana else ''
         furi = token_furigana_clean(surface, reading)
         parts.append(furi)
     return ' '.join(parts)
