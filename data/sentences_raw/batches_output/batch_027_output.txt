@@ -1,0 +1,1340 @@
+# Batch 27 — Korean Sentences (해요체)
+
+3 simple sentences per word with Japanese and English translations.
+
+---
+
+===word: 겨울===
+(ko) 겨울은 추워요.
+(ja) 冬は寒いです。
+(en) Winter is cold.
+
+===word: 겨울===
+(ko) 겨울에 눈이 와요.
+(ja) 冬に雪が降ります。
+(en) It snows in winter.
+
+===word: 겨울===
+(ko) 겨울 방학이 좋아요.
+(ja) 冬休みが好きです。
+(en) Winter vacation is nice.
+
+===word: 봄===
+(ko) 봄에 꽃이 피어요.
+(ja) 春に花が咲きます。
+(en) Flowers bloom in spring.
+
+===word: 봄===
+(ko) 봄은 따뜻해요.
+(ja) 春は暖かいです。
+(en) Spring is warm.
+
+===word: 봄===
+(ko) 봄에 나들이를 가요.
+(ja) 春にピクニックに行きます。
+(en) I go on an outing in spring.
+
+===word: 여름===
+(ko) 여름은 더워요.
+(ja) 夏は暑いです。
+(en) Summer is hot.
+
+===word: 여름===
+(ko) 여름에 수영을 해요.
+(ja) 夏に泳ぎます。
+(en) I swim in summer.
+
+===word: 여름===
+(ko) 여름 방학이 길어요.
+(ja) 夏休みは長いです。
+(en) Summer vacation is long.
+
+===word: 가을===
+(ko) 가을은 시원해요.
+(ja) 秋は涼しいです。
+(en) Autumn is cool.
+
+===word: 가을===
+(ko) 가을에 단풍이 예뻐요.
+(ja) 秋の紅葉がきれいです。
+(en) The autumn leaves are pretty.
+
+===word: 가을===
+(ko) 가을에 운동하기 좋아요.
+(ja) 秋は運動にいいです。
+(en) Autumn is good for exercise.
+
+===word: 1월===
+(ko) 1월은 추워요.
+(ja) 1月は寒いです。
+(en) January is cold.
+
+===word: 1월===
+(ko) 1월에 눈이 와요.
+(ja) 1月に雪が降ります。
+(en) It snows in January.
+
+===word: 1월===
+(ko) 1월에 새해를 맞이해요.
+(ja) 1月に新年を迎えます。
+(en) We welcome the new year in January.
+
+===word: 2월===
+(ko) 2월은 짧아요.
+(ja) 2月は短いです。
+(en) February is short.
+
+===word: 2월===
+(ko) 2월에 날씨가 추워요.
+(ja) 2月は天気が寒いです。
+(en) The weather is cold in February.
+
+===word: 2월===
+(ko) 2월에 설날이 있어요.
+(ja) 2月に旧正月があります。
+(en) Lunar New Year is in February.
+
+===word: 3월===
+(ko) 3월에 봄이 시작돼요.
+(ja) 3月に春が始まります。
+(en) Spring starts in March.
+
+===word: 3월===
+(ko) 3월에 학교에 가요.
+(ja) 3月に学校に行きます。
+(en) I go to school in March.
+
+===word: 3월===
+(ko) 3월은 따뜻해져요.
+(ja) 3月は暖かくなります。
+(en) March gets warmer.
+
+===word: 4월===
+(ko) 4월에 꽃이 많이 피어요.
+(ja) 4月に花がたくさん咲きます。
+(en) Many flowers bloom in April.
+
+===word: 4월===
+(ko) 4월에 벚꽃을 봐요.
+(ja) 4月に桜を見ます。
+(en) I see cherry blossoms in April.
+
+===word: 4월===
+(ko) 4월 날씨가 좋아요.
+(ja) 4月の天気がいいです。
+(en) The weather in April is nice.
+
+===word: 5월===
+(ko) 5월에 가족과 시간을 보내요.
+(ja) 5月に家族と過ごします。
+(en) I spend time with family in May.
+
+===word: 5월===
+(ko) 5월은 어린이날이 있어요.
+(ja) 5月は子どもの日があります。
+(en) May has Children's Day.
+
+===word: 5월===
+(ko) 5월에 날씨가 좋아요.
+(ja) 5月の天気がいいです。
+(en) The weather in May is nice.
+
+===word: 6월===
+(ko) 6월에 장마가 시작돼요.
+(ja) 6月に梅雨が始まります。
+(en) The rainy season starts in June.
+
+===word: 6월===
+(ko) 6월에 비가 많이 와요.
+(ja) 6月に雨がたくさん降ります。
+(en) It rains a lot in June.
+
+===word: 6월===
+(ko) 6월은 여름의 시작이에요.
+(ja) 6月は夏の始まりです。
+(en) June is the start of summer.
+
+===word: 7월===
+(ko) 7월은 매우 더워요.
+(ja) 7月はとても暑いです。
+(en) July is very hot.
+
+===word: 7월===
+(ko) 7월에 바다에 가요.
+(ja) 7月に海に行きます。
+(en) I go to the beach in July.
+
+===word: 7월===
+(ko) 7월에 방학이 시작돼요.
+(ja) 7月に休みが始まります。
+(en) Vacation starts in July.
+
+===word: 8월===
+(ko) 8월에도 더워요.
+(ja) 8月も暑いです。
+(en) August is also hot.
+
+===word: 8월===
+(ko) 8월에 가족과 여행을 가요.
+(ja) 8月に家族と旅行に行きます。
+(en) I travel with family in August.
+
+===word: 8월===
+(ko) 8월에 광복절이 있어요.
+(ja) 8月に光復節があります。
+(en) Liberation Day is in August.
+
+===word: 9월===
+(ko) 9월에 날씨가 선선해져요.
+(ja) 9月は涼しくなります。
+(en) The weather gets cool in September.
+
+===word: 9월===
+(ko) 9월에 추석이 있어요.
+(ja) 9月に秋夕があります。
+(en) Chuseok is in September.
+
+===word: 9월===
+(ko) 9월에 가을이 시작돼요.
+(ja) 9月に秋が始まります。
+(en) Autumn starts in September.
+
+===word: 10월===
+(ko) 10월에 단풍이 예뻐요.
+(ja) 10月の紅葉がきれいです。
+(en) The autumn leaves in October are pretty.
+
+===word: 10월===
+(ko) 10월은 시원해요.
+(ja) 10月は涼しいです。
+(en) October is cool.
+
+===word: 10월===
+(ko) 10월에 한글날이 있어요.
+(ja) 10月にハングルの日があります。
+(en) Hangeul Proclamation Day is in October.
+
+===word: 11월===
+(ko) 11월에 날씨가 추워져요.
+(ja) 11月は寒くなります。
+(en) The weather gets cold in November.
+
+===word: 11월===
+(ko) 11월에 시험을 봐요.
+(ja) 11月に試験を受けます。
+(en) I take exams in November.
+
+===word: 11월===
+(ko) 11월에 김장을 해요.
+(ja) 11月にキムジャンをします。
+(en) We make kimchi in November.
+
+===word: 12월===
+(ko) 12월은 매우 추워요.
+(ja) 12月はとても寒いです。
+(en) December is very cold.
+
+===word: 12월===
+(ko) 12월에 크리스마스가 있어요.
+(ja) 12月にクリスマスがあります。
+(en) Christmas is in December.
+
+===word: 12월===
+(ko) 12월에 연말 파티를 해요.
+(ja) 12月に年末パーティーをします。
+(en) We have a year-end party in December.
+
+===word: 월요일===
+(ko) 월요일에 회의가 있어요.
+(ja) 月曜日に会議があります。
+(en) I have a meeting on Monday.
+
+===word: 월요일===
+(ko) 월요일부터 일해요.
+(ja) 月曜日から働きます。
+(en) I work from Monday.
+
+===word: 월요일===
+(ko) 월요일은 바빠요.
+(ja) 月曜日は忙しいです。
+(en) Monday is busy.
+
+===word: 화요일===
+(ko) 화요일에 운동을 해요.
+(ja) 火曜日に運動します。
+(en) I exercise on Tuesday.
+
+===word: 화요일===
+(ko) 화요일에 도서관에 가요.
+(ja) 火曜日に図書館に行きます。
+(en) I go to the library on Tuesday.
+
+===word: 화요일===
+(ko) 화요일은 조용해요.
+(ja) 火曜日は静かです。
+(en) Tuesday is quiet.
+
+===word: 수요일===
+(ko) 수요일에 한국어를 공부해요.
+(ja) 水曜日に韓国語を勉強します。
+(en) I study Korean on Wednesday.
+
+===word: 수요일===
+(ko) 수요일은 주중이에요.
+(ja) 水曜日は平日です。
+(en) Wednesday is a weekday.
+
+===word: 수요일===
+(ko) 수요일에 친구를 만나요.
+(ja) 水曜日に友達に会います。
+(en) I meet a friend on Wednesday.
+
+===word: 목요일===
+(ko) 목요일은 금요일 전이에요.
+(ja) 木曜日は金曜日の前です。
+(en) Thursday is before Friday.
+
+===word: 목요일===
+(ko) 목요일에 수업이 있어요.
+(ja) 木曜日に授業があります。
+(en) I have class on Thursday.
+
+===word: 목요일===
+(ko) 목요일에도 바빠요.
+(ja) 木曜日も忙しいです。
+(en) Thursday is also busy.
+
+===word: 금요일===
+(ko) 금요일은 주말 전이에요.
+(ja) 金曜日は週末の前です。
+(en) Friday is before the weekend.
+
+===word: 금요일===
+(ko) 금요일에 영화를 봐요.
+(ja) 金曜日に映画を見ます。
+(en) I watch a movie on Friday.
+
+===word: 금요일===
+(ko) 금요일이 제일 좋아요.
+(ja) 金曜日が一番好きです。
+(en) Friday is my favorite.
+
+===word: 토요일===
+(ko) 토요일에 늦게 일어나요.
+(ja) 土曜日に遅く起きます。
+(en) I wake up late on Saturday.
+
+===word: 토요일===
+(ko) 토요일은 쉬는 날이에요.
+(ja) 土曜日は休みの日です。
+(en) Saturday is a day off.
+
+===word: 토요일===
+(ko) 토요일에 친구랑 놀아요.
+(ja) 土曜日に友達と遊びます。
+(en) I hang out with friends on Saturday.
+
+===word: 일요일===
+(ko) 일요일에 교회에 가요.
+(ja) 日曜日に教会に行きます。
+(en) I go to church on Sunday.
+
+===word: 일요일===
+(ko) 일요일에 가족과 시간을 보내요.
+(ja) 日曜日に家族と過ごします。
+(en) I spend time with family on Sunday.
+
+===word: 일요일===
+(ko) 일요일은 편안해요.
+(ja) 日曜日はリラックスできます。
+(en) Sunday is relaxing.
+
+===word: 주말===
+(ko) 주말에 영화를 봐요.
+(ja) 週末に映画を見ます。
+(en) I watch a movie on the weekend.
+
+===word: 주말===
+(ko) 주말에 여행을 가요.
+(ja) 週末に旅行に行きます。
+(en) I go on a trip on the weekend.
+
+===word: 주말===
+(ko) 주말이 기다려져요.
+(ja) 週末が楽しみです。
+(en) I look forward to the weekend.
+
+===word: 평일===
+(ko) 평일에 일해요.
+(ja) 平日に働きます。
+(en) I work on weekdays.
+
+===word: 평일===
+(ko) 평일에는 바빠요.
+(ja) 平日は忙しいです。
+(en) I'm busy on weekdays.
+
+===word: 평일===
+(ko) 평일 아침에 일찍 일어나요.
+(ja) 平日の朝に早く起きます。
+(en) I wake up early on weekday mornings.
+
+===word: 공휴일===
+(ko) 공휴일에 쉬어요.
+(ja) 公休日に休みます。
+(en) I rest on public holidays.
+
+===word: 공휴일===
+(ko) 공휴일이 많아요.
+(ja) 公休日が多いです。
+(en) There are many public holidays.
+
+===word: 공휴일===
+(ko) 공휴일에 뭐 해요?
+(ja) 公休日に何をしますか？
+(en) What do you do on public holidays?
+
+===word: 명절===
+(ko) 명절에 가족을 만나요.
+(ja) 명절に家族に会います。
+(en) I meet family on holidays.
+
+===word: 명절===
+(ko) 명절에 맛있는 음식을 먹어요.
+(ja) 명절に美味しいものを食べます。
+(en) I eat delicious food on holidays.
+
+===word: 명절===
+(ko) 명절이 언제예요?
+(ja) 명절はいつですか？
+(en) When is the holiday?
+
+===word: 설날===
+(ko) 설날에 떡국을 먹어요.
+(ja) 旧正月にトックを食べます。
+(en) I eat tteokguk on Lunar New Year.
+
+===word: 설날===
+(ko) 설날에 한복을 입어요.
+(ja) 旧正月に韓服を着ます。
+(en) I wear hanbok on Lunar New Year.
+
+===word: 설날===
+(ko) 설날에 세배를 해요.
+(ja) 旧正月に新年の挨拶をします。
+(en) I do Sebae on Lunar New Year.
+
+===word: 추석===
+(ko) 추석에 송편을 먹어요.
+(ja) 秋夕にソンピョンを食べます。
+(en) I eat songpyeon on Chuseok.
+
+===word: 추석===
+(ko) 추석에 고향에 가요.
+(ja) 秋夕に故郷に行きます。
+(en) I go to my hometown on Chuseok.
+
+===word: 추석===
+(ko) 추석은 한국의 명절이에요.
+(ja) 秋夕は韓国の명절です。
+(en) Chuseok is a Korean holiday.
+
+===word: 크리스마스===
+(ko) 크리스마스에 선물을 받아요.
+(ja) クリスマスにプレゼントをもらいます。
+(en) I receive presents on Christmas.
+
+===word: 크리스마스===
+(ko) 크리스마스에 케이크를 먹어요.
+(ja) クリスマスにケーキを食べます。
+(en) I eat cake on Christmas.
+
+===word: 크리스마스===
+(ko) 크리스마스는 12월이에요.
+(ja) クリスマスは12月です。
+(en) Christmas is in December.
+
+===word: 새해===
+(ko) 새해 복 많이 받으세요.
+(ja) 新年あけましておめでとうございます。
+(en) Happy New Year.
+
+===word: 새해===
+(ko) 새해에 새로운 계획을 세워요.
+(ja) 新年に新しい計画を立てます。
+(en) I make new plans for the New Year.
+
+===word: 새해===
+(ko) 새해가 시작됐어요.
+(ja) 新年が始まりました。
+(en) The New Year has started.
+
+===word: 신정===
+(ko) 신정은 1월 1일이에요.
+(ja) 新正は1月1日です。
+(en) New Year's Day (solar) is January 1st.
+
+===word: 신정===
+(ko) 신정에 친구들과 만나요.
+(ja) 新正に友達と会います。
+(en) I meet friends on New Year's Day.
+
+===word: 신정===
+(ko) 신정은 공휴일이에요.
+(ja) 新正は祝日です。
+(en) New Year's Day is a public holiday.
+
+===word: 구정===
+(ko) 구정은 음력 1월 1일이에요.
+(ja) 旧正は旧暦1月1日です。
+(en) Lunar New Year is the first day of the lunar calendar.
+
+===word: 구정===
+(ko) 구정에 가족을 만나요.
+(ja) 旧正に家族に会います。
+(en) I meet family on Lunar New Year.
+
+===word: 구정===
+(ko) 구정은 설날이에요.
+(ja) 旧正は설날です。
+(en) Lunar New Year is Seollal.
+
+===word: 어린이날===
+(ko) 어린이날은 5월 5일이에요.
+(ja) こどもの日は5月5日です。
+(en) Children's Day is May 5th.
+
+===word: 어린이날===
+(ko) 어린이날에 선물을 받아요.
+(ja) こどもの日にプレゼントをもらいます。
+(en) I receive presents on Children's Day.
+
+===word: 어린이날===
+(ko) 어린이날에 놀이공원에 가요.
+(ja) こどもの日に遊園地に行きます。
+(en) I go to the amusement park on Children's Day.
+
+===word: 어버이날===
+(ko) 어버이날에 카네이션을 드려요.
+(ja) 両親の日にカーネーションをあげます。
+(en) I give carnations on Parents' Day.
+
+===word: 어버이날===
+(ko) 어버이날은 5월 8일이에요.
+(ja) 両親の日は5月8日です。
+(en) Parents' Day is May 8th.
+
+===word: 어버이날===
+(ko) 어버이날에 감사 편지를 써요.
+(ja) 両親の日に感謝の手紙を書きます。
+(en) I write a thank-you letter on Parents' Day.
+
+===word: 스승의날===
+(ko) 스승의날에 선생님께 꽃을 드려요.
+(ja) 先生の日に先生に花をあげます。
+(en) I give flowers to my teacher on Teacher's Day.
+
+===word: 스승의날===
+(ko) 스승의날은 5월 15일이에요.
+(ja) 先生の日は5月15日です。
+(en) Teacher's Day is May 15th.
+
+===word: 스승의날===
+(ko) 스승의날에 감사해요.
+(ja) 先生の日に感謝します。
+(en) I feel grateful on Teacher's Day.
+
+===word: 현충일===
+(ko) 현충일은 6월 6일이에요.
+(ja) 顕忠日は6月6日です。
+(en) Memorial Day is June 6th.
+
+===word: 현충일===
+(ko) 현충일에 태극기를 걸어요.
+(ja) 顕忠日に韓国国旗を掲げます。
+(en) I hang the Korean flag on Memorial Day.
+
+===word: 현충일===
+(ko) 현충일은 공휴일이에요.
+(ja) 顕忠日は祝日です。
+(en) Memorial Day is a public holiday.
+
+===word: 광복절===
+(ko) 광복절은 8월 15일이에요.
+(ja) 光復節は8月15日です。
+(en) Liberation Day is August 15th.
+
+===word: 광복절===
+(ko) 광복절에 태극기가 휘날려요.
+(ja) 光復節に韓国国旗がはためきます。
+(en) The Korean flag flies on Liberation Day.
+
+===word: 광복절===
+(ko) 광복절을 축하해요.
+(ja) 光復節をお祝いします。
+(en) We celebrate Liberation Day.
+
+===word: 개천절===
+(ko) 개천절은 10월 3일이에요.
+(ja) 開天節は10月3日です。
+(en) National Foundation Day is October 3rd.
+
+===word: 개천절===
+(ko) 개천절에 태극기를 걸어요.
+(ja) 開天節に韓国国旗を掲げます。
+(en) I hang the Korean flag on National Foundation Day.
+
+===word: 개천절===
+(ko) 개천절은 국경일이에요.
+(ja) 開天節は国慶日です。
+(en) National Foundation Day is a national holiday.
+
+===word: 한글날===
+(ko) 한글날은 10월 9일이에요.
+(ja) ハングルの日は10月9日です。
+(en) Hangeul Day is October 9th.
+
+===word: 한글날===
+(ko) 한글날에 세종대왕을 기념해요.
+(ja) ハングルの日に世宗大王を記念します。
+(en) We commemorate King Sejong on Hangeul Day.
+
+===word: 한글날===
+(ko) 한글은 아름다워요.
+(ja) ハングルは美しいです。
+(en) Hangeul is beautiful.
+
+===word: 성탄절===
+(ko) 성탄절은 12월 25일이에요.
+(ja) 聖誕節は12月25日です。
+(en) Christmas Day is December 25th.
+
+===word: 성탄절===
+(ko) 성탄절에 교회에 가요.
+(ja) 聖誕節に教会に行きます。
+(en) I go to church on Christmas Day.
+
+===word: 성탄절===
+(ko) 성탄절에 가족과 함께해요.
+(ja) 聖誕節に家族と一緒に過ごします。
+(en) I spend Christmas Day with family.
+
+===word: 부처님오신날===
+(ko) 부처님오신날은 음력 4월 8일이에요.
+(ja) 釈迦誕生日は旧暦4月8日です。
+(en) Buddha's Birthday is on the 8th day of the 4th lunar month.
+
+===word: 부처님오신날===
+(ko) 부처님오신날에 절에 가요.
+(ja) 釈迦誕生日に寺に行きます。
+(en) I go to the temple on Buddha's Birthday.
+
+===word: 부처님오신날===
+(ko) 부처님오신날에 연등을 봐요.
+(ja) 釈迦誕生日に提灯を見ます。
+(en) I see lanterns on Buddha's Birthday.
+
+===word: 대체공휴일===
+(ko) 대체공휴일에 쉬어요.
+(ja) 代替休日に休みます。
+(en) I rest on the alternative public holiday.
+
+===word: 대체공휴일===
+(ko) 대체공휴일은 언제예요?
+(ja) 代替休日はいつですか？
+(en) When is the alternative public holiday?
+
+===word: 대체공휴일===
+(ko) 대체공휴일이 생겼어요.
+(ja) 代替休日ができました。
+(en) An alternative public holiday was created.
+
+===word: 임시공휴일===
+(ko) 임시공휴일에 쉬어요.
+(ja) 臨時公休日に休みます。
+(en) I rest on the temporary public holiday.
+
+===word: 임시공휴일===
+(ko) 임시공휴일이 지정됐어요.
+(ja) 臨時公休日が指定されました。
+(en) A temporary public holiday was designated.
+
+===word: 임시공휴일===
+(ko) 임시공휴일에 뭐 할 거예요?
+(ja) 臨時公休日に何をしますか？
+(en) What will you do on the temporary holiday?
+
+===word: 오전===
+(ko) 오전에 일어나요.
+(ja) 午前に起きます。
+(en) I wake up in the morning.
+
+===word: 오전===
+(ko) 오전에 커피를 마셔요.
+(ja) 午前にコーヒーを飲みます。
+(en) I drink coffee in the morning.
+
+===word: 오전===
+(ko) 오전 10시에 약속이 있어요.
+(ja) 午前10時に約束があります。
+(en) I have an appointment at 10 AM.
+
+===word: 오후===
+(ko) 오후에 점심을 먹어요.
+(ja) 午後に昼食を食べます。
+(en) I eat lunch in the afternoon.
+
+===word: 오후===
+(ko) 오후에 산책해요.
+(ja) 午後に散歩します。
+(en) I take a walk in the afternoon.
+
+===word: 오후===
+(ko) 오후 3시에 수업이 있어요.
+(ja) 午後3時に授業があります。
+(en) I have class at 3 PM.
+
+===word: 저녁===
+(ko) 저녁에 밥을 먹어요.
+(ja) 夕方にご飯を食べます。
+(en) I eat dinner in the evening.
+
+===word: 저녁===
+(ko) 저녁에 친구를 만나요.
+(ja) 夕方に友達に会います。
+(en) I meet a friend in the evening.
+
+===word: 저녁===
+(ko) 저녁에 TV를 봐요.
+(ja) 夕方にテレビを見ます。
+(en) I watch TV in the evening.
+
+===word: 밤===
+(ko) 밤에 별을 봐요.
+(ja) 夜に星を見ます。
+(en) I look at the stars at night.
+
+===word: 밤===
+(ko) 밤에 잠을 자요.
+(ja) 夜に寝ます。
+(en) I sleep at night.
+
+===word: 밤===
+(ko) 밤이 깊었어요.
+(ja) 夜が更けました。
+(en) The night is deep.
+
+===word: 새벽===
+(ko) 새벽에 일어나요.
+(ja) 明け方に起きます。
+(en) I wake up at dawn.
+
+===word: 새벽===
+(ko) 새벽에 운동해요.
+(ja) 明け方に運動します。
+(en) I exercise at dawn.
+
+===word: 새벽===
+(ko) 새벽은 조용해요.
+(ja) 明け方は静かです。
+(en) The dawn is quiet.
+
+===word: 동틀녘===
+(ko) 동틀녘에 새가 울어요.
+(ja) 夜明けに鳥が鳴きます。
+(en) Birds sing at daybreak.
+
+===word: 동틀녘===
+(ko) 동틀녘의 하늘이 예뻐요.
+(ja) 夜明けの空がきれいです。
+(en) The sky at daybreak is pretty.
+
+===word: 동틀녘===
+(ko) 동틀녘에 산책해요.
+(ja) 夜明けに散歩します。
+(en) I take a walk at daybreak.
+
+===word: 해돋이===
+(ko) 해돋이가 아름다워요.
+(ja) 日の出が美しいです。
+(en) The sunrise is beautiful.
+
+===word: 해돋이===
+(ko) 해돋이를 보러 산에 가요.
+(ja) 日の出を見に山に行きます。
+(en) I go to the mountain to see the sunrise.
+
+===word: 해돋이===
+(ko) 해돋이 사진을 찍었어요.
+(ja) 日の出の写真を撮りました。
+(en) I took a picture of the sunrise.
+
+===word: 해넘이===
+(ko) 해넘이가 예뻐요.
+(ja) 夕日がきれいです。
+(en) The sunset is pretty.
+
+===word: 해넘이===
+(ko) 해넘이를 바다에서 봤어요.
+(ja) 夕日を海で見ました。
+(en) I saw the sunset at the beach.
+
+===word: 해넘이===
+(ko) 해넘이 시간에 산책해요.
+(ja) 夕日の時間に散歩します。
+(en) I take a walk at sunset time.
+
+===word: 정오===
+(ko) 정오에 점심을 먹어요.
+(ja) 正午に昼食を食べます。
+(en) I eat lunch at noon.
+
+===word: 정오===
+(ko) 정오에 해가 가장 높아요.
+(ja) 正午に太陽が一番高いです。
+(en) The sun is highest at noon.
+
+===word: 정오===
+(ko) 정오가 됐어요.
+(ja) 正午になりました。
+(en) It's noon.
+
+===word: 자정===
+(ko) 자정에 잠들어요.
+(ja) 真夜中に眠ります。
+(en) I fall asleep at midnight.
+
+===word: 자정===
+(ko) 자정이 넘었어요.
+(ja) 真夜中を過ぎました。
+(en) It's past midnight.
+
+===word: 자정===
+(ko) 자정에 파티가 끝났어요.
+(ja) 真夜中にパーティーが終わりました。
+(en) The party ended at midnight.
+
+===word: 시간===
+(ko) 지금 몇 시예요?
+(ja) 今何時ですか？
+(en) What time is it now?
+
+===word: 시간===
+(ko) 시간이 빨리 가요.
+(ja) 時間が早く過ぎます。
+(en) Time passes quickly.
+
+===word: 시간===
+(ko) 한 시간 후에 만나요.
+(ja) 1時間後に会いましょう。
+(en) Let's meet in one hour.
+
+===word: 분===
+(ko) 10분 기다려 주세요.
+(ja) 10分待ってください。
+(en) Please wait 10 minutes.
+
+===word: 분===
+(ko) 5분 후에 갈게요.
+(ja) 5分後に行きます。
+(en) I'll go in 5 minutes.
+
+===word: 분===
+(ko) 30분 걸려요.
+(ja) 30分かかります。
+(en) It takes 30 minutes.
+
+===word: 초===
+(ko) 1초만 기다려요.
+(ja) 1秒だけ待ってください。
+(en) Please wait just one second.
+
+===word: 초===
+(ko) 몇 초면 돼요?
+(ja) 何秒でいいですか？
+(en) How many seconds does it take?
+
+===word: 초===
+(ko) 10초 후에 시작해요.
+(ja) 10秒後に始めます。
+(en) It starts in 10 seconds.
+
+===word: 시===
+(ko) 지금 한 시예요.
+(ja) 今1時です。
+(en) It's 1 o'clock now.
+
+===word: 시===
+(ko) 몇 시에 만나요?
+(ja) 何時に会いますか？
+(en) What time shall we meet?
+
+===word: 시===
+(ko) 세 시에 수업이 있어요.
+(ja) 3時に授業があります。
+(en) I have class at 3 o'clock.
+
+===word: 일===
+(ko) 오늘은 월요일이에요.
+(ja) 今日は月曜日です。
+(en) Today is Monday.
+
+===word: 일===
+(ko) 사흘 후에 만나요.
+(ja) 3日後に会いましょう。
+(en) Let's meet in three days.
+
+===word: 일===
+(ko) 며칠 동안 여행해요?
+(ja) 何日間旅行しますか？
+(en) How many days are you traveling?
+
+===word: 주===
+(ko) 일주일에 운동해요.
+(ja) 1週間に運動します。
+(en) I exercise every week.
+
+===word: 주===
+(ko) 두 주 후에 시험이 있어요.
+(ja) 2週間後に試験があります。
+(en) I have a test in two weeks.
+
+===word: 주===
+(ko) 이번 주는 바빠요.
+(ja) 今週は忙しいです。
+(en) This week is busy.
+
+===word: 개월===
+(ko) 한국어를 6개월 배웠어요.
+(ja) 韓国語を6ヶ月勉強しました。
+(en) I studied Korean for 6 months.
+
+===word: 개월===
+(ko) 3개월 후에 한국에 가요.
+(ja) 3ヶ月後に韓国に行きます。
+(en) I'm going to Korea in 3 months.
+
+===word: 개월===
+(ko) 몇 개월 걸려요?
+(ja) 何ヶ月かかりますか？
+(en) How many months does it take?
+
+===word: 년===
+(ko) 올해는 2026년이에요.
+(ja) 今年は2026年です。
+(en) This year is 2026.
+
+===word: 년===
+(ko) 1년 동안 한국에서 살았어요.
+(ja) 1年間韓国に住みました。
+(en) I lived in Korea for a year.
+
+===word: 년===
+(ko) 작년에 일본에 갔어요.
+(ja) 去年日本に行きました。
+(en) I went to Japan last year.
+
+===word: 올해===
+(ko) 올해는 무더워요.
+(ja) 今年はとても暑いです。
+(en) This year is very hot.
+
+===word: 올해===
+(ko) 올해 대학에 입학했어요.
+(ja) 今年大学に入学しました。
+(en) I entered university this year.
+
+===word: 올해===
+(ko) 올해 목표가 뭐예요?
+(ja) 今年の目標は何ですか？
+(en) What is your goal this year?
+
+===word: 작년===
+(ko) 작년에 한국에 갔어요.
+(ja) 去年韓国に行きました。
+(en) I went to Korea last year.
+
+===word: 작년===
+(ko) 작년에 처음 한국어를 배웠어요.
+(ja) 去年初めて韓国語を勉強しました。
+(en) I started learning Korean last year.
+
+===word: 작년===
+(ko) 작년은 추웠어요.
+(ja) 去年は寒かったです。
+(en) Last year was cold.
+
+===word: 내년===
+(ko) 내년에 졸업해요.
+(ja) 来年卒業します。
+(en) I graduate next year.
+
+===word: 내년===
+(ko) 내년에 일본에 갈 거예요.
+(ja) 来年日本に行く予定です。
+(en) I plan to go to Japan next year.
+
+===word: 내년===
+(ko) 내년 계획이 있어요?
+(ja) 来年の計画はありますか？
+(en) Do you have plans for next year?
+
+===word: 재작년===
+(ko) 재작년에 고등학생이었어요.
+(ja) 一昨年高校生でした。
+(en) I was a high school student the year before last.
+
+===word: 재작년===
+(ko) 재작년에 처음 한국에 갔어요.
+(ja) 一昨年初めて韓国に行きました。
+(en) I went to Korea for the first time the year before last.
+
+===word: 재작년===
+(ko) 재작년은 어땠어요?
+(ja) 一昨年はどうでしたか？
+(en) How was the year before last?
+
+===word: 내후년===
+(ko) 내후년에 취직할 거예요.
+(ja) 明後年就職する予定です。
+(en) I will get a job the year after next.
+
+===word: 내후년===
+(ko) 내후년이 기대돼요.
+(ja) 明後年が楽しみです。
+(en) I look forward to the year after next.
+
+===word: 내후년===
+(ko) 내후년에 결혼해요.
+(ja) 明後年結婚します。
+(en) I'm getting married the year after next.
+
+===word: 지난달===
+(ko) 지난달에 부산에 갔어요.
+(ja) 先月釜山に行きました。
+(en) I went to Busan last month.
+
+===word: 지난달===
+(ko) 지난달부터 한국어를 배웠어요.
+(ja) 先月から韓国語を勉強しました。
+(en) I started learning Korean last month.
+
+===word: 지난달===
+(ko) 지난달은 정신없었어요.
+(ja) 先月は忙しかったです。
+(en) Last month was hectic.
+
+===word: 이번 달===
+(ko) 이번 달에 시험이 있어요.
+(ja) 今月試験があります。
+(en) I have a test this month.
+
+===word: 이번 달===
+(ko) 이번 달은 바빠요.
+(ja) 今月は忙しいです。
+(en) This month is busy.
+
+===word: 이번 달===
+(ko) 이번 달에 여행 계획 있어요?
+(ja) 今月旅行の計画がありますか？
+(en) Do you have travel plans this month?
+
+===word: 다음 달===
+(ko) 다음 달에 친구가 와요.
+(ja) 来月友達が来ます。
+(en) My friend is coming next month.
+
+===word: 다음 달===
+(ko) 다음 달부터 아르바이트해요.
+(ja) 来月からアルバイトします。
+(en) I'll start working part-time next month.
+
+===word: 다음 달===
+(ko) 다음 달에 생일이에요.
+(ja) 来月誕生日です。
+(en) My birthday is next month.
+
+===word: 지난주===
+(ko) 지난주에 감기에 걸렸어요.
+(ja) 先週風邪をひきました。
+(en) I caught a cold last week.
+
+===word: 지난주===
+(ko) 지난주에 영화를 봤어요.
+(ja) 先週映画を見ました。
+(en) I watched a movie last week.
+
+===word: 지난주===
+(ko) 지난주에 뭐 했어요?
+(ja) 先週何をしましたか？
+(en) What did you do last week?
+
+===word: 이번 주===
+(ko) 이번 주에 할 일이 많아요.
+(ja) 今週やることが多いです。
+(en) I have a lot to do this week.
+
+===word: 이번 주===
+(ko) 이번 주부터 다이어트해요.
+(ja) 今週からダイエットします。
+(en) I'm starting a diet this week.
+
+===word: 이번 주===
+(ko) 이번 주말에 뭐 해요?
+(ja) 今週末何をしますか？
+(en) What are you doing this weekend?
+
+===word: 다음 주===
+(ko) 다음 주에 시험이 있어요.
+(ja) 来週試験があります。
+(en) I have a test next week.
+
+===word: 다음 주===
+(ko) 다음 주에 만나요.
+(ja) 来週会いましょう。
+(en) Let's meet next week.
+
+===word: 다음 주===
+(ko) 다음 주에 출장 가요.
+(ja) 来週出張に行きます。
+(en) I'm going on a business trip next week.
+
+===word: 그저께===
+(ko) 그저께 친구를 만났어요.
+(ja) 一昨日友達に会いました。
+(en) I met a friend three days ago.
+
+===word: 그저께===
+(ko) 그저께 등산했어요.
+(ja) 一昨日登山しました。
+(en) I went hiking three days ago.
+
+===word: 그저께===
+(ko) 그저께 비가 왔어요.
+(ja) 一昨日雨が降りました。
+(en) It rained three days ago.
+
+===word: 어제===
+(ko) 어제 학교에 갔어요.
+(ja) 昨日学校に行きました。
+(en) I went to school yesterday.
+
+===word: 어제===
+(ko) 어제 피자 먹었어요.
+(ja) 昨日ピザを食べました。
+(en) I ate pizza yesterday.
+
+===word: 어제===
+(ko) 어제 뭐 했어요?
+(ja) 昨日何をしましたか？
+(en) What did you do yesterday?
+
+===word: 오늘===
+(ko) 오늘 날씨가 좋아요.
+(ja) 今日の天気がいいです。
+(en) The weather is nice today.
+
+===word: 오늘===
+(ko) 오늘 약속이 있어요.
+(ja) 今日約束があります。
+(en) I have an appointment today.
+
+===word: 오늘===
+(ko) 오늘 기분이 어때요?
+(ja) 今日の気分はどうですか？
+(en) How are you feeling today?
+
+===word: 내일===
+(ko) 내일 영화 볼 거예요.
+(ja) 明日映画を見ます。
+(en) I'm going to watch a movie tomorrow.
+
+===word: 내일===
+(ko) 내일 시험이 있어요.
+(ja) 明日試験があります。
+(en) I have a test tomorrow.
+
+===word: 내일===
+(ko) 내일 몇 시에 만날까요?
+(ja) 明日何時に会いましょうか？
+(en) What time shall we meet tomorrow?
+
+===word: 모레===
+(ko) 모레 여행을 가요.
+(ja) 明後日旅行に行きます。
+(en) I'm going on a trip the day after tomorrow.
+
+===word: 모레===
+(ko) 모레 친구 생일이에요.
+(ja) 明後日友達の誕生日です。
+(en) The day after tomorrow is my friend's birthday.
+
+===word: 모레===
+(ko) 모레 다시 만나요.
+(ja) 明後日また会いましょう。
+(en) Let's meet again the day after tomorrow.
+
+===word: 글피===
+(ko) 글피 약속이 있어요.
+(ja) 三日後に約束があります。
+(en) I have an appointment three days from now.
+
+===word: 글피===
+(ko) 글피 시험 결과가 나와요.
+(ja) 三日後に試験結果が出ます。
+(en) The test results come out three days from now.
+
+===word: 글피===
+(ko) 글피가 기대돼요.
+(ja) 三日後が楽しみです。
+(en) I look forward to three days from now.
+
+===word: 달력===
+(ko) 달력에 일정을 적어요.
+(ja) カレンダーにスケジュールを書きます。
+(en) I write my schedule on the calendar.
+
+===word: 달력===
+(ko) 달력을 봐 주세요.
+(ja) カレンダーを見てください。
+(en) Please look at the calendar.
+
+===word: 달력===
+(ko) 달력이 필요해요.
+(ja) カレンダーが必要です。
+(en) I need a calendar.
+
+===word: 일정===
+(ko) 내일 일정이 있어요.
+(ja) 明日の予定があります。
+(en) I have a schedule tomorrow.
+
+===word: 일정===
+(ko) 일정을 확인해 주세요.
+(ja) スケジュールを確認してください。
+(en) Please check the schedule.
+
+===word: 일정===
+(ko) 일정이 바빠요.
+(ja) スケジュールが忙しいです。
+(en) My schedule is busy.
+
+===word: 약속===
+(ko) 약속을 지켜요.
+(ja) 約束を守ります。
+(en) I keep my promises.
+
+===word: 약속===
+(ko) 친구와 약속이 있어요.
+(ja) 友達と約束があります。
+(en) I have an appointment with a friend.
+
+===word: 약속===
+(ko) 약속 시간에 늦지 마요.
+(ja) 約束の時間に遅れないでください。
+(en) Don't be late for the appointment.
+
+===word: 스케줄===
+(ko) 스케줄이 꽉 찼어요.
+(ja) スケジュールが詰まっています。
+(en) My schedule is full.
+
+===word: 스케줄===
+(ko) 스케줄을 확인해요.
+(ja) スケジュールを確認します。
+(en) I check my schedule.
+
+===word: 스케줄===
+(ko) 스케줄을 조정해요.
+(ja) スケジュールを調整します。
+(en) I adjust my schedule.
+
+===word: 다이어리===
+(ko) 다이어리에 일정을 써요.
+(ja) ダイアリーにスケジュールを書きます。
+(en) I write my schedule in the diary.
+
+===word: 다이어리===
+(ko) 다이어리를 샀어요.
+(ja) ダイアリーを買いました。
+(en) I bought a planner.
+
+===word: 다이어리===
+(ko) 다이어리를 매일 봐요.
+(ja) ダイアリーを毎日見ます。
+(en) I look at my diary every day.
+
+===word: 수첩===
+(ko) 수첩에 메모해요.
+(ja) 手帳にメモします。
+(en) I take notes in my notebook.
+
+===word: 수첩===
+(ko) 수첩을 잃어버렸어요.
+(ja) 手帳をなくしました。
+(en) I lost my notebook.
+
+===word: 수첩===
+(ko) 작은 수첩이 필요해요.
+(ja) 小さな手帳が必要です。
+(en) I need a small notebook.
+
+===word: 메모===
+(ko) 메모를 남겼어요.
+(ja) メモを残しました。
+(en) I left a memo.
+
+===word: 메모===
+(ko) 메모장에 적어요.
+(ja) メモ帳に書きます。
+(en) I write it in the memo pad.
+
+===word: 메모===
+(ko) 중요한 메모예요.
+(ja) 大事なメモです。
+(en) It's an important note.
+
+===word: 일기===
+(ko) 매일 일기를 써요.
+(ja) 毎日日記を書きます。
+(en) I write a diary every day.
+
+===word: 일기===
+(ko) 일기를 읽었어요.
+(ja) 日記を読みました。
+(en) I read my diary.
+
+===word: 일기===
+(ko) 일기 쓰는 습관이 있어요.
+(ja) 日記を書く習慣があります。
+(en) I have a habit of writing a diary.
+
+===word: 계획===
+(ko) 계획을 세워요.
+(ja) 計画を立てます。
+(en) I make a plan.
+
+===word: 계획===
+(ko) 계획이 있어요?
+(ja) 計画はありますか？
+(en) Do you have a plan?
+
+===word: 계획===
+(ko) 계획대로 됐어요.
+(ja) 計画通りになりました。
+(en) It went according to plan.
+
+===word: 목표===
+(ko) 올해 목표가 뭐예요?
+(ja) 今年の目標は何ですか？
+(en) What is your goal this year?
+
+===word: 목표===
+(ko) 목표를 이루고 싶어요.
+(ja) 目標を達成したいです。
+(en) I want to achieve my goal.
+
+===word: 목표===
+(ko) 목표를 세우는 게 중요해요.
+(ja) 目標を立てることが大切です。
+(en) Setting a goal is important.

@@ -1,0 +1,438 @@
+# Korean Vocabulary Sentences - Batch 25 (Animals)
+# 3 sentences per word: Korean (해요체) | Japanese | English
+# Beginner level • N1 Japanese learner context
+
+===word: 동물===
+(ko) 동물을 좋아해요. 동물원에 동물이 많아요. 저는 동물을 키우고 싶어요.
+(ja) 動物が好きです。動物園に動物がたくさんいます。動物を飼いたいです。
+(en) I like animals. There are many animals at the zoo. I want to raise an animal.
+
+===word: 포유류===
+(ko) 포유류는 새끼에게 젖을 줘요. 고래도 포유류예요. 포유류는 몸에 털이 있어요.
+(ja) 哺乳類は赤ちゃんに乳をあげます。クジラも哺乳類です。哺乳類は体に毛があります。
+(en) Mammals give milk to their babies. Whales are also mammals. Mammals have fur on their bodies.
+
+===word: 파충류===
+(ko) 파충류는 알을 낳아요. 뱀과 도마뱀은 파충류예요. 파충류는 피부가 건조해요.
+(ja) 爬虫類は卵を産みます。ヘビとトカゲは爬虫類です。爬虫類は皮膚が乾燥しています。
+(en) Reptiles lay eggs. Snakes and lizards are reptiles. Reptiles have dry skin.
+
+===word: 양서류===
+(ko) 양서류는 물과 땅에서 살아요. 개구리는 양서류예요. 양서류는 알을 물에 낳아요.
+(ja) 両生類は水と陸で生きています。カエルは両生類です。両生類は卵を水に産みます。
+(en) Amphibians live in water and on land. Frogs are amphibians. Amphibians lay eggs in water.
+
+===word: 조류===
+(ko) 조류는 하늘을 날아요. 조류는 깃털이 있어요. 참새와 비둘기는 조류예요.
+(ja) 鳥類は空を飛びます。鳥類は羽毛があります。スズメとハトは鳥類です。
+(en) Birds fly in the sky. Birds have feathers. Sparrows and pigeons are birds.
+
+===word: 어류===
+(ko) 어류는 물속에서 살아요. 어류는 아가미로 숨을 쉬어요. 연못에 어류가 많아요.
+(ja) 魚類は水中で生きています。魚類はえらで呼吸します。池に魚類がたくさんいます。
+(en) Fish live in water. Fish breathe through gills. There are many fish in the pond.
+
+===word: 곤충===
+(ko) 곤충은 다리가 여섯 개예요. 벌과 나비는 곤충이에요. 정원에 곤충이 많아요.
+(ja) 昆虫は足が六本です。蜂と蝶は昆虫です。庭に昆虫がたくさんいます。
+(en) Insects have six legs. Bees and butterflies are insects. There are many insects in the garden.
+
+===word: 개===
+(ko) 개가 짖어요. 저는 개를 산책시켜요. 개는 사람의 가장 친한 친구예요.
+(ja) 犬が吠えます。犬を散歩させます。犬は人間の一番の友達です。
+(en) The dog barks. I walk the dog. Dogs are humans' best friends.
+
+===word: 고양이===
+(ko) 고양이가 자요. 고양이를 쓰다듬어요. 고양이는 생선을 좋아해요.
+(ja) 猫が寝ています。猫を撫でます。猫は魚が好きです。
+(en) The cat is sleeping. I pet the cat. Cats like fish.
+
+===word: 소===
+(ko) 소가 풀을 먹어요. 소는 우유를 줘요. 목장에 소가 있어요.
+(ja) 牛が草を食べます。牛は牛乳をくれます。牧場に牛がいます。
+(en) The cow eats grass. Cows give us milk. There is a cow on the farm.
+
+===word: 말===
+(ko) 말이 빨리 달려요. 말을 타고 싶어요. 마구간에 말이 세 마리 있어요.
+(ja) 馬が速く走ります。馬に乗りたいです。馬小屋に馬が三頭います。
+(en) The horse runs fast. I want to ride a horse. There are three horses in the stable.
+
+===word: 돼지===
+(ko) 돼지는 분홍색이에요. 돼지는 똑똑해요. 농장에 돼지가 있어요.
+(ja) 豚はピンク色です。豚は賢いです。農場に豚がいます。
+(en) Pigs are pink. Pigs are smart. There is a pig on the farm.
+
+===word: 양===
+(ko) 양은 털이 복슬복슬해요. 양이 풀을 뜯어 먹어요. 양의 털로 옷을 만들어요.
+(ja) 羊は毛がふわふわしています。羊が草を食べています。羊の毛で服を作ります。
+(en) Sheep have fluffy wool. The sheep is grazing on grass. Clothes are made from sheep's wool.
+
+===word: 염소===
+(ko) 염소는 뿔이 있어요. 염소가 '메에' 하고 울어요. 염소는 산에서 잘 살아요.
+(ja) ヤギは角があります。ヤギが「メー」と鳴きます。ヤギは山でよく生きています。
+(en) Goats have horns. The goat bleats 'maa'. Goats live well in the mountains.
+
+===word: 닭===
+(ko) 닭이 '꼬꼬댁' 하고 울어요. 닭은 알을 낳아요. 닭고기는 맛있어요.
+(ja) 鶏が「コケコッコー」と鳴きます。鶏は卵を産みます。鶏肉は美味しいです。
+(en) The chicken crows 'cock-a-doodle-doo'. Chickens lay eggs. Chicken meat is delicious.
+
+===word: 오리===
+(ko) 오리가 헤엄쳐요. 오리는 부리가 넓적해요. 연못에 오리가 있어요.
+(ja) アヒルが泳ぎます。アヒルはくちばしが平べったいです。池にアヒルがいます。
+(en) The duck swims. Ducks have flat bills. There is a duck in the pond.
+
+===word: 거위===
+(ko) 거위가 '꽥꽥' 하고 울어요. 거위는 목이 길어요. 거위는 오리보다 커요.
+(ja) ガチョウが「ガーガー」と鳴きます。ガチョウは首が長いです。ガチョウはアヒルより大きいです。
+(en) The goose honks. Geese have long necks. Geese are bigger than ducks.
+
+===word: 토끼===
+(ko) 토끼는 귀가 길어요. 토끼는 당근을 좋아해요. 토끼가 깡충깡충 뛰어요.
+(ja) ウサギは耳が長いです。ウサギはニンジンが好きです。ウサギがピョンピョン跳ねます。
+(en) Rabbits have long ears. Rabbits like carrots. The rabbit hops.
+
+===word: 쥐===
+(ko) 쥐가 치즈를 먹어요. 쥐는 꼬리가 길어요. 고양이가 쥐를 잡아요.
+(ja) ネズミがチーズを食べます。ネズミはしっぽが長いです。猫がネズミを捕まえます。
+(en) The mouse eats cheese. Mice have long tails. The cat catches the mouse.
+
+===word: 뱀===
+(ko) 뱀은 다리가 없어요. 뱀이 '쉬익' 하고 소리를 내요. 뱀은 알을 낳아요.
+(ja) ヘビは足がありません。ヘビが「シュー」と音を立てます。ヘビは卵を産みます。
+(en) Snakes have no legs. The snake hisses. Snakes lay eggs.
+
+===word: 도마뱀===
+(ko) 도마뱀이 벽에 붙어 있어요. 도마뱀은 꼬리가 다시 자라요. 도마뱀은 곤충을 잡아먹어요.
+(ja) トカゲが壁に張り付いています。トカゲはしっぽが再生します。トカゲは昆虫を捕まえて食べます。
+(en) The lizard is clinging to the wall. Lizards can regrow their tails. Lizards catch and eat insects.
+
+===word: 거북이===
+(ko) 거북이는 천천히 움직여요. 거북이는 등딱지가 있어요. 거북이는 오래 살아요.
+(ja) カメはゆっくり動きます。カメは甲羅があります。カメは長生きします。
+(en) Turtles move slowly. Turtles have shells on their backs. Turtles live a long time.
+
+===word: 개구리===
+(ko) 개구리가 '개굴개굴' 울어요. 개구리는 물가에서 살아요. 개구리는 곤충을 먹어요.
+(ja) カエルが「ケロケロ」と鳴きます。カエルは水辺に住んでいます。カエルは昆虫を食べます。
+(en) The frog croaks. Frogs live near water. Frogs eat insects.
+
+===word: 새===
+(ko) 새가 하늘을 날아요. 새가 지저귀요. 나무 위에 새가 앉아 있어요.
+(ja) 鳥が空を飛びます。鳥がさえずります。木の上に鳥が止まっています。
+(en) The bird flies in the sky. The bird sings. A bird is sitting on the tree.
+
+===word: 참새===
+(ko) 참새가 '짹짹' 하고 울어요. 참새는 작고 귀여워요. 공원에 참새가 많아요.
+(ja) スズメが「チュンチュン」と鳴きます。スズメは小さくてかわいいです。公園にスズメがたくさんいます。
+(en) The sparrow chirps. Sparrows are small and cute. There are many sparrows in the park.
+
+===word: 비둘기===
+(ko) 비둘기가 길을 걸어요. 비둘기에게 빵을 줘요. 비둘기는 구구하고 울어요.
+(ja) ハトが道を歩きます。ハトにパンをあげます。ハトはクークーと鳴きます。
+(en) The pigeon walks on the street. I give bread to the pigeon. Pigeons coo.
+
+===word: 까치===
+(ko) 까치가 '까치까치' 하고 울어요. 까치는 깃털이 검은색과 흰색이에요. 한국에서 까치는 좋은 소식을 가져와요.
+(ja) カササギが「カチカチ」と鳴きます。カササギは羽が黒と白です。韓国ではカササギは良い知らせを運びます。
+(en) The magpie chatters. Magpies have black and white feathers. In Korea, magpies bring good news.
+
+===word: 갈매기===
+(ko) 갈매기가 바다 위를 날아요. 갈매기에게 과자를 줬어요. 해변에서 갈매기를 봤어요.
+(ja) カモメが海の上を飛びます。カモメにお菓子をあげました。海辺でカモメを見ました。
+(en) The seagull flies over the sea. I gave snacks to the seagull. I saw seagulls at the beach.
+
+===word: 독수리===
+(ko) 독수리가 하늘 높이 날아요. 독수리는 시력이 좋아요. 독수리는 고기를 먹어요.
+(ja) ワシが空高く飛びます。ワシは視力が良いです。ワシは肉を食べます。
+(en) The eagle flies high in the sky. Eagles have good eyesight. Eagles eat meat.
+
+===word: 매===
+(ko) 매가 사냥을 해요. 매는 발톱이 날카로워요. 매가 작은 새를 잡았어요.
+(ja) ハヤブサが狩りをします。ハヤブサは爪が鋭いです。ハヤブサが小鳥を捕まえました。
+(en) The falcon hunts. Falcons have sharp talons. The falcon caught a small bird.
+
+===word: 올빼미===
+(ko) 올빼미는 밤에 활동해요. 올빼미는 부엉이와 비슷해요. 올빼미는 '부엉부엉' 울어요.
+(ja) フクロウ（耳のある）は夜に活動します。フクロウ（耳のある）はフクロウ（耳のない）と似ています。フクロウは「ブオンブオン」と鳴きます。
+(en) The owl is active at night. The long-eared owl is similar to the owl. The owl hoots.
+
+===word: 부엉이===
+(ko) 부엉이는 밤에 사냥을 해요. 부엉이는 큰 눈을 가지고 있어요. 부엉이는 '부엉부엉' 하고 울어요.
+(ja) フクロウは夜に狩りをします。フクロウは大きな目をしています。フクロウは「ホーホー」と鳴きます。
+(en) The owl hunts at night. Owls have big eyes. The owl hoots 'hoo-hoo'.
+
+===word: 펭귄===
+(ko) 펭귄은 수영을 잘해요. 펭귄은 남극에 살아요. 펭귄은 귀여워요.
+(ja) ペンギンは泳ぎが上手です。ペンギンは南極に住んでいます。ペンギンはかわいいです。
+(en) Penguins swim well. Penguins live in Antarctica. Penguins are cute.
+
+===word: 타조===
+(ko) 타조는 키가 커요. 타조는 날지 못해요. 타조는 빨리 달려요.
+(ja) ダチョウは背が高いです。ダチョウは飛べません。ダチョウは速く走ります。
+(en) The ostrich is tall. Ostriches cannot fly. Ostriches run fast.
+
+===word: 공작===
+(ko) 공작이 꼬리를 펼쳤어요. 공작은 깃털이 아주 아름다워요. 동물원에서 공작을 봤어요.
+(ja) クジャクが尾を広げました。クジャクの羽はとても美しいです。動物園でクジャクを見ました。
+(en) The peacock spread its tail. Peacocks have very beautiful feathers. I saw a peacock at the zoo.
+
+===word: 앵무새===
+(ko) 앵무새는 말을 따라해요. 앵무새는 색깔이 화려해요. 앵무새가 '안녕' 하고 말해요.
+(ja) オウムは言葉をまねします。オウムは色が鮮やかです。オウムが「こんにちは」と言います。
+(en) Parrots mimic human speech. Parrots have bright colors. The parrot says 'hello'.
+
+===word: 벌===
+(ko) 벌이 꽃에 앉아 있어요. 벌은 꿀을 모아요. 벌에 쏘이면 아파요.
+(ja) 蜂が花にとまっています。蜂は蜜を集めます。蜂に刺されると痛いです。
+(en) The bee is sitting on a flower. Bees collect honey. It hurts when a bee stings.
+
+===word: 나비===
+(ko) 나비가 꽃 위를 날아요. 나비는 날개가 예뻐요. 봄에 나비를 많이 볼 수 있어요.
+(ja) 蝶が花の上を飛びます。蝶は羽がきれいです。春に蝶をたくさん見ることができます。
+(en) The butterfly flies over the flowers. Butterflies have pretty wings. You can see many butterflies in spring.
+
+===word: 잠자리===
+(ko) 잠자리가 날고 있어요. 잠자리는 여름에 많이 볼 수 있어요. 잠자리는 날개가 네 개예요.
+(ja) トンボが飛んでいます。トンボは夏にたくさん見られます。トンボは羽が四枚です。
+(en) The dragonfly is flying. You can see many dragonflies in summer. Dragonflies have four wings.
+
+===word: 무당벌레===
+(ko) 무당벌레는 빨간색이에요. 무당벌레는 진딧물을 먹어요. 무당벌레는 점이 있어요.
+(ja) テントウムシは赤色です。テントウムシはアブラムシを食べます。テントウムシは斑点があります。
+(en) Ladybugs are red. Ladybugs eat aphids. Ladybugs have spots.
+
+===word: 개미===
+(ko) 개미가 음식을 나르고 있어요. 개미는 힘이 세요. 개미는 집단으로 살아요.
+(ja) アリが食べ物を運んでいます。アリは力が強いです。アリは集団で暮らしています。
+(en) The ant is carrying food. Ants are strong. Ants live in colonies.
+
+===word: 거미===
+(ko) 거미가 거미줄을 쳐요. 거미는 다리가 여덟 개예요. 거미가 벌레를 잡아요.
+(ja) クモが巣を張ります。クモは足が八本です。クモは虫を捕まえます。
+(en) The spider spins a web. Spiders have eight legs. Spiders catch bugs.
+
+===word: 모기===
+(ko) 모기가 '윙윙' 하고 날아요. 모기에 물리면 가려워요. 여름에 모기가 많아요.
+(ja) 蚊が「ブーン」と飛びます。蚊に刺されるとかゆいです。夏に蚊が多いです。
+(en) The mosquito buzzes. Mosquito bites are itchy. There are many mosquitoes in summer.
+
+===word: 파리===
+(ko) 파리가 음식 위에 앉았어요. 파리는 더러운 곳에 잘 붙어요. 파리채로 파리를 잡았어요.
+(ja) ハエが食べ物の上にとまりました。ハエは汚い場所によく止まります。ハエたたきでハエを捕まえました。
+(en) The fly landed on the food. Flies often land on dirty places. I caught the fly with a fly swatter.
+
+===word: 바퀴벌레===
+(ko) 바퀴벌레는 해충이에요. 바퀴벌레는 어두운 곳을 좋아해요. 바퀴벌레는 빨리 움직여요.
+(ja) ゴキブリは害虫です。ゴキブリは暗い場所が好きです。ゴキブリは速く動きます。
+(en) Cockroaches are pests. Cockroaches like dark places. Cockroaches move fast.
+
+===word: 귀뚜라미===
+(ko) 귀뚜라미가 '귀뚤귀뚤' 울어요. 귀뚜라미는 가을에 울어요. 밤에 귀뚜라미 소리가 들려요.
+(ja) コオロギが「リーンリーン」と鳴きます。コオロギは秋に鳴きます。夜にコオロギの声が聞こえます。
+(en) The cricket chirps. Crickets chirp in autumn. I can hear crickets at night.
+
+===word: 메뚜기===
+(ko) 메뚜기가 풀숲에 있어요. 메뚜기는 멀리 뛸 수 있어요. 메뚜기는 벼를 먹어요.
+(ja) バッタが草むらにいます。バッタは遠くに跳べます。バッタは稲を食べます。
+(en) The grasshopper is in the grass. Grasshoppers can jump far. Grasshoppers eat rice plants.
+
+===word: 사마귀===
+(ko) 사마귀는 앞다리가 낫 같아요. 사마귀는 곤충을 잡아먹어요. 사마귀는 녹색이에요.
+(ja) カマキリは前足が鎌のようです。カマキリは昆虫を捕まえて食べます。カマキリは緑色です。
+(en) The mantis has front legs like sickles. The mantis catches and eats insects. The mantis is green.
+
+===word: 반딧불이===
+(ko) 반딧불이가 반짝여요. 반딧불이는 여름밤에 볼 수 있어요. 반딧불이가 빛을 내요.
+(ja) ホタルが光ります。ホタルは夏の夜に見られます。ホタルは光を出します。
+(en) The firefly glows. You can see fireflies on summer nights. Fireflies emit light.
+
+===word: 벌레===
+(ko) 벌레가 기어가요. 벌레를 보면 무서워요. 정원에 벌레가 있어요.
+(ja) 虫が這っています。虫を見ると怖いです。庭に虫がいます。
+(en) The bug is crawling. I'm scared of bugs. There are bugs in the garden.
+
+===word: 애완동물===
+(ko) 애완동물을 키우고 있어요. 애완동물은 가족 같아요. 저는 애완동물이 한 마리 있어요.
+(ja) ペットを飼っています。ペットは家族のようです。ペットが一匹います。
+(en) I have a pet. Pets are like family. I have one pet.
+
+===word: 사료===
+(ko) 개에게 사료를 줘요. 사료를 매일 줘야 해요. 이 사료는 영양이 좋아요.
+(ja) 犬に餌をあげます。毎日餌をあげなければなりません。この餌は栄養が良いです。
+(en) I give pet food to the dog. I need to give pet food every day. This pet food is nutritious.
+
+===word: 동물병원===
+(ko) 강아지가 아파서 동물병원에 가요. 동물병원은 시장 근처에 있어요. 동물병원에서 예방접종을 해요.
+(ja) 犬が痛いので動物病院に行きます。動物病院は市場の近くにあります。動物病院で予防接種をします。
+(en) I go to the vet because my puppy is sick. The vet hospital is near the market. They give vaccinations at the vet hospital.
+
+===word: 수의사===
+(ko) 수의사가 동물을 치료해요. 저는 수의사가 되고 싶어요. 수의사는 동물을 좋아해야 해요.
+(ja) 獣医が動物を治療します。私は獣医になりたいです。獣医は動物が好きでなければなりません。
+(en) The veterinarian treats animals. I want to become a veterinarian. Veterinarians must like animals.
+
+===word: 동물원===
+(ko) 주말에 동물원에 갔어요. 동물원에 사자와 호랑이가 있어요. 아이들이 동물원을 좋아해요.
+(ja) 週末に動物園に行きました。動物園にライオンとトラがいます。子供たちは動物園が好きです。
+(en) I went to the zoo on the weekend. There are lions and tigers at the zoo. Children like the zoo.
+
+===word: 수족관===
+(ko) 수족관에서 물고기를 봤어요. 수족관은 바다 생물을 전시해요. 아이들이 수족관에서 신나 했어요.
+(ja) 水族館で魚を見ました。水族館は海の生き物を展示しています。子供たちは水族館で楽しそうでした。
+(en) I saw fish at the aquarium. The aquarium displays sea creatures. The kids had fun at the aquarium.
+
+===word: 야생===
+(ko) 야생 동물을 조심하세요. 이곳은 야생 지역이에요. 야생에서 사는 동물도 있어요.
+(ja) 野生動物に気をつけてください。ここは野生地域です。野生で暮らす動物もいます。
+(en) Watch out for wild animals. This is a wild area. There are animals that live in the wild.
+
+===word: 보호===
+(ko) 동물을 보호해야 해요. 환경을 보호하는 것이 중요해요. 야생 동물 보호에 힘씁시다.
+(ja) 動物を守らなければなりません。環境を守ることが大切です。野生動物の保護に努めましょう。
+(en) We must protect animals. Protecting the environment is important. Let's work to protect wild animals.
+
+===word: 멸종위기===
+(ko) 이 동물은 멸종위기 종이에요. 멸종위기 동물을 보호해야 해요. 팬더는 멸종위기 동물이에요.
+(ja) この動物は絶滅危惧種です。絶滅危惧の動物を守らなければなりません。パンダは絶滅危惧動物です。
+(en) This animal is an endangered species. We must protect endangered animals. Pandas are endangered animals.
+
+===word: 멸종===
+(ko) 공룡은 이미 멸종했어요. 멸종된 동물이 많아요. 동물이 멸종하지 않게 조심해야 해요.
+(ja) 恐竜はもう絶滅しました。絶滅した動物がたくさんいます。動物が絶滅しないように気をつけなければなりません。
+(en) Dinosaurs are already extinct. There are many extinct animals. We must be careful so animals don't go extinct.
+
+===word: 천적===
+(ko) 뱀의 천적은 독수리예요. 무당벌레는 진딧물의 천적이에요. 자연에는 천적이 있어요.
+(ja) ヘビの天敵はワシです。テントウムシはアブラムシの天敵です。自然には天敵がいます。
+(en) The eagle is the natural enemy of snakes. Ladybugs are natural enemies of aphids. There are natural enemies in nature.
+
+===word: 먹이===
+(ko) 토끼에게 먹이를 줘요. 호랑이는 사냥해서 먹이를 잡아요. 이 먹이는 냄새가 좋아요.
+(ja) ウサギに餌をあげます。トラは狩りをして獲物を捕まえます。この餌は匂いが良いです。
+(en) I give food to the rabbit. Tigers hunt and catch prey. This food smells good.
+
+===word: 사냥===
+(ko) 사자가 사냥을 해요. 사냥은 위험해요. 맹수는 사냥을 잘해요.
+(ja) ライオンが狩りをします。狩りは危険です。猛獣は狩りが上手です。
+(en) The lion hunts. Hunting is dangerous. Predators are good at hunting.
+
+===word: 서식지===
+(ko) 이곳은 새의 서식지예요. 서식지를 보호해야 해요. 개구리는 물가가 서식지예요.
+(ja) ここは鳥の生息地です。生息地を守らなければなりません。カエルは水辺が生息地です。
+(en) This is a bird habitat. We must protect habitats. Frogs' habitat is near water.
+
+===word: 자연보호구역===
+(ko) 이곳은 자연보호구역이에요. 자연보호구역에서 동물을 볼 수 있어요. 자연보호구역에 들어가면 안 돼요.
+(ja) ここは自然保護区域です。自然保護区域で動物を見られます。自然保護区域に入ってはいけません。
+(en) This is a nature reserve. You can see animals in the nature reserve. You must not enter the nature reserve.
+
+===word: 국립공원===
+(ko) 국립공원에 갔어요. 국립공원은 자연이 아름다워요. 국립공원에서 산책했어요.
+(ja) 国立公園に行きました。国立公園は自然が美しいです。国立公園を散歩しました。
+(en) I went to a national park. The national park has beautiful nature. I took a walk in the national park.
+
+===word: 동물보호===
+(ko) 동물보호가 중요해요. 동물보호 단체가 있어요. 우리 모두 동물보호에 참여해요.
+(ja) 動物保護が大切です。動物保護団体があります。みんなで動物保護に参加しましょう。
+(en) Animal protection is important. There are animal protection organizations. Let's all participate in animal protection.
+
+===word: 유기동물===
+(ko) 유기동물을 입양할 수 있어요. 유기동물이 많아서 슬퍼요. 유기동물을 도와주세요.
+(ja) 捨てられた動物を養子にできます。捨てられた動物が多くて悲しいです。捨てられた動物を助けてください。
+(en) You can adopt abandoned animals. It's sad that there are many abandoned animals. Please help abandoned animals.
+
+===word: 입양===
+(ko) 유기동물을 입양했어요. 입양은 책임이 필요해요. 동물을 입양하고 싶어요.
+(ja) 捨てられた動物を引き取りました。養子には責任が必要です。動物を引き取りたいです。
+(en) I adopted an abandoned animal. Adoption requires responsibility. I want to adopt an animal.
+
+===word: 중성화===
+(ko) 고양이를 중성화했어요. 중성화 수술은 중요해요. 동물 병원에서 중성화를 해요.
+(ja) 猫を去勢しました。去勢手術は大切です。動物病院で去勢をします。
+(en) I had my cat neutered. Neutering surgery is important. They do neutering at the vet hospital.
+
+===word: 예방접종===
+(ko) 강아지에게 예방접종을 했어요. 예방접종은 건강을 지켜요. 1년에 한 번 예방접종을 해요.
+(ja) 子犬に予防接種をしました。予防接種は健康を守ります。一年に一度予防接種をします。
+(en) I got my puppy vaccinated. Vaccinations protect health. I get vaccinations once a year.
+
+===word: 건강검진===
+(ko) 애완동물도 건강검진이 필요해요. 1년에 한 번 건강검진을 받아요. 건강검진 결과가 좋아요.
+(ja) ペットも健康診断が必要です。一年に一度健康診断を受けます。健康診断の結果が良いです。
+(en) Pets also need health checkups. I get a health checkup once a year. The health checkup results are good.
+
+===word: 반려동물===
+(ko) 저는 반려동물이 있어요. 반려동물은 가족이에요. 반려동물과 함께 살아요.
+(ja) 私は伴侶動物がいます。伴侶動物は家族です。伴侶動物と一緒に暮らしています。
+(en) I have a companion animal. Companion animals are family. I live with my companion animal.
+
+===word: 강아지===
+(ko) 강아지가 귀여워요. 강아지와 공원에 가요. 강아지가 꼬리를 흔들어요.
+(ja) 子犬がかわいいです。子犬と公園に行きます。子犬がしっぽを振ります。
+(en) The puppy is cute. I go to the park with my puppy. The puppy wags its tail.
+
+===word: 송아지===
+(ko) 송아지가 태어났어요. 송아지가 엄마 소를 따라가요. 송아지는 깡충깡충 뛰어요.
+(ja) 子牛が生まれました。子牛がお母さんの牛について行きます。子牛はピョンピョン跳ねます。
+(en) A calf was born. The calf follows its mother cow. The calf hops around.
+
+===word: 망아지===
+(ko) 망아지가 목장에서 뛰어놀아요. 망아지는 다리가 길어요. 망아지가 엄마 옆에 있어요.
+(ja) 子馬が牧場ではしゃいでいます。子馬は足が長いです。子馬がお母さんのそばにいます。
+(en) The foal is playing in the pasture. The foal has long legs. The foal is next to its mother.
+
+===word: 병아리===
+(ko) 병아리가 '삐악삐악' 울어요. 병아리는 노란색이에요. 병아리가 알에서 나왔어요.
+(ja) ヒヨコが「ピヨピヨ」と鳴きます。ヒヨコは黄色です。ヒヨコが卵から出てきました。
+(en) The chick peeps. Chicks are yellow. The chick came out of its egg.
+
+===word: 새끼===
+(ko) 고양이가 새끼를 낳았어요. 새끼 동물은 정말 귀여워요. 새끼는 엄마의 보호가 필요해요.
+(ja) 猫が赤ちゃんを産みました。赤ちゃん動物は本当にかわいいです。赤ちゃんはお母さんの保護が必要です。
+(en) The cat gave birth to babies. Baby animals are really cute. Babies need their mother's protection.
+
+===word: 암컷===
+(ko) 이 강아지는 암컷이에요. 암컷은 새끼를 낳을 수 있어요. 암컷 고양이가 길에서 살아요.
+(ja) この子犬はメスです。メスは赤ちゃんを産めます。メスの猫が道で暮らしています。
+(en) This puppy is female. Females can give birth to babies. A female cat lives on the street.
+
+===word: 수컷===
+(ko) 이 강아지는 수컷이에요. 수컷은 암컷보다 커요. 수컷 사자는 갈기가 있어요.
+(ja) この子犬はオスです。オスはメスより大きいです。オスのライオンにはたてがみがあります。
+(en) This puppy is male. Males are bigger than females. Male lions have manes.
+
+===word: 어미===
+(ko) 어미 새가 새끼에게 먹이를 줘요. 어미 고양이가 새끼를 돌봐요. 어미는 새끼를 사랑해요.
+(ja) お母さん鳥が赤ちゃんに餌をあげます。お母さん猫が赤ちゃんの世話をします。お母さんは赤ちゃんを愛しています。
+(en) The mother bird feeds her babies. The mother cat takes care of her kittens. The mother loves her babies.
+
+===word: 아비===
+(ko) 아비 사자가 무리를 지켜요. 아비 새가 먹이를 가져와요. 아비는 가족을 보호해요.
+(ja) お父さんライオンが群れを守ります。お父さん鳥が餌を運びます。お父さんは家族を守ります。
+(en) The father lion protects the pride. The father bird brings food. The father protects the family.
+
+===word: 무리===
+(ko) 늑대는 무리 지어 사냥해요. 새들이 무리 지어 날아요. 코끼리는 무리에서 살아요.
+(ja) オオカミは群れで狩りをします。鳥たちが群れで飛びます。ゾウは群れで暮らします。
+(en) Wolves hunt in packs. Birds fly in flocks. Elephants live in herds.
+
+===word: 떼===
+(ko) 물고기가 떼를 지어 헤엄쳐요. 벌들이 떼로 날아다녀요. 메뚜기 떼가 밭에 왔어요.
+(ja) 魚が群れで泳ぎます。蜂たちが群れで飛び回っています。バッタの群れが畑に来ました。
+(en) Fish swim in schools. Bees are flying in swarms. A swarm of grasshoppers came to the field.
+
+===word: 우리===
+(ko) 토끼가 우리 안에 있어요. 우리를 청소해야 해요. 새가 우리에서 날고 있어요.
+(ja) ウサギが檻の中にいます。檻を掃除しなければなりません。鳥が檻の中で飛んでいます。
+(en) The rabbit is in the cage. I need to clean the cage. The bird is flying in its cage.
+
+===word: 둥지===
+(ko) 새가 둥지를 만들었어요. 둥지에 알이 있어요. 둥지는 나무 위에 있어요.
+(ja) 鳥が巣を作りました。巣に卵があります。巣は木の上にあります。
+(en) The bird built a nest. There are eggs in the nest. The nest is in the tree.
+
+===word: 굴===
+(ko) 토끼가 굴에 숨었어요. 여우가 굴에서 살아요. 굴은 어둡고 좁아요.
+(ja) ウサギが穴に隠れました。キツネは穴で暮らしています。穴は暗くて狭いです。
+(en) The rabbit hid in its burrow. Foxes live in dens. The burrow is dark and narrow.

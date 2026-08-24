@@ -1,0 +1,1031 @@
+===word: 운동===
+(exercise)
+(1-ko) 저는 매일 운동해요.
+(1-ja) 毎日運動します。
+(1-en) I exercise every day.
+(2-ko) 운동은 건강에 좋아요.
+(2-ja) 運動は健康にいいです。
+(2-en) Exercise is good for health.
+(3-ko) 같이 운동할래요?
+(3-ja) 一緒に運動しませんか？
+(3-en) Would you like to exercise together?
+
+===word: 스포츠===
+(sports)
+(1-ko) 저는 스포츠를 좋아해요.
+(1-ja) 私はスポーツが好きです。
+(1-en) I like sports.
+(2-ko) 어떤 스포츠를 잘해요?
+(2-ja) どんなスポーツが上手ですか？
+(2-en) What sport are you good at?
+(3-ko) 스포츠를 보는 것도 재미있어요.
+(3-ja) スポーツを見るのも楽しいです。
+(3-en) Watching sports is also fun.
+
+===word: 경기===
+(game; match)
+(1-ko) 오늘 축구 경기가 있어요.
+(1-ja) 今日サッカーの試合があります。
+(1-en) There's a soccer game today.
+(2-ko) 경기는 몇 시에 시작해요?
+(2-ja) 試合は何時に始まりますか？
+(2-en) What time does the game start?
+(3-ko) 그 경기가 정말 재미있었어요.
+(3-ja) その試合は本当に面白かったです。
+(3-en) That game was really fun.
+
+===word: 시합===
+(game; match)
+(1-ko) 내일 시합이 있어요.
+(1-ja) 明日試合があります。
+(1-en) There's a match tomorrow.
+(2-ko) 시합에서 이기고 싶어요.
+(2-ja) 試合に勝ちたいです。
+(2-en) I want to win the match.
+(3-ko) 시합이 곧 시작돼요.
+(3-ja) 試合がもうすぐ始まります。
+(3-en) The match starts soon.
+
+===word: 대회===
+(tournament; competition)
+(1-ko) 내일 대회가 있어요.
+(1-ja) 明日大会があります。
+(1-en) There's a competition tomorrow.
+(2-ko) 이번 대회에 참가해요.
+(2-ja) 今大会に参加します。
+(2-en) I'm participating in this competition.
+(3-ko) 대회에서 1등을 했어요.
+(3-ja) 大会で1位になりました。
+(3-en) I got first place in the competition.
+
+===word: 리그===
+(league)
+(1-ko) 이 팀은 1부 리그에 있어요.
+(1-ja) このチームは1部リーグにいます。
+(1-en) This team is in the first division league.
+(2-ko) 리그 경기가 매주 있어요.
+(2-ja) リーグ戦が毎週あります。
+(2-en) League games are every week.
+(3-ko) 리그 우승을 축하해요.
+(3-ja) リーグ優勝をお祝いします。
+(3-en) Congratulations on winning the league.
+
+===word: 토너먼트===
+(tournament)
+(1-ko) 토너먼트가 다음 달에 시작해요.
+(1-ja) トーナメントは来月始まります。
+(1-en) The tournament starts next month.
+(2-ko) 토너먼트에서 이기면 결승에 가요.
+(2-ja) トーナメントで勝てば決勝に行きます。
+(2-en) If you win the tournament, you go to the finals.
+(3-ko) 이번 토너먼트는 치열해요.
+(3-ja) 今回のトーナメントは熾烈です。
+(3-en) This tournament is fierce.
+
+===word: 결승===
+(finals)
+(1-ko) 결승에 진출했어요.
+(1-ja) 決勝に進出しました。
+(1-en) We advanced to the finals.
+(2-ko) 결승 경기가 일요일이에요.
+(2-ja) 決勝戦は日曜日です。
+(2-en) The final game is on Sunday.
+(3-ko) 결승에서 이기고 싶어요.
+(3-ja) 決勝で勝ちたいです。
+(3-en) I want to win in the finals.
+
+===word: 준결승===
+(semifinals)
+(1-ko) 준결승에서 이겼어요.
+(1-ja) 準決勝で勝ちました。
+(1-en) We won the semifinals.
+(2-ko) 준결승 경기는 내일이에요.
+(2-ja) 準決勝の試合は明日です。
+(2-en) The semifinal game is tomorrow.
+(3-ko) 준결승에서 열심히 할 거예요.
+(3-ja) 準決勝で頑張ります。
+(3-en) I will do my best in the semifinals.
+
+===word: 예선===
+(preliminaries)
+(1-ko) 예선이 다음 주에 있어요.
+(1-ja) 予選が来週あります。
+(1-en) The preliminaries are next week.
+(2-ko) 예선을 통과했어요.
+(2-ja) 予選を通過しました。
+(2-en) We passed the preliminaries.
+(3-ko) 예선 경기가 쉬웠어요.
+(3-ja) 予選の試合は簡単でした。
+(3-en) The preliminary game was easy.
+
+===word: 본선===
+(main tournament)
+(1-ko) 본선에 진출했어요.
+(1-ja) 本選に進出しました。
+(1-en) We advanced to the main tournament.
+(2-ko) 본선에서 만나요.
+(2-ja) 本選で会いましょう。
+(2-en) See you in the main tournament.
+(3-ko) 본선 경기가 더 어려워요.
+(3-ja) 本選の試合はもっと難しいです。
+(3-en) The main tournament games are harder.
+
+===word: 순위===
+(ranking)
+(1-ko) 순위가 어떻게 돼요?
+(1-ja) 順位はどうなっていますか？
+(1-en) How is the ranking?
+(2-ko) 1등은 순위가 가장 높아요.
+(2-ja) 1位は順位が一番高いです。
+(2-en) First place has the highest ranking.
+(3-ko) 우리 팀 순위가 올랐어요.
+(3-ja) 私たちのチームの順位が上がりました。
+(3-en) Our team's ranking went up.
+
+===word: 등수===
+(rank)
+(1-ko) 등수가 몇 등이에요?
+(1-ja) 順位は何位ですか？
+(1-en) What is your rank?
+(2-ko) 등수가 꽤 높아요.
+(2-ja) 順位がかなり高いです。
+(2-en) The rank is quite high.
+(3-ko) 등수가 떨어졌어요.
+(3-ja) 順位が下がりました。
+(3-en) The rank went down.
+
+===word: 우승===
+(championship)
+(1-ko) 우승을 축하해요!
+(1-ja) 優勝おめでとうございます！
+(1-en) Congratulations on the championship!
+(2-ko) 우승이 목표예요.
+(2-ja) 優勝が目標です。
+(2-en) The championship is the goal.
+(3-ko) 우승할 수 있을 거예요.
+(3-ja) 優勝できるでしょう。
+(3-en) We will be able to win the championship.
+
+===word: 준우승===
+(runner-up)
+(1-ko) 준우승을 했어요.
+(1-ja) 準優勝しました。
+(1-en) We got runner-up.
+(2-ko) 준우승도 좋은 결과예요.
+(2-ja) 準優勝もいい結果です。
+(2-en) Runner-up is also a good result.
+(3-ko) 다음에는 우승하고 싶어요.
+(3-ja) 次は優勝したいです。
+(3-en) Next time I want to win the championship.
+
+===word: 3위===
+(third place)
+(1-ko) 이번 대회에서 3위를 했어요.
+(1-ja) 今回の大会で3位になりました。
+(1-en) I got third place in this competition.
+(2-ko) 3위도 잘한 거예요.
+(2-ja) 3位もよくやったことです。
+(2-en) Third place is also well done.
+(3-ko) 3위까지 메달을 줘요.
+(3-ja) 3位までメダルをくれます。
+(3-en) They give medals up to third place.
+
+===word: 메달===
+(medal)
+(1-ko) 메달을 받았어요.
+(1-ja) メダルをもらいました。
+(1-en) I received a medal.
+(2-ko) 금메달이 가장 좋아요.
+(2-ja) 金メダルが一番いいです。
+(2-en) Gold medal is the best.
+(3-ko) 메달이 반짝거려요.
+(3-ja) メダルがキラキラ光っています。
+(3-en) The medal is shiny.
+
+===word: 금메달===
+(gold medal)
+(1-ko) 금메달을 땄어요.
+(1-ja) 金メダルを取りました。
+(1-en) I won a gold medal.
+(2-ko) 금메달이 꿈이에요.
+(2-ja) 金メダルが夢です。
+(2-en) A gold medal is my dream.
+(3-ko) 금메달을 목에 걸었어요.
+(3-ja) 金メダルを首にかけました。
+(3-en) I hung the gold medal around my neck.
+
+===word: 은메달===
+(silver medal)
+(1-ko) 은메달을 받았어요.
+(1-ja) 銀メダルをもらいました。
+(1-en) I received a silver medal.
+(2-ko) 은메달도 대단해요.
+(2-ja) 銀メダルもすごいです。
+(2-en) Silver medal is also amazing.
+(3-ko) 은메달은 2등에게 줘요.
+(3-ja) 銀メダルは2位にあげます。
+(3-en) They give silver medals to 2nd place.
+
+===word: 동메달===
+(bronze medal)
+(1-ko) 동메달을 땄어요.
+(1-ja) 銅メダルを取りました。
+(1-en) I won a bronze medal.
+(2-ko) 동메달도 소중해요.
+(2-ja) 銅メダルも大切です。
+(2-en) The bronze medal is also precious.
+(3-ko) 동메달을 보여 줬어요.
+(3-ja) 銅メダルを見せてくれました。
+(3-en) They showed me the bronze medal.
+
+===word: 트로피===
+(trophy)
+(1-ko) 트로피를 받았어요.
+(1-ja) トロフィーをもらいました。
+(1-en) I received a trophy.
+(2-ko) 트로피가 정말 커요.
+(2-ja) トロフィーが本当に大きいです。
+(2-en) The trophy is really big.
+(3-ko) 트로피를 어디에 둘 거예요?
+(3-ja) トロフィーをどこに置きますか？
+(3-en) Where will you put the trophy?
+
+===word: 상===
+(prize; award)
+(1-ko) 상을 받았어요.
+(1-ja) 賞をもらいました。
+(1-en) I received an award.
+(2-ko) 이 상은 의미가 커요.
+(2-ja) この賞は意味が大きいです。
+(2-en) This award means a lot.
+(3-ko) 상을 받으니까 기뻐요.
+(3-ja) 賞をもらって嬉しいです。
+(3-en) I'm happy to receive the award.
+
+===word: 상금===
+(prize money)
+(1-ko) 상금이 얼마예요?
+(1-ja) 賞金はいくらですか？
+(1-en) How much is the prize money?
+(2-ko) 상금을 저금할 거예요.
+(2-ja) 賞金を貯金します。
+(2-en) I will save the prize money.
+(3-ko) 상금이 많아서 놀랐어요.
+(3-ja) 賞金が多くて驚きました。
+(3-en) I was surprised because the prize money is a lot.
+
+===word: 시상식===
+(awards ceremony)
+(1-ko) 시상식이 금요일이에요.
+(1-ja) 授賞式は金曜日です。
+(1-en) The awards ceremony is on Friday.
+(2-ko) 시상식에 갈 거예요.
+(2-ja) 授賞式に行きます。
+(2-en) I will go to the awards ceremony.
+(3-ko) 시상식에서 이름을 불렀어요.
+(3-ja) 授賞式で名前を呼ばれました。
+(3-en) My name was called at the awards ceremony.
+
+===word: 개인전===
+(individual competition)
+(1-ko) 개인전에 출전해요.
+(1-ja) 個人戦に出場します。
+(1-en) I'm competing in the individual competition.
+(2-ko) 개인전보다 단체전이 더 재미있어요.
+(2-ja) 個人戦より団体戦の方が楽しいです。
+(2-en) Team competition is more fun than individual competition.
+(3-ko) 개인전에서 1등을 했어요.
+(3-ja) 個人戦で1位になりました。
+(3-en) I got first place in the individual competition.
+
+===word: 단체전===
+(team competition)
+(1-ko) 단체전이 내일이에요.
+(1-ja) 団体戦は明日です。
+(1-en) The team competition is tomorrow.
+(2-ko) 단체전은 팀워크가 중요해요.
+(2-ja) 団体戦はチームワークが大事です。
+(2-en) Teamwork is important in team competition.
+(3-ko) 단체전에서 이겼어요.
+(3-ja) 団体戦で勝ちました。
+(3-en) We won the team competition.
+
+===word: 혼성===
+(mixed)
+(1-ko) 이 대회는 혼성 경기예요.
+(1-ja) この大会は混合競技です。
+(1-en) This competition is a mixed event.
+(2-ko) 혼성 팀이에요.
+(2-ja) 混合チームです。
+(2-en) It's a mixed team.
+(3-ko) 혼성 복식 경기를 해요.
+(3-ja) 混合ダブルスの試合をします。
+(3-en) They play mixed doubles.
+
+===word: 남자부===
+(men's division)
+(1-ko) 남자부 경기가 먼저예요.
+(1-ja) 男子部の試合が先です。
+(1-en) The men's division game is first.
+(2-ko) 남자부 선수들이 준비해요.
+(2-ja) 男子部の選手たちが準備します。
+(2-en) The men's division players are preparing.
+(3-ko) 남자부에서 우승했어요.
+(3-ja) 男子部で優勝しました。
+(3-en) He won the championship in the men's division.
+
+===word: 여자부===
+(women's division)
+(1-ko) 여자부 경기가 지금 시작해요.
+(1-ja) 女子部の試合が今始まります。
+(1-en) The women's division game starts now.
+(2-ko) 여자부 선수들이 강해요.
+(2-ja) 女子部の選手たちが強いです。
+(2-en) The women's division players are strong.
+(3-ko) 여자부에서 1등을 했어요.
+(3-ja) 女子部で1位になりました。
+(3-en) She got first place in the women's division.
+
+===word: 청소년부===
+(youth division)
+(1-ko) 청소년부 대회가 있어요.
+(1-ja) 青少年部の大会があります。
+(1-en) There's a youth division competition.
+(2-ko) 청소년부 선수들이 많아요.
+(2-ja) 青少年部の選手たちが多いです。
+(2-en) There are many youth division players.
+(3-ko) 청소년부에서 뛰고 있어요.
+(3-ja) 青少年部でプレーしています。
+(3-en) They are playing in the youth division.
+
+===word: 선수===
+(player; athlete)
+(1-ko) 저는 선수예요.
+(1-ja) 私は選手です。
+(1-en) I am an athlete.
+(2-ko) 그 선수가 정말 빠르네요.
+(2-ja) あの選手は本当に速いですね。
+(2-en) That player is really fast.
+(3-ko) 선수들이 경기장에 들어와요.
+(3-ja) 選手たちが競技場に入ってきます。
+(3-en) The players are entering the stadium.
+
+===word: 코치===
+(coach)
+(1-ko) 코치님이 가르쳐 줘요.
+(1-ja) コーチが教えてくれます。
+(1-en) The coach teaches me.
+(2-ko) 코치님은 엄격해요.
+(2-ja) コーチは厳しいです。
+(2-en) The coach is strict.
+(3-ko) 코치님이 될래요?
+(3-ja) コーチになりたいですか？
+(3-en) Do you want to become a coach?
+
+===word: 감독===
+(manager; director)
+(1-ko) 감독님이 지휘해요.
+(1-ja) 監督が指揮します。
+(1-en) The manager directs.
+(2-ko) 새 감독님이 오셨어요.
+(2-ja) 新しい監督が来ました。
+(2-en) A new manager has arrived.
+(3-ko) 감독님은 경험이 많아요.
+(3-ja) 監督は経験が豊富です。
+(3-en) The manager has a lot of experience.
+
+===word: 심판===
+(referee; judge)
+(1-ko) 심판이 휘슬을 불었어요.
+(1-ja) 審判が笛を吹きました。
+(1-en) The referee blew the whistle.
+(2-ko) 심판의 판정이 중요해요.
+(2-ja) 審判の判定が大事です。
+(2-en) The referee's decision is important.
+(3-ko) 심판에게 항의하면 안 돼요.
+(3-ja) 審判に抗議してはいけません。
+(3-en) You must not argue with the referee.
+
+===word: 주심===
+(head referee)
+(1-ko) 주심이 경기를 시작했어요.
+(1-ja) 主審が試合を始めました。
+(1-en) The head referee started the game.
+(2-ko) 주심의 결정을 따라야 해요.
+(2-ja) 主審の決定に従わなければなりません。
+(2-en) We must follow the head referee's decision.
+(3-ko) 주심이 카드를 보여 줬어요.
+(3-ja) 主審がカードを見せました。
+(3-en) The head referee showed a card.
+
+===word: 부심===
+(assistant referee)
+(1-ko) 부심이 깃발을 들었어요.
+(1-ja) 副審が旗を上げました。
+(1-en) The assistant referee raised the flag.
+(2-ko) 부심이 오프사이드를 선언했어요.
+(2-ja) 副審がオフサイドを宣告しました。
+(2-en) The assistant referee called offside.
+(3-ko) 부심은 주심을 도와요.
+(3-ja) 副審は主審を助けます。
+(3-en) The assistant referee helps the head referee.
+
+===word: 관중===
+(audience; spectators)
+(1-ko) 관중이 많아요.
+(1-ja) 観客が多いです。
+(1-en) There are many spectators.
+(2-ko) 관중들이 응원해요.
+(2-ja) 観客たちが応援します。
+(2-en) The spectators are cheering.
+(3-ko) 관중의 함성이 커요.
+(3-ja) 観客の歓声が大きいです。
+(3-en) The cheers from the audience are loud.
+
+===word: 응원===
+(cheering)
+(1-ko) 응원을 열심히 했어요.
+(1-ja) 応援を一生懸命しました。
+(1-en) I cheered hard.
+(2-ko) 응원 소리가 크네요.
+(2-ja) 応援の声が大きいですね。
+(2-en) The cheering sounds are loud.
+(3-ko) 친구를 응원해요.
+(3-ja) 友達を応援します。
+(3-en) I cheer for my friend.
+
+===word: 응원단===
+(cheerleading squad)
+(1-ko) 응원단이 춤을 춰요.
+(1-ja) 応援団が踊ります。
+(1-en) The cheerleading squad dances.
+(2-ko) 응원단이 분위기를 띄워요.
+(2-ja) 応援団が雰囲気を盛り上げます。
+(2-en) The cheerleading squad liven up the atmosphere.
+(3-ko) 응원단에 들어가고 싶어요.
+(3-ja) 応援団に入りたいです。
+(3-en) I want to join the cheerleading squad.
+
+===word: 팬===
+(fan)
+(1-ko) 저는 한국 축구 팬이에요.
+(1-ja) 私は韓国サッカーファンです。
+(1-en) I'm a Korean soccer fan.
+(2-ko) 팬들이 많아서 놀랐어요.
+(2-ja) ファンが多くて驚きました。
+(2-en) I was surprised there are many fans.
+(3-ko) 그 선수의 팬이에요.
+(3-ja) あの選手のファンです。
+(3-en) I'm a fan of that player.
+
+===word: 구단===
+(team; club)
+(1-ko) 이 구단은 역사가 길어요.
+(1-ja) この球団は歴史が長いです。
+(1-en) This club has a long history.
+(2-ko) 구단이 새 선수를 찾고 있어요.
+(2-ja) 球団が新しい選手を探しています。
+(2-en) The club is looking for new players.
+(3-ko) 구단 이름이 뭐예요?
+(3-ja) 球団の名前は何ですか？
+(3-en) What's the name of the team?
+
+===word: 팀===
+(team)
+(1-ko) 우리 팀이 이겼어요.
+(1-ja) 私たちのチームが勝ちました。
+(1-en) Our team won.
+(2-ko) 팀원들과 같이 운동해요.
+(2-ja) チームメイトと一緒に運動します。
+(2-en) I exercise with my teammates.
+(3-ko) 팀 이름이 재미있어요.
+(3-ja) チーム名が面白いです。
+(3-en) The team name is interesting.
+
+===word: 연습===
+(practice)
+(1-ko) 매일 연습해요.
+(1-ja) 毎日練習します。
+(1-en) I practice every day.
+(2-ko) 연습이 중요해요.
+(2-ja) 練習が大事です。
+(2-en) Practice is important.
+(3-ko) 내일 연습이 있어요.
+(3-ja) 明日練習があります。
+(3-en) There's practice tomorrow.
+
+===word: 훈련===
+(training)
+(1-ko) 훈련이 아주 힘들어요.
+(1-ja) 訓練がとても大変です。
+(1-en) Training is very hard.
+(2-ko) 훈련을 열심히 했어요.
+(2-ja) 訓練を一生懸命しました。
+(2-en) I trained hard.
+(3-ko) 훈련이 끝나고 쉬었어요.
+(3-ja) 訓練が終わって休みました。
+(3-en) I rested after training.
+
+===word: 준비운동===
+(warm-up exercise)
+(1-ko) 먼저 준비운동을 해요.
+(1-ja) まず準備運動をします。
+(1-en) First, I do warm-up exercises.
+(2-ko) 준비운동은 부상을 막아줘요.
+(2-ja) 準備運動はケガを防ぎます。
+(2-en) Warm-up exercises prevent injuries.
+(3-ko) 준비운동을 10분 해요.
+(3-ja) 準備運動を10分します。
+(3-en) I do warm-up exercises for 10 minutes.
+
+===word: 스트레칭===
+(stretching)
+(1-ko) 운동 전에 스트레칭해요.
+(1-ja) 運動前にストレッチします。
+(1-en) I stretch before exercising.
+(2-ko) 스트레칭은 몸을 풀어 줘요.
+(2-ja) ストレッチは体をほぐします。
+(2-en) Stretching loosens up the body.
+(3-ko) 다리를 스트레칭해요.
+(3-ja) 脚をストレッチします。
+(3-en) I stretch my legs.
+
+===word: 근력운동===
+(strength training)
+(1-ko) 근력운동을 하고 있어요.
+(1-ja) 筋力運動をしています。
+(1-en) I'm doing strength training.
+(2-ko) 근력운동은 근육을 키워요.
+(2-ja) 筋力運動は筋肉を育てます。
+(2-en) Strength training builds muscle.
+(3-ko) 주 3회 근력운동을 해요.
+(3-ja) 週3回筋力運動をします。
+(3-en) I do strength training 3 times a week.
+
+===word: 유산소운동===
+(aerobic exercise)
+(1-ko) 유산소운동은 심장에 좋아요.
+(1-ja) 有酸素運動は心臓にいいです。
+(1-en) Aerobic exercise is good for the heart.
+(2-ko) 수영은 유산소운동이에요.
+(2-ja) 水泳は有酸素運動です。
+(2-en) Swimming is aerobic exercise.
+(3-ko) 유산소운동을 30분 했어요.
+(3-ja) 有酸素運動を30分しました。
+(3-en) I did aerobic exercise for 30 minutes.
+
+===word: 무산소운동===
+(anaerobic exercise)
+(1-ko) 무산소운동은 짧고 강해요.
+(1-ja) 無酸素運動は短くて強いです。
+(1-en) Anaerobic exercise is short and intense.
+(2-ko) 역도는 무산소운동이에요.
+(2-ja) 重量挙げは無酸素運動です。
+(2-en) Weightlifting is anaerobic exercise.
+(3-ko) 무산소운동으로 근육을 키워요.
+(3-ja) 無酸素運動で筋肉を育てます。
+(3-en) I build muscle with anaerobic exercise.
+
+===word: 웨이트트레이닝===
+(weight training)
+(1-ko) 웨이트트레이닝을 시작했어요.
+(1-ja) ウェイトトレーニングを始めました。
+(1-en) I started weight training.
+(2-ko) 웨이트트레이닝은 힘들지만 좋아요.
+(2-ja) ウェイトトレーニングは大変ですが楽しいです。
+(2-en) Weight training is hard but good.
+(3-ko) 웨이트트레이닝은 헬스장에서 해요.
+(3-ja) ウェイトトレーニングはジムでします。
+(3-en) Weight training is done at the gym.
+
+===word: 러닝머신===
+(treadmill)
+(1-ko) 러닝머신 위에서 걸어요.
+(1-ja) ランニングマシンの上を歩きます。
+(1-en) I walk on the treadmill.
+(2-ko) 러닝머신으로 5킬로를 달렸어요.
+(2-ja) ランニングマシンで5キロ走りました。
+(2-en) I ran 5km on the treadmill.
+(3-ko) 러닝머신 속도를 높였어요.
+(3-ja) ランニングマシンのスピードを上げました。
+(3-en) I increased the treadmill speed.
+
+===word: 자전거===
+(bicycle)
+(1-ko) 자전거를 타요.
+(1-ja) 自転車に乗ります。
+(1-en) I ride a bicycle.
+(2-ko) 공원에서 자전거를 타요.
+(2-ja) 公園で自転車に乗ります。
+(2-en) I ride a bike in the park.
+(3-ko) 자전거가 있어요?
+(3-ja) 自転車がありますか？
+(3-en) Do you have a bicycle?
+
+===word: 수영===
+(swimming)
+(1-ko) 수영할 수 있어요?
+(1-ja) 泳げますか？
+(1-en) Can you swim?
+(2-ko) 주말에 수영하러 가요.
+(2-ja) 週末に泳ぎに行きます。
+(2-en) I go swimming on the weekend.
+(3-ko) 수영은 전신 운동이에요.
+(3-ja) 水泳は全身運動です。
+(3-en) Swimming is a full-body exercise.
+
+===word: 등산===
+(mountain climbing)
+(1-ko) 주말에 등산 가요.
+(1-ja) 週末に登山に行きます。
+(1-en) I go mountain climbing on the weekend.
+(2-ko) 등산은 힘들지만 재미있어요.
+(2-ja) 登山は大変ですが楽しいです。
+(2-en) Mountain climbing is hard but fun.
+(3-ko) 등산할 때 물을 가져가요.
+(3-ja) 登山の時に水を持って行きます。
+(3-en) I take water when mountain climbing.
+
+===word: 캠핑===
+(camping)
+(1-ko) 캠핑을 좋아해요.
+(1-ja) キャンプが好きです。
+(1-en) I like camping.
+(2-ko) 여름에 캠핑 가요.
+(2-ja) 夏にキャンプに行きます。
+(2-en) I go camping in summer.
+(3-ko) 캠핑장이 어디예요?
+(3-ja) キャンプ場はどこですか？
+(3-en) Where is the campsite?
+
+===word: 낚시===
+(fishing)
+(1-ko) 아버지와 낚시해요.
+(1-ja) 父と釣りをします。
+(1-en) I go fishing with my dad.
+(2-ko) 낚시는 기다리는 운동이에요.
+(2-ja) 釣りは待つ運動です。
+(2-en) Fishing is an exercise of waiting.
+(3-ko) 호수에서 낚시해요.
+(3-ja) 湖で釣りをします。
+(3-en) I fish at the lake.
+
+===word: 사냥===
+(hunting)
+(1-ko) 사냥을 해 본 적이 있어요?
+(1-ja) 狩りをしたことがありますか？
+(1-en) Have you ever been hunting?
+(2-ko) 사냥은 위험할 수 있어요.
+(2-ja) 狩りは危険なことがあります。
+(2-en) Hunting can be dangerous.
+(3-ko) 사냥이 금지된 곳도 있어요.
+(3-ja) 狩りが禁止されている場所もあります。
+(3-en) There are places where hunting is prohibited.
+
+===word: 하이킹===
+(hiking)
+(1-ko) 하이킹을 갈 거예요.
+(1-ja) ハイキングに行きます。
+(1-en) I will go hiking.
+(2-ko) 하이킹 코스가 아름다워요.
+(2-ja) ハイキングコースが美しいです。
+(2-en) The hiking trail is beautiful.
+(3-ko) 하이킹할 때 좋은 신발이 필요해요.
+(3-ja) ハイキングの時はいい靴が必要です。
+(3-en) Good shoes are needed when hiking.
+
+===word: 요가===
+(yoga)
+(1-ko) 요가를 배우고 있어요.
+(1-ja) ヨガを習っています。
+(1-en) I'm learning yoga.
+(2-ko) 요가는 몸과 마음을 편하게 해요.
+(2-ja) ヨガは体と心をリラックスさせます。
+(2-en) Yoga relaxes the body and mind.
+(3-ko) 아침에 요가해요.
+(3-ja) 朝にヨガをします。
+(3-en) I do yoga in the morning.
+
+===word: 필라테스===
+(Pilates)
+(1-ko) 필라테스는 코어 운동이에요.
+(1-ja) ピラティスは体幹トレーニングです。
+(1-en) Pilates is a core exercise.
+(2-ko) 필라테스 학원에 다녀요.
+(2-ja) ピラティス教室に通っています。
+(2-en) I go to a Pilates studio.
+(3-ko) 필라테스가 자세를 좋게 해요.
+(3-ja) ピラティスが姿勢を良くします。
+(3-en) Pilates improves posture.
+
+===word: 태권도===
+(Taekwondo)
+(1-ko) 저는 태권도를 배워요.
+(1-ja) 私はテコンドーを習います。
+(1-en) I learn Taekwondo.
+(2-ko) 태권도는 한국 전통 무예예요.
+(2-ja) テコンドーは韓国の伝統武芸です。
+(2-en) Taekwondo is a Korean traditional martial art.
+(3-ko) 태권도장에 다녀요.
+(3-ja) テコンドー道場に通っています。
+(3-en) I go to a Taekwondo dojo.
+
+===word: 유도===
+(Judo)
+(1-ko) 유도를 배우고 있어요.
+(1-ja) 柔道を習っています。
+(1-en) I'm learning Judo.
+(2-ko) 유도는 던지는 기술이 많아요.
+(2-ja) 柔道は投げ技が多いです。
+(2-en) Judo has many throwing techniques.
+(3-ko) 유도 선수는 체력이 좋아요.
+(3-ja) 柔道選手は体力がいいです。
+(3-en) Judo players have good physical strength.
+
+===word: 검도===
+(Kendo)
+(1-ko) 검도는 죽도를 사용해요.
+(1-ja) 剣道は竹刀を使います。
+(1-en) Kendo uses bamboo swords.
+(2-ko) 검도를 배우고 싶어요.
+(2-ja) 剣道を習いたいです。
+(2-en) I want to learn Kendo.
+(3-ko) 검도 연습이 매일 있어요.
+(3-ja) 剣道の練習が毎日あります。
+(3-en) Kendo practice is every day.
+
+===word: 복싱===
+(boxing)
+(1-ko) 복싱을 시작했어요.
+(1-ja) ボクシングを始めました。
+(1-en) I started boxing.
+(2-ko) 복싱은 팔 운동이 돼요.
+(2-ja) ボクシングは腕の運動になります。
+(2-en) Boxing is good arm exercise.
+(3-ko) 복싱 체육관이 어디예요?
+(3-ja) ボクシングジムはどこですか？
+(3-en) Where is the boxing gym?
+
+===word: 펜싱===
+(fencing)
+(1-ko) 펜싱은 마스크를 써요.
+(1-ja) フェンシングはマスクを着けます。
+(1-en) Fencing uses a mask.
+(2-ko) 펜싱 선수의 움직임이 빨라요.
+(2-ja) フェンシング選手の動きが速いです。
+(2-en) The fencer's movements are fast.
+(3-ko) 펜싱을 배워 보고 싶어요.
+(3-ja) フェンシングを習ってみたいです。
+(3-en) I want to try learning fencing.
+
+===word: 레슬링===
+(wrestling)
+(1-ko) 레슬링은 힘든 운동이에요.
+(1-ja) レスリングは大変な運動です。
+(1-en) Wrestling is a tough sport.
+(2-ko) 레슬링 선수들은 강해요.
+(2-ja) レスリング選手は強いです。
+(2-en) Wrestlers are strong.
+(3-ko) 레슬링 경기를 봤어요.
+(3-ja) レスリングの試合を見ました。
+(3-en) I watched a wrestling match.
+
+===word: 역도===
+(weightlifting)
+(1-ko) 역도 선수는 힘이 세요.
+(1-ja) 重量挙げ選手は力が強いです。
+(1-en) Weightlifters are strong.
+(2-ko) 역도를 하면 근육이 생겨요.
+(2-ja) 重量挙げをすると筋肉がつきます。
+(2-en) Doing weightlifting builds muscle.
+(3-ko) 역도 경기를 보고 싶어요.
+(3-ja) 重量挙げの試合を見たいです。
+(3-en) I want to watch a weightlifting competition.
+
+===word: 사격===
+(shooting)
+(1-ko) 사격은 집중력이 필요해요.
+(1-ja) 射撃は集中力が必要です。
+(1-en) Shooting requires concentration.
+(2-ko) 사격장에 가 봤어요.
+(2-ja) 射撃場に行ったことがあります。
+(2-en) I've been to a shooting range.
+(3-ko) 사격이 어려워요?
+(3-ja) 射撃は難しいですか？
+(3-en) Is shooting difficult?
+
+===word: 양궁===
+(archery)
+(1-ko) 양궁을 배우고 싶어요.
+(1-ja) アーチェリーを習いたいです。
+(1-en) I want to learn archery.
+(2-ko) 양궁 선수가 10점을 맞췄어요.
+(2-ja) アーチェリー選手が10点を当てました。
+(2-en) The archer hit 10 points.
+(3-ko) 양궁은 활을 사용해요.
+(3-ja) アーチェリーは弓を使います。
+(3-en) Archery uses a bow.
+
+===word: 승마===
+(horseback riding)
+(1-ko) 승마는 말을 타는 운동이에요.
+(1-ja) 乗馬は馬に乗る運動です。
+(1-en) Horseback riding is an exercise of riding horses.
+(2-ko) 승마장에 가요.
+(2-ja) 乗馬場に行きます。
+(2-en) I go to the riding stable.
+(3-ko) 승마가 무서워요?
+(3-ja) 乗馬が怖いですか？
+(3-en) Is horseback riding scary?
+
+===word: 육상===
+(track and field)
+(1-ko) 육상 선수가 되고 싶어요.
+(1-ja) 陸上選手になりたいです。
+(1-en) I want to become a track and field athlete.
+(2-ko) 육상 대회가 있어요.
+(2-ja) 陸上大会があります。
+(2-en) There's a track and field competition.
+(3-ko) 육상은 달리기와 던지기가 있어요.
+(3-ja) 陸上は走ることと投げることがあります。
+(3-en) Track and field includes running and throwing.
+
+===word: 마라톤===
+(marathon)
+(1-ko) 마라톤에 참가했어요.
+(1-ja) マラソンに参加しました。
+(1-en) I participated in a marathon.
+(2-ko) 마라톤은 42.195킬로예요.
+(2-ja) マラソンは42.195キロです。
+(2-en) A marathon is 42.195 km.
+(3-ko) 마라톤 풀코스를 완주했어요.
+(3-ja) マラソンフルコースを完走しました。
+(3-en) I completed a full marathon course.
+
+===word: 단거리===
+(short distance)
+(1-ko) 단거리 달리기가 제일 좋아요.
+(1-ja) 短距離走が一番好きです。
+(1-en) I like sprinting the most.
+(2-ko) 단거리 선수는 출발이 중요해요.
+(2-ja) 短距離選手はスタートが大事です。
+(2-en) The start is important for sprinters.
+(3-ko) 100미터는 단거리예요.
+(3-ja) 100メートルは短距離です。
+(3-en) 100 meters is a short distance.
+
+===word: 장거리===
+(long distance)
+(1-ko) 장거리 달리기는 힘들어요.
+(1-ja) 長距離走は大変です。
+(1-en) Long distance running is hard.
+(2-ko) 장거리 선수는 인내심이 필요해요.
+(2-ja) 長距離選手は忍耐力が必要です。
+(2-en) Long distance runners need endurance.
+(3-ko) 장거리 달리기를 연습해요.
+(3-ja) 長距離走を練習します。
+(3-en) I practice long distance running.
+
+===word: 높이뛰기===
+(high jump)
+(1-ko) 높이뛰기를 배우고 있어요.
+(1-ja) 走高跳を習っています。
+(1-en) I'm learning the high jump.
+(2-ko) 높이뛰기 선수가 바를 넘었어요.
+(2-ja) 走高跳の選手がバーを越えました。
+(2-en) The high jumper cleared the bar.
+(3-ko) 높이뛰기 기록이 2미터예요.
+(3-ja) 走高跳の記録は2メートルです。
+(3-en) The high jump record is 2 meters.
+
+===word: 멀리뛰기===
+(long jump)
+(1-ko) 멀리뛰기는 얼마나 뛰어요?
+(1-ja) 走幅跳はどのくらい跳びますか？
+(1-en) How far do you jump in the long jump?
+(2-ko) 멀리뛰기 선수가 뛰었어요.
+(2-ja) 走幅跳の選手が跳びました。
+(2-en) The long jumper jumped.
+(3-ko) 멀리뛰기에서 8미터가 기록이에요.
+(3-ja) 走幅跳で8メートルが記録です。
+(3-en) 8 meters is the record in the long jump.
+
+===word: 포환던지기===
+(shot put)
+(1-ko) 포환던지기는 무거운 공을 던져요.
+(1-ja) 砲丸投げは重い球を投げます。
+(1-en) In shot put, you throw a heavy ball.
+(2-ko) 포환던지기 선수의 힘이 대단해요.
+(2-ja) 砲丸投げの選手の力がすごいです。
+(2-en) The shot putter's strength is amazing.
+(3-ko) 포환던지기를 본 적이 있어요?
+(3-ja) 砲丸投げを見たことがありますか？
+(3-en) Have you ever seen shot put?
+
+===word: 원반던지기===
+(discus throw)
+(1-ko) 원반던지기를 봤어요.
+(1-ja) 円盤投げを見ました。
+(1-en) I saw the discus throw.
+(2-ko) 원반던지기는 팔 힘이 중요해요.
+(2-ja) 円盤投げは腕の力が大事です。
+(2-en) Arm strength is important in discus throw.
+(3-ko) 원반이 멀리 날아갔어요.
+(3-ja) 円盤が遠くに飛びました。
+(3-en) The discus flew far.
+
+===word: 창던지기===
+(javelin throw)
+(1-ko) 창던지기는 창을 던져요.
+(1-ja) やり投げは槍を投げます。
+(1-en) In javelin throw, you throw a javelin.
+(2-ko) 창던지기 선수가 창을 던졌어요.
+(2-ja) やり投げの選手が槍を投げました。
+(2-en) The javelin thrower threw the javelin.
+(3-ko) 창던지기 기록이 90미터예요.
+(3-ja) やり投げの記録は90メートルです。
+(3-en) The javelin throw record is 90 meters.
+
+===word: 다이빙===
+(diving)
+(1-ko) 다이빙 선수가 뛰어내렸어요.
+(1-ja) ダイビング選手が飛び込みました。
+(1-en) The diver jumped in.
+(2-ko) 다이빙은 물에 들어가는 운동이에요.
+(2-ja) ダイビングは水に入る運動です。
+(2-en) Diving is a sport of entering the water.
+(3-ko) 다이빙이 위험해 보여요.
+(3-ja) ダイビングは危なく見えます。
+(3-en) Diving looks dangerous.
+
+===word: 싱크로나이즈===
+(synchronized swimming)
+(1-ko) 싱크로나이즈를 본 적이 있어요?
+(1-ja) シンクロナイズドスイミングを見たことがありますか？
+(1-en) Have you ever seen synchronized swimming?
+(2-ko) 싱크로나이즈는 우아해요.
+(2-ja) シンクロナイズドスイミングは優雅です。
+(2-en) Synchronized swimming is elegant.
+(3-ko) 싱크로나이즈 선수들이 함께 움직여요.
+(3-ja) シンクロナイズドスイミングの選手たちが一緒に動きます。
+(3-en) The synchronized swimmers move together.
+
+===word: 수구===
+(water polo)
+(1-ko) 수구는 물에서 하는 운동이에요.
+(1-ja) 水球は水の中でする運動です。
+(1-en) Water polo is a sport played in water.
+(2-ko) 수구 선수들이 공을 패스해요.
+(2-ja) 水球の選手たちがボールをパスします。
+(2-en) The water polo players pass the ball.
+(3-ko) 수구는 힘든 운동이에요.
+(3-ja) 水球は大変な運動です。
+(3-en) Water polo is a tough sport.
+
+===word: 조정===
+(rowing)
+(1-ko) 조정은 보트를 저어요.
+(1-ja) ボート漕ぎはボートを漕ぎます。
+(1-en) Rowing is paddling a boat.
+(2-ko) 조정 팀이 같이 연습해요.
+(2-ja) ボート漕ぎチームが一緒に練習します。
+(2-en) The rowing team practices together.
+(3-ko) 조정 경기가 호수에서 있어요.
+(3-ja) ボート漕ぎの試合が湖であります。
+(3-en) The rowing competition is on the lake.
+
+===word: 카누===
+(canoe)
+(1-ko) 카누를 타 봤어요.
+(1-ja) カヌーに乗ったことがあります。
+(1-en) I've ridden a canoe.
+(2-ko) 카누는 강에서 해요.
+(2-ja) カヌーは川でします。
+(2-en) Canoeing is done on rivers.
+(3-ko) 카누를 같이 탈래요?
+(3-ja) カヌーに一緒に乗りませんか？
+(3-en) Would you like to ride a canoe together?
+
+===word: 요트===
+(yacht)
+(1-ko) 요트를 타고 바다에 나갔어요.
+(1-ja) ヨットに乗って海に出ました。
+(1-en) I went out to sea on a yacht.
+(2-ko) 요트 경기가 있어요.
+(2-ja) ヨットの試合があります。
+(2-en) There's a yacht race.
+(3-ko) 요트는 바람의 힘으로 움직여요.
+(3-ja) ヨットは風の力で動きます。
+(3-en) Yachts move by the power of the wind.
+
+===word: 보트===
+(boat)
+(1-ko) 보트를 타요.
+(1-ja) ボートに乗ります。
+(1-en) I ride a boat.
+(2-ko) 보트가 천천히 움직여요.
+(2-ja) ボートがゆっくり動きます。
+(2-en) The boat moves slowly.
+(3-ko) 작은 보트가 있어요.
+(3-ja) 小さなボートがあります。
+(3-en) There is a small boat.

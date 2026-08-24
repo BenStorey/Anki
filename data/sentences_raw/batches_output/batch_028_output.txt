@@ -1,0 +1,1287 @@
+===word: 긴급 (ko: 긴급 / ja: 緊急 / en: emergency)===
+(ko) 이것은 긴급 상황입니다.
+(ja) これは緊急状況です。
+(en) This is an emergency situation.
+
+(ko) 긴급 연락처를 알아요?
+(ja) 緊急連絡先を知っていますか？
+(en) Do you know the emergency contact?
+
+(ko) 긴급 전화는 119예요.
+(ja) 緊急電話は119です。
+(en) The emergency phone number is 119.
+
+
+===word: 비상 (ko: 비상 / ja: 非常 / en: emergency)===
+(ko) 비상구가 어디예요?
+(ja) 非常口はどこですか？
+(en) Where is the emergency exit?
+
+(ko) 비상 상황이 발생했어요.
+(ja) 非常事態が発生しました。
+(en) An emergency situation has occurred.
+
+(ko) 비상 벨을 눌러 주세요.
+(ja) 非常ベルを押してください。
+(en) Please press the emergency bell.
+
+
+===word: 사고 (ko: 사고 / ja: 事故 / en: accident)===
+(ko) 길에서 사고가 났어요.
+(ja) 道で事故が起きました。
+(en) An accident happened on the road.
+
+(ko) 사고를 조심하세요.
+(ja) 事故に気をつけてください。
+(en) Please be careful of accidents.
+
+(ko) 큰 사고 없이 도착했어요.
+(ja) 大きな事故なく到着しました。
+(en) I arrived without any major accident.
+
+
+===word: 재난 (ko: 재난 / ja: 災難 / en: disaster)===
+(ko) 재난이 일어났어요.
+(ja) 災難が起こりました。
+(en) A disaster has occurred.
+
+(ko) 재난 대비 훈련을 해요.
+(ja) 災難対応訓練をします。
+(en) We do disaster preparedness training.
+
+(ko) 재난 영화를 봤어요.
+(ja) 災難映画を見ました。
+(en) I watched a disaster movie.
+
+
+===word: 재해 (ko: 재해 / ja: 災害 / en: disaster)===
+(ko) 자연 재해가 무서워요.
+(ja) 自然災害が怖いです。
+(en) Natural disasters are scary.
+
+(ko) 재해가 났을 때 어떻게 해요?
+(ja) 災害が起きた時どうしますか？
+(en) What do you do when a disaster occurs?
+
+(ko) 재해 보험에 가입했어요.
+(ja) 災害保険に加入しました。
+(en) I got disaster insurance.
+
+
+===word: 자연재해 (ko: 자연재해 / ja: 自然災害 / en: natural disaster)===
+(ko) 자연재해가 점점 많아지고 있어요.
+(ja) 自然災害がだんだん増えています。
+(en) Natural disasters are increasing.
+
+(ko) 자연재해는 예측하기 어려워요.
+(ja) 自然災害は予測しにくいです。
+(en) Natural disasters are hard to predict.
+
+(ko) 올해는 자연재해가 많았어요.
+(ja) 今年は自然災害が多かったです。
+(en) There were many natural disasters this year.
+
+
+===word: 지진 (ko: 지진 / ja: 地震 / en: earthquake)===
+(ko) 어제 지진가 있었어요.
+(ja) 昨日地震がありました。
+(en) There was an earthquake yesterday.
+
+(ko) 지진가 났을 때 탁자 밑으로 들어가요.
+(ja) 地震の時、机の下に入ります。
+(en) Get under a table during an earthquake.
+
+(ko) 일본에는 지진가 자주 있어요.
+(ja) 日本には地震がよくあります。
+(en) There are frequent earthquakes in Japan.
+
+
+===word: 해일 (ko: 해일 / ja: 津波 / en: tsunami)===
+(ko) 해일 경보가 발령됐어요.
+(ja) 津波警報が発令されました。
+(en) A tsunami warning has been issued.
+
+(ko) 해일이 오면 높은 곳으로 올라가요.
+(ja) 津波が来たら高い所へ上がります。
+(en) If a tsunami comes, go to high ground.
+
+(ko) 해일은 아주 위험해요.
+(ja) 津波はとても危険です。
+(en) Tsunamis are very dangerous.
+
+
+===word: 태풍 (ko: 태풍 / ja: 台風 / en: typhoon)===
+(ko) 태풍이 오고 있어요.
+(ja) 台風が来ています。
+(en) A typhoon is coming.
+
+(ko) 태풍 때문에 학교에 안 갔어요.
+(ja) 台風のせいで学校に行きませんでした。
+(en) I didn't go to school because of the typhoon.
+
+(ko) 태풍이 지나갔어요.
+(ja) 台風が過ぎ去りました。
+(en) The typhoon has passed.
+
+
+===word: 홍수 (ko: 홍수 / ja: 洪水 / en: flood)===
+(ko) 어젯밤에 홍수가 났어요.
+(ja) 昨晩洪水が起きました。
+(en) Flooding occurred last night.
+
+(ko) 홍수로 집이 많이 잠겼어요.
+(ja) 洪水で家がたくさん浸かりました。
+(en) Many houses were flooded.
+
+(ko) 홍수 지역에 도움을 보냈어요.
+(ja) 洪水地域に支援を送りました。
+(en) We sent help to the flooded area.
+
+
+===word: 가뭄 (ko: 가뭄 / ja: 干ばつ / en: drought)===
+(ko) 올해는 가뭄이 심해요.
+(ja) 今年は干ばつがひどいです。
+(en) This year the drought is severe.
+
+(ko) 가뭄 때문에 농사를 못 지었어요.
+(ja) 干ばつのせいで農業ができませんでした。
+(en) They couldn't farm because of the drought.
+
+(ko) 가뭄이 계속되면 물이 부족해요.
+(ja) 干ばつが続けば水が不足します。
+(en) If the drought continues, water becomes scarce.
+
+
+===word: 산사태 (ko: 산사태 / ja: 山崩れ / en: landslide)===
+(ko) 비가 많이 와서 산사태가 났어요.
+(ja) 雨が多くて山崩れが起きました。
+(en) Heavy rain caused a landslide.
+
+(ko) 산사태 위험이 있는 지역이에요.
+(ja) 山崩れの危険がある地域です。
+(en) This area is at risk of landslides.
+
+(ko) 산사태로 길이 막혔어요.
+(ja) 山崩れで道が塞がれました。
+(en) The road was blocked by a landslide.
+
+
+===word: 화재 (ko: 화재 / ja: 火災 / en: fire)===
+(ko) 저 건물에 화재가 났어요.
+(ja) あの建物で火災が起きました。
+(en) A fire broke out in that building.
+
+(ko) 화재가 나면 119에 전화해요.
+(ja) 火災が起きたら119に電話します。
+(en) If there's a fire, call 119.
+
+(ko) 화재 경보기가 울렸어요.
+(ja) 火災警報器が鳴りました。
+(en) The fire alarm went off.
+
+
+===word: 화산 (ko: 화산 / ja: 火山 / en: volcano)===
+(ko) 그 화산는 지금 활동 중이에요.
+(ja) その火山は今活動中です。
+(en) That volcano is currently active.
+
+(ko) 화산이 폭발했어요.
+(ja) 火山が爆発しました。
+(en) The volcano erupted.
+
+(ko) 제주도에는 화산이 있어요.
+(ja) 済州島には火山があります。
+(en) There is a volcano on Jeju Island.
+
+
+===word: 폭설 (ko: 폭설 / ja: 暴雪 / en: heavy snowfall)===
+(ko) 어제 폭설가 내렸어요.
+(ja) 昨日暴雪が降りました。
+(en) Heavy snow fell yesterday.
+
+(ko) 폭설로 길이 막혔어요.
+(ja) 暴雪で道が塞がれました。
+(en) The roads were blocked by heavy snow.
+
+(ko) 올겨울에 폭설가 자주 와요.
+(ja) 今年の冬は暴雪がよく来ます。
+(en) Heavy snow comes often this winter.
+
+
+===word: 폭우 (ko: 폭우 / ja: 暴雨 / en: heavy rain)===
+(ko) 어제 폭우가 많이 왔어요.
+(ja) 昨日暴雨がたくさん降りました。
+(en) It rained heavily yesterday.
+
+(ko) 폭우 때문에 지하철이 늦었어요.
+(ja) 暴雨のせいで地下鉄が遅れました。
+(en) The subway was delayed due to heavy rain.
+
+(ko) 폭우가 올 때는 조심하세요.
+(ja) 暴雨が降る時は気をつけてください。
+(en) Please be careful when heavy rain comes.
+
+
+===word: 강풍 (ko: 강풍 / ja: 強風 / en: strong wind)===
+(ko) 오늘 강풍이 불어요.
+(ja) 今日強風が吹きます。
+(en) It's windy today.
+
+(ko) 강풍 때문에 우산이 부러졌어요.
+(ja) 強風で傘が壊れました。
+(en) My umbrella broke because of the strong wind.
+
+(ko) 강풍 주의보가 나왔어요.
+(ja) 強風注意報が出ました。
+(en) A strong wind advisory has been issued.
+
+
+===word: 낙뢰 (ko: 낙뢰 / ja: 落雷 / en: lightning strike)===
+(ko) 어제 낙뢰가 있었어요.
+(ja) 昨日落雷がありました。
+(en) There was a lightning strike yesterday.
+
+(ko) 낙뢰를 조심하세요.
+(ja) 落雷に気をつけてください。
+(en) Please be careful of lightning.
+
+(ko) 천둥과 낙뢰이 무서워요.
+(ja) 雷と落雷が怖いです。
+(en) Thunder and lightning are scary.
+
+
+===word: 우박 (ko: 우박 / ja: 雹 / en: hail)===
+(ko) 갑자기 우박가 내렸어요.
+(ja) 急に雹が降りました。
+(en) Hail suddenly fell.
+
+(ko) 우박이 차에 손상을 줬어요.
+(ja) 雹が車に傷をつけました。
+(en) The hail damaged the car.
+
+(ko) 우박은 여름에 가끔 내려요.
+(ja) 雹は夏に時々降ります。
+(en) Hail sometimes falls in summer.
+
+
+===word: 한파 (ko: 한파 / ja: 寒波 / en: cold wave)===
+(ko) 오늘 한파가 왔어요.
+(ja) 今日寒波が来ました。
+(en) A cold wave came today.
+
+(ko) 한파 때는 따뜻하게 입어요.
+(ja) 寒波の時は暖かく着ます。
+(en) Dress warmly during a cold wave.
+
+(ko) 내일 한파가 온대요.
+(ja) 明日寒波が来るそうです。
+(en) They say a cold wave is coming tomorrow.
+
+
+===word: 폭염 (ko: 폭염 / ja: 暴炎 / en: heat wave)===
+(ko) 올여름 폭염이 심해요.
+(ja) 今年の夏は暴炎がひどいです。
+(en) This summer the heat wave is severe.
+
+(ko) 폭염 때는 물을 많이 마셔요.
+(ja) 暴炎の時は水をたくさん飲みます。
+(en) Drink lots of water during a heat wave.
+
+(ko) 폭염 경보가 발령됐어요.
+(ja) 暴炎警報が発令されました。
+(en) A heat wave warning has been issued.
+
+
+===word: 황사 (ko: 황사 / ja: 黄砂 / en: yellow dust)===
+(ko) 오늘 황사가 심해요.
+(ja) 今日黄砂がひどいです。
+(en) The yellow dust is bad today.
+
+(ko) 황사가 올 때는 마스크를 써요.
+(ja) 黄砂が来る時はマスクをします。
+(en) Wear a mask when yellow dust comes.
+
+(ko) 봄에 황사가 자주 와요.
+(ja) 春に黄砂がよく来ます。
+(en) Yellow dust often comes in spring.
+
+
+===word: 미세먼지 (ko: 미세먼지 / ja: 微細粉塵 / en: fine dust)===
+(ko) 오늘 미세먼지 농도가 높아요.
+(ja) 今日微細粉塵濃度が高いです。
+(en) The fine dust concentration is high today.
+
+(ko) 미세먼지가 심할 때는 외출을 삼가요.
+(ja) 微細粉塵がひどい時は外出を控えます。
+(en) Refrain from going out when fine dust is bad.
+
+(ko) 미세먼지 때문에 공기가 안 좋아요.
+(ja) 微細粉塵のせいで空気が悪いです。
+(en) The air is bad because of fine dust.
+
+
+===word: 대기오염 (ko: 대기오염 / ja: 大気汚染 / en: air pollution)===
+(ko) 도시에는 대기오염이 심해요.
+(ja) 都市には大気汚染がひどいです。
+(en) Air pollution is severe in cities.
+
+(ko) 대기오염을 줄이기 위해 노력해요.
+(ja) 大気汚染を減らすために努力します。
+(en) We make efforts to reduce air pollution.
+
+(ko) 대기오염은 건강에 나빠요.
+(ja) 大気汚染は健康に悪いです。
+(en) Air pollution is bad for health.
+
+
+===word: 수질오염 (ko: 수질오염 / ja: 水質汚染 / en: water pollution)===
+(ko) 공장 때문에 수질오염이 심각해요.
+(ja) 工場のせいで水質汚染が深刻です。
+(en) Water pollution is serious because of factories.
+
+(ko) 수질오염을 막기 위해 노력해요.
+(ja) 水質汚染を防ぐために努力します。
+(en) We work to prevent water pollution.
+
+(ko) 수질오염으로 물고기가 죽었어요.
+(ja) 水質汚染で魚が死にました。
+(en) Fish died from water pollution.
+
+
+===word: 환경오염 (ko: 환경오염 / ja: 環境汚染 / en: environmental pollution)===
+(ko) 환경오염은 큰 문제예요.
+(ja) 環境汚染は大きな問題です。
+(en) Environmental pollution is a big problem.
+
+(ko) 우리는 환경오염을 줄여야 해요.
+(ja) 私たちは環境汚染を減らさなければなりません。
+(en) We must reduce environmental pollution.
+
+(ko) 환경오염이 동물들에게도 나빠요.
+(ja) 環境汚染は動物にも悪いです。
+(en) Environmental pollution is also bad for animals.
+
+
+===word: 소음공해 (ko: 소음공해 / ja: 騒音公害 / en: noise pollution)===
+(ko) 이 동네는 소음공해이 심해요.
+(ja) この地域は騒音公害がひどいです。
+(en) This neighborhood has severe noise pollution.
+
+(ko) 소음공해 때문에 잠을 못 잤어요.
+(ja) 騒音公害のせいで眠れませんでした。
+(en) I couldn't sleep because of noise pollution.
+
+(ko) 소음공해을 줄이는 방법이 있을까요?
+(ja) 騒音公害を減らす方法があるでしょうか？
+(en) Is there a way to reduce noise pollution?
+
+
+===word: 온실효과 (ko: 온실효과 / ja: 温室効果 / en: greenhouse effect)===
+(ko) 온실효과로 지구가 더워지고 있어요.
+(ja) 温室効果で地球が暑くなっています。
+(en) The Earth is getting warmer due to the greenhouse effect.
+
+(ko) 온실효과를 막는 것이 중요해요.
+(ja) 温室効果を防ぐことが重要です。
+(en) It's important to prevent the greenhouse effect.
+
+(ko) 이산화탄소가 온실효과의 원인이에요.
+(ja) 二酸化炭素が温室効果の原因です。
+(en) Carbon dioxide causes the greenhouse effect.
+
+
+===word: 지구온난화 (ko: 지구온난화 / ja: 地球温暖化 / en: global warming)===
+(ko) 지구온난화 때문에 빙하가 녹고 있어요.
+(ja) 地球温暖化のせいで氷河が溶けています。
+(en) Glaciers are melting due to global warming.
+
+(ko) 지구온난화를 막기 위해 우리가 할 일이 있어요.
+(ja) 地球温暖化を防ぐために私たちがすべきことがあります。
+(en) There are things we can do to prevent global warming.
+
+(ko) 지구온난화는 모두의 문제예요.
+(ja) 地球温暖化はみんなの問題です。
+(en) Global warming is everyone's problem.
+
+
+===word: 기후변화 (ko: 기후변화 / ja: 気候変動 / en: climate change)===
+(ko) 기후변화로 날씨가 이상해졌어요.
+(ja) 気候変動で天気がおかしくなりました。
+(en) The weather has become strange due to climate change.
+
+(ko) 기후변화에 대해 공부하고 있어요.
+(ja) 気候変動について勉強しています。
+(en) I'm studying about climate change.
+
+(ko) 기후변화는 전 세계적인 문제예요.
+(ja) 気候変動は全世界の問題です。
+(en) Climate change is a global problem.
+
+
+===word: 자원고갈 (ko: 자원고갈 / ja: 資源枯渇 / en: resource depletion)===
+(ko) 자원고갈이 걱정돼요.
+(ja) 資源枯渇が心配です。
+(en) I'm worried about resource depletion.
+
+(ko) 자원고갈 문제를 생각해야 해요.
+(ja) 資源枯渇問題を考えなければなりません。
+(en) We need to think about resource depletion.
+
+(ko) 에너지 자원고갈을 막기 위해 재생에너지가 필요해요.
+(ja) エネルギー資源枯渇を防ぐために再生エネルギーが必要です。
+(en) Renewable energy is needed to prevent energy resource depletion.
+
+
+===word: 생태계파괴 (ko: 생태계파괴 / ja: 生態系破壊 / en: ecosystem destruction)===
+(ko) 개발로 인해 생태계파괴가 일어났어요.
+(ja) 開発により生態系破壊が起こりました。
+(en) Development caused ecosystem destruction.
+
+(ko) 생태계파괴는 돌이킬 수 없을지도 몰라요.
+(ja) 生態系破壊は取り戻せないかもしれません。
+(en) Ecosystem destruction may be irreversible.
+
+(ko) 생태계파괴를 막기 위해 보호 구역을 만들어요.
+(ja) 生態系破壊を防ぐために保護区域を作ります。
+(en) We create protected areas to prevent ecosystem destruction.
+
+
+===word: 산성비 (ko: 산성비 / ja: 酸性雨 / en: acid rain)===
+(ko) 공장 연기 때문에 산성비가 내려요.
+(ja) 工場の煙のせいで酸性雨が降ります。
+(en) Acid rain falls because of factory smoke.
+
+(ko) 산성비는 숲을 해쳐요.
+(ja) 酸性雨は森を傷つけます。
+(en) Acid rain harms forests.
+
+(ko) 산성비을 막기 위해 노력해야 해요.
+(ja) 酸性雨を防ぐために努力しなければなりません。
+(en) We must work to prevent acid rain.
+
+
+===word: 오존층파괴 (ko: 오존층파괴 / ja: オゾン層破壊 / en: ozone layer depletion)===
+(ko) 오존층파괴가 걱정돼요.
+(ja) オゾン層破壊が心配です。
+(en) I'm worried about ozone layer depletion.
+
+(ko) 오존층파괴로 인해 자외선이 강해졌어요.
+(ja) オゾン層破壊により紫外線が強くなりました。
+(en) UV rays have become stronger due to ozone depletion.
+
+(ko) 프레온 가스가 오존층파괴의 원인이에요.
+(ja) フロンガスがオゾン層破壊の原因です。
+(en) CFC gas causes ozone layer depletion.
+
+
+===word: 사막화 (ko: 사막화 / ja: 砂漠化 / en: desertification)===
+(ko) 기후 변화로 사막화가 진행되고 있어요.
+(ja) 気候変動で砂漠化が進行しています。
+(en) Desertification is progressing due to climate change.
+
+(ko) 사막화를 막기 위해 나무를 심어요.
+(ja) 砂漠化を防ぐために木を植えます。
+(en) We plant trees to prevent desertification.
+
+(ko) 아프리카에서 사막화 문제가 심각해요.
+(ja) アフリカで砂漠化問題が深刻です。
+(en) The desertification problem is serious in Africa.
+
+
+===word: 삼림벌채 (ko: 삼림벌채 / ja: 森林伐採 / en: deforestation)===
+(ko) 삼림벌채로 동물들이 집을 잃었어요.
+(ja) 森林伐採で動物たちが家を失いました。
+(en) Animals lost their homes due to deforestation.
+
+(ko) 삼림벌채를 막아야 해요.
+(ja) 森林伐採を防がなければなりません。
+(en) We must stop deforestation.
+
+(ko) 아마존에서 삼림벌채가 많이 일어나요.
+(ja) アマゾンで森林伐採が多く起こります。
+(en) Deforestation happens a lot in the Amazon.
+
+
+===word: 생물다양성 (ko: 생물다양성 / ja: 生物多様性 / en: biodiversity)===
+(ko) 생물다양성이 중요해요.
+(ja) 生物多様性が重要です。
+(en) Biodiversity is important.
+
+(ko) 열대 우림에는 생물다양성이 풍부해요.
+(ja) 熱帯雨林には生物多様性が豊かです。
+(en) Rainforests are rich in biodiversity.
+
+(ko) 생물다양성을 보호해야 해요.
+(ja) 生物多様性を保護しなければなりません。
+(en) We must protect biodiversity.
+
+
+===word: 재생에너지 (ko: 재생에너지 / ja: 再生エネルギー / en: renewable energy)===
+(ko) 재생에너지는 환경에 좋아요.
+(ja) 再生エネルギーは環境に良いです。
+(en) Renewable energy is good for the environment.
+
+(ko) 태양광은 재생에너지의 한 종류예요.
+(ja) 太陽光は再生エネルギーの一種です。
+(en) Solar power is a type of renewable energy.
+
+(ko) 재생에너지 사용이 늘고 있어요.
+(ja) 再生エネルギーの使用が増えています。
+(en) The use of renewable energy is increasing.
+
+
+===word: 친환경 (ko: 친환경 / ja: 親環境 / en: eco-friendly)===
+(ko) 저는 친환경 제품을 사요.
+(ja) 私は親環境製品を買います。
+(en) I buy eco-friendly products.
+
+(ko) 이 회사는 친환경 정책을 가지고 있어요.
+(ja) この会社は親環境政策を持っています。
+(en) This company has an eco-friendly policy.
+
+(ko) 친환경 생활을 실천해요.
+(ja) 親環境生活を実践します。
+(en) I practice an eco-friendly lifestyle.
+
+
+===word: 탄소배출권 (ko: 탄소배출권 / ja: 炭素排出権 / en: carbon emission rights)===
+(ko) 기업이 탄소배출권을 거래해요.
+(ja) 企業が炭素排出権を取引します。
+(en) Companies trade carbon emission rights.
+
+(ko) 탄소배출권 제도가 있어요.
+(ja) 炭素排出権制度があります。
+(en) There is a carbon emission rights system.
+
+(ko) 탄소배출권 가격이 올랐어요.
+(ja) 炭素排出権の価格が上がりました。
+(en) The price of carbon emission rights has risen.
+
+
+===word: 탄소중립 (ko: 탄소중립 / ja: 炭素中立 / en: carbon neutrality)===
+(ko) 한국은 2050년까지 탄소중립을 목표로 해요.
+(ja) 韓国は2050年までに炭素中立を目標にします。
+(en) Korea aims for carbon neutrality by 2050.
+
+(ko) 탄소중립을 실현하기 위해 노력해요.
+(ja) 炭素中立を実現するために努力します。
+(en) We strive to achieve carbon neutrality.
+
+(ko) 탄소중립 정책이 중요해요.
+(ja) 炭素中立政策が重要です。
+(en) Carbon neutrality policy is important.
+
+
+===word: 탄소발자국 (ko: 탄소발자국 / ja: 炭素足跡 / en: carbon footprint)===
+(ko) 탄소발자국을 줄이는 것이 중요해요.
+(ja) 炭素足跡を減らすことが重要です。
+(en) Reducing your carbon footprint is important.
+
+(ko) 걸어 다니면 탄소발자국이 줄어요.
+(ja) 歩いて移動すれば炭素足跡が減ります。
+(en) Walking reduces your carbon footprint.
+
+(ko) 내 탄소발자국을 계산해 봤어요.
+(ja) 自分の炭素足跡を計算してみました。
+(en) I tried calculating my carbon footprint.
+
+
+===word: 재활용 (ko: 재활용 / ja: リサイクル / en: recycling)===
+(ko) 저는 재활용을 열심히 해요.
+(ja) 私はリサイクルを頑張っています。
+(en) I do recycling diligently.
+
+(ko) 재활용 쓰레기를 분류해 주세요.
+(ja) リサイクルゴミを分別してください。
+(en) Please sort the recyclable trash.
+
+(ko) 종이는 재활용할 수 있어요.
+(ja) 紙はリサイクルできます。
+(en) Paper can be recycled.
+
+
+===word: 분리수거 (ko: 분리수거 / ja: 分別収集 / en: separate collection)===
+(ko) 아파트에서 분리수거를 해요.
+(ja) アパートで分別収集をします。
+(en) We do separate collection at the apartment.
+
+(ko) 분리수거 방법을 알려 주세요.
+(ja) 分別収集の方法を教えてください。
+(en) Please tell me how to sort trash.
+
+(ko) 분리수거는 환경 보호에 도움이 돼요.
+(ja) 分別収集は環境保護に役立ちます。
+(en) Separate collection helps protect the environment.
+
+
+===word: 쓰레기 (ko: 쓰레기 / ja: ゴミ / en: trash)===
+(ko) 쓰레기를 버리지 마세요.
+(ja) ゴミを捨てないでください。
+(en) Don't litter.
+
+(ko) 쓰레기통이 어디예요?
+(ja) ゴミ箱はどこですか？
+(en) Where is the trash can?
+
+(ko) 이 쓰레기는 어디에 버려요?
+(ja) このゴミはどこに捨てますか？
+(en) Where do I throw away this trash?
+
+
+===word: 폐기물 (ko: 폐기물 / ja: 廃棄物 / en: waste)===
+(ko) 공장에서 나오는 폐기물가 문제예요.
+(ja) 工場から出る廃棄物が問題です。
+(en) Waste from factories is a problem.
+
+(ko) 위험한 폐기물는 특별히 처리해요.
+(ja) 危険な廃棄物は特別に処理します。
+(en) Hazardous waste is processed specially.
+
+(ko) 폐기물 처리 비용이 비싸요.
+(ja) 廃棄物処理費用が高いです。
+(en) Waste disposal costs are high.
+
+
+===word: 음식물쓰레기 (ko: 음식물쓰레기 / ja: 生ゴミ / en: food waste)===
+(ko) 음식물쓰레기를 줄이는 것이 중요해요.
+(ja) 生ゴミを減らすことが重要です。
+(en) Reducing food waste is important.
+
+(ko) 음식물쓰레기는 일반 쓰레기와 달라요.
+(ja) 生ゴミは一般ゴミと違います。
+(en) Food waste is different from regular trash.
+
+(ko) 먹을 만큼만 요리해서 음식물쓰레기를 줄여요.
+(ja) 食べる分だけ料理して生ゴミを減らします。
+(en) I cook only what I can eat to reduce food waste.
+
+
+===word: 일회용품 (ko: 일회용품 / ja: 使い捨て用品 / en: disposable products)===
+(ko) 일회용품 사용을 줄여요.
+(ja) 使い捨て用品の使用を減らします。
+(en) Let's reduce the use of disposable products.
+
+(ko) 일회용품 대신 텀블러를 써요.
+(ja) 使い捨て用品の代わりにタンブラーを使います。
+(en) I use a tumbler instead of disposable products.
+
+(ko) 카페에서 일회용품을 주지 않아요.
+(ja) カフェで使い捨て用品をくれません。
+(en) Cafes don't give out disposable products.
+
+
+===word: 비닐봉투 (ko: 비닐봉투 / ja: ビニール袋 / en: plastic bag)===
+(ko) 비닐봉투 대신 장바구니를 써요.
+(ja) ビニール袋の代わりに買い物かごを使います。
+(en) I use a shopping bag instead of plastic bags.
+
+(ko) 비닐봉투는 유료예요.
+(ja) ビニール袋は有料です。
+(en) Plastic bags are charged.
+
+(ko) 비닐봉투을 재사용해요.
+(ja) ビニール袋を再利用します。
+(en) I reuse plastic bags.
+
+
+===word: 플라스틱 (ko: 플라스틱 / ja: プラスチック / en: plastic)===
+(ko) 플라스틱 오염이 심각해요.
+(ja) プラスチック汚染が深刻です。
+(en) Plastic pollution is serious.
+
+(ko) 플라스틱 병을 재활용해요.
+(ja) プラスチック瓶をリサイクルします。
+(en) I recycle plastic bottles.
+
+(ko) 플라스틱 사용을 줄이는 것이 좋아요.
+(ja) プラスチック使用を減らすのが良いです。
+(en) It's good to reduce plastic use.
+
+
+===word: 종이 (ko: 종이 / ja: 紙 / en: paper)===
+(ko) 종이를 재활용해요.
+(ja) 紙をリサイクルします。
+(en) I recycle paper.
+
+(ko) 종이 타월을 사용해도 돼요?
+(ja) 紙タオルを使ってもいいですか？
+(en) Can I use paper towels?
+
+(ko) 종이에 그림을 그렸어요.
+(ja) 紙に絵を描きました。
+(en) I drew a picture on paper.
+
+
+===word: 유리 (ko: 유리 / ja: ガラス / en: glass)===
+(ko) 이 유리병은 재활용할 수 있어요.
+(ja) このガラス瓶はリサイクルできます。
+(en) This glass bottle can be recycled.
+
+(ko) 유리는 깨지기 쉬워요.
+(ja) ガラスは割れやすいです。
+(en) Glass breaks easily.
+
+(ko) 색깔별로 유리를 분리해요.
+(ja) 色別にガラスを分別します。
+(en) We sort glass by color.
+
+
+===word: 금속 (ko: 금속 / ja: 金属 / en: metal)===
+(ko) 금속 캔은 재활용해요.
+(ja) 金属缶はリサイクルします。
+(en) We recycle metal cans.
+
+(ko) 이 금속은 무거워요.
+(ja) この金属は重いです。
+(en) This metal is heavy.
+
+(ko) 금속은 녹이 슬 수 있어요.
+(ja) 金属は錆びることがあります。
+(en) Metal can rust.
+
+
+===word: 캔 (ko: 캔 / ja: 缶 / en: can)===
+(ko) 이 캔은 알루미늄이에요.
+(ja) この缶はアルミニウムです。
+(en) This can is aluminum.
+
+(ko) 캔을 압축해서 버려요.
+(ja) 缶をつぶして捨てます。
+(en) I crush cans before throwing them away.
+
+(ko) 캔 음료를 마셨어요.
+(ja) 缶飲料を飲みました。
+(en) I drank a canned beverage.
+
+
+===word: 병 (ko: 병 / ja: 瓶 / en: bottle)===
+(ko) 빈 병은 분리수거함에 넣어요.
+(ja) 空き瓶は分別収集箱に入れます。
+(en) Put empty bottles in the recycling bin.
+
+(ko) 이 병은 재사용할 수 있어요.
+(ja) この瓶は再利用できます。
+(en) This bottle can be reused.
+
+(ko) 플라스틱 병과 유리 병을 구분해요.
+(ja) プラスチック瓶とガラス瓶を区別します。
+(en) We separate plastic bottles and glass bottles.
+
+
+===word: 전자제품 (ko: 전자제품 / ja: 電子製品 / en: electronics)===
+(ko) 새 전자제품을 샀어요.
+(ja) 新しい電子製品を買いました。
+(en) I bought new electronics.
+
+(ko) 이 전자제품은 고장 났어요.
+(ja) この電子製品は壊れました。
+(en) This electronic product is broken.
+
+(ko) 오래된 전자제품는 어떻게 버려요?
+(ja) 古い電子製品はどうやって捨てますか？
+(en) How do you dispose of old electronics?
+
+
+===word: 폐전자제품 (ko: 폐전자제품 / ja: 廃電子製品 / en: e-waste)===
+(ko) 폐전자제품는 특별히 처리해야 해요.
+(ja) 廃電子製品は特別に処理しなければなりません。
+(en) E-waste must be processed specially.
+
+(ko) 폐전자제품에서 유용한 부품을 재사용해요.
+(ja) 廃電子製品から有用な部品を再利用します。
+(en) We reuse useful parts from e-waste.
+
+(ko) 폐전자제품 수거함이 있어요.
+(ja) 廃電子製品の回収箱があります。
+(en) There's an e-waste collection bin.
+
+
+===word: 중고 (ko: 중고 / ja: 中古 / en: used; second-hand)===
+(ko) 중고 시장에서 물건을 샀어요.
+(ja) 中古市場で物を買いました。
+(en) I bought something at a second-hand market.
+
+(ko) 이 책은 중고인데 상태가 좋아요.
+(ja) この本は中古ですが状態が良いです。
+(en) This book is used but in good condition.
+
+(ko) 중고 가구를 사는 게 어때요?
+(ja) 中古家具を買うのはどうですか？
+(en) How about buying second-hand furniture?
+
+
+===word: 헌옷 (ko: 헌옷 / ja: 古着 / en: used clothes)===
+(ko) 헌옷을 기부했어요.
+(ja) 古着を寄付しました。
+(en) I donated used clothes.
+
+(ko) 헌옷 수거함이 어디예요?
+(ja) 古着回収箱はどこですか？
+(en) Where is the used clothes collection bin?
+
+(ko) 헌옷을 재활용해서 새 옷을 만들어요.
+(ja) 古着をリサイクルして新しい服を作ります。
+(en) They recycle used clothes to make new ones.
+
+
+===word: 자원봉사 (ko: 자원봉사 / ja: 資源奉仕 / en: volunteer work)===
+(ko) 주말에 자원봉사를 해요.
+(ja) 週末にボランティアをします。
+(en) I do volunteer work on weekends.
+
+(ko) 자원봉사자를 모집해요.
+(ja) ボランティアを募集します。
+(en) We are recruiting volunteers.
+
+(ko) 자원봉사는 보람이 있어요.
+(ja) ボランティアはやりがいがあります。
+(en) Volunteer work is rewarding.
+
+
+===word: 봉사활동 (ko: 봉사활동 / ja: 奉仕活動 / en: volunteer activity)===
+(ko) 학교에서 봉사활동을 해요.
+(ja) 学校で奉仕活動をします。
+(en) We do volunteer activities at school.
+
+(ko) 봉사활동 시간이 필요해요.
+(ja) 奉仕活動の時間が必要です。
+(en) Volunteer hours are needed.
+
+(ko) 다양한 봉사활동이 있어요.
+(ja) 様々な奉仕活動があります。
+(en) There are various volunteer activities.
+
+
+===word: 기부 (ko: 기부 / ja: 寄付 / en: donation)===
+(ko) 어려운 사람들을 위해 기부했어요.
+(ja) 困っている人のために寄付しました。
+(en) I donated for people in need.
+
+(ko) 기부금을 모았어요.
+(ja) 寄付金を集めました。
+(en) We raised donations.
+
+(ko) 작은 기부도 큰 도움이 돼요.
+(ja) 小さな寄付も大きな助けになります。
+(en) Even small donations are a big help.
+
+
+===word: 후원 (ko: 후원 / ja: 後援 / en: sponsorship)===
+(ko) 이 단체를 후원하고 있어요.
+(ja) この団体を後援しています。
+(en) I'm sponsoring this organization.
+
+(ko) 후원자가 많이 필요해요.
+(ja) 後援者が多く必要です。
+(en) Many sponsors are needed.
+
+(ko) 후원해 주셔서 감사합니다.
+(ja) 後援してくださってありがとうございます。
+(en) Thank you for your sponsorship.
+
+
+===word: 모금 (ko: 모금 / ja: 募金 / en: fundraising)===
+(ko) 이웃을 돕기 위해 모금을 해요.
+(ja) 隣人を助けるために募金をします。
+(en) We do fundraising to help neighbors.
+
+(ko) 모금 행사에 참여했어요.
+(ja) 募金行事に参加しました。
+(en) I participated in a fundraising event.
+
+(ko) 온라인으로 모금이 가능해요.
+(ja) オンラインで募金が可能です。
+(en) Online fundraising is possible.
+
+
+===word: 자선 (ko: 자선 / ja: 慈善 / en: charity)===
+(ko) 자선 단체에 기부했어요.
+(ja) 慈善団体に寄付しました。
+(en) I donated to a charity organization.
+
+(ko) 자선 콘서트가 열렸어요.
+(ja) 慈善コンサートが開かれました。
+(en) A charity concert was held.
+
+(ko) 그는 자선가로 유명해요.
+(ja) 彼は慈善家で有名です。
+(en) He is famous as a philanthropist.
+
+
+===word: 사회공헌 (ko: 사회공헌 / ja: 社会貢献 / en: social contribution)===
+(ko) 이 회사는 사회공헌 활동을 해요.
+(ja) この会社は社会貢献活動をします。
+(en) This company does social contribution activities.
+
+(ko) 사회공헌의 중요성을 배웠어요.
+(ja) 社会貢献の重要性を学びました。
+(en) I learned the importance of social contribution.
+
+(ko) 사회공헌 프로젝트에 참여했어요.
+(ja) 社会貢献プロジェクトに参加しました。
+(en) I participated in a social contribution project.
+
+
+===word: 공익 (ko: 공익 / ja: 公益 / en: public interest)===
+(ko) 공익 광고가 재미있었어요.
+(ja) 公益広告が面白かったです。
+(en) The public interest advertisement was interesting.
+
+(ko) 이 일은 공익을 위한 거예요.
+(ja) この仕事は公益のためのものです。
+(en) This work is for the public interest.
+
+(ko) 공익을 생각해서 행동해요.
+(ja) 公益を考えて行動します。
+(en) I act with the public interest in mind.
+
+
+===word: 공공 (ko: 공공 / ja: 公共 / en: public)===
+(ko) 도서관은 공공 시설이에요.
+(ja) 図書館は公共施設です。
+(en) The library is a public facility.
+
+(ko) 공공 장소에서는 담배를 피우면 안 돼요.
+(ja) 公共の場所ではタバコを吸ってはいけません。
+(en) You must not smoke in public places.
+
+(ko) 공공 교통이 편리해요.
+(ja) 公共交通が便利です。
+(en) Public transportation is convenient.
+
+
+===word: 공동체 (ko: 공동체 / ja: 共同体 / en: community)===
+(ko) 이 마을 공동체은 작지만 화목해요.
+(ja) この村の共同体は小さいですが和やかです。
+(en) This village community is small but harmonious.
+
+(ko) 공동체 생활은 협동이 중요해요.
+(ja) 共同体生活は協同が重要です。
+(en) Cooperation is important in community life.
+
+(ko) 공동체 의식을 가져야 해요.
+(ja) 共同体意識を持たなければなりません。
+(en) We need to have a sense of community.
+
+
+===word: 지역사회 (ko: 지역사회 / ja: 地域社会 / en: local community)===
+(ko) 지역사회를 위해 무엇을 할까요?
+(ja) 地域社会のために何をしましょうか？
+(en) What can we do for the local community?
+
+(ko) 지역사회 행사에 참여했어요.
+(ja) 地域社会行事に参加しました。
+(en) I participated in a local community event.
+
+(ko) 지역사회 문제를 함께 해결해요.
+(ja) 地域社会の問題を一緒に解決します。
+(en) We solve local community problems together.
+
+
+===word: 주민 (ko: 주민 / ja: 住民 / en: resident)===
+(ko) 이 지역 주민들이 모였어요.
+(ja) この地域の住民が集まりました。
+(en) The residents of this area gathered.
+
+(ko) 주민 여러분, 협조해 주세요.
+(ja) 住民の皆様、ご協力ください。
+(en) Dear residents, please cooperate.
+
+(ko) 새로운 주민이 이사 왔어요.
+(ja) 新しい住民が引っ越してきました。
+(en) A new resident moved in.
+
+
+===word: 이웃 (ko: 이웃 / ja: 隣 / en: neighbor)===
+(ko) 이웃이 맛있는 음식을 줬어요.
+(ja) 隣の人が美味しい食べ物をくれました。
+(en) My neighbor gave me delicious food.
+
+(ko) 우리 이웃은 친절해요.
+(ja) うちの隣人は親切です。
+(en) Our neighbor is kind.
+
+(ko) 이웃과 사이좋게 지내요.
+(ja) 隣人と仲良く過ごします。
+(en) I get along well with my neighbors.
+
+
+===word: 시민 (ko: 시민 / ja: 市民 / en: citizen)===
+(ko) 서울 시민으로서 할 일을 해요.
+(ja) ソウル市民としてすべきことをします。
+(en) I do my duty as a citizen of Seoul.
+
+(ko) 모든 시민은 평등해요.
+(ja) すべての市民は平等です。
+(en) All citizens are equal.
+
+(ko) 시민 공원에서 산책했어요.
+(ja) 市民公園で散歩しました。
+(en) I took a walk in the citizen's park.
+
+
+===word: 인권 (ko: 인권 / ja: 人権 / en: human rights)===
+(ko) 인권은 모든 사람에게 있어요.
+(ja) 人権はすべての人にあります。
+(en) Human rights belong to everyone.
+
+(ko) 인권을 존중해야 해요.
+(ja) 人権を尊重しなければなりません。
+(en) We must respect human rights.
+
+(ko) 인권 문제에 대해 배웠어요.
+(ja) 人権問題について学びました。
+(en) I learned about human rights issues.
+
+
+===word: 평등 (ko: 평등 / ja: 平等 / en: equality)===
+(ko) 모든 사람은 평등해요.
+(ja) すべての人は平等です。
+(en) All people are equal.
+
+(ko) 성별 평등이 중요해요.
+(ja) 性別平等が重要です。
+(en) Gender equality is important.
+
+(ko) 평등한 사회를 만들고 싶어요.
+(ja) 平等な社会を作りたいです。
+(en) I want to create an equal society.
+
+
+===word: 자유 (ko: 자유 / ja: 自由 / en: freedom)===
+(ko) 모든 사람은 자유를 가질 권리가 있어요.
+(ja) すべての人は自由を持つ権利があります。
+(en) Everyone has the right to have freedom.
+
+(ko) 나는 자유를 좋아해요.
+(ja) 私は自由が好きです。
+(en) I like freedom.
+
+(ko) 표현의 자유는 중요해요.
+(ja) 表現の自由は重要です。
+(en) Freedom of expression is important.
+
+
+===word: 민주주의 (ko: 민주주의 / ja: 民主主義 / en: democracy)===
+(ko) 한국은 민주주의 국가예요.
+(ja) 韓国は民主主義国家です。
+(en) Korea is a democracy.
+
+(ko) 민주주의에서는 국민이 주인이에요.
+(ja) 民主主義では国民が主人です。
+(en) In a democracy, the people are the owners.
+
+(ko) 민주주의의 가치를 배웠어요.
+(ja) 民主主義の価値を学びました。
+(en) I learned the value of democracy.
+
+
+===word: 인종차별 (ko: 인종차별 / ja: 人種差別 / en: racial discrimination)===
+(ko) 인종차별은 나쁜 거예요.
+(ja) 人種差別は悪いことです。
+(en) Racial discrimination is bad.
+
+(ko) 인종차별을 경험한 적이 있어요?
+(ja) 人種差別を経験したことがありますか？
+(en) Have you ever experienced racial discrimination?
+
+(ko) 인종차별은 없어져야 해요.
+(ja) 人種差別はなくならなければなりません。
+(en) Racial discrimination must disappear.
+
+
+===word: 성차별 (ko: 성차별 / ja: 性差別 / en: gender discrimination)===
+(ko) 직장에서 성차별이 있어요.
+(ja) 職場で性差別があります。
+(en) There is gender discrimination in the workplace.
+
+(ko) 성차별은 불공평해요.
+(ja) 性差別は不公平です。
+(en) Gender discrimination is unfair.
+
+(ko) 성차별을 없애기 위해 노력해요.
+(ja) 性差別をなくすために努力します。
+(en) We strive to eliminate gender discrimination.
+
+
+===word: 장애인차별 (ko: 장애인차별 / ja: 障害者差別 / en: discrimination against disabled)===
+(ko) 장애인차별은 안 돼요.
+(ja) 障害者差別はダメです。
+(en) Discrimination against the disabled is not allowed.
+
+(ko) 장애인차별을 금지하는 법이 있어요.
+(ja) 障害者差別を禁止する法律があります。
+(en) There is a law prohibiting discrimination against disabled people.
+
+(ko) 장애인차별 문제에 대해 생각해야 해요.
+(ja) 障害者差別問題について考えなければなりません。
+(en) We must think about discrimination against disabled people.
+
+
+===word: 빈곤 (ko: 빈곤 / ja: 貧困 / en: poverty)===
+(ko) 세계 곳곳에 빈곤 문제가 있어요.
+(ja) 世界のあちこちに貧困問題があります。
+(en) There are poverty problems around the world.
+
+(ko) 빈곤을 없애는 것이 목표예요.
+(ja) 貧困をなくすことが目標です。
+(en) The goal is to eliminate poverty.
+
+(ko) 어려운 빈곤 가정을 도와요.
+(ja) 難しい貧困家庭を助けます。
+(en) We help struggling families in poverty.
+
+
+===word: 기아 (ko: 기아 / ja: 飢餓 / en: hunger; starvation)===
+(ko) 기아 문제는 심각해요.
+(ja) 飢餓問題は深刻です。
+(en) The hunger problem is serious.
+
+(ko) 세계 기아를 해결하기 위해 힘써요.
+(ja) 世界飢餓を解決するために努力します。
+(en) We work to solve world hunger.
+
+(ko) 많은 사람들이 기아로 고통받고 있어요.
+(ja) 多くの人が飢餓で苦しんでいます。
+(en) Many people are suffering from hunger.
+
+
+===word: 질병 (ko: 질병 / ja: 疾病 / en: disease)===
+(ko) 이 질병은 치료할 수 있어요.
+(ja) この疾病は治療できます。
+(en) This disease can be treated.
+
+(ko) 질병 예방이 중요해요.
+(ja) 疾病予防が重要です。
+(en) Disease prevention is important.
+
+(ko) 할아버지가 질병으로 병원에 계세요.
+(ja) 祖父が疾病で入院しています。
+(en) My grandfather is in the hospital with a disease.
+
+
+===word: 전염병 (ko: 전염병 / ja: 伝染病 / en: epidemic)===
+(ko) 전염병이 퍼지고 있어요.
+(ja) 伝染病が広がっています。
+(en) The epidemic is spreading.
+
+(ko) 전염병 예방 주사를 맞았어요.
+(ja) 伝染病予防注射を打ちました。
+(en) I got an epidemic prevention shot.
+
+(ko) 손을 자주 씻으면 전염병을 예방할 수 있어요.
+(ja) 手をよく洗えば伝染病を予防できます。
+(en) Washing hands often can prevent epidemics.
+
+
+===word: 팬데믹 (ko: 팬데믹 / ja: パンデミック / en: pandemic)===
+(ko) 코로나19로 팬데믹이 선언됐어요.
+(ja) コロナ19でパンデミックが宣言されました。
+(en) A pandemic was declared due to COVID-19.
+
+(ko) 팬데믹 상황에서는 마스크를 써요.
+(ja) パンデミック状況ではマスクをします。
+(en) Wear a mask during a pandemic.
+
+(ko) 팬데믹이 전 세계에 영향을 줬어요.
+(ja) パンデミックが全世界に影響を与えました。
+(en) The pandemic affected the whole world.
+
+
+===word: 코로나19 (ko: 코로나19 / ja: コロナ19 / en: COVID-19)===
+(ko) 코로나19 때문에 학교에 못 갔어요.
+(ja) コロナ19のせいで学校に行けませんでした。
+(en) I couldn't go to school because of COVID-19.
+
+(ko) 코로나19 백신을 맞았어요.
+(ja) コロナ19ワクチンを打ちました。
+(en) I got the COVID-19 vaccine.
+
+(ko) 코로나19 이후에 사람들이 마스크를 써요.
+(ja) コロナ19以降、人々はマスクをします。
+(en) People wear masks after COVID-19.
+
+
+===word: 백신 (ko: 백신 / ja: ワクチン / en: vaccine)===
+(ko) 독감 백신을 맞았어요.
+(ja) インフルエンザワクチンを打ちました。
+(en) I got a flu vaccine.
+
+(ko) 백신이 개발되었어요.
+(ja) ワクチンが開発されました。
+(en) A vaccine was developed.
+
+(ko) 백신은 질병을 예방해요.
+(ja) ワクチンは疾病を予防します。
+(en) Vaccines prevent diseases.
+
+
+===word: 치료제 (ko: 치료제 / ja: 治療剤 / en: treatment)===
+(ko) 이 치료제는 효과가 좋아요.
+(ja) この治療剤は効果が良いです。
+(en) This treatment is effective.
+
+(ko) 새로운 치료제가 나왔어요.
+(ja) 新しい治療剤が出ました。
+(en) A new treatment has come out.
+
+(ko) 치료제가 아직 없어요.
+(ja) 治療剤がまだありません。
+(en) There is no treatment yet.
+
+
+===word: 의료 (ko: 의료 / ja: 医療 / en: medical care)===
+(ko) 한국의 의료 시스템은 좋아요.
+(ja) 韓国の医療システムは良いです。
+(en) Korea's medical system is good.
+
+(ko) 의료 보험이 있어서 다행이에요.
+(ja) 医療保険があって幸いです。
+(en) It's fortunate that there's medical insurance.
+
+(ko) 기본 의료 서비스는 무료예요.
+(ja) 基本医療サービスは無料です。
+(en) Basic medical services are free.
+
+
+===word: 의료진 (ko: 의료진 / ja: 医療陣 / en: medical staff)===
+(ko) 의료진이 열심히 일해요.
+(ja) 医療陣が一生懸命働きます。
+(en) The medical staff works hard.
+
+(ko) 의료진 덕분에 건강을 되찾았어요.
+(ja) 医療陣のおかげで健康を取り戻しました。
+(en) I got my health back thanks to the medical staff.
+
+(ko) 의료진에게 감사해요.
+(ja) 医療陣に感謝します。
+(en) I am grateful to the medical staff.
+
+
+===word: 병원 (ko: 병원 / ja: 病院 / en: hospital)===
+(ko) 아파서 병원에 갔어요.
+(ja) 病気で病院に行きました。
+(en) I went to the hospital because I was sick.
+
+(ko) 이 병원은 종합 병원이에요.
+(ja) この病院は総合病院です。
+(en) This hospital is a general hospital.
+
+(ko) 병원 예약을 했어요.
+(ja) 病院の予約をしました。
+(en) I made a hospital appointment.
+
+
+===word: 약국 (ko: 약국 / ja: 薬局 / en: pharmacy)===
+(ko) 약국이 어디예요?
+(ja) 薬局はどこですか？
+(en) Where is the pharmacy?
+
+(ko) 약국에서 약을 샀어요.
+(ja) 薬局で薬を買いました。
+(en) I bought medicine at the pharmacy.
+
+(ko) 24시간 하는 약국이 있어요?
+(ja) 24時間やっている薬局がありますか？
+(en) Is there a 24-hour pharmacy?
+

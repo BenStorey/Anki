@@ -1,0 +1,1595 @@
+===word: 여행===
+(ko) 여행
+(ja) 旅行
+(en) travel
+
+1. 여행을 좋아해요.
+   (ja) 旅行が好きです。
+   (en) I like traveling.
+
+2. 여행 가는 것이 기대돼요.
+   (ja) 旅行に行くのが楽しみです。
+   (en) I'm looking forward to traveling.
+
+3. 여행 계획을 세우고 있어요.
+   (ja) 旅行の計画を立てています。
+   (en) I'm making travel plans.
+
+---
+
+===word: 관광===
+(ko) 관광
+(ja) 観光
+(en) tourism
+
+1. 서울에서 관광을 했어요.
+   (ja) ソウルで観光をしました。
+   (en) I did sightseeing in Seoul.
+
+2. 관광 버스를 탔어요.
+   (ja) 観光バスに乗りました。
+   (en) I took a sightseeing bus.
+
+3. 여기 관광 정보를 주세요.
+   (ja) ここの観光情報をください。
+   (en) Please give me tourist information here.
+
+---
+
+===word: 출장===
+(ko) 출장
+(ja) 出張
+(en) business trip
+
+1. 다음 주에 출장을 가요.
+   (ja) 来週出張に行きます。
+   (en) I'm going on a business trip next week.
+
+2. 출장으로 일본에 갔어요.
+   (ja) 出張で日本に行きました。
+   (en) I went to Japan on a business trip.
+
+3. 출장이 끝나고 관광도 했어요.
+   (ja) 出張が終わって観光もしました。
+   (en) After the business trip ended, I also did sightseeing.
+
+---
+
+===word: 배낭여행===
+(ko) 배낭여행
+(ja) バックパッキング
+(en) backpacking
+
+1. 배낭여행을 하고 싶어요.
+   (ja) バックパッキングをしたいです。
+   (en) I want to go backpacking.
+
+2. 혼자 배낭여행을 다녀왔어요.
+   (ja) 一人でバックパッキングに行ってきました。
+   (en) I went backpacking alone.
+
+3. 배낭여행은 재미있어요.
+   (ja) バックパッキングは楽しいです。
+   (en) Backpacking is fun.
+
+---
+
+===word: 국내여행===
+(ko) 국내여행
+(ja) 国内旅行
+(en) domestic travel
+
+1. 이번 주말에 국내여행을 가요.
+   (ja) 今週末国内旅行に行きます。
+   (en) I'm going on a domestic trip this weekend.
+
+2. 국내여행은 비행기가 필요 없어요.
+   (ja) 国内旅行は飛行機が要りません。
+   (en) Domestic travel doesn't need a plane.
+
+3. 국내여행도 좋아요.
+   (ja) 国内旅行もいいです。
+   (en) Domestic travel is also good.
+
+---
+
+===word: 해외여행===
+(ko) 해외여행
+(ja) 海外旅行
+(en) overseas travel
+
+1. 해외여행을 자주 해요?
+   (ja) 海外旅行をよくしますか？
+   (en) Do you often travel overseas?
+
+2. 해외여행은 재미있지만 피곤해요.
+   (ja) 海外旅行は楽しいけど疲れます。
+   (en) Overseas travel is fun but tiring.
+
+3. 처음 해외여행을 갔을 때 긴장했어요.
+   (ja) 初めて海外旅行に行った時緊張しました。
+   (en) I was nervous when I first went overseas.
+
+---
+
+===word: 패키지여행===
+(ko) 패키지여행
+(ja) パッケージ旅行
+(en) package tour
+
+1. 패키지여행을 예약했어요.
+   (ja) パッケージ旅行を予約しました。
+   (en) I booked a package tour.
+
+2. 패키지여행은 편리해요.
+   (ja) パッケージ旅行は便利です。
+   (en) Package tours are convenient.
+
+3. 패키지여행보다 자유여행이 좋아요.
+   (ja) パッケージ旅行より自由旅行が好きです。
+   (en) I prefer independent travel to package tours.
+
+---
+
+===word: 자유여행===
+(ko) 자유여행
+(ja) 自由旅行
+(en) independent travel
+
+1. 자유여행 계획을 세우고 있어요.
+   (ja) 自由旅行の計画を立てています。
+   (en) I'm planning an independent trip.
+
+2. 자유여행은 시간이 자유로워요.
+   (ja) 自由旅行は時間が自由です。
+   (en) On independent travel, time is free.
+
+3. 자유여행을 더 좋아해요.
+   (ja) 自由旅行の方が好きです。
+   (en) I prefer independent travel.
+
+---
+
+===word: 단체여행===
+(ko) 단체여행
+(ja) 団体旅行
+(en) group travel
+
+1. 단체여행은 시끄러울 때가 있어요.
+   (ja) 団体旅行はうるさい時があります。
+   (en) Group travel can be noisy sometimes.
+
+2. 단체여행을 한 번도 안 가 봤어요.
+   (ja) 団体旅行に一度も行ったことがありません。
+   (en) I've never been on a group tour.
+
+3. 단체여행은 친구를 사귀기 좋아요.
+   (ja) 団体旅行は友達を作りやすいです。
+   (en) Group travel is good for making friends.
+
+---
+
+===word: 개인여행===
+(ko) 개인여행
+(ja) 個人旅行
+(en) individual travel
+
+1. 개인여행을 준비 중이에요.
+   (ja) 個人旅行を準備中です。
+   (en) I'm preparing for individual travel.
+
+2. 개인여행은 계획이 중요해요.
+   (ja) 個人旅行は計画が大事です。
+   (en) Planning is important for individual travel.
+
+3. 개인여행이 더 자유로워요.
+   (ja) 個人旅行の方が自由です。
+   (en) Individual travel is freer.
+
+---
+
+===word: 여행사===
+(ko) 여행사
+(ja) 旅行会社
+(en) travel agency
+
+1. 여행사에 전화했어요.
+   (ja) 旅行会社に電話しました。
+   (en) I called the travel agency.
+
+2. 여행사 직원이 친절했어요.
+   (ja) 旅行会社の職員が親切でした。
+   (en) The travel agency staff was kind.
+
+3. 여행사에서 패키지를 추천했어요.
+   (ja) 旅行会社でパッケージを勧められました。
+   (en) The travel agency recommended a package.
+
+---
+
+===word: 가이드===
+(ko) 가이드
+(ja) ガイド
+(en) guide
+
+1. 가이드가 설명을 잘했어요.
+   (ja) ガイドが説明を上手にしました。
+   (en) The guide explained well.
+
+2. 한국어 가이드가 있나요?
+   (ja) 韓国語のガイドはいますか？
+   (en) Is there a Korean guide?
+
+3. 가이드 투어를 신청했어요.
+   (ja) ガイドツアーを申し込みました。
+   (en) I applied for a guided tour.
+
+---
+
+===word: 투어===
+(ko) 투어
+(ja) ツアー
+(en) tour
+
+1. 시티 투어를 예약했어요.
+   (ja) シティツアーを予約しました。
+   (en) I booked a city tour.
+
+2. 투어 비용은 얼마예요?
+   (ja) ツアー費用はいくらですか？
+   (en) How much is the tour fee?
+
+3. 이 투어는 몇 시간 걸려요?
+   (ja) このツアーは何時間かかりますか？
+   (en) How many hours does this tour take?
+
+---
+
+===word: 관광지===
+(ko) 관광지
+(ja) 観光地
+(en) tourist attraction
+
+1. 여기 관광지가 아름다워요.
+   (ja) ここの観光地が美しいです。
+   (en) The tourist attraction here is beautiful.
+
+2. 유명한 관광지를 가고 싶어요.
+   (ja) 有名な観光地に行きたいです。
+   (en) I want to go to a famous tourist spot.
+
+3. 관광지에서 사진을 많이 찍었어요.
+   (ja) 観光地で写真をたくさん撮りました。
+   (en) I took many photos at the tourist spot.
+
+---
+
+===word: 명소===
+(ko) 명소
+(ja) 名所
+(en) famous place
+
+1. 이 근처 명소를 알려 주세요.
+   (ja) この近くの名所を教えてください。
+   (en) Please tell me the famous places nearby.
+
+2. 서울의 명소를 방문했어요.
+   (ja) ソウルの名所を訪れました。
+   (en) I visited famous places in Seoul.
+
+3. 이곳은 사진 찍기 좋은 명소예요.
+   (ja) ここは写真を撮るのにいい名所です。
+   (en) This is a good famous spot for taking photos.
+
+---
+
+===word: 유적지===
+(ko) 유적지
+(ja) 遺跡
+(en) historic site
+
+1. 경주에 유적지가 많아요.
+   (ja) 慶州に遺跡が多いです。
+   (en) There are many historic sites in Gyeongju.
+
+2. 유적지를 걸어서 구경했어요.
+   (ja) 遺跡を歩いて見学しました。
+   (en) I walked around the historic site.
+
+3. 이 유적지는 역사가 오래됐어요.
+   (ja) この遺跡は歴史が古いです。
+   (en) This historic site has a long history.
+
+---
+
+===word: 박물관===
+(ko) 박물관
+(ja) 博物館
+(en) museum
+
+1. 박물관에 가고 싶어요.
+   (ja) 博物館に行きたいです。
+   (en) I want to go to the museum.
+
+2. 박물관은 월요일에 문을 닫아요.
+   (ja) 博物館は月曜日に休みです。
+   (en) The museum is closed on Mondays.
+
+3. 국립박물관이 아주 커요.
+   (ja) 国立博物館がとても大きいです。
+   (en) The national museum is very big.
+
+---
+
+===word: 미술관===
+(ko) 미술관
+(ja) 美術館
+(en) art museum
+
+1. 미술관에서 전시를 봤어요.
+   (ja) 美術館で展示を見ました。
+   (en) I saw an exhibition at the art museum.
+
+2. 이 미술관은 입장료가 무료예요.
+   (ja) この美術館は入場料が無料です。
+   (en) This art museum has free admission.
+
+3. 미술관 안에서 사진을 찍으면 안 돼요.
+   (ja) 美術館の中で写真を撮ってはいけません。
+   (en) You must not take photos inside the art museum.
+
+---
+
+===word: 전시관===
+(ko) 전시관
+(ja) 展示館
+(en) exhibition hall
+
+1. 전시관에서 구경하고 있어요.
+   (ja) 展示館で見学しています。
+   (en) I'm looking around the exhibition hall.
+
+2. 전시관이 참 현대적이에요.
+   (ja) 展示館がとても現代的です。
+   (en) The exhibition hall is very modern.
+
+3. 내일 전시관에 갈 거예요.
+   (ja) 明日展示館に行くつもりです。
+   (en) I'm going to the exhibition hall tomorrow.
+
+---
+
+===word: 기념관===
+(ko) 기념관
+(ja) 記念館
+(en) memorial hall
+
+1. 전쟁 기념관에 갔어요.
+   (ja) 戦争記念館に行きました。
+   (en) I went to the war memorial hall.
+
+2. 기념관에서 역사를 배웠어요.
+   (ja) 記念館で歴史を学びました。
+   (en) I learned history at the memorial hall.
+
+3. 기념관 입장은 무료예요.
+   (ja) 記念館の入場は無料です。
+   (en) Admission to the memorial hall is free.
+
+---
+
+===word: 문화재===
+(ko) 문화재
+(ja) 文化財
+(en) cultural heritage
+
+1. 이것은 중요한 문화재예요.
+   (ja) これは重要な文化財です。
+   (en) This is an important cultural heritage.
+
+2. 문화재를 보호해야 해요.
+   (ja) 文化財を保護しなければなりません。
+   (en) We must protect cultural heritage.
+
+3. 이 지역에 문화재가 많아요.
+   (ja) この地域に文化財が多いです。
+   (en) There is a lot of cultural heritage in this area.
+
+---
+
+===word: 국보===
+(ko) 국보
+(ja) 国宝
+(en) national treasure
+
+1. 이것은 한국의 국보예요.
+   (ja) これは韓国の国宝です。
+   (en) This is a Korean national treasure.
+
+2. 국보를 직접 봤어요.
+   (ja) 国宝を直接見ました。
+   (en) I saw a national treasure in person.
+
+3. 이 절에는 국보가 세 개 있어요.
+   (ja) このお寺には国宝が三つあります。
+   (en) This temple has three national treasures.
+
+---
+
+===word: 세계유산===
+(ko) 세계유산
+(ja) 世界遺産
+(en) world heritage
+
+1. 경주는 세계유산 도시예요.
+   (ja) 慶州は世界遺産の都市です。
+   (en) Gyeongju is a world heritage city.
+
+2. 세계유산을 보러 갔어요.
+   (ja) 世界遺産を見に行きました。
+   (en) I went to see world heritage sites.
+
+3. 유네스코 세계유산으로 등록됐어요.
+   (ja) ユネスコ世界遺産に登録されました。
+   (en) It was registered as a UNESCO world heritage.
+
+---
+
+===word: 자연경관===
+(ko) 자연경관
+(ja) 自然景観
+(en) natural scenery
+
+1. 제주도의 자연경관이 아름다워요.
+   (ja) 済州島の自然景観が美しいです。
+   (en) Jeju Island's natural scenery is beautiful.
+
+2. 자연경관을 감상하는 것을 좋아해요.
+   (ja) 自然景観を鑑賞するのが好きです。
+   (en) I like appreciating natural scenery.
+
+3. 이곳의 자연경관은 최고예요.
+   (ja) ここの自然景観は最高です。
+   (en) The natural scenery here is the best.
+
+---
+
+===word: 경치===
+(ko) 경치
+(ja) 景色
+(en) scenery
+
+1. 산에서 경치가 좋았어요.
+   (ja) 山で景色が良かったです。
+   (en) The scenery was nice on the mountain.
+
+2. 여기 경치가 정말 멋져요.
+   (ja) ここの景色が本当に素晴らしいです。
+   (en) The scenery here is really wonderful.
+
+3. 경치 좋은 카페를 찾고 있어요.
+   (ja) 景色のいいカフェを探しています。
+   (en) I'm looking for a cafe with a nice view.
+
+---
+
+===word: 풍경===
+(ko) 풍경
+(ja) 風景
+(en) landscape
+
+1. 시골 풍경이 아름다워요.
+   (ja) 田舎の風景が美しいです。
+   (en) The countryside landscape is beautiful.
+
+2. 이 풍경을 그렸어요.
+   (ja) この風景を描きました。
+   (en) I painted this landscape.
+
+3. 겨울 풍경도 아름다워요.
+   (ja) 冬の風景も美しいです。
+   (en) The winter landscape is also beautiful.
+
+---
+
+===word: 전망===
+(ko) 전망
+(ja) 見晴らし
+(en) view
+
+1. 전망이 아주 좋아요.
+   (ja) 見晴らしがとても良いです。
+   (en) The view is very good.
+
+2. 전망대에 올라갔어요.
+   (ja) 展望台に上りました。
+   (en) I went up to the observatory.
+
+3. 여기서 바다 전망을 볼 수 있어요.
+   (ja) ここから海の見晴らしが見えます。
+   (en) You can see the ocean view from here.
+
+---
+
+===word: 조망===
+(ko) 조망
+(ja) 眺望
+(en) view
+
+1. 이 방은 조망이 좋아요.
+   (ja) この部屋は眺望が良いです。
+   (en) This room has a good view.
+
+2. 조망권이 있는 아파트예요.
+   (ja) 眺望権のあるアパートです。
+   (en) It's an apartment with a view right.
+
+3. 조망을 방해하는 건물이 없어요.
+   (ja) 眺望を妨げる建物がありません。
+   (en) There are no buildings blocking the view.
+
+---
+
+===word: 야경===
+(ko) 야경
+(ja) 夜景
+(en) night view
+
+1. 부산의 야경이 아름다워요.
+   (ja) 釜山の夜景が美しいです。
+   (en) Busan's night view is beautiful.
+
+2. 야경 사진을 찍었어요.
+   (ja) 夜景の写真を撮りました。
+   (en) I took a night view photo.
+
+3. 야경을 보면서 식사했어요.
+   (ja) 夜景を見ながら食事しました。
+   (en) I had a meal while looking at the night view.
+
+---
+
+===word: 일몰===
+(ko) 일몰
+(ja) 日没
+(en) sunset
+
+1. 일몰 시간에 해변에 갔어요.
+   (ja) 日没の時間に海辺に行きました。
+   (en) I went to the beach at sunset time.
+
+2. 일몰이 정말 아름다웠어요.
+   (ja) 日没が本当に美しかったです。
+   (en) The sunset was really beautiful.
+
+3. 일몰을 보면서 산책했어요.
+   (ja) 日没を見ながら散歩しました。
+   (en) I took a walk while watching the sunset.
+
+---
+
+===word: 일출===
+(ko) 일출
+(ja) 日の出
+(en) sunrise
+
+1. 일출을 보기 위해 일찍 일어났어요.
+   (ja) 日の出を見るために早く起きました。
+   (en) I woke up early to see the sunrise.
+
+2. 산에서 일출을 봤어요.
+   (ja) 山で日の出を見ました。
+   (en) I saw the sunrise from the mountain.
+
+3. 일출 사진을 찍고 싶어요.
+   (ja) 日の出の写真を撮りたいです。
+   (en) I want to take a sunrise photo.
+
+---
+
+===word: 노을===
+(ko) 노을
+(ja) 夕焼け
+(en) sunset glow
+
+1. 저녁 노을이 예뻐요.
+   (ja) 夕方の夕焼けがきれいです。
+   (en) The evening sunset glow is pretty.
+
+2. 노을을 보며 걸었어요.
+   (ja) 夕焼けを見ながら歩きました。
+   (en) I walked while watching the sunset glow.
+
+3. 오늘 노을이 특히 아름다워요.
+   (ja) 今日の夕焼けが特に美しいです。
+   (en) Today's sunset glow is especially beautiful.
+
+---
+
+===word: 해변===
+(ko) 해변
+(ja) 海辺
+(en) beach
+
+1. 해변에서 수영했어요.
+   (ja) 海辺で泳ぎました。
+   (en) I swam at the beach.
+
+2. 해변을 따라 산책했어요.
+   (ja) 海辺に沿って散歩しました。
+   (en) I walked along the beach.
+
+3. 해변에서 일몰을 봤어요.
+   (ja) 海辺で日没を見ました。
+   (en) I watched the sunset at the beach.
+
+---
+
+===word: 온천===
+(ko) 온천
+(ja) 温泉
+(en) hot spring
+
+1. 일본에서 온천에 갔어요.
+   (ja) 日本で温泉に行きました。
+   (en) I went to a hot spring in Japan.
+
+2. 온천이 피로 회복에 좋아요.
+   (ja) 温泉は疲労回復にいいです。
+   (en) Hot springs are good for recovery from fatigue.
+
+3. 온천 여행을 계획하고 있어요.
+   (ja) 温泉旅行を計画しています。
+   (en) I'm planning a hot spring trip.
+
+---
+
+===word: 계곡===
+(ko) 계곡
+(ja) 渓谷
+(en) valley
+
+1. 계곡 물이 차가웠어요.
+   (ja) 渓谷の水が冷たかったです。
+   (en) The valley water was cold.
+
+2. 계곡에 놀러 갔어요.
+   (ja) 渓谷に遊びに行きました。
+   (en) I went to the valley to play.
+
+3. 여름에 계곡이 시원해요.
+   (ja) 夏に渓谷が涼しいです。
+   (en) The valley is cool in summer.
+
+---
+
+===word: 폭포===
+(ko) 폭포
+(ja) 滝
+(en) waterfall
+
+1. 폭포 소리가 시끄러웠어요.
+   (ja) 滝の音がうるさかったです。
+   (en) The waterfall sound was loud.
+
+2. 폭포 앞에서 사진을 찍었어요.
+   (ja) 滝の前で写真を撮りました。
+   (en) I took a photo in front of the waterfall.
+
+3. 이 폭포는 높이가 50미터예요.
+   (ja) この滝は高さが50メートルです。
+   (en) This waterfall is 50 meters high.
+
+---
+
+===word: 국립공원===
+(ko) 국립공원
+(ja) 国立公園
+(en) national park
+
+1. 국립공원에 하이킹하러 갔어요.
+   (ja) 国立公園にハイキングに行きました。
+   (en) I went hiking in the national park.
+
+2. 설악산 국립공원이 유명해요.
+   (ja) 雪岳山国立公園が有名です。
+   (en) Seoraksan National Park is famous.
+
+3. 국립공원에서는 캠핑을 할 수 있어요.
+   (ja) 国立公園ではキャンプができます。
+   (en) You can camp in national parks.
+
+---
+
+===word: 휴양지===
+(ko) 휴양지
+(ja) リゾート地
+(en) resort
+
+1. 제주도는 인기 있는 휴양지예요.
+   (ja) 済州島は人気のあるリゾート地です。
+   (en) Jeju Island is a popular resort.
+
+2. 휴양지에서 쉬고 싶어요.
+   (ja) リゾート地で休みたいです。
+   (en) I want to rest at a resort.
+
+3. 이 휴양지는 조용해서 좋아요.
+   (ja) このリゾート地は静かでいいです。
+   (en) This resort is nice because it's quiet.
+
+---
+
+===word: 리조트===
+(ko) 리조트
+(ja) リゾート
+(en) resort
+
+1. 고급 리조트에 묵었어요.
+   (ja) 高級リゾートに泊まりました。
+   (en) I stayed at a luxury resort.
+
+2. 리조트에 수영장이 있어요.
+   (ja) リゾートにプールがあります。
+   (en) The resort has a swimming pool.
+
+3. 리조트에서 일주일 동안 쉴 거예요.
+   (ja) リゾートで一週間休むつもりです。
+   (en) I'm going to rest at the resort for a week.
+
+---
+
+===word: 호텔===
+(ko) 호텔
+(ja) ホテル
+(en) hotel
+
+1. 호텔을 예약했어요.
+   (ja) ホテルを予約しました。
+   (en) I booked a hotel.
+
+2. 이 호텔은 5성급이에요.
+   (ja) このホテルは5つ星です。
+   (en) This hotel is five-star.
+
+3. 호텔 체크인은 3시예요.
+   (ja) ホテルのチェックインは3時です。
+   (en) Hotel check-in is at 3 o'clock.
+
+---
+
+===word: 모텔===
+(ko) 모텔
+(ja) モーテル
+(en) motel
+
+1. 모텔은 호텔보다 싸요.
+   (ja) モーテルはホテルより安いです。
+   (en) Motels are cheaper than hotels.
+
+2. 여기 모텔에 묵었어요.
+   (ja) ここのモーテルに泊まりました。
+   (en) I stayed at this motel.
+
+3. 모텔을 찾고 있어요.
+   (ja) モーテルを探しています。
+   (en) I'm looking for a motel.
+
+---
+
+===word: 여관===
+(ko) 여관
+(ja) 旅館
+(en) inn
+
+1. 일본의 여관에 묵고 싶어요.
+   (ja) 日本の旅館に泊まりたいです。
+   (en) I want to stay at a Japanese inn.
+
+2. 이 여관은 오래된 건물이에요.
+   (ja) この旅館は古い建物です。
+   (en) This inn is an old building.
+
+3. 여관 주인이 친절했어요.
+   (ja) 旅館の主人が親切でした。
+   (en) The innkeeper was kind.
+
+---
+
+===word: 민박===
+(ko) 민박
+(ja) 民泊
+(en) homestay
+
+1. 민박에서 머물렀어요.
+   (ja) 民泊に滞在しました。
+   (en) I stayed at a homestay.
+
+2. 민박 비용이 저렴했어요.
+   (ja) 民泊の費用が安かったです。
+   (en) The homestay fee was cheap.
+
+3. 민박 가족이 저를 도와줬어요.
+   (ja) 民泊の家族が私を助けてくれました。
+   (en) The homestay family helped me.
+
+---
+
+===word: 게스트하우스===
+(ko) 게스트하우스
+(ja) ゲストハウス
+(en) guesthouse
+
+1. 게스트하우스에서 다른 여행자를 만났어요.
+   (ja) ゲストハウスで他の旅行者に会いました。
+   (en) I met other travelers at the guesthouse.
+
+2. 게스트하우스는 싸고 깨끗해요.
+   (ja) ゲストハウスは安くてきれいです。
+   (en) Guesthouses are cheap and clean.
+
+3. 게스트하우스를 추천해 주세요.
+   (ja) ゲストハウスを勧めてください。
+   (en) Please recommend a guesthouse.
+
+---
+
+===word: 펜션===
+(ko) 펜션
+(ja) ペンション
+(en) pension
+
+1. 펜션을 빌렸어요.
+   (ja) ペンションを借りました。
+   (en) I rented a pension.
+
+2. 이 펜션은 바다가 보여요.
+   (ja) このペンションは海が見えます。
+   (en) This pension has an ocean view.
+
+3. 가족과 함께 펜션에 갔어요.
+   (ja) 家族と一緒にペンションに行きました。
+   (en) I went to a pension with my family.
+
+---
+
+===word: 콘도===
+(ko) 콘도
+(ja) コンドミニアム
+(en) condominium
+
+1. 콘도에서 가족과 머물렀어요.
+   (ja) コンドミニアムで家族と滞在しました。
+   (en) I stayed at a condominium with my family.
+
+2. 콘도는 주방이 있어서 편리해요.
+   (ja) コンドミニアムはキッチンがあって便利です。
+   (en) Condominiums are convenient because they have a kitchen.
+
+3. 스키장 근처 콘도를 예약했어요.
+   (ja) スキー場の近くのコンドミニアムを予約しました。
+   (en) I booked a condominium near the ski resort.
+
+---
+
+===word: 유스호스텔===
+(ko) 유스호스텔
+(ja) ユースホステル
+(en) youth hostel
+
+1. 유스호스텔은 젊은 사람들에게 인기예요.
+   (ja) ユースホステルは若い人に人気です。
+   (en) Youth hostels are popular with young people.
+
+2. 유스호스텔에서 같은 방을 썼어요.
+   (ja) ユースホステルで同じ部屋を使いました。
+   (en) I shared a room at the youth hostel.
+
+3. 유스호스텔에 예약하려면 카드가 필요해요.
+   (ja) ユースホステルに予約するにはカードが必要です。
+   (en) You need a card to book a youth hostel.
+
+---
+
+===word: 캠핑장===
+(ko) 캠핑장
+(ja) キャンプ場
+(en) campsite
+
+1. 캠핑장에서 텐트를 쳤어요.
+   (ja) キャンプ場でテントを張りました。
+   (en) I pitched a tent at the campsite.
+
+2. 이 캠핑장은 화장실이 깨끗해요.
+   (ja) このキャンプ場はトイレがきれいです。
+   (en) This campsite has clean toilets.
+
+3. 캠핑장을 예약해야 해요.
+   (ja) キャンプ場を予約しないといけません。
+   (en) I need to reserve the campsite.
+
+---
+
+===word: 숙박===
+(ko) 숙박
+(ja) 宿泊
+(en) accommodation
+
+1. 숙박 비용은 얼마예요?
+   (ja) 宿泊費用はいくらですか？
+   (en) How much is the accommodation cost?
+
+2. 숙박 시설이 부족해요.
+   (ja) 宿泊施設が不足しています。
+   (en) Accommodation facilities are insufficient.
+
+3. 숙박을 미리 예약했어요.
+   (ja) 宿泊をあらかじめ予約しました。
+   (en) I booked accommodation in advance.
+
+---
+
+===word: 예약===
+(ko) 예약
+(ja) 予約
+(en) reservation
+
+1. 예약을 취소하고 싶어요.
+   (ja) 予約をキャンセルしたいです。
+   (en) I want to cancel the reservation.
+
+2. 예약 번호를 알려 주세요.
+   (ja) 予約番号を教えてください。
+   (en) Please tell me the reservation number.
+
+3. 예약은 인터넷으로 했어요.
+   (ja) 予約はインターネットでしました。
+   (en) I made the reservation online.
+
+---
+
+===word: 체크인===
+(ko) 체크인
+(ja) チェックイン
+(en) check-in
+
+1. 체크인 시간은 몇 시예요?
+   (ja) チェックインの時間は何時ですか？
+   (en) What time is check-in?
+
+2. 일찍 체크인할 수 있어요?
+   (ja) 早くチェックインできますか？
+   (en) Can I check in early?
+
+3. 체크인할 때 여권이 필요해요.
+   (ja) チェックインの時にパスポートが必要です。
+   (en) You need a passport when checking in.
+
+---
+
+===word: 체크아웃===
+(ko) 체크아웃
+(ja) チェックアウト
+(en) check-out
+
+1. 체크아웃은 11시예요.
+   (ja) チェックアウトは11時です。
+   (en) Check-out is at 11 o'clock.
+
+2. 늦게 체크아웃하고 싶어요.
+   (ja) 遅くチェックアウトしたいです。
+   (en) I want to check out late.
+
+3. 체크아웃 전에 짐을 정리했어요.
+   (ja) チェックアウトの前に荷物を整理しました。
+   (en) I organized my luggage before check-out.
+
+---
+
+===word: 프런트===
+(ko) 프런트
+(ja) フロント
+(en) front desk
+
+1. 프런트에 물어볼게 있어요.
+   (ja) フロントに聞きたいことがあります。
+   (en) I have something to ask at the front desk.
+
+2. 프런트에서 키를 받았어요.
+   (ja) フロントで鍵をもらいました。
+   (en) I got the key at the front desk.
+
+3. 프런트 직원이 영어를 잘해요.
+   (ja) フロントの職員が英語を上手に話します。
+   (en) The front desk staff speaks English well.
+
+---
+
+===word: 로비===
+(ko) 로비
+(ja) ロビー
+(en) lobby
+
+1. 로비에서 기다릴게요.
+   (ja) ロビーで待ちます。
+   (en) I'll wait in the lobby.
+
+2. 호텔 로비가 아주 넓어요.
+   (ja) ホテルのロビーがとても広いです。
+   (en) The hotel lobby is very spacious.
+
+3. 로비에 커피 머신이 있어요.
+   (ja) ロビーにコーヒーマシンがあります。
+   (en) There's a coffee machine in the lobby.
+
+---
+
+===word: 객실===
+(ko) 객실
+(ja) 客室
+(en) guest room
+
+1. 객실이 깨끗하고 좋았어요.
+   (ja) 客室がきれいで良かったです。
+   (en) The guest room was clean and nice.
+
+2. 객실 번호는 502호예요.
+   (ja) 客室番号は502号です。
+   (en) The room number is 502.
+
+3. 객실에서 인터넷을 사용할 수 있어요.
+   (ja) 客室でインターネットが使えます。
+   (en) You can use the internet in the guest room.
+
+---
+
+===word: 룸서비스===
+(ko) 룸서비스
+(ja) ルームサービス
+(en) room service
+
+1. 룸서비스를 이용했어요.
+   (ja) ルームサービスを利用しました。
+   (en) I used room service.
+
+2. 룸서비스 메뉴를 보고 싶어요.
+   (ja) ルームサービスのメニューを見たいです。
+   (en) I want to see the room service menu.
+
+3. 룸서비스로 아침을 시켰어요.
+   (ja) ルームサービスで朝食を頼みました。
+   (en) I ordered breakfast via room service.
+
+---
+
+===word: 미니바===
+(ko) 미니바
+(ja) ミニバー
+(en) minibar
+
+1. 미니바에 음료수가 있어요.
+   (ja) ミニバーに飲み物があります。
+   (en) There are drinks in the minibar.
+
+2. 미니바는 유료예요.
+   (ja) ミニバーは有料です。
+   (en) The minibar is chargeable.
+
+3. 미니바에서 콜라를 꺼냈어요.
+   (ja) ミニバーからコーラを取り出しました。
+   (en) I took a cola from the minibar.
+
+---
+
+===word: 오션뷰===
+(ko) 오션뷰
+(ja) オーシャンビュー
+(en) ocean view
+
+1. 오션뷰 객실을 예약했어요.
+   (ja) オーシャンビューの客室を予約しました。
+   (en) I booked an ocean view room.
+
+2. 오션뷰가 정말 아름다웠어요.
+   (ja) オーシャンビューが本当に美しかったです。
+   (en) The ocean view was really beautiful.
+
+3. 오션뷰 방이 더 비싸요.
+   (ja) オーシャンビューの部屋の方が高いです。
+   (en) Ocean view rooms are more expensive.
+
+---
+
+===word: 시티뷰===
+(ko) 시티뷰
+(ja) シティビュー
+(en) city view
+
+1. 시티뷰 방도 괜찮아요.
+   (ja) シティビューの部屋もいいです。
+   (en) A city view room is also fine.
+
+2. 시티뷰를 볼 수 있는 레스토랑이에요.
+   (ja) シティビューが見えるレストランです。
+   (en) It's a restaurant with a city view.
+
+3. 시티뷰 야경이 아름다워요.
+   (ja) シティビューの夜景が美しいです。
+   (en) The city view night scenery is beautiful.
+
+---
+
+===word: 조식===
+(ko) 조식
+(ja) 朝食
+(en) breakfast
+
+1. 조식이 포함되어 있어요.
+   (ja) 朝食が含まれています。
+   (en) Breakfast is included.
+
+2. 조식은 몇 시부터예요?
+   (ja) 朝食は何時からですか？
+   (en) What time does breakfast start?
+
+3. 조식 뷔페가 맛있었어요.
+   (ja) 朝食ビュッフェが美味しかったです。
+   (en) The breakfast buffet was delicious.
+
+---
+
+===word: 뷔페===
+(ko) 뷔페
+(ja) ビュッフェ
+(en) buffet
+
+1. 뷔페에서 저녁을 먹었어요.
+   (ja) ビュッフェで夕食を食べました。
+   (en) I had dinner at the buffet.
+
+2. 뷔페 요리가 다양해요.
+   (ja) ビュッフェの料理が多彩です。
+   (en) The buffet food is varied.
+
+3. 뷔페 가격이 비싸요.
+   (ja) ビュッフェの値段が高いです。
+   (en) The buffet price is expensive.
+
+---
+
+===word: 레스토랑===
+(ko) 레스토랑
+(ja) レストラン
+(en) restaurant
+
+1. 호텔 레스토랑이 맛있어요.
+   (ja) ホテルのレストランが美味しいです。
+   (en) The hotel restaurant is delicious.
+
+2. 레스토랑을 추천해 주세요.
+   (ja) レストランを勧めてください。
+   (en) Please recommend a restaurant.
+
+3. 이 레스토랑은 예약이 필요해요.
+   (ja) このレストランは予約が必要です。
+   (en) This restaurant requires a reservation.
+
+---
+
+===word: 바===
+(ko) 바
+(ja) バー
+(en) bar
+
+1. 호텔 바에 갔어요.
+   (ja) ホテルのバーに行きました。
+   (en) I went to the hotel bar.
+
+2. 바에서 칵테일을 마셨어요.
+   (ja) バーでカクテルを飲みました。
+   (en) I drank a cocktail at the bar.
+
+3. 바는 10시에 문을 닫아요.
+   (ja) バーは10時に閉まります。
+   (en) The bar closes at 10 o'clock.
+
+---
+
+===word: 라운지===
+(ko) 라운지
+(ja) ラウンジ
+(en) lounge
+
+1. 라운지에서 커피를 마셨어요.
+   (ja) ラウンジでコーヒーを飲みました。
+   (en) I drank coffee in the lounge.
+
+2. 라운지는 조용해서 좋아요.
+   (ja) ラウンジは静かでいいです。
+   (en) The lounge is nice because it's quiet.
+
+3. 비즈니스 라운지를 이용할 수 있어요.
+   (ja) ビジネスラウンジを利用できます。
+   (en) You can use the business lounge.
+
+---
+
+===word: 피트니스===
+(ko) 피트니스
+(ja) フィットネス
+(en) fitness center
+
+1. 호텔 피트니스에서 운동했어요.
+   (ja) ホテルのフィットネスで運動しました。
+   (en) I exercised at the hotel fitness center.
+
+2. 피트니스는 24시간 이용 가능해요.
+   (ja) フィットネスは24時間利用可能です。
+   (en) The fitness center is available 24 hours.
+
+3. 피트니스에서 수건을 빌릴 수 있어요.
+   (ja) フィットネスでタオルを借りられます。
+   (en) You can borrow towels at the fitness center.
+
+---
+
+===word: 수영장===
+(ko) 수영장
+(ja) プール
+(en) swimming pool
+
+1. 수영장에서 수영했어요.
+   (ja) プールで泳ぎました。
+   (en) I swam in the swimming pool.
+
+2. 수영장이 실내에 있어요.
+   (ja) プールが室内にあります。
+   (en) The swimming pool is indoors.
+
+3. 아이가 수영장에서 놀고 있어요.
+   (ja) 子供がプールで遊んでいます。
+   (en) The child is playing in the pool.
+
+---
+
+===word: 사우나===
+(ko) 사우나
+(ja) サウナ
+(en) sauna
+
+1. 사우나에 갔다 왔어요.
+   (ja) サウナに行ってきました。
+   (en) I went to the sauna.
+
+2. 사우나 후에 샤워했어요.
+   (ja) サウナの後にシャワーをしました。
+   (en) I showered after the sauna.
+
+3. 이 호텔에는 사우나가 있어요.
+   (ja) このホテルにはサウナがあります。
+   (en) This hotel has a sauna.
+
+---
+
+===word: 스파===
+(ko) 스파
+(ja) スパ
+(en) spa
+
+1. 스파에서 마사지를 받았어요.
+   (ja) スパでマッサージを受けました。
+   (en) I got a massage at the spa.
+
+2. 스파 예약을 하고 싶어요.
+   (ja) スパの予約をしたいです。
+   (en) I want to book a spa.
+
+3. 스파 시설이 아주 좋았어요.
+   (ja) スパ施設がとても良かったです。
+   (en) The spa facilities were very good.
+
+---
+
+===word: 수하물===
+(ko) 수하물
+(ja) 手荷物
+(en) baggage
+
+1. 수하물을 찾고 있어요.
+   (ja) 手荷物を探しています。
+   (en) I'm looking for my baggage.
+
+2. 수하물이 도착하지 않았어요.
+   (ja) 手荷物が届いていません。
+   (en) My baggage hasn't arrived.
+
+3. 수하물은 2개예요.
+   (ja) 手荷物は2つです。
+   (en) I have two pieces of baggage.
+
+---
+
+===word: 짐===
+(ko) 짐
+(ja) 荷物
+(en) luggage
+
+1. 짐이 너무 무거워요.
+   (ja) 荷物が重すぎます。
+   (en) My luggage is too heavy.
+
+2. 짐을 방에 두고 왔어요.
+   (ja) 荷物を部屋に置いてきました。
+   (en) I left my luggage in the room.
+
+3. 짐을 도와줄 사람이 필요해요.
+   (ja) 荷物を運ぶのを手伝ってくれる人が必要です。
+   (en) I need someone to help with my luggage.
+
+---
+
+===word: 캐리어===
+(ko) 캐리어
+(ja) キャリーバッグ
+(en) suitcase
+
+1. 캐리어를 끌고 공항에 갔어요.
+   (ja) キャリーバッグを引いて空港に行きました。
+   (en) I went to the airport pulling my suitcase.
+
+2. 캐리어가 고장 났어요.
+   (ja) キャリーバッグが壊れました。
+   (en) My suitcase broke.
+
+3. 새 캐리어를 샀어요.
+   (ja) 新しいキャリーバッグを買いました。
+   (en) I bought a new suitcase.
+
+---
+
+===word: 여권===
+(ko) 여권
+(ja) パスポート
+(en) passport
+
+1. 여권을 잃어버렸어요.
+   (ja) パスポートをなくしました。
+   (en) I lost my passport.
+
+2. 여권 사진을 찍었어요.
+   (ja) パスポートの写真を撮りました。
+   (en) I took a passport photo.
+
+3. 여권 만료일을 확인했어요.
+   (ja) パスポートの有効期限を確認しました。
+   (en) I checked the passport expiration date.
+
+---
+
+===word: 비자===
+(ko) 비자
+(ja) ビザ
+(en) visa
+
+1. 비자를 신청해야 해요.
+   (ja) ビザを申請しなければなりません。
+   (en) I need to apply for a visa.
+
+2. 비자가 승인됐어요.
+   (ja) ビザが承認されました。
+   (en) My visa was approved.
+
+3. 비자 없이 여행할 수 있어요?
+   (ja) ビザなしで旅行できますか？
+   (en) Can I travel without a visa?
+
+---
+
+===word: 항공권===
+(ko) 항공권
+(ja) 航空券
+(en) plane ticket
+
+1. 항공권을 예매했어요.
+   (ja) 航空券を予約しました。
+   (en) I booked a plane ticket.
+
+2. 항공권 가격이 올랐어요.
+   (ja) 航空券の値段が上がりました。
+   (en) The plane ticket price went up.
+
+3. 왕복 항공권을 샀어요.
+   (ja) 往復航空券を買いました。
+   (en) I bought a round-trip ticket.
+
+---
+
+===word: 티켓===
+(ko) 티켓
+(ja) チケット
+(en) ticket
+
+1. 티켓을 온라인으로 샀어요.
+   (ja) チケットをオンラインで買いました。
+   (en) I bought the ticket online.
+
+2. 티켓이 매진됐어요.
+   (ja) チケットが完売しました。
+   (en) The tickets are sold out.
+
+3. 입장 티켓 두 장 주세요.
+   (ja) 入場チケット2枚ください。
+   (en) Please give me two admission tickets.
+
+---
+
+===word: 출국===
+(ko) 출국
+(ja) 出国
+(en) departure from country
+
+1. 출국 수속을 마쳤어요.
+   (ja) 出国手続きを終えました。
+   (en) I completed departure procedures.
+
+2. 출국할 때 여권을 보여줘야 해요.
+   (ja) 出国する時にパスポートを見せないといけません。
+   (en) You need to show your passport when departing.
+
+3. 출국 심사가 오래 걸렸어요.
+   (ja) 出国審査に時間がかかりました。
+   (en) Departure immigration took a long time.
+
+---
+
+===word: 입국===
+(ko) 입국
+(ja) 入国
+(en) entry into country
+
+1. 입국 신고서를 썼어요.
+   (ja) 入国申告書を書きました。
+   (en) I filled out an entry declaration form.
+
+2. 입국할 때 세관 신고를 해야 해요.
+   (ja) 入国する時に税関申告をしなければなりません。
+   (en) You need to do customs declaration when entering.
+
+3. 입국 심사에서 질문을 받았어요.
+   (ja) 入国審査で質問を受けました。
+   (en) I was asked questions at immigration entry.
+
+---
+
+===word: 면세점===
+(ko) 면세점
+(ja) 免税店
+(en) duty-free shop
+
+1. 면세점에서 향수를 샀어요.
+   (ja) 免税店で香水を買いました。
+   (en) I bought perfume at the duty-free shop.
+
+2. 면세점은 공항 안에 있어요.
+   (ja) 免税店は空港の中にあります。
+   (en) The duty-free shop is inside the airport.
+
+3. 면세점에서 쇼핑하는 것을 좋아해요.
+   (ja) 免税店で買い物するのが好きです。
+   (en) I like shopping at duty-free shops.
+
+---
+
+===word: 기내===
+(ko) 기내
+(ja) 機内
+(en) onboard
+
+1. 기내에서 영화를 봤어요.
+   (ja) 機内で映画を見ました。
+   (en) I watched a movie onboard.
+
+2. 기내식이 생각보다 괜찮았어요.
+   (ja) 機内食が思ったより悪くなかったです。
+   (en) The onboard meal was okay.
+
+3. 기내 반입 금지 물품이 있어요.
+   (ja) 機内持ち込み禁止品があります。
+   (en) There are items prohibited from onboard carry-on.
+
+---
+
+===word: 비행기===
+(ko) 비행기
+(ja) 飛行機
+(en) airplane
+
+1. 비행기를 타고 여행했어요.
+   (ja) 飛行機に乗って旅行しました。
+   (en) I traveled by airplane.
+
+2. 비행기 안에서 잠을 잤어요.
+   (ja) 飛行機の中で寝ました。
+   (en) I slept on the airplane.
+
+3. 비행기가 연착됐어요.
+   (ja) 飛行機が遅延しました。
+   (en) The airplane was delayed.
+
+---
+
+===word: 공항===
+(ko) 공항
+(ja) 空港
+(en) airport
+
+1. 공항에 2시간 일찍 도착했어요.
+   (ja) 空港に2時間早く到着しました。
+   (en) I arrived at the airport 2 hours early.
+
+2. 공항이 너무 복잡했어요.
+   (ja) 空港がとても混雑していました。
+   (en) The airport was very crowded.
+
+3. 인천공항은 정말 커요.
+   (ja) 仁川空港は本当に大きいです。
+   (en) Incheon Airport is really big.
+
+---
+
+===word: 터미널===
+(ko) 터미널
+(ja) ターミナル
+(en) terminal
+
+1. 제1터미널에서 비행기를 타요.
+   (ja) 第1ターミナルで飛行機に乗ります。
+   (en) I board the plane at Terminal 1.
+
+2. 터미널이 너무 넓어서 헤맸어요.
+   (ja) ターミナルが広すぎて迷いました。
+   (en) I got lost because the terminal was too big.
+
+3. 터미널 안에 샵이 많아요.
+   (ja) ターミナルの中に店がたくさんあります。
+   (en) There are many shops inside the terminal.
+
+---
+
+===word: 탑승구===
+(ko) 탑승구
+(ja) 搭乗口
+(en) gate
+
+1. 탑승구 번호를 확인했어요.
+   (ja) 搭乗口の番号を確認しました。
+   (en) I checked the gate number.
+
+2. 탑승구가 바뀌었어요.
+   (ja) 搭乗口が変わりました。
+   (en) The gate has changed.
+
+3. 탑승구까지 10분 걸려요.
+   (ja) 搭乗口まで10分かかります。
+   (en) It takes 10 minutes to the gate.
+
+---
+
+===word: 탑승===
+(ko) 탑승
+(ja) 搭乗
+(en) boarding
+
+1. 탑승 시간이 되면 알려 주세요.
+   (ja) 搭乗時間になったら教えてください。
+   (en) Please tell me when boarding time comes.
+
+2. 지금 탑승 중이에요.
+   (ja) 今搭乗中です。
+   (en) We are now boarding.
+
+3. 탑승권을 보여 주세요.
+   (ja) 搭乗券を見せてください。
+   (en) Please show your boarding pass.
+
+---

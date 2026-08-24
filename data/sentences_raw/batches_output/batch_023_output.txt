@@ -1,0 +1,421 @@
+# Batch 23/32 — Korean Sentences with JA/EN
+
+## 과학 (science)
+1. 과학은 재미있어요. | 科学は面白いです。 | Science is fun.
+2. 저는 과학을 공부해요. | 私は科学を勉強します。 | I study science.
+3. 과학 시간에 실험을 해요. | 科学の時間に実験をします。 | We do experiments in science class.
+
+## 기술 (technology)
+1. 기술이 중요해요. | 技術は重要です。 | Technology is important.
+2. 요즘 기술이 발달했어요. | 最近、技術が発達しました。 | Technology has developed a lot these days.
+3. 새로운 기술을 배워요. | 新しい技術を学びます。 | I learn new technology.
+
+## 공학 (engineering)
+1. 공학을 전공해요. | 工学を専攻しています。 | I major in engineering.
+2. 공학은 수학을 많이 사용해요. | 工学は数学をたくさん使います。 | Engineering uses a lot of math.
+3. 공학자가 되고 싶어요. | エンジニアになりたいです。 | I want to become an engineer.
+
+## 화학 (chemistry)
+1. 화학은 어려워요. | 化学は難しいです。 | Chemistry is difficult.
+2. 화학 시간에 실험해요. | 化学の時間に実験します。 | We experiment in chemistry class.
+3. 저는 화학을 좋아해요. | 私は化学が好きです。 | I like chemistry.
+
+## 물리학 (physics)
+1. 물리학은 재미있는 학문이에요. | 物理学は面白い学問です。 | Physics is an interesting field of study.
+2. 물리학에서 힘을 배워요. | 物理学で力を学びます。 | We learn about force in physics.
+3. 물리학 선생님이 친절하세요. | 物理学の先生は親切です。 | The physics teacher is kind.
+
+## 생물학 (biology)
+1. 생물학에서 동물을 공부해요. | 生物学で動物を勉強します。 | We study animals in biology.
+2. 생물학 시간이 즐거워요. | 生物学の時間が楽しいです。 | Biology class is enjoyable.
+3. 세포는 생물학의 기본이에요. | 細胞は生物学の基本です。 | Cells are the basics of biology.
+
+## 지질학 (geology)
+1. 지질학은 땅을 연구해요. | 地質学は大地を研究します。 | Geology studies the earth.
+2. 지질학자는 돌을 분석해요. | 地質学者は石を分析します。 | Geologists analyze rocks.
+3. 지질학을 배우고 있어요. | 地質学を学んでいます。 | I am learning geology.
+
+## 천문학 (astronomy)
+1. 천문학에서 별을 봐요. | 天文学で星を見ます。 | We look at stars in astronomy.
+2. 천문학자는 밤에 일해요. | 天文学者は夜に働きます。 | Astronomers work at night.
+3. 저는 천문학에 관심이 있어요. | 私は天文学に興味があります。 | I am interested in astronomy.
+
+## 수학 (mathematics)
+1. 수학은 기본이 중요해요. | 数学は基本が重要です。 | Basics are important in mathematics.
+2. 저는 수학을 잘해요. | 私は数学が得意です。 | I am good at mathematics.
+3. 수학 문제를 풀어요. | 数学の問題を解きます。 | I solve math problems.
+
+## 대수학 (algebra)
+1. 대수학에서 x를 사용해요. | 代数学でxを使います。 | We use x in algebra.
+2. 대수학 시험이 있었어요. | 代数学の試験がありました。 | There was an algebra test.
+3. 대수학은 재미있어요. | 代数学は面白いです。 | Algebra is fun.
+
+## 기하학 (geometry)
+1. 기하학에서 도형을 그려요. | 幾何学で図形を描きます。 | We draw shapes in geometry.
+2. 기하학은 삼각형이 많아요. | 幾何学は三角形が多いです。 | Geometry has many triangles.
+3. 기하학 문제가 어려워요. | 幾何学の問題が難しいです。 | Geometry problems are difficult.
+
+## 통계학 (statistics)
+1. 통계학에서 데이터를 분석해요. | 統計学でデータを分析します。 | We analyze data in statistics.
+2. 통계학은 수학의 한 분야예요. | 統計学は数学の一分野です。 | Statistics is a field of mathematics.
+3. 통계학을 공부하면 도움이 돼요. | 統計学を勉強すると役に立ちます。 | Studying statistics is helpful.
+
+## 확률 (probability)
+1. 확률을 계산해요. | 確率を計算します。 | I calculate probability.
+2. 비가 올 확률은 50%예요. | 雨が降る確率は50%です。 | The probability of rain is 50%.
+3. 확률이 높아요. | 確率が高いです。 | The probability is high.
+
+## 미적분 (calculus)
+1. 미적분은 어렵지만 재미있어요. | 微積分は難しいですが面白いです。 | Calculus is difficult but fun.
+2. 대학교에서 미적분을 배워요. | 大学で微積分を学びます。 | I learn calculus in university.
+3. 미적분 시간에 그래프를 그려요. | 微積分の時間にグラフを描きます。 | We draw graphs in calculus class.
+
+## 방정식 (equation)
+1. 방정식을 풀어 주세요. | 方程式を解いてください。 | Please solve the equation.
+2. 이차 방정식은 어려워요. | 二次方程式は難しいです。 | Quadratic equations are difficult.
+3. 방정식의 답을 찾아요. | 方程式の答えを探します。 | I find the answer to the equation.
+
+## 공식 (formula)
+1. 공식을 외워요. | 公式を暗記します。 | I memorize the formula.
+2. 이 공식은 유명해요. | この公式は有名です。 | This formula is famous.
+3. 공식을 사용해서 문제를 풀어요. | 公式を使って問題を解きます。 | I solve problems using the formula.
+
+## 정리 (theorem)
+1. 피타고라스의 정리를 알아요. | ピタゴラスの定理を知っています。 | I know the Pythagorean theorem.
+2. 그 정리는 중요해요. | その定理は重要です。 | That theorem is important.
+3. 정리를 증명해요. | 定理を証明します。 | I prove the theorem.
+
+## 증명 (proof)
+1. 증명은 수학에서 중요해요. | 証明は数学で重要です。 | Proof is important in mathematics.
+2. 증명을 써요. | 証明を書きます。 | I write a proof.
+3. 그 증명이 맞아요. | その証明は正しいです。 | That proof is correct.
+
+## 가설 (hypothesis)
+1. 실험 전에 가설을 세워요. | 実験の前に仮説を立てます。 | I set up a hypothesis before the experiment.
+2. 가설이 맞는지 확인해요. | 仮説が合っているか確認します。 | I check if the hypothesis is correct.
+3. 과학자는 가설부터 시작해요. | 科学者は仮説から始めます。 | A scientist starts with a hypothesis.
+
+## 이론 (theory)
+1. 그 이론을 배웠어요. | その理論を学びました。 | I learned that theory.
+2. 이론은 중요해요. | 理論は重要です。 | Theory is important.
+3. 새로운 이론을 연구해요. | 新しい理論を研究します。 | I research a new theory.
+
+## 법칙 (law)
+1. 물리학에는 여러 법칙이 있어요. | 物理学にはいくつかの法則があります。 | There are several laws in physics.
+2. 뉴턴의 법칙을 배웠어요. | ニュートンの法則を学びました。 | I learned Newton's law.
+3. 자연의 법칙을 이해해요. | 自然の法則を理解します。 | I understand the laws of nature.
+
+## 원리 (principle)
+1. 기본 원리를 배워요. | 基本原則を学びます。 | I learn the basic principles.
+2. 그 원리를 설명해 주세요. | その原理を説明してください。 | Please explain that principle.
+3. 원리를 이해해야 해요. | 原理を理解しなければなりません。 | I need to understand the principle.
+
+## 개념 (concept)
+1. 그 개념을 이해해요. | その概念を理解します。 | I understand that concept.
+2. 새로운 개념을 배웠어요. | 新しい概念を学びました。 | I learned a new concept.
+3. 개념이 추상적이에요. | 概念は抽象的です。 | The concept is abstract.
+
+## 정의 (definition)
+1. 단어의 정의를 찾아요. | 単語の定義を探します。 | I look up the definition of the word.
+2. 정의를 외워야 해요. | 定義を暗記しなければなりません。 | I need to memorize the definition.
+3. 그 정의는 정확해요. | その定義は正確です。 | That definition is accurate.
+
+## 특성 (characteristic)
+1. 이 동물의 특성이에요. | この動物の特性です。 | This is a characteristic of this animal.
+2. 한국어의 특성을 배워요. | 韓国語の特性を学びます。 | I learn the characteristics of Korean.
+3. 각각 특성이 달라요. | それぞれ特性が違います。 | Each has different characteristics.
+
+## 속성 (attribute)
+1. 색깔은 사과의 속성이에요. | 色はりんごの属性です。 | Color is an attribute of an apple.
+2. 이 프로그램의 속성을 바꿔요. | このプログラムの属性を変えます。 | I change the attributes of this program.
+3. 각 물건의 속성이 있어요. | それぞれの物に属性があります。 | Each object has attributes.
+
+## 요소 (element)
+1. 물의 요소는 수소와 산소예요. | 水の要素は水素と酸素です。 | The elements of water are hydrogen and oxygen.
+2. 성공의 중요한 요소예요. | 成功の重要な要素です。 | It's an important element of success.
+3. 여러 요소를 고려해요. | いくつかの要素を考慮します。 | I consider several elements.
+
+## 성분 (component; ingredient)
+1. 이 음식의 성분을 확인해요. | この食べ物の成分を確認します。 | I check the ingredients of this food.
+2. 화장품 성분을 봐요. | 化粧品の成分を見ます。 | I look at the cosmetic ingredients.
+3. 이 약의 성분이 뭐예요? | この薬の成分は何ですか？ | What are the ingredients of this medicine?
+
+## 구성 (composition)
+1. 팀의 구성을 발표했어요. | チームの構成を発表しました。 | They announced the team composition.
+2. 이 책의 구성을 알아요. | この本の構成を知っています。 | I know the composition of this book.
+3. 구성이 좋아요. | 構成が良いです。 | The composition is good.
+
+## 조직 (organization)
+1. 이 조직은 커요. | この組織は大きいです。 | This organization is big.
+2. 조직의 구조가 복잡해요. | 組織の構造が複雑です。 | The structure of the organization is complex.
+3. 그 조직에서 일해요. | その組織で働きます。 | I work in that organization.
+
+## 구조 (structure)
+1. 문장의 구조를 분석해요. | 文の構造を分析します。 | I analyze the structure of the sentence.
+2. 건물의 구조가 튼튼해요. | 建物の構造が丈夫です。 | The building's structure is sturdy.
+3. 구조를 이해해야 해요. | 構造を理解しなければなりません。 | I need to understand the structure.
+
+## 체계 (system)
+1. 교육 체계가 달라요. | 教育体系が違います。 | The education system is different.
+2. 체계적으로 공부해요. | 体系的に勉強します。 | I study systematically.
+3. 새로운 체계를 만들었어요. | 新しい体系を作りました。 | I created a new system.
+
+## 시스템 (system)
+1. 이 시스템은 편리해요. | このシステムは便利です。 | This system is convenient.
+2. 시스템을 업데이트했어요. | システムをアップデートしました。 | I updated the system.
+3. 컴퓨터 시스템이 느려요. | コンピュータシステムが遅いです。 | The computer system is slow.
+
+## 네트워크 (network)
+1. 네트워크에 연결해요. | ネットワークに接続します。 | I connect to the network.
+2. 인터넷 네트워크가 중요해요. | インターネットネットワークは重要です。 | The internet network is important.
+3. 네트워크 문제가 있어요. | ネットワーク問題があります。 | There is a network problem.
+
+## 데이터베이스 (database)
+1. 데이터베이스를 만들어요. | データベースを作ります。 | I create a database.
+2. 정보는 데이터베이스에 있어요. | 情報はデータベースにあります。 | The information is in the database.
+3. 데이터베이스에서 검색해요. | データベースで検索します。 | I search in the database.
+
+## 알고리즘 (algorithm)
+1. 알고리즘을 설계해요. | アルゴリズムを設計します。 | I design an algorithm.
+2. 검색 알고리즘이 좋아요. | 検索アルゴリズムが良いです。 | The search algorithm is good.
+3. 새로운 알고리즘을 배웠어요. | 新しいアルゴリズムを学びました。 | I learned a new algorithm.
+
+## 프로그램 (program)
+1. 프로그램을 실행해요. | プログラムを実行します。 | I run the program.
+2. 이 프로그램이 유용해요. | このプログラムは便利です。 | This program is useful.
+3. 프로그램을 다운로드해요. | プログラムをダウンロードします。 | I download the program.
+
+## 소프트웨어 (software)
+1. 소프트웨어를 설치해요. | ソフトウェアをインストールします。 | I install the software.
+2. 이 소프트웨어는 무료예요. | このソフトウェアは無料です。 | This software is free.
+3. 소프트웨어를 업데이트해야 해요. | ソフトウェアをアップデートしなければなりません。 | I need to update the software.
+
+## 하드웨어 (hardware)
+1. 하드웨어는 컴퓨터의 몸이에요. | ハードウェアはコンピュータの体です。 | Hardware is the body of a computer.
+2. 새로운 하드웨어가 필요해요. | 新しいハードウェアが必要です。 | I need new hardware.
+3. 하드웨어 문제를 고쳐요. | ハードウェアの問題を直します。 | I fix the hardware problem.
+
+## 운영체제 (operating system)
+1. 운영체제는 컴퓨터의 핵심이에요. | オペレーティングシステムはコンピュータの核心です。 | The operating system is the core of a computer.
+2. 윈도우는 유명한 운영체제예요. | Windowsは有名なオペレーティングシステムです。 | Windows is a famous operating system.
+3. 운영체제를 설치했어요. | オペレーティングシステムをインストールしました。 | I installed the operating system.
+
+## 프로그래밍 (programming)
+1. 프로그래밍을 배워요. | プログラミングを学びます。 | I learn programming.
+2. 프로그래밍 언어가 많아요. | プログラミング言語が多いです。 | There are many programming languages.
+3. 프로그래밍이 재미있어요. | プログラミングは面白いです。 | Programming is fun.
+
+## 코딩 (coding)
+1. 코딩을 연습해요. | コーディングを練習します。 | I practice coding.
+2. 코딩 수업을 들어요. | コーディングの授業を受けます。 | I take a coding class.
+3. 코딩이 취미예요. | コーディングは趣味です。 | Coding is my hobby.
+
+## 개발 (development)
+1. 앱을 개발해요. | アプリを開発します。 | I develop an app.
+2. 개발 팀에서 일해요. | 開発チームで働きます。 | I work in the development team.
+3. 개발자가 되고 싶어요. | 開発者になりたいです。 | I want to become a developer.
+
+## 디버깅 (debugging)
+1. 디버깅을 하고 있어요. | デバッグをしています。 | I am debugging.
+2. 디버깅은 중요해요. | デバッグは重要です。 | Debugging is important.
+3. 버그를 찾는 게 디버깅이에요. | バグを見つけるのがデバッグです。 | Finding bugs is debugging.
+
+## 테스트 (testing)
+1. 테스트를 해야 해요. | テストをしなければなりません。 | I need to do testing.
+2. 테스트 결과를 확인해요. | テスト結果を確認します。 | I check the test results.
+3. 테스트는 필수예요. | テストは必須です。 | Testing is essential.
+
+## 배포 (deployment)
+1. 새 버전을 배포했어요. | 新しいバージョンを配布しました。 | I deployed a new version.
+2. 배포 준비가 다 됐어요. | 配布準備がすべてできました。 | Deployment preparation is all done.
+3. 배포 후에 확인해요. | 配布後に確認します。 | I check after deployment.
+
+## 업데이트 (update)
+1. 업데이트를 했어요. | アップデートをしました。 | I did an update.
+2. 업데이트를 추천해요. | アップデートをお勧めします。 | I recommend the update.
+3. 최신 업데이트를 다운로드해요. | 最新アップデートをダウンロードします。 | I download the latest update.
+
+## 패치 (patch)
+1. 보안 패치를 설치해요. | セキュリティパッチをインストールします。 | I install a security patch.
+2. 패치가 나왔어요. | パッチが出ました。 | A patch was released.
+3. 패치를 적용해야 해요. | パッチを適用しなければなりません。 | I need to apply the patch.
+
+## 버전 (version)
+1. 이건 최신 버전이에요. | これは最新バージョンです。 | This is the latest version.
+2. 버전을 확인해 주세요. | バージョンを確認してください。 | Please check the version.
+3. 예전 버전이 더 좋아요. | 前のバージョンの方が良いです。 | The old version is better.
+
+## 릴리스 (release)
+1. 새 제품 릴리스를 기다려요. | 新製品のリリースを待ちます。 | I wait for the new product release.
+2. 릴리스 날짜를 발표했어요. | リリース日を発表しました。 | They announced the release date.
+3. 릴리스 노트를 읽었어요. | リリースノートを読みました。 | I read the release notes.
+
+## 라이선스 (license)
+1. 소프트웨어 라이선스가 필요해요. | ソフトウェアライセンスが必要です。 | A software license is needed.
+2. 이 라이선스는 무료예요. | このライセンスは無料です。 | This license is free.
+3. 라이선스를 구매했어요. | ライセンスを購入しました。 | I purchased a license.
+
+## 저작권 (copyright)
+1. 저작권이 있어요. | 著作権があります。 | I have the copyright.
+2. 저작권을 보호해야 해요. | 著作権を保護しなければなりません。 | We need to protect copyright.
+3. 이 사진의 저작권은 누구예요? | この写真の著作権は誰ですか？ | Who owns the copyright to this photo?
+
+## 특허 (patent)
+1. 특허를 출원했어요. | 特許を出願しました。 | I applied for a patent.
+2. 이 기술은 특허가 있어요. | この技術は特許があります。 | This technology has a patent.
+3. 특허를 받았어요. | 特許を取りました。 | I received a patent.
+
+## 상표 (trademark)
+1. 이건 등록 상표예요. | これは登録商標です。 | This is a registered trademark.
+2. 상표를 지켜야 해요. | 商標を守らなければなりません。 | We need to protect the trademark.
+3. 그 이름은 상표예요. | その名前は商標です。 | That name is a trademark.
+
+## 디자인 (design)
+1. 이 디자인이 예뻐요. | このデザインがきれいです。 | This design is pretty.
+2. 디자인을 공부해요. | デザインを勉強します。 | I study design.
+3. 새로운 디자인을 생각했어요. | 新しいデザインを考えました。 | I thought of a new design.
+
+## 사용자 (user)
+1. 사용자가 많아요. | ユーザーが多いです。 | There are many users.
+2. 사용자 의견을 들어요. | ユーザーの意見を聞きます。 | I listen to user opinions.
+3. 사용자 이름을 입력해요. | ユーザー名を入力します。 | I enter the username.
+
+## 고객 (customer)
+1. 고객이 중요해요. | お客様は重要です。 | The customer is important.
+2. 고객을 도와요. | お客様を助けます。 | I help the customer.
+3. 고객 서비스가 좋아요. | カスタマーサービスが良いです。 | The customer service is good.
+
+## 클라이언트 (client)
+1. 클라이언트를 만나요. | クライアントに会います。 | I meet the client.
+2. 클라이언트의 요청이 있어요. | クライアントからのリクエストがあります。 | There is a request from the client.
+3. 클라이언트와 이야기해요. | クライアントと話します。 | I talk with the client.
+
+## 서버 (server)
+1. 서버가 다운됐어요. | サーバーがダウンしました。 | The server went down.
+2. 서버를 유지보수해요. | サーバーをメンテナンスします。 | I maintain the server.
+3. 서버에 연결해요. | サーバーに接続します。 | I connect to the server.
+
+## 데이터 (data)
+1. 데이터를 저장해요. | データを保存します。 | I save the data.
+2. 데이터가 많아요. | データが多いです。 | There is a lot of data.
+3. 데이터를 분석해요. | データを分析します。 | I analyze the data.
+
+## 정보 (information)
+1. 정보를 찾아요. | 情報を探します。 | I look for information.
+2. 이 정보가 필요해요. | この情報が必要です。 | I need this information.
+3. 정보가 정확해요. | 情報が正確です。 | The information is accurate.
+
+## 보안 (security)
+1. 보안이 중요해요. | セキュリティは重要です。 | Security is important.
+2. 보안을 강화했어요. | セキュリティを強化しました。 | We strengthened security.
+3. 비밀번호는 보안에 필요해요. | パスワードはセキュリティに必要です。 | Passwords are necessary for security.
+
+## 암호화 (encryption)
+1. 암호화는 안전해요. | 暗号化は安全です。 | Encryption is safe.
+2. 데이터를 암호화해요. | データを暗号化します。 | I encrypt the data.
+3. 암호화 기술이 발전했어요. | 暗号化技術が発達しました。 | Encryption technology has advanced.
+
+## 인증 (authentication)
+1. 인증이 필요해요. | 認証が必要です。 | Authentication is needed.
+2. 이메일 인증을 해요. | メール認証をします。 | I do email authentication.
+3. 인증 코드를 확인해요. | 認証コードを確認します。 | I check the authentication code.
+
+## 권한 (permission)
+1. 권한이 없어요. | 権限がありません。 | I don't have permission.
+2. 권한을 요청했어요. | 権限をリクエストしました。 | I requested permission.
+3. 관리자 권한이 필요해요. | 管理者権限が必要です。 | Admin permission is needed.
+
+## 접근 (access)
+1. 접근할 수 있어요. | アクセスできます。 | I can access it.
+2. 접근 권한이 필요해요. | アクセス権限が必要です。 | Access permission is needed.
+3. 쉽게 접근할 수 없어요. | 簡単にアクセスできません。 | I cannot access it easily.
+
+## 로그인 (login)
+1. 로그인하세요. | ログインしてください。 | Please log in.
+2. 로그인 정보를 잊어버렸어요. | ログイン情報を忘れました。 | I forgot my login information.
+3. 로그인하고 시작해요. | ログインして始めます。 | I log in and start.
+
+## 로그아웃 (logout)
+1. 로그아웃했어요. | ログアウトしました。 | I logged out.
+2. 로그아웃 버튼을 눌러요. | ログアウトボタンを押します。 | I press the logout button.
+3. 사용 후에 로그아웃해요. | 使用後にログアウトします。 | I log out after use.
+
+## 비밀번호 (password)
+1. 비밀번호를 변경해요. | パスワードを変更します。 | I change the password.
+2. 비밀번호가 기억나요? | パスワードを覚えていますか？ | Do you remember the password?
+3. 비밀번호를 입력해 주세요. | パスワードを入力してください。 | Please enter the password.
+
+## 아이디 (ID)
+1. 아이디를 만들었어요. | IDを作りました。 | I created an ID.
+2. 아이디가 뭐예요? | IDは何ですか？ | What is your ID?
+3. 아이디를 잊어버렸어요. | IDを忘れました。 | I forgot my ID.
+
+## 계정 (account)
+1. 계정을 만들었어요. | アカウントを作りました。 | I created an account.
+2. 계정 정보를 확인해요. | アカウント情報を確認します。 | I check the account information.
+3. 계정을 삭제했어요. | アカウントを削除しました。 | I deleted the account.
+
+## 회원가입 (registration)
+1. 회원가입을 해요. | 会員登録をします。 | I do the registration.
+2. 회원가입은 무료예요. | 会員登録は無料です。 | Registration is free.
+3. 회원가입 페이지로 가요. | 会員登録ページへ行きます。 | I go to the registration page.
+
+## 탈퇴 (withdrawal)
+1. 탈퇴하고 싶어요. | 退会したいです。 | I want to withdraw.
+2. 탈퇴 신청을 했어요. | 退会申請をしました。 | I applied for withdrawal.
+3. 탈퇴 전에 확인해요. | 退会前に確認します。 | I check before withdrawal.
+
+## 게시판 (bulletin board)
+1. 게시판에 글을 써요. | 掲示板に書き込みをします。 | I write on the bulletin board.
+2. 게시판을 확인해요. | 掲示板を確認します。 | I check the bulletin board.
+3. 게시판에서 정보를 찾아요. | 掲示板で情報を探します。 | I look for information on the bulletin board.
+
+## 게시글 (post)
+1. 게시글을 읽었어요. | 書き込みを読みました。 | I read the post.
+2. 게시글을 올렸어요. | 書き込みを上げました。 | I posted a post.
+3. 많을 게시글이 있어요. | たくさんの書き込みがあります。 | There are many posts.
+
+## 댓글 (comment)
+1. 댓글을 달아요. | コメントを書きます。 | I leave a comment.
+2. 댓글이 많아요. | コメントが多いです。 | There are many comments.
+3. 댓글을 확인해 주세요. | コメントを確認してください。 | Please check the comments.
+
+## 좋아요 (like)
+1. 좋아요를 눌러요. | 「いいね」を押します。 | I press like.
+2. 좋아요가 많아요. | 「いいね」が多いです。 | There are many likes.
+3. 좋아요를 취소했어요. | 「いいね」をキャンセルしました。 | I canceled the like.
+
+## 공유 (share)
+1. 사진을 공유해요. | 写真を共有します。 | I share a photo.
+2. 공유하기 버튼을 눌러요. | 共有ボタンを押します。 | I press the share button.
+3. 링크를 공유했어요. | リンクを共有しました。 | I shared the link.
+
+## 팔로우 (follow)
+1. 그 사람을 팔로우해요. | その人をフォローします。 | I follow that person.
+2. 팔로우 버튼을 클릭해요. | フォローボタンをクリックします。 | I click the follow button.
+3. 많은 사람이 저를 팔로우해요. | たくさんの人が私をフォローします。 | Many people follow me.
+
+## 팔로워 (follower)
+1. 팔로워가 많아졌어요. | フォロワーが増えました。 | My followers increased.
+2. 천 명의 팔로워가 있어요. | 千人のフォロワーがいます。 | I have a thousand followers.
+3. 팔로워 수를 확인해요. | フォロワー数を確認します。 | I check the number of followers.
+
+## 구독 (subscription)
+1. 구독하고 있어요. | 購読しています。 | I am subscribed.
+2. 구독자가 많아요. | 購読者が多いです。 | There are many subscribers.
+3. 구독을 취소했어요. | 購読をキャンセルしました。 | I canceled the subscription.
+
+## 알림 (notification)
+1. 알림을 받았어요. | 通知を受け取りました。 | I received a notification.
+2. 알림을 설정해요. | 通知を設定します。 | I set up notifications.
+3. 알림 소리가 났어요. | 通知音が鳴りました。 | The notification sound went off.
+
+## 설정 (settings)
+1. 설정을 변경해요. | 設定を変更します。 | I change the settings.
+2. 설정에서 바꿀 수 있어요. | 設定で変えられます。 | You can change it in settings.
+3. 설정 페이지를 열어요. | 設定ページを開きます。 | I open the settings page.
+
+## 프로필 (profile)
+1. 프로필을 수정해요. | プロフィールを修正します。 | I edit my profile.
+2. 프로필 사진을 바꿨어요. | プロフィール写真を変えました。 | I changed my profile picture.
+3. 내 프로필을 봐 주세요. | 私のプロフィールを見てください。 | Please look at my profile.

@@ -1,0 +1,1769 @@
+# Batch 6 — 색깔 & 청소 & 옷 & 세면도구 & 물건
+
+## 색깔 (color)
+(ko) 이 가방 **색깔**이 예뻐요.
+(ja) このバッグの**色**がきれいです。
+(en) This bag's **color** is pretty.
+
+(ko) 무슨 **색깔**을 좋아해요?
+(ja) どんな**色**が好きですか？
+(en) What **color** do you like?
+
+(ko) 하늘 **색깔**이 참 맑아요.
+(ja) 空の**色**がとても澄んでいます。
+(en) The sky's **color** is very clear.
+
+## 빨간색 (red)
+(ko) 저 **빨간색** 드레스가 정말 예뻐요.
+(ja) あの**赤い**ドレスが本当にきれいです。
+(en) That **red** dress is really pretty.
+
+(ko) **빨간색** 사과를 샀어요.
+(ja) **赤い**リンゴを買いました。
+(en) I bought a **red** apple.
+
+(ko) **빨간색**은 정말 눈에 띠어요.
+(ja) **赤色**は本当に目立ちますね。
+(en) **Red** really stands out.
+
+## 파란색 (blue)
+(ko) 하늘이 **파란색**이에요.
+(ja) 空が**青色**です。
+(en) The sky is **blue**.
+
+(ko) 저는 **파란색**을 제일 좋아해요.
+(ja) 私は**青色**が一番好きです。
+(en) I like **blue** the most.
+
+(ko) **파란색** 바다가 보고 싶어요.
+(ja) **青い**海が見たいです。
+(en) I want to see the **blue** sea.
+
+## 초록색 (green)
+(ko) 나뭇잎이 **초록색**으로 변했어요.
+(ja) 葉っぱが**緑色**に変わりました。
+(en) The leaves turned **green**.
+
+(ko) **초록색** 공원에서 산책했어요.
+(ja) **緑の**公園で散歩しました。
+(en) I took a walk in the **green** park.
+
+(ko) 이 **초록색** 티셔츠 어때요?
+(ja) この**緑色の**Tシャツ、どうですか？
+(en) How about this **green** T-shirt?
+
+## 노란색 (yellow)
+(ko) 바나나는 **노란색**이에요.
+(ja) バナナは**黄色**です。
+(en) Bananas are **yellow**.
+
+(ko) **노란색** 꽃이 활짝 폈어요.
+(ja) **黄色い**花が満開に咲きました。
+(en) **Yellow** flowers are in full bloom.
+
+(ko) **노란색** 우산을 잃어버렸어요.
+(ja) **黄色い**傘をなくしました。
+(en) I lost my **yellow** umbrella.
+
+## 검은색 (black)
+(ko) 고양이가 **검은색**이에요.
+(ja) 猫は**黒色**です。
+(en) The cat is **black**.
+
+(ko) **검은색** 옷을 자주 입어요.
+(ja) **黒い**服をよく着ます。
+(en) I often wear **black** clothes.
+
+(ko) **검은색** 가방이 깔끔해요.
+(ja) **黒い**バッグがすっきりしています。
+(en) The **black** bag looks neat.
+
+## 흰색 (white)
+(ko) 눈이 **흰색**이에요.
+(ja) 雪は**白色**です。
+(en) Snow is **white**.
+
+(ko) **흰색** 셔츠를 세탁했어요.
+(ja) **白い**シャツを洗濯しました。
+(en) I washed the **white** shirt.
+
+(ko) **흰색** 벽이 너무 밋밋해요.
+(ja) **白い**壁がちょっと味気ないです。
+(en) The **white** wall is too plain.
+
+## 주황색 (orange)
+(ko) 오렌지는 **주황색**이에요.
+(ja) オレンジは**橙色**です。
+(en) Oranges are **orange**.
+
+(ko) 석양이 **주황색**으로 물들었어요.
+(ja) 夕日が**橙色**に染まりました。
+(en) The sunset is dyed **orange**.
+
+(ko) **주황색** 목도리가 따뜻해요.
+(ja) **橙色の**マフラーが暖かいです。
+(en) The **orange** scarf is warm.
+
+## 보라색 (purple)
+(ko) 포도는 **보라색**이에요.
+(ja) ぶどうは**紫色**です。
+(en) Grapes are **purple**.
+
+(ko) **보라색** 꽃이 아주 아름다워요.
+(ja) **紫色の**花がとても美しいです。
+(en) The **purple** flowers are very beautiful.
+
+(ko) **보라색** 치마를 입고 싶어요.
+(ja) **紫色の**スカートを履きたいです。
+(en) I want to wear a **purple** skirt.
+
+## 분홍색 (pink)
+(ko) 아기가 **분홍색** 옷을 입었어요.
+(ja) 赤ちゃんが**ピンク色の**服を着ています。
+(en) The baby is wearing **pink** clothes.
+
+(ko) **분홍색** 리본이 귀여워요.
+(ja) **ピンクの**リボンがかわいいです。
+(en) The **pink** ribbon is cute.
+
+(ko) 저는 **분홍색**을 별로 안 좋아해요.
+(ja) 私は**ピンク色**はあまり好きじゃないです。
+(en) I don't really like **pink**.
+
+## 갈색 (brown)
+(ko) 이 컵은 **갈색**이에요.
+(ja) このカップは**茶色**です。
+(en) This cup is **brown**.
+
+(ko) **갈색** 구두가 편해요.
+(ja) **茶色の**靴が履きやすいです。
+(en) The **brown** shoes are comfortable.
+
+(ko) **갈색** 머리가 예뻐요.
+(ja) **茶色の**髪がきれいです。
+(en) **Brown** hair is pretty.
+
+## 회색 (gray)
+(ko) 오늘 하늘이 **회색**이에요.
+(ja) 今日の空は**灰色**です。
+(en) Today the sky is **gray**.
+
+(ko) **회색** 정장을 입었어요.
+(ja) **灰色の**スーツを着ました。
+(en) I wore a **gray** suit.
+
+(ko) **회색** 구름이 껴 있어요.
+(ja) **灰色の**雲が出ています。
+(en) **Gray** clouds are gathering.
+
+## 하늘색 (sky blue)
+(ko) 이 **하늘색** 원피스가 예뻐요.
+(ja) この**水色の**ワンピースがきれいです。
+(en) This **sky blue** dress is pretty.
+
+(ko) **하늘색** 벽지를 골랐어요.
+(ja) **水色の**壁紙を選びました。
+(en) I chose **sky blue** wallpaper.
+
+(ko) **하늘색**이 참 부드러워 보여요.
+(ja) **水色**はとても優しく見えます。
+(en) **Sky blue** looks very soft.
+
+## 연두색 (light green)
+(ko) 봄에 **연두색** 새싹이 나요.
+(ja) 春に**黄緑色の**新芽が出ます。
+(en) **Light green** sprouts come out in spring.
+
+(ko) 이 **연두색** 스웨터가 잘 어울려요.
+(ja) この**黄緑の**セーターがよく似合います。
+(en) This **light green** sweater suits you well.
+
+(ko) **연두색**은 상큼한 느낌이에요.
+(ja) **黄緑色**は爽やかな感じがします。
+(en) **Light green** feels fresh.
+
+## 베이지색 (beige)
+(ko) **베이지색** 코트를 샀어요.
+(ja) **ベージュ色の**コートを買いました。
+(en) I bought a **beige** coat.
+
+(ko) 이 **베이지색** 가방은 실용적이에요.
+(ja) この**ベージュの**バッグは実用的です。
+(en) This **beige** bag is practical.
+
+(ko) **베이지색**은 어떤 색하고도 잘 어울려요.
+(ja) **ベージュ**はどんな色にも合いやすいです。
+(en) **Beige** goes well with any color.
+
+## 남색 (dark blue / indigo)
+(ko) 교복이 **남색**이에요.
+(ja) 制服は**紺色**です。
+(en) The school uniform is **dark blue**.
+
+(ko) **남색** 바지가 무난해요.
+(ja) **紺色の**ズボンは無難です。
+(en) **Dark blue** pants are safe/versatile.
+
+(ko) **남색**은 진지한 느낌을 줘요.
+(ja) **紺色**は落ち着いた印象を与えます。
+(en) **Dark blue** gives a serious impression.
+
+## 금색 (gold)
+(ko) 이 반지는 **금색**이에요.
+(ja) この指輪は**金色**です。
+(en) This ring is **gold** (in color).
+
+(ko) **금색** 시계가 고급스러워요.
+(ja) **金色の**時計が高級感があります。
+(en) The **gold** watch looks luxurious.
+
+(ko) **금색** 종이가 반짝거려요.
+(ja) **金色の**紙がキラキラ光っています。
+(en) The **gold** paper sparkles.
+
+## 은색 (silver)
+(ko) 이 목걸이는 **은색**이에요.
+(ja) このネックレスは**銀色**です。
+(en) This necklace is **silver** (in color).
+
+(ko) **은색** 자동차가 멋있어요.
+(ja) **銀色の**車がかっこいいです。
+(en) The **silver** car is cool.
+
+(ko) **은색** 머리핀을 찾고 있어요.
+(ja) **銀色の**ヘアピンを探しています。
+(en) I'm looking for a **silver** hairpin.
+
+## 무지개 (rainbow)
+(ko) 비가 그치고 **무지개**가 떴어요.
+(ja) 雨が止んで**虹**が出ました。
+(en) After the rain stopped, a **rainbow** appeared.
+
+(ko) **무지개** 색깔이 일곱 개예요.
+(ja) **虹**の色は七色です。
+(en) A **rainbow** has seven colors.
+
+(ko) 아이들이 **무지개** 그림을 그리고 있어요.
+(ja) 子供たちが**虹**の絵を描いています。
+(en) The children are drawing a **rainbow** picture.
+
+## 어둡다 (to be dark)
+(ko) 방이 너무 **어두워요**.
+(ja) 部屋がとても**暗い**です。
+(en) The room is too **dark**.
+
+(ko) 겨울은 일찍 **어두워져요**.
+(ja) 冬は早く**暗くなります**。
+(en) It gets **dark** early in winter.
+
+(ko) 여기는 너무 **어두워서** 책을 못 읽겠어요.
+(ja) ここは**暗すぎて**本が読めません。
+(en) It's too **dark** here to read a book.
+
+## 밝다 (to be bright)
+(ko) 아침에 해가 **밝아요**.
+(ja) 朝は日が**明るい**です。
+(en) The sun is **bright** in the morning.
+
+(ko) 이 방은 정말 **밝아요**.
+(ja) この部屋は本当に**明るい**です。
+(en) This room is really **bright**.
+
+(ko) 그녀는 성격이 **밝아요**.
+(ja) 彼女は性格が**明るい**です。
+(en) She has a **bright** personality.
+
+## 진하다 (to be dark / to be strong)
+(ko) 이 커피는 맛이 **진해요**.
+(ja) このコーヒーは味が**濃い**です。
+(en) This coffee has a **strong** taste.
+
+(ko) 이 색깔이 너무 **진해요**.
+(ja) この色が**濃すぎます**。
+(en) This color is too **dark/strong**.
+
+(ko) 국물이 **진해서** 맛있어요.
+(ja) スープが**濃くて**おいしいです。
+(en) The soup is **rich/thick** and delicious.
+
+## 연하다 (to be light / to be weak)
+(ko) 이 차는 맛이 **연해요**.
+(ja) このお茶は味が**薄い**です。
+(en) This tea tastes **light/weak**.
+
+(ko) 옅은 **연한** 분홍색이 좋아요.
+(ja) 薄い**淡い**ピンク色が好きです。
+(en) I like a **light** pink color.
+
+(ko) 소금을 조금만 넣어서 간이 **연해요**.
+(ja) 塩を少ししか入れなかったので味が**薄い**です。
+(en) The seasoning is **light** because I only put a little salt.
+
+## 화려하다 (to be colorful / to be fancy)
+(ko) 그 드레스가 정말 **화려해요**.
+(ja) あのドレスはとても**華やかです**。
+(en) That dress is really **fancy/colorful**.
+
+(ko) 불꽃놀이가 아주 **화려했어요**.
+(ja) 花火がとても**華やかでした**。
+(en) The fireworks were very **spectacular**.
+
+(ko) 저는 **화려한** 디자인보다 심플한 게 좋아요.
+(ja) 私は**派手な**デザインよりシンプルなものが好きです。
+(en) I prefer simple designs over **fancy** ones.
+
+## 수수하다 (to be plain / to be simple)
+(ko) 그녀는 옷차림이 **수수해요**.
+(ja) 彼女は服装が**地味です**。
+(en) Her dress style is **plain**.
+
+(ko) **수수한** 색깔이 잘 어울려요.
+(ja) **地味な**色がよく似合います。
+(en) **Plain** colors suit you well.
+
+(ko) 저는 **수수한** 디자인을 좋아해요.
+(ja) 私は**シンプルな**デザインが好きです。
+(en) I like **simple** designs.
+
+## 반짝이다 (to sparkle / to glitter)
+(ko) 별이 하늘에서 **반짝이고 있어요**.
+(ja) 星が空で**キラキラ光っています**。
+(en) Stars are **sparkling** in the sky.
+
+(ko) 다이아몬드가 **반짝여요**.
+(ja) ダイヤモンドが**輝いています**。
+(en) The diamond **sparkles**.
+
+(ko) 그녀의 눈이 **반짝였어요**.
+(ja) 彼女の目が**キラキラしていました**。
+(en) Her eyes **sparkled**.
+
+## 빛나다 (to shine)
+(ko) 태양이 **빛나요**.
+(ja) 太陽が**輝きます**。
+(en) The sun **shines**.
+
+(ko) 그녀의 미소가 **빛나요**.
+(ja) 彼女の笑顔が**輝いています**。
+(en) Her smile **shines**.
+
+(ko) 달이 아름답게 **빛나요**.
+(ja) 月が美しく**輝いています**。
+(en) The moon **shines** beautifully.
+
+## 선명하다 (to be clear / to be vivid)
+(ko) 이 사진이 아주 **선명해요**.
+(ja) この写真がとても**鮮明です**。
+(en) This photo is very **clear/vivid**.
+
+(ko) 그 기억이 아직도 **선명해요**.
+(ja) その記憶が今でも**鮮明です**。
+(en) That memory is still **vivid**.
+
+(ko) 색깔이 **선명해서** 눈에 띄어요.
+(ja) 色が**鮮やかで**目立ちます。
+(en) The color is **vivid** and stands out.
+
+## 흐리다 (to be cloudy / to be dim)
+(ko) 오늘 하늘이 **흐려요**.
+(ja) 今日の空は**曇っています**。
+(en) The sky is **cloudy** today.
+
+(ko) 안개 때문에 시야가 **흐려요**.
+(ja) 霧のため視界が**ぼやけています**。
+(en) The view is **dim/blurred** because of the fog.
+
+(ko) 날씨가 **흐려서** 우산을 가져왔어요.
+(ja) 天気が**曇っているので**傘を持ってきました。
+(en) Since it's **cloudy**, I brought an umbrella.
+
+## 맑다 (to be clear)
+(ko) 오늘 날씨가 정말 **맑아요**.
+(ja) 今日の天気は本当に**晴れています**。
+(en) The weather is really **clear** today.
+
+(ko) 물이 아주 **맑아요**.
+(ja) 水がとても**澄んでいます**。
+(en) The water is very **clear**.
+
+(ko) 하늘이 **맑아서** 기분이 좋아요.
+(ja) 空が**晴れているので**気分がいいです。
+(en) The sky is **clear**, so I feel good.
+
+## 투명하다 (to be transparent)
+(ko) 물은 **투명해요**.
+(ja) 水は**透明です**。
+(en) Water is **transparent**.
+
+(ko) 이 유리는 **투명해서** 잘 보여요.
+(ja) このガラスは**透明で**よく見えます。
+(en) This glass is **transparent**, so I can see through it well.
+
+(ko) **투명한** 우산을 샀어요.
+(ja) **透明な**傘を買いました。
+(en) I bought a **transparent** umbrella.
+
+## 깨끗하다 (to be clean)
+(ko) 이 방은 정말 **깨끗해요**.
+(ja) この部屋は本当に**きれいです**。
+(en) This room is very **clean**.
+
+(ko) 손을 **깨끗하게** 씻으세요.
+(ja) 手を**きれいに**洗ってください。
+(en) Wash your hands **clean**.
+
+(ko) 옷이 **깨끗해요**.
+(ja) 服が**きれいです**。
+(en) The clothes are **clean**.
+
+## 더럽다 (to be dirty)
+(ko) 바닥이 **더러워요**.
+(ja) 床が**汚いです**。
+(en) The floor is **dirty**.
+
+(ko) 손이 **더러워졌어요**.
+(ja) 手が**汚れました**。
+(en) My hands got **dirty**.
+
+(ko) 이 옷은 너무 **더러워서** 빨아야 해요.
+(ja) この服は**汚すぎて**洗わないといけません。
+(en) These clothes are too **dirty** and need to be washed.
+
+## 청소하다 (to clean)
+(ko) 매일 방을 **청소해요**.
+(ja) 毎日部屋を**掃除します**。
+(en) I **clean** my room every day.
+
+(ko) 주말에 집 안을 **청소했어요**.
+(ja) 週末に家中を**掃除しました**。
+(en) I **cleaned** the whole house on the weekend.
+
+(ko) **청소한** 후에 기분이 상쾌해요.
+(ja) **掃除した**後は気分がすっきりします。
+(en) After **cleaning**, I feel refreshed.
+
+## 빨래하다 (to do laundry)
+(ko) 오늘 **빨래를 해요**.
+(ja) 今日**洗濯をします**。
+(en) I'm doing **laundry** today.
+
+(ko) 흰 옷은 따로 **빨래해야** 해요.
+(ja) 白い服は別に**洗濯しないと**いけません。
+(en) I need to **wash** white clothes separately.
+
+(ko) **빨래한** 옷을 개고 있어요.
+(ja) **洗濯した**服をたたんでいます。
+(en) I'm folding the **laundered** clothes.
+
+## 설거지하다 (to do dishes)
+(ko) 저녁 먹고 **설거지했어요**.
+(ja) 夕食を食べて**皿洗いをしました**。
+(en) I **did the dishes** after dinner.
+
+(ko) **설거지할** 때 장갑을 껴요.
+(ja) **皿洗いをする**ときは手袋をします。
+(en) I wear gloves when I **wash dishes**.
+
+(ko) **설거지가** 많아서 힘들어요.
+(ja) **洗い物が**多くて大変です。
+(en) There are a lot of **dishes to wash**, so it's hard.
+
+## 정리하다 (to organize / to tidy up)
+(ko) 책상을 **정리했어요**.
+(ja) 机を**整理しました**。
+(en) I **organized** the desk.
+
+(ko) 옷장을 **정리할** 시간이에요.
+(ja) クローゼットを**整理する**時間です。
+(en) It's time to **tidy up** the closet.
+
+(ko) 물건을 잘 **정리하는** 게 중요해요.
+(ja) 物をよく**整理する**ことが大事です。
+(en) It's important to **organize** things well.
+
+## 치우다 (to put away / to clean up)
+(ko) 장난감을 **치워 주세요**.
+(ja) おもちゃを**片付けてください**。
+(en) Please **put away** the toys.
+
+(ko) 식사 후에 접시를 **치웠어요**.
+(ja) 食事の後で皿を**片付けました**。
+(en) I **cleared** the dishes after the meal.
+
+(ko) 방을 좀 **치워야** 해요.
+(ja) 部屋を**片付けないと**いけません。
+(en) I need to **clean up** my room a bit.
+
+## 닦다 (to wipe / to polish)
+(ko) 식탁을 **닦아요**.
+(ja) テーブルを**拭きます**。
+(en) I **wipe** the table.
+
+(ko) 신발을 **닦았어요**.
+(ja) 靴を**磨きました**。
+(en) I **polished** my shoes.
+
+(ko) 거울을 **닦으니까** 깨끗해졌어요.
+(ja) 鏡を**拭いたら**きれいになりました。
+(en) After **wiping** the mirror, it became clean.
+
+## 씻다 (to wash)
+(ko) 손을 **씻어요**.
+(ja) 手を**洗います**。
+(en) I **wash** my hands.
+
+(ko) 과일을 **씻어서** 먹어요.
+(ja) 果物を**洗って**食べます。
+(en) I **wash** fruit and eat it.
+
+(ko) 얼굴을 **씻고** 나면 개운해요.
+(ja) 顔を**洗うと**すっきりします。
+(en) After **washing** my face, I feel refreshed.
+
+## 목욕하다 (to take a bath)
+(ko) 주말에 **목욕해요**.
+(ja) 週末に**お風呂に入ります**。
+(en) I **take a bath** on weekends.
+
+(ko) 따뜻한 물로 **목욕하는** 게 좋아요.
+(ja) 温かいお湯で**お風呂に入る**のが好きです。
+(en) I like **taking a bath** in warm water.
+
+(ko) **목욕한** 후에 잠이 잘 와요.
+(ja) **お風呂に入った**後はよく眠れます。
+(en) After **taking a bath**, I sleep well.
+
+## 샤워하다 (to shower)
+(ko) 아침에 **샤워해요**.
+(ja) 朝に**シャワーを浴びます**。
+(en) I **shower** in the morning.
+
+(ko) 운동 후에 **샤워했어요**.
+(ja) 運動の後に**シャワーを浴びました**。
+(en) I **showered** after exercising.
+
+(ko) **샤워할** 시간이 없어요.
+(ja) **シャワーを浴びる**時間がありません。
+(en) I don't have time to **shower**.
+
+## 머리 감다 (to wash one's hair)
+(ko) 오늘 **머리를 감았어요**.
+(ja) 今日**髪を洗いました**。
+(en) I **washed my hair** today.
+
+(ko) **머리 감는** 걸 자주 해야 해요.
+(ja) **髪を洗う**のは頻繁にしないといけません。
+(en) I need to **wash my hair** often.
+
+(ko) **머리 감은** 후에 드라이기를 써요.
+(ja) **髪を洗った**後はドライヤーを使います。
+(en) After **washing my hair**, I use a hair dryer.
+
+## 이 닦다 (to brush one's teeth)
+(ko) 아침에 **이를 닦아요**.
+(ja) 朝**歯を磨きます**。
+(en) I **brush my teeth** in the morning.
+
+(ko) 자기 전에 **이를 꼭 닦아요**.
+(ja) 寝る前に必ず**歯を磨きます**。
+(en) I always **brush my teeth** before bed.
+
+(ko) **이를 닦은** 후에 양치질을 해요.
+(ja) **歯を磨いた**後はうがいをします。
+(en) After **brushing my teeth**, I rinse.
+
+## 면도하다 (to shave)
+(ko) 아침에 **면도해요**.
+(ja) 朝**ひげを剃ります**。
+(en) I **shave** in the morning.
+
+(ko) 오늘은 **면도하지** 않았어요.
+(ja) 今日は**ひげを剃りませんでした**。
+(en) I didn't **shave** today.
+
+(ko) **면도한** 후에 로션을 발라요.
+(ja) **ひげを剃った**後はローションを塗ります。
+(en) After **shaving**, I apply lotion.
+
+## 화장하다 (to put on makeup)
+(ko) 출근하기 전에 **화장해요**.
+(ja) 出かける前に**メイクをします**。
+(en) I **put on makeup** before going to work.
+
+(ko) 오늘은 **화장하지** 않았어요.
+(ja) 今日は**メイクをしませんでした**。
+(en) I didn't **put on makeup** today.
+
+(ko) **화장하는** 법을 배우고 있어요.
+(ja) **メイクの**仕方を習っています。
+(en) I'm learning how to **put on makeup**.
+
+## 옷 입다 (to get dressed)
+(ko) 아침에 **옷을 입어요**.
+(ja) 朝**服を着ます**。
+(en) I **get dressed** in the morning.
+
+(ko) 오늘 뭘 **입을까요?**
+(ja) 今日は何を**着ましょうか**？
+(en) What should I **wear** today?
+
+(ko) **옷을 입고** 나서 거울을 봐요.
+(ja) **服を着て**から鏡を見ます。
+(en) After **getting dressed**, I look in the mirror.
+
+## 옷 벗다 (to take off clothes)
+(ko) 집에 오면 **옷을 벗어요**.
+(ja) 家に帰ると**服を脱ぎます**。
+(en) When I come home, I **take off my clothes**.
+
+(ko) 더우니까 외투를 **벗었어요**.
+(ja) 暑いので上着を**脱ぎました**。
+(en) It's hot, so I **took off** my jacket.
+
+(ko) 잠잘 때 **옷을 벗고** 잠옷으로 갈아입어요.
+(ja) 寝るときは**服を脱いで**パジャマに着替えます。
+(en) When sleeping, I **take off** my clothes and change into pajamas.
+
+## 신발 신다 (to put on shoes)
+(ko) 나가기 전에 **신발을 신어요**.
+(ja) 出かける前に**靴を履きます**。
+(en) I **put on my shoes** before going out.
+
+(ko) **신발을 신을** 때 깔창을 넣어요.
+(ja) **靴を履く**とき中敷きを入れます。
+(en) I put in an insole when I **put on shoes**.
+
+(ko) 아이가 **신발을 혼자 신었어요**.
+(ja) 子供が**靴を自分で履きました**。
+(en) The child **put on his shoes** by himself.
+
+## 신발 벗다 (to take off shoes)
+(ko) 집에 들어가기 전에 **신발을 벗어요**.
+(ja) 家に入る前に**靴を脱ぎます**。
+(en) I **take off my shoes** before entering the house.
+
+(ko) 한국에서는 실내에서 **신발을 벗어요**.
+(ja) 韓国では室内で**靴を脱ぎます**。
+(en) In Korea, you **take off your shoes** indoors.
+
+(ko) **신발을 벗고** 양말을 갈아 신었어요.
+(ja) **靴を脱いで**靴下を履き替えました。
+(en) I **took off my shoes** and changed my socks.
+
+## 옷 갈아입다 (to change clothes)
+(ko) 운동하기 전에 **옷을 갈아입어요**.
+(ja) 運動する前に**服を着替えます**。
+(en) I **change clothes** before exercising.
+
+(ko) **옷을 갈아입을** 시간이 필요해요.
+(ja) **着替える**時間が必要です。
+(en) I need time to **change clothes**.
+
+(ko) 수영복으로 **옷을 갈아입었어요**.
+(ja) 水着に**着替えました**。
+(en) I **changed** into a swimsuit.
+
+## 옷 (clothes)
+(ko) 이 **옷**이 참 예뻐요.
+(ja) この**服**がとてもきれいです。
+(en) These **clothes** are very pretty.
+
+(ko) **옷**을 많이 샀어요.
+(ja) **服**をたくさん買いました。
+(en) I bought a lot of **clothes**.
+
+(ko) **옷**을 정리해야 해요.
+(ja) **服**を整理しないといけません。
+(en) I need to organize my **clothes**.
+
+## 상의 (top)
+(ko) 이 **상의**는 사이즈가 커요.
+(ja) この**トップス**はサイズが大きいです。
+(en) This **top** is big in size.
+
+(ko) **상의**만 갈아입을게요.
+(ja) **トップス**だけ着替えますね。
+(en) I'll just change my **top**.
+
+(ko) **상의**는 흰색이 좋겠어요.
+(ja) **トップス**は白がいいと思います。
+(en) A white **top** would be good.
+
+## 하의 (bottom)
+(ko) 이 **하의**는 편해요.
+(ja) この**ボトムス**は履きやすいです。
+(en) These **bottoms** are comfortable.
+
+(ko) **하의**를 어떤 걸로 입을까요?
+(ja) **ボトムス**はどれを履きましょうか？
+(en) Which **bottom** should I wear?
+
+(ko) 검은색 **하의**는 어떤 옷하고도 잘 맞아요.
+(ja) 黒い**ボトムス**はどんな服にも合います。
+(en) Black **bottoms** go with any clothes.
+
+## 원피스 (one-piece dress)
+(ko) 오늘 **원피스**를 입었어요.
+(ja) 今日**ワンピース**を着ました。
+(en) I wore a **dress** today.
+
+(ko) 이 **원피스**가 정말 우아해요.
+(ja) この**ワンピース**が本当に優雅です。
+(en) This **dress** is really elegant.
+
+(ko) 여름에 **원피스**를 자주 입어요.
+(ja) 夏に**ワンピース**をよく着ます。
+(en) I often wear **dresses** in summer.
+
+## 치마 (skirt)
+(ko) 이 **치마**는 길이가 짧아요.
+(ja) この**スカート**は丈が短いです。
+(en) This **skirt** is short.
+
+(ko) 주름 **치마**가 예뻐요.
+(ja) プリーツ**スカート**がきれいです。
+(en) The pleated **skirt** is pretty.
+
+(ko) **치마**를 입으니까 더 여성스러워요.
+(ja) **スカート**を履くとより女性的です。
+(en) Wearing a **skirt** makes me look more feminine.
+
+## 바지 (pants)
+(ko) 이 **바지**는 너무 헐렁해요.
+(ja) この**ズボン**はだぶだぶです。
+(en) These **pants** are too loose.
+
+(ko) **바지**를 하나 더 샀어요.
+(ja) **ズボン**をもう一枚買いました。
+(en) I bought one more pair of **pants**.
+
+(ko) 청**바지**는 캐주얼한 느낌이에요.
+(ja) ジーンズはカジュアルな感じです。
+(en) **Jeans** have a casual feel.
+
+## 청바지 (jeans)
+(ko) **청바지**에 티셔츠를 입었어요.
+(ja) **ジーンズ**にTシャツを着ました。
+(en) I wore a t-shirt with **jeans**.
+
+(ko) 이 **청바지**는 잘 늘어나요.
+(ja) この**ジーンズ**はよく伸びます。
+(en) These **jeans** stretch well.
+
+(ko) **청바지**는 어디에나 입을 수 있어요.
+(ja) **ジーンズ**はどこにでも履いていけます。
+(en) **Jeans** can be worn anywhere.
+
+## 반바지 (shorts)
+(ko) 여름에는 **반바지**를 입어요.
+(ja) 夏は**半ズボン**を履きます。
+(en) I wear **shorts** in summer.
+
+(ko) 이 **반바지**는 편안해요.
+(ja) この**ショートパンツ**は楽です。
+(en) These **shorts** are comfortable.
+
+(ko) 운동할 때 **반바지**가 좋아요.
+(ja) 運動するときは**短パン**がいいです。
+(en) **Shorts** are good for exercising.
+
+## 티셔츠 (t-shirt)
+(ko) 흰 **티셔츠**를 샀어요.
+(ja) 白い**Tシャツ**を買いました。
+(en) I bought a white **t-shirt**.
+
+(ko) 이 **티셔츠**는 면 100%예요.
+(ja) この**Tシャツ**は綿100%です。
+(en) This **t-shirt** is 100% cotton.
+
+(ko) **티셔츠**에 로고가 있어요.
+(ja) **Tシャツ**にロゴがあります。
+(en) There's a logo on the **t-shirt**.
+
+## 와이셔츠 (dress shirt)
+(ko) 면접 볼 때 **와이셔츠**를 입었어요.
+(ja) 面接のとき**ワイシャツ**を着ました。
+(en) I wore a **dress shirt** for the interview.
+
+(ko) **와이셔츠**를 다림질해야 해요.
+(ja) **ワイシャツ**にアイロンをかけないといけません。
+(en) I need to iron the **dress shirt**.
+
+(ko) 이 **와이셔츠**는 목에 잘 맞아요.
+(ja) この**ワイシャツ**は首回りがぴったりです。
+(en) This **dress shirt** fits well around the neck.
+
+## 블라우스 (blouse)
+(ko) 이 **블라우스**는 실크예요.
+(ja) この**ブラウス**はシルクです。
+(en) This **blouse** is silk.
+
+(ko) **블라우스**에 리본이 달려 있어요.
+(ja) **ブラウス**にリボンが付いています。
+(en) The **blouse** has a ribbon on it.
+
+(ko) 흰 **블라우스**는 기본 아이템이에요.
+(ja) 白い**ブラウス**は基本アイテムです。
+(en) A white **blouse** is a basic item.
+
+## 니트 (knit)
+(ko) 겨울에 **니트**를 입어요.
+(ja) 冬に**ニット**を着ます。
+(en) I wear **knits** in winter.
+
+(ko) 이 **니트**는 부드러워요.
+(ja) この**ニット**は柔らかいです。
+(en) This **knit** is soft.
+
+(ko) **니트**는 손빨래해야 해요.
+(ja) **ニット**は手洗いしないといけません。
+(en) **Knits** need to be hand-washed.
+
+## 스웨터 (sweater)
+(ko) 이 **스웨터**는 털이 있어요.
+(ja) この**セーター**は毛糸です。
+(en) This **sweater** is woolen.
+
+(ko) **스웨터**를 뒤집어서 널어요.
+(ja) **セーター**は裏返して干します。
+(en) I hang the **sweater** inside out.
+
+(ko) **스웨터**를 선물로 받았어요.
+(ja) **セーター**をプレゼントでもらいました。
+(en) I received a **sweater** as a gift.
+
+## 자켓 (jacket)
+(ko) 이 **자켓**은 가볍고 따뜻해요.
+(ja) この**ジャケット**は軽くて暖かいです。
+(en) This **jacket** is light and warm.
+
+(ko) **자켓**을 입으니 더 멋져 보여요.
+(ja) **ジャケット**を着るともっとかっこよく見えます。
+(en) You look cooler wearing a **jacket**.
+
+(ko) **자켓**을 벗어도 돼요?
+(ja) **ジャケット**を脱いでもいいですか？
+(en) May I take off my **jacket**?
+
+## 코트 (coat)
+(ko) 겨울에 두꺼운 **코트**를 입어요.
+(ja) 冬に厚い**コート**を着ます。
+(en) I wear a thick **coat** in winter.
+
+(ko) 이 **코트**가 정말 고급스러워요.
+(ja) この**コート**が本当に高級です。
+(en) This **coat** looks really luxurious.
+
+(ko) 긴 **코트**를 찾고 있어요.
+(ja) 長い**コート**を探しています。
+(en) I'm looking for a long **coat**.
+
+## 점퍼 (jumper)
+(ko) 이 **점퍼**는 방풍 기능이 있어요.
+(ja) この**ジャンパー**は防風機能があります。
+(en) This **jumper** has a windproof function.
+
+(ko) 가을에 **점퍼**를 입어요.
+(ja) 秋に**ジャンパー**を着ます。
+(en) I wear a **jumper** in autumn.
+
+(ko) **점퍼** 지퍼가 고장 났어요.
+(ja) **ジャンパー**のファスナーが壊れました。
+(en) The zipper on my **jumper** broke.
+
+## 패딩 (padded jacket)
+(ko) 영하 날씨에 **패딩**을 입어요.
+(ja) 氷点下の天気に**パディング**を着ます。
+(en) I wear a **padded jacket** in sub-zero weather.
+
+(ko) 이 **패딩**은 정말 가벼워요.
+(ja) この**ダウンジャケット**は本当に軽いです。
+(en) This **padded jacket** is really light.
+
+(ko) **패딩**을 세탁기에 넣으면 안 돼요.
+(ja) **ダウンジャケット**を洗濯機に入れてはいけません。
+(en) You shouldn't put a **padded jacket** in the washing machine.
+
+## 잠바 (jacket)
+(ko) 이 **잠바**는 운동할 때 입어요.
+(ja) この**ジャンパー**は運動するときに着ます。
+(en) I wear this **jacket** when exercising.
+
+(ko) **잠바** 주머니에 뭐가 있어요?
+(ja) **ジャンパー**のポケットに何かありますか？
+(en) Is there something in the **jacket** pocket?
+
+(ko) **잠바**를 걸어두세요.
+(ja) **ジャンパー**を掛けておいてください。
+(en) Please hang up the **jacket**.
+
+## 가디건 (cardigan)
+(ko) 사무실에서 **가디건**을 입어요.
+(ja) オフィスで**カーディガン**を着ます。
+(en) I wear a **cardigan** at the office.
+
+(ko) 이 **가디건**은 단추가 예뻐요.
+(ja) この**カーディガン**はボタンがきれいです。
+(en) This **cardigan** has pretty buttons.
+
+(ko) **가디건**은 입고 벗기 쉬워요.
+(ja) **カーディガン**は着脱が楽です。
+(en) A **cardigan** is easy to put on and take off.
+
+## 조끼 (vest)
+(ko) 이 **조끼**는 양털로 만들었어요.
+(ja) この**ベスト**はフリースでできています。
+(en) This **vest** is made of fleece.
+
+(ko) **조끼**는 팔이 없어서 활동하기 좋아요.
+(ja) **ベスト**は袖がないので活動しやすいです。
+(en) A **vest** is good for activities because it has no sleeves.
+
+(ko) 정장 안에 **조끼**를 입었어요.
+(ja) スーツの下に**ベスト**を着ました。
+(en) I wore a **vest** under my suit.
+
+## 정장 (suit)
+(ko) 면접에 **정장**을 입고 갔어요.
+(ja) 面接に**スーツ**を着て行きました。
+(en) I went to the interview wearing a **suit**.
+
+(ko) **정장**이 몸에 잘 맞아요.
+(ja) **スーツ**が体にぴったり合っています。
+(en) The **suit** fits well.
+
+(ko) **정장**은 특별한 자리에서 입어요.
+(ja) **スーツ**は特別な席で着ます。
+(en) I wear a **suit** for special occasions.
+
+## 넥타이 (necktie)
+(ko) **넥타이**를 매는 법을 배웠어요.
+(ja) **ネクタイ**の締め方を習いました。
+(en) I learned how to tie a **necktie**.
+
+(ko) 이 **넥타이**는 명품이에요.
+(ja) この**ネクタイ**はブランド品です。
+(en) This **necktie** is a designer brand.
+
+(ko) **넥타이** 색깔이 정장과 잘 어울려요.
+(ja) **ネクタイ**の色がスーツとよく合っています。
+(en) The **necktie** color matches the suit well.
+
+## 벨트 (belt)
+(ko) 이 **벨트**는 가죽이에요.
+(ja) この**ベルト**は革です。
+(en) This **belt** is leather.
+
+(ko) 바지에 **벨트**를 해야 해요.
+(ja) ズボンに**ベルト**をしないといけません。
+(en) I need to wear a **belt** with these pants.
+
+(ko) **벨트** 구멍이 하나 더 필요해요.
+(ja) **ベルト**の穴がもう一つ必要です。
+(en) I need one more hole in the **belt**.
+
+## 양말 (socks)
+(ko) 오늘은 **양말**을 안 신었어요.
+(ja) 今日は**靴下**を履いていません。
+(en) I'm not wearing **socks** today.
+
+(ko) 이 **양말**은 짝이 맞지 않아요.
+(ja) この**靴下**はペアが合いません。
+(en) These **socks** don't match.
+
+(ko) **양말**을 신고 신발을 신어요.
+(ja) **靴下**を履いてから靴を履きます。
+(en) I put on **socks** and then shoes.
+
+## 스타킹 (stockings)
+(ko) **스타킹**이 찢어졌어요.
+(ja) **ストッキング**が伝線しました。
+(en) My **stockings** got a run/ladder.
+
+(ko) 여름에 **스타킹**을 신으면 더워요.
+(ja) 夏に**ストッキング**を履くと暑いです。
+(en) It's hot to wear **stockings** in summer.
+
+(ko) 살색 **스타킹**이 기본이에요.
+(ja) 肌色の**ストッキング**が基本です。
+(en) Nude **stockings** are the basic choice.
+
+## 속옷 (underwear)
+(ko) **속옷**은 매일 갈아입어요.
+(ja) **下着**は毎日着替えます。
+(en) I change my **underwear** every day.
+
+(ko) **속옷**을 따로 빨아야 해요.
+(ja) **下着**は別に洗わないといけません。
+(en) I need to wash **underwear** separately.
+
+(ko) 편한 **속옷**이 제일 좋아요.
+(ja) 楽な**下着**が一番いいです。
+(en) Comfortable **underwear** is the best.
+
+## 잠옷 (pajamas)
+(ko) 자기 전에 **잠옷**으로 갈아입어요.
+(ja) 寝る前に**パジャマ**に着替えます。
+(en) I **change into pajamas** before sleeping.
+
+(ko) 이 **잠옷**은 실크라서 부드러워요.
+(ja) この**パジャマ**はシルクで柔らかいです。
+(en) These **pajamas** are soft because they're silk.
+
+(ko) **잠옷**을 새로 샀어요.
+(ja) **パジャマ**を新しく買いました。
+(en) I bought new **pajamas**.
+
+## 수영복 (swimsuit)
+(ko) 바닷가에 **수영복**을 입고 갔어요.
+(ja) 海に**水着**を着て行きました。
+(en) I went to the beach wearing a **swimsuit**.
+
+(ko) 이 **수영복**이 잘 맞아요?
+(ja) この**水着**はサイズが合いますか？
+(en) Does this **swimsuit** fit well?
+
+(ko) **수영복**은 수영할 때만 입어요.
+(ja) **水着**は泳ぐときだけ着ます。
+(en) I only wear a **swimsuit** when swimming.
+
+## 운동복 (sportswear)
+(ko) 헬스장에 **운동복**을 입고 가요.
+(ja) ジムに**スポーツウェア**を着て行きます。
+(en) I go to the gym wearing **sportswear**.
+
+(ko) **운동복**은 땀을 잘 흡수해요.
+(ja) **スポーツウェア**は汗をよく吸収します。
+(en) **Sportswear** absorbs sweat well.
+
+(ko) 새 **운동복**을 샀어요.
+(ja) 新しい**トレーニングウェア**を買いました。
+(en) I bought new **sportswear**.
+
+## 교복 (school uniform)
+(ko) 학생들은 **교복**을 입어요.
+(ja) 学生は**制服**を着ます。
+(en) Students wear **school uniforms**.
+
+(ko) **교복**에 이름표를 달았어요.
+(ja) **制服**に名札を付けました。
+(en) I put a name tag on my **school uniform**.
+
+(ko) **교복** 치마가 너무 짧아요.
+(ja) **制服**のスカートが短すぎます。
+(en) The **school uniform** skirt is too short.
+
+## 한복 (hanbok / traditional Korean clothing)
+(ko) 명절에 **한복**을 입어요.
+(ja) 祝日に**韓服**を着ます。
+(en) I wear **hanbok** on holidays.
+
+(ko) 이 **한복**은 색깔이 아름다워요.
+(ja) この**韓服**は色が美しいです。
+(en) This **hanbok** has beautiful colors.
+
+(ko) **한복**을 처음 입어 봤어요.
+(ja) **韓服**を初めて着てみました。
+(en) I tried wearing **hanbok** for the first time.
+
+## 옷걸이 (hanger)
+(ko) **옷걸이**에 옷을 걸어요.
+(ja) **ハンガー**に服を掛けます。
+(en) I hang clothes on a **hanger**.
+
+(ko) **옷걸이**가 더 필요해요.
+(ja) **ハンガー**がもっと必要です。
+(en) I need more **hangers**.
+
+(ko) 나무 **옷걸이**가 좋아요.
+(ja) 木製の**ハンガー**がいいです。
+(en) Wooden **hangers** are good.
+
+## 옷장 (wardrobe / closet)
+(ko) **옷장** 문이 안 닫혀요.
+(ja) **クローゼット**の扉が閉まりません。
+(en) The **closet** door won't close.
+
+(ko) **옷장** 안이 너무 지저분해요.
+(ja) **クローゼット**の中が散らかっています。
+(en) The inside of the **closet** is too messy.
+
+(ko) **옷장**을 정리하려고 해요.
+(ja) **クローゼット**を整理しようと思っています。
+(en) I'm planning to organize the **closet**.
+
+## 서랍 (drawer)
+(ko) **서랍**을 열었어요.
+(ja) **引き出し**を開けました。
+(en) I opened the **drawer**.
+
+(ko) 이 **서랍**에는 양말이 들어 있어요.
+(ja) この**引き出し**には靴下が入っています。
+(en) This **drawer** has socks in it.
+
+(ko) **서랍**이 너무 꽉 차서 안 닫혀요.
+(ja) **引き出し**が詰まりすぎて閉まりません。
+(en) The **drawer** is too full to close.
+
+## 거울 (mirror)
+(ko) **거울**을 보면서 화장해요.
+(ja) **鏡**を見ながらメイクをします。
+(en) I put on makeup while looking in the **mirror**.
+
+(ko) 이 **거울**은 크기가 커서 좋아요.
+(ja) この**鏡**は大きくて良いです。
+(en) This **mirror** is good because it's big.
+
+(ko) **거울**이 깨끗하지 않아요.
+(ja) **鏡**がきれいではありません。
+(en) The **mirror** isn't clean.
+
+## 화장대 (dressing table)
+(ko) **화장대**에 화장품이 많아요.
+(ja) **化粧台**に化粧品がたくさんあります。
+(en) There are a lot of cosmetics on the **dressing table**.
+
+(ko) 새 **화장대**를 사고 싶어요.
+(ja) 新しい**化粧台**を買いたいです。
+(en) I want to buy a new **dressing table**.
+
+(ko) **화장대** 앞에 의자가 있어요.
+(ja) **化粧台**の前に椅子があります。
+(en) There's a chair in front of the **dressing table**.
+
+## 빗 (comb)
+(ko) **빗**으로 머리를 빗어요.
+(ja) **櫛**で髪をとかします。
+(en) I comb my hair with a **comb**.
+
+(ko) **빗**이 어디 있어요?
+(ja) **櫛**はどこにありますか？
+(en) Where is the **comb**?
+
+(ko) 이 **빗**은 빗살이 촘촘해요.
+(ja) この**櫛**は歯が細かいです。
+(en) This **comb** has fine teeth.
+
+## 드라이기 (hair dryer)
+(ko) 머리 감고 **드라이기**로 말려요.
+(ja) 髪を洗って**ドライヤー**で乾かします。
+(en) After washing my hair, I dry it with a **hair dryer**.
+
+(ko) 이 **드라이기**는 소음이 적어요.
+(ja) この**ドライヤー**は音が静かです。
+(en) This **hair dryer** is quiet.
+
+(ko) **드라이기**를 너무 오래 쓰면 머리카락이 상해요.
+(ja) **ドライヤー**を長く使いすぎると髪が傷みます。
+(en) If you use the **hair dryer** too long, your hair gets damaged.
+
+## 면도기 (shaver)
+(ko) 아침에 **면도기**로 면도해요.
+(ja) 朝**剃刀**でひげを剃ります。
+(en) I shave with a **shaver** in the morning.
+
+(ko) 전기 **면도기**를 새로 샀어요.
+(ja) 電気**シェーバー**を新しく買いました。
+(en) I bought a new electric **shaver**.
+
+(ko) **면도기** 칼날이 무뎌졌어요.
+(ja) **シェーバー**の刃が切れなくなってきました。
+(en) The **shaver** blade has gotten dull.
+
+## 칫솔 (toothbrush)
+(ko) **칫솔**을 3개월마다 바꿔요.
+(ja) **歯ブラシ**は3ヶ月ごとに替えます。
+(en) I change my **toothbrush** every three months.
+
+(ko) 이 **칫솔**은 칫솔질이 잘돼요.
+(ja) この**歯ブラシ**は磨きやすいです。
+(en) This **toothbrush** brushes well.
+
+(ko) 여분 **칫솔**이 있어요?
+(ja) 予備の**歯ブラシ**がありますか？
+(en) Do you have an extra **toothbrush**?
+
+## 치약 (toothpaste)
+(ko) 이 **치약**은 미백 효과가 있어요.
+(ja) この**歯磨き粉**はホワイトニング効果があります。
+(en) This **toothpaste** has whitening effects.
+
+(ko) **치약**이 떨어졌어요.
+(ja) **歯磨き粉**がなくなりました。
+(en) We're out of **toothpaste**.
+
+(ko) 어떤 **치약**을 써요?
+(ja) どんな**歯磨き粉**を使っていますか？
+(en) What **toothpaste** do you use?
+
+## 비누 (soap)
+(ko) 손을 **비누**로 씻어요.
+(ja) 手を**石鹸**で洗います。
+(en) I wash my hands with **soap**.
+
+(ko) 이 **비누**는 향기가 좋아요.
+(ja) この**石鹸**は香りがいいです。
+(en) This **soap** smells good.
+
+(ko) 액체 **비누**가 더 편해요.
+(ja) 液体**石鹸**のほうが楽です。
+(en) Liquid **soap** is more convenient.
+
+## 샴푸 (shampoo)
+(ko) **샴푸**로 머리를 감아요.
+(ja) **シャンプー**で髪を洗います。
+(en) I wash my hair with **shampoo**.
+
+(ko) 이 **샴푸**는 두피에 좋아요.
+(ja) この**シャンプー**は頭皮にいいです。
+(en) This **shampoo** is good for the scalp.
+
+(ko) **샴푸**가 거의 다 떨어졌어요.
+(ja) **シャンプー**がほとんどなくなりました。
+(en) The **shampoo** is almost finished.
+
+## 린스 (conditioner)
+(ko) **샴푸** 후에 **린스**를 발라요.
+(ja) **シャンプー**の後に**リンス**を付けます。
+(en) I apply **conditioner** after shampoo.
+
+(ko) 이 **린스**는 머리카락이 부드러워져요.
+(ja) この**リンス**は髪が柔らかくなります。
+(en) This **conditioner** makes hair soft.
+
+(ko) **린스**를 너무 많이 쓰면 안 돼요.
+(ja) **リンス**を使いすぎてはいけません。
+(en) You shouldn't use too much **conditioner**.
+
+## 바디워시 (body wash)
+(ko) **바디워시**로 몸을 씻어요.
+(ja) **ボディウォッシュ**で体を洗います。
+(en) I wash my body with **body wash**.
+
+(ko) 이 **바디워시**는 보습 효과가 있어요.
+(ja) この**ボディウォッシュ**は保湿効果があります。
+(en) This **body wash** has moisturizing effects.
+
+(ko) **바디워시**가 떨어져서 새로 샀어요.
+(ja) **ボディウォッシュ**がなくなったので新しく買いました。
+(en) I bought new **body wash** because it ran out.
+
+## 로션 (lotion)
+(ko) 샤워 후에 **로션**을 발라요.
+(ja) シャワーの後に**ローション**を塗ります。
+(en) I apply **lotion** after showering.
+
+(ko) 이 **로션**은 끈적이지 않아요.
+(ja) この**ローション**はべたつきません。
+(en) This **lotion** isn't sticky.
+
+(ko) 얼굴에는 전용 **로션**을 써요.
+(ja) 顔には専用の**ローション**を使います。
+(en) I use a special **lotion** for my face.
+
+## 크림 (cream)
+(ko) 밤에 **크림**을 바르고 자요.
+(ja) 夜に**クリーム**を塗って寝ます。
+(en) I apply **cream** before sleeping.
+
+(ko) 이 **크림**은 주름 개선에 좋아요.
+(ja) この**クリーム**はしわ改善にいいです。
+(en) This **cream** is good for wrinkle improvement.
+
+(ko) **크림**을 너무 많이 바르면 답답해요.
+(ja) **クリーム**を塗りすぎるとべたつきます。
+(en) If you apply too much **cream**, it feels heavy.
+
+## 향수 (perfume)
+(ko) 오늘 **향수**를 뿌렸어요.
+(ja) 今日**香水**をつけました。
+(en) I put on **perfume** today.
+
+(ko) 이 **향수**는 꽃 냄새가 나요.
+(ja) この**香水**は花の香りがします。
+(en) This **perfume** smells like flowers.
+
+(ko) **향수**를 손목에 뿌려요.
+(ja) **香水**は手首につけます。
+(en) I spray **perfume** on my wrists.
+
+## 화장품 (cosmetics)
+(ko) **화장품**을 많이 가지고 있어요.
+(ja) **化粧品**をたくさん持っています。
+(en) I have a lot of **cosmetics**.
+
+(ko) 이 **화장품**은 피부에 자극이 적어요.
+(ja) この**化粧品**は肌に刺激が少ないです。
+(en) These **cosmetics** are gentle on the skin.
+
+(ko) **화장품**을 백화점에서 사요.
+(ja) **化粧品**はデパートで買います。
+(en) I buy **cosmetics** at the department store.
+
+## 수건 (towel)
+(ko) **수건**으로 손을 닦아요.
+(ja) **タオル**で手を拭きます。
+(en) I dry my hands with a **towel**.
+
+(ko) 깨끗한 **수건**이 어디 있어요?
+(ja) きれいな**タオル**はどこにありますか？
+(en) Where is a clean **towel**?
+
+(ko) 이 **수건**은 보들보들해요.
+(ja) この**タオル**はふわふわです。
+(en) This **towel** is soft and fluffy.
+
+## 휴지 (tissue)
+(ko) **휴지** 좀 주세요.
+(ja) **ティッシュ**をください。
+(en) Please give me a **tissue**.
+
+(ko) **휴지**가 어디에 있어요?
+(ja) **ティッシュ**はどこにありますか？
+(en) Where are the **tissues**?
+
+(ko) 코가 아파서 **휴지**가 필요해요.
+(ja) 鼻が痛くて**ティッシュ**が必要です。
+(en) My nose hurts, so I need **tissue**.
+
+## 생리대 (sanitary pad)
+(ko) **생리대**를 사야 해요.
+(ja) **生理用ナプキン**を買わないといけません。
+(en) I need to buy **sanitary pads**.
+
+(ko) 어떤 **생리대**가 좋아요?
+(ja) どんな**生理用ナプキン**がいいですか？
+(en) Which **sanitary pad** is good?
+
+(ko) **생리대**는 약국에서 팔아요.
+(ja) **生理用ナプキン**は薬局で売っています。
+(en) **Sanitary pads** are sold at the pharmacy.
+
+## 기저귀 (diaper)
+(ko) 아기에게 **기저귀**를 갈아줬어요.
+(ja) 赤ちゃんに**おむつ**を替えてあげました。
+(en) I changed the baby's **diaper**.
+
+(ko) **기저귀**가 다 떨어졌어요.
+(ja) **おむつ**が全部なくなりました。
+(en) We're out of **diapers**.
+
+(ko) 이 **기저귀**는 흡수력이 좋아요.
+(ja) この**おむつ**は吸収力がいいです。
+(en) These **diapers** have good absorbency.
+
+## 안대 (eye mask)
+(ko) 잠잘 때 **안대**를 써요.
+(ja) 寝るときは**アイマスク**をします。
+(en) I wear an **eye mask** when sleeping.
+
+(ko) 이 **안대**는 부드러워서 편해요.
+(ja) この**アイマスク**は柔らかくて楽です。
+(en) This **eye mask** is soft and comfortable.
+
+(ko) 비행기에서 **안대**를 썼어요.
+(ja) 飛行機の中で**アイマスク**をしました。
+(en) I used an **eye mask** on the plane.
+
+## 귀마개 (earplugs)
+(ko) 시끄러울 때 **귀마개**를 껴요.
+(ja) うるさいときは**耳栓**をします。
+(en) I wear **earplugs** when it's loud.
+
+(ko) **귀마개**를 끼면 잘 들리지 않아요.
+(ja) **耳栓**をするとよく聞こえません。
+(en) I can't hear well when I wear **earplugs**.
+
+(ko) 수영할 때 **귀마개**가 필요해요.
+(ja) 泳ぐときは**耳栓**が必要です。
+(en) I need **earplugs** when swimming.
+
+## 마스크 (mask)
+(ko) 미세먼지가 심할 때 **마스크**를 써요.
+(ja) 微細粉じんがひどいときは**マスク**をします。
+(en) I wear a **mask** when the fine dust is bad.
+
+(ko) **마스크**를 꼭 챙기세요.
+(ja) **マスク**を必ず持って行ってください。
+(en) Please be sure to bring a **mask**.
+
+(ko) **마스크**를 쓰면 덥지만 안전해요.
+(ja) **マスク**をすると暑いですが安全です。
+(en) Wearing a **mask** is hot but safe.
+
+## 손수건 (handkerchief)
+(ko) **손수건**을 항상 가지고 다녀요.
+(ja) **ハンカチ**をいつも持ち歩いています。
+(en) I always carry a **handkerchief**.
+
+(ko) 이 **손수건**은 자수 자수가 있어요.
+(ja) この**ハンカチ**は刺繍がしてあります。
+(en) This **handkerchief** has embroidery on it.
+
+(ko) **손수건**을 세탁해서 개었어요.
+(ja) **ハンカチ**を洗濯してたたみました。
+(en) I washed and folded the **handkerchief**.
+
+## 우산 (umbrella)
+(ko) 비가 와서 **우산**을 가져왔어요.
+(ja) 雨が降ったので**傘**を持ってきました。
+(en) It's raining, so I brought an **umbrella**.
+
+(ko) **우산**을 버스에 두고 내렸어요.
+(ja) **傘**をバスに置いて降りてしまいました。
+(en) I left my **umbrella** on the bus.
+
+(ko) 접이식 **우산**이 편리해요.
+(ja) 折りたたみ**傘**が便利です。
+(en) A foldable **umbrella** is convenient.
+
+## 지갑 (wallet)
+(ko) **지갑**을 안 가져왔어요.
+(ja) **財布**を持ってきませんでした。
+(en) I didn't bring my **wallet**.
+
+(ko) **지갑**을 잃어버렸어요!
+(ja) **財布**をなくしました！
+(en) I lost my **wallet**!
+
+(ko) 이 **지갑**은 가죽이라서 비싸요.
+(ja) この**財布**は革なので高いです。
+(en) This **wallet** is expensive because it's leather.
+
+## 가방 (bag)
+(ko) 이 **가방**은 무거워요.
+(ja) この**バッグ**は重いです。
+(en) This **bag** is heavy.
+
+(ko) **가방** 안에 뭐가 들어 있어요?
+(ja) **バッグ**の中に何が入っていますか？
+(en) What's inside the **bag**?
+
+(ko) 새 **가방**을 샀어요!
+(ja) 新しい**バッグ**を買いました！
+(en) I bought a new **bag**!
+
+## 배낭 (backpack)
+(ko) 여행할 때 **배낭**을 메요.
+(ja) 旅行するときは**リュックサック**を背負います。
+(en) I carry a **backpack** when traveling.
+
+(ko) 이 **배낭**은 등이 편해요.
+(ja) この**リュック**は背中が楽です。
+(en) This **backpack** is comfortable on the back.
+
+(ko) **배낭**에 물과 간식을 넣었어요.
+(ja) **リュック**に水とおやつを入れました。
+(en) I put water and snacks in the **backpack**.
+
+## 여행가방 (suitcase)
+(ko) **여행가방**을 이미 다 쌌어요.
+(ja) **スーツケース**はもう全部詰めました。
+(en) I've already packed the **suitcase**.
+
+(ko) 큰 **여행가방**이 필요해요.
+(ja) 大きい**スーツケース**が必要です。
+(en) I need a big **suitcase**.
+
+(ko) **여행가방** 바퀴가 고장 났어요.
+(ja) **スーツケース**の車輪が壊れました。
+(en) The wheels on the **suitcase** broke.
+
+## 캐리어 (suitcase)
+(ko) **캐리어**를 끌고 공항에 갔어요.
+(ja) **キャリーケース**を引いて空港に行きました。
+(en) I went to the airport pulling a **suitcase**.
+
+(ko) 이 **캐리어**는 확장이 돼요.
+(ja) この**キャリーケース**は拡張できます。
+(en) This **suitcase** can be expanded.
+
+(ko) **캐리어** 비밀번호를 잊어버렸어요.
+(ja) **キャリーケース**の暗証番号を忘れました。
+(en) I forgot the **suitcase** password.
+
+## 지도 (map)
+(ko) **지도**를 보고 길을 찾았어요.
+(ja) **地図**を見て道を探しました。
+(en) I looked at the **map** and found the way.
+
+(ko) **지도** 앱을 다운받았어요.
+(ja) **地図**アプリをダウンロードしました。
+(en) I downloaded a **map** app.
+
+(ko) 종이 **지도**도 아직 유용해요.
+(ja) 紙の**地図**もまだ役に立ちます。
+(en) Paper **maps** are still useful.
+
+## 나침반 (compass)
+(ko) **나침반**으로 방향을 알아요.
+(ja) **コンパス**で方向を調べます。
+(en) I check the direction with a **compass**.
+
+(ko) 등산할 때 **나침반**이 필요해요.
+(ja) 登山するときは**コンパス**が必要です。
+(en) I need a **compass** when hiking.
+
+(ko) **나침반** 바늘이 북쪽을 가리켜요.
+(ja) **コンパス**の針は北を指します。
+(en) The **compass** needle points north.
+
+## 쌍안경 (binoculars)
+(ko) **쌍안경**으로 새를 관찰했어요.
+(ja) **双眼鏡**で鳥を観察しました。
+(en) I watched birds with **binoculars**.
+
+(ko) 이 **쌍안경**은 초점이 잘 맞아요.
+(ja) この**双眼鏡**はピントがよく合います。
+(en) These **binoculars** focus well.
+
+(ko) 콘서트에서 **쌍안경**을 사용했어요.
+(ja) コンサートで**双眼鏡**を使いました。
+(en) I used **binoculars** at the concert.
+
+## 돋보기 (magnifying glass)
+(ko) 할머니가 **돋보기**로 글자를 보세요.
+(ja) おばあさんが**拡大鏡**で文字を見ています。
+(en) Grandmother reads letters with a **magnifying glass**.
+
+(ko) **돋보기**가 있으면 작은 글씨도 볼 수 있어요.
+(ja) **拡大鏡**があれば小さい文字も見えます。
+(en) With a **magnifying glass**, you can see small letters.
+
+(ko) 이 **돋보기**는 2배 확대돼요.
+(ja) この**拡大鏡**は2倍に拡大します。
+(en) This **magnifying glass** magnifies 2x.
+
+## 현미경 (microscope)
+(ko) 과학 시간에 **현미경**을 사용했어요.
+(ja) 理科の時間に**顕微鏡**を使いました。
+(en) I used a **microscope** in science class.
+
+(ko) **현미경**으로 세포를 관찰해요.
+(ja) **顕微鏡**で細胞を観察します。
+(en) I observe cells with a **microscope**.
+
+(ko) **현미경** 렌즈가 깨졌어요.
+(ja) **顕微鏡**のレンズが割れました。
+(en) The **microscope** lens broke.
+
+## 망원경 (telescope)
+(ko) 밤에 **망원경**으로 별을 봐요.
+(ja) 夜に**望遠鏡**で星を見ます。
+(en) I look at stars with a **telescope** at night.
+
+(ko) 이 **망원경**은 성능이 좋아요.
+(ja) この**望遠鏡**は性能がいいです。
+(en) This **telescope** has good performance.
+
+(ko) **망원경**을 삼각대에 설치했어요.
+(ja) **望遠鏡**を三脚に設置しました。
+(en) I set up the **telescope** on a tripod.
+
+## 카메라 (camera)
+(ko) 새 **카메라**를 샀어요.
+(ja) 新しい**カメラ**を買いました。
+(en) I bought a new **camera**.
+
+(ko) **카메라**로 사진을 찍었어요.
+(ja) **カメラ**で写真を撮りました。
+(en) I took pictures with the **camera**.
+
+(ko) 이 **카메라**는 방수 기능이 있어요.
+(ja) この**カメラ**は防水機能があります。
+(en) This **camera** has a waterproof function.
+
+## 비디오 (video)
+(ko) **비디오**를 찍고 있어요.
+(ja) **ビデオ**を撮っています。
+(en) I'm recording a **video**.
+
+(ko) 이 **비디오**는 편집이 필요해요.
+(ja) この**ビデオ**は編集が必要です。
+(en) This **video** needs editing.
+
+(ko) **비디오**를 유튜브에 올렸어요.
+(ja) **ビデオ**をYouTubeにアップしました。
+(en) I uploaded the **video** to YouTube.
+
+## 오디오 (audio)
+(ko) **오디오** 품질이 좋아요.
+(ja) **オーディオ**の品質がいいです。
+(en) The **audio** quality is good.
+
+(ko) **오디오** 파일을 다운받았어요.
+(ja) **オーディオ**ファイルをダウンロードしました。
+(en) I downloaded an **audio** file.
+
+(ko) 이 **오디오**는 잡음이 있어요.
+(ja) この**オーディオ**はノイズがあります。
+(en) This **audio** has noise in it.
+
+## 스피커 (speaker)
+(ko) **스피커** 음량을 키웠어요.
+(ja) **スピーカー**の音量を上げました。
+(en) I turned up the **speaker** volume.
+
+(ko) 이 **스피커**는 블루투스예요.
+(ja) この**スピーカー**はBluetoothです。
+(en) This **speaker** is Bluetooth.
+
+(ko) **스피커**에서 이상한 소리가 나요.
+(ja) **スピーカー**から変な音が出ます。
+(en) A strange sound is coming from the **speaker**.
+
+## 헤드폰 (headphones)
+(ko) **헤드폰**을 끼고 음악을 들어요.
+(ja) **ヘッドホン**をして音楽を聞きます。
+(en) I listen to music with **headphones**.
+
+(ko) 이 **헤드폰**은 노이즈 캔슬링이 돼요.
+(ja) この**ヘッドホン**はノイズキャンセリングができます。
+(en) These **headphones** have noise canceling.
+
+(ko) **헤드폰**이 너무 꽉 조여요.
+(ja) **ヘッドホン**がきつすぎます。
+(en) The **headphones** are too tight.
+
+## 이어폰 (earphones)
+(ko) **이어폰**을 잃어버렸어요.
+(ja) **イヤホン**をなくしました。
+(en) I lost my **earphones**.
+
+(ko) **이어폰** 코드가 엉켰어요.
+(ja) **イヤホン**のコードが絡まりました。
+(en) The **earphone** cord got tangled.
+
+(ko) 무선 **이어폰**이 편리해요.
+(ja) ワイヤレス**イヤホン**が便利です。
+(en) Wireless **earphones** are convenient.
+
+## 마이크 (microphone)
+(ko) **마이크**로 노래를 불렀어요.
+(ja) **マイク**で歌を歌いました。
+(en) I sang a song with the **microphone**.
+
+(ko) **마이크** 소리가 작아요.
+(ja) **マイク**の音が小さいです。
+(en) The **microphone** sound is low.
+
+(ko) **마이크**를 입에서 너무 멀리 두지 마세요.
+(ja) **マイク**を口から離しすぎないでください。
+(en) Don't hold the **microphone** too far from your mouth.
+
+## 리모컨 (remote control)
+(ko) **리모컨**이 어디 있어요?
+(ja) **リモコン**はどこですか？
+(en) Where is the **remote control**?
+
+(ko) **리모컨** 건전지가 다 됐어요.
+(ja) **リモコン**の電池が切れました。
+(en) The **remote control** battery is dead.
+
+(ko) **리모컨**으로 TV를 껐어요.
+(ja) **リモコン**でテレビを消しました。
+(en) I turned off the TV with the **remote control**.
+
+## 건전지 (battery)
+(ko) **건전지**를 새로 갈았어요.
+(ja) **電池**を新しく交換しました。
+(en) I replaced the **batteries** with new ones.
+
+(ko) 이 장난감은 **건전지**가 필요해요.
+(ja) このおもちゃは**電池**が必要です。
+(en) This toy needs **batteries**.
+
+(ko) **건전지**는 재활용해야 해요.
+(ja) **電池**はリサイクルしないといけません。
+(en) **Batteries** need to be recycled.
+
+## 충전기 (charger)
+(ko) 핸드폰 **충전기**를 빌려 주세요.
+(ja) スマホの**充電器**を貸してください。
+(en) Please lend me your phone **charger**.
+
+(ko) **충전기**를 안 가져왔어요.
+(ja) **充電器**を持ってきませんでした。
+(en) I didn't bring the **charger**.
+
+(ko) 이 **충전기**는 고속 충전이 돼요.
+(ja) この**充電器**は急速充電ができます。
+(en) This **charger** supports fast charging.
+
+## 케이블 (cable)
+(ko) **케이블**이 너무 짧아요.
+(ja) **ケーブル**が短すぎます。
+(en) The **cable** is too short.
+
+(ko) 이 **케이블**은 USB-C예요.
+(ja) この**ケーブル**はUSB-Cです。
+(en) This **cable** is USB-C.
+
+(ko) **케이블**이 고장 나서 새로 샀어요.
+(ja) **ケーブル**が壊れたので新しく買いました。
+(en) The **cable** broke, so I bought a new one.
+
+## 어댑터 (adapter)
+(ko) 여행용 **어댑터**가 필요해요.
+(ja) 旅行用**アダプター**が必要です。
+(en) I need a travel **adapter**.
+
+(ko) 이 **어댑터**는 변압 기능이 있어요.
+(ja) この**アダプター**は変圧機能があります。
+(en) This **adapter** has voltage conversion.
+
+(ko) **어댑터**를 콘센트에 꽂았어요.
+(ja) **アダプター**をコンセントに差しました。
+(en) I plugged the **adapter** into the outlet.
+
+## 플러그 (plug)
+(ko) **플러그**를 빼도 돼요?
+(ja) **プラグ**を抜いてもいいですか？
+(en) May I unplug the **plug**?
+
+(ko) 이 **플러그**는 접지형이에요.
+(ja) この**プラグ**はアース付きです。
+(en) This **plug** is a grounded type.
+
+(ko) **플러그**가 콘센트에 안 맞아요.
+(ja) **プラグ**がコンセントに合いません。
+(en) The **plug** doesn't fit the outlet.
+
+## 전구 (light bulb)
+(ko) **전구**가 나갔어요.
+(ja) **電球**が切れました。
+(en) The **light bulb** burned out.
+
+(ko) LED **전구**로 바꿨어요.
+(ja) LED**電球**に替えました。
+(en) I replaced it with an LED **light bulb**.
+
+(ko) 이 **전구**는 밝기가 약해요.
+(ja) この**電球**は明るさが弱いです。
+(en) This **light bulb** is dim.
+
+## 스위치 (switch)
+(ko) **스위치**를 켜 주세요.
+(ja) **スイッチ**を入れてください。
+(en) Please turn on the **switch**.
+
+(ko) **스위치**가 어디 있어요?
+(ja) **スイッチ**はどこにありますか？
+(en) Where is the **switch**?
+
+(ko) **스위치**를 누르면 불이 켜져요.
+(ja) **スイッチ**を押すと電気がつきます。
+(en) If you press the **switch**, the light turns on.
+
+## 콘센트 (outlet)
+(ko) **콘센트**가 부족해요.
+(ja) **コンセント**が足りません。
+(en) There aren't enough **outlets**.
+
+(ko) **콘센트**에 플러그를 꽂았어요.
+(ja) **コンセント**にプラグを差しました。
+(en) I plugged it into the **outlet**.
+
+(ko) 이 **콘센트**는 멀티탭이 필요해요.
+(ja) この**コンセント**はタップが必要です。
+(en) This **outlet** needs a power strip.

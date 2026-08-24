@@ -1,0 +1,1345 @@
+# Batch 24 — Korean Sentences with JA/EN
+
+## 식물 (plant)
+
+1. 식물에 물을 줘요.  
+   植物に水をあげます。  
+   I water the plant.
+
+2. 이 식물은 햇빛이 필요해요.  
+   この植物は日光が必要です。  
+   This plant needs sunlight.
+
+3. 식물이 잘 자라고 있어요.  
+   植物がよく育っています。  
+   The plant is growing well.
+
+## 꽃 (flower)
+
+1. 꽃이 아름답게 피었어요.  
+   花がきれいに咲きました。  
+   The flower bloomed beautifully.
+
+2. 엄마께 꽃을 선물했어요.  
+   母に花をプレゼントしました。  
+   I gave a flower to my mother.
+
+3. 봄에 꽃이 많이 피어요.  
+   春に花がたくさん咲きます。  
+   Many flowers bloom in spring.
+
+## 나무 (tree)
+
+1. 나무가 키가 커요.  
+   木が背が高いです。  
+   The tree is tall.
+
+2. 나무 그늘에서 쉬었어요.  
+   木陰で休みました。  
+   I rested in the shade of the tree.
+
+3. 가을에 나무 잎이 떨어져요.  
+   秋に木の葉が落ちます。  
+   Tree leaves fall in autumn.
+
+## 풀 (grass)
+
+1. 풀이 푸르게 자랐어요.  
+   草が青く生えました。  
+   The grass grew green.
+
+2. 정원에 풀이 많아요.  
+   庭に草が多いです。  
+   There is a lot of grass in the garden.
+
+3. 풀을 깎아야 해요.  
+   草を刈らなければなりません。  
+   I need to mow the grass.
+
+## 잎 (leaf)
+
+1. 나뭇잎이 노래졌어요.  
+   木の葉が黄色くなりました。  
+   The leaves turned yellow.
+
+2. 잎이 바람에 흔들려요.  
+   葉っぱが風に揺れます。  
+   The leaf sways in the wind.
+
+3. 이 나무는 잎이 커요.  
+   この木は葉が大きいです。  
+   This tree has big leaves.
+
+## 뿌리 (root)
+
+1. 나무의 뿌리가 튼튼해요.  
+   木の根が丈夫です。  
+   The tree's roots are strong.
+
+2. 뿌리가 깊이 뻗었어요.  
+   根が深く伸びました。  
+   The roots spread deeply.
+
+3. 당근은 뿌리 채소예요.  
+   にんじんは根菜です。  
+   Carrots are root vegetables.
+
+## 줄기 (stem)
+
+1. 꽃의 줄기가 길어요.  
+   花の茎が長いです。  
+   The flower's stem is long.
+
+2. 이 식물은 줄기가 약해요.  
+   この植物は茎が弱いです。  
+   This plant has a weak stem.
+
+3. 줄기를 물에 넣었어요.  
+   茎を水に入れました。  
+   I put the stem in water.
+
+## 가지 (branch)
+
+1. 새가 나무 가지에 앉았어요.  
+   鳥が木の枝に止まりました。  
+   A bird sat on a tree branch.
+
+2. 가지가 너무 길어요.  
+   枝が長すぎます。  
+   The branch is too long.
+
+3. 나무 가지를 잘랐어요.  
+   木の枝を切りました。  
+   I cut the tree branch.
+
+## 열매 (fruit)
+
+1. 나무에 열매가 열렸어요.  
+   木に実がなりました。  
+   Fruit grew on the tree.
+
+2. 이 열매는 맛있어요.  
+   この実はおいしいです。  
+   This fruit is delicious.
+
+3. 가을에 열매를 수확해요.  
+   秋に実を収穫します。  
+   We harvest fruit in autumn.
+
+## 씨앗 (seed)
+
+1. 씨앗을 심었어요.  
+   種をまきました。  
+   I planted the seeds.
+
+2. 씨앗에서 싹이 났어요.  
+   種から芽が出ました。  
+   A sprout came from the seed.
+
+3. 이 씨앗은 작아요.  
+   この種は小さいです。  
+   This seed is small.
+
+## 꽃잎 (petal)
+
+1. 꽃잎이 떨어졌어요.  
+   花びらが落ちました。  
+   The petals fell off.
+
+2. 장미 꽃잎이 부드러워요.  
+   バラの花びらが柔らかいです。  
+   Rose petals are soft.
+
+3. 꽃잎이 다섯 장이에요.  
+   花びらが五枚です。  
+   The flower has five petals.
+
+## 가시 (thorn)
+
+1. 장미에 가시가 있어요.  
+   バラにトゲがあります。  
+   Roses have thorns.
+
+2. 가시에 손가락이 찔렸어요.  
+   トゲで指を刺しました。  
+   I pricked my finger on a thorn.
+
+3. 조심하세요, 가시가 있어요.  
+   気をつけてください、トゲがあります。  
+   Be careful, there are thorns.
+
+## 숲 (forest)
+
+1. 숲속을 산책했어요.  
+   森の中を散歩しました。  
+   I took a walk in the forest.
+
+2. 숲에 동물이 많이 살아요.  
+   森に動物がたくさん住んでいます。  
+   Many animals live in the forest.
+
+3. 숲 공기가 상쾌해요.  
+   森の空気がさわやかです。  
+   The forest air is refreshing.
+
+## 정원 (garden)
+
+1. 정원에 꽃을 심었어요.  
+   庭に花を植えました。  
+   I planted flowers in the garden.
+
+2. 우리 집 정원은 넓어요.  
+   うちの庭は広いです。  
+   Our garden is spacious.
+
+3. 정원에서 책을 읽었어요.  
+   庭で本を読みました。  
+   I read a book in the garden.
+
+## 화분 (flower pot)
+
+1. 화분에 물을 줘요.  
+   植木鉢に水をあげます。  
+   I water the flower pot.
+
+2. 화분이 깨졌어요.  
+   植木鉢が割れました。  
+   The flower pot broke.
+
+3. 화분을 베란다에 놓았어요.  
+   植木鉢をベランダに置きました。  
+   I put the flower pot on the balcony.
+
+## 꽃밭 (flower bed)
+
+1. 꽃밭이 아름다워요.  
+   花壇がきれいです。  
+   The flower bed is beautiful.
+
+2. 꽃밭에 장미를 심었어요.  
+   花壇にバラを植えました。  
+   I planted roses in the flower bed.
+
+3. 꽃밭을 가꾸는 게 취미예요.  
+   花壇を手入れするのが趣味です。  
+   Tending the flower bed is my hobby.
+
+## 온실 (greenhouse)
+
+1. 온실에서 꽃을 키워요.  
+   温室で花を育てます。  
+   They grow flowers in the greenhouse.
+
+2. 온실 안은 따뜻해요.  
+   温室の中は暖かいです。  
+   Inside the greenhouse is warm.
+
+3. 이 온실은 유리로 만들어졌어요.  
+   この温室はガラスでできています。  
+   This greenhouse is made of glass.
+
+## 농사 (farming)
+
+1. 할아버지께서 농사를 지으세요.  
+   祖父が農業をしています。  
+   My grandfather does farming.
+
+2. 농사가 힘들어요.  
+   農業は大変です。  
+   Farming is hard work.
+
+3. 올해 농사가 잘됐어요.  
+   今年の農業はうまくいきました。  
+   This year's farming went well.
+
+## 농업 (agriculture)
+
+1. 농업은 중요한 산업이에요.  
+   農業は重要な産業です。  
+   Agriculture is an important industry.
+
+2. 한국의 농업이 발달했어요.  
+   韓国の農業が発達しました。  
+   Korea's agriculture has developed.
+
+3. 농업에 관심이 있어요.  
+   農業に興味があります。  
+   I'm interested in agriculture.
+
+## 농부 (farmer)
+
+1. 농부가 밭에서 일해요.  
+   農夫が畑で働きます。  
+   A farmer works in the field.
+
+2. 농부가 채소를 키워요.  
+   農夫が野菜を育てます。  
+   The farmer grows vegetables.
+
+3. 농부가 되고 싶어요.  
+   農夫になりたいです。  
+   I want to become a farmer.
+
+## 밭 (field)
+
+1. 밭에서 배추를 키워요.  
+   畑で白菜を育てます。  
+   They grow cabbage in the field.
+
+2. 밭이 넓어요.  
+   畑が広いです。  
+   The field is wide.
+
+3. 밭에 물을 줬어요.  
+   畑に水をやりました。  
+   I watered the field.
+
+## 논 (rice paddy)
+
+1. 논에서 벼를 재배해요.  
+   田んぼで稲を栽培します。  
+   They grow rice in the paddy.
+
+2. 논에 물이 가득해요.  
+   田んぼに水がいっぱいです。  
+   The rice paddy is full of water.
+
+3. 논 주변을 산책했어요.  
+   田んぼの周りを散歩しました。  
+   I walked around the rice paddy.
+
+## 모내기 (rice planting)
+
+1. 봄에 모내기를 해요.  
+   春に田植えをします。  
+   They do rice planting in spring.
+
+2. 모내기가 끝났어요.  
+   田植えが終わりました。  
+   The rice planting is finished.
+
+3. 모내기가 힘들어요.  
+   田植えは大変です。  
+   Rice planting is hard work.
+
+## 추수 (harvest)
+
+1. 가을에 추수를 해요.  
+   秋に収穫をします。  
+   They do the harvest in autumn.
+
+2. 추수할 때가 되었어요.  
+   収穫の時期になりました。  
+   It's time for the harvest.
+
+3. 올해 추수가 풍족해요.  
+   今年の収穫は豊かです。  
+   This year's harvest is abundant.
+
+## 수확 (harvest)
+
+1. 과일을 수확했어요.  
+   果物を収穫しました。  
+   I harvested the fruit.
+
+2. 수확한 채소가 신선해요.  
+   収穫した野菜が新鮮です。  
+   The harvested vegetables are fresh.
+
+3. 수확의 기쁨이 커요.  
+   収穫の喜びが大きいです。  
+   The joy of harvest is great.
+
+## 곡식 (grain)
+
+1. 곡식이 잘 자랐어요.  
+   穀物がよく育ちました。  
+   The grains grew well.
+
+2. 곡식을 창고에 보관해요.  
+   穀物を倉庫に保管します。  
+   They store grain in the warehouse.
+
+3. 곡식 가격이 올랐어요.  
+   穀物の値段が上がりました。  
+   The price of grain went up.
+
+## 쌀 (rice)
+
+1. 밥은 쌀로 만들어요.  
+   ご飯は米で作ります。  
+   Rice is made from rice grains.
+
+2. 한국 쌀이 맛있어요.  
+   韓国のお米はおいしいです。  
+   Korean rice is delicious.
+
+3. 쌀을 씻어서 밥을 했어요.  
+   米をといでご飯を炊きました。  
+   I washed the rice and cooked it.
+
+## 보리 (barley)
+
+1. 보리차를 마셨어요.  
+   麦茶を飲みました。  
+   I drank barley tea.
+
+2. 보리가 노랗게 익었어요.  
+   麦が黄色く実りました。  
+   The barley ripened yellow.
+
+3. 보리밥을 먹었어요.  
+   麦ごはんを食べました。  
+   I ate barley rice.
+
+## 밀 (wheat)
+
+1. 밀가루로 빵을 만들어요.  
+   小麦粉でパンを作ります。  
+   They make bread from wheat flour.
+
+2. 밀밭이 넓게 펼쳐졌어요.  
+   小麦畑が広がっています。  
+   The wheat field stretches wide.
+
+3. 밀 수확이 끝났어요.  
+   小麦の収穫が終わりました。  
+   The wheat harvest is finished.
+
+## 콩 (bean)
+
+1. 콩으로 두부를 만들어요.  
+   豆で豆腐を作ります。  
+   They make tofu from beans.
+
+2. 콩이 건강에 좋아요.  
+   豆は健康にいいです。  
+   Beans are good for health.
+
+3. 콩나물을 키웠어요.  
+   もやしを育てました。  
+   I grew bean sprouts.
+
+## 옥수수 (corn)
+
+1. 옥수수를 찌면 맛있어요.  
+   とうもろこしを蒸すとおいしいです。  
+   Corn is delicious when steamed.
+
+2. 옥수수 농사가 잘됐어요.  
+   とうもろこしの栽培がうまくいきました。  
+   The corn farming went well.
+
+3. 옥수수 알갱이가 노래요.  
+   とうもろこしの粒が黄色いです。  
+   The corn kernels are yellow.
+
+## 감자 (potato)
+
+1. 감자를 심었어요.  
+   じゃがいもを植えました。  
+   I planted potatoes.
+
+2. 감자로 감자튀김을 만들어요.  
+   じゃがいもでフライドポテトを作ります。  
+   They make french fries from potatoes.
+
+3. 감자가 잘 익었어요.  
+   じゃがいもがよく茹で上がりました。  
+   The potatoes are well cooked.
+
+## 고구마 (sweet potato)
+
+1. 고구마를 구워 먹었어요.  
+   さつまいもを焼いて食べました。  
+   I baked and ate sweet potatoes.
+
+2. 고구마는 달콤해요.  
+   さつまいもは甘いです。  
+   Sweet potatoes are sweet.
+
+3. 가을에 고구마를 수확해요.  
+   秋にさつまいもを収穫します。  
+   We harvest sweet potatoes in autumn.
+
+## 배추 (cabbage)
+
+1. 배추로 김치를 담가요.  
+   白菜でキムチを漬けます。  
+   They make kimchi from cabbage.
+
+2. 배추가 싱싱해요.  
+   白菜が新鮮です。  
+   The cabbage is fresh.
+
+3. 배추를 씻었어요.  
+   白菜を洗いました。  
+   I washed the cabbage.
+
+## 무 (radish)
+
+1. 무는 아삭아삭해요.  
+   大根はシャキシャキしています。  
+   Radish is crunchy.
+
+2. 무로 깍두기를 만들어요.  
+   大根でカクテキを作ります。  
+   They make diced radish kimchi from radish.
+
+3. 무국을 끓였어요.  
+   大根のスープを煮ました。  
+   I made radish soup.
+
+## 파 (green onion)
+
+1. 파를 잘게 썰었어요.  
+   ネギを細かく切りました。  
+   I chopped the green onion finely.
+
+2. 파전이 맛있어요.  
+   ネギのチヂミがおいしいです。  
+   Green onion pancake is delicious.
+
+3. 파를 샀어요.  
+   ネギを買いました。  
+   I bought green onions.
+
+## 마늘 (garlic)
+
+1. 마늘이 음식에 들어가요.  
+   ニンニクが料理に入ります。  
+   Garlic goes into the food.
+
+2. 마늘을 다졌어요.  
+   ニンニクをみじん切りにしました。  
+   I minced the garlic.
+
+3. 마늘이 몸에 좋아요.  
+   ニンニクは体にいいです。  
+   Garlic is good for the body.
+
+## 고추 (chili pepper)
+
+1. 고추가 매워요.  
+   唐辛子が辛いです。  
+   The chili pepper is spicy.
+
+2. 고춧가루를 넣었어요.  
+   唐辛子粉を入れました。  
+   I added chili powder.
+
+3. 한국 음식에 고추가 많이 들어가요.  
+   韓国料理に唐辛子がたくさん入ります。  
+   Korean food has a lot of chili pepper.
+
+## 양파 (onion)
+
+1. 양파를 썰면 눈물이 나요.  
+   玉ねぎを切ると涙が出ます。  
+   When I cut an onion, tears come out.
+
+2. 양파의 껍질을 벗겼어요.  
+   玉ねぎの皮をむきました。  
+   I peeled the onion.
+
+3. 양파가 매워요.  
+   玉ねぎが辛いです。  
+   The onion is sharp.
+
+## 호박 (pumpkin)
+
+1. 호박으로 죽을 끓였어요.  
+   かぼちゃでお粥を煮ました。  
+   I made pumpkin porridge.
+
+2. 호박이 노랗고 예뻐요.  
+   かぼちゃが黄色くてきれいです。  
+   The pumpkin is yellow and pretty.
+
+3. 가을에 호박이 많이 나요.  
+   秋にかぼちゃがたくさん出ます。  
+   Pumpkins are abundant in autumn.
+
+## 오이 (cucumber)
+
+1. 오이가 아삭해요.  
+   きゅうりがシャキシャキしています。  
+   The cucumber is crunchy.
+
+2. 오이를 씻어서 먹었어요.  
+   きゅうりを洗って食べました。  
+   I washed and ate the cucumber.
+
+3. 오이 김치를 만들었어요.  
+   きゅうりのキムチを作りました。  
+   I made cucumber kimchi.
+
+## 토마토 (tomato)
+
+1. 토마토가 빨개졌어요.  
+   トマトが赤くなりました。  
+   The tomato turned red.
+
+2. 토마토를 그냥 먹어요.  
+   トマトをそのまま食べます。  
+   I eat tomatoes raw.
+
+3. 토마토 주스를 마셨어요.  
+   トマトジュースを飲みました。  
+   I drank tomato juice.
+
+## 당근 (carrot)
+
+1. 당근이 건강에 좋아요.  
+   にんじんは健康にいいです。  
+   Carrots are good for health.
+
+2. 토끼가 당근을 좋아해요.  
+   うさぎがにんじんを好きです。  
+   Rabbits like carrots.
+
+3. 당근을 채썰었어요.  
+   にんじんを千切りにしました。  
+   I julienned the carrot.
+
+## 상추 (lettuce)
+
+1. 상추로 쌈을 싸 먹었어요.  
+   レタスで包んで食べました。  
+   I wrapped and ate it in lettuce.
+
+2. 상추가 싱싱해요.  
+   レタスが新鮮です。  
+   The lettuce is fresh.
+
+3. 상추를 찬물에 씻었어요.  
+   レタスを冷たい水で洗いました。  
+   I washed the lettuce in cold water.
+
+## 버섯 (mushroom)
+
+1. 버섯이 숲에서 자라요.  
+   きのこが森で生えます。  
+   Mushrooms grow in the forest.
+
+2. 버섯 볶음이 맛있어요.  
+   きのこの炒め物がおいしいです。  
+   Stir-fried mushrooms are delicious.
+
+3. 독버섯을 조심하세요.  
+   毒きのこに気をつけてください。  
+   Be careful of poisonous mushrooms.
+
+## 과일 (fruit)
+
+1. 과일을 자주 먹어요.  
+   果物をよく食べます。  
+   I eat fruit often.
+
+2. 이 과일은 아주 달아요.  
+   この果物はとても甘いです。  
+   This fruit is very sweet.
+
+3. 과일을 씻고 먹어요.  
+   果物を洗って食べます。  
+   I wash and eat the fruit.
+
+## 사과 (apple)
+
+1. 사과가 빨개요.  
+   りんごが赤いです。  
+   The apple is red.
+
+2. 아침에 사과를 한 개 먹어요.  
+   朝にりんごを一個食べます。  
+   I eat one apple in the morning.
+
+3. 사과 주스가 시원해요.  
+   りんごジュースが冷たくておいしいです。  
+   Apple juice is refreshing.
+
+## 배 (pear)
+
+1. 배가 달고 시원해요.  
+   梨が甘くてみずみずしいです。  
+   The pear is sweet and refreshing.
+
+2. 배 껍질을 깎았어요.  
+   梨の皮をむきました。  
+   I peeled the pear.
+
+3. 배를 먹으면 목이 좋아져요.  
+   梨を食べると喉が良くなります。  
+   Eating pears is good for the throat.
+
+## 포도 (grape)
+
+1. 포도가 달콤해요.  
+   ぶどうが甘いです。  
+   The grapes are sweet.
+
+2. 포도주를 마셨어요.  
+   ぶどう酒（ワイン）を飲みました。  
+   I drank wine.
+
+3. 포도를 씻어서 냉장고에 넣었어요.  
+   ぶどうを洗って冷蔵庫に入れました。  
+   I washed the grapes and put them in the fridge.
+
+## 복숭아 (peach)
+
+1. 복숭아가 부드러워요.  
+   桃が柔らかいです。  
+   The peach is soft.
+
+2. 복숭아 향기가 좋아요.  
+   桃の香りがいいです。  
+   The peach's fragrance is nice.
+
+3. 여름에 복숭아를 많이 먹어요.  
+   夏に桃をたくさん食べます。  
+   I eat lots of peaches in summer.
+
+## 딸기 (strawberry)
+
+1. 딸기가 달콤새콤해요.  
+   いちごが甘酸っぱいです。  
+   Strawberries are sweet and sour.
+
+2. 딸기 케이크를 만들었어요.  
+   いちごのケーキを作りました。  
+   I made a strawberry cake.
+
+3. 봄에 딸기를 따러 가요.  
+   春にいちごを摘みに行きます。  
+   I go strawberry picking in spring.
+
+## 수박 (watermelon)
+
+1. 수박이 아주 커요.  
+   スイカがとても大きいです。  
+   The watermelon is very big.
+
+2. 수박을 반으로 잘랐어요.  
+   スイカを半分に切りました。  
+   I cut the watermelon in half.
+
+3. 여름에 수박이 제일 좋아요.  
+   夏にスイカが一番好きです。  
+   I like watermelon the most in summer.
+
+## 참외 (melon)
+
+1. 참외가 노랗고 달아요.  
+   マクワウリが黄色くて甘いです。  
+   The oriental melon is yellow and sweet.
+
+2. 참외를 소금에 찍어 먹어요.  
+   マクワウリを塩につけて食べます。  
+   I eat melon dipped in salt.
+
+3. 여름에 참외를 자주 먹어요.  
+   夏にマクワウリをよく食べます。  
+   I often eat melons in summer.
+
+## 바나나 (banana)
+
+1. 바나나가 노래요.  
+   バナナが黄色いです。  
+   The banana is yellow.
+
+2. 바나나 껍질을 벗겼어요.  
+   バナナの皮をむきました。  
+   I peeled the banana.
+
+3. 바나나가 부드럽고 달아요.  
+   バナナが柔らかくて甘いです。  
+   Bananas are soft and sweet.
+
+## 오렌지 (orange)
+
+1. 오렌지가 새콤해요.  
+   オレンジが酸っぱいです。  
+   The orange is sour.
+
+2. 오렌지 주스를 마셨어요.  
+   オレンジジュースを飲みました。  
+   I drank orange juice.
+
+3. 오렌지에 비타민이 많아요.  
+   オレンジにビタミンが多いです。  
+   Oranges have a lot of vitamins.
+
+## 레몬 (lemon)
+
+1. 레몬이 너무 신맛이 나요.  
+   レモンがとても酸っぱいです。  
+   Lemons taste very sour.
+
+2. 레몬차를 마셨어요.  
+   レモンティーを飲みました。  
+   I drank lemon tea.
+
+3. 레몬을 물에 넣었어요.  
+   レモンを水に入れました。  
+   I put lemon in water.
+
+## 체리 (cherry)
+
+1. 체리가 빨갛고 예뻐요.  
+   チェリーが赤くてきれいです。  
+   The cherries are red and pretty.
+
+2. 체리 케이크를 샀어요.  
+   チェリーケーキを買いました。  
+   I bought a cherry cake.
+
+3. 체리를 씻어서 먹었어요.  
+   チェリーを洗って食べました。  
+   I washed and ate the cherries.
+
+## 망고 (mango)
+
+1. 망고가 아주 달아요.  
+   マンゴーがとても甘いです。  
+   The mango is very sweet.
+
+2. 망고 스무디를 만들었어요.  
+   マンゴースムージーを作りました。  
+   I made a mango smoothie.
+
+3. 망고는 열대 과일이에요.  
+   マンゴーは熱帯果物です。  
+   Mango is a tropical fruit.
+
+## 키위 (kiwi)
+
+1. 키위가 새콤달콤해요.  
+   キウイが甘酸っぱいです。  
+   Kiwi is sweet and sour.
+
+2. 키위 껍질을 벗겼어요.  
+   キウイの皮をむきました。  
+   I peeled the kiwi.
+
+3. 키위에 비타민이 많아요.  
+   キウイにビタミンが多いです。  
+   Kiwi has a lot of vitamins.
+
+## 파인애플 (pineapple)
+
+1. 파인애플이 달고 신맛이 나요.  
+   パイナップルが甘くて酸っぱいです。  
+   Pineapple is sweet and sour.
+
+2. 파인애플을 작게 썰었어요.  
+   パイナップルを小さく切りました。  
+   I cut the pineapple into small pieces.
+
+3. 파인애플이 노랗게 익었어요.  
+   パイナップルが黄色く熟しました。  
+   The pineapple ripened yellow.
+
+## 코코넛 (coconut)
+
+1. 코코넛 물이 시원해요.  
+   ココナッツウォーターが冷たくておいしいです。  
+   Coconut water is refreshing.
+
+2. 코코넛 맛이 고소해요.  
+   ココナッツの味が香ばしいです。  
+   Coconut tastes nutty.
+
+3. 코코넛 오일이 건강에 좋아요.  
+   ココナッツオイルは健康にいいです。  
+   Coconut oil is good for health.
+
+## 아보카도 (avocado)
+
+1. 아보카도가 부드러워요.  
+   アボカドが柔らかいです。  
+   The avocado is soft.
+
+2. 아보카도 샐러드를 만들었어요.  
+   アボカドサラダを作りました。  
+   I made an avocado salad.
+
+3. 아보카도는 몸에 좋은 지방이 있어요.  
+   アボカドは体にいい脂肪があります。  
+   Avocado has healthy fats.
+
+## 견과류 (nuts)
+
+1. 견과류가 건강에 좋아요.  
+   ナッツ類は健康にいいです。  
+   Nuts are good for health.
+
+2. 견과류를 간식으로 먹어요.  
+   ナッツ類をおやつに食べます。  
+   I eat nuts as a snack.
+
+3. 견과류를 조금씩 먹어요.  
+   ナッツ類を少しずつ食べます。  
+   I eat nuts a little at a time.
+
+## 땅콩 (peanut)
+
+1. 땅콩을 까서 먹었어요.  
+   ピーナッツの殻をむいて食べました。  
+   I shelled and ate the peanuts.
+
+2. 땅콩 버터를 발랐어요.  
+   ピーナッツバターを塗りました。  
+   I spread peanut butter.
+
+3. 땅콩 알레르기가 있는 사람이 있어요.  
+   ピーナッツアレルギーがある人がいます。  
+   Some people have peanut allergies.
+
+## 호두 (walnut)
+
+1. 호두가 고소해요.  
+   くるみが香ばしいです。  
+   Walnuts are nutty.
+
+2. 호두를 으깨어 빵에 넣었어요.  
+   くるみを砕いてパンに入れました。  
+   I crushed walnuts and put them in bread.
+
+3. 호두가 머리에 좋아요.  
+   くるみは頭にいいです。  
+   Walnuts are good for the brain.
+
+## 잣 (pine nut)
+
+1. 잣이 비싸요.  
+   松の実が高いです。  
+   Pine nuts are expensive.
+
+2. 잣죽이 맛있어요.  
+   松の実のお粥がおいしいです。  
+   Pine nut porridge is delicious.
+
+3. 잣을 샐러드에 뿌렸어요.  
+   松の実をサラダに振りかけました。  
+   I sprinkled pine nuts on the salad.
+
+## 아몬드 (almond)
+
+1. 아몬드가 바삭바삭해요.  
+   アーモンドがサクサクしています。  
+   Almonds are crunchy.
+
+2. 아몬드 우유를 마셨어요.  
+   アーモンドミルクを飲みました。  
+   I drank almond milk.
+
+3. 아몬드를 볶아서 먹었어요.  
+   アーモンドを炒って食べました。  
+   I roasted and ate the almonds.
+
+## 캐슈넛 (cashew nut)
+
+1. 캐슈넛이 부드러워요.  
+   カシューナッツが柔らかいです。  
+   Cashew nuts are soft.
+
+2. 캐슈넛을 간식으로 먹어요.  
+   カシューナッツをおやつに食べます。  
+   I eat cashew nuts as a snack.
+
+3. 캐슈넷이 들어간 요리가 맛있어요.  
+   カシューナッツが入った料理がおいしいです。  
+   Dishes with cashew nuts are delicious.
+
+## 육류 (meat)
+
+1. 육류를 많이 먹지 않아요.  
+   肉類をあまり食べません。  
+   I don't eat much meat.
+
+2. 육류는 단백질이 풍부해요.  
+   肉類はタンパク質が豊富です。  
+   Meat is rich in protein.
+
+3. 육류를 냉장고에 보관해요.  
+   肉類を冷蔵庫に保管します。  
+   I store meat in the refrigerator.
+
+## 쇠고기 (beef)
+
+1. 쇠고기가 부드러워요.  
+   牛肉が柔らかいです。  
+   The beef is tender.
+
+2. 쇠고기로 불고기를 만들었어요.  
+   牛肉でプルゴギを作りました。  
+   I made bulgogi with beef.
+
+3. 쇠고기 값이 올랐어요.  
+   牛肉の値段が上がりました。  
+   The price of beef went up.
+
+## 돼지고기 (pork)
+
+1. 돼지고기를 구웠어요.  
+   豚肉を焼きました。  
+   I grilled the pork.
+
+2. 돼지고기 김치찌개가 맛있어요.  
+   豚肉のキムチチゲがおいしいです。  
+   Pork kimchi stew is delicious.
+
+3. 돼지고기를 잘 익혀 먹어요.  
+   豚肉をよく火を通して食べます。  
+   I cook pork thoroughly before eating.
+
+## 닭고기 (chicken)
+
+1. 닭고기를 삶았어요.  
+   鶏肉を茹でました。  
+   I boiled the chicken.
+
+2. 닭고기로 닭볶음탕을 만들었어요.  
+   鶏肉で鶏の炒め煮を作りました。  
+   I made chicken braised stew with chicken.
+
+3. 닭고기가 다이어트에 좋아요.  
+   鶏肉はダイエットにいいです。  
+   Chicken is good for dieting.
+
+## 양고기 (lamb)
+
+1. 양고기 냄새가 좀 나요.  
+   羊肉はちょっと臭みがあります。  
+   Lamb has a bit of a smell.
+
+2. 양고기를 철판에 구웠어요.  
+   羊肉を鉄板で焼きました。  
+   I grilled the lamb on a hot plate.
+
+3. 양고기 요리를 좋아해요.  
+   羊肉料理が好きです。  
+   I like lamb dishes.
+
+## 생선 (fish)
+
+1. 생선을 구웠어요.  
+   魚を焼きました。  
+   I grilled the fish.
+
+2. 생선이 싱싱해요.  
+   魚が新鮮です。  
+   The fish is fresh.
+
+3. 생선을 먹으면 건강에 좋아요.  
+   魚を食べると健康にいいです。  
+   Eating fish is good for health.
+
+## 조개 (shellfish)
+
+1. 조개가 맛있어요.  
+   貝がおいしいです。  
+   Shellfish is delicious.
+
+2. 조개국을 끓였어요.  
+   貝のスープを煮ました。  
+   I made shellfish soup.
+
+3. 해변에서 조개를 주웠어요.  
+   海辺で貝を拾いました。  
+   I picked up shells on the beach.
+
+## 새우 (shrimp)
+
+1. 새우가 빨가게 익었어요.  
+   エビが赤く焼けました。  
+   The shrimp turned red when cooked.
+
+2. 새우 튀김을 먹었어요.  
+   エビフライを食べました。  
+   I ate fried shrimp.
+
+3. 새우 껍질을 벗겼어요.  
+   エビの殻をむきました。  
+   I peeled the shrimp.
+
+## 게 (crab)
+
+1. 게가 옆으로 걸어요.  
+   カニが横に歩きます。  
+   Crabs walk sideways.
+
+2. 게 찜을 먹었어요.  
+   カニの蒸し物を食べました。  
+   I ate steamed crab.
+
+3. 게 껍질이 딱딱해요.  
+   カニの殻が硬いです。  
+   The crab shell is hard.
+
+## 문어 (octopus)
+
+1. 문어가 팔이 여덟 개예요.  
+   タコは足が八本です。  
+   Octopuses have eight arms.
+
+2. 문어를 삶아서 먹었어요.  
+   タコを茹でて食べました。  
+   I boiled and ate the octopus.
+
+3. 문어가 쫄깃쫄깃해요.  
+   タコがコリコリしています。  
+   Octopus is chewy.
+
+## 오징어 (squid)
+
+1. 오징어를 건조시켰어요.  
+   イカを乾燥させました。  
+   I dried the squid.
+
+2. 오징어 볶음이 맛있어요.  
+   イカの炒め物がおいしいです。  
+   Stir-fried squid is delicious.
+
+3. 오징어 먹물 요리를 먹었어요.  
+   イカの墨料理を食べました。  
+   I ate squid ink dish.
+
+## 낙지 (small octopus)
+
+1. 낙지가 매콤해요.  
+   テナガダコがピリッと辛いです。  
+   The small octopus is spicy.
+
+2. 낙지 볶음을 먹었어요.  
+   テナガダコの炒め物を食べました。  
+   I ate stir-fried small octopus.
+
+3. 낙지가 살아서 움직여요.  
+   テナガダコが生きて動いています。  
+   The small octopus is alive and moving.
+
+## 주꾸미 (webfoot octopus)
+
+1. 주꾸미가 쫄깃해요.  
+   ジュクミ（ミズダコの一種）がコリコリしています。  
+   Webfoot octopus is chewy.
+
+2. 주꾸미 철이 되었어요.  
+   ジュクミの季節になりました。  
+   It's webfoot octopus season.
+
+3. 주꾸미 볶음을 만들었어요.  
+   ジュクミの炒め物を作りました。  
+   I made stir-fried webfoot octopus.
+
+## 굴 (oyster)
+
+1. 굴을 생으로 먹었어요.  
+   牡蠣を生で食べました。  
+   I ate oysters raw.
+
+2. 굴국밥이 따뜻해요.  
+   牡蠣のスープご飯が温かいです。  
+   Oyster soup rice is warm.
+
+3. 겨울에 굴이 제일 맛있어요.  
+   冬に牡蠣が一番おいしいです。  
+   Oysters taste best in winter.
+
+## 전복 (abalone)
+
+1. 전복죽이 고소해요.  
+   アワビのお粥が香ばしいです。  
+   Abalone porridge is savory.
+
+2. 전복이 비싸요.  
+   アワビが高いです。  
+   Abalone is expensive.
+
+3. 전복을 구워 먹었어요.  
+   アワビを焼いて食べました。  
+   I grilled and ate the abalone.
+
+## 해산물 (seafood)
+
+1. 해산물을 좋아해요.  
+   海産物が好きです。  
+   I like seafood.
+
+2. 해산물이 신선해요.  
+   海産物が新鮮です。  
+   The seafood is fresh.
+
+3. 해산물 요리를 배웠어요.  
+   海産物料理を習いました。  
+   I learned how to cook seafood.
+
+## 가공식품 (processed food)
+
+1. 가공식품을 많이 먹지 마세요.  
+   加工食品をたくさん食べないでください。  
+   Don't eat a lot of processed food.
+
+2. 가공식품이 편리해요.  
+   加工食品は便利です。  
+   Processed food is convenient.
+
+3. 가공식품보다 신선한 음식이 좋아요.  
+   加工食品より新鮮な食べ物がいいです。  
+   Fresh food is better than processed food.
+
+## 통조림 (canned food)
+
+1. 통조림을 열었어요.  
+   缶詰を開けました。  
+   I opened the canned food.
+
+2. 통조림은 오래 보관할 수 있어요.  
+   缶詰は長く保存できます。  
+   Canned food can be stored for a long time.
+
+3. 통조림 참치로 샐러드를 만들었어요.  
+   ツナ缶でサラダを作りました。  
+   I made a salad with canned tuna.
+
+## 냉동식품 (frozen food)
+
+1. 냉동식품을 전자레인지에 데웠어요.  
+   冷凍食品を電子レンジで温めました。  
+   I heated the frozen food in the microwave.
+
+2. 냉동식품이 다양해요.  
+   冷凍食品が多彩です。  
+   Frozen food is varied.
+
+3. 냉동식품을 사면 오래 먹을 수 있어요.  
+   冷凍食品を買えば長く食べられます。  
+   If you buy frozen food, you can eat it for a long time.
+
+## 건조식품 (dried food)
+
+1. 건조식품을 물에 불렸어요.  
+   乾燥食品を水で戻しました。  
+   I rehydrated the dried food.
+
+2. 건조식품이 가벼워요.  
+   乾燥食品は軽いです。  
+   Dried food is light.
+
+3. 건조식품으로 비상식량을 준비해요.  
+   乾燥食品で非常食を準備します。  
+   I prepare emergency food with dried food.
+
+## 유기농 (organic)
+
+1. 유기농 채소를 사요.  
+   有機野菜を買います。  
+   I buy organic vegetables.
+
+2. 유기농 음식이 더 비싸요.  
+   有機食品の方が高いです。  
+   Organic food is more expensive.
+
+3. 유기농이 건강에 좋아요.  
+   有機農業は健康にいいです。  
+   Organic is good for health.
+
+## 무농약 (no pesticides)
+
+1. 무농약 채소를 먹어요.  
+   無農薬野菜を食べます。  
+   I eat pesticide-free vegetables.
+
+2. 무농약 과일이 안전해요.  
+   無農薬果物は安全です。  
+   Pesticide-free fruit is safe.
+
+3. 무농약 농사가 어려워요.  
+   無農薬農業は難しいです。  
+   Pesticide-free farming is difficult.
+
+## GMO (genetically modified organism)
+
+1. GMO 식품이 논란이 돼요.  
+   GMO食品が議論になっています。  
+   GMO foods are controversial.
+
+2. GMO 작물이 많아졌어요.  
+   GMO作物が増えました。  
+   GMO crops have increased.
+
+3. GMO가 안전한지 모르겠어요.  
+   GMOが安全かどうかわかりません。  
+   I don't know if GMOs are safe.
+
+## 식품첨가물 (food additive)
+
+1. 식품첨가물이 들어간 음식이 많아요.  
+   食品添加物が入った食べ物が多いです。  
+   There's a lot of food with additives.
+
+2. 식품첨가물을 확인하고 사요.  
+   食品添加物を確認して買います。  
+   I check food additives before buying.
+
+3. 식품첨가물이 몸에 안 좋을 수 있어요.  
+   食品添加物は体に悪いかもしれません。  
+   Food additives can be bad for the body.
+
+## 영양 (nutrition)
+
+1. 이 음식은 영양이 풍부해요.  
+   この食べ物は栄養が豊富です。  
+   This food is nutritious.
+
+2. 영양을 골고루 섭취해야 해요.  
+   栄養をバランスよく摂らなければなりません。  
+   I need to get balanced nutrition.
+
+3. 아침에 영양제를 먹어요.  
+   朝に栄養剤を飲みます。  
+   I take nutritional supplements in the morning.
+
+## 칼로리 (calorie)
+
+1. 이 음식은 칼로리가 높아요.  
+   この食べ物はカロリーが高いです。  
+   This food is high in calories.
+
+2. 칼로리를 계산하고 있어요.  
+   カロリーを計算しています。  
+   I'm counting calories.
+
+3. 하루 칼로리 섭취량이 중요해요.  
+   一日のカロリー摂取量が重要です。  
+   Daily calorie intake is important.
+
+## 비타민 (vitamin)
+
+1. 과일에 비타민이 많아요.  
+   果物にビタミンが多いです。  
+   Fruits have a lot of vitamins.
+
+2. 비타민 C가 면역력에 좋아요.  
+   ビタミンCは免疫力にいいです。  
+   Vitamin C is good for immunity.
+
+3. 비타민제를 먹고 있어요.  
+   ビタミン剤を飲んでいます。  
+   I'm taking vitamins.
+
+## 미네랄 (mineral)
+
+1. 미네랄이 몸에 필요해요.  
+   ミネラルが体に必要です。  
+   Minerals are necessary for the body.
+
+2. 미네랄 워터를 마셔요.  
+   ミネラルウォーターを飲みます。  
+   I drink mineral water.
+
+3. 채소에 미네랄이 많이 들어 있어요.  
+   野菜にミネラルがたくさん入っています。  
+   Vegetables contain a lot of minerals.

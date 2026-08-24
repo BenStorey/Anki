@@ -1,0 +1,29 @@
+# Anki source decks (large binary, user-specific)
+*.apkg
+
+# Raw data downloads (large, regenerate with scripts)
+data/raw/
+data/processed/*.jsonl
+data/processed/*.tsv
+
+# Media files (extracted from source)
+data/media/
+
+# Output decks (regeneratable from pipeline)
+output/*.apkg
+output/nuance_ready.jsonl
+
+# Python virtual env
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Rust build artifacts (if any)
+/target/

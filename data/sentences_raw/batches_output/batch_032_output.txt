@@ -1,0 +1,416 @@
+# Batch 32/32 — Korean Action Verb Sentences with JA/EN
+
+## 진술하다 (to state; to testify)
+1. 경찰에 사실을 진술했어요. | 警察に事実を陳述しました。 | I stated the facts to the police.
+2. 목격자가 진술을 했어요. | 目撃者が陳述をしました。 | The witness made a statement.
+3. 진술 내용을 확인했어요. | 陳述内容を確認しました。 | I checked the statement content.
+
+## 증언하다 (to testify)
+1. 법정에서 증언했어요. | 法廷で証言しました。 | I testified in court.
+2. 그가 진실을 증언했어요. | 彼が真実を証言しました。 | He testified the truth.
+3. 증언을 준비하고 있어요. | 証言を準備しています。 | I am preparing the testimony.
+
+## 고백하다 (to confess)
+1. 그녀에게 마음을 고백했어요. | 彼女に気持ちを告白しました。 | I confessed my feelings to her.
+2. 잘못을 고백했어요. | 間違いを告白しました。 | I confessed my mistake.
+3. 고백하는 용기가 필요해요. | 告白する勇気が必要です。 | I need the courage to confess.
+
+## 시인하다 (to admit; to confess)
+1. 자신의 실수를 시인했어요. | 自分のミスを認めました。 | I admitted my mistake.
+2. 그는 범행을 시인했어요. | 彼は犯行を認めました。 | He confessed to the crime.
+3. 시인하기가 어려웠어요. | 認めるのが難しかったです。 | It was hard to admit.
+
+## 인정하다 (to admit; to recognize)
+1. 내가 틀렸다는 것을 인정해요. | 自分が間違っていたことを認めます。 | I admit that I was wrong.
+2. 그의 노력을 인정해요. | 彼の努力を認めます。 | I recognize his effort.
+3. 인정하기 싫지만 사실이에요. | 認めたくないけど事実です。 | I don't want to admit it, but it's true.
+
+## 부인하다 (to deny)
+1. 그 여자는 모든 것을 부인했어요. | その女性はすべてを否定しました。 | The woman denied everything.
+2. 잘못이 없다고 부인해요. | 間違いがないと否定します。 | He denies that there is a mistake.
+3. 부인할 수 없는 증거예요. | 否定できない証拠です。 | It is undeniable evidence.
+
+## 반박하다 (to refute)
+1. 그의 주장을 반박했어요. | 彼の主張に反論しました。 | I refuted his argument.
+2. 증거를 들어 반박했어요. | 証拠を挙げて反論しました。 | I refuted it with evidence.
+3. 반박할 기회를 주세요. | 反論する機会をください。 | Please give me a chance to refute.
+
+## 항변하다 (to plead)
+1. 억울하다고 항변했어요. | 無実だと抗弁しました。 | I pleaded that I was innocent.
+2. 변호사가 법정에서 항변해요. | 弁護士が法廷で抗弁します。 | The lawyer pleads in court.
+3. 항변을 들을 필요가 있어요. | 抗弁を聞く必要があります。 | We need to hear the plea.
+
+## 변명하다 (to make an excuse)
+1. 항상 변명하지 마세요. | いつも言い訳しないでください。 | Don't always make excuses.
+2. 변명하는 것 같아서 미안해요. | 言い訳しているみたいでごめんなさい。 | Sorry, it sounds like I'm making an excuse.
+3. 변명을 듣고 싶지 않아요. | 言い訳を聞きたくありません。 | I don't want to hear excuses.
+
+## 해명하다 (to clarify; to explain)
+1. 오해를 해명했어요. | 誤解を解明しました。 | I clarified the misunderstanding.
+2. 상황을 해명해 주세요. | 状況を説明してください。 | Please clarify the situation.
+3. 해명할 기회를 줬어요. | 説明する機会をくれました。 | They gave me a chance to explain.
+
+## 설명하다 (to explain)
+1. 이 문제를 설명해 주세요. | この問題を説明してください。 | Please explain this problem.
+2. 설명을 잘 들었어요. | 説明をよく聞きました。 | I listened well to the explanation.
+3. 다시 한번 설명할게요. | もう一度説明します。 | I will explain once more.
+
+## 묘사하다 (to describe)
+1. 그 장면을 자세히 묘사했어요. | その場面を詳しく描写しました。 | I described the scene in detail.
+2. 그림을 보고 묘사해 보세요. | 絵を見て描写してみてください。 | Try describing what you see in the picture.
+3. 묘사가 아주 생생했어요. | 描写がとても生き生きしていました。 | The description was very vivid.
+
+## 기술하다 (to describe; to write)
+1. 경험을 글로 기술했어요. | 経験を文で記述しました。 | I described my experience in writing.
+2. 그 방법을 기술한 책이에요. | その方法を記述した本です。 | This is a book that describes the method.
+3. 기술하기 어려운 감정이에요. | 記述するのが難しい感情です。 | It's an emotion that is hard to describe.
+
+## 서술하다 (to describe; to narrate)
+1. 지난 일을 서술했어요. | 過去の出来事を述べました。 | I narrated past events.
+2. 소설은 과거를 서술하고 있어요. | 小説は過去を述べています。 | The novel narrates the past.
+3. 순서대로 서술해 주세요. | 順番に述べてください。 | Please describe it in order.
+
+## 기록하다 (to record)
+1. 매일 일기를 기록해요. | 毎日日記を記録します。 | I record a diary every day.
+2. 중요한 날짜를 기록했어요. | 重要な日付を記録しました。 | I recorded the important date.
+3. 기록을 남기는 게 중요해요. | 記録を残すことが重要です。 | It's important to leave a record.
+
+## 작성하다 (to write; to draft)
+1. 보고서를 작성해야 해요. | 報告書を作成しなければなりません。 | I need to write a report.
+2. 서류를 작성하고 있어요. | 書類を作成しています。 | I am drafting the documents.
+3. 작성한 내용을 확인해 주세요. | 作成した内容を確認してください。 | Please check the drafted content.
+
+## 기입하다 (to fill in)
+1. 양식을 기입해 주세요. | 用紙に記入してください。 | Please fill in the form.
+2. 이름과 주소를 기입했어요. | 名前と住所を記入しました。 | I filled in my name and address.
+3. 빈칸을 기입하세요. | 空欄に記入してください。 | Please fill in the blanks.
+
+## 표시하다 (to mark; to indicate)
+1. 지도에 위치를 표시했어요. | 地図に位置を表示しました。 | I marked the location on the map.
+2. 중요한 부분에 표시해 주세요. | 重要な部分に印をつけてください。 | Please mark the important parts.
+3. 가격이 표시되어 있어요. | 価格が表示されています。 | The price is indicated.
+
+## 지시하다 (to instruct)
+1. 선생님이 숙제를 지시했어요. | 先生が宿題を指示しました。 | The teacher instructed the homework.
+2. 지시대로 따라 했어요. | 指示通りに従いました。 | I followed the instructions.
+3. 상사가 지시한 일을 해요. | 上司が指示した仕事をします。 | I do the work my boss instructed.
+
+## 명령하다 (to command)
+1. 선장이 명령을 내렸어요. | 船長が命令を出しました。 | The captain gave a command.
+2. 명령을 따를게요. | 命令に従います。 | I will follow the order.
+3. 명령을 기다리고 있어요. | 命令を待っています。 | I am waiting for orders.
+
+## 요구하다 (to demand)
+1. 그는 사과를 요구했어요. | 彼は謝罪を要求しました。 | He demanded an apology.
+2. 조건이 너무 많이 요구해요. | 条件が多く要求します。 | The conditions demand too much.
+3. 그걸 요구할 권리가 있어요. | それを要求する権利があります。 | I have the right to demand that.
+
+## 요청하다 (to request)
+1. 도움을 요청했어요. | 助けを依頼しました。 | I requested help.
+2. 회의 시간을 변경해 달라고 요청했어요. | 会議時間を変更してほしいと依頼しました。 | I requested a change to the meeting time.
+3. 요청을 들어주셔서 감사해요. | 依頼を聞いてくださってありがとうございます。 | Thank you for accepting my request.
+
+## 부탁하다 (to ask for a favor)
+1. 친구에게 부탁했어요. | 友達に頼みました。 | I asked a friend for a favor.
+2. 한 가지만 부탁할게요. | 一つだけお願いします。 | I'll ask for just one favor.
+3. 부탁을 들어줘서 고마워요. | 頼みを聞いてくれてありがとう。 | Thank you for doing me the favor.
+
+## 청구하다 (to claim; to charge)
+1. 보험을 청구했어요. | 保険を請求しました。 | I filed an insurance claim.
+2. 병원비를 청구했어요. | 病院代を請求しました。 | I was charged the hospital bill.
+3. 영수증을 보고 청구해요. | 領収書を見て請求します。 | I charge based on the receipt.
+
+## 신청하다 (to apply)
+1. 대학교에 신청했어요. | 大学に出願しました。 | I applied to university.
+2. 온라인으로 신청할 수 있어요. | オンラインで申し込めます。 | You can apply online.
+3. 신청 마감일이 언제예요? | 申し込み締切はいつですか？ | When is the application deadline?
+
+## 접수하다 (to receive; to accept)
+1. 서류를 접수했어요. | 書類を受け付けました。 | I submitted the documents / The documents were received.
+2. 접수 마감은 내일이에요. | 受付締切は明日です。 | The reception deadline is tomorrow.
+3. 신청을 접수했어요. | 申し込みを受け付けました。 | We have accepted the application.
+
+## 처리하다 (to process)
+1. 주문을 처리하고 있어요. | 注文を処理しています。 | I am processing the order.
+2. 빨리 처리해 주세요. | 早く処理してください。 | Please process it quickly.
+3. 처리하는 데 시간이 걸려요. | 処理するのに時間がかかります。 | It takes time to process.
+
+## 해결하다 (to solve)
+1. 문제를 해결했어요. | 問題を解決しました。 | I solved the problem.
+2. 둘이서 해결해 보세요. | 二人で解決してみてください。 | Try to solve it between the two of you.
+3. 이 방법으로 해결할 수 있어요. | この方法で解決できます。 | We can solve it with this method.
+
+## 완료하다 (to complete)
+1. 작업을 완료했어요. | 作業を完了しました。 | I completed the task.
+2. 완료하는 데 일주일 걸렸어요. | 完了するのに一週間かかりました。 | It took a week to complete.
+3. 완료 보고서를 제출했어요. | 完了報告書を提出しました。 | I submitted the completion report.
+
+## 마치다 (to finish)
+1. 숙제를 마쳤어요. | 宿題を終えました。 | I finished my homework.
+2. 연설을 마친 후에 박수를 쳤어요. | スピーチを終えた後に拍手をしました。 | They applauded after I finished the speech.
+3. 일을 마치고 집에 갔어요. | 仕事を終えて家に帰りました。 | I finished work and went home.
+
+## 종료하다 (to end; to terminate)
+1. 회의를 종료할게요. | 会議を終了します。 | I will end the meeting.
+2. 프로그램을 종료해 주세요. | プログラムを終了してください。 | Please terminate the program.
+3. 방송이 곧 종료됩니다. | 放送がまもなく終了します。 | The broadcast will end soon.
+
+## 중단하다 (to suspend; to interrupt)
+1. 공사를 중단했어요. | 工事を中断しました。 | They suspended the construction.
+2. 대화를 중단하고 싶지 않아요. | 会話を中断したくありません。 | I don't want to interrupt the conversation.
+3. 비 때문에 경기가 중단됐어요. | 雨のため試合が中断されました。 | The game was suspended due to rain.
+
+## 취소하다 (to cancel)
+1. 예약을 취소했어요. | 予約をキャンセルしました。 | I canceled the reservation.
+2. 비행기가 취소됐어요. | 飛行機がキャンセルされました。 | The flight was canceled.
+3. 취소 수수료가 있어요. | キャンセル料があります。 | There is a cancellation fee.
+
+## 연기하다 (to postpone)
+1. 시험을 다음 주로 연기했어요. | 試験を来週に延期しました。 | They postponed the exam to next week.
+2. 약속을 연기해도 될까요? | 約束を延期してもいいですか？ | Can I postpone the appointment?
+3. 비 때문에 행사가 연기됐어요. | 雨のためイベントが延期されました。 | The event was postponed due to rain.
+
+## 변경하다 (to change)
+1. 일정을 변경했어요. | スケジュールを変更しました。 | I changed the schedule.
+2. 주소를 변경하려면 어떻게 해요? | 住所を変更するにはどうしますか？ | How do I change the address?
+3. 계획을 변경해야 해요. | 計画を変更しなければなりません。 | I need to change the plan.
+
+## 수정하다 (to revise; to modify)
+1. 문서를 수정했어요. | 書類を修正しました。 | I revised the document.
+2. 오타를 수정해 주세요. | 誤字を修正してください。 | Please fix the typo.
+3. 수정할 부분이 있어요. | 修正する部分があります。 | There are parts that need to be modified.
+
+## 보완하다 (to supplement; to complement)
+1. 부족한 부분을 보완했어요. | 足りない部分を補完しました。 | I supplemented the insufficient parts.
+2. 계획을 보완해야 해요. | 計画を補完しなければなりません。 | We need to supplement the plan.
+3. 서로의 약점을 보완해요. | お互いの弱点を補完します。 | We complement each other's weaknesses.
+
+## 개선하다 (to improve)
+1. 서비스를 개선할 필요가 있어요. | サービスを改善する必要があります。 | We need to improve the service.
+2. 생활 환경이 개선됐어요. | 生活環境が改善されました。 | The living environment improved.
+3. 개선할 점을 찾고 있어요. | 改善する点を探しています。 | I'm looking for things to improve.
+
+## 향상하다 (to enhance; to improve)
+1. 실력이 많이 향상됐어요. | 実力がとても向上しました。 | My skills improved a lot.
+2. 생산성을 향상시키고 있어요. | 生産性を向上させています。 | We are enhancing productivity.
+3. 꾸준히 연습하면 실력이 향상해요. | 継続して練習すれば実力が向上します。 | If you practice steadily, your skills improve.
+
+## 발전하다 (to develop)
+1. 기술이 빠르게 발전하고 있어요. | 技術が速く発展しています。 | Technology is developing rapidly.
+2. 우리 회사는 많이 발전했어요. | 私たちの会社は大きく発展しました。 | Our company has developed a lot.
+3. 발전을 위해 노력하고 있어요. | 発展のために努力しています。 | I am working hard for development.
+
+## 성장하다 (to grow)
+1. 아이가 건강하게 성장하고 있어요. | 子供が健康に成長しています。 | The child is growing healthily.
+2. 경제가 성장하고 있어요. | 経済が成長しています。 | The economy is growing.
+3. 경험을 통해 성장했어요. | 経験を通じて成長しました。 | I grew through experience.
+
+## 진보하다 (to advance)
+1. 과학이 진보했어요. | 科学が進歩しました。 | Science has advanced.
+2. 사회가 진보하고 있어요. | 社会が進歩しています。 | Society is advancing.
+3. 진보를 위해서 계속 노력해요. | 進歩のために努力し続けます。 | I keep working for progress.
+
+## 퇴보하다 (to regress)
+1. 기술이 오히려 퇴보했어요. | 技術がむしろ退歩しました。 | Technology actually regressed.
+2. 실력이 퇴보하지 않게 연습해요. | 実力が退歩しないように練習します。 | I practice so my skills don't regress.
+3. 경제가 퇴보하는 것 같아요. | 経済が退歩しているようです。 | The economy seems to be regressing.
+
+## 쇠퇴하다 (to decline)
+1. 그 산업은 쇠퇴하고 있어요. | その産業は衰退しています。 | That industry is declining.
+2. 체력이 나이가 들면서 쇠퇴해요. | 体力は年を取ると衰退します。 | Physical strength declines as we age.
+3. 도시가 점점 쇠퇴하고 있어요. | 都市がだんだん衰退しています。 | The city is gradually declining.
+
+## 악화되다 (to worsen)
+1. 날씨가 더 악화됐어요. | 天気がさらに悪化しました。 | The weather worsened further.
+2. 관계가 악화되는 것 같아요. | 関係が悪化しているようです。 | The relationship seems to be worsening.
+3. 상황이 악화되기 전에 조치해요. | 状況が悪化する前に対処します。 | Let's take action before the situation worsens.
+
+## 호전되다 (to improve; to get better)
+1. 건강이 조금 호전됐어요. | 健康が少し好転しました。 | My health has improved a bit.
+2. 상황이 호전될 거예요. | 状況は好転するでしょう。 | The situation will get better.
+3. 증상이 호전되고 있어요. | 症状が好転しています。 | The symptoms are getting better.
+
+## 회복되다 (to recover)
+1. 건강이 완전히 회복됐어요. | 健康が完全に回復しました。 | My health has fully recovered.
+2. 경제가 서서히 회복되고 있어요. | 経済が徐々に回復しています。 | The economy is gradually recovering.
+3. 잠을 자고 나서 기운이 회복됐어요. | 寝てから元気が回復しました。 | I recovered my energy after sleeping.
+
+## 안정되다 (to stabilize)
+1. 물가가 안정됐어요. | 物価が安定しました。 | Prices have stabilized.
+2. 상태가 안정되고 있어요. | 状態が安定しています。 | The condition is stabilizing.
+3. 마음이 안정됐어요. | 気持ちが落ち着きました。 | My mind has stabilized.
+
+## 변화하다 (to change)
+1. 세상이 빠르게 변화하고 있어요. | 世界が速く変化しています。 | The world is changing rapidly.
+2. 날씨가 갑자기 변화했어요. | 天気が突然変化しました。 | The weather suddenly changed.
+3. 사람의 마음은 잘 변화해요. | 人の気持ちはよく変化します。 | People's feelings change easily.
+
+## 전환하다 (to convert; to switch)
+1. 태도를 전환했어요. | 態度を切り替えました。 | I switched my attitude.
+2. 시스템을 전환하고 있어요. | システムを切り替えています。 | We are switching the system.
+3. 생각을 전환할 필요가 있어요. | 考えを切り替える必要があります。 | I need to switch my thinking.
+
+## 이동하다 (to move)
+1. 다른 장소로 이동했어요. | 別の場所に移動しました。 | I moved to another place.
+2. 대중교통으로 이동해요. | 公共交通機関で移動します。 | I travel by public transportation.
+3. 위치를 이동할게요. | 位置を移動します。 | I will move the position.
+
+## 이전하다 (to transfer; to move)
+1. 회사가 서울로 이전했어요. | 会社がソウルに移転しました。 | The company moved to Seoul.
+2. 데이터를 새 컴퓨터로 이전했어요. | データを新しいコンピュータに移しました。 | I transferred the data to a new computer.
+3. 이전 절차가 복잡해요. | 移転手続きが複雑です。 | The transfer procedure is complicated.
+
+## 옮기다 (to move; to transfer)
+1. 책상을 창가 쪽으로 옮겼어요. | 机を窓際に移しました。 | I moved the desk to the window side.
+2. 짐을 차로 옮겼어요. | 荷物を車に移しました。 | I moved the luggage to the car.
+3. 탁자를 방 구석으로 옮길게요. | テーブルを部屋の隅に移します。 | I'll move the table to the corner of the room.
+
+## 배치하다 (to arrange; to deploy)
+1. 의자를 적절히 배치했어요. | 椅子を適切に配置しました。 | I arranged the chairs appropriately.
+2. 직원을 각 부서에 배치했어요. | 職員を各部署に配置しました。 | We deployed staff to each department.
+3. 가구를 다시 배치했어요. | 家具を再配置しました。 | I rearranged the furniture.
+
+## 배열하다 (to arrange)
+1. 책을 크기 순서로 배열했어요. | 本を大きさの順に並べました。 | I arranged the books by size order.
+2. 숫자를 오름차순으로 배열해 주세요. | 数字を昇順に並べてください。 | Please arrange the numbers in ascending order.
+3. 꽃을 예쁘게 배열했어요. | 花をきれいに並べました。 | I arranged the flowers prettily.
+
+## 정리하다 (to organize; to tidy up)
+1. 방을 정리했어요. | 部屋を整理しました。 | I tidied up the room.
+2. 생각을 정리할 시간이 필요해요. | 考えを整理する時間が必要です。 | I need time to organize my thoughts.
+3. 서류를 정리해 주세요. | 書類を整理してください。 | Please organize the documents.
+
+## 정돈하다 (to arrange; to put in order)
+1. 옷장을 정돈했어요. | クローゼットを整頓しました。 | I arranged the closet.
+2. 책상을 항상 정돈된 상태로 유지해요. | 机をいつも整頓された状態に保ちます。 | I always keep my desk tidy.
+3. 물건을 정돈하는 습관이 있어요. | 物を整頓する習慣があります。 | I have a habit of putting things in order.
+
+## 청소하다 (to clean)
+1. 주말에 집을 청소해요. | 週末に家を掃除します。 | I clean the house on weekends.
+2. 청소를 끝냈어요. | 掃除を終えました。 | I finished cleaning.
+3. 방 청소를 도와줄래요? | 部屋の掃除を手伝ってくれますか？ | Can you help me clean the room?
+
+## 세척하다 (to wash; to clean)
+1. 채소를 깨끗이 세척했어요. | 野菜をきれいに洗浄しました。 | I thoroughly washed the vegetables.
+2. 손을 세척하는 게 중요해요. | 手を洗浄することが重要です。 | It's important to wash your hands.
+3. 식기 세척기를 사용해요. | 食器洗浄機を使います。 | I use the dishwasher.
+
+## 소독하다 (to disinfect)
+1. 상처를 소독했어요. | 傷を消毒しました。 | I disinfected the wound.
+2. 손을 소독해야 해요. | 手を消毒しなければなりません。 | I need to disinfect my hands.
+3. 병원에서 기구를 소독해요. | 病院で器具を消毒します。 | They disinfect instruments at the hospital.
+
+## 살균하다 (to sterilize)
+1. 물을 끓여서 살균해요. | 水を沸かして殺菌します。 | I sterilize water by boiling it.
+2. 주방을 살균했어요. | 台所を殺菌しました。 | I sterilized the kitchen.
+3. 이 제품은 살균 효과가 있어요. | この製品は殺菌効果があります。 | This product has a sterilizing effect.
+
+## 멸균하다 (to sterilize)
+1. 의료 기구를 멸균했어요. | 医療器具を滅菌しました。 | We sterilized the medical instruments.
+2. 멸균된 장갑을 사용해요. | 滅菌された手袋を使います。 | We use sterilized gloves.
+3. 병원에서 멸균이 중요해요. | 病院で滅菌が重要です。 | Sterilization is important in hospitals.
+
+## 보관하다 (to store; to keep)
+1. 음식을 냉장고에 보관해요. | 食べ物を冷蔵庫に保管します。 | I store food in the refrigerator.
+2. 중요한 서류는 금고에 보관해요. | 重要な書類は金庫に保管します。 | I keep important documents in a safe.
+3. 이 약은 서늘한 곳에 보관하세요. | この薬は涼しい所に保管してください。 | Store this medicine in a cool place.
+
+## 저장하다 (to store; to save)
+1. 파일을 저장했어요. | ファイルを保存しました。 | I saved the file.
+2. 데이터를 클라우드에 저장해요. | データをクラウドに保存します。 | I store data in the cloud.
+3. 저장하기 전에 확인해 주세요. | 保存する前に確認してください。 | Please check before saving.
+
+## 보존하다 (to preserve)
+1. 문화재를 보존해야 해요. | 文化財を保存しなければなりません。 | We must preserve cultural heritage.
+2. 자연환경을 보존하는 게 중요해요. | 自然環境を保存することが重要です。 | It's important to preserve the natural environment.
+3. 이 사진을 오래 보존하고 싶어요. | この写真を長く保存したいです。 | I want to preserve this photo for a long time.
+
+## 유지하다 (to maintain)
+1. 건강을 유지하기 위해 운동해요. | 健康を維持するために運動します。 | I exercise to maintain my health.
+2. 좋은 관계를 유지하고 있어요. | 良い関係を維持しています。 | I maintain a good relationship.
+3. 질서를 유지해 주세요. | 秩序を維持してください。 | Please maintain order.
+
+## 관리하다 (to manage)
+1. 돈을 잘 관리해야 해요. | お金をうまく管理しなければなりません。 | I need to manage money well.
+2. 건강을 관리하는 게 중요해요. | 健康を管理することが重要です。 | It's important to manage your health.
+3. 이 시스템을 관리하고 있어요. | このシステムを管理しています。 | I manage this system.
+
+## 운영하다 (to operate)
+1. 작은 가게를 운영하고 있어요. | 小さなお店を運営しています。 | I operate a small store.
+2. 이 학교는 체계적으로 운영돼요. | この学校は体系的に運営されています。 | This school is operated systematically.
+3. 운영 시간은 아홉 시부터 여섯 시까지예요. | 営業時間は九時から六時までです。 | Operating hours are from nine to six.
+
+## 경영하다 (to manage)
+1. 회사를 경영하는 건 어려워요. | 会社を経営するのは難しいです。 | Managing a company is difficult.
+2. 부모님이 식당을 경영하고 계세요. | 両親が食堂を経営しています。 | My parents manage a restaurant.
+3. 경영자가 될 준비를 하고 있어요. | 経営者になる準備をしています。 | I am preparing to become a manager.
+
+## 통제하다 (to control)
+1. 상황을 통제하기 어려웠어요. | 状況を統制するのが難しかったです。 | It was hard to control the situation.
+2. 감정을 통제하는 연습을 해요. | 感情を統制する練習をします。 | I practice controlling my emotions.
+3. 군중을 통제할 방법이 필요해요. | 群衆を統制する方法が必要です。 | We need a way to control the crowd.
+
+## 규제하다 (to regulate)
+1. 정부가 가격을 규제해요. | 政府が価格を規制します。 | The government regulates prices.
+2. 환경 오염을 규제하는 법이 있어요. | 環境汚染を規制する法律があります。 | There is a law that regulates environmental pollution.
+3. 규제가 너무 심해요. | 規制が厳しすぎます。 | The regulations are too strict.
+
+## 감독하다 (to supervise)
+1. 선생님이 시험을 감독해요. | 先生が試験を監督します。 | The teacher supervises the exam.
+2. 공사 현장을 감독하고 있어요. | 工事現場を監督しています。 | I am supervising the construction site.
+3. 감독관이 일을 잘하는지 확인해요. | 監督官が仕事をちゃんとやっているか確認します。 | The supervisor checks if the work is done properly.
+
+## 지휘하다 (to command; to conduct)
+1. 그가 오케스트라를 지휘했어요. | 彼がオーケストラを指揮しました。 | He conducted the orchestra.
+2. 장군이 군대를 지휘해요. | 将軍が軍隊を指揮します。 | The general commands the army.
+3. 선생님이 합창을 지휘해요. | 先生が合唱を指揮します。 | The teacher conducts the choir.
+
+## 통솔하다 (to lead; to command)
+1. 팀을 잘 통솔해야 해요. | チームをうまく統率しなければなりません。 | I need to lead the team well.
+2. 그 지도자는 사람들을 잘 통솔해요. | その指導者は人々をうまく統率します。 | That leader commands people well.
+3. 통솔력이 중요한 자리예요. | 統率力が重要な立場です。 | It's a position where leadership is important.
+
+## 지도하다 (to guide; to instruct)
+1. 교수님이 연구를 지도해요. | 教授が研究を指導します。 | The professor guides the research.
+2. 지도 선생님이 항상 도와줘요. | 指導の先生がいつも助けてくれます。 | The supervising teacher always helps me.
+3. 학생들을 올바르게 지도해야 해요. | 学生たちを正しく指導しなければなりません。 | I must guide the students correctly.
+
+## 교육하다 (to educate)
+1. 아이들을 교육하는 게 중요해요. | 子供たちを教育することが重要です。 | Educating children is important.
+2. 이 프로그램은 대중을 교육해요. | このプログラムは大衆を教育します。 | This program educates the public.
+3. 교육할 기회가 필요해요. | 教育する機会が必要です。 | We need the opportunity to educate.
+
+## 훈련하다 (to train)
+1. 선수들을 열심히 훈련해요. | 選手たちを熱心に訓練します。 | I train the athletes hard.
+2. 개가 명령을 따르도록 훈련했어요. | 犬が命令に従うように訓練しました。 | I trained the dog to follow commands.
+3. 매일 훈련하는 게 중요해요. | 毎日訓練することが重要です。 | It's important to train every day.
+
+## 양성하다 (to train; to cultivate)
+1. 회사가 전문가를 양성하고 있어요. | 会社が専門家を養成しています。 | The company is training professionals.
+2. 다음 세대 리더를 양성하는 게 목표예요. | 次世代のリーダーを養成することが目標です。 | The goal is to cultivate next-generation leaders.
+3. 좋은 인재를 양성하는 데 시간이 걸려요. | 良い人材を養成するのに時間がかかります。 | It takes time to cultivate good talent.
+
+## 육성하다 (to foster; to nurture)
+1. 인재를 육성하는 것이 중요해요. | 人材を育成することが重要です。 | Fostering talent is important.
+2. 아이의 재능을 육성하고 싶어요. | 子供の才能を育成したいです。 | I want to nurture the child's talent.
+3. 회사가 신입 사원을 육성하고 있어요. | 会社が新入社員を育成しています。 | The company is nurturing new employees.
+
+## 키우다 (to raise; to grow)
+1. 강아지를 키우고 있어요. | 子犬を飼っています。 | I am raising a puppy.
+2. 꽃을 키우는 게 취미예요. | 花を育てるのが趣味です。 | Growing flowers is my hobby.
+3. 아이를 키우는 건 정말 힘들어요. | 子供を育てるのは本当に大変です。 | Raising a child is really hard.
+
+## 기르다 (to raise; to cultivate)
+1. 고양이를 세 마리 기르고 있어요. | 猫を三匹飼っています。 | I raise three cats.
+2. 정원에서 채소를 길러요. | 庭で野菜を育てます。 | I cultivate vegetables in the garden.
+3. 머리카락을 길게 기르고 있어요. | 髪の毛を長く伸ばしています。 | I am growing my hair long.
+
+## 보살피다 (to take care of)
+1. 할머니를 보살피고 있어요. | おばあちゃんの世話をしています。 | I am taking care of my grandmother.
+2. 식물을 매일 보살펴요. | 植物を毎日世話します。 | I take care of the plants every day.
+3. 아픈 동생을 보살폈어요. | 病気の弟の世話をしました。 | I took care of my sick younger sibling.
+
+## 돌보다 (to take care of)
+1. 아이를 잘 돌봐 주세요. | 子供をよく世話してください。 | Please take good care of the child.
+2. 혼자서 몸을 돌보는 게 중요해요. | 一人で体を大事にすることが重要です。 | It's important to take care of your body by yourself.
+3. 강아지를 잘 돌보고 있어요. | 子犬をよく世話しています。 | I am taking good care of the puppy.

@@ -1,0 +1,1535 @@
+# Batch 7/32 — Korean Sentences with Japanese + English Translations (해요체)
+
+## 도구 (tool; instrument)
+1. 이 도구로 나무를 자릅니다.
+   (ja) この道具で木を切ります。
+   (en) I cut wood with this tool.
+
+2. 그 도구는 사용하기 쉬워요.
+   (ja) その道具は使いやすいです。
+   (en) That tool is easy to use.
+
+3. 어떤 도구가 필요해요?
+   (ja) どんな道具が必要ですか？
+   (en) What tool do you need?
+
+## 연장 (tool; extension)
+1. 연장을 상자에 넣어요.
+   (ja) 道具を箱に入れます。
+   (en) I put the tools in the box.
+
+2. 이 연장은 무거워요.
+   (ja) この道具は重いです。
+   (en) This tool is heavy.
+
+3. 연장을 빌려 주세요.
+   (ja) 道具を貸してください。
+   (en) Please lend me the tool.
+
+## 기계 (machine)
+1. 기계가 조용히 작동해요.
+   (ja) 機械が静かに作動します。
+   (en) The machine runs quietly.
+
+2. 이 기계는 커피를 만들어요.
+   (ja) この機械はコーヒーを作ります。
+   (en) This machine makes coffee.
+
+3. 기계를 고치는 중이에요.
+   (ja) 機械を修理しているところです。
+   (en) I am fixing the machine.
+
+## 장비 (equipment)
+1. 장비를 준비해야 해요.
+   (ja) 装備を準備しなければなりません。
+   (en) I have to prepare the equipment.
+
+2. 이 장비는 아주 비싸요.
+   (ja) この装備はとても高いです。
+   (en) This equipment is very expensive.
+
+3. 장비가 없으면 일을 못 해요.
+   (ja) 装備がなければ仕事ができません。
+   (en) Without equipment, I can't work.
+
+## 부품 (part; component)
+1. 부품을 주문했어요.
+   (ja) 部品を注文しました。
+   (en) I ordered the parts.
+
+2. 이 부품은 어디에 들어가요?
+   (ja) この部品はどこに入りますか？
+   (en) Where does this part go?
+
+3. 부품이 하나 없어요.
+   (ja) 部品が一つ足りません。
+   (en) One part is missing.
+
+## 재료 (material; ingredient)
+1. 재료를 시장에서 사요.
+   (ja) 材料を市場で買います。
+   (en) I buy ingredients at the market.
+
+2. 이 재료는 신선해요.
+   (ja) この材料は新鮮です。
+   (en) This ingredient is fresh.
+
+3. 어떤 재료가 필요해요?
+   (ja) どんな材料が必要ですか？
+   (en) What materials do you need?
+
+## 원료 (raw material)
+1. 원료를 공장으로 보내요.
+   (ja) 原料を工場に送ります。
+   (en) We send raw materials to the factory.
+
+2. 이 원료는 종이를 만드는 데 써요.
+   (ja) この原料は紙を作るのに使います。
+   (en) This raw material is used to make paper.
+
+3. 원료 가격이 올랐어요.
+   (ja) 原料の値段が上がりました。
+   (en) The price of raw materials went up.
+
+## 자원 (resource)
+1. 물은 중요한 자원이에요.
+   (ja) 水は重要な資源です。
+   (en) Water is an important resource.
+
+2. 자원을 아껴 써야 해요.
+   (ja) 資源を大切に使わなければなりません。
+   (en) We must use resources carefully.
+
+3. 이 나라는 자원이 풍부해요.
+   (ja) この国は資源が豊富です。
+   (en) This country is rich in resources.
+
+## 에너지 (energy)
+1. 에너지를 절약해요.
+   (ja) エネルギーを節約します。
+   (en) I save energy.
+
+2. 태양에서 에너지를 얻어요.
+   (ja) 太陽からエネルギーを得ます。
+   (en) We get energy from the sun.
+
+3. 에너지가 부족해요.
+   (ja) エネルギーが不足しています。
+   (en) Energy is insufficient.
+
+## 연료 (fuel)
+1. 연료가 다 떨어졌어요.
+   (ja) 燃料が全部なくなりました。
+   (en) The fuel has run out.
+
+2. 차에 연료를 넣어요.
+   (ja) 車に燃料を入れます。
+   (en) I put fuel in the car.
+
+3. 연료 가격이 비싸요.
+   (ja) 燃料の値段が高いです。
+   (en) The price of fuel is high.
+
+## 전력 (electric power)
+1. 전력 소비를 줄여요.
+   (ja) 電力消費を減らします。
+   (en) I reduce electric power consumption.
+
+2. 전력이 부족하면 불이 꺼져요.
+   (ja) 電力が不足すると電気が消えます。
+   (en) If electric power is insufficient, the lights go out.
+
+3. 이 공장은 전력을 많이 써요.
+   (ja) この工場は電力をたくさん使います。
+   (en) This factory uses a lot of electric power.
+
+## 수력 (hydraulic power)
+1. 수력으로 전기를 만들어요.
+   (ja) 水力で電気を作ります。
+   (en) We generate electricity with hydraulic power.
+
+2. 수력 발전소가 강 근처에 있어요.
+   (ja) 水力発電所が川の近くにあります。
+   (en) There is a hydraulic power plant near the river.
+
+3. 수력은 깨끗한 에너지예요.
+   (ja) 水力はきれいなエネルギーです。
+   (en) Hydraulic power is clean energy.
+
+## 풍력 (wind power)
+1. 풍력 발전기가 산 위에 있어요.
+   (ja) 風力発電機が山の上にあります。
+   (en) There is a wind power generator on the mountain.
+
+2. 풍력으로 전기를 생산해요.
+   (ja) 風力で電気を生産します。
+   (en) We produce electricity with wind power.
+
+3. 풍력은 환경에 좋아요.
+   (ja) 風力は環境に良いです。
+   (en) Wind power is good for the environment.
+
+## 태양열 (solar heat)
+1. 태양열로 물을 데워요.
+   (ja) 太陽熱で水を温めます。
+   (en) I heat water with solar heat.
+
+2. 태양열 집열기가 지붕 위에 있어요.
+   (ja) 太陽熱集熱器が屋根の上にあります。
+   (en) There is a solar heat collector on the roof.
+
+3. 태양열 에너지는 무한해요.
+   (ja) 太陽熱エネルギーは無限です。
+   (en) Solar heat energy is infinite.
+
+## 원자력 (nuclear power)
+1. 원자력은 위험할 수도 있어요.
+   (ja) 原子力は危険なこともあります。
+   (en) Nuclear power can be dangerous.
+
+2. 원자력 발전소가 바닷가에 있어요.
+   (ja) 原子力発電所が海辺にあります。
+   (en) A nuclear power plant is by the coast.
+
+3. 원자력은 많은 전기를 만들어요.
+   (ja) 原子力はたくさんの電気を作ります。
+   (en) Nuclear power produces a lot of electricity.
+
+## 자연 (nature)
+1. 자연을 사랑해요.
+   (ja) 自然を愛します。
+   (en) I love nature.
+
+2. 자연이 아름다워요.
+   (ja) 自然が美しいです。
+   (en) Nature is beautiful.
+
+3. 주말에 자연을 즐겨요.
+   (ja) 週末に自然を楽しみます。
+   (en) I enjoy nature on weekends.
+
+## 환경 (environment)
+1. 환경을 보호해야 해요.
+   (ja) 環境を守らなければなりません。
+   (en) We must protect the environment.
+
+2. 이 지역의 환경이 좋아요.
+   (ja) この地域の環境が良いです。
+   (en) The environment in this area is good.
+
+3. 환경 오염이 심각해요.
+   (ja) 環境汚染が深刻です。
+   (en) Environmental pollution is serious.
+
+## 생태계 (ecosystem)
+1. 생태계가 중요해요.
+   (ja) 生態系が重要です。
+   (en) The ecosystem is important.
+
+2. 이 숲의 생태계를 연구해요.
+   (ja) この森の生態系を研究します。
+   (en) I study the ecosystem of this forest.
+
+3. 생태계가 파괴되고 있어요.
+   (ja) 生態系が破壊されています。
+   (en) The ecosystem is being destroyed.
+
+## 공기 (air)
+1. 공기가 신선해요.
+   (ja) 空気が新鮮です。
+   (en) The air is fresh.
+
+2. 창문을 열어서 공기를 바꿔요.
+   (ja) 窓を開けて空気を入れ替えます。
+   (en) I open the window to change the air.
+
+3. 공기가 건조해요.
+   (ja) 空気が乾燥しています。
+   (en) The air is dry.
+
+## 물 (water)
+1. 물을 마셔요.
+   (ja) 水を飲みます。
+   (en) I drink water.
+
+2. 물이 너무 차가워요.
+   (ja) 水が冷たすぎます。
+   (en) The water is too cold.
+
+3. 꽃에 물을 줘요.
+   (ja) 花に水をやります。
+   (en) I water the flowers.
+
+## 땅 (land; earth)
+1. 땅이 평평해요.
+   (ja) 土地が平らです。
+   (en) The land is flat.
+
+2. 이 땅은 비옥해요.
+   (ja) この土地は肥沃です。
+   (en) This land is fertile.
+
+3. 땅에 씨를 심어요.
+   (ja) 地面に種をまきます。
+   (en) I plant seeds in the ground.
+
+## 불 (fire)
+1. 불이 꺼졌어요.
+   (ja) 火が消えました。
+   (en) The fire went out.
+
+2. 불을 조심해야 해요.
+   (ja) 火を気をつけなければなりません。
+   (en) Be careful with fire.
+
+3. 불로 음식을 요리해요.
+   (ja) 火で料理を調理します。
+   (en) I cook food with fire.
+
+## 바람 (wind)
+1. 바람이 많이 불어요.
+   (ja) 風がたくさん吹きます。
+   (en) The wind blows strongly.
+
+2. 바람이 시원해요.
+   (ja) 風が涼しいです。
+   (en) The wind is cool.
+
+3. 바람에 종이가 날아갔어요.
+   (ja) 風に紙が飛ばされました。
+   (en) The paper flew away in the wind.
+
+## 비 (rain)
+1. 비가 와요.
+   (ja) 雨が降ります。
+   (en) It's raining.
+
+2. 비가 그쳤어요.
+   (ja) 雨がやみました。
+   (en) The rain stopped.
+
+3. 비 때문에 집에 있어요.
+   (ja) 雨のため家にいます。
+   (en) I'm staying home because of the rain.
+
+## 눈 (snow)
+1. 눈이 와요.
+   (ja) 雪が降ります。
+   (en) It's snowing.
+
+2. 눈이 많이 쌓였어요.
+   (ja) 雪がたくさん積もりました。
+   (en) A lot of snow has piled up.
+
+3. 눈사람을 만들었어요.
+   (ja) 雪だるまを作りました。
+   (en) I made a snowman.
+
+## 안개 (fog)
+1. 안개가 껴요.
+   (ja) 霧がかかっています。
+   (en) It's foggy.
+
+2. 안개 때문에 앞이 잘 안 보여요.
+   (ja) 霧のため前がよく見えません。
+   (en) I can't see well because of the fog.
+
+3. 안개가 걷혔어요.
+   (ja) 霧が晴れました。
+   (en) The fog has cleared.
+
+## 구름 (cloud)
+1. 구름이 하늘에 떠 있어요.
+   (ja) 雲が空に浮かんでいます。
+   (en) Clouds are floating in the sky.
+
+2. 구름이 많아요.
+   (ja) 雲が多いです。
+   (en) There are many clouds.
+
+3. 저 구름이 재미있는 모양이에요.
+   (ja) あの雲が面白い形です。
+   (en) That cloud has an interesting shape.
+
+## 번개 (lightning)
+1. 번개가 쳤어요.
+   (ja) 雷が光りました。
+   (en) Lightning struck.
+
+2. 번개가 무서워요.
+   (ja) 雷が怖いです。
+   (en) I'm scared of lightning.
+
+3. 번개 후에 천둥 소리가 났어요.
+   (ja) 雷の後に雷鳴が聞こえました。
+   (en) After the lightning, thunder sounded.
+
+## 천둥 (thunder)
+1. 천둥이 울려요.
+   (ja) 雷が鳴ります。
+   (en) Thunder rumbles.
+
+2. 천둥 소리가 커요.
+   (ja) 雷の音が大きいです。
+   (en) The thunder sound is loud.
+
+3. 천둥이 칠 때 집에 있어요.
+   (ja) 雷が鳴るときは家にいます。
+   (en) I stay home when it thunders.
+
+## 무지개 (rainbow)
+1. 무지개가 떴어요.
+   (ja) 虹が出ました。
+   (en) A rainbow appeared.
+
+2. 무지개가 일곱 가지 색이에요.
+   (ja) 虹は七色です。
+   (en) The rainbow has seven colors.
+
+3. 비 온 후에 무지개를 봤어요.
+   (ja) 雨の後に虹を見ました。
+   (en) I saw a rainbow after the rain.
+
+## 별 (star)
+1. 밤하늘에 별이 반짝여요.
+   (ja) 夜空に星がきらめきます。
+   (en) Stars twinkle in the night sky.
+
+2. 별이 아름다워요.
+   (ja) 星が美しいです。
+   (en) The stars are beautiful.
+
+3. 별을 보고 싶어요.
+   (ja) 星を見たいです。
+   (en) I want to see the stars.
+
+## 달 (moon)
+1. 달이 밝게 빛나요.
+   (ja) 月が明るく輝きます。
+   (en) The moon shines brightly.
+
+2. 오늘 밤 달이 아름다워요.
+   (ja) 今夜の月が美しいです。
+   (en) The moon tonight is beautiful.
+
+3. 달에 가고 싶어요.
+   (ja) 月に行きたいです。
+   (en) I want to go to the moon.
+
+## 해 (sun)
+1. 해가 동쪽에서 떠요.
+   (ja) 太陽が東から昇ります。
+   (en) The sun rises in the east.
+
+2. 해가 뜨거워요.
+   (ja) 太陽が熱いです。
+   (en) The sun is hot.
+
+3. 해가 지면 집에 가요.
+   (ja) 日が沈んだら家に帰ります。
+   (en) When the sun sets, I go home.
+
+## 지구 (Earth)
+1. 지구는 둥글어요.
+   (ja) 地球は丸いです。
+   (en) The Earth is round.
+
+2. 지구를 보호해야 해요.
+   (ja) 地球を守らなければなりません。
+   (en) We must protect the Earth.
+
+3. 지구에는 물이 많아요.
+   (ja) 地球には水が多いです。
+   (en) There is a lot of water on Earth.
+
+## 우주 (space; universe)
+1. 우주가 신기해요.
+   (ja) 宇宙は不思議です。
+   (en) The universe is fascinating.
+
+2. 우주에 대한 책을 읽어요.
+   (ja) 宇宙についての本を読みます。
+   (en) I read a book about space.
+
+3. 우주 여행을 하고 싶어요.
+   (ja) 宇宙旅行をしたいです。
+   (en) I want to travel to space.
+
+## 행성 (planet)
+1. 화성은 붉은 행성이에요.
+   (ja) 火星は赤い惑星です。
+   (en) Mars is a red planet.
+
+2. 몇 개의 행성이 태양 주위를 돌아요?
+   (ja) いくつの惑星が太陽の周りを回りますか？
+   (en) How many planets orbit the sun?
+
+3. 이 행성에는 생명체가 있을까요?
+   (ja) この惑星には生命体がいるでしょうか？
+   (en) I wonder if there is life on this planet.
+
+## 위성 (satellite)
+1. 달은 지구의 위성이에요.
+   (ja) 月は地球の衛星です。
+   (en) The moon is Earth's satellite.
+
+2. 인공위성이 하늘을 지나가요.
+   (ja) 人工衛星が空を通り過ぎます。
+   (en) A satellite passes across the sky.
+
+3. 위성을 쏘아 올렸어요.
+   (ja) 衛星を打ち上げました。
+   (en) They launched a satellite.
+
+## 은하 (galaxy)
+1. 은하수가 아름다워요.
+   (ja) 天の川が美しいです。
+   (en) The Milky Way is beautiful.
+
+2. 이 은하에는 별이 많아요.
+   (ja) この銀河には星が多いです。
+   (en) This galaxy has many stars.
+
+3. 은하에 대해 배우고 있어요.
+   (ja) 銀河について学んでいます。
+   (en) I'm learning about galaxies.
+
+## 태양계 (solar system)
+1. 태양계에는 여덟 개의 행성이 있어요.
+   (ja) 太陽系には八つの惑星があります。
+   (en) There are eight planets in the solar system.
+
+2. 태양계에 대해 공부해요.
+   (ja) 太陽系について勉強します。
+   (en) I study about the solar system.
+
+3. 태양계 밖에도 행성이 있어요.
+   (ja) 太陽系の外にも惑星があります。
+   (en) There are planets outside the solar system.
+
+## 별자리 (constellation)
+1. 저 별자리는 뭐예요?
+   (ja) あの星座は何ですか？
+   (en) What constellation is that?
+
+2. 내 별자리는 물병자리예요.
+   (ja) 私の星座は水瓶座です。
+   (en) My zodiac sign is Aquarius.
+
+3. 별자리를 찾는 것이 재미있어요.
+   (ja) 星座を探すのが面白いです。
+   (en) Finding constellations is fun.
+
+## 관측 (observation)
+1. 별을 관측하는 것이 취미예요.
+   (ja) 星を観測するのが趣味です。
+   (en) Observing stars is my hobby.
+
+2. 망원경으로 관측해요.
+   (ja) 望遠鏡で観測します。
+   (en) I observe with a telescope.
+
+3. 오늘 밤 관측하기 좋아요.
+   (ja) 今夜は観測に良いです。
+   (en) Tonight is good for observation.
+
+## 망원경 (telescope)
+1. 망원경으로 달을 봐요.
+   (ja) 望遠鏡で月を見ます。
+   (en) I look at the moon through a telescope.
+
+2. 이 망원경은 성능이 좋아요.
+   (ja) この望遠鏡は性能が良いです。
+   (en) This telescope has good performance.
+
+3. 망원경이 무거워서 들기 힘들어요.
+   (ja) 望遠鏡が重くて持つのが大変です。
+   (en) The telescope is heavy, so it's hard to carry.
+
+## 발사 (launch)
+1. 로켓이 발사됐어요.
+   (ja) ロケットが発射されました。
+   (en) The rocket was launched.
+
+2. 발사 장면을 TV로 봤어요.
+   (ja) 打ち上げの様子をテレビで見ました。
+   (en) I watched the launch on TV.
+
+3. 발사가 성공했어요.
+   (ja) 打ち上げが成功しました。
+   (en) The launch was successful.
+
+## 로켓 (rocket)
+1. 로켓이 하늘로 올라가요.
+   (ja) ロケットが空へ上がります。
+   (en) The rocket goes up into the sky.
+
+2. 로켓을 직접 봤어요.
+   (ja) ロケットを直接見ました。
+   (en) I saw a rocket in person.
+
+3. 로켓은 매우 빨라요.
+   (ja) ロケットはとても速いです。
+   (en) Rockets are very fast.
+
+## 인공위성 (satellite)
+1. 인공위성이 지구 주위를 돌아요.
+   (ja) 人工衛星が地球の周りを回ります。
+   (en) Satellites orbit the Earth.
+
+2. 인공위성으로 날씨를 예측해요.
+   (ja) 人工衛星で天気を予測します。
+   (en) We predict the weather with satellites.
+
+3. 인공위성이 통신을 도와줘요.
+   (ja) 人工衛星が通信を助けてくれます。
+   (en) Satellites help with communication.
+
+## 우주선 (spaceship)
+1. 우주선이 우주로 떠났어요.
+   (ja) 宇宙船が宇宙へ旅立ちました。
+   (en) The spaceship departed into space.
+
+2. 우주선 안은 좁아요.
+   (ja) 宇宙船の中は狭いです。
+   (en) The inside of the spaceship is narrow.
+
+3. 우주선을 타고 달에 가요.
+   (ja) 宇宙船に乗って月に行きます。
+   (en) I go to the moon by spaceship.
+
+## 우주인 (astronaut)
+1. 우주인이 우주에서 일해요.
+   (ja) 宇宙飛行士が宇宙で働きます。
+   (en) Astronauts work in space.
+
+2. 우주인이 되고 싶어요.
+   (ja) 宇宙飛行士になりたいです。
+   (en) I want to become an astronaut.
+
+3. 우주인이 무중력에서 떠다녀요.
+   (ja) 宇宙飛行士が無重力で浮かびます。
+   (en) Astronauts float in zero gravity.
+
+## 과학 (science)
+1. 과학을 공부하는 것이 재미있어요.
+   (ja) 科学を勉強するのが面白いです。
+   (en) Studying science is interesting.
+
+2. 과학이 발전했어요.
+   (ja) 科学が発展しました。
+   (en) Science has advanced.
+
+3. 과학 시간에 실험을 해요.
+   (ja) 科学の時間に実験をします。
+   (en) We do experiments in science class.
+
+## 기술 (technology)
+1. 기술이 우리 생활을 편리하게 해요.
+   (ja) 技術が私たちの生活を便利にします。
+   (en) Technology makes our lives convenient.
+
+2. 새로운 기술을 배우고 있어요.
+   (ja) 新しい技術を学んでいます。
+   (en) I am learning new technology.
+
+3. 이 기술은 병을 치료하는 데 도움을 줘요.
+   (ja) この技術は病気の治療に役立ちます。
+   (en) This technology helps treat diseases.
+
+## 연구 (research)
+1. 연구를 열심히 해요.
+   (ja) 研究を熱心にします。
+   (en) I do research diligently.
+
+2. 이 연구는 중요해요.
+   (ja) この研究は重要です。
+   (en) This research is important.
+
+3. 연구 결과를 발표했어요.
+   (ja) 研究結果を発表しました。
+   (en) They announced the research results.
+
+## 개발 (development)
+1. 새 앱을 개발 중이에요.
+   (ja) 新しいアプリを開発中です。
+   (en) I am developing a new app.
+
+2. 기술 개발이 필요해요.
+   (ja) 技術開発が必要です。
+   (en) Technology development is necessary.
+
+3. 이 약의 개발에 10년이 걸렸어요.
+   (ja) この薬の開発に10年かかりました。
+   (en) The development of this medicine took 10 years.
+
+## 실험 (experiment)
+1. 실험을 조심히 해요.
+   (ja) 実験を慎重にします。
+   (en) I conduct experiments carefully.
+
+2. 실험이 실패했어요.
+   (ja) 実験が失敗しました。
+   (en) The experiment failed.
+
+3. 실험 결과를 기록해요.
+   (ja) 実験結果を記録します。
+   (en) I record the experiment results.
+
+## 관찰 (observation)
+1. 새를 관찰하는 것이 좋아요.
+   (ja) 鳥を観察するのが好きです。
+   (en) I like observing birds.
+
+2. 관찰 내용을 노트에 적어요.
+   (ja) 観察したことをノートに書きます。
+   (en) I write down my observations in a notebook.
+
+3. 오랜 관찰이 필요해요.
+   (ja) 長い観察が必要です。
+   (en) Long observation is necessary.
+
+## 분석 (analysis)
+1. 데이터를 분석해요.
+   (ja) データを分析します。
+   (en) I analyze the data.
+
+2. 분석 결과가 흥미로워요.
+   (ja) 分析結果が面白いです。
+   (en) The analysis results are interesting.
+
+3. 이 문제를 분석해야 해요.
+   (ja) この問題を分析しなければなりません。
+   (en) I need to analyze this problem.
+
+## 결과 (result)
+1. 결과가 좋아요.
+   (ja) 結果が良いです。
+   (en) The result is good.
+
+2. 시험 결과를 기다리고 있어요.
+   (ja) 試験結果を待っています。
+   (en) I'm waiting for the test results.
+
+3. 결과에 만족해요.
+   (ja) 結果に満足しています。
+   (en) I am satisfied with the result.
+
+## 데이터 (data)
+1. 데이터를 수집해요.
+   (ja) データを収集します。
+   (en) I collect data.
+
+2. 이 데이터는 정확해요?
+   (ja) このデータは正確ですか？
+   (en) Is this data accurate?
+
+3. 데이터가 많아서 복잡해요.
+   (ja) データが多くて複雑です。
+   (en) There's a lot of data, so it's complicated.
+
+## 통계 (statistics)
+1. 통계를 보면 추세를 알 수 있어요.
+   (ja) 統計を見ると傾向が分かります。
+   (en) You can see trends from statistics.
+
+2. 통계에 따르면 인구가 늘고 있어요.
+   (ja) 統計によると人口が増えています。
+   (en) According to statistics, the population is increasing.
+
+3. 이 통계는 믿을 수 있어요?
+   (ja) この統計は信頼できますか？
+   (en) Can this statistics be trusted?
+
+## 정보 (information)
+1. 정보를 인터넷에서 찾아요.
+   (ja) 情報をインターネットで探します。
+   (en) I search for information on the internet.
+
+2. 그 정보는 틀렸어요.
+   (ja) その情報は間違っていました。
+   (en) That information was wrong.
+
+3. 중요한 정보를 알려 줘요.
+   (ja) 重要な情報を教えてください。
+   (en) Please tell me the important information.
+
+## 지식 (knowledge)
+1. 지식을 쌓는 것이 중요해요.
+   (ja) 知識を積むことが重要です。
+   (en) Accumulating knowledge is important.
+
+2. 그의 지식이 놀라워요.
+   (ja) 彼の知識がすごいです。
+   (en) His knowledge is amazing.
+
+3. 이 책에서 많은 지식을 얻었어요.
+   (ja) この本から多くの知識を得ました。
+   (en) I gained a lot of knowledge from this book.
+
+## 학습 (learning)
+1. 한국어 학습이 재미있어요.
+   (ja) 韓国語の学習が面白いです。
+   (en) Learning Korean is fun.
+
+2. 온라인 학습이 인기예요.
+   (ja) オンライン学習が人気です。
+   (en) Online learning is popular.
+
+3. 학습을 꾸준히 해야 해요.
+   (ja) 学習を継続しなければなりません。
+   (en) I have to keep learning steadily.
+
+## 교육 (education)
+1. 교육이 중요하다고 생각해요.
+   (ja) 教育は重要だと思います。
+   (en) I think education is important.
+
+2. 좋은 교육을 받고 싶어요.
+   (ja) 良い教育を受けたいです。
+   (en) I want to receive a good education.
+
+3. 교육 시스템이 바뀌고 있어요.
+   (ja) 教育システムが変わっています。
+   (en) The education system is changing.
+
+## 훈련 (training)
+1. 훈련이 힘들어요.
+   (ja) 訓練が大変です。
+   (en) The training is hard.
+
+2. 매일 아침 훈련을 해요.
+   (ja) 毎朝訓練をします。
+   (en) I train every morning.
+
+3. 훈련을 통해 실력이 늘었어요.
+   (ja) 訓練を通じて実力が上がりました。
+   (en) My skill improved through training.
+
+## 연습 (practice)
+1. 연습이 완벽을 만든다고 해요.
+   (ja) 練習が完璧を作るといいます。
+   (en) They say practice makes perfect.
+
+2. 피아노 연습을 매일 해요.
+   (ja) ピアノの練習を毎日します。
+   (en) I practice piano every day.
+
+3. 발음을 연습해야 해요.
+   (ja) 発音を練習しなければなりません。
+   (en) I need to practice pronunciation.
+
+## 실습 (practice; training)
+1. 실습 시간에 배운 것을 적용해요.
+   (ja) 実習の時間に学んだことを応用します。
+   (en) I apply what I learned during practice.
+
+2. 이론보다 실습이 더 도움이 돼요.
+   (ja) 理論より実習の方が役に立ちます。
+   (en) Practice is more helpful than theory.
+
+3. 다음 주에 실습이 있어요.
+   (ja) 来週実習があります。
+   (en) There is a practice session next week.
+
+## 경험 (experience)
+1. 경험이 중요해요.
+   (ja) 経験が重要です。
+   (en) Experience is important.
+
+2. 좋은 경험을 했어요.
+   (ja) 良い経験をしました。
+   (en) I had a good experience.
+
+3. 경험을 통해 많이 배웠어요.
+   (ja) 経験を通じてたくさん学びました。
+   (en) I learned a lot through experience.
+
+## 숙달 (proficiency)
+1. 숙달되려면 시간이 필요해요.
+   (ja) 熟達するには時間が必要です。
+   (en) It takes time to become proficient.
+
+2. 한국어 숙달이 목표예요.
+   (ja) 韓国語の熟達が目標です。
+   (en) Proficiency in Korean is my goal.
+
+3. 이 기술의 숙달에 3년 걸렸어요.
+   (ja) この技術の習得に3年かかりました。
+   (en) It took three years to master this skill.
+
+## 능력 (ability)
+1. 그의 능력이 뛰어나요.
+   (ja) 彼の能力は優れています。
+   (en) His ability is outstanding.
+
+2. 능력을 키우기 위해 노력해요.
+   (ja) 能力を伸ばすために努力します。
+   (en) I work hard to develop my ability.
+
+3. 모든 사람에게는 다른 능력이 있어요.
+   (ja) すべての人に異なる能力があります。
+   (en) Everyone has different abilities.
+
+## 재능 (talent)
+1. 그녀는 노래 재능이 있어요.
+   (ja) 彼女は歌の才能があります。
+   (en) She has a talent for singing.
+
+2. 재능을 발견하는 것이 중요해요.
+   (ja) 才能を見つけることが重要です。
+   (en) Discovering talent is important.
+
+3. 타고난 재능도 연습이 필요해요.
+   (ja) 生まれつきの才能も練習が必要です。
+   (en) Even natural talent needs practice.
+
+## 소질 (aptitude)
+1. 수학에 소질이 있어요.
+   (ja) 数学に素質があります。
+   (en) I have an aptitude for math.
+
+2. 소질을 살리는 것이 좋아요.
+   (ja) 素質を活かすのが良いです。
+   (en) It's good to make use of one's aptitude.
+
+3. 그 아이는 예술 소질이 있어요.
+   (ja) あの子は芸術の素質があります。
+   (en) That child has an aptitude for art.
+
+## 적성 (aptitude)
+1. 이 일이 내 적성에 맞아요.
+   (ja) この仕事は私の適性に合っています。
+   (en) This job suits my aptitude.
+
+2. 적성 검사를 받았어요.
+   (ja) 適性検査を受けました。
+   (en) I took an aptitude test.
+
+3. 적성에 맞는 직업을 찾고 있어요.
+   (ja) 適性に合った職業を探しています。
+   (en) I'm looking for a career that fits my aptitude.
+
+## 취미 (hobby)
+1. 독서가 제 취미예요.
+   (ja) 読書が私の趣味です。
+   (en) Reading is my hobby.
+
+2. 취미를 나누는 것이 즐거워요.
+   (ja) 趣味を共有するのは楽しいです。
+   (en) Sharing hobbies is enjoyable.
+
+3. 새로운 취미를 시작하고 싶어요.
+   (ja) 新しい趣味を始めたいです。
+   (en) I want to start a new hobby.
+
+## 특기 (specialty)
+1. 제 특기는 그림 그리기예요.
+   (ja) 私の特技は絵を描くことです。
+   (en) My specialty is drawing.
+
+2. 특기를 살릴 수 있는 일이 좋아요.
+   (ja) 特技を活かせる仕事がいいです。
+   (en) A job where I can use my specialty is good.
+
+3. 어떤 특기가 있어요?
+   (ja) どんな特技がありますか？
+   (en) What special skills do you have?
+
+## 장점 (strength; advantage)
+1. 인내심이 제 장점이에요.
+   (ja) 忍耐力が私の長所です。
+   (en) Patience is my strength.
+
+2. 이 방법의 장점은 빠르다는 거예요.
+   (ja) この方法の利点は速いことです。
+   (en) The advantage of this method is that it's fast.
+
+3. 장점을 더 발전시키고 싶어요.
+   (ja) 長所をもっと伸ばしたいです。
+   (en) I want to develop my strengths further.
+
+## 단점 (weakness; disadvantage)
+1. 제 단점은 급한 성격이에요.
+   (ja) 私の短所はせっかちな性格です。
+   (en) My weakness is my impatient personality.
+
+2. 단점을 고치기 위해 노력해요.
+   (ja) 短所を直すために努力します。
+   (en) I work hard to fix my weaknesses.
+
+3. 모든 것에는 장점과 단점이 있어요.
+   (ja) すべてのものには長所と短所があります。
+   (en) Everything has strengths and weaknesses.
+
+## 비교 (comparison)
+1. 비교하면 차이가 보여요.
+   (ja) 比較すると違いが見えます。
+   (en) When you compare, you can see the difference.
+
+2. 두 사진을 비교해 보세요.
+   (ja) 二枚の写真を比べてみてください。
+   (en) Please compare the two photos.
+
+3. 남과 비교하지 마세요.
+   (ja) 他人と比べないでください。
+   (en) Don't compare yourself with others.
+
+## 차이 (difference)
+1. 두 단어의 차이가 뭐예요?
+   (ja) 二つの単語の違いは何ですか？
+   (en) What is the difference between the two words?
+
+2. 차이가 거의 없어요.
+   (ja) 違いがほとんどありません。
+   (en) There's almost no difference.
+
+3. 문화 차이를 이해해야 해요.
+   (ja) 文化の違いを理解しなければなりません。
+   (en) We need to understand cultural differences.
+
+## 공통점 (common point)
+1. 두 언어의 공통점이 있어요?
+   (ja) 二つの言語に共通点がありますか？
+   (en) Do the two languages have common points?
+
+2. 공통점을 찾는 게 재미있어요.
+   (ja) 共通点を探すのが面白いです。
+   (en) Finding common points is interesting.
+
+3. 우리는 공통점이 많아요.
+   (ja) 私たちは共通点が多いです。
+   (en) We have a lot in common.
+
+## 차이점 (difference)
+1. 차이점을 설명해 주세요.
+   (ja) 相違点を説明してください。
+   (en) Please explain the differences.
+
+2. 둘 사이의 차이점이 분명해요.
+   (ja) 二つの間の相違点がはっきりしています。
+   (en) The differences between the two are clear.
+
+3. 차이점을 표로 정리했어요.
+   (ja) 相違点を表にまとめました。
+   (en) I organized the differences in a table.
+
+## 장단점 (pros and cons)
+1. 장단점을 비교해 봐요.
+   (ja) 長所と短所を比べてみましょう。
+   (en) Let's compare the pros and cons.
+
+2. 각각 장단점이 있어요.
+   (ja) それぞれに長所と短所があります。
+   (en) Each has its pros and cons.
+
+3. 장단점을 생각해 보세요.
+   (ja) 長所と短所を考えてみてください。
+   (en) Please think about the pros and cons.
+
+## 종류 (kind; type)
+1. 여러 종류의 꽃이 있어요.
+   (ja) いろいろな種類の花があります。
+   (en) There are many kinds of flowers.
+
+2. 이 종류는 비싸요.
+   (ja) この種類は高いです。
+   (en) This type is expensive.
+
+3. 어떤 종류를 좋아해요?
+   (ja) どんな種類が好きですか？
+   (en) What kind do you like?
+
+## 유형 (type)
+1. 이 문제는 새로운 유형이에요.
+   (ja) この問題は新しいタイプです。
+   (en) This problem is a new type.
+
+2. 다른 유형도 있어요?
+   (ja) ほかのタイプもありますか？
+   (en) Are there other types too?
+
+3. 성격 유형을 검사했어요.
+   (ja) 性格タイプを診断しました。
+   (en) I took a personality type test.
+
+## 형태 (form; shape)
+1. 얼음이 물의 고체 형태예요.
+   (ja) 氷は水の固体の形態です。
+   (en) Ice is the solid form of water.
+
+2. 이 형태가 더 예뻐요.
+   (ja) この形のほうがきれいです。
+   (en) This form is prettier.
+
+3. 형태가 달라졌어요.
+   (ja) 形が変わりました。
+   (en) The form has changed.
+
+## 모양 (shape; appearance)
+1. 구름 모양이 재미있어요.
+   (ja) 雲の形が面白いです。
+   (en) The shape of the cloud is interesting.
+
+2. 이 모양을 종이에 그려 주세요.
+   (ja) この形を紙に描いてください。
+   (en) Please draw this shape on paper.
+
+3. 모양은 좋은데 색깔이 마음에 안 들어요.
+   (ja) 形はいいけど色が気に入りません。
+   (en) The shape is good, but I don't like the color.
+
+## 크기 (size)
+1. 크기가 너무 커요.
+   (ja) サイズが大きすぎます。
+   (en) The size is too big.
+
+2. 적당한 크기를 골라요.
+   (ja) 適当なサイズを選びます。
+   (en) I choose the right size.
+
+3. 이 옷은 제 크기가 아니에요.
+   (ja) この服は私のサイズではありません。
+   (en) These clothes are not my size.
+
+## 길이 (length)
+1. 이 줄의 길이를 재 주세요.
+   (ja) この紐の長さを測ってください。
+   (en) Please measure the length of this string.
+
+2. 길이가 얼마나 돼요?
+   (ja) 長さはどのくらいですか？
+   (en) How long is it?
+
+3. 치마 길이가 짧아요.
+   (ja) スカートの長さが短いです。
+   (en) The length of the skirt is short.
+
+## 높이 (height)
+1. 이 건물의 높이가 놀라워요.
+   (ja) この建物の高さがすごいです。
+   (en) The height of this building is amazing.
+
+2. 높이를 재는 기계예요.
+   (ja) 高さを測る機械です。
+   (en) This is a device that measures height.
+
+3. 산 높이가 2,000미터예요.
+   (ja) 山の高さは2,000メートルです。
+   (en) The height of the mountain is 2,000 meters.
+
+## 너비 (width)
+1. 이 방의 너비가 좁아요.
+   (ja) この部屋の幅が狭いです。
+   (en) The width of this room is narrow.
+
+2. 너비를 재야 해요.
+   (ja) 幅を測らなければなりません。
+   (en) I need to measure the width.
+
+3. 문 너비가 충분해요?
+   (ja) ドアの幅は十分ですか？
+   (en) Is the width of the door enough?
+
+## 깊이 (depth)
+1. 이 호수의 깊이가 깊어요.
+   (ja) この湖の深さが深いです。
+   (en) The depth of this lake is deep.
+
+2. 깊이를 모르면 위험해요.
+   (ja) 深さが分からないと危険です。
+   (en) It's dangerous if you don't know the depth.
+
+3. 수영장 깊이가 1미터예요.
+   (ja) プールの深さは1メートルです。
+   (en) The depth of the pool is one meter.
+
+## 두께 (thickness)
+1. 이 책의 두께가 두꺼워요.
+   (ja) この本の厚さが厚いです。
+   (en) The thickness of this book is thick.
+
+2. 종이 두께를 확인해 주세요.
+   (ja) 紙の厚さを確認してください。
+   (en) Please check the thickness of the paper.
+
+3. 두께가 다르면 느낌도 달라요.
+   (ja) 厚さが違うと感触も違います。
+   (en) If the thickness is different, the feel is also different.
+
+## 무게 (weight)
+1. 이 가방의 무게가 무거워요.
+   (ja) このカバンの重さが重いです。
+   (en) The weight of this bag is heavy.
+
+2. 무게를 재 볼게요.
+   (ja) 重さを測ってみます。
+   (en) I'll measure the weight.
+
+3. 무게가 5킬로그램이에요.
+   (ja) 重さは5キログラムです。
+   (en) The weight is five kilograms.
+
+## 양 (amount; quantity)
+1. 양이 많아요.
+   (ja) 量が多いです。
+   (en) The amount is large.
+
+2. 적당한 양을 넣으세요.
+   (ja) 適量を入れてください。
+   (en) Please add an appropriate amount.
+
+3. 물의 양을 조절해요.
+   (ja) 水の量を調節します。
+   (en) I adjust the amount of water.
+
+## 수 (number; amount)
+1. 학생 수가 늘었어요.
+   (ja) 生徒の数が増えました。
+   (en) The number of students increased.
+
+2. 수가 정확하지 않아요.
+   (ja) 数が正確ではありません。
+   (en) The number isn't accurate.
+
+3. 총수가 얼마예요?
+   (ja) 総数はいくつですか？
+   (en) What is the total number?
+
+## 개수 (number of items)
+1. 개수를 세어 봐요.
+   (ja) 個数を数えてみましょう。
+   (en) Let's count the number of items.
+
+2. 개수가 맞는지 확인해요.
+   (ja) 個数が合っているか確認します。
+   (en) I check if the number of items is correct.
+
+3. 개수가 너무 적어요.
+   (ja) 個数が少なすぎます。
+   (en) The number of items is too low.
+
+## 갯수 (number of items)
+1. 갯수는 상관없어요.
+   (ja) 個数は関係ありません。
+   (en) The number of items doesn't matter.
+
+2. 갯수가 틀렸어요.
+   (ja) 個数が間違っていました。
+   (en) The number of items was wrong.
+
+3. 갯수를 다시 세 주세요.
+   (ja) 個数を数え直してください。
+   (en) Please recount the number of items.
+
+## 순서 (order; sequence)
+1. 순서대로 줄을 서요.
+   (ja) 順番に並びます。
+   (en) Line up in order.
+
+2. 순서가 바뀌었어요.
+   (ja) 順番が変わりました。
+   (en) The order changed.
+
+3. 순서를 잘 기억해야 해요.
+   (ja) 順番をよく覚えなければなりません。
+   (en) I need to remember the order well.
+
+## 차례 (order; turn)
+1. 제 차례가 언제예요?
+   (ja) 私の番はいつですか？
+   (en) When is my turn?
+
+2. 차례를 기다려요.
+   (ja) 順番を待ちます。
+   (en) I wait for my turn.
+
+3. 차례대로 말하세요.
+   (ja) 順番に話してください。
+   (en) Please speak one at a time in order.
+
+## 단계 (step; stage)
+1. 다음 단계로 넘어가요.
+   (ja) 次の段階に進みます。
+   (en) I move on to the next step.
+
+2. 첫 단계가 가장 어려워요.
+   (ja) 最初の段階が一番難しいです。
+   (en) The first step is the hardest.
+
+3. 각 단계를 천천히 해요.
+   (ja) 各段階をゆっくりやります。
+   (en) I do each step slowly.
+
+## 과정 (process; course)
+1. 이 과정이 길어요.
+   (ja) この過程が長いです。
+   (en) This process is long.
+
+2. 학습 과정이 중요해요.
+   (ja) 学習過程が重要です。
+   (en) The learning process is important.
+
+3. 과정을 이해해야 결과가 좋아요.
+   (ja) 過程を理解しないといい結果が出ません。
+   (en) You need to understand the process to get good results.
+
+## 절차 (procedure)
+1. 절차를 따라야 해요.
+   (ja) 手続きに従わなければなりません。
+   (en) You must follow the procedure.
+
+2. 절차가 너무 복잡해요.
+   (ja) 手続きが複雑すぎます。
+   (en) The procedure is too complicated.
+
+3. 신청 절차를 설명해 주세요.
+   (ja) 申請手続きを説明してください。
+   (en) Please explain the application procedure.
+
+## 방법 (method)
+1. 좋은 방법을 찾아요.
+   (ja) 良い方法を探します。
+   (en) I look for a good method.
+
+2. 이 방법이 더 효과적이에요.
+   (ja) この方法のほうが効果的です。
+   (en) This method is more effective.
+
+3. 방법을 가르쳐 주세요.
+   (ja) 方法を教えてください。
+   (en) Please teach me the method.
+
+## 방식 (method; manner)
+1. 우리 방식이 다르지만 괜찮아요.
+   (ja) 私たちのやり方は違いますが大丈夫です。
+   (en) Our methods are different, but that's okay.
+
+2. 이 방식이 편해요.
+   (ja) この方式が楽です。
+   (en) This method is convenient.
+
+3. 방식을 바꾸는 게 좋겠어요.
+   (ja) 方式を変えたほうがいいと思います。
+   (en) I think it would be better to change the method.
+
+## 수단 (means; way)
+1. 교통 수단이 다양해요.
+   (ja) 交通手段が多様です。
+   (en) There are various means of transportation.
+
+2. 최선의 수단을 선택해야 해요.
+   (ja) 最善の手段を選ばなければなりません。
+   (en) I must choose the best means.
+
+3. 돈은 수단일 뿐이에요.
+   (ja) お金は手段にすぎません。
+   (en) Money is just a means.
+
+## 표현 (expression)
+1. 이 표현은 무슨 뜻이에요?
+   (ja) この表現はどういう意味ですか？
+   (en) What does this expression mean?
+
+2. 감정을 표현하는 게 중요해요.
+   (ja) 感情を表現することが重要です。
+   (en) Expressing emotions is important.
+
+3. 더 정확한 표현이 있어요?
+   (ja) もっと正確な表現がありますか？
+   (en) Is there a more accurate expression?
+
+## 설명 (explanation)
+1. 설명을 잘해 주셨어요.
+   (ja) 説明を上手にしてくれました。
+   (en) You explained it well.
+
+2. 설명이 부족해요.
+   (ja) 説明が足りません。
+   (en) The explanation is insufficient.
+
+3. 설명을 들으면 이해가 돼요.
+   (ja) 説明を聞けば理解できます。
+   (en) If I hear an explanation, I can understand.
+
+## 묘사 (description)
+1. 그림을 보고 묘사해요.
+   (ja) 絵を見て描写します。
+   (en) I describe the picture after looking at it.
+
+2. 그의 묘사가 정확했어요.
+   (ja) 彼の描写は正確でした。
+   (en) His description was accurate.
+
+3. 이 장면을 자세히 묘사해 주세요.
+   (ja) この場面を詳しく描写してください。
+   (en) Please describe this scene in detail.
+
+## 정의 (definition)
+1. 이 단어의 정의를 알려 주세요.
+   (ja) この単語の定義を教えてください。
+   (en) Please tell me the definition of this word.
+
+2. 정의가 분명하지 않아요.
+   (ja) 定義がはっきりしません。
+   (en) The definition is not clear.
+
+3. 이 개념의 정의가 뭐예요?
+   (ja) この概念の定義は何ですか？
+   (en) What is the definition of this concept?
+
+## 의미 (meaning)
+1. 인생의 의미에 대해 생각해요.
+   (ja) 人生の意味について考えます。
+   (en) I think about the meaning of life.
+
+2. 이 꽃은 특별한 의미가 있어요.
+   (ja) この花は特別な意味があります。
+   (en) This flower has a special meaning.
+
+3. 그 말의 의미를 모르겠어요.
+   (ja) その言葉の意味が分かりません。
+   (en) I don't understand the meaning of that word.
+
+## 뜻 (meaning)
+1. 이 단어의 뜻이 뭐예요?
+   (ja) この単語の意味は何ですか？
+   (en) What is the meaning of this word?
+
+2. 그 뜻을 잘못 이해했어요.
+   (ja) その意味を間違って理解しました。
+   (en) I misunderstood that meaning.
+
+3. 이름의 뜻이 아름다워요.
+   (ja) 名前の意味が美しいです。
+   (en) The meaning of the name is beautiful.
+
+## 의도 (intention)
+1. 나쁜 의도는 없었어요.
+   (ja) 悪い意図はありませんでした。
+   (en) There was no bad intention.
+
+2. 그의 의도를 이해했어요.
+   (ja) 彼の意図を理解しました。
+   (en) I understood his intention.
+
+3. 의도가 무엇인지 설명해 주세요.
+   (ja) 意図が何か説明してください。
+   (en) Please explain what the intention is.
+
+## 목적 (purpose)
+1. 여행의 목적이 뭐예요?
+   (ja) 旅行の目的は何ですか？
+   (en) What is the purpose of the trip?
+
+2. 목적을 분명히 해야 해요.
+   (ja) 目的をはっきりさせなければなりません。
+   (en) I need to clarify the purpose.
+
+3. 공부의 목적은 지식을 얻는 거예요.
+   (ja) 勉強の目的は知識を得ることです。
+   (en) The purpose of studying is to gain knowledge.
+
+## 목표 (goal)
+1. 올해 목표를 세웠어요.
+   (ja) 今年の目標を立てました。
+   (en) I set a goal for this year.
+
+2. 목표를 이루기 위해 노력해요.
+   (ja) 目標を達成するために努力します。
+   (en) I work hard to achieve my goal.
+
+3. 우리의 목표가 같아요.
+   (ja) 私たちの目標は同じです。
+   (en) Our goals are the same.
+
+## 이유 (reason)
+1. 이유가 뭐예요?
+   (ja) 理由は何ですか？
+   (en) What is the reason?
+
+2. 이유를 설명해 주세요.
+   (ja) 理由を説明してください。
+   (en) Please explain the reason.
+
+3. 그런 이유로 결정했어요.
+   (ja) そういう理由で決めました。
+   (en) I decided for that reason.
+
+## 원인 (cause)
+1. 원인을 찾아야 해요.
+   (ja) 原因を探さなければなりません。
+   (en) I need to find the cause.
+
+2. 사고의 원인이 뭐예요?
+   (ja) 事故の原因は何ですか？
+   (en) What is the cause of the accident?
+
+3. 원인이 분명하지 않아요.
+   (ja) 原因がはっきりしません。
+   (en) The cause is not clear.
+
+## 결과 (result)
+1. 결과가 좋아서 기뻐요.
+   (ja) 結果が良くて嬉しいです。
+   (en) I'm happy because the result is good.
+
+2. 결과에 상관없이 최선을 다해요.
+   (ja) 結果に関係なく最善を尽くします。
+   (en) Regardless of the result, I do my best.
+
+3. 노력하면 좋은 결과가 따라와요.
+   (ja) 努力すれば良い結果がついてきます。
+   (en) If you work hard, good results will follow.
+
+## 영향 (influence; effect)
+1. 날씨가 기분에 영향을 줘요.
+   (ja) 天気が気分に影響を与えます。
+   (en) The weather affects my mood.
+
+2. 그의 말이 큰 영향을 끼쳤어요.
+   (ja) 彼の言葉が大きな影響を与えました。
+   (en) His words had a big influence.
+
+3. 환경이 건강에 영향을 미쳐요.
+   (ja) 環境が健康に影響を与えます。
+   (en) The environment affects health.
+
+## 효과 (effect)
+1. 이 약의 효과가 좋아요.
+   (ja) この薬の効果が良いです。
+   (en) The effect of this medicine is good.
+
+2. 효과가 빨리 나타났어요.
+   (ja) 効果が早く現れました。
+   (en) The effect appeared quickly.
+
+3. 효과가 없으면 다른 방법을 써요.
+   (ja) 効果がなければ別の方法を使います。
+   (en) If there's no effect, I use another method.
+
+## 효율 (efficiency)
+1. 효율을 높이는 방법을 찾아요.
+   (ja) 効率を上げる方法を探します。
+   (en) I look for ways to increase efficiency.
+
+2. 이 방법은 효율이 좋아요.
+   (ja) この方法は効率が良いです。
+   (en) This method has good efficiency.
+
+3. 효율만 중요하지는 않아요.
+   (ja) 効率だけが重要ではありません。
+   (en) Efficiency isn't the only thing that matters.
+
+## 효과 (effectiveness)
+1. 효과적인 방법을 찾고 있어요.
+   (ja) 効果的な方法を探しています。
+   (en) I'm looking for an effective method.
+
+2. 이 운동이 효과가 있어요?
+   (ja) この運動は効果がありますか？
+   (en) Is this exercise effective?
+
+3. 치료 효과가 놀라웠어요.
+   (ja) 治療効果が驚くべきものでした。
+   (en) The treatment effectiveness was remarkable.

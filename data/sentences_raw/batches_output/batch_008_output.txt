@@ -1,0 +1,2560 @@
+# Batch 8/32 — 3 Sentences Per Word
+해요체 polite form. Japanese natural. Simple beginner sentences.
+---
+
+## === 문제 ===
+
+**Sentence 1**
+(ko) 이 문제는 어려워요.
+(ja) この問題は難しいです。
+(en) This problem is difficult.
+
+**Sentence 2**
+(ko) 문제가 있어요? 질문해 주세요.
+(ja) 問題がありますか？質問してください。
+(en) Do you have a problem? Please ask.
+
+**Sentence 3**
+(ko) 수학 문제를 풀었어요.
+(ja) 数学の問題を解きました。
+(en) I solved a math problem.
+
+---
+## === 답 ===
+
+**Sentence 1**
+(ko) 답을 알고 있어요.
+(ja) 答えを知っています。
+(en) I know the answer.
+
+**Sentence 2**
+(ko) 이 문제의 답이 뭐예요?
+(ja) この問題の答えは何ですか？
+(en) What is the answer to this problem?
+
+**Sentence 3**
+(ko) 선생님께서 답을 알려주셨어요.
+(ja) 先生が答えを教えてくれました。
+(en) The teacher told me the answer.
+
+---
+## === 정답 ===
+
+**Sentence 1**
+(ko) 정답을 맞췄어요.
+(ja) 正解を当てました。
+(en) I got the correct answer.
+
+**Sentence 2**
+(ko) 이게 정답이에요?
+(ja) これが正解ですか？
+(en) Is this the correct answer?
+
+**Sentence 3**
+(ko) 정답은 3번이에요.
+(ja) 正解は3番です。
+(en) The correct answer is number 3.
+
+---
+## === 오답 ===
+
+**Sentence 1**
+(ko) 오답이 많았어요.
+(ja) 不正解が多かったです。
+(en) There were many wrong answers.
+
+**Sentence 2**
+(ko) 오답을 확인했어요.
+(ja) 不正解を確認しました。
+(en) I checked the wrong answers.
+
+**Sentence 3**
+(ko) 오답 노트를 만들어요.
+(ja) 不正解ノートを作ります。
+(en) I make a wrong-answer notebook.
+
+---
+## === 해결 ===
+
+**Sentence 1**
+(ko) 문제를 해결했어요.
+(ja) 問題を解決しました。
+(en) I solved the problem.
+
+**Sentence 2**
+(ko) 이 방법으로 해결할 수 있어요.
+(ja) この方法で解決できます。
+(en) We can solve it with this method.
+
+**Sentence 3**
+(ko) 해결 방법을 찾고 있어요.
+(ja) 解決方法を探しています。
+(en) I'm looking for a solution.
+
+---
+## === 해답 ===
+
+**Sentence 1**
+(ko) 해답을 찾았어요.
+(ja) 解答を見つけました。
+(en) I found the solution.
+
+**Sentence 2**
+(ko) 이 책에 해답이 있어요.
+(ja) この本に解答があります。
+(en) This book has the answers.
+
+**Sentence 3**
+(ko) 해답을 알려주세요.
+(ja) 解答を教えてください。
+(en) Please tell me the solution.
+
+---
+## === 질문 ===
+
+**Sentence 1**
+(ko) 질문이 있어요.
+(ja) 質問があります。
+(en) I have a question.
+
+**Sentence 2**
+(ko) 선생님께 질문했어요.
+(ja) 先生に質問しました。
+(en) I asked the teacher a question.
+
+**Sentence 3**
+(ko) 질문을 해도 돼요?
+(ja) 質問してもいいですか？
+(en) May I ask a question?
+
+---
+## === 대답 ===
+
+**Sentence 1**
+(ko) 대답을 잘했어요.
+(ja) 答えをうまく言えました。
+(en) I answered well.
+
+**Sentence 2**
+(ko) 대답하지 않았어요.
+(ja) 答えませんでした。
+(en) I didn't answer.
+
+**Sentence 3**
+(ko) 그 질문에 대답해 주세요.
+(ja) その質問に答えてください。
+(en) Please answer that question.
+
+---
+## === 응답 ===
+
+**Sentence 1**
+(ko) 빠르게 응답했어요.
+(ja) 素早く返答しました。
+(en) I responded quickly.
+
+**Sentence 2**
+(ko) 응답이 없었어요.
+(ja) 返答がありませんでした。
+(en) There was no response.
+
+**Sentence 3**
+(ko) 이메일에 응답해 주세요.
+(ja) メールに返信してください。
+(en) Please respond to the email.
+
+---
+## === 의견 ===
+
+**Sentence 1**
+(ko) 의견이 있어요.
+(ja) 意見があります。
+(en) I have an opinion.
+
+**Sentence 2**
+(ko) 여러분의 의견을 듣고 싶어요.
+(ja) みなさんの意見を聞きたいです。
+(en) I want to hear your opinions.
+
+**Sentence 3**
+(ko) 제 의견을 말했어요.
+(ja) 私の意見を言いました。
+(en) I gave my opinion.
+
+---
+## === 생각 ===
+
+**Sentence 1**
+(ko) 생각이 있어요?
+(ja) 考えはありますか？
+(en) Do you have any thoughts?
+
+**Sentence 2**
+(ko) 좋은 생각이에요!
+(ja) いい考えですね！
+(en) That's a good idea!
+
+**Sentence 3**
+(ko) 그렇게 생각해요.
+(ja) そう思います。
+(en) I think so.
+
+---
+## === 아이디어 ===
+
+**Sentence 1**
+(ko) 좋은 아이디어가 있어요.
+(ja) いいアイデアがあります。
+(en) I have a good idea.
+
+**Sentence 2**
+(ko) 아이디어를 적었어요.
+(ja) アイデアを書きました。
+(en) I wrote down an idea.
+
+**Sentence 3**
+(ko) 이 아이디어는 어때요?
+(ja) このアイデアはどうですか？
+(en) How about this idea?
+
+---
+## === 제안 ===
+
+**Sentence 1**
+(ko) 제안을 하고 싶어요.
+(ja) 提案をしたいです。
+(en) I want to make a suggestion.
+
+**Sentence 2**
+(ko) 좋은 제안이에요.
+(ja) いい提案ですね。
+(en) That's a good suggestion.
+
+**Sentence 3**
+(ko) 제안해 주셔서 감사해요.
+(ja) 提案してくださってありがとうございます。
+(en) Thank you for the suggestion.
+
+---
+## === 제안하다 ===
+
+**Sentence 1**
+(ko) 새 방법을 제안했어요.
+(ja) 新しい方法を提案しました。
+(en) I suggested a new method.
+
+**Sentence 2**
+(ko) 뭐라고 제안하고 싶어요?
+(ja) 何と提案したいですか？
+(en) What would you like to suggest?
+
+**Sentence 3**
+(ko) 친구가 여행을 제안했어요.
+(ja) 友達が旅行を提案しました。
+(en) My friend suggested a trip.
+
+---
+## === 추천 ===
+
+**Sentence 1**
+(ko) 이 책을 추천해요.
+(ja) この本をおすすめします。
+(en) I recommend this book.
+
+**Sentence 2**
+(ko) 추천을 받았어요.
+(ja) おすすめをもらいました。
+(en) I received a recommendation.
+
+**Sentence 3**
+(ko) 추천해 주셔서 감사해요.
+(ja) おすすめしてくださってありがとうございます。
+(en) Thank you for the recommendation.
+
+---
+## === 추천하다 ===
+
+**Sentence 1**
+(ko) 그 영화를 추천해요.
+(ja) その映画をおすすめします。
+(en) I recommend that movie.
+
+**Sentence 2**
+(ko) 맛집을 추천해 주세요.
+(ja) 美味しいお店をおすすめしてください。
+(en) Please recommend a good restaurant.
+
+**Sentence 3**
+(ko) 선생님이 이 사전을 추천하셨어요.
+(ja) 先生がこの辞書をおすすめしました。
+(en) The teacher recommended this dictionary.
+
+---
+## === 선택 ===
+
+**Sentence 1**
+(ko) 선택을 했어요.
+(ja) 選択をしました。
+(en) I made a choice.
+
+**Sentence 2**
+(ko) 여러 개 중에서 선택해요.
+(ja) いくつかの中から選びます。
+(en) I choose from several options.
+
+**Sentence 3**
+(ko) 이걸 선택할게요.
+(ja) これを選びます。
+(en) I'll choose this one.
+
+---
+## === 결정 ===
+
+**Sentence 1**
+(ko) 결정을 했어요.
+(ja) 決定をしました。
+(en) I made a decision.
+
+**Sentence 2**
+(ko) 결정하기 어려워요.
+(ja) 決めるのが難しいです。
+(en) It's hard to decide.
+
+**Sentence 3**
+(ko) 빨리 결정해야 해요.
+(ja) 早く決めないといけません。
+(en) I have to decide quickly.
+
+---
+## === 판단 ===
+
+**Sentence 1**
+(ko) 판단을 잘했어요.
+(ja) 判断をうまくしました。
+(en) I made a good judgment.
+
+**Sentence 2**
+(ko) 내가 판단할게요.
+(ja) 私が判断します。
+(en) I'll judge.
+
+**Sentence 3**
+(ko) 그건 제 판단이에요.
+(ja) それは私の判断です。
+(en) That's my judgment.
+
+---
+## === 평가 ===
+
+**Sentence 1**
+(ko) 평가가 좋았어요.
+(ja) 評価がよかったです。
+(en) The evaluation was good.
+
+**Sentence 2**
+(ko) 선생님이 우리를 평가했어요.
+(ja) 先生が私たちを評価しました。
+(en) The teacher evaluated us.
+
+**Sentence 3**
+(ko) 이 제품의 평가가 높아요.
+(ja) この製品の評価が高いです。
+(en) This product has a high rating.
+
+---
+## === 기준 ===
+
+**Sentence 1**
+(ko) 기준이 뭐예요?
+(ja) 基準は何ですか？
+(en) What is the standard?
+
+**Sentence 2**
+(ko) 이 기준에 맞아요?
+(ja) この基準に合っていますか？
+(en) Does it meet this standard?
+
+**Sentence 3**
+(ko) 기준이 높아요.
+(ja) 基準が高いです。
+(en) The standard is high.
+
+---
+## === 조건 ===
+
+**Sentence 1**
+(ko) 조건이 있어요.
+(ja) 条件があります。
+(en) There is a condition.
+
+**Sentence 2**
+(ko) 이 조건에 동의해요?
+(ja) この条件に同意しますか？
+(en) Do you agree to this condition?
+
+**Sentence 3**
+(ko) 조건을 만족했어요.
+(ja) 条件を満たしました。
+(en) I satisfied the condition.
+
+---
+## === 규칙 ===
+
+**Sentence 1**
+(ko) 규칙을 지켜요.
+(ja) ルールを守ります。
+(en) I follow the rules.
+
+**Sentence 2**
+(ko) 이게 학교 규칙이에요.
+(ja) これが学校のルールです。
+(en) This is the school rule.
+
+**Sentence 3**
+(ko) 규칙을 깨면 안 돼요.
+(ja) ルールを破ってはいけません。
+(en) You must not break the rules.
+
+---
+## === 법칙 ===
+
+**Sentence 1**
+(ko) 자연의 법칙이에요.
+(ja) 自然の法則です。
+(en) It's a law of nature.
+
+**Sentence 2**
+(ko) 이 법칙을 배웠어요.
+(ja) この法則を学びました。
+(en) I learned this law.
+
+**Sentence 3**
+(ko) 중력의 법칙을 알고 있어요.
+(ja) 重力の法則を知っています。
+(en) I know the law of gravity.
+
+---
+## === 법률 ===
+
+**Sentence 1**
+(ko) 법률을 공부해요.
+(ja) 法律を勉強します。
+(en) I study law.
+
+**Sentence 2**
+(ko) 법률에 따라야 해요.
+(ja) 法律に従わなければなりません。
+(en) We must follow the law.
+
+**Sentence 3**
+(ko) 변호사가 법률을 설명했어요.
+(ja) 弁護士が法律を説明しました。
+(en) The lawyer explained the law.
+
+---
+## === 규정 ===
+
+**Sentence 1**
+(ko) 회사 규정을 읽었어요.
+(ja) 会社の規定を読みました。
+(en) I read the company regulations.
+
+**Sentence 2**
+(ko) 이 규정에 따라 주세요.
+(ja) この規定に従ってください。
+(en) Please follow this regulation.
+
+**Sentence 3**
+(ko) 규정이 바뀌었어요.
+(ja) 規定が変わりました。
+(en) The regulation changed.
+
+---
+## === 정책 ===
+
+**Sentence 1**
+(ko) 새 정책이 나왔어요.
+(ja) 新しい政策が出ました。
+(en) A new policy came out.
+
+**Sentence 2**
+(ko) 정책이 바뀌었어요.
+(ja) 政策が変わりました。
+(en) The policy changed.
+
+**Sentence 3**
+(ko) 그 정책이 좋아요?
+(ja) その政策はいいですか？
+(en) Is that policy good?
+
+---
+## === 제도 ===
+
+**Sentence 1**
+(ko) 한국의 교육 제도에 대해 배웠어요.
+(ja) 韓国の教育制度について学びました。
+(en) I learned about Korea's education system.
+
+**Sentence 2**
+(ko) 이 제도는 좋은 것 같아요.
+(ja) この制度はいいと思います。
+(en) I think this system is good.
+
+**Sentence 3**
+(ko) 제도가 바뀌었어요.
+(ja) 制度が変わりました。
+(en) The system changed.
+
+---
+## === 규범 ===
+
+**Sentence 1**
+(ko) 사회 규범을 따라야 해요.
+(ja) 社会規範に従わなければなりません。
+(en) We must follow social norms.
+
+**Sentence 2**
+(ko) 그건 규범에 맞지 않아요.
+(ja) それは規範に合いません。
+(en) That doesn't fit the norm.
+
+**Sentence 3**
+(ko) 규범이 중요해요.
+(ja) 規範は大切です。
+(en) Norms are important.
+
+---
+## === 전통 ===
+
+**Sentence 1**
+(ko) 한국의 전통을 존중해요.
+(ja) 韓国の伝統を尊重します。
+(en) I respect Korean traditions.
+
+**Sentence 2**
+(ko) 전통 음식을 먹었어요.
+(ja) 伝統的な料理を食べました。
+(en) I ate traditional food.
+
+**Sentence 3**
+(ko) 전통이 오래됐어요.
+(ja) 伝統は古いです。
+(en) The tradition is old.
+
+---
+## === 관습 ===
+
+**Sentence 1**
+(ko) 한국 관습이 재미있어요.
+(ja) 韓国の習慣は面白いです。
+(en) Korean customs are interesting.
+
+**Sentence 2**
+(ko) 그건 관습이에요.
+(ja) それは習慣です。
+(en) That's a custom.
+
+**Sentence 3**
+(ko) 결혼 관습이 달라요.
+(ja) 結婚の習慣が違います。
+(en) Marriage customs are different.
+
+---
+## === 문화 ===
+
+**Sentence 1**
+(ko) 한국 문화를 좋아해요.
+(ja) 韓国文化が好きです。
+(en) I like Korean culture.
+
+**Sentence 2**
+(ko) 문화가 달라요.
+(ja) 文化が違います。
+(en) The culture is different.
+
+**Sentence 3**
+(ko) 문화를 경험하고 싶어요.
+(ja) 文化を体験したいです。
+(en) I want to experience the culture.
+
+---
+## === 예절 ===
+
+**Sentence 1**
+(ko) 한국 예절을 배웠어요.
+(ja) 韓国の礼儀を学びました。
+(en) I learned Korean etiquette.
+
+**Sentence 2**
+(ko) 식사 예절이 중요해요.
+(ja) 食事のマナーが大切です。
+(en) Table manners are important.
+
+**Sentence 3**
+(ko) 어른께 인사하는 게 예절이에요.
+(ja) 目上の人に挨拶するのが礼儀です。
+(en) It's etiquette to greet elders.
+
+---
+## === 인사 ===
+
+**Sentence 1**
+(ko) 아침에 인사했어요.
+(ja) 朝に挨拶しました。
+(en) I greeted in the morning.
+
+**Sentence 2**
+(ko) 처음 뵙겠습니다 하고 인사했어요.
+(ja) 「はじめまして」と挨拶しました。
+(en) I greeted with 'nice to meet you'.
+
+**Sentence 3**
+(ko) 인사를 잊었어요.
+(ja) 挨拶を忘れました。
+(en) I forgot to greet.
+
+---
+## === 악수 ===
+
+**Sentence 1**
+(ko) 악수를 했어요.
+(ja) 握手をしました。
+(en) I shook hands.
+
+**Sentence 2**
+(ko) 악수하는 습관이 있어요.
+(ja) 握手する習慣があります。
+(en) There is a custom of shaking hands.
+
+**Sentence 3**
+(ko) 악수해 주세요.
+(ja) 握手してください。
+(en) Please shake hands.
+
+---
+## === 목례 ===
+
+**Sentence 1**
+(ko) 일본에서는 목례를 해요.
+(ja) 日本ではお辞儀をします。
+(en) In Japan, people bow.
+
+**Sentence 2**
+(ko) 목례를 하고 인사했어요.
+(ja) お辞儀をして挨拶しました。
+(en) I bowed and greeted.
+
+**Sentence 3**
+(ko) 목례가 예의에요.
+(ja) お辞儀が礼儀です。
+(en) Bowing is polite.
+
+---
+## === 인사말 ===
+
+**Sentence 1**
+(ko) 인사말을 준비했어요.
+(ja) 挨拶の言葉を準備しました。
+(en) I prepared a greeting message.
+
+**Sentence 2**
+(ko) 생일 인사말을 썼어요.
+(ja) 誕生日のお祝いメッセージを書きました。
+(en) I wrote a birthday greeting.
+
+**Sentence 3**
+(ko) 인사말이 좋았어요.
+(ja) 挨拶の言葉がよかったです。
+(en) The greeting was nice.
+
+---
+## === 축하 ===
+
+**Sentence 1**
+(ko) 생일 축하해요!
+(ja) お誕生日おめでとうございます！
+(en) Happy birthday!
+
+**Sentence 2**
+(ko) 축하를 받았어요.
+(ja) お祝いをもらいました。
+(en) I received congratulations.
+
+**Sentence 3**
+(ko) 합격을 축하해요.
+(ja) 合格をお祝いします。
+(en) Congratulations on passing.
+
+---
+## === 감사 ===
+
+**Sentence 1**
+(ko) 감사합니다!
+(ja) ありがとうございます！
+(en) Thank you!
+
+**Sentence 2**
+(ko) 감사한 마음이에요.
+(ja) 感謝の気持ちです。
+(en) I feel grateful.
+
+**Sentence 3**
+(ko) 도와주셔서 감사해요.
+(ja) 助けてくださってありがとうございます。
+(en) Thank you for helping me.
+
+---
+## === 사과 ===
+
+**Sentence 1**
+(ko) 사과했어요.
+(ja) 謝りました。
+(en) I apologized.
+
+**Sentence 2**
+(ko) 늦어서 사과해요.
+(ja) 遅れてすみません。
+(en) Sorry I'm late.
+
+**Sentence 3**
+(ko) 진심으로 사과해요.
+(ja) 心から謝ります。
+(en) I sincerely apologize.
+
+---
+## === 용서 ===
+
+**Sentence 1**
+(ko) 용서해 주세요.
+(ja) 許してください。
+(en) Please forgive me.
+
+**Sentence 2**
+(ko) 그 사람을 용서했어요.
+(ja) その人を許しました。
+(en) I forgave that person.
+
+**Sentence 3**
+(ko) 용서를 구했어요.
+(ja) 許しを求めました。
+(en) I asked for forgiveness.
+
+---
+## === 부탁 ===
+
+**Sentence 1**
+(ko) 부탁이 있어요.
+(ja) お願いがあります。
+(en) I have a request.
+
+**Sentence 2**
+(ko) 도와 달라고 부탁했어요.
+(ja) 助けてほしいと頼みました。
+(en) I asked for help.
+
+**Sentence 3**
+(ko) 부탁을 들어줘서 고마워요.
+(ja) お願いを聞いてくれてありがとう。
+(en) Thank you for granting my request.
+
+---
+## === 요청 ===
+
+**Sentence 1**
+(ko) 요청을 했어요.
+(ja) 要請をしました。
+(en) I made a request.
+
+**Sentence 2**
+(ko) 요청을 받았어요.
+(ja) 要請を受けました。
+(en) I received a request.
+
+**Sentence 3**
+(ko) 요청에 따라 행동했어요.
+(ja) 要請に従って行動しました。
+(en) I acted according to the request.
+
+---
+## === 명령 ===
+
+**Sentence 1**
+(ko) 명령을 받았어요.
+(ja) 命令を受けました。
+(en) I received an order.
+
+**Sentence 2**
+(ko) 그 명령은 너무 어려워요.
+(ja) その命令は難しすぎます。
+(en) That order is too difficult.
+
+**Sentence 3**
+(ko) 명령을 따랐어요.
+(ja) 命令に従いました。
+(en) I followed the command.
+
+---
+## === 지시 ===
+
+**Sentence 1**
+(ko) 지시를 잘 따랐어요.
+(ja) 指示をよく守りました。
+(en) I followed the instructions well.
+
+**Sentence 2**
+(ko) 선생님의 지시를 들어요.
+(ja) 先生の指示を聞きます。
+(en) I listen to the teacher's instructions.
+
+**Sentence 3**
+(ko) 지시가 명확했어요.
+(ja) 指示が明確でした。
+(en) The instructions were clear.
+
+---
+## === 허락 ===
+
+**Sentence 1**
+(ko) 허락을 받았어요.
+(ja) 許可をもらいました。
+(en) I received permission.
+
+**Sentence 2**
+(ko) 부모님께 허락을 구했어요.
+(ja) 両親に許可を求めました。
+(en) I asked my parents for permission.
+
+**Sentence 3**
+(ko) 허락 없이 들어가면 안 돼요.
+(ja) 許可なしに入ってはいけません。
+(en) You must not enter without permission.
+
+---
+## === 승낙 ===
+
+**Sentence 1**
+(ko) 그는 승낙했어요.
+(ja) 彼は承諾しました。
+(en) He consented.
+
+**Sentence 2**
+(ko) 승낙을 받았어요.
+(ja) 承諾を得ました。
+(en) I received consent.
+
+**Sentence 3**
+(ko) 기꺼이 승낙했어요.
+(ja) 喜んで承諾しました。
+(en) I gladly consented.
+
+---
+## === 거절 ===
+
+**Sentence 1**
+(ko) 초대를 거절했어요.
+(ja) 招待を断りました。
+(en) I declined the invitation.
+
+**Sentence 2**
+(ko) 거절할 수 없었어요.
+(ja) 断れませんでした。
+(en) I couldn't refuse.
+
+**Sentence 3**
+(ko) 정중하게 거절했어요.
+(ja) 丁寧に断りました。
+(en) I politely refused.
+
+---
+## === 약속 ===
+
+**Sentence 1**
+(ko) 약속이 있어요.
+(ja) 約束があります。
+(en) I have a promise.
+
+**Sentence 2**
+(ko) 약속을 지켰어요.
+(ja) 約束を守りました。
+(en) I kept the promise.
+
+**Sentence 3**
+(ko) 약속 시간에 늦었어요.
+(ja) 約束の時間に遅れました。
+(en) I was late for the appointment.
+
+---
+## === 계약 ===
+
+**Sentence 1**
+(ko) 계약을 했어요.
+(ja) 契約をしました。
+(en) I made a contract.
+
+**Sentence 2**
+(ko) 계약서에 서명했어요.
+(ja) 契約書に署名しました。
+(en) I signed the contract.
+
+**Sentence 3**
+(ko) 계약 기간이 1년이에요.
+(ja) 契約期間は1年です。
+(en) The contract period is one year.
+
+---
+## === 서약 ===
+
+**Sentence 1**
+(ko) 서약을 했어요.
+(ja) 誓約をしました。
+(en) I made a pledge.
+
+**Sentence 2**
+(ko) 그 서약을 지켜야 해요.
+(ja) その誓約を守らなければなりません。
+(en) I must keep that pledge.
+
+**Sentence 3**
+(ko) 서약서를 썼어요.
+(ja) 誓約書を書きました。
+(en) I wrote a pledge document.
+
+---
+## === 선서 ===
+
+**Sentence 1**
+(ko) 법정에서 선서했어요.
+(ja) 法廷で宣誓しました。
+(en) I took an oath in court.
+
+**Sentence 2**
+(ko) 선서를 했어요.
+(ja) 宣誓をしました。
+(en) I took an oath.
+
+**Sentence 3**
+(ko) 선서를 할게요.
+(ja) 宣誓します。
+(en) I will take an oath.
+
+---
+## === 증인 ===
+
+**Sentence 1**
+(ko) 증인이 됐어요.
+(ja) 証人になりました。
+(en) I became a witness.
+
+**Sentence 2**
+(ko) 증인이 증언했어요.
+(ja) 証人が証言しました。
+(en) The witness testified.
+
+**Sentence 3**
+(ko) 증인이 필요해요.
+(ja) 証人が必要です。
+(en) A witness is needed.
+
+---
+## === 증거 ===
+
+**Sentence 1**
+(ko) 증거가 있어요.
+(ja) 証拠があります。
+(en) There is evidence.
+
+**Sentence 2**
+(ko) 증거를 찾았어요.
+(ja) 証拠を見つけました。
+(en) I found evidence.
+
+**Sentence 3**
+(ko) 증거가 부족해요.
+(ja) 証拠が足りません。
+(en) There isn't enough evidence.
+
+---
+## === 증명 ===
+
+**Sentence 1**
+(ko) 그걸 증명할 수 있어요?
+(ja) それを証明できますか？
+(en) Can you prove that?
+
+**Sentence 2**
+(ko) 증명이 필요해요.
+(ja) 証明が必要です。
+(en) Proof is needed.
+
+**Sentence 3**
+(ko) 그 이론을 증명했어요.
+(ja) その理論を証明しました。
+(en) I proved that theory.
+
+---
+## === 확인 ===
+
+**Sentence 1**
+(ko) 확인했어요.
+(ja) 確認しました。
+(en) I confirmed it.
+
+**Sentence 2**
+(ko) 이메일을 확인해 주세요.
+(ja) メールを確認してください。
+(en) Please check the email.
+
+**Sentence 3**
+(ko) 날짜를 확인해야 해요.
+(ja) 日付を確認しないといけません。
+(en) I need to check the date.
+
+---
+## === 인정 ===
+
+**Sentence 1**
+(ko) 실수를 인정했어요.
+(ja) ミスを認めました。
+(en) I admitted my mistake.
+
+**Sentence 2**
+(ko) 그 사람을 인정해요.
+(ja) その人を認めています。
+(en) I recognize that person.
+
+**Sentence 3**
+(ko) 인정하기 어려워요.
+(ja) 認めるのが難しいです。
+(en) It's hard to admit.
+
+---
+## === 승인 ===
+
+**Sentence 1**
+(ko) 승인이 필요해요.
+(ja) 承認が必要です。
+(en) Approval is needed.
+
+**Sentence 2**
+(ko) 이 서류는 승인을 받아야 해요.
+(ja) この書類は承認をもらわないといけません。
+(en) This document needs approval.
+
+**Sentence 3**
+(ko) 승인을 기다리고 있어요.
+(ja) 承認を待っています。
+(en) I'm waiting for approval.
+
+---
+## === 허가 ===
+
+**Sentence 1**
+(ko) 허가를 받았어요.
+(ja) 許可を得ました。
+(en) I received permission.
+
+**Sentence 2**
+(ko) 허가 없이 들어갈 수 없어요.
+(ja) 許可なく入ることができません。
+(en) You cannot enter without permission.
+
+**Sentence 3**
+(ko) 건축 허가가 필요해요.
+(ja) 建築許可が必要です。
+(en) A building permit is needed.
+
+---
+## === 금지 ===
+
+**Sentence 1**
+(ko) 여기서는 흡연이 금지예요.
+(ja) ここでは喫煙禁止です。
+(en) Smoking is prohibited here.
+
+**Sentence 2**
+(ko) 금지되어 있어요.
+(ja) 禁止されています。
+(en) It's forbidden.
+
+**Sentence 3**
+(ko) 주차 금지 구역이에요.
+(ja) 駐車禁止区域です。
+(en) This is a no-parking zone.
+
+---
+## === 의무 ===
+
+**Sentence 1**
+(ko) 교육을 받을 의무가 있어요.
+(ja) 教育を受ける義務があります。
+(en) There is a duty to receive education.
+
+**Sentence 2**
+(ko) 그게 내 의무예요.
+(ja) それが私の義務です。
+(en) That's my duty.
+
+**Sentence 3**
+(ko) 의무를 다했어요.
+(ja) 義務を果たしました。
+(en) I fulfilled my duty.
+
+---
+## === 책임 ===
+
+**Sentence 1**
+(ko) 책임을 져야 해요.
+(ja) 責任を負わなければなりません。
+(en) I must take responsibility.
+
+**Sentence 2**
+(ko) 그건 네 책임이에요.
+(ja) それはあなたの責任です。
+(en) That's your responsibility.
+
+**Sentence 3**
+(ko) 책임감이 강해요.
+(ja) 責任感が強いです。
+(en) He has a strong sense of responsibility.
+
+---
+## === 권리 ===
+
+**Sentence 1**
+(ko) 권리가 있어요.
+(ja) 権利があります。
+(en) I have a right.
+
+**Sentence 2**
+(ko) 모든 사람에게 권리가 있어요.
+(ja) すべての人に権利があります。
+(en) Everyone has rights.
+
+**Sentence 3**
+(ko) 권리를 보호해야 해요.
+(ja) 権利を守らなければなりません。
+(en) We must protect rights.
+
+---
+## === 자유 ===
+
+**Sentence 1**
+(ko) 자유를 원해요.
+(ja) 自由を望みます。
+(en) I want freedom.
+
+**Sentence 2**
+(ko) 여기서는 자유롭게 말할 수 있어요.
+(ja) ここでは自由に話せます。
+(en) You can speak freely here.
+
+**Sentence 3**
+(ko) 자유가 중요해요.
+(ja) 自由は大切です。
+(en) Freedom is important.
+
+---
+## === 평등 ===
+
+**Sentence 1**
+(ko) 모든 사람은 평등해요.
+(ja) すべての人は平等です。
+(en) All people are equal.
+
+**Sentence 2**
+(ko) 평등이 중요해요.
+(ja) 平等は大切です。
+(en) Equality is important.
+
+**Sentence 3**
+(ko) 성평등에 대해 배웠어요.
+(ja) 性平等について学びました。
+(en) I learned about gender equality.
+
+---
+## === 인권 ===
+
+**Sentence 1**
+(ko) 인권을 존중해야 해요.
+(ja) 人権を尊重しなければなりません。
+(en) We must respect human rights.
+
+**Sentence 2**
+(ko) 인권 보호가 중요해요.
+(ja) 人権保護が大切です。
+(en) Protecting human rights is important.
+
+**Sentence 3**
+(ko) 인권에 대해 공부했어요.
+(ja) 人権について勉強しました。
+(en) I studied about human rights.
+
+---
+## === 복지 ===
+
+**Sentence 1**
+(ko) 복지 제도가 있어요.
+(ja) 福祉制度があります。
+(en) There is a welfare system.
+
+**Sentence 2**
+(ko) 노인 복지가 중요해요.
+(ja) 高齢者福祉が大切です。
+(en) Welfare for the elderly is important.
+
+**Sentence 3**
+(ko) 복지 정책이 좋아졌어요.
+(ja) 福祉政策がよくなりました。
+(en) Welfare policies have improved.
+
+---
+## === 정의 ===
+
+**Sentence 1**
+(ko) 정의가 뭐예요?
+(ja) 正義とは何ですか？
+(en) What is justice?
+
+**Sentence 2**
+(ko) 정의를 위해 싸웠어요.
+(ja) 正義のために戦いました。
+(en) I fought for justice.
+
+**Sentence 3**
+(ko) 정의로운 사회를 원해요.
+(ja) 正義のある社会を望みます。
+(en) I want a just society.
+
+---
+## === 진실 ===
+
+**Sentence 1**
+(ko) 진실을 말해요.
+(ja) 真実を言います。
+(en) Tell the truth.
+
+**Sentence 2**
+(ko) 진실을 알고 있어요?
+(ja) 真実を知っていますか？
+(en) Do you know the truth?
+
+**Sentence 3**
+(ko) 진실이 밝혀졌어요.
+(ja) 真実が明らかになりました。
+(en) The truth came out.
+
+---
+## === 거짓 ===
+
+**Sentence 1**
+(ko) 거짓말하지 마세요.
+(ja) 嘘をつかないでください。
+(en) Don't lie.
+
+**Sentence 2**
+(ko) 그건 거짓이에요.
+(ja) それは嘘です。
+(en) That's a lie.
+
+**Sentence 3**
+(ko) 거짓을 말하면 안 돼요.
+(ja) 嘘を言ってはいけません。
+(en) You must not tell lies.
+
+---
+## === 사실 ===
+
+**Sentence 1**
+(ko) 사실을 말할게요.
+(ja) 事実を言います。
+(en) I'll tell the truth.
+
+**Sentence 2**
+(ko) 그게 사실이에요?
+(ja) それが事実ですか？
+(en) Is that a fact?
+
+**Sentence 3**
+(ko) 사실이에요.
+(ja) 事実です。
+(en) It's a fact.
+
+---
+## === 주장 ===
+
+**Sentence 1**
+(ko) 그건 제 주장이에요.
+(ja) それは私の主張です。
+(en) That's my claim.
+
+**Sentence 2**
+(ko) 자신의 주장을 말했어요.
+(ja) 自分の主張を言いました。
+(en) I stated my claim.
+
+**Sentence 3**
+(ko) 주장을 증명해야 해요.
+(ja) 主張を証明しなければなりません。
+(en) You must prove your claim.
+
+---
+## === 논리 ===
+
+**Sentence 1**
+(ko) 논리가 이상해요.
+(ja) 論理がおかしいです。
+(en) The logic is strange.
+
+**Sentence 2**
+(ko) 논리적으로 생각해야 해요.
+(ja) 論理的に考えなければなりません。
+(en) I need to think logically.
+
+**Sentence 3**
+(ko) 그 논리를 이해했어요.
+(ja) その論理を理解しました。
+(en) I understood that logic.
+
+---
+## === 논쟁 ===
+
+**Sentence 1**
+(ko) 논쟁을 했어요.
+(ja) 論争をしました。
+(en) I had a debate.
+
+**Sentence 2**
+(ko) 그 논쟁은 길었어요.
+(ja) その論争は長かったです。
+(en) That debate was long.
+
+**Sentence 3**
+(ko) 논쟁하지 마세요.
+(ja) 論争しないでください。
+(en) Don't argue.
+
+---
+## === 토론 ===
+
+**Sentence 1**
+(ko) 토론에 참여했어요.
+(ja) 討論に参加しました。
+(en) I participated in a discussion.
+
+**Sentence 2**
+(ko) 토론이 재미있었어요.
+(ja) 討論が面白かったです。
+(en) The discussion was interesting.
+
+**Sentence 3**
+(ko) 토론 주제가 뭐예요?
+(ja) 討論のテーマは何ですか？
+(en) What's the discussion topic?
+
+---
+## === 토의 ===
+
+**Sentence 1**
+(ko) 팀원들과 토의했어요.
+(ja) チームメンバーと話し合いました。
+(en) I discussed with team members.
+
+**Sentence 2**
+(ko) 토의 시간이 짧았어요.
+(ja) 話し合いの時間が短かったです。
+(en) The discussion time was short.
+
+**Sentence 3**
+(ko) 토의를 마쳤어요.
+(ja) 話し合いを終えました。
+(en) We finished the discussion.
+
+---
+## === 회의 ===
+
+**Sentence 1**
+(ko) 회의가 있어요.
+(ja) 会議があります。
+(en) I have a meeting.
+
+**Sentence 2**
+(ko) 회의에 늦었어요.
+(ja) 会議に遅れました。
+(en) I was late for the meeting.
+
+**Sentence 3**
+(ko) 회의가 길었어요.
+(ja) 会議が長かったです。
+(en) The meeting was long.
+
+---
+## === 협의 ===
+
+**Sentence 1**
+(ko) 협의를 했어요.
+(ja) 協議をしました。
+(en) We had a consultation.
+
+**Sentence 2**
+(ko) 협의 후에 결정할게요.
+(ja) 協議の後に決めます。
+(en) We'll decide after consultation.
+
+**Sentence 3**
+(ko) 협의가 필요해요.
+(ja) 協議が必要です。
+(en) Consultation is needed.
+
+---
+## === 상담 ===
+
+**Sentence 1**
+(ko) 상담을 받았어요.
+(ja) 相談を受けました。
+(en) I received counseling.
+
+**Sentence 2**
+(ko) 전문가와 상담했어요.
+(ja) 専門家と相談しました。
+(en) I consulted with an expert.
+
+**Sentence 3**
+(ko) 상담 예약을 했어요.
+(ja) 相談の予約をしました。
+(en) I made a counseling appointment.
+
+---
+## === 면담 ===
+
+**Sentence 1**
+(ko) 면담을 신청했어요.
+(ja) 面談を申し込みました。
+(en) I applied for an interview.
+
+**Sentence 2**
+(ko) 선생님과 면담이 있어요.
+(ja) 先生と面談があります。
+(en) I have an interview with the teacher.
+
+**Sentence 3**
+(ko) 면담 시간이 정해졌어요.
+(ja) 面談の時間が決まりました。
+(en) The interview time was set.
+
+---
+## === 대화 ===
+
+**Sentence 1**
+(ko) 대화를 나누고 있어요.
+(ja) 会話をしています。
+(en) I'm having a conversation.
+
+**Sentence 2**
+(ko) 대화가 즐거웠어요.
+(ja) 会話が楽しかったです。
+(en) The conversation was enjoyable.
+
+**Sentence 3**
+(ko) 한국어로 대화하고 싶어요.
+(ja) 韓国語で会話したいです。
+(en) I want to converse in Korean.
+
+---
+## === 담화 ===
+
+**Sentence 1**
+(ko) 대통령의 담화를 들었어요.
+(ja) 大統領の談話を聞きました。
+(en) I heard the president's discourse.
+
+**Sentence 2**
+(ko) 그 담화가 유명해요.
+(ja) その談話は有名です。
+(en) That speech is famous.
+
+**Sentence 3**
+(ko) 담화 내용을 정리했어요.
+(ja) 談話の内容を整理しました。
+(en) I summarized the discourse.
+
+---
+## === 연설 ===
+
+**Sentence 1**
+(ko) 연설을 준비했어요.
+(ja) 演説を準備しました。
+(en) I prepared a speech.
+
+**Sentence 2**
+(ko) 연설이 감동적이었어요.
+(ja) 演説が感動的でした。
+(en) The speech was moving.
+
+**Sentence 3**
+(ko) 연설을 잘했어요.
+(ja) 演説が上手でした。
+(en) The speech was good.
+
+---
+## === 강연 ===
+
+**Sentence 1**
+(ko) 강연을 들었어요.
+(ja) 講演を聞きました。
+(en) I listened to a lecture.
+
+**Sentence 2**
+(ko) 강연이 재미있었어요.
+(ja) 講演が面白かったです。
+(en) The lecture was interesting.
+
+**Sentence 3**
+(ko) 강연자분이 유명해요.
+(ja) 講演者の方が有名です。
+(en) The lecturer is famous.
+
+---
+## === 발표 ===
+
+**Sentence 1**
+(ko) 발표를 준비했어요.
+(ja) 発表を準備しました。
+(en) I prepared a presentation.
+
+**Sentence 2**
+(ko) 앞에서 발표했어요.
+(ja) 前で発表しました。
+(en) I presented in front of everyone.
+
+**Sentence 3**
+(ko) 발표가 성공적이었어요.
+(ja) 発表が成功しました。
+(en) The presentation was successful.
+
+---
+## === 프레젠테이션 ===
+
+**Sentence 1**
+(ko) 프레젠테이션을 준비하고 있어요.
+(ja) プレゼンテーションを準備しています。
+(en) I'm preparing a presentation.
+
+**Sentence 2**
+(ko) 프레젠테이션 자료를 만들었어요.
+(ja) プレゼン資料を作りました。
+(en) I made presentation materials.
+
+**Sentence 3**
+(ko) 프레젠테이션이 길었어요.
+(ja) プレゼンテーションが長かったです。
+(en) The presentation was long.
+
+---
+## === 보고 ===
+
+**Sentence 1**
+(ko) 보고를 마쳤어요.
+(ja) 報告を終えました。
+(en) I finished the report.
+
+**Sentence 2**
+(ko) 결과를 보고했어요.
+(ja) 結果を報告しました。
+(en) I reported the results.
+
+**Sentence 3**
+(ko) 보고할 것이 있어요.
+(ja) 報告することがあります。
+(en) I have something to report.
+
+---
+## === 보고서 ===
+
+**Sentence 1**
+(ko) 보고서를 쓰고 있어요.
+(ja) 報告書を書いています。
+(en) I'm writing a report.
+
+**Sentence 2**
+(ko) 보고서가 복잡해요.
+(ja) 報告書が複雑です。
+(en) The report is complicated.
+
+**Sentence 3**
+(ko) 보고서를 제출했어요.
+(ja) 報告書を提出しました。
+(en) I submitted the report.
+
+---
+## === 서류 ===
+
+**Sentence 1**
+(ko) 서류를 준비했어요.
+(ja) 書類を準備しました。
+(en) I prepared the documents.
+
+**Sentence 2**
+(ko) 서류를 확인해 주세요.
+(ja) 書類を確認してください。
+(en) Please check the documents.
+
+**Sentence 3**
+(ko) 서류가 많아요.
+(ja) 書類が多いです。
+(en) There are many documents.
+
+---
+## === 문서 ===
+
+**Sentence 1**
+(ko) 이 문서를 읽었어요?
+(ja) この文書を読みましたか？
+(en) Did you read this document?
+
+**Sentence 2**
+(ko) 문서를 저장했어요.
+(ja) 文書を保存しました。
+(en) I saved the document.
+
+**Sentence 3**
+(ko) 문서가 중요해요.
+(ja) 文書が大切です。
+(en) The document is important.
+
+---
+## === 서식 ===
+
+**Sentence 1**
+(ko) 서식을 작성했어요.
+(ja) 書式を作成しました。
+(en) I filled out the form.
+
+**Sentence 2**
+(ko) 지원 서식을 다운로드했어요.
+(ja) 応募書式をダウンロードしました。
+(en) I downloaded the application form.
+
+**Sentence 3**
+(ko) 서식을 출력해 주세요.
+(ja) 書式を印刷してください。
+(en) Please print the form.
+
+---
+## === 양식 ===
+
+**Sentence 1**
+(ko) 신청 양식을 썼어요.
+(ja) 申込用紙を書きました。
+(en) I wrote the application form.
+
+**Sentence 2**
+(ko) 양식을 받았어요?
+(ja) 用紙をもらいましたか？
+(en) Did you receive the form?
+
+**Sentence 3**
+(ko) 양식에 이름을 적었어요.
+(ja) 用紙に名前を書きました。
+(en) I wrote my name on the form.
+
+---
+## === 신청 ===
+
+**Sentence 1**
+(ko) 신청을 했어요.
+(ja) 申し込みをしました。
+(en) I applied.
+
+**Sentence 2**
+(ko) 온라인으로 신청할 수 있어요.
+(ja) オンラインで申し込めます。
+(en) You can apply online.
+
+**Sentence 3**
+(ko) 신청 마감이 내일이에요.
+(ja) 申込締切は明日です。
+(en) The application deadline is tomorrow.
+
+---
+## === 신청서 ===
+
+**Sentence 1**
+(ko) 신청서를 냈어요.
+(ja) 申込書を出しました。
+(en) I submitted the application form.
+
+**Sentence 2**
+(ko) 신청서를 작성했어요.
+(ja) 申込書を作成しました。
+(en) I filled out the application form.
+
+**Sentence 3**
+(ko) 신청서에 서명했어요.
+(ja) 申込書に署名しました。
+(en) I signed the application form.
+
+---
+## === 계약서 ===
+
+**Sentence 1**
+(ko) 계약서를 읽었어요.
+(ja) 契約書を読みました。
+(en) I read the contract.
+
+**Sentence 2**
+(ko) 계약서에 서명했어요.
+(ja) 契約書に署名しました。
+(en) I signed the contract.
+
+**Sentence 3**
+(ko) 계약서를 두 개 만들었어요.
+(ja) 契約書を2通作りました。
+(en) I made two copies of the contract.
+
+---
+## === 영수증 ===
+
+**Sentence 1**
+(ko) 영수증을 받았어요.
+(ja) 領収書をもらいました。
+(en) I received a receipt.
+
+**Sentence 2**
+(ko) 영수증이 필요해요?
+(ja) 領収書が必要ですか？
+(en) Do you need a receipt?
+
+**Sentence 3**
+(ko) 영수증을 보관해야 해요.
+(ja) 領収書を保管しなければなりません。
+(en) I need to keep the receipt.
+
+---
+## === 증명서 ===
+
+**Sentence 1**
+(ko) 증명서를 발급받았어요.
+(ja) 証明書を発行してもらいました。
+(en) I got a certificate issued.
+
+**Sentence 2**
+(ko) 졸업 증명서가 필요해요.
+(ja) 卒業証明書が必要です。
+(en) I need a graduation certificate.
+
+**Sentence 3**
+(ko) 증명서를 제출했어요.
+(ja) 証明書を提出しました。
+(en) I submitted the certificate.
+
+---
+## === 자격증 ===
+
+**Sentence 1**
+(ko) 자격증을 땄어요.
+(ja) 資格証を取りました。
+(en) I got a certificate.
+
+**Sentence 2**
+(ko) 자격증 시험을 봤어요.
+(ja) 資格証の試験を受けました。
+(en) I took the certification exam.
+
+**Sentence 3**
+(ko) 이 자격증이 유용해요.
+(ja) この資格証は役に立ちます。
+(en) This certificate is useful.
+
+---
+## === 면허증 ===
+
+**Sentence 1**
+(ko) 운전 면허증이 있어요.
+(ja) 運転免許証があります。
+(en) I have a driver's license.
+
+**Sentence 2**
+(ko) 면허증을 잃어버렸어요.
+(ja) 免許証をなくしました。
+(en) I lost my license.
+
+**Sentence 3**
+(ko) 면허증을 갱신했어요.
+(ja) 免許証を更新しました。
+(en) I renewed my license.
+
+---
+## === 여권 ===
+
+**Sentence 1**
+(ko) 여권을 만들었어요.
+(ja) パスポートを作りました。
+(en) I got a passport.
+
+**Sentence 2**
+(ko) 여권을 보여주세요.
+(ja) パスポートを見せてください。
+(en) Please show me your passport.
+
+**Sentence 3**
+(ko) 여권이 만료됐어요.
+(ja) パスポートが切れました。
+(en) My passport expired.
+
+---
+## === 비자 ===
+
+**Sentence 1**
+(ko) 비자를 신청했어요.
+(ja) ビザを申請しました。
+(en) I applied for a visa.
+
+**Sentence 2**
+(ko) 비자가 필요해요.
+(ja) ビザが必要です。
+(en) I need a visa.
+
+**Sentence 3**
+(ko) 비자를 받았어요.
+(ja) ビザをもらいました。
+(en) I received a visa.
+
+---
+## === 신분증 ===
+
+**Sentence 1**
+(ko) 신분증을 가지고 있어요?
+(ja) 身分証を持っていますか？
+(en) Do you have an ID card?
+
+**Sentence 2**
+(ko) 신분증을 보여주세요.
+(ja) 身分証を見せてください。
+(en) Please show your ID.
+
+**Sentence 3**
+(ko) 신분증을 잃어버렸어요.
+(ja) 身分証をなくしました。
+(en) I lost my ID card.
+
+---
+## === 주민등록증 ===
+
+**Sentence 1**
+(ko) 주민등록증을 보여주세요.
+(ja) 住民登録証を見せてください。
+(en) Please show your resident registration card.
+
+**Sentence 2**
+(ko) 주민등록증이 있어요?
+(ja) 住民登録証はありますか？
+(en) Do you have a resident registration card?
+
+**Sentence 3**
+(ko) 주민등록증을 발급받았어요.
+(ja) 住民登録証を発行してもらいました。
+(en) I got a resident registration card issued.
+
+---
+## === 운전면허증 ===
+
+**Sentence 1**
+(ko) 운전면허증 시험을 봤어요.
+(ja) 運転免許証の試験を受けました。
+(en) I took the driver's license test.
+
+**Sentence 2**
+(ko) 운전면허증이 필요해요.
+(ja) 運転免許証が必要です。
+(en) I need a driver's license.
+
+**Sentence 3**
+(ko) 운전면허증을 따고 싶어요.
+(ja) 運転免許証を取得したいです。
+(en) I want to get a driver's license.
+
+---
+## === 학생증 ===
+
+**Sentence 1**
+(ko) 학생증을 보여주세요.
+(ja) 学生証を見せてください。
+(en) Please show your student ID.
+
+**Sentence 2**
+(ko) 학생증으로 할인받았어요.
+(ja) 学生証で割引を受けました。
+(en) I got a discount with my student ID.
+
+**Sentence 3**
+(ko) 학생증을 만들었어요.
+(ja) 学生証を作りました。
+(en) I made a student ID.
+
+---
+## === 명함 ===
+
+**Sentence 1**
+(ko) 명함을 교환했어요.
+(ja) 名刺を交換しました。
+(en) We exchanged business cards.
+
+**Sentence 2**
+(ko) 명함을 주세요.
+(ja) 名刺をください。
+(en) Please give me your business card.
+
+**Sentence 3**
+(ko) 명함을 잃어버렸어요.
+(ja) 名刺をなくしました。
+(en) I lost my business card.
+
+---
+## === 카드 ===
+
+**Sentence 1**
+(ko) 카드를 보여주세요.
+(ja) カードを見せてください。
+(en) Please show me your card.
+
+**Sentence 2**
+(ko) 카드로 계산했어요.
+(ja) カードで支払いました。
+(en) I paid by card.
+
+**Sentence 3**
+(ko) 카드를 잃어버렸어요.
+(ja) カードをなくしました。
+(en) I lost my card.
+
+---
+## === 열쇠 ===
+
+**Sentence 1**
+(ko) 열쇠를 잃어버렸어요.
+(ja) 鍵をなくしました。
+(en) I lost my key.
+
+**Sentence 2**
+(ko) 열쇠가 없어요.
+(ja) 鍵がありません。
+(en) I don't have the key.
+
+**Sentence 3**
+(ko) 열쇠를 찾았어요.
+(ja) 鍵を見つけました。
+(en) I found the key.
+
+---
+## === 접수 ===
+
+**Sentence 1**
+(ko) 접수를 했어요.
+(ja) 受付をしました。
+(en) I did the reception.
+
+**Sentence 2**
+(ko) 오늘부터 접수 시작이에요.
+(ja) 今日から受付開始です。
+(en) Registration starts today.
+
+**Sentence 3**
+(ko) 접수 마감이 언제예요?
+(ja) 受付締切はいつですか？
+(en) When is the registration deadline?
+
+---
+## === 심사 ===
+
+**Sentence 1**
+(ko) 심사 중이에요.
+(ja) 審査中です。
+(en) It's under review.
+
+**Sentence 2**
+(ko) 심사 결과가 나왔어요.
+(ja) 審査結果が出ました。
+(en) The screening results came out.
+
+**Sentence 3**
+(ko) 심사가 까다로웠어요.
+(ja) 審査が厳しかったです。
+(en) The screening was strict.
+
+---
+## === 선정 ===
+
+**Sentence 1**
+(ko) 그가 선정됐어요.
+(ja) 彼が選定されました。
+(en) He was selected.
+
+**Sentence 2**
+(ko) 최종 선정 발표가 있었어요.
+(ja) 最終選定発表がありました。
+(en) There was a final selection announcement.
+
+**Sentence 3**
+(ko) 선정 기준이 뭐예요?
+(ja) 選定基準は何ですか？
+(en) What's the selection criteria?
+
+---
+## === 통보 ===
+
+**Sentence 1**
+(ko) 결과를 통보받았어요.
+(ja) 結果を通知されました。
+(en) I was notified of the result.
+
+**Sentence 2**
+(ko) 통보가 늦었어요.
+(ja) 通知が遅かったです。
+(en) The notification was late.
+
+**Sentence 3**
+(ko) 이메일로 통보했어요.
+(ja) メールで通知しました。
+(en) I notified via email.
+
+---
+## === 통지 ===
+
+**Sentence 1**
+(ko) 통지를 받았어요.
+(ja) 通知を受けました。
+(en) I received a notice.
+
+**Sentence 2**
+(ko) 통지서가 왔어요.
+(ja) 通知書が来ました。
+(en) The notice arrived.
+
+**Sentence 3**
+(ko) 미리 통지해 주세요.
+(ja) 前もって通知してください。
+(en) Please notify me in advance.
+
+---
+## === 연락 ===
+
+**Sentence 1**
+(ko) 연락할게요.
+(ja) 連絡します。
+(en) I'll contact you.
+
+**Sentence 2**
+(ko) 연락을 기다리고 있어요.
+(ja) 連絡を待っています。
+(en) I'm waiting for contact.
+
+**Sentence 3**
+(ko) 나중에 연락해 주세요.
+(ja) 後で連絡してください。
+(en) Please contact me later.
+
+---
+## === 소식 ===
+
+**Sentence 1**
+(ko) 좋은 소식이 있어요!
+(ja) いい知らせがあります！
+(en) I have good news!
+
+**Sentence 2**
+(ko) 소식을 들었어요?
+(ja) 知らせを聞きましたか？
+(en) Did you hear the news?
+
+**Sentence 3**
+(ko) 소식을 기다리고 있어요.
+(ja) 知らせを待っています。
+(en) I'm waiting for news.
+
+---
+## === 정보 ===
+
+**Sentence 1**
+(ko) 정보를 찾고 있어요.
+(ja) 情報を探しています。
+(en) I'm looking for information.
+
+**Sentence 2**
+(ko) 이 정보가 유용해요.
+(ja) この情報は役に立ちます。
+(en) This information is useful.
+
+**Sentence 3**
+(ko) 정보를 알려주세요.
+(ja) 情報を教えてください。
+(en) Please give me information.
+
+---
+## === 안내 ===
+
+**Sentence 1**
+(ko) 안내문을 읽었어요.
+(ja) 案内文を読みました。
+(en) I read the guidance.
+
+**Sentence 2**
+(ko) 안내해 주세요.
+(ja) 案内してください。
+(en) Please guide me.
+
+**Sentence 3**
+(ko) 안내가 부족했어요.
+(ja) 案内が足りませんでした。
+(en) The guidance was insufficient.
+
+---
+## === 광고 ===
+
+**Sentence 1**
+(ko) 광고를 봤어요.
+(ja) 広告を見ました。
+(en) I saw an advertisement.
+
+**Sentence 2**
+(ko) 이 광고가 재미있어요.
+(ja) この広告は面白いです。
+(en) This ad is interesting.
+
+**Sentence 3**
+(ko) 광고를 만들었어요.
+(ja) 広告を作りました。
+(en) I made an advertisement.
+
+---
+## === 홍보 ===
+
+**Sentence 1**
+(ko) 홍보 자료를 준비했어요.
+(ja) 広報資料を準備しました。
+(en) I prepared publicity materials.
+
+**Sentence 2**
+(ko) 제품을 홍보하고 있어요.
+(ja) 製品を宣伝しています。
+(en) I'm promoting a product.
+
+**Sentence 3**
+(ko) 홍보가 중요해요.
+(ja) 広報が大切です。
+(en) Publicity is important.
+
+---
+## === 마케팅 ===
+
+**Sentence 1**
+(ko) 마케팅 전략을 세웠어요.
+(ja) マーケティング戦略を立てました。
+(en) I set a marketing strategy.
+
+**Sentence 2**
+(ko) 마케팅 팀이 일하고 있어요.
+(ja) マーケティングチームが働いています。
+(en) The marketing team is working.
+
+**Sentence 3**
+(ko) 마케팅을 배우고 있어요.
+(ja) マーケティングを勉強しています。
+(en) I'm learning marketing.
+
+---
+## === 판매 ===
+
+**Sentence 1**
+(ko) 판매가 잘됐어요.
+(ja) 販売が好調でした。
+(en) Sales went well.
+
+**Sentence 2**
+(ko) 온라인으로 판매해요.
+(ja) オンラインで販売します。
+(en) I sell online.
+
+**Sentence 3**
+(ko) 판매 가격이 얼마예요?
+(ja) 販売価格はいくらですか？
+(en) What's the selling price?
+
+---
+## === 구매 ===
+
+**Sentence 1**
+(ko) 구매를 확정했어요.
+(ja) 購入を確定しました。
+(en) I confirmed the purchase.
+
+**Sentence 2**
+(ko) 온라인으로 구매했어요.
+(ja) オンラインで購入しました。
+(en) I purchased online.
+
+**Sentence 3**
+(ko) 구매해 주셔서 감사해요.
+(ja) ご購入ありがとうございます。
+(en) Thank you for your purchase.
+
+---
+## === 주문 ===
+
+**Sentence 1**
+(ko) 주문했어요.
+(ja) 注文しました。
+(en) I ordered.
+
+**Sentence 2**
+(ko) 주문하고 기다리고 있어요.
+(ja) 注文して待っています。
+(en) I ordered and I'm waiting.
+
+**Sentence 3**
+(ko) 주문을 취소했어요.
+(ja) 注文をキャンセルしました。
+(en) I canceled the order.
+
+---
+## === 예약 ===
+
+**Sentence 1**
+(ko) 예약했어요.
+(ja) 予約しました。
+(en) I made a reservation.
+
+**Sentence 2**
+(ko) 예약을 취소했어요.
+(ja) 予約をキャンセルしました。
+(en) I canceled the reservation.
+
+**Sentence 3**
+(ko) 예약을 확인해 주세요.
+(ja) 予約を確認してください。
+(en) Please confirm the reservation.
+
+---
+## === 취소 ===
+
+**Sentence 1**
+(ko) 취소했어요.
+(ja) キャンセルしました。
+(en) I canceled it.
+
+**Sentence 2**
+(ko) 주문을 취소하고 싶어요.
+(ja) 注文をキャンセルしたいです。
+(en) I want to cancel the order.
+
+**Sentence 3**
+(ko) 취소 수수료가 있어요?
+(ja) キャンセル料はありますか？
+(en) Is there a cancellation fee?
+
+---
+## === 변경 ===
+
+**Sentence 1**
+(ko) 예약을 변경했어요.
+(ja) 予約を変更しました。
+(en) I changed the reservation.
+
+**Sentence 2**
+(ko) 변경할 수 있어요?
+(ja) 変更できますか？
+(en) Can I change it?
+
+**Sentence 3**
+(ko) 계획을 변경했어요.
+(ja) 計画を変更しました。
+(en) I changed the plan.
+
+---
+## === 환불 ===
+
+**Sentence 1**
+(ko) 환불하고 싶어요.
+(ja) 返金してほしいです。
+(en) I want a refund.
+
+**Sentence 2**
+(ko) 환불을 받았어요.
+(ja) 返金を受けました。
+(en) I received a refund.
+
+**Sentence 3**
+(ko) 환불 정책이 뭐예요?
+(ja) 返金ポリシーは何ですか？
+(en) What's the refund policy?
+
+---
+## === 교환 ===
+
+**Sentence 1**
+(ko) 교환하고 싶어요.
+(ja) 交換したいです。
+(en) I want an exchange.
+
+**Sentence 2**
+(ko) 다른 사이즈로 교환해 주세요.
+(ja) 違うサイズに交換してください。
+(en) Please exchange it for a different size.
+
+**Sentence 3**
+(ko) 교환이 가능해요?
+(ja) 交換は可能ですか？
+(en) Is an exchange possible?
+
+---
+## === 반품 ===
+
+**Sentence 1**
+(ko) 반품하고 싶어요.
+(ja) 返品したいです。
+(en) I want a return.
+
+**Sentence 2**
+(ko) 반품 기간이 지났어요.
+(ja) 返品期間が過ぎました。
+(en) The return period has passed.
+
+**Sentence 3**
+(ko) 반품이 가능해요?
+(ja) 返品は可能ですか？
+(en) Is a return possible?
+
+---
+## === 배달 ===
+
+**Sentence 1**
+(ko) 배달됐어요.
+(ja) 配達されました。
+(en) It was delivered.
+
+**Sentence 2**
+(ko) 배달이 빨랐어요.
+(ja) 配達が早かったです。
+(en) The delivery was fast.
+
+**Sentence 3**
+(ko) 배달 주소를 알려주세요.
+(ja) 配達先を教えてください。
+(en) Please tell me the delivery address.
+
+---
+## === 택배 ===
+
+**Sentence 1**
+(ko) 택배가 왔어요.
+(ja) 宅配便が来ました。
+(en) The parcel arrived.
+
+**Sentence 2**
+(ko) 택배를 보냈어요.
+(ja) 宅配便を送りました。
+(en) I sent a parcel.
+
+**Sentence 3**
+(ko) 택배를 받았어요.
+(ja) 宅配便を受け取りました。
+(en) I received the parcel.
+
+---
+## === 운송 ===
+
+**Sentence 1**
+(ko) 운송이 완료됐어요.
+(ja) 運送が完了しました。
+(en) Transportation is complete.
+
+**Sentence 2**
+(ko) 운송 비용이 비싸요.
+(ja) 運送費用が高いです。
+(en) The shipping cost is expensive.
+
+**Sentence 3**
+(ko) 운송 회사를 선택했어요.
+(ja) 運送会社を選びました。
+(en) I chose a shipping company.
+
+---
+## === 수령 ===
+
+**Sentence 1**
+(ko) 제품을 수령했어요.
+(ja) 製品を受け取りました。
+(en) I received the product.
+
+**Sentence 2**
+(ko) 수령 장소가 어디예요?
+(ja) 受取場所はどこですか？
+(en) Where is the pickup location?
+
+**Sentence 3**
+(ko) 수령인 이름을 적어 주세요.
+(ja) 受取人氏名を書いてください。
+(en) Please write the recipient's name.
+
+---
+## === 인도 ===
+
+**Sentence 1**
+(ko) 물건을 인도했어요.
+(ja) 品物を引き渡しました。
+(en) I handed over the item.
+
+**Sentence 2**
+(ko) 상품 인도가 늦었어요.
+(ja) 商品の引き渡しが遅れました。
+(en) The delivery was late.
+
+**Sentence 3**
+(ko) 인도 장소를 정했어요.
+(ja) 引き渡し場所を決めました。
+(en) We decided on the handover location.
+
+---
+## === 보관 ===
+
+**Sentence 1**
+(ko) 여기에 보관했어요.
+(ja) ここに保管しました。
+(en) I stored it here.
+
+**Sentence 2**
+(ko) 귀중품을 보관해 주세요.
+(ja) 貴重品を保管してください。
+(en) Please store the valuables.
+
+**Sentence 3**
+(ko) 잘 보관해야 해요.
+(ja) よく保管しなければなりません。
+(en) I need to store it well.
+
+---
+## === 관리 ===
+
+**Sentence 1**
+(ko) 데이터를 관리하고 있어요.
+(ja) データを管理しています。
+(en) I'm managing the data.
+
+**Sentence 2**
+(ko) 건강 관리를 잘해요.
+(ja) 健康管理をちゃんとしています。
+(en) I take good care of my health.
+
+**Sentence 3**
+(ko) 돈 관리를 잘해야 해요.
+(ja) お金の管理をしっかりしないといけません。
+(en) I need to manage money well.
+
+---
+## === 유지 ===
+
+**Sentence 1**
+(ko) 체중을 유지하고 있어요.
+(ja) 体重を維持しています。
+(en) I'm maintaining my weight.
+
+**Sentence 2**
+(ko) 관계를 유지하는 게 중요해요.
+(ja) 関係を維持することが大切です。
+(en) Maintaining relationships is important.
+
+**Sentence 3**
+(ko) 이 상태를 유지해야 해요.
+(ja) この状態を維持しなければなりません。
+(en) We need to maintain this state.
+
+---
+## === 점검 ===
+
+**Sentence 1**
+(ko) 기계를 점검했어요.
+(ja) 機械を点検しました。
+(en) I inspected the machine.
+
+**Sentence 2**
+(ko) 점검이 필요해요.
+(ja) 点検が必要です。
+(en) An inspection is needed.
+
+**Sentence 3**
+(ko) 안전 점검을 해 주세요.
+(ja) 安全点検をしてください。
+(en) Please do a safety inspection.
+
+---
+## === 수리 ===
+
+**Sentence 1**
+(ko) 컴퓨터를 수리했어요.
+(ja) コンピュータを修理しました。
+(en) I repaired the computer.
+
+**Sentence 2**
+(ko) 수리하는 데 3일 걸렸어요.
+(ja) 修理に3日かかりました。
+(en) It took 3 days to repair.
+
+**Sentence 3**
+(ko) 수리 비용이 비싸요.
+(ja) 修理費用が高いです。
+(en) The repair cost is expensive.
+
+---
+## === 청소 ===
+
+**Sentence 1**
+(ko) 방을 청소했어요.
+(ja) 部屋を掃除しました。
+(en) I cleaned the room.
+
+**Sentence 2**
+(ko) 청소가 끝났어요.
+(ja) 掃除が終わりました。
+(en) The cleaning is done.
+
+**Sentence 3**
+(ko) 청소를 매일 해요.
+(ja) 掃除を毎日します。
+(en) I clean every day.
+
+---
+## === 정리 ===
+
+**Sentence 1**
+(ko) 책상을 정리했어요.
+(ja) 机を整理しました。
+(en) I organized the desk.
+
+**Sentence 2**
+(ko) 정리가 잘됐어요.
+(ja) 整理がよくできました。
+(en) The organization went well.
+
+**Sentence 3**
+(ko) 생각을 정리할 시간이 필요해요.
+(ja) 考えを整理する時間が必要です。
+(en) I need time to organize my thoughts.
+
+---
+## === 보수 ===
+
+**Sentence 1**
+(ko) 건물을 보수했어요.
+(ja) 建物を補修しました。
+(en) I repaired the building.
+
+**Sentence 2**
+(ko) 보수 공사가 진행 중이에요.
+(ja) 補修工事が進行中です。
+(en) Repair work is in progress.
+
+**Sentence 3**
+(ko) 정기적으로 보수해야 해요.
+(ja) 定期的に補修しないといけません。
+(en) We need to do regular maintenance.
+
+---

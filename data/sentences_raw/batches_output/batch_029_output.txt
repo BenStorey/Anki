@@ -1,0 +1,1189 @@
+# Korean Sentence Builder — Batch 29/32 (Finance & Real Estate)
+
+3 beginner-level sentences per word · 해요체 polite form · JA/EN translations
+
+---
+
+===경제|economy===
+
+(ko) 한국 경제가 점점 좋아지고 있어요.
+(ja) 韓国経済がだんだん良くなっています。
+(en) The Korean economy is getting better and better.
+
+(ko) 저는 경제 뉴스를 매일 봐요.
+(ja) 私は経済ニュースを毎日見ます。
+(en) I watch the economic news every day.
+
+(ko) 경제가 어려워서 다들 힘들어해요.
+(ja) 経済が厳しくてみんな大変そうです。
+(en) The economy is tough, so everyone is struggling.
+
+---
+
+===금융|finance===
+
+(ko) 금융 회사에서 일하고 싶어요.
+(ja) 金融会社で働きたいです。
+(en) I want to work at a financial company.
+
+(ko) 금융 상품에 대해 공부하고 있어요.
+(ja) 金融商品について勉強しています。
+(en) I'm studying about financial products.
+
+(ko) 요즘 금융 시장이 많이 변했어요.
+(ja) 最近金融市場が大きく変わりました。
+(en) The financial market has changed a lot these days.
+
+---
+
+===은행|bank===
+
+(ko) 은행에 돈을 찾으러 갔어요.
+(ja) 銀行にお金を引き出しに行きました。
+(en) I went to the bank to withdraw money.
+
+(ko) 은행 업무는 인터넷으로 볼 수 있어요.
+(ja) 銀行の手続きはインターネットでできます。
+(en) You can do banking online.
+
+(ko) 은행에서 적금을 들었어요.
+(ja) 銀行で積立預金を始めました。
+(en) I started an installment savings account at the bank.
+
+---
+
+===증권사|securities firm===
+
+(ko) 증권사에서 주식을 샀어요.
+(ja) 証券会社で株を買いました。
+(en) I bought stocks at a securities firm.
+
+(ko) 증권사 계좌를 만들고 싶어요.
+(ja) 証券会社の口座を作りたいです。
+(en) I want to open an account at a securities firm.
+
+(ko) 증권사 직원이 친절했어요.
+(ja) 証券会社の職員が親切でした。
+(en) The securities firm employee was kind.
+
+---
+
+===보험사|insurance company===
+
+(ko) 보험사에 전화해서 물어봤어요.
+(ja) 保険会社に電話して聞いてみました。
+(en) I called the insurance company to ask.
+
+(ko) 보험사마다 보험료가 달라요.
+(ja) 保険会社によって保険料が違います。
+(en) Insurance premiums differ by insurance company.
+
+(ko) 친구가 보험사에서 일해요.
+(ja) 友達が保険会社で働いています。
+(en) My friend works at an insurance company.
+
+---
+
+===카드사|credit card company===
+
+(ko) 카드사에서 포인트를 줬어요.
+(ja) カード会社からポイントをもらいました。
+(en) The credit card company gave me points.
+
+(ko) 카드사 혜택을 비교하고 있어요.
+(ja) カード会社の特典を比較しています。
+(en) I'm comparing credit card company benefits.
+
+(ko) 카드사에 연체했어요.
+(ja) カード会社に延滞しました。
+(en) I was late on my credit card payment.
+
+---
+
+===저축|savings===
+
+(ko) 저축하는 습관이 중요해요.
+(ja) 貯蓄する習慣が大事です。
+(en) The habit of saving is important.
+
+(ko) 매달 월급의 10%를 저축해요.
+(ja) 毎月給料の10％を貯蓄しています。
+(en) I save 10% of my salary every month.
+
+(ko) 저축 목표를 세웠어요.
+(ja) 貯蓄目標を立てました。
+(en) I set a savings goal.
+
+---
+
+===예금|deposit===
+
+(ko) 은행에 예금을 들었어요.
+(ja) 銀行に預金をしました。
+(en) I made a deposit at the bank.
+
+(ko) 예금 금리가 얼마예요?
+(ja) 預金金利はいくらですか？
+(en) What is the deposit interest rate?
+
+(ko) 예금은 안전한 편이에요.
+(ja) 預金は安全なほうです。
+(en) Deposits are relatively safe.
+
+---
+
+===적금|installment savings===
+
+(ko) 적금을 매달 30만 원 넣어요.
+(ja) 積立預金を毎月30万ウォン入れます。
+(en) I put 300,000 won into my installment savings every month.
+
+(ko) 적금 만기가 다음 달이에요.
+(ja) 積立預金の満期が来月です。
+(en) My installment savings matures next month.
+
+(ko) 적금을 들면 돈이 모여요.
+(ja) 積立預金をするとお金が貯まります。
+(en) If you start an installment savings, money accumulates.
+
+---
+
+===펀드|fund===
+
+(ko) 펀드에 투자하고 있어요.
+(ja) ファンドに投資しています。
+(en) I'm investing in a fund.
+
+(ko) 이 펀드는 수익률이 좋아요.
+(ja) このファンドは収益率が良いです。
+(en) This fund has a good return rate.
+
+(ko) 펀드는 전문가가 관리해요.
+(ja) ファンドは専門家が管理します。
+(en) A fund is managed by professionals.
+
+---
+
+===주식|stock===
+
+(ko) 주식을 처음 샀어요.
+(ja) 株を初めて買いました。
+(en) I bought stocks for the first time.
+
+(ko) 주식 가격이 올랐어요.
+(ja) 株価が上がりました。
+(en) The stock price went up.
+
+(ko) 주식 투자는 위험이 있어요.
+(ja) 株式投資はリスクがあります。
+(en) Stock investment has risks.
+
+---
+
+===채권|bond===
+
+(ko) 채권은 주식보다 안전해요.
+(ja) 債券は株より安全です。
+(en) Bonds are safer than stocks.
+
+(ko) 정부 채권에 투자했어요.
+(ja) 国債に投資しました。
+(en) I invested in government bonds.
+
+(ko) 채권 금리가 내렸어요.
+(ja) 債券金利が下がりました。
+(en) Bond interest rates went down.
+
+---
+
+===선물|futures===
+
+(ko) 선물 거래는 어려워요.
+(ja) 先物取引は難しいです。
+(en) Futures trading is difficult.
+
+(ko) 선물 시장은 변동이 커요.
+(ja) 先物市場は変動が大きいです。
+(en) The futures market is highly volatile.
+
+(ko) 선물 투자는 전문가에게 맞아요.
+(ja) 先物投資は専門家向けです。
+(en) Futures investment is for professionals.
+
+---
+
+===옵션|options===
+
+(ko) 옵션 거래는 위험해요.
+(ja) オプション取引は危険です。
+(en) Options trading is risky.
+
+(ko) 옵션에 대해 배우고 있어요.
+(ja) オプションについて学んでいます。
+(en) I'm learning about options.
+
+(ko) 옵션은 초보자에게 어려워요.
+(ja) オプションは初心者には難しいです。
+(en) Options are difficult for beginners.
+
+---
+
+===CMA|CMA===
+
+(ko) CMA 통장을 만들었어요.
+(ja) CMA口座を作りました。
+(en) I opened a CMA account.
+
+(ko) CMA는 예금보다 금리가 높아요.
+(ja) CMAは預金より金利が高いです。
+(en) CMA has a higher interest rate than deposits.
+
+(ko) CMA로 급여를 받고 있어요.
+(ja) CMAで給料を受け取っています。
+(en) I receive my salary through a CMA account.
+
+---
+
+===MMF|MMF===
+
+(ko) MMF에 돈을 넣어뒀어요.
+(ja) MMFにお金を入れてあります。
+(en) I put money in an MMF.
+
+(ko) MMF는 단기 자금 관리에 좋아요.
+(ja) MMFは短期資金管理に良いです。
+(en) MMF is good for short-term cash management.
+
+(ko) MMF 수익률이 괜찮아요.
+(ja) MMFの収益率がまあまあです。
+(en) The MMF yield is decent.
+
+---
+
+===ELS|ELS===
+
+(ko) ELS 상품에 가입했어요.
+(ja) ELS商品に加入しました。
+(en) I subscribed to an ELS product.
+
+(ko) ELS는 원금이 보장되지 않아요.
+(ja) ELSは元本が保証されていません。
+(en) ELS does not guarantee the principal.
+
+(ko) ELS 수익이 생각보다 좋았어요.
+(ja) ELSの収益が思ったより良かったです。
+(en) The ELS return was better than expected.
+
+---
+
+===ETF|ETF===
+
+(ko) ETF는 거래소에서 살 수 있어요.
+(ja) ETFは取引所で買えます。
+(en) You can buy ETFs on the exchange.
+
+(ko) ETF 한 주를 샀어요.
+(ja) ETFを1株買いました。
+(en) I bought one share of an ETF.
+
+(ko) ETF는 분산 투자에 좋아요.
+(ja) ETFは分散投資に良いです。
+(en) ETFs are good for diversification.
+
+---
+
+===리츠|REITs===
+
+(ko) 리츠에 투자하고 있어요.
+(ja) REITに投資しています。
+(en) I'm investing in REITs.
+
+(ko) 리츠는 배당금이 좋아요.
+(ja) REITは配当金が良いです。
+(en) REITs have good dividends.
+
+(ko) 리츠로 부동산에 간접 투자해요.
+(ja) REITで不動産に間接投資します。
+(en) I invest indirectly in real estate through REITs.
+
+---
+
+===부동산|real estate===
+
+(ko) 부동산 가격이 많이 올랐어요.
+(ja) 不動産価格が大きく上がりました。
+(en) Real estate prices have risen a lot.
+
+(ko) 부동산 중개소에 갔어요.
+(ja) 不動産屋に行きました。
+(en) I went to a real estate agency.
+
+(ko) 부동산 투자는 신중해야 해요.
+(ja) 不動産投資は慎重にすべきです。
+(en) Real estate investment should be done carefully.
+
+---
+
+===임대|lease; rental===
+
+(ko) 아파트를 임대하려고 해요.
+(ja) アパートを賃貸しようと思っています。
+(en) I'm planning to lease an apartment.
+
+(ko) 임대 계약을 내일 할 거예요.
+(ja) 賃貸契約を明日します。
+(en) I'll sign the lease contract tomorrow.
+
+(ko) 임대료가 비싸서 고민이에요.
+(ja) 賃貸料が高くて悩んでいます。
+(en) I'm worried because the rent is expensive.
+
+---
+
+===매매|sale and purchase===
+
+(ko) 이 집은 매매가 가능해요.
+(ja) この家は売買が可能です。
+(en) This house is available for sale.
+
+(ko) 매매 계약서를 작성했어요.
+(ja) 売買契約書を作成しました。
+(en) I wrote up the sale and purchase contract.
+
+(ko) 매매 가격이 너무 비싸요.
+(ja) 売買価格が高すぎます。
+(en) The sale price is too expensive.
+
+---
+
+===전세|jeonse===
+
+(ko) 전세로 이사할 거예요.
+(ja) チョンセで引っ越す予定です。
+(en) I'm going to move via jeonse.
+
+(ko) 전세 보증금이 2억이에요.
+(ja) チョンセの保証金が2億ウォンです。
+(en) The jeonse deposit is 200 million won.
+
+(ko) 전세 계약이 2년이에요.
+(ja) チョンセ契約が2年です。
+(en) The jeonse contract is for two years.
+
+---
+
+===월세|monthly rent===
+
+(ko) 월세가 50만 원이에요.
+(ja) 月額家賃が50万ウォンです。
+(en) The monthly rent is 500,000 won.
+
+(ko) 월세는 매달 10일에 내요.
+(ja) 月額家賃は毎月10日に払います。
+(en) I pay the monthly rent on the 10th of every month.
+
+(ko) 월세가 너무 올랐어요.
+(ja) 月額家賃が上がりすぎました。
+(en) The monthly rent went up too much.
+
+---
+
+===관리비|maintenance fee===
+
+(ko) 관리비가 매달 10만 원이에요.
+(ja) 管理費が毎月10万ウォンです。
+(en) The maintenance fee is 100,000 won per month.
+
+(ko) 관리비에 난방비도 포함돼요?
+(ja) 管理費に暖房費も含まれていますか？
+(en) Does the maintenance fee include heating costs?
+
+(ko) 겨울에는 관리비가 더 나와요.
+(ja) 冬は管理費がもっとかかります。
+(en) In winter, the maintenance fee is higher.
+
+---
+
+===보증금|deposit===
+
+(ko) 보증금이 1,000만 원이에요.
+(ja) 保証金が1,000万ウォンです。
+(en) The deposit is 10 million won.
+
+(ko) 보증금은 나중에 돌려받아요.
+(ja) 保証金は後で返ってきます。
+(en) You get the deposit back later.
+
+(ko) 보증금을 계좌로 보냈어요.
+(ja) 保証金を口座に送りました。
+(en) I sent the deposit to the account.
+
+---
+
+===중개수수료|brokerage fee===
+
+(ko) 중개수수료가 너무 비싸요.
+(ja) 仲介手数料が高すぎます。
+(en) The brokerage fee is too expensive.
+
+(ko) 중개수수료는 집주인과 반씩 내요.
+(ja) 仲介手数料は大家さんと半分ずつ払います。
+(en) The brokerage fee is split half and half with the landlord.
+
+(ko) 중개수수료가 얼마예요?
+(ja) 仲介手数料はいくらですか？
+(en) How much is the brokerage fee?
+
+---
+
+===취득세|acquisition tax===
+
+(ko) 집을 사면 취득세를 내야 해요.
+(ja) 家を買うと取得税を払わなければなりません。
+(en) When you buy a house, you have to pay acquisition tax.
+
+(ko) 취득세가 생각보다 많았어요.
+(ja) 取得税が思ったより多かったです。
+(en) The acquisition tax was more than I thought.
+
+(ko) 취득세는 주택 가격에 따라 달라요.
+(ja) 取得税は住宅価格によって違います。
+(en) Acquisition tax varies by the house price.
+
+---
+
+===재산세|property tax===
+
+(ko) 재산세는 매년 내야 해요.
+(ja) 財産税は毎年払わなければなりません。
+(en) You have to pay property tax every year.
+
+(ko) 재산세 고지서가 왔어요.
+(ja) 財産税の納付書が来ました。
+(en) The property tax bill arrived.
+
+(ko) 재산세가 조금 올랐어요.
+(ja) 財産税が少し上がりました。
+(en) The property tax went up a little.
+
+---
+
+===양도소득세|capital gains tax===
+
+(ko) 아파트를 팔면 양도소득세를 내요.
+(ja) アパートを売ると譲渡所得税を払います。
+(en) If you sell an apartment, you pay capital gains tax.
+
+(ko) 양도소득세 신청을 도와주세요.
+(ja) 譲渡所得税の申告を手伝ってください。
+(en) Please help me file for capital gains tax.
+
+(ko) 양도소득세율이 꽤 높아요.
+(ja) 譲渡所得税率がかなり高いです。
+(en) The capital gains tax rate is quite high.
+
+---
+
+===상속세|inheritance tax===
+
+(ko) 상속세 신고를 해야 해요.
+(ja) 相続税の申告をしなければなりません。
+(en) I need to file an inheritance tax return.
+
+(ko) 상속세 부담이 커요.
+(ja) 相続税の負担が大きいです。
+(en) The inheritance tax burden is heavy.
+
+(ko) 상속세 공제 혜택이 있어요.
+(ja) 相続税の控除特典があります。
+(en) There are inheritance tax deduction benefits.
+
+---
+
+===증여세|gift tax===
+
+(ko) 부모님이 돈을 주시면 증여세가 있어요.
+(ja) 親がお金をくれると贈与税がかかります。
+(en) If parents give you money, there's a gift tax.
+
+(ko) 증여세는 10년 합산해요.
+(ja) 贈与税は10年合算します。
+(en) Gift tax is aggregated over 10 years.
+
+(ko) 증여세 신고 기간을 확인했어요.
+(ja) 贈与税の申告期間を確認しました。
+(en) I checked the gift tax filing period.
+
+---
+
+===종합부동산세|comprehensive real estate tax===
+
+(ko) 종합부동산세는 고가 주택에 붙어요.
+(ja) 総合不動産税は高価な住宅にかかります。
+(en) Comprehensive real estate tax applies to high-value homes.
+
+(ko) 종합부동산세 때문에 부담이 돼요.
+(ja) 総合不動産税のせいで負担になります。
+(en) It's a burden because of the comprehensive real estate tax.
+
+(ko) 종합부동산세 계산 방법이 복잡해요.
+(ja) 総合不動産税の計算方法が複雑です。
+(en) The method for calculating comprehensive real estate tax is complicated.
+
+---
+
+===1주택자|single home owner===
+
+(ko) 저는 1주택자예요.
+(ja) 私は1住宅所有者です。
+(en) I am a single home owner.
+
+(ko) 1주택자는 세금 혜택이 있어요.
+(ja) 1住宅所有者は税制優遇があります。
+(en) Single home owners get tax benefits.
+
+(ko) 1주택자가 되면 양도세가 줄어요.
+(ja) 1住宅所有者になると譲渡税が減ります。
+(en) If you become a single home owner, the transfer tax is reduced.
+
+---
+
+===다주택자|multiple home owner===
+
+(ko) 다주택자는 세금을 더 내요.
+(ja) 複数住宅所有者は税金を多く払います。
+(en) Multiple home owners pay more tax.
+
+(ko) 다주택자 규제가 강해졌어요.
+(ja) 複数住宅所有者に対する規制が強くなりました。
+(en) Regulations on multiple home owners have tightened.
+
+(ko) 다주택자가 되면 대출이 어려워요.
+(ja) 複数住宅所有者になるとローンが難しいです。
+(en) If you become a multiple home owner, getting a loan is difficult.
+
+---
+
+===실거주|actual residence===
+
+(ko) 이 아파트는 실거주 조건이에요.
+(ja) このアパートは実際居住条件です。
+(en) This apartment has an actual residence requirement.
+
+(ko) 실거주를 하지 않으면 벌금이 있어요.
+(ja) 実際居住しないと罰金があります。
+(en) If you don't actually reside there, there's a fine.
+
+(ko) 실거주 기간이 2년이에요.
+(ja) 実際居住期間が2年です。
+(en) The actual residence period is two years.
+
+---
+
+===투자|investment===
+
+(ko) 주식에 투자하고 있어요.
+(ja) 株式に投資しています。
+(en) I'm investing in stocks.
+
+(ko) 장기 투자가 좋아요.
+(ja) 長期投資が良いです。
+(en) Long-term investment is good.
+
+(ko) 투자할 때는 계획이 필요해요.
+(ja) 投資する時は計画が必要です。
+(en) When investing, you need a plan.
+
+---
+
+===투기|speculation===
+
+(ko) 부동산 투기는 문제예요.
+(ja) 不動産投機は問題です。
+(en) Real estate speculation is a problem.
+
+(ko) 투기 목적으로 집을 사면 안 돼요.
+(ja) 投機目的で家を買ってはいけません。
+(en) You shouldn't buy a house for speculation purposes.
+
+(ko) 정부가 투기를 막으려고 해요.
+(ja) 政府が投機を防ごうとしています。
+(en) The government is trying to prevent speculation.
+
+---
+
+===청약|subscription===
+
+(ko) 아파트 청약을 넣었어요.
+(ja) アパートの申し込みをしました。
+(en) I applied for an apartment subscription.
+
+(ko) 청약 통장이 필요해요.
+(ja) 青約通帳が必要です。
+(en) You need a subscription savings account.
+
+(ko) 청약 가점이 높아야 당첨돼요.
+(ja) 青約の加点が高くないと当選しません。
+(en) You need a high subscription score to win.
+
+---
+
+===당첨|winning a lottery===
+
+(ko) 아파트 청약에 당첨됐어요!
+(ja) アパートの青約に当選しました！
+(en) I won the apartment lottery!
+
+(ko) 당첨 문자를 받았어요.
+(ja) 当選メッセージを受け取りました。
+(en) I received the winning notification.
+
+(ko) 당첨 확률이 낮아요.
+(ja) 当選確率が低いです。
+(en) The winning probability is low.
+
+---
+
+===분양|sale of new apartments===
+
+(ko) 새 아파트 분양 소식을 들었어요.
+(ja) 新築アパートの分譲ニュースを聞きました。
+(en) I heard about the sale of new apartments.
+
+(ko) 분양 가격이 비싸요.
+(ja) 分譲価格が高いです。
+(en) The sale price of the new apartments is expensive.
+
+(ko) 분양을 받으려면 서류를 내야 해요.
+(ja) 分譲を受けるには書類を出さなければなりません。
+(en) To get a new apartment allocation, you need to submit documents.
+
+---
+
+===입주|move-in===
+
+(ko) 다음 달에 새 집에 입주해요.
+(ja) 来月新しい家に入居します。
+(en) I'm moving into a new house next month.
+
+(ko) 입주 날짜가 정해졌어요.
+(ja) 入居日が決まりました。
+(en) The move-in date has been set.
+
+(ko) 입주할 때 가구를 많이 샀어요.
+(ja) 入居する時に家具をたくさん買いました。
+(en) I bought a lot of furniture when I moved in.
+
+---
+
+===잔금|balance payment===
+
+(ko) 잔금을 치렀어요.
+(ja) 残金を支払いました。
+(en) I paid the balance.
+
+(ko) 잔금 날짜가 다가와요.
+(ja) 残金の支払日が近づいています。
+(en) The balance payment date is approaching.
+
+(ko) 잔금을 대출로 준비했어요.
+(ja) 残金をローンで準備しました。
+(en) I prepared the balance payment with a loan.
+
+---
+
+===중도금|intermediate payment===
+
+(ko) 중도금을 내야 해요.
+(ja) 中間金を払わなければなりません。
+(en) I need to pay the intermediate payment.
+
+(ko) 중도금 대출을 받았어요.
+(ja) 中間金ローンを受けました。
+(en) I took out an intermediate payment loan.
+
+(ko) 중도금을 3번 나눠서 내요.
+(ja) 中間金を3回に分けて払います。
+(en) I pay the intermediate payment in three installments.
+
+---
+
+===계약금|down payment===
+
+(ko) 계약금으로 1,000만 원을 줬어요.
+(ja) 契約金として1,000万ウォンを払いました。
+(en) I paid 10 million won as a down payment.
+
+(ko) 계약금을 내면 계약이 성사돼요.
+(ja) 契約金を払うと契約が成立します。
+(en) When you pay the down payment, the contract is concluded.
+
+(ko) 계약금은 돌려받기 어려워요.
+(ja) 契約金は返してもらうのが難しいです。
+(en) It's hard to get the down payment back.
+
+---
+
+===할부|installment===
+
+(ko) 가전제품을 할부로 샀어요.
+(ja) 家電製品を割賦で買いました。
+(en) I bought appliances on installment.
+
+(ko) 할부 이자가 부담스러워요.
+(ja) 割賦の利子が負担です。
+(en) The installment interest is burdensome.
+
+(ko) 할부는 12개월이에요.
+(ja) 割賦は12ヶ月です。
+(en) The installment is for 12 months.
+
+---
+
+===대출|loan===
+
+(ko) 은행에서 대출을 받았어요.
+(ja) 銀行でローンを受けました。
+(en) I got a loan from the bank.
+
+(ko) 대출 금리가 올랐어요.
+(ja) ローン金利が上がりました。
+(en) The loan interest rate went up.
+
+(ko) 대출을 갚는 데 10년 걸려요.
+(ja) ローンを返すのに10年かかります。
+(en) It takes 10 years to pay off the loan.
+
+---
+
+===주택담보대출|mortgage loan===
+
+(ko) 주택담보대출을 신청했어요.
+(ja) 住宅担保ローンを申請しました。
+(en) I applied for a mortgage loan.
+
+(ko) 주택담보대출 금리를 비교해요.
+(ja) 住宅担保ローンの金利を比較しています。
+(en) I'm comparing mortgage loan interest rates.
+
+(ko) 주택담보대출은 집이 담보예요.
+(ja) 住宅担保ローンは家が担保です。
+(en) A mortgage loan uses the house as collateral.
+
+---
+
+===신용대출|credit loan===
+
+(ko) 신용대출을 받을 수 있어요?
+(ja) 信用ローンを受けられますか？
+(en) Can I get a credit loan?
+
+(ko) 신용대출 금리가 더 높아요.
+(ja) 信用ローンの金利がもっと高いです。
+(en) Credit loan interest rates are higher.
+
+(ko) 신용대출은 담보가 필요 없어요.
+(ja) 信用ローンは担保が必要ありません。
+(en) A credit loan doesn't require collateral.
+
+---
+
+===마이너스통장|overdraft account===
+
+(ko) 마이너스통장을 만들었어요.
+(ja) マイナス通帳を作りました。
+(en) I opened an overdraft account.
+
+(ko) 마이너스통장 한도가 500만 원이에요.
+(ja) マイナス通帳の限度額が500万ウォンです。
+(en) My overdraft account limit is 5 million won.
+
+(ko) 마이너스통장 이자를 매달 내요.
+(ja) マイナス通帳の利子を毎月払います。
+(en) I pay the overdraft interest every month.
+
+---
+
+===예적금|savings and installment===
+
+(ko) 예적금 통장을 정리했어요.
+(ja) 預貯金通帳を整理しました。
+(en) I organized my savings and installment accounts.
+
+(ko) 예적금 금리가 괜찮은 은행을 찾아요.
+(ja) 預貯金の金利が良い銀行を探しています。
+(en) I'm looking for a bank with good savings and installment rates.
+
+(ko) 예적금으로 돈을 모으고 있어요.
+(ja) 預貯金でお金を貯めています。
+(en) I'm saving money through savings and installment accounts.
+
+---
+
+===자동이체|automatic transfer===
+
+(ko) 관리비를 자동이체로 내요.
+(ja) 管理費を自動振替で払います。
+(en) I pay the maintenance fee by automatic transfer.
+
+(ko) 자동이체를 신청했어요.
+(ja) 自動振替を申し込みました。
+(en) I applied for automatic transfer.
+
+(ko) 자동이체를 하면 연체를 막을 수 있어요.
+(ja) 自動振替にすると延滞を防げます。
+(en) Setting up automatic transfer can prevent late payments.
+
+---
+
+===펀드|fund (2)===
+
+(ko) 펀드에 매달 일정 금액을 넣어요.
+(ja) ファンドに毎月一定額を入れます。
+(en) I put a fixed amount into the fund every month.
+
+(ko) 이 펀드는 위험이 낮아요.
+(ja) このファンドはリスクが低いです。
+(en) This fund has low risk.
+
+(ko) 펀드 수익률을 확인했어요.
+(ja) ファンドの収益率を確認しました。
+(en) I checked the fund's return rate.
+
+---
+
+===ISA|ISA===
+
+(ko) ISA 계좌를 만들었어요.
+(ja) ISA口座を作りました。
+(en) I opened an ISA account.
+
+(ko) ISA는 세금 혜택이 있어요.
+(ja) ISAは税制優遇があります。
+(en) ISA has tax benefits.
+
+(ko) ISA에 돈을 넣고 있어요.
+(ja) ISAにお金を入れています。
+(en) I'm putting money into my ISA.
+
+---
+
+===연금|pension===
+
+(ko) 연금을 받을 나이가 됐어요.
+(ja) 年金を受け取る年齢になりました。
+(en) I've reached the age to receive a pension.
+
+(ko) 연금은 노후에 필요해요.
+(ja) 年金は老後に必要です。
+(en) A pension is necessary for retirement.
+
+(ko) 연금을 더 일찍 준비할걸 그랬어요.
+(ja) 年金をもっと早く準備すればよかったです。
+(en) I should have prepared my pension earlier.
+
+---
+
+===국민연금|national pension===
+
+(ko) 국민연금은 의무예요.
+(ja) 国民年金は義務です。
+(en) The national pension is mandatory.
+
+(ko) 국민연금을 매달 내고 있어요.
+(ja) 国民年金を毎月払っています。
+(en) I pay the national pension every month.
+
+(ko) 국민연금은 나중에 돌려받아요.
+(ja) 国民年金は後で戻ってきます。
+(en) You get the national pension back later.
+
+---
+
+===개인연금|personal pension===
+
+(ko) 개인연금에 가입했어요.
+(ja) 個人年金に加入しました。
+(en) I subscribed to a personal pension.
+
+(ko) 개인연금은 세제 혜택이 있어요.
+(ja) 個人年金は税制優遇があります。
+(en) Personal pensions have tax benefits.
+
+(ko) 개인연금 저축을 추천해요.
+(ja) 個人年金貯蓄をおすすめします。
+(en) I recommend personal pension savings.
+
+---
+
+===퇴직연금|retirement pension===
+
+(ko) 퇴직연금을 회사에서 들어줘요.
+(ja) 退職年金を会社が出してくれます。
+(en) The company provides a retirement pension.
+
+(ko) 퇴직연금은 이직할 때 옮길 수 있어요.
+(ja) 退職年金は転職する時に移せます。
+(en) You can transfer your retirement pension when you change jobs.
+
+(ko) 퇴직연금 통장을 확인했어요.
+(ja) 退職年金の通帳を確認しました。
+(en) I checked my retirement pension account.
+
+---
+
+===연금저축|pension savings===
+
+(ko) 연금저축을 시작했어요.
+(ja) 年金貯蓄を始めました。
+(en) I started pension savings.
+
+(ko) 연금저축은 만 55세부터 받을 수 있어요.
+(ja) 年金貯蓄は満55歳から受け取れます。
+(en) You can receive pension savings from age 55.
+
+(ko) 연금저축 한도를 채웠어요.
+(ja) 年金貯蓄の限度額を満たしました。
+(en) I maxed out my pension savings limit.
+
+---
+
+===세금|tax===
+
+(ko) 세금을 내는 날이에요.
+(ja) 税金を払う日です。
+(en) It's tax day.
+
+(ko) 세금이 너무 많아요.
+(ja) 税金が多すぎます。
+(en) There's too much tax.
+
+(ko) 세금을 연체하면 벌금이 있어요.
+(ja) 税金を延滞すると罰金があります。
+(en) If you're late on taxes, there's a penalty.
+
+---
+
+===소득세|income tax===
+
+(ko) 소득세는 월급에서 빠져요.
+(ja) 所得税は給料から引かれます。
+(en) Income tax is deducted from your salary.
+
+(ko) 소득세 신고를 해야 해요.
+(ja) 所得税の申告をしなければなりません。
+(en) I need to file an income tax return.
+
+(ko) 소득세 환급을 받았어요.
+(ja) 所得税の還付を受けました。
+(en) I received an income tax refund.
+
+---
+
+===종합소득세|comprehensive income tax===
+
+(ko) 종합소득세 신고 기간이에요.
+(ja) 総合所得税の申告期間です。
+(en) It's the comprehensive income tax filing period.
+
+(ko) 종합소득세를 계산하는 게 어려워요.
+(ja) 総合所得税を計算するのが難しいです。
+(en) Calculating comprehensive income tax is difficult.
+
+(ko) 종합소득세 신고를 도와줄 사람이 필요해요.
+(ja) 総合所得税の申告を手伝ってくれる人が必要です。
+(en) I need someone to help me file comprehensive income tax.
+
+---
+
+===근로소득세|earned income tax===
+
+(ko) 근로소득세는 직장인이 내는 세금이에요.
+(ja) 勤労所得税は会社員が払う税金です。
+(en) Earned income tax is the tax paid by employees.
+
+(ko) 근로소득세율은 소득에 따라 달라요.
+(ja) 勤労所得税率は所得によって違います。
+(en) The earned income tax rate varies by income.
+
+(ko) 근로소득세가 월급에서 공제됐어요.
+(ja) 勤労所得税が給料から控除されました。
+(en) Earned income tax was deducted from my salary.
+
+---
+
+===사업소득세|business income tax===
+
+(ko) 사업소득세는 자영업자가 내요.
+(ja) 事業所得税は自営業者が払います。
+(en) Business income tax is paid by self-employed people.
+
+(ko) 사업소득세 신고를 준비하고 있어요.
+(ja) 事業所得税の申告を準備しています。
+(en) I'm preparing to file business income tax.
+
+(ko) 사업소득세율이 꽤 높아요.
+(ja) 事業所得税率がかなり高いです。
+(en) The business income tax rate is quite high.
+
+---
+
+===법인세|corporate tax===
+
+(ko) 법인세는 회사가 내는 세금이에요.
+(ja) 法人税は会社が払う税金です。
+(en) Corporate tax is the tax paid by companies.
+
+(ko) 법인세 신고 기한을 확인했어요.
+(ja) 法人税の申告期限を確認しました。
+(en) I checked the corporate tax filing deadline.
+
+(ko) 법인세율이 인하됐어요.
+(ja) 法人税率が引き下げられました。
+(en) The corporate tax rate was reduced.
+
+---
+
+===부가가치세|value-added tax===
+
+(ko) 물건을 살 때 부가가치세를 내요.
+(ja) 物を買う時に付加価値税を払います。
+(en) When you buy things, you pay value-added tax.
+
+(ko) 부가가치세는 10%예요.
+(ja) 付加価値税は10％です。
+(en) The value-added tax is 10%.
+
+(ko) 부가가치세 신고를 3개월마다 해요.
+(ja) 付加価値税の申告を3ヶ月ごとにします。
+(en) I file value-added tax returns every three months.
+
+---
+
+===원천징수|withholding tax===
+
+(ko) 회사에서 세금을 원천징수해요.
+(ja) 会社が税金を源泉徴収します。
+(en) The company withholds tax at the source.
+
+(ko) 원천징수 영수증을 받았어요.
+(ja) 源泉徴収の領収書を受け取りました。
+(en) I received a withholding tax receipt.
+
+(ko) 원천징수된 세금은 연말에 정산해요.
+(ja) 源泉徴収された税金は年末に精算します。
+(en) Withheld taxes are settled at the end of the year.
+
+---
+
+===종합과세|comprehensive taxation===
+
+(ko) 모든 소득을 합쳐서 종합과세해요.
+(ja) すべての所得を合算して総合課税します。
+(en) All income is combined and subject to comprehensive taxation.
+
+(ko) 종합과세 대상인지 확인해야 해요.
+(ja) 総合課税対象か確認しなければなりません。
+(en) I need to check if it's subject to comprehensive taxation.
+
+(ko) 종합과세 세율이 높아질 수 있어요.
+(ja) 総合課税の税率が高くなることがあります。
+(en) The comprehensive taxation rate can become higher.
+
+---
+
+===분리과세|separate taxation===
+
+(ko) 이자 소득은 분리과세예요.
+(ja) 利子所得は分離課税です。
+(en) Interest income is subject to separate taxation.
+
+(ko) 분리과세를 선택했어요.
+(ja) 分離課税を選びました。
+(en) I chose separate taxation.
+
+(ko) 분리과세는 다른 소득과 합산하지 않아요.
+(ja) 分離課税は他の所得と合算しません。
+(en) Separate taxation is not combined with other income.
+
+---
+
+===세율|tax rate===
+
+(ko) 소득에 따라 세율이 달라져요.
+(ja) 所得によって税率が変わります。
+(en) The tax rate varies by income.
+
+(ko) 이 나라는 세율이 낮은 편이에요.
+(ja) この国は税率が低いほうです。
+(en) This country's tax rate is relatively low.
+
+(ko) 세율이 변경됐는지 확인했어요.
+(ja) 税率が変更されたか確認しました。
+(en) I checked whether the tax rate changed.
+
+---
+
+===과세표준|tax base===
+
+(ko) 과세표준을 계산하는 법을 배웠어요.
+(ja) 課税標準を計算する方法を学びました。
+(en) I learned how to calculate the tax base.
+
+(ko) 과세표준이 높을수록 세금이 많아요.
+(ja) 課税標準が高いほど税金が多いです。
+(en) The higher the tax base, the more tax.
+
+(ko) 과세표준을 정확히 입력해야 해요.
+(ja) 課税標準を正確に入力しなければなりません。
+(en) You need to input the tax base accurately.
+
+---
+
+===공제|deduction===
+
+(ko) 의료비 공제를 받을 수 있어요.
+(ja) 医療費控除を受けられます。
+(en) You can get a medical expense deduction.
+
+(ko) 공제 항목이 많아서 세금이 줄었어요.
+(ja) 控除項目が多くて税金が減りました。
+(en) Because there were many deduction items, my tax was reduced.
+
+(ko) 연말정산 때 공제 서류를 제출했어요.
+(ja) 年末調整の時に控除書類を提出しました。
+(en) I submitted deduction documents during year-end tax settlement.
+
+---
+
+===면제|exemption===
+
+(ko) 이 소득은 세금이 면제돼요.
+(ja) この所得は税金が免除されます。
+(en) This income is exempt from tax.
+
+(ko) 면제 대상인지 확인해 보세요.
+(ja) 免除対象かどうか確認してみてください。
+(en) Please check if it qualifies for exemption.
+
+(ko) 일정 금액 이하는 세금 면제예요.
+(ja) 一定金額以下は税金免除です。
+(en) Amounts below a certain level are tax-exempt.
+
+---
+
+===감면|reduction===
+
+(ko) 세금 감면 혜택을 받았어요.
+(ja) 税金の減免特典を受けました。
+(en) I received a tax reduction benefit.
+
+(ko) 감면 조건을 충족해야 해요.
+(ja) 減免条件を満たさなければなりません。
+(en) You need to meet the reduction conditions.
+
+(ko) 이 지역은 취득세 감면이 가능해요.
+(ja) この地域は取得税の減免が可能です。
+(en) In this area, acquisition tax reduction is available.
+
+---
