@@ -93,7 +93,10 @@ MODEL = genanki.Model(
 
 
 def esc(text):
-    return str(text).replace("&","&amp;").replace("<","&lt;").replace(">","&gt;")
+    s = str(text).replace("&","&amp;").replace("<","&lt;").replace(">","&gt;").replace(";", ",")
+    s = re.sub(r',\s*,', ', ', s)
+    s = s.strip(' ,\t')
+    return s
 
 def parse_sentences(text):
     """Parse the sentence generation output into a dict: word -> [(ko, ja, en), ...]

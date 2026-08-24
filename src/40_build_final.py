@@ -45,7 +45,11 @@ MODEL = genanki.Model(MODEL_ID, "Korean Vocab", fields=[
 .android .extr-en { font-size: 15px; }
 """)
 
-def esc(s): return str(s).replace("&","&amp;").replace("<","&lt;").replace(">","&gt;")
+def esc(s): 
+    s = str(s).replace("&","&amp;").replace("<","&lt;").replace(">","&gt;").replace(";", ",")
+    s = re.sub(r',\s*,', ', ', s)
+    s = s.strip(' ,\t')
+    return s
 
 def parse_sentences(text):
     result, cur, exs, buf = {}, None, [], []
