@@ -1,0 +1,483 @@
+===word: 代わり番===
+Nuance_EN: Describes people doing things in turns, alternating. Also used in the form "代わり番こ." It's a more everyday expression than simply "交替" (alternating) or "順番" (order/sequence), often used when children take turns playing.
+Nuance_JP: 交代で順番に物事を行う様子を表します。「代わり番こ」という形でも使われます。単に「交代」や「順番」より日常的な言い方で、子どもが順番に遊ぶ時などによく使われます。
+
+===word: 槍玉に挙げる===
+Nuance_EN: Means to single out a specific person or thing as a target of criticism or attack. It carries the nuance of making one person the focus within a group, and is used almost exclusively in negative contexts. Used in business and political settings to describe situations where blame is pinned on a single individual.
+Nuance_JP: ある特定の人物や物事を批判や攻撃の対象として集中的に取り上げることを意味します。集団の中で一人だけを標的にするニュアンスがあり、ネガティブな文脈で使われることがほとんどです。ビジネスや政治の場面で、責任を一人に押し付けるような状況を描写するときに用いられます。
+
+===word: 無双===
+Nuance_EN: "Musō" is a Sino-Japanese expression meaning "unrivaled, incomparably excellent." It is used heavily in subculture contexts such as games and anime. Historically, it was used in phrases like "天下無双" (unmatched under heaven), a word signifying ultimate strength in martial arts and tactics. In modern times, its verb form "無双する" (to musō) is common, especially describing the act of taking down enemies one after another in action games.
+Nuance_JP: 「無双」は「比べるものがないほど優れている」という意味の漢語表現で、主にゲームやアニメなどのサブカルチャーで多用されます。歴史的には「天下無双」のように使われ、武術や戦術の分野で最強を表す言葉でした。現代では、特にアクションゲームで敵を次々に倒していく様子を表現する「無双する」という動詞的用法も一般的です。
+
+===word: 藻===
+Nuance_EN: A general term for aquatic plants that grow in water, more of a common name than a strict scientific classification. The derived word "藻掻く" (mogaku, to struggle/flounder) is used metaphorically, thought to have evolved from the image of algae swaying underwater. The expression "藻の花" (algae bloom) is used in the context of fishing and aquaculture.
+Nuance_JP: 水中に生える植物の総称で、学術的な分類というより日常的な呼び方です。比喩的に「藻掻く（もがく）」という派生語があり、これは藻が水中で揺れ動く様子から「もがく」に変化したと言われています。また、「藻の花」という表現は漁業や水産業の文脈で使われることがあります。
+
+===word: 結果論===
+Nuance_EN: "Kekkaron" refers to a retrospective argument — saying "it was bound to happen" after the fact. In Japanese, it is often introduced with the preface "結果論ですが" (this is hindsight, but...), carrying a slightly negative connotation. That is, it implies that it's easy to speak with the benefit of hindsight, and is often used critically.
+Nuance_JP: 「結果論」は、物事が起こった後で「やはりそうだった」と述べる、後付けの議論を指します。日本語では「結果論ですが」という前置きで使われることが多く、やや否定的なニュアンスを含みます。つまり、結果がわかってから言うのは簡単だという含みがあり、批判的に使われることが多いです。
+
+===word: 脾臓===
+Nuance_EN: One of the organs in the abdominal cavity, involved in immune function and blood storage. It is a medical term used in clinical contexts, but also appears in everyday conversation related to body parts or food (e.g., liver). The kanji is composed of "脾" and "臓," a medical term borrowed from Chinese.
+Nuance_JP: 腹腔内にある臓器の一つで、免疫機能や血液の貯蔵に関わります。医学的な文脈で使われる専門用語ですが、部位や食べ物（レバーなど）に関連して日常的にも登場します。漢字では「脾」と「臓」から成り、中国語から借用された医学用語です。
+
+===word: 万来===
+Nuance_EN: "Manrai" means "many customers coming," used especially in the welcoming phrase "万来のお客様" (our many guests). It is used frequently in customer service and event contexts, carrying a positive connotation of "a lot of people coming." However, it is not a word used frequently in everyday conversation.
+Nuance_JP: 「万来」は「多くの客が来ること」を意味し、特に「万来のお客様」という形で歓迎の言葉として使われます。接客業やイベントなどで用いられることが多い表現で、「たくさんの人が来る」という肯定的な意味合いを持ちます。ただし、日常会話で頻繁に使われる言葉ではありません。
+
+===word: アメフト===
+Nuance_EN: An abbreviation of "American football," a katakana word used primarily in Japan. It appears often in sports conversations, especially in the context of middle/high school and university club activities. In Japanese, besides "アメフト," the prefix "アメ" is used as an abbreviation for "America" in words like "アメ車" (American car) and "アメ村" (Amerika-mura, a district in Osaka).
+Nuance_JP: 「アメリカンフットボール」の略語で、主に日本で使われるカタカナ語です。スポーツの話題で使われることが多く、特に中高生や大学生の部活動の文脈で登場します。日本語では「アメフト」の他に「アメ車」「アメ村」など、「アメ」がアメリカの略として使われることがあります。
+
+===word: 病理===
+Nuance_EN: A field of medicine that studies the causes and mechanisms of disease. Often used as the academic discipline "病理学" (pathology), and "病理医" (pathologist) is a medical specialty. Not commonly used in everyday conversation, but can be heard in medical dramas and health-related news.
+Nuance_JP: 病気の原因やメカニズムを研究する医学の一分野です。「病理学」という学問名として使われることが多く、医師の専門分野として「病理医」という職業もあります。日常会話ではあまり使われませんが、医療ドラマや健康に関するニュースなどで耳にすることがあります。
+
+===word: 桑原桑原===
+Nuance_EN: A phrase originating from Japanese folk belief that chanting "Kuwabara kuwabara" during thunder would protect one from lightning strikes. Nowadays, it is often used as a lighthearted joke when someone says something unlucky, conveying a sense of "touch wood" or "knock on wood." Its peculiar sound also makes it appear in wordplay and manga dialogue.
+Nuance_JP: 雷が鳴っている時に「桑原桑原」と唱えると落雷を避けられるという日本の民間信仰に由来する言葉です。現在では、不吉なことを言った時に「縁起でもない」という気持ちを込めて、軽いジョークとして使われることが多いです。また、その珍妙な響きから、言葉遊びや漫画のセリフなどにも登場します。
+
+===word: 本懐===
+Nuance_EN: A literary expression meaning that a long-cherished wish or aspiration has been fulfilled. Often used in the form "本懐を遂げる" (to achieve one's long-cherished desire), it is a formal way of expressing the joy of achieving a goal. Hardly used in everyday conversation; it appears in novels, speeches, and other formal settings.
+Nuance_JP: 長年抱いてきた切なる願いや志望がかなうことを意味する文語表現です。「本懐を遂げる」という形で使われることが多く、目標達成の喜びを表現するフォーマルな言い方です。日常会話ではほとんど使われず、小説やスピーチなど改まった場面で用いられます。
+
+===word: 前哨戦===
+Nuance_EN: Refers to a small-scale battle or match held before the main fight or competition. Metaphorically, it means a preparatory stage or preliminary competition leading up to a major event or showdown. It is also used in business and political contexts, particularly referring to the early stages of an election campaign or business negotiation.
+Nuance_JP: 本格的な戦いや競技の前に行われる小規模な戦いや試合を指します。比喩的には、大きなイベントや勝負の前に行われる準備的な段階や予備的な競争を意味します。ビジネスや政治の文脈でも使われることがあり、特に選挙戦や商談の前段階を指すことがあります。
+
+===word: 沸点===
+Nuance_EN: A physics term referring to the temperature at which a liquid begins to boil, but also used metaphorically to mean "the limit at which one's anger explodes." In everyday conversation, it is commonly used in the form "沸点が低い" (having a low boiling point) to describe someone who gets angry easily. It is also used in combination with the word "沸騰" (boiling) on social media.
+Nuance_JP: 液体が沸騰し始める温度を指す物理用語ですが、比喩的に「人の怒りが爆発する限界点」という意味でもよく使われます。日常会話では「沸点が低い」という形で、すぐに怒る人を表現するのが一般的です。また、SNSなどで「沸騰」という言葉と組み合わせて使われることもあります。
+
+===word: 怒り肩===
+Nuance_EN: A uniquely Japanese expression describing the way one's shoulders rise or tense up when angry. Used to depict the physical reactions of anger or tension, particularly in the verbal form "怒り肩になる" (to get angry-shouldered). A relatively minor expression, more often seen in descriptions in novels and manga than in everyday conversation.
+Nuance_JP: 怒っている時に肩が上がったり張ったりする様子を表す日本語独自の表現です。怒りや緊張の身体的反応を描写する際に使われ、特に「怒り肩になる」という動詞的な使い方をします。比較的マイナーな表現で、日常会話よりは小説や漫画の描写で見かけることが多いです。
+
+===word: 実演===
+Nuance_EN: Means demonstrating something by actually doing it, especially showing how to use a product or cook a dish in front of an audience. Well-known in the form "実演販売" (demonstration sales) at department stores and electronics retailers, and also used for street performances and event demonstrations. In theater and music, "実演" can be synonymous with "live performance."
+Nuance_JP: 実際にやって見せることを意味し、特に商品の使い方や料理の作り方などを観客の前で実演することを指します。デパートや家電量販店での「実演販売」という形でよく知られており、街頭やイベントでのパフォーマンスにも使われます。また、演劇や音楽の「実演」は「生演奏」と同義で使われることもあります。
+
+===word: 静観===
+Nuance_EN: A Sino-Japanese expression meaning to calmly observe things without actively getting involved. Often used in business and political contexts in the form "静観の構えをとる" (to take a stance of quiet observation), expressing an attitude of intentionally not intervening and watching how things develop. A somewhat formal expression, frequently used in official statements and news reports.
+Nuance_JP: 物事に積極的に関わらず、落ち着いて様子を見守ることを意味する漢語表現です。ビジネスや政治の文脈で「静観の構えをとる」という形でよく使われ、意図的に介入せずに経過を見守る態度を表します。やや硬い表現で、公式な声明や報道で用いられることが多いです。
+
+===word: 溜飲が下がる===
+Nuance_EN: An idiom expressing that long-standing dissatisfaction or frustration has been resolved, leaving one feeling refreshed. Originally, "溜飲" referred to food and drink accumulated in the stomach, and the phrase comes from the relief of heartburn when it settles. Used in specific situations to describe the psychological release when resentment or envy is resolved.
+Nuance_JP: 「溜飲が下がる」は、長く続いた不満や悔しさが解消されて、気分がすっきりすることを表す慣用句です。元々は「溜飲」が胃の中に溜まった飲食物を指し、それが下りると胸やけが治る様子から来ています。特定の状況で使い、不満や妬みが解消された時の心理的な解放感を表現します。
+
+===word: 新味===
+Nuance_EN: A word meaning new flavor, novelty, or originality, used especially in the fields of cooking, art, and ideas. Often used in evaluative contexts in forms like "新味がある" (has novelty) or "新味に欠ける" (lacks novelty), and can be used either positively or negatively. It carries a somewhat critical nuance compared to everyday conversation.
+Nuance_JP: 新しい味わいや斬新さを意味する言葉で、特に料理や芸術、アイデアなどの分野で使われます。「新味がある」「新味に欠ける」という形で評価の文脈で使われることが多く、肯定的にも否定的にも用いられます。日常会話よりは、やや批評的なニュアンスを持つ表現です。
+
+===word: 有線===
+Nuance_EN: Literally meaning "having a wire/cable," used primarily in the fields of communication and broadcasting. Refers to methods that use physical cables, such as "有線電話" (landline phone), "有線放送" (cable broadcasting), and "有線LAN" (wired LAN). With the recent spread of wireless technology, people are increasingly saying "有線" to explicitly distinguish it from wireless.
+Nuance_JP: 「有線」は文字通り「線がある」という意味で、主に通信や放送の分野で使われます。「有線電話」「有線放送」「有線LAN」など、物理的なケーブルを使って接続する方式を指します。最近では無線技術の普及により、区別のためにあえて「有線」と言うことが増えています。
+
+===word: 河川敷===
+Nuance_EN: Refers to the land on both banks of a river, set aside to prevent flooding when the river swells. In Japan, these riverbeds are often used as parks, sports fields, and farmland, making them familiar places in daily life. Riverbeds can also become settlements for homeless people, making them a topic in social contexts as well.
+Nuance_JP: 川の水が増水した時に氾濫を防ぐために確保された、川の両岸の土地を指します。日本ではこの河川敷が公園や運動場、農地などとして利用されていることが多く、日常生活にも馴染み深い場所です。また、河川敷はホームレスの居住地になることもあるため、社会的な文脈でも話題になります。
+
+===word: 替え歌===
+Nuance_EN: Refers to a song in which different lyrics are set to an existing melody. Created mainly for humor, satire, or parody, enjoyed at school and workplace events and on the internet. Commercial use requires caution regarding copyright, but it is a widely cherished culture for personal enjoyment.
+Nuance_JP: 既存の曲のメロディーに別の歌詞を当てはめた歌を指します。主にユーモアや風刺、パロディの目的で作られ、学校や職場のイベント、インターネット上で楽しまれています。著作権の関係で商業利用には注意が必要ですが、個人的な楽しみとしては広く親しまれている文化です。
+
+===word: ハイタッチ===
+Nuance_EN: "High five" refers to the action of slapping each other's palms to express joy or praise. It is a Japanese-coined English term (wasei-eigo). Often done after sports games or when something succeeds, it is used worldwide as a gesture of closeness and solidarity. In Japanese, it is also used as a verb, "ハイタッチする" (to high-five).
+Nuance_JP: 「ハイタッチ」は、喜びや称賛を表現するために互いの手のひらを打ち合わせる動作を指す和製英語です。スポーツの試合後や何かが成功した時に行われることが多く、親しさや連帯感を示すジェスチャーとして世界中で使われています。日本語では「ハイタッチする」という動詞としても使われます。
+
+===word: 善行===
+Nuance_EN: A Sino-Japanese expression meaning a good deed that benefits people or society. Used in forms like "善行を積む" (to accumulate good deeds) and "善行を施す" (to perform good deeds), often appearing in moral and religious contexts. In everyday conversation, "良いことをする" (to do good things) is more common, and this word carries a somewhat formal impression.
+Nuance_JP: 人や社会のためになる良い行いを意味する漢語表現です。「善行を積む」「善行を施す」という形で使われ、道徳的・宗教的な文脈で登場することが多いです。日常会話では「良いことをする」という言い方の方が一般的で、やや改まった印象を与える言葉です。
+
+===word: 巻尺===
+Nuance_EN: A tool for measuring length, consisting of a flexible tape with markings. It is a basic measuring instrument used in various fields such as carpentry, sewing, and DIY. In Japan, it is also called "メジャー" (measuring tape), but the formal name is "巻尺." Its compact retractable mechanism makes it convenient to carry.
+Nuance_JP: 長さを測るための道具で、柔軟なテープに目盛りがついたものを指します。大工仕事や裁縫、DIYなど様々な分野で使われる基本的な測定器具です。日本では「メジャー」とも呼ばれますが、正確には「巻尺」が正式名称です。コンパクトに巻き取れる仕組みが特徴で、携帯に便利です。
+
+===word: 恐慌===
+Nuance_EN: A Sino-Japanese expression meaning sudden economic turmoil or large-scale social chaos. In economic history, it is used as a proper noun referring to specific historical events, such as "世界恐慌" (the Great Depression). It can also be used synonymously with "panic" to describe a person's psychological state, though "パニック" is more common in everyday conversation.
+Nuance_JP: 突然の経済的混乱や社会的大混乱を意味する漢語表現です。経済史では「世界恐慌」のように特定の歴史的出来事を指す固有名詞として使われます。また、個人の心理状態として「パニック」と同義で使われることもありますが、日常会話では「パニック」の方が一般的です。
+
+===word: 眼中===
+Nuance_EN: Originally meaning "the range within one's field of vision," it has shifted to refer to the object of one's awareness or attention. The most common usage is the negative form "眼中にない" (to pay no attention to, to completely ignore). It can also be used in the form "眼中に入れる" (to take into consideration) to mean being aware of or caring about something.
+Nuance_JP: 「眼中」は「目に入っている範囲」という意味から転じて、意識や注意の対象を指す言葉です。最も一般的な用法は「眼中にない」という否定形で、完全に無視している状態を表現します。また、「眼中に入れる」という形で、意識する・気にかけるという意味でも使われます。
+
+===word: 諂い===
+Nuance_EN: Refers to words or actions intended to excessively please someone in order to be liked. It carries an obviously negative connotation and is used in forms like "諂いを言う" (to say flattering things) and "諂い笑い" (a sycophantic smile). Often used to describe the behavior of someone fawning over those in power in workplace or interpersonal settings.
+Nuance_JP: 相手に気に入られようとして、必要以上に機嫌を取る言動を指します。明らかに否定的な意味合いを持ち、「諂いを言う」「諂い笑い」などの形で使われます。職場や人間関係で、権力者にへつらう様子を描写する時に用いられることが多いです。
+
+===word: 溜飲を下げる===
+Nuance_EN: The transitive version of "溜飲が下がる," meaning to actively resolve one's own dissatisfaction or frustration. The expression "溜飲を下げる" carries an active nuance of taking action to relieve one's pent-up feelings. It is used, for example, when getting revenge or defeating a rival.
+Nuance_JP: 「溜飲が下がる」の他動詞バージョンで、自ら積極的に不満や悔しさを解消することを意味します。「溜飲を下げる」という表現は、何か行動を起こして溜飲を下げる能動的なニュアンスがあります。例えば、復讐を果たしたり、ライバルに勝ったりした時に使われます。
+
+===word: 健在===
+Nuance_EN: A Sino-Japanese expression meaning that someone is alive and well, or that something is still effective. It is also used as a greeting to inquire about someone's health in the form "ご健在ですか" (Are you keeping well?). It is also used to express that a technique, custom, etc. still remains and hasn't become a thing of the past, as in "今も健在だ" (still alive and well).
+Nuance_JP: 元気でいること、または物事が依然として有効であることを意味する漢語表現です。「ご健在ですか」という形で相手の健康を気遣う挨拶としても使われます。また、技術や習慣などが「今も健在だ」という形で、過去のものにならずに残っていることを表現するのにも使われます。
+
+===word: 手指消毒===
+Nuance_EN: Refers to disinfecting hands and fingers, a term used especially in medical and hygiene management contexts. Since the COVID-19 pandemic, it has become a frequently heard phrase in daily life. "手指消毒" using alcohol-based sanitizer is widely recognized as a basic infection prevention measure.
+Nuance_JP: 手や指を消毒することを指し、特に医療現場や衛生管理の文脈で使われる言葉です。新型コロナウイルスの流行以降、日常生活でも頻繁に耳にするようになりました。アルコール消毒液を使った「手指消毒」は、感染予防の基本的な対策として広く認識されています。
+
+===word: 横倒し===
+Nuance_EN: Means that something falls over sideways, or to lay something on its side. Used to describe structures toppling due to earthquakes or strong winds, or when intentionally storing items sideways. Can also be used metaphorically to describe a plan falling through, as in "計画が横倒しになる" (the plan collapses).
+Nuance_JP: 物が横に倒れること、または横に倒すことを意味します。地震や強風で構造物が倒れる様子を描写するときに使われたり、物を意図的に横倒しにして収納する際にも使われます。また、比喩的に計画が頓挫することを「計画が横倒しになる」と表現することもあります。
+
+===word: ちんちくりん===
+Nuance_EN: A lighthearted mimetic word primarily referring to someone being short or something being small. It is often used regarding appearance and can carry a cute nuance, but one must be careful as it can be rude when pointing out someone's body shape. It can also be used to describe pants that are too short.
+Nuance_JP: 「ちんちくりん」は、主に身長が低いことや物が小さいことを指す軽妙な擬態語です。見た目に対して使われることが多く、可愛らしいニュアンスを含むこともありますが、相手の体型を指摘する場合は失礼になる可能性があるので注意が必要です。また、ズボンなどが短すぎる様子を「ちんちくりん」と表現することもあります。
+
+===word: 世界恐慌===
+Nuance_EN: A historical term referring to the Great Depression, a massive economic downturn that began with the 1929 U.S. stock market crash and spread worldwide. It is a crucial event covered in economics textbooks and has had a major influence on modern economic policy. The term "世界恐慌" itself is used as a proper noun referring to this specific past event.
+Nuance_JP: 1929年のアメリカ株式市場の暴落に端を発し、世界中に波及した大不況を指す歴史用語です。経済学の教科書などで必ず取り上げられる重要な出来事で、現代の経済政策にも大きな影響を与えました。「世界恐慌」という言葉自体は、過去の特定の出来事を指す固有名詞として使われます。
+
+===word: とろろ昆布===
+Nuance_EN: A Hokkaido local food made by softening kelp in vinegar and then shaving it very thinly. Mainly used as an ingredient in clear soup (お吸い物) and ochazuke (tea over rice), characterized by its unique slippery texture. It is also known for being highly nutritious, rich in minerals and dietary fiber. In the Kansai region, it is also called "おぼろ昆布" (oboro kombu).
+Nuance_JP: コンブを酢で柔らかくしてから薄く削った北海道の郷土食品です。主に「お吸い物」や「お茶漬け」の具として使われ、独特のとろっとした食感が特徴です。栄養価が高く、ミネラルや食物繊維が豊富なことでも知られています。関西地方では「おぼろ昆布」とも呼ばれます。
+
+===word: 養生===
+Nuance_EN: "Yōjō" has two main meanings. The first is health management and taking care of one's body for recovery from illness. The second refers to covering concrete or paint with sheets for protection at construction sites. In everyday conversation, it is more often used in the former sense, expressing health management in the form "養生する" (to take care of one's health).
+Nuance_JP: 「養生」は主に二つの意味があります。一つ目は健康管理和、病気の回復のために体を大切にすることです。二つ目は建設現場などで、コンクリートや塗装を保護するためにシートなどで覆うことを指します。日常会話では前者の意味で使われることが多く、「養生する」という形で健康管理を表現します。
+
+===word: 溶媒===
+Nuance_EN: A chemistry term referring to a liquid that dissolves substances. Water is the most common solvent, but alcohol and ether are also used as solvents. It is an essential concept in chemical experiments and industrial processes, and is one of the basic terms learned in elementary and middle school science classes.
+Nuance_JP: 物質を溶かす液体のことを指す化学用語です。水が最も一般的な溶媒ですが、アルコールやエーテルなども溶媒として使われます。化学の実験や工業プロセスで欠かせない概念で、小学校の理科や中学校の化学の授業で学ぶ基本的な用語の一つです。
+
+===word: 恒星===
+Nuance_EN: An astronomical term for celestial bodies that emit their own light, of which the Sun is one. Most of the stars shining in the night sky are fixed stars, appearing only as points of light because they are so far from Earth. In everyday life, the word "星" (star) suffices, but in discussions about astronomy and space, it is necessary to distinguish between "恒星" (fixed stars) and "惑星" (planets).
+Nuance_JP: 自ら光を発する天体を指す天文学用語で、太陽もその一つです。夜空に輝く星々のほとんどは恒星で、地球からは遠く離れているため点にしか見えません。日常生活では「星」という言葉で十分ですが、天文や宇宙に関する話題では「恒星」と「惑星」を区別して使う必要があります。
+
+===word: 斡旋===
+Nuance_EN: "Atsusen" means to act as an intermediary between two parties to facilitate smooth negotiations or adjustments. It is commonly used in the forms "就職斡旋" (job placement) and "結婚斡旋" (matchmaking), in the context of employment and marriage introductions. In business and politics, "斡旋する" (to mediate) is used to describe acting as a go-between.
+Nuance_JP: 「斡旋」は、両者の間に入って交渉や調整をスムーズに進めることを意味します。特に「就職斡旋」「結婚斡旋」という形で、職業紹介や結婚紹介の文脈でよく使われます。また、ビジネスや政治の分野でも「斡旋する」という形で、仲介役として活動することを表現します。
+
+===word: じゃれ合う===
+Nuance_EN: A verb describing animals or people playing and frolicking with each other. It is mainly used to describe pets like dogs and cats playing together, but can also be used for lighthearted horseplay between people. It carries a fun, innocent atmosphere.
+Nuance_JP: 動物や人が互いにじゃれついたり、遊んだりする様子を表す動詞です。主に犬や猫などのペットがじゃれ合う様子を表現するのに使われますが、人間同士の軽いふざけ合いにも使われることがあります。楽しくて無邪気な雰囲気を持つ言葉です。
+
+===word: 犬も食わない===
+Nuance_EN: This phrase is famous as part of the proverb "夫婦喧嘩は犬も食わない" (Even dogs won't eat a couples' quarrel). The lesson is that couples' quarrels are so uninteresting that even dogs won't pay them any mind, so third parties shouldn't intervene. The part "犬も食わない" alone can also be used to express conflicts or entanglements that should be avoided.
+Nuance_JP: 「犬も食わない」は、他人が関わっても良い結果にならないことを戒めることわざ「夫婦喧嘩は犬も食わない」の一部として有名です。つまり、夫婦の喧嘩は犬でさえ興味を示さないほどつまらないものだから、第三者が介入するべきではないという教えです。この「犬も食わない」という部分だけ取り出して、避けるべき争いや関わり合いを表現することもあります。
+
+===word: 諳んじる===
+Nuance_EN: "Anjiru" means to recite content from memory without looking at the text. Used in situations where one recites memorized poems, lines, scriptures, etc. aloud. Compared to the more common "暗記する" (to memorize), it focuses on the act of reciting aloud and carries a somewhat literary, refined impression.
+Nuance_JP: 「諳んじる」は、テキストを見ずに記憶から内容を朗唱することを意味します。暗記した詩や台詞、経典などを声に出して唱える場面で使われます。より一般的な「暗記する」と比べて、声に出して読む行為に焦点が当たっており、やや文語的で格調高い印象を与えます。
+
+===word: 空爆===
+Nuance_EN: "Kūbaku" refers to a military operation in which aircraft bomb ground targets. It is a word with very heavy connotations, often used in news and discussions about war. It is rarely used in everyday conversation, but appears frequently in war movies and historical contexts.
+Nuance_JP: 「空爆」は、航空機から地上の目標に対して爆撃を行う軍事作戦を指します。ニュースや戦争に関する話題で使われることが多く、非常に重い意味合いを持つ言葉です。日常会話で使われることはほとんどありませんが、戦争映画や歴史の文脈では頻繁に登場します。
+
+===word: 忌まわしい===
+Nuance_EN: An adjective expressing something that is extremely unpleasant and repulsive. It is used not just for simple dislike, but when strong disgust or eeriness is involved. Often used regarding bad memories from the past or taboo topics, conveying the speaker's strong emotions.
+Nuance_JP: 「忌まわしい」は、非常に不快で嫌な気持ちにさせることを表す形容詞です。単に「嫌だ」というより、強い嫌悪感や不気味さを伴う場合に使われます。過去の悪い記憶やタブーな話題に対して使われることが多く、話し手の強い感情が込められた表現です。
+
+===word: 剣聖===
+Nuance_EN: "Kensei" is a title for a master of swordsmanship who is revered almost like a saint. Used to honor historically famous swordsmen, it is the highest praise granted to only a very limited number of individuals. In modern times, the title "剣聖" also appears in the fictional worlds of games and manga.
+Nuance_JP: 「剣聖」は、剣術の達人で特に聖人のように敬われる存在を指す称号です。歴史的に有名な剣豪などを称える時に使われ、非常に限られた人物にしか与えられない最高の賛辞です。現代では、ゲームや漫画などのフィクションの世界でも「剣聖」という称号が登場することがあります。
+
+===word: 過熱===
+Nuance_EN: "Kanetsu" refers to becoming physically too hot, and also metaphorically means a situation going too far. In economic and investment contexts, it is used in the form "過熱感がある" (has a sense of overheating) as a warning that the market is abnormally active and in a dangerous state. It is also used to describe discussions or emotions becoming excessively heated, as in "過熱する" (to overheat).
+Nuance_JP: 「過熱」は物理的に熱くなりすぎることを指すと同時に、比喩的に物事が行き過ぎた状態になることを意味します。経済や投資の文脈で「過熱感がある」という形で使われ、市場が異常に活発で危険な状態にあることを警告する表現として用いられます。また、議論や感情が過度に高ぶる様子も「過熱する」と表現します。
+
+===word: すげ替える===
+Nuance_EN: A verb meaning to replace one thing with another. Used especially when exchanging tools or parts. It is a compound of the verb "すげる" (to attach/insert) and "替える" (to change), expressing a replacement that involves a somewhat concrete physical action. Often used in practical contexts such as plumbing work or machinery repair.
+Nuance_JP: 「すげ替える」は、あるものを別のものに取り替えることを意味する動詞です。特に、道具や部品を交換する場合に使われます。「すげる」という動詞に「替える」が組み合わさった言葉で、やや具体的な動作を伴う交換を表します。配管工事や機械の修理など、実務的な文脈で使われることが多いです。
+
+===word: 偽札===
+Nuance_EN: "Nisatsuda" refers to counterfeit banknotes made to resemble real currency. It has strong associations with criminal terminology and appears frequently in news and crime dramas. The production and use of counterfeit money is a serious crime, and while most people have little direct involvement with it in daily life, it is widely known as knowledge about currency.
+Nuance_JP: 「偽札」は、本物の紙幣に似せて作られた偽造紙幣を指します。犯罪用語としての側面が強く、ニュースや犯罪ドラマでよく登場します。偽札の製造や使用は重大な犯罪であり、日常生活で直接関わることはほとんどありませんが、貨幣に関する知識として広く知られています。
+
+===word: ずけずけ===
+Nuance_EN: An adverb describing the manner of speaking bluntly and frankly without consideration or restraint. Used in the form "ずけずけと物を言う" (to speak bluntly), expressing a frankness that disregards the other person's feelings. It carries a somewhat negative nuance, used to describe someone who is outspoken, as in "あの人はずけずけとものを言う" (that person speaks bluntly).
+Nuance_JP: 「ずけずけ」は、遠慮や配慮なしに率直に物を言う様子を表す副詞です。「ずけずけと物を言う」という形で使われ、相手の気持ちを考えない率直さを表現します。ややネガティブなニュアンスを含み、「あの人はずけずけとものを言う」という形で、遠慮のない人物を描写する時に使われます。
+
+===word: 提携先===
+Nuance_EN: "Teikeisaki" refers to a partner or company with whom one has a cooperative business relationship. A frequently used term in business documents and meetings, similar to "取引先" (business partner) but with a stronger emphasis on an equal partnership. In recent years, partnerships between startups and large corporations have increased, making it a common sight in business news.
+Nuance_JP: 「提携先」は、ビジネスにおいて協力関係を結んでいる相手先や会社を指します。ビジネス文書や会議で頻繁に使われる用語で、「取引先」と似ていますが、より対等な協力関係を強調するニュアンスがあります。近年では、スタートアップと大企業の提携なども増えており、ビジネスニュースでもよく見かけます。
+
+===word: 捩る===
+Nuance_EN: "Nejiru" is a verb with two meanings: physically twisting something, and playing on words to make them amusing. In the latter usage, it appears in wordplay and parody contexts, especially in the form "捩った言い方" (a twisted way of saying things). It can also metaphorically mean distorting facts, as in "事実を捩る" (to twist the facts).
+Nuance_JP: 「捩る」は、物理的にねじるという意味と、言葉をもじって面白くするという二つの意味を持つ動詞です。後者の用法では、特に「捩った言い方」という形で、言葉遊びやパロディの文脈で使われます。また、比喩的に「事実を捩る」という形で、事実を歪めて解釈することも表します。
+
+===word: 夫婦喧嘩は犬も食わない===
+Nuance_EN: A Japanese proverb expressing the wisdom that intervening in another couple's quarrel only leads to more trouble. Literally translating to "even dogs won't eat (i.e., won't be interested in) a couple's quarrel," it carries the lesson that third parties should stay out of it. The proverb teaches the importance of sometimes keeping distance in human relationships.
+Nuance_JP: 他人の夫婦喧嘩に介入すると、かえって面倒なことになるという知恵を表す日本のことわざです。直訳すると「夫婦の喧嘩は犬でさえ食べない（興味を示さない）」という意味で、第三者は関わらない方が良いという教訓が込められています。このことわざは、人間関係において時に距離を置くことの大切さを教えています。
+
+===word: 加虐===
+Nuance_EN: "Kagyaku" is a Sino-Japanese expression meaning to inflict pain or suffering on others. It is often used in the form "加虐趣味" (sadism) to describe sexual preferences or psychological tendencies. It is also used in the context of abuse and bullying, carrying a very negative connotation. It is rarely used in everyday conversation.
+Nuance_JP: 「加虐」は、他者に苦痛や苦しみを与えることを意味する漢語表現です。特に「加虐趣味（サディズム）」という形で、性的嗜好や精神的な傾向を表すことが多いです。また、虐待やいじめの文脈でも使われ、非常にネガティブな意味合いを持つ言葉です。日常会話ではほとんど使われません。
+
+===word: 果報===
+Nuance_EN: "Kahō" is a word derived from a Buddhist term meaning unexpected good fortune or happiness. It is famous in the proverb "果報は寝て待て" (good fortune comes to those who wait), which teaches the importance of patiently waiting for luck to come around without rushing. It is also related to the concept of karma, implying that good deeds bring good results.
+Nuance_JP: 「果報」は、思いがけない幸運や幸福を意味する仏教用語に由来する言葉です。「果報は寝て待て」ということわざで有名で、焦らずに運が巡ってくるのを待つことの大切さを説いています。また、因果応報の考え方とも関連して、良い行いには良い結果が返ってくるという意味も含まれます。
+
+===word: 采配===
+Nuance_EN: "Sahai" originally referred to a tool (a type of baton/flag) used to command troops, and by extension came to mean directing and leading an organization or group. Used in the form "采配を振るう" (to wield the command baton), it expresses a leader giving instructions and moving things forward in a somewhat elevated manner. Used in business and sports contexts to describe the role of a coach or director.
+Nuance_JP: 「采配」は、軍勢を指揮するための道具（采配という旗）から転じて、組織や集団を指揮・統率することを意味する言葉です。「采配を振るう」という形で使われ、リーダーが指示を出して物事を動かす様子を、やや格調高く表現します。ビジネスやスポーツの文脈で、指導者や監督の役割を描写するのに使われます。
+
+===word: 肝いり===
+Nuance_EN: "Kimoiri" means that a superior or influential person shows special interest in and supports a particular project or plan. Used in expressions like "社長肝いりのプロジェクト" (a project backed by the president), it emphasizes that top management is behind it. A somewhat formal expression often used in business settings.
+Nuance_JP: 「肝いり」は、目上の人物や権力者が特定の企画や計画に対して特別な関心を示し、支援することを意味します。「社長肝いりのプロジェクト」のように使われ、組織の上層部が後押ししていることを強調する表現です。ビジネスシーンでよく使われるやや硬い表現です。
+
+===word: ヤケ酒===
+Nuance_EN: "Yakezake" refers to alcohol drunk out of desperation after something unpleasant happens, such as a breakup or work failure. Used in the form "ヤケ酒を飲む" (to drink despairingly), it is portrayed as an act to temporarily forget sadness or stress. It is a common everyday expression found in dramas and novels for describing emotional situations.
+Nuance_JP: 「ヤケ酒」は、失恋や仕事の失敗など、何か嫌なことがあった時に、やけになって飲む酒を指します。「ヤケ酒を飲む」という形で使われ、悲しみやストレスを一時的に忘れるための行動として描かれます。ドラマや小説などでもよく見られる、感情的な状況を表現する日常的な言い方です。
+
+===word: こじつけ===
+Nuance_EN: "Kojitsuke" refers to forcing a rationale to explain something, or making unrelated things appear connected. It carries a strongly critical nuance, used in forms like "こじつけの理由" (a forced reason) and "こじつけの解釈" (a forced interpretation). Used when evaluating an argument or explanation that seems unnatural and unconvincing.
+Nuance_JP: 「こじつけ」は、無理に理屈をつけて説明することや、本来関係のないことに関連性があるように見せかけることを指します。批判的なニュアンスが強く、「こじつけの理由」「こじつけの解釈」という形で使われます。議論や説明が不自然で説得力に欠ける場合に、その説明を評価する際に用いられます。
+
+===word: 山札===
+Nuance_EN: "Yamafuda" refers to the pile of cards from which players draw in card games. It is a specialized term used in mahjong and card games, playing an important role in game progression. It can also be used metaphorically to mean "one's pool of resources," but it is primarily a term used in the context of card games.
+Nuance_JP: 「山札」は、カードゲームでプレイヤーがカードを引くために積まれたカードの山を指します。麻雀やトランプゲームで使われる専門用語で、ゲームの進行に重要な役割を果たします。また、比喩的に「手持ちの資源」という意味で使われることもありますが、主にカードゲームの文脈で使われる言葉です。
+
+===word: 切り抜ける===
+Nuance_EN: "Kirinukeru" means both physically breaking through a difficult situation and, metaphorically, overcoming tough circumstances. In its physical usage, it conjures the image of cutting a path with a sword. In its metaphorical usage, it is used in scenes of overcoming various difficulties such as financial hardship or interpersonal troubles.
+Nuance_JP: 「切り抜ける」は、物理的に困難な状況を突破することと、比喩的に厳しい状況を乗り越えることの両方を意味します。物理的な用法では、実際に刀で道を切り開くようなイメージです。比喩的な用法では、経済的困難や人間関係のトラブルなど、様々な困難を乗り越える場面で使われます。
+
+===word: 製油所===
+Nuance_EN: "Seiyujo" refers to a factory that refines crude oil to produce petroleum products such as gasoline and kerosene. It is a central facility in petrochemical complexes, often located in industrial areas. It may appear in news related to oil prices, but opportunities to use it directly in daily life are limited.
+Nuance_JP: 「製油所」は、原油を精製してガソリンや灯油などの石油製品を製造する工場を指します。石油化学コンビナートの中心的な施設で、工業地帯に位置することが多いです。ニュースで石油価格の話題などに関連して登場することがありますが、日常生活で直接使う機会は限られています。
+
+===word: がちんこ===
+Nuance_EN: "Gachinko" is a slang term meaning to compete seriously or to tackle something in earnest. It is often used in the world of sumo to mean "a serious match," and has spread from there to general competitions and contests. It has dialectal elements centered around the Kansai region and has a somewhat casual tone.
+Nuance_JP: 「がちんこ」は、本気で勝負することや、真剣に取り組む様子を指す俗語です。特に相撲の世界で「真剣勝負」の意味で使われることが多く、そこから一般の競技や勝負事にも広がりました。関西地方を中心に使われる方言的な要素もあり、ややくだけた言い方です。
+
+===word: アポ===
+Nuance_EN: "Apo" is an abbreviation of "appointment," a business term referring to meeting reservations for business negotiations. Used in forms like "アポを取る" (to get an appointment) and "アポを入れる" (to schedule an appointment), it is frequently used especially among salespeople. While it can be used in casual conversation, it is primarily a business term.
+Nuance_JP: 「アポ」は「アポイントメント」の略語で、商談や面会の予約を指すビジネス用語です。「アポを取る」「アポを入れる」という形で使われ、特に営業職の間で頻繁に使われます。カジュアルな会話でも使われることがありますが、主にビジネスシーンで用いられる言葉です。
+
+===word: 直筆===
+Nuance_EN: "Jikihitsu" refers to characters or signatures written directly by the person themselves. Used especially for celebrity autographs and calligraphy works, in forms like "直筆のサイン" (an authentic signature) and "直筆の手紙" (a handwritten letter). It is a word that emphasizes authenticity and scarcity value, often used among collectors.
+Nuance_JP: 「直筆」は、本人が直接書いた文字や署名を指します。特に有名人のサインや書道作品などに対して使われ、「直筆のサイン」「直筆の手紙」という形で用いられます。本人が書いたという真正性や希少価値を強調する言葉で、コレクターの間でもよく使われます。
+
+===word: 置きに===
+Nuance_EN: "Oki ni" is an adverbial expression indicating doing something at regular intervals. Used to show intervals of distance or time, such as "一軒置きに" (every other house) or "一駅置きに" (every other station). It is also used to express actions that repeat at a specific cycle, such as "二日置きに" (every two days / every third day).
+Nuance_JP: 「置きに」は、一定の間隔をおいて何かを行うことを表す副詞的表現です。「一軒置きに」「一駅置きに」というように、距離や時間の間隔を示すのに使われます。また、「二日置きに」という形で、特定の周期で繰り返される動作を表現するのにも使われます。
+
+===word: 鬣===
+Nuance_EN: "Tategami" refers to the long hair that grows from the neck to the back of animals such as lions and horses. It is a specialized term used to describe the external features of animals, read as "たてがみ" in everyday conversation. It often appears in topics related to zoos and wildlife.
+Nuance_JP: 「鬣」は、ライオンや馬などの動物の首から背中にかけて生える長い毛を指します。動物の外見的特徴を描写する際に使われる専門的な言葉で、日常会話では「たてがみ」という読みで使われます。動物園や野生動物に関する話題で登場することが多いです。
+
+===word: 試運転===
+Nuance_EN: "Shiunten" refers to actually operating a machine, device, or vehicle to check whether it functions properly. It is done when purchasing a new car or inspecting machinery after repairs. "試運転" (test runs) conducted before the opening of new railway lines are also frequently in the news.
+Nuance_JP: 「試運転」は、機械や装置、乗り物などを実際に使ってみて、正常に動作するかどうかを確認することを指します。新車の購入時や、修理後の機械の点検などで行われます。また、鉄道では新路線の開業前に行われる「試運転」もよくニュースになります。
+
+===word: 水炊き===
+Nuance_EN: "Mizutaki" is a Japanese hot pot dish in which chicken and vegetables are simmered in plain water. It is especially famous as a specialty of the Kyushu region (Fukuoka Prefecture). Characterized by its simple seasoning, it is eaten with dipping sauces like ponzu or sesame sauce. It is a dish that allows you to enjoy the natural flavors of the ingredients directly, popular in cold seasons.
+Nuance_JP: 「水炊き」は、水だけで鶏肉や野菜を煮込む日本の鍋料理です。特に九州地方（福岡県）の名物料理として知られています。シンプルな味付けが特徴で、ポン酢やごまだれなどのタレで食べます。材料の旨味を直接楽しめる料理で、寒い季節に人気があります。
+
+===word: ぞっこん===
+Nuance_EN: "Zokkon" is an adverb describing a state of being completely head-over-heels for someone. Used in forms like "ぞっこん惚れる" (to fall deeply in love) and "ぞっこんになる" (to become smitten), it expresses very strong romantic feelings. It has a somewhat old-fashioned, cute sound and is often used to describe a woman's romantic feelings.
+Nuance_JP: 「ぞっこん」は、相手に完全に夢中になっている状態を表す副詞です。「ぞっこん惚れる」「ぞっこんになる」という形で使われ、恋愛感情が非常に強いことを表現します。やや古風で可愛らしい響きを持つ言葉で、女性の恋愛感情を描写する際によく使われます。
+
+===word: ギャン泣き===
+Nuance_EN: "Gyan-naki" is a mimetic word describing the loud, intense crying of babies and small children. It is an abbreviated form of "ギャンギャン泣く" (to cry loudly), often used in parenting contexts. It has a casual, friendly tone and is also seen on social media and blogs.
+Nuance_JP: 「ギャン泣き」は、赤ちゃんや幼児が大声で激しく泣く様子を表す擬態語です。「ギャンギャン泣く」の略語的な表現で、子育ての文脈でよく使われます。ややカジュアルで親しみやすい言い方で、SNSやブログなどでも見かけます。
+
+===word: ド田舎===
+Nuance_EN: "Do-inaka" is a slang term emphasizing that a place is extremely rural. The prefix "ド" intensifies the degree. It is often used as an insult or self-deprecation, carrying an urban perspective of the countryside. However, because it can have a discriminatory nuance, one must be careful about when to use it.
+Nuance_JP: 「ド田舎」は、非常に田舎であることを強調する俗語です。「ド」が接頭辞として付くことで、程度が甚だしいことを表します。悪口や自嘲として使われることが多く、都市部から見た田舎のイメージが含まれています。ただし、差別的なニュアンスもあるため、使う場面には注意が必要です。
+
+===word: 放熱===
+Nuance_EN: "Hōnetsu" is a physics and engineering term meaning to release heat to the outside. Used in various fields such as computer CPU coolers and building insulation materials. The expression "放熱する" (to dissipate heat) is also used in the context of human body temperature regulation. While it sounds technical, it can be found in product manuals and the like.
+Nuance_JP: 「放熱」は、熱を外部に放出することを意味する物理・工学的な用語です。コンピューターのCPUクーラーや建築の断熱材など、様々な分野で使われます。また、人間の体温調節の文脈でも「放熱する」という表現が使われます。専門的な響きがありますが、製品の説明書などで見かけることがあります。
+
+===word: 入用===
+Nuance_EN: "Nuyō" is a somewhat old-fashioned Sino-Japanese expression meaning that something is needed or referring to a necessary item. Used in forms like "入用の品" (required goods) and "入用なもの" (needed things), it gives a somewhat formal impression. In everyday conversation, "必要" (necessary) is more common, but "入用" is also used in letters and business documents.
+Nuance_JP: 「入用」は、必要であることや必要なものを指すやや古風な漢語表現です。「入用の品」「入用なもの」という形で使われ、やや改まった印象を与えます。日常会話では「必要」の方が一般的ですが、手紙やビジネス文書などでは「入用」も使われます。
+
+===word: 継ぎ足し===
+Nuance_EN: "Tsugitashi" means replenishing what has been used up. It is particularly famous in cooking as "味の継ぎ足し" (topping up the flavor), where soup or broth is added to adjust the seasoning. Metaphorically, it is also used in the form "知識の継ぎ足し" (continuous learning) to express the importance of ongoing education. It is a word that evokes the image of steady improvement and replenishment.
+Nuance_JP: 「継ぎ足し」は、減った分を補充することを意味します。特に、料理で味付けの調整のためにスープやだしを追加する「味の継ぎ足し」が有名です。また、比喩的に「知識の継ぎ足し」という形で、学び続けることの重要性を表現するのにも使われます。地道な改善や補充をイメージさせる言葉です。
+
+===word: ゼネスト===
+Nuance_EN: "Zenesto" is an abbreviation of "general strike," referring to a large-scale strike organized by labor unions. It is often reported in the news as a major social event that brings transportation and public services to a halt. While it does not occur very frequently in Japan, it is used as a means of political protest in Europe and the United States.
+Nuance_JP: 「ゼネスト」は「ゼネラルストライキ」の略で、労働組合が組織する大規模なストライキを指します。交通機関や公共サービスが止まる社会的大事件としてニュースで報道されることが多いです。日本ではあまり頻繁に起こりませんが、欧米では政治的な抗議手段として行われることがあります。
+
+===word: 一望===
+Nuance_EN: "Ichibō" means to look out over a wide area from a single location. Used in forms like "一望できる" (can be seen at a glance) and "一望の下に見渡す" (to survey under one sweeping gaze), it is especially used to describe views from scenic spots or elevated locations. It is an expression often seen in tourist brochures and the like.
+Nuance_JP: 「一望」は、一つの場所から広範囲を見渡すことを意味します。「一望できる」「一望の下に見渡す」という形で使われ、特に景色の良い場所や高台からの眺めを表現する際に使われます。観光地のパンフレットなどでもよく見かける表現です。
+
+===word: 端脚類===
+Nuance_EN: "Tankyakurui" is a biological term referring to a group of small crustaceans such as amphipods (gammarids) and caprellids (skeleton shrimp). They play an important role in marine ecosystems, but have low general name recognition and are used only in specialized contexts. They can be found in biology and fisheries science textbooks.
+Nuance_JP: 「端脚類」は、ヨコエビやワレカラなどの小型甲殻類の一群を指す生物学用語です。海洋生態系の中で重要な役割を果たしていますが、一般的な知名度は低く、専門的な文脈でのみ使われる言葉です。生物学や水産学の教科書などで見かけることがあります。
+
+===word: 家風===
+Nuance_EN: "Kafū" refers to the customs, atmosphere, and way of family life unique to a household. Used in forms like "家風を守る" (to maintain the family tradition) and "家風が厳しい" (strict family traditions), it is used to express a family's traditions and educational philosophy. While it has become less common in modern times, it appears in conversations about family and upbringing.
+Nuance_JP: 「家風」は、その家庭に特有の習慣や雰囲気、家族の在り方を指す言葉です。「家風を守る」「家風が厳しい」という形で使われ、家庭の伝統や教育方針を表現する際に用いられます。現代ではあまり使われなくなりましたが、家族や育ちの話題で登場することがあります。
+
+===word: 戯け===
+Nuance_EN: "Tawake" is a word referring to foolish actions or speech, or a person who does such things. Famous as a Kansai dialect expression "たわけ," it is often used as a mild insult, especially in forms like "何しとんじゃ、たわけ！" (What are you doing, you fool!). It is an expression frequently seen in period dramas and dialectal conversations.
+Nuance_JP: 「戯け」は、愚かな行動や言動、またそのようなことをする人を指す言葉です。関西弁の「たわけ」として有名で、特に「何しとんじゃ、たわけ！」という形で、軽い罵倒として使われることが多いです。時代劇や方言の会話でよく見かける表現です。
+
+===word: 長広舌を振るう===
+Nuance_EN: "Chōkōzetsu wo furuu" is an idiom meaning to speak enthusiastically for a long time. It often carries a somewhat ironic nuance, used to describe situations where the speaker goes on so long that the audience tires of it. It is often used for lengthy speeches or lectures in formal settings.
+Nuance_JP: 「長広舌を振るう」は、長時間にわたって熱心に話し続けることを意味する慣用句です。やや皮肉なニュアンスを含むことが多く、話が長くて聞き手が疲れてしまう状況を描写する際に使われます。スピーチや講演など、正式な場での長時間の話に対して使われることが多いです。
+
+===word: 風化===
+Nuance_EN: "Fūka" refers to the geological process by which rocks are weathered over long periods by natural forces such as wind and rain. Metaphorically, "風化する" (to erode) expresses memories and emotions fading over time. It is used especially as a warning against letting memories of disasters or wars fade, in the form "風化させてはいけない" (must not let them fade away).
+Nuance_JP: 「風化」は、岩石が風や雨などの自然の力で長い時間をかけて変化する地質学的プロセスを指します。比喩的には、記憶や感情が時間とともに薄れていくことを「風化する」と表現します。特に、震災や戦争などの記憶が時とともに薄れていくことへの警鐘として「風化させてはいけない」という形で使われます。
+
+===word: 髄膜炎===
+Nuance_EN: "Zuimakuen" is the medical name for a disease in which the meninges (the membranes covering the brain and spinal cord) become inflamed. There are bacterial and viral types; bacterial meningitis in particular can cause severe symptoms, making early detection and treatment important. It appears in medical news and health information.
+Nuance_JP: 「髄膜炎」は、脳や脊髄を覆っている髄膜に炎症が起こる病気の医学的名称です。細菌性とウイルス性があり、特に細菌性髄膜炎は重篤な症状を引き起こす可能性があるため、早期発見と治療が重要です。医療ニュースや健康情報で登場することがあります。
+
+===word: 山ごもり===
+Nuance_EN: "Yamagomori" refers to living in seclusion in the mountains for training or spiritual focus. It strongly evokes images of Buddhist monks or martial arts masters doing so, and in modern times, some people do it as part of digital detox or self-improvement. Metaphorically, "山ごもりする" (to hole up) can also mean concentrating intensely on some work.
+Nuance_JP: 「山ごもり」は、修行や精神統一のために山にこもって生活することを指します。仏教の修行僧や武道の達人が行うイメージが強く、現代ではデジタルデトックスや自己啓発の一環として行う人もいます。また、比喩的に「山ごもりする」という形で、集中して作業に取り組むことを表現することもあります。
+
+===word: お茶を濁す===
+Nuance_EN: Rather than meaning to deceive others, it refers to giving vague answers or avoiding the core of an issue to smooth things over. In business settings, it is often used when dodging a difficult question, not by outright refusal, but by evading without causing offense.
+Nuance_JP: 本来は他人をだますというより、その場を取り繕うために曖昧な返事をしたり、核心を避けて話すことを指します。ビジネスシーンでは、答えにくい質問をされたときに使われることが多いですが、相手を正面から拒否するのではなく、角を立てずに逃げるニュアンスがあります。
+
+===word: 仕事に勤しむ===
+Nuance_EN: A somewhat literary expression that conveys a sense of being enthusiastically devoted to one's work, more than just "働く" (to work). It is used more in letters, speeches, and writing than in everyday conversation, and carries a sense of respect or admiration. It is not usually used to describe oneself.
+Nuance_JP: 単に「働く」よりも、熱心に打ち込んでいる様子を表すやや文語的な表現です。日常会話よりは、手紙やスピーチ、文章などで使われることが多く、尊敬や賞賛の気持ちが込められます。自分のことにはあまり使いません。
+
+===word: 腓骨===
+Nuance_EN: A medical term for the thinner of the two bones that make up the human lower leg, located on the outer side. It is thinner compared to the adjacent thicker bone (tibia), and the main role of supporting body weight is taken by the tibia. It appears in the context of injuries such as fractures and in anatomy.
+Nuance_JP: 人間の下肢を構成する二本の骨のうち、外側にある細い骨を指す医学用語です。隣の太い骨（脛骨）と比べて細く、体重を支える役割は主に脛骨が担っています。骨折などのケガや解剖学の文脈で登場します。
+
+===word: 盤面===
+Nuance_EN: "Banmen" refers to the arrangement of pieces and the situation on board games like shogi and go. Beyond just the game board, it can also metaphorically describe the "situation" in business or politics, especially used in the form "盤面を読む" (to read the board) when analyzing the overall state of affairs.
+Nuance_JP: 「盤面」は、将棋や囲碁などの盤上ゲームにおける駒の配置や状況を指します。また、ゲームの局面だけでなく、ビジネスや政治の「情勢」を比喩的に「盤面」と表現することもあり、特に「盤面を読む」という形で全体の状況を分析する際に使われます。
+
+===word: お目通り===
+Nuance_EN: "Omedōri" is a respectful expression meaning to meet a person of high status, especially to have an audience with them. Historically, it referred to meeting a shogun or feudal lord, but in modern times, it may be used somewhat jokingly to describe meeting one's boss or a superior.
+Nuance_JP: 「お目通り」は、身分が高い人に会うこと、特に謁見することを意味する敬意表現です。歴史的には将軍や大名に会うことを指しましたが、現代ではやや冗談めかして、上司や目上の人に会うことを表現する際に使われることがあります。
+
+===word: 額面===
+Nuance_EN: "Gakumen" literally means "the surface of the forehead," and by extension refers to the face value printed on bills and securities. It is also commonly used metaphorically in the idiom "額面通りに受け取る" (to take at face value), meaning to believe words or information as they are. This metaphorical expression is often used in negative contexts ("you shouldn't take it at face value").
+Nuance_JP: 「額面」は、文字通り「額の表面」という意味から、お札や証券に表示された金額を指します。また、比喩的に「額面通りに受け取る」という形で、言葉や情報をそのまま信じることを表現する慣用句としてもよく使われます。この比喩表現は、特に否定的な文脈（「額面通りに受け取ってはいけない」）で使われることが多いです。
+
+===word: 中座===
+Nuance_EN: "Chūza" means to leave one's seat in the middle of a meeting, performance, etc. It is a somewhat polite expression, especially used in the form "中座させていただきます" (please excuse me for leaving mid-session) as a greeting when leaving early. It is a word related to business and formal etiquette.
+Nuance_JP: 「中座」は、会合や公演などの途中で席を立つことを意味します。やや丁寧な言い方で、特に「中座させていただきます」という形で、途中で退席する際の挨拶として使われます。ビジネスやフォーマルな場でのマナーに関連する言葉です。
+
+===word: 野兎病===
+Nuance_EN: "Yatobyō" is a bacterial disease transmitted from wild animals such as rabbits, with the official name "tularemia." It is relatively rare in Japan but is known among people involved in hunting and outdoor activities. It is discussed in the field of public health as a zoonotic disease.
+Nuance_JP: 「野兎病」はウサギなどの野生動物から感染する細菌性の病気で、正式名称は「ツラレミア」です。日本では比較的稀な病気ですが、狩猟や野外活動に関わる人々の間では知られています。人獣共通感染症の一つとして、公衆衛生の分野で取り上げられることがあります。
+
+===word: 遣らせる===
+Nuance_EN: "Yaras eru" is the causative form of the verb "yaru" (to do/give), meaning to make someone do something. It has the same meaning as "やらせる" but carries a somewhat old-fashioned or dialectal ring. Used in situations where a boss or teacher assigns work to a subordinate or student.
+Nuance_JP: 「遣らせる」は、相手に何かをさせることを意味する動詞「やる」の使役形です。「やらせる」と同じ意味ですが、やや古風または方言的な響きがあります。上司や先生が部下や生徒に仕事を任せる場面などで使われます。
+
+===word: ドン引き===
+Nuance_EN: "Don-biki" is a slang term describing the state of being so shocked or put off by someone's words or actions that one is left speechless in disbelief. Used in the form "ドン引きする" (to be totally turned off), it is common on social media and among young people. It emphasizes a greater degree of shock than just "引く" (to be put off).
+Nuance_JP: 「ドン引き」は、相手の言動にあまりに驚いたり、引いたりして、呆れて言葉を失う様子を表す俗語です。「ドン引きする」という形で使われ、SNSや若者の間でよく使われます。単なる「引く」よりも衝撃度が大きいことを強調する表現です。
+
+===word: イチャコラ===
+Nuance_EN: "Icha-kora" is a slang term describing a couple playfully flirting and messing around with each other. It is a kind of blend word combining "イチャイチャ" (flirting) and "コラボ" (collaboration), with a somewhat lighthearted vibe. It can be seen on social media and in manga.
+Nuance_JP: 「イチャコラ」は、カップルが親しげにじゃれ合ったり、イチャイチャする様子を表す俗語です。「イチャイチャ」と「コラボ」を組み合わせたような造語で、やや軽いノリの言葉です。SNSや漫画などで見かけることがあります。
+
+===word: 角が立つ===
+Nuance_EN: "Kado ga tatsu" is an idiom meaning that one's words or actions cause friction in a relationship or create awkwardness. Used in the form "角が立たないように言う" (to phrase things so as not to cause offense), it is used when speaking in a way that considers interpersonal relationships. It is a common expression in business and everyday relationships.
+Nuance_JP: 「角が立つ」は、言動が原因で相手との関係がぎくしゃくしたり、摩擦が生じることを意味する慣用句です。「角が立たないように言う」という形で、人間関係に配慮した言い方をする際に使われます。ビジネスや日常の人間関係でよく使われる表現です。
+
+===word: パワハラ===
+Nuance_EN: "Pawahara" is an abbreviation of "power harassment," referring to harassment or bullying using one's position or authority in the workplace. It has become a growing social concern in recent years, with many companies implementing prevention measures. It is a frequently used word in discussions about workplace environment.
+Nuance_JP: 「パワハラ」は「パワーハラスメント」の略語で、職場での地位や権力を利用した嫌がらせやいじめを指します。近年社会的に問題視されるようになり、多くの企業が防止策を講じています。職場環境に関する話題で頻繁に使われる言葉です。
+
+===word: 腑抜け===
+Nuance_EN: "Funuke" is an insulting term for a person who lacks energy, drive, and is slovenly. The form "腑抜けになる" (to become spineless) also expresses the state of being mentally defeated due to shock or failure. It carries a strongly negative connotation, so one must be careful about whom and in what context it is used.
+Nuance_JP: 「腑抜け」は、気力や覇気がなく、だらしない人を指す罵倒語です。「腑抜けになる」という形で、ショックや失敗で精神的に参ってしまう様子も表現します。強い否定的なニュアンスを持つ言葉で、使う相手や場面には注意が必要です。
+
+===word: 命取り===
+Nuance_EN: "Inochitori" refers to a dangerous situation or action that could lead to death if left unchecked. Beyond specific illnesses or accidents, it is also used metaphorically as a warning to urge caution, as in "油断は命取りだ" (carelessness can be fatal). It is a somewhat stronger expression than everyday conversation.
+Nuance_JP: 「命取り」は、そのまま放置すると死に至る可能性がある危険な状況や行動を指します。具体的な病気や事故だけでなく、比喩的に「油断は命取りだ」という形で、注意を促す警告としても使われます。日常会話よりはやや強い表現です。
+
+===word: 発話===
+Nuance_EN: "Hatsuwa" is a specialized term in linguistics and psychology referring to the act of speaking or the content of what is said. In everyday conversation, "話す" (to speak) is sufficient, but it is used in specialized contexts such as studies of language disorders and communication. It is also used in the fields of AI speech synthesis and speech recognition.
+Nuance_JP: 「発話」は、言葉を発する行為やその内容を指す言語学や心理学の専門用語です。日常会話では「話す」で十分ですが、言語障害やコミュニケーションの研究など、専門的な文脈で使われます。また、AIの音声合成や音声認識の分野でも使われることがあります。
+
+===word: 確約===
+Nuance_EN: "Kakuyaku" is a somewhat formal expression meaning to promise that something will definitely come to pass. Used in forms like "確約する" (to guarantee) and "確約を得る" (to obtain a guarantee), it is used to express a written promise or an official commitment. In everyday conversation, "約束" (promise) is more common.
+Nuance_JP: 「確約」は、間違いなく実現することを約束することを意味するやや硬い表現です。「確約する」「確約を得る」という形で使われ、書面での約束や公式な場での約束を表現する際に用いられます。日常会話では「約束」の方が一般的です。
+
+===word: 機嫌を損ねる===
+Nuance_EN: "Kigen wo sokoneru" is an idiom meaning to make someone feel bad, or for someone to become displeased. Used in the form "機嫌を損ねないように言う" (to phrase things so as not to upset someone), it is used when handling a situation with consideration for the other person's feelings. It is a polite expression commonly used in business and interpersonal relationships.
+Nuance_JP: 「機嫌を損ねる」は、相手の気分を悪くさせること、または相手が不機嫌になることを意味する慣用句です。「機嫌を損ねないように言う」という形で、相手の感情に配慮した対応を表現する際に使われます。ビジネスや人間関係でよく使われる丁寧な表現です。
+
+===word: 路線価===
+Nuance_EN: "Rosenka" is a tax term referring to the assessed value per square meter of land fronting a road. It is used as a basis for calculating inheritance and gift taxes, and is announced annually by the National Tax Agency. It is often used as a reference in real estate transactions and asset valuation.
+Nuance_JP: 「路線価」は、道路に面した土地の1平方メートル当たりの評価額を指す税務用語です。相続税や贈与税の計算基準として使われ、毎年国税庁から発表されます。不動産の売買や資産評価の際に参考にされることが多いです。
+
+===word: 符丁===
+Nuance_EN: "Fuchō" refers to secret codes or jargon used within specific industries or groups. It can also refer to price symbols on products or symbols with a kind of cryptographic meaning. These are remnants of merchant argot from olden times that survive to the present day, a type of specialized industry terminology.
+Nuance_JP: 「符丁」は、特定の業界や集団の中で使われる符牒や隠語を指します。また、商品に付ける値段の記号や、暗号のような意味を持つ記号も指します。古くは商人の間で使われていた隠語が現代まで残っているもので、専門的な業界用語の一種です。
+
+===word: 底をつく===
+Nuance_EN: "Soko wo tsuku" is an idiom meaning that supplies, funds, energy, etc. have been completely exhausted. Used in forms like "食料が底をつく" (food supplies run out) and "貯金が底をつく" (savings run dry), it expresses a state of having used up everything to the limit. It is a clear, easy-to-understand expression often used in everyday conversation.
+Nuance_JP: 「底をつく」は、物資や資金、体力などが完全に尽きてしまうことを意味する慣用句です。「食料が底をつく」「貯金が底をつく」という形で使われ、限界まで使い果たした状態を表現します。日常会話でもよく使われる分かりやすい表現です。
+
+===word: ペーペー===
+Nuance_EN: "Pēpē" is a slang term for a novice or underling who lacks experience and ability. It carries a somewhat contemptuous nuance and is often used in the form "ペーペーのくせに" (even though you're just a greenhorn). It is mainly used by seniors or older colleagues in workplace hierarchies to refer to newcomers.
+Nuance_JP: 「ペーペー」は、経験が浅く、実力の伴わない新人や下っ端を指す俗語です。やや軽蔑的なニュアンスを含み、「ペーペーのくせに」という形で使われることが多いです。主に職場の上下関係の中で、年長者や先輩が新人を指す時に使われます。
+
+===word: コネ===
+Nuance_EN: "Kone" is an abbreviation of "connection," referring to personal networks or connections that provide advantages in employment or business. Used in forms like "コネを使う" (to use connections) and "コネ入社" (getting a job through connections), it is used somewhat ironically to describe gaining an advantageous position through relationships rather than ability.
+Nuance_JP: 「コネ」は「コネクション」の略で、就職やビジネスなどで有利になる人脈や縁故を指します。「コネを使う」「コネ入社」という形で使われ、実力ではなく人間関係で有利な立場を得ることをやや皮肉的に表現する際に使われます。
+
+===word: 寝坊===
+Nuance_EN: "Nebō" refers to not being able to wake up at the scheduled time and sleeping in. Used in the form "寝坊する" (to oversleep), it is a very common word expressing a frequent occurrence in daily life. It frequently appears in discussions about lateness and time management.
+Nuance_JP: 「寝坊」は、決められた時間に起きられず、遅くまで寝てしまうことを指します。「寝坊する」という形で使われ、日常生活でよくある出来事を表現する非常に一般的な言葉です。遅刻や時間管理の話題で頻繁に登場します。
+
+===word: 念話===
+Nuance_EN: "Nenwa" is a term primarily used in the world of science fiction and fantasy, referring to communicating thoughts without words, like telepathy. While it has not been scientifically proven in reality, it appears frequently in fictional works such as manga and anime.
+Nuance_JP: 「念話」は、テレパシーのように言葉を使わずに意思を伝えることを指す、主にSFやファンタジーの世界で使われる言葉です。現実には科学的に証明されていませんが、漫画やアニメなどのフィクション作品で頻繁に登場します。
+
+===word: 軟禁===
+Nuance_EN: "Nankin" refers to a state of confinement in which a person is restricted from leaving a specific location but is not physically restrained. It is often used in political contexts in the form "自宅軟禁" (house arrest), as a means of restricting a person's freedom. While it is a milder measure than full incarceration, it is still a serious human rights violation.
+Nuance_JP: 「軟禁」は、特定の場所から出ることを制限するが、身体的拘束はしないという形での監禁状態を指します。政治的な文脈で「自宅軟禁」という形で使われることが多く、人物の自由を制限する手段として用いられます。完全な監禁よりは軽い措置ですが、それでも重大な人権侵害です。
+
+===word: 前のめり===
+Nuance_EN: "Mae no meri" has two meanings: one's body leaning forward, and metaphorically, being enthusiastic about something. The former describes physically losing one's balance, while the latter expresses a proactive attitude. It is especially used in the form "前のめりになる" (to lean in eagerly) to describe tackling something with enthusiasm.
+Nuance_JP: 「前のめり」は、体が前に傾くことと、比喩的に物事に積極的になることを意味します。前者は物理的なバランスを崩す様子を、後者は熱心に取り組む姿勢を表します。特に「前のめりになる」という形で、熱意を持って何かに取り組む様子を表現することが多いです。
+
+===word: 身から出た錆===
+Nuance_EN: "Mi kara deta sabi" is a proverb meaning that one's own actions cause one's own suffering. It implies self-inflicted trouble, carrying the nuance that the cause lies within oneself. Used when reflecting on one's own mistakes or when admonishing someone about their failure as "just deserts."
+Nuance_JP: 「身から出た錆」は、自分の行いが原因で自分自身が苦しい目に遭うことを意味することわざです。自業自得という意味で、原因が自分にあることを認めるニュアンスが含まれています。自分の過ちを反省する場面や、他人の失敗に対して「自業自得だ」と諭す時に使われます。
+
+===word: 急き立てる===
+Nuance_EN: "Sekitateru" is a verb meaning to hurry someone or something along. It carries a nuance of rushing not just in terms of physical speed but also through psychological pressure. Used in the form "急き立てられるように" (as if driven/pushed), it also expresses being forced to act by strong external pressure.
+Nuance_JP: 「急き立てる」は、人や物事を急がせることを意味する動詞です。物理的な速さだけでなく、心理的なプレッシャーをかけて急かすニュアンスがあります。「急き立てられるように」という形で、強い外的圧力によって行動を強いられる様子を表現するのにも使われます。
+
+===word: 格式===
+Nuance_EN: "Kakushiki" refers to status, standing, or dignity based on social position, family lineage, and tradition. It is especially used in forms like "格式のある店" (an establishment with class) and "格式高い式典" (a dignified ceremony) to describe scenes or places that value tradition and solemnity. It is a word that reflects the Japanese culture of emphasizing formality.
+Nuance_JP: 「格式」は、社会的身分や家柄、伝統に基づく格や品格を意味する言葉です。特に「格式のある店」「格式高い式典」という形で、伝統や厳かさを重視する場面や場所を表現するのに使われます。格式を重視する日本文化を反映した言葉です。
+
+===word: 引率===
+Nuance_EN: "Insotsu" means leading a group to a destination. It is a word commonly used especially in scenes where school teachers lead students on field trips or school excursions. Used in forms like "引率する" (to chaperone) and "引率者" (the person leading), it expresses the role of responsibly accompanying a group.
+Nuance_JP: 「引率」は、集団を率いて目的地まで導くことを意味します。特に、学校の先生が生徒を引率して遠足や修学旅行に行く場面でよく使われる言葉です。「引率する」「引率者」という形で、責任を持って集団を連れて行く役割を表します。
+
+===word: マウントを取る===
+Nuance_EN: "Maunto wo toru" is a slang term derived from the behavior of animals mounting others to show dominance, referring to attitudes or actions that try to assert superiority over people. It is a relatively new expression used in various settings such as social media and the workplace, especially in the form "マウントを取り合う" (to compete for dominance) describing a back-and-forth of such behavior.
+Nuance_JP: 「マウントを取る」は、動物が相手の上に乗って優位性を示す行動から転じて、人に対して優位に立とうとする態度や行動を指す俗語です。SNSや職場など、様々な場面で使われる比較的新しい表現で、特に「マウントを取り合う」という形で、マウンティング行為の応酬を表現します。
+
+===word: 術式===
+Nuance_EN: "Jutsushiki" is a medical term referring to the method or procedure of a surgical operation. The word is also used in the context of magic and sorcery, appearing in SF and fantasy works. In its medical sense, it is a highly specialized term and is almost never used in everyday conversation.
+Nuance_JP: 「術式」は、外科手術の方法や手順を指す医学用語です。また、魔法や呪術の文脈で「術式」という言葉が使われることもあり、SFやファンタジー作品でも見かけます。医学的な意味では非常に専門的な用語で、日常会話で使われることはほとんどありません。
+
+===word: 潮目===
+Nuance_EN: "Shiome" is an oceanographic term referring to the boundary line where ocean currents of different properties meet. In fishing, tide rips are known as good fishing grounds because plankton gathers there, attracting many fish. Metaphorically, a turning point where circumstances or fate changes is expressed as "潮目が変わる" (the tide turns).
+Nuance_JP: 「潮目」は、異なる性質を持つ海流がぶつかり合う境界線を指す海洋用語です。漁業では、潮目にプランクトンが集まり魚が多く集まるため、良い漁場として知られています。比喩的には、物事の情勢や運命が変わる重要な分岐点を「潮目が変わる」と表現します。
+
+===word: 訳もなく===
+Nuance_EN: "Wake mo naku" is an adverbial expression describing something happening without any particular reason or cause. Used in forms like "訳もなく悲しくなる" (to feel sad for no reason) and "訳もなく笑えてくる" (to feel like laughing for no reason), it is used when there is no clear reason for an emotion or action. It is a natural expression commonly used in everyday conversation.
+Nuance_JP: 「訳もなく」は、特に理由や原因がないのに何かが起こる様子を表す副詞的表現です。「訳もなく悲しくなる」「訳もなく笑えてくる」という形で、感情や行動に明確な理由がない場合に使われます。日常会話でもよく使われる自然な表現です。
+
+===word: 監督===
+Nuance_EN: "Kantoku" refers to the role of directing the entire production of a film or play, or the role of coaching a sports team. It can also refer to the position of overseeing and managing work at construction sites, etc. It is a highly polysemous word, with its meaning varying greatly depending on context.
+Nuance_JP: 「監督」は、映画や演劇の制作全体を指揮する役割、またはスポーツチームを指導する役割を指します。また、工事現場などの作業を管理監督する立場も「監督」と呼ばれます。非常に多義的な言葉で、文脈によって意味が大きく異なります。
+
+===word: 居たたまれない===
+Nuance_EN: "Itatamarenai" is an adjective describing a psychological state where one finds it so painful or embarrassing to be in a place that they can hardly bear to stay. Used in situations of intense shame or awkwardness, it is a common emotional expression in dramas and novels.
+Nuance_JP: 「居たたまれない」は、その場にいるのが辛くて耐えられない、恥ずかしくて居続けられないという心理状態を表す形容詞です。強い羞恥心や気まずさを感じる状況で使われ、ドラマや小説でもよく登場する感情表現です。
+
+===word: 低俗===
+Nuance_EN: "Teizoku" is a Sino-Japanese expression meaning lacking in taste, refinement, and being vulgar. Used in forms like "低俗な番組" (vulgar programs) and "低俗な趣味" (vulgar hobbies), it is used to criticize the quality of art or entertainment. It carries a somewhat condescending negative nuance, so care must be taken when using it towards others.
+Nuance_JP: 「低俗」は、品や教養がなく、下品であることを意味する漢語表現です。「低俗な番組」「低俗な趣味」という形で、芸術や娯楽の質を批判する際に使われます。やや上から目線の否定的なニュアンスがあり、使う際には相手への配慮が必要です。
+
+===word: 唾をつける===
+Nuance_EN: "Tsuba wo tsukeru" is an idiom meaning to stake a claim to something one wants by marking it first. Originally derived from the practice of spitting on goods to claim "this is mine." In modern times, it is used metaphorically to mean getting a head start on new ideas or business opportunities.
+Nuance_JP: 「唾をつける」は、自分が欲しいものに先に印をつけて、自分の所有権を主張することを意味する慣用句です。元々は商品に唾を付けて「これは私のものだ」と主張した習慣から来ています。現代では比喩的に、新しいアイデアやビジネスチャンスなどに「先に手をつける」という意味で使われます。

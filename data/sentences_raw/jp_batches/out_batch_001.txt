@@ -1,0 +1,452 @@
+# 日本語 Nuance + Example Sentences
+
+---
+
+===word: 代わり番===
+Nuance: 交代で順番に物事を行う様子を表します。「代わり番こ」という形でも使われます。単に「交代」や「順番」よりも、互いに役割を入れ替えながら続けるニュアンスが強いです。
+Example1: 子ども達は代わり番に自転車に乗りました。
+Example1_EN: The children took turns riding the bicycle.
+Example2: 代わり番で休憩を取りましょう。
+Example2_EN: Let's take turns having breaks.
+Example3: ペアで代わり番に質問に答える練習をしました。
+Example3_EN: We practiced answering questions in pairs, taking turns.
+
+---
+
+===word: 槍玉に挙げる===
+Nuance: 特定の人や物事を批判や攻撃の対象として取り上げることを意味します。「槍玉」は文字通り槍の先の球のことで、そこから「標的」という意味が生まれました。多くの場合、不当にやり玉に挙げられたというニュアンスを含みます。
+Example1: 会議で彼だけが槍玉に挙げられて、かわいそうでした。
+Example1_EN: He was the only one held up as a target in the meeting — it was pitiful.
+Example2: ちょっとしたミスで新人が槍玉に挙げられるのはよくあることです。
+Example2_EN: It's common for new employees to be made an example of over small mistakes.
+Example3: あの政治家はいつもマスコミに槍玉に挙げられています。
+Example3_EN: That politician is always being targeted by the media.
+
+---
+
+===word: 無双===
+Nuance: 比べる相手がいないほど優れていることを表す漢語表現です。ゲームやアニメで「無双する」（敵をなぎ倒す）という俗語的用法も広まりましたが、本来は「天下無双」のように「比類なき」という意味です。やや誇張した響きがあり、カジュアルな場面よりは作品タイトルやキャッチフレーズでよく見かけます。
+Example1: あの武将は剣の腕前が天下無双だったそうです。
+Example1_EN: That warlord was said to be peerless in swordsmanship.
+Example2: このゲームでは敵を無双できる爽快感が魅力です。
+Example2_EN: The appeal of this game is the exhilaration of mowing down enemies.
+Example3: 彼女のピアノの技術は無双の域に達しています。
+Example3_EN: Her piano technique has reached a level of peerlessness.
+
+---
+
+===word: 藻===
+Nuance: 水中に生える植物の総称で、海藻やアオコ、水草など幅広く指します。「藻が生える」「藻を掻く」などの慣用句でも使われます。「海藻」が食用のイメージが強いのに対し、「藻」はより生物学的・抽象的な響きがあります。
+Example1: 池の表面に緑色の藻がたくさん浮いていました。
+Example1_EN: A lot of green algae was floating on the surface of the pond.
+Example2: この川の藻は水質が良い証拠だそうです。
+Example2_EN: The algae in this river is said to be evidence of good water quality.
+Example3: 水槽の掃除をしないと藻が増えてしまいます。
+Example3_EN: If you don't clean the aquarium, the algae will multiply.
+
+---
+
+===word: 結果論===
+Nuance: 結果がわかった後で「ああすればよかった」と述べる意見のことです。結果が良いときは「やっぱり正しかった」、悪いときは「やはり間違っていた」と言うのが結果論で、決定時の状況を考慮していないため、議論ではあまりフェアではないとされます。
+Example1: 今から言っても結果論に過ぎません。
+Example1_EN: Saying it now is nothing more than hindsight.
+Example2: 結果論ですが、あの時は別の方法を選ぶべきでした。
+Example2_EN: With the benefit of hindsight, we should have chosen a different method back then.
+Example3: 結果論で物事を判断するのは簡単です。
+Example3_EN: It's easy to judge things based on hindsight.
+
+---
+
+===word: 脾臓===
+Nuance: 体内の臓器の一つで、左脇腹のあたりにあります。リンパ系の器官で、古い赤血球を処理する働きを持ちます。日常会話では「脾臓が痛い」など体調の話で出てくる程度で、胃や肝臓ほど頻繁には登場しない語です。
+Example1: 脾臓は免疫にも関係している重要な臓器です。
+Example1_EN: The spleen is an important organ related to immunity as well.
+Example2: 事故で脾臓を損傷して、手術を受けたそうです。
+Example2_EN: I heard he damaged his spleen in an accident and had surgery.
+Example3: 脾臓の位置は左の肋骨の下あたりです。
+Example3_EN: The spleen is located around under the left ribs.
+
+---
+
+===word: 万来===
+Nuance: 多くの客が来ることを意味し、主に「万来」という漢字だけで「お客様万来」のような決まり文句で使われます。単独で使うことは少なく、看板やキャッチコピーで見かけることが多いです。「門前市をなす」ほど日常的ではありませんが、商売繁盛のイメージがあります。
+Example1: あの新しいラーメン屋は開店以来、客万来の状態が続いています。
+Example1_EN: That new ramen shop has been packed with customers since it opened.
+Example2: 万来と書かれた看板が店の前にありました。
+Example2_EN: There was a sign reading "Many Customers Welcome" in front of the shop.
+Example3: そのイベントは万来の盛況で終わりました。
+Example3_EN: The event ended with a great crowd of visitors.
+
+---
+
+===word: アメフト===
+Nuance: アメリカンフットボールの略語で、日本語で日常的に使われるスラング的略称です。試合・選手・用具など、あらゆる文脈で使えます。正式名称より短くて言いやすいため、日本では「アメフト」が一般的です。
+Example1: 兄は大学でアメフトをやっています。
+Example1_EN: My older brother plays American football in college.
+Example2: 昨夜、テレビでアメフトの試合を観ました。
+Example2_EN: I watched an American football game on TV last night.
+Example3: アメフトのルールは少し複雑ですが、観ると面白いです。
+Example3_EN: The rules of American football are a bit complicated, but it's fun to watch.
+
+---
+
+===word: 病理===
+Nuance: 病気の原因や仕組み、変化を研究する医学の分野です。また、比喩的に社会や組織の「病的な状態」を指すこともあります。医学用語としては「病理学」「病理医」のように使われます。日常会話よりは医療や学術の文脈で登場します。
+Example1: 病理の検査結果を聞きに行きました。
+Example1_EN: I went to hear the results of the pathology examination.
+Example2: 彼は病理学の専門医になるために勉強しています。
+Example2_EN: He is studying to become a specialist in pathology.
+Example3: この組織の病理は、長年の閉鎖的な体質にあります。
+Example3_EN: The pathology of this organization lies in its long-standing insular culture.
+
+---
+
+===word: 桑原桑原===
+Nuance: 雷が鳴ったときや不吉なことを言ったときに「災いが自分に来ませんように」と唱えるおまじないのような言葉です。元々は「桑原」という地名（雷除けの言い伝えがある）に由来します。現代では冗談めかして使うことが多く、本気で使う人はほとんどいません。
+Example1: 大きな雷が鳴ったので、思わず「桑原桑原」と唱えました。
+Example1_EN: When a loud thunderclap sounded, I found myself saying "kuwabara kuwabara."
+Example2: 「宝くじに当たったら…」と言って、桑原桑原と付け加えました。
+Example2_EN: I said "If I win the lottery..." and added "touch wood" for good measure.
+Example3: そんな怖い話をしないでください。桑原桑原ですよ。
+Example3_EN: Please don't tell such scary stories. Heaven forbid!
+
+---
+
+===word: 本懐===
+Nuance: 長い間抱き続けてきた願いや望みがかなうことを「本懐を遂げる」と言います。古風で格調高い表現で、日常会話よりは小説やスピーチなどで使われます。単なる「願望」よりも、長年の努力の末に達成する重みのある願いを指します。
+Example1: 念願の全国大会に出場して、ついに本懐を遂げました。
+Example1_EN: I finally achieved my long-cherished desire of competing in the national tournament.
+Example2: 彼にとって、小説家になることが長年の本懐でした。
+Example2_EN: Becoming a novelist was his long-cherished desire.
+Example3: 本懐を遂げた彼の顔は晴れやかでした。
+Example3_EN: His face was radiant after fulfilling his long-cherished wish.
+
+---
+
+===word: 前哨戦===
+Nuance: 本格的な戦いや競技の前に行われる、準備的な小競り合いや試合のことです。政治の選挙前の討論会や、スポーツのプレシーズンマッチなどに使われます。比喩的にも、何か大きなイベントの前段階を指すことができます。
+Example1: 今夜の討論会は選挙の前哨戦と言われています。
+Example1_EN: Tonight's debate is considered a preliminary skirmish for the election.
+Example2: この試合は来月の決勝戦の前哨戦として注目されています。
+Example2_EN: This match is getting attention as a warm-up for next month's finals.
+Example3: 前哨戦で負けてしまいましたが、本番に向けて気持ちを切り替えました。
+Example3_EN: I lost in the preliminary round, but I switched my mindset toward the main event.
+
+---
+
+===word: 沸点===
+Nuance: 液体が沸騰する温度を指す物理用語ですが、比喩的に「怒りの限界点」という意味で日常的によく使われます。「沸点に達する」「沸点を超える」のように、我慢の限界を表現する際に使われます。物理的な意味より、むしろ比喩表現のほうが会話では頻出です。
+Example1: 水の沸点は摂氏100度です。
+Example1_EN: The boiling point of water is 100 degrees Celsius.
+Example2: 彼の嫌味な発言で、私の怒りの沸点に達しました。
+Example2_EN: His sarcastic remarks pushed me to my boiling point.
+Example3: 沸点が低いので、彼はすぐに怒ってしまいます。
+Example3_EN: He has a low boiling point, so he gets angry easily.
+
+---
+
+===word: 怒り肩===
+Nuance: 怒っている時のように肩を張った姿勢、またはそのような肩の形を指します。力士など、肩が盛り上がってがっしりした体型を描写するときにも使われます。日常では「怒り肩になる」という形で、怒りや緊張で肩が上がった状態を表現します。
+Example1: 彼は怒り肩になって、相手を睨みつけました。
+Example1_EN: He squared his shoulders and glared at the other person.
+Example2: 相撲取りはみんな怒り肩の体格をしています。
+Example2_EN: Sumo wrestlers all have a build with square shoulders.
+Example3: 課長が怒り肩でこっちに歩いてきます。何かあったのでしょう。
+Example3_EN: The section manager is walking this way with his shoulders squared. Something must have happened.
+
+---
+
+===word: 実演===
+Nuance: 実際にやって見せて説明することです。商品の販売促進で「実演販売」という形でよく使われます。料理や道具の使い方などを、言葉だけでなく実際の動作で示すことを指します。単なる「説明」より具体的で、見ている人が理解しやすいというニュアンスがあります。
+Example1: デパートで料理の実演販売をやっていました。
+Example1_EN: There was a cooking demonstration sale at the department store.
+Example2: 先生が機械の使い方を実演してくださいました。
+Example2_EN: The teacher demonstrated how to use the machine for us.
+Example3: 実演を見たら、思っていたより簡単にできそうでした。
+Example3_EN: After watching the demonstration, it seemed easier than I thought.
+
+---
+
+===word: 静観===
+Nuance: 騒ぎや問題が起こっているときに、介入せずにじっと様子を見守ることです。「静観する」という動詞形で使われます。無関心とは違い、意識的に状況を注視しながらも手を出さない、という態度を表します。ビジネスや政治の場面でよく使われるやや硬い表現です。
+Example1: 私はあえて静観の姿勢を取ることにしました。
+Example1_EN: I decided to take a stance of watchful waiting.
+Example2: 両者の言い分を聞いて、しばらく静観しようと思います。
+Example2_EN: After hearing both sides' arguments, I think I'll carefully observe for a while.
+Example3: 彼は争いに巻き込まれないように、終始静観していました。
+Example3_EN: He watched from the sidelines throughout, careful not to get drawn into the conflict.
+
+---
+
+===word: 溜飲が下がる===
+Nuance: 長く不満や悔しさを抱えていた状況から解放されて、気分が晴れやかになることです。「溜飲」はもともと胸や胃にたまる不快な飲み物（胃酸）のことで、それが下がると胸やけが治まるという比喩です。何か溜飲を下げる出来事がないと「溜飲が下がらない」という否定形でもよく使われます。
+Example1: 長年のライバルに勝って、ようやく溜飲が下がりました。
+Example1_EN: After defeating my long-time rival, I finally felt relieved.
+Example2: 彼の間違いが証明されて、少し溜飲が下がりました。
+Example2_EN: When his mistake was proven, I felt a bit satisfied.
+Example3: いくら文句を言っても溜飲が下がらないんです。
+Example3_EN: No matter how much I complain, I just can't feel satisfied.
+
+---
+
+===word: 新味===
+Nuance: 新しさや独創性、これまでにない面白さを意味します。特に「新味がない」「新味に欠ける」という否定形で使われることが多く、既存のものと大差ないという批評のニュアンスになります。商品や作品、アイデアに対して使われることが多いです。
+Example1: この商品には新味がなくて、売れないでしょう。
+Example1_EN: This product lacks novelty — it probably won't sell.
+Example2: 彼の提案にはいつも新味があって、参考になります。
+Example2_EN: His proposals always have a fresh angle, and they're informative.
+Example3: 最近のドラマはどれも似たり寄ったりで、新味を感じません。
+Example3_EN: Recent dramas are all pretty similar — I don't sense any originality.
+
+---
+
+===word: 有線===
+Nuance: 物理的なケーブルを使って通信や接続を行う方式です。対義語は「無線」です。イヤホンやインターネット接続など、ケーブルが必要な機器を指すときに使われます。「有線放送」のように、ケーブルテレビや館内放送の文脈でも使われますが、現代ではワイヤレスが主流になったため、区別のために使われることが増えています。
+Example1: 私は音質重視で有線のイヤホンを使っています。
+Example1_EN: I use wired earphones because I prioritize sound quality.
+Example2: このホテルでは有線インターネットしか使えません。
+Example2_EN: At this hotel, only wired internet is available.
+Example3: 有線と無線では、通信の安定性が違います。
+Example3_EN: Wired and wireless connections differ in communication stability.
+
+---
+
+===word: 河川敷===
+Nuance: 川の水面と堤防の間の土地のことです。普段は水がなく、芝生やグラウンドとして利用されていることが多いです。日本では河川敷に野球場やサッカー場、遊歩道が整備されているケースが多く、市民の憩いの場になっています。洪水時には水没する危険がある場所でもあります。
+Example1: 週末は河川敷でバーベキューを楽しみました。
+Example1_EN: We enjoyed a barbecue on the riverbank this weekend.
+Example2: 河川敷には綺麗な遊歩道が整備されています。
+Example2_EN: A beautiful promenade has been developed along the riverside area.
+Example3: 河川敷で犬を散歩させるのが日課です。
+Example3_EN: Walking my dog on the riverbank is part of my daily routine.
+
+---
+
+===word: 替え歌===
+Nuance: 既存の曲のメロディーに別の歌詞を当てはめたものです。面白おかしくするためのパロディや、学習用の語呂合わせとして使われることが多いです。著作権の関係で、公の場で流すには注意が必要ですが、学校や友人間ではよく楽しまれています。
+Example1: 子供たちが替え歌を作って歌っていました。
+Example1_EN: The children were making up a parody song and singing it.
+Example2: この替え歌は社会科の暗記に役立ちます。
+Example2_EN: This song parody is useful for memorizing social studies material.
+Example3: 彼の替え歌はいつも面白くて、みんなを笑わせます。
+Example3_EN: His song parodies are always funny and make everyone laugh.
+
+---
+
+===word: ハイタッチ===
+Nuance: 喜びや称賛を表現するために、互いの手のひらを打ち合わせる動作です。スポーツの試合後や、何かがうまくいったときに行われます。日本では「ハイタッチ」というカタカナ語が定着しており、親しい間柄で気軽に行うスキンシップの一つです。
+Example1: ゴールを決めた選手たちはハイタッチを交わしました。
+Example1_EN: The players who scored exchanged high fives.
+Example2: 試験に合格して、友達とハイタッチしました。
+Example2_EN: I passed the exam and high-fived my friend.
+Example3: 子供が私に「ハイタッチしよう！」と言って手を上げました。
+Example3_EN: My child raised their hand and said, "Let's high-five!"
+
+---
+
+===word: 善行===
+Nuance: 人を助けたり社会に貢献するような、良い行いのことです。宗教的・道徳的な響きがあり、「善行を積む」という形で使われることが多いです。日常的な「親切」より格式ばっていて、表彰されるような行為を指す傾向があります。
+Example1: 駅でお年寄りに席を譲るのは小さな善行です。
+Example1_EN: Giving up your seat for an elderly person at the station is a small good deed.
+Example2: 彼は長年にわたって地域で善行を続けてきました。
+Example2_EN: He has been performing good deeds in the community for many years.
+Example3: 善行はいつか自分に返ってくると信じています。
+Example3_EN: I believe that good deeds will come back to you someday.
+
+---
+
+===word: 巻尺===
+Nuance: 長さを測るための、柔らかい素材でできたメジャーのことです。布やビニール製で、くるくる巻き取れる構造になっています。大工仕事や裁縫で使われます。金属製の「メジャー」や「スチール巻尺」と区別して、布製のものを指すことが多いです。
+Example1: 裁縫には布製の巻尺が便利です。
+Example1_EN: A cloth tape measure is convenient for sewing.
+Example2: 巻尺で部屋の横幅を測りました。
+Example2_EN: I measured the width of the room with a tape measure.
+Example3: 巻尺を伸ばしすぎて、戻すのに苦労しました。
+Example3_EN: I pulled the tape measure out too far and had trouble retracting it.
+
+---
+
+===word: 恐慌===
+Nuance: 経済や社会全体に広がる激しい不安や混乱を指します。「大恐慌」のように歴史的な経済危機を表すほか、個人の心理状態にも使えます。ただし個人の場合は「パニック」の方が一般的です。経済用語としての「恐慌」は、景気が急激に悪化し、銀行の取り付け騒ぎなどが起こる状態を指します。
+Example1: あの国の経済は深刻な恐慌に陥っています。
+Example1_EN: That country's economy has fallen into a serious panic.
+Example2: 大きなニュースが流れて、市場に恐慌が広がりました。
+Example2_EN: After the big news broke, panic spread through the market.
+Example3: 地震の後、買い占めによる恐慌状態が発生しました。
+Example3_EN: After the earthquake, a panic state occurred due to hoarding.
+
+---
+
+===word: 眼中===
+Nuance: 関心や注意を向ける範囲のことです。ほとんど「眼中にない」という否定形で使われ、全く気にしていない、無視しているという意味になります。相手を軽んじるニュアンスが強いので、使う相手や場面には注意が必要です。
+Example1: 彼は周りの意見など、全く眼中にありません。
+Example1_EN: He doesn't pay any attention to others' opinions at all.
+Example2: そんな小さなことは私の眼中には入りません。
+Example2_EN: Such small matters don't even register in my consideration.
+Example3: 彼女はライバルの存在を眼中に入れていませんでした。
+Example3_EN: She didn't even acknowledge her rival's existence.
+
+---
+
+===word: 諂い===
+Nuance: 相手の機嫌を取るために、心にもないお世辞を言ったり、へりくだった態度を取ることです。明らかに悪い意味で使われ、本心からの敬意ではなく、何か利益を得るために態度を変えることを指します。同じ意味で「おべっか」「ごまをする」などがありますが、「諂い」はやや文語的で軽蔑のニュアンスが強いです。
+Example1: 彼の上司への諂いには、みんなうんざりしています。
+Example1_EN: Everyone is tired of his flattery toward the boss.
+Example2: 諂いを言うより、正直に意見を伝えたほうがいいです。
+Example2_EN: Rather than flattering, it's better to convey your honest opinion.
+Example3: 諂いで出世した人は、結局信頼を失います。
+Example3_EN: People who get promoted through flattery end up losing trust.
+
+---
+
+===word: 溜飲を下げる===
+Nuance: 「溜飲が下がる」の他動詞バージョンで、何かをする（または何かが起こる）ことによって、自分の不満や悔しさを解消することを意味します。「〜で溜飲を下げる」という形で、原因となる行為を明示します。自動詞の「溜飲が下がる」が自然に解消されるニュアンスなのに対し、こちらは能動的に解消を図るニュアンスがあります。
+Example1: 長い間言いたかったことを言って、溜飲を下げました。
+Example1_EN: I said what I'd wanted to say for a long time, and that relieved my frustration.
+Example2: 彼は嫌いな上司の失敗談を聞いて、溜飲を下げていました。
+Example2_EN: He found relief in hearing stories about his disliked boss's failures.
+Example3: 思い切り運動して、溜飲を下げることにしました。
+Example3_EN: I decided to relieve my frustration by exercising vigorously.
+
+---
+
+===word: 健在===
+Nuance: 元気でしっかりと存在していることです。高齢者に対して「お元気でいらっしゃいますか」の代わりに「ご健在ですか」と使うのが代表的な用法です。また、物事や技術などが「今でも現役で使われている」という意味でも使えます。やや改まった表現で、目上の人に対して失礼にならない丁寧な言い方です。
+Example1: 祖父は九十歳ですが、まだまだ健在です。
+Example1_EN: My grandfather is ninety years old, but he's still going strong.
+Example2: この伝統芸能は今も健在で、多くの人に愛されています。
+Example2_EN: This traditional performing art is still alive and well, loved by many people.
+Example3: あの古い映画の魅力は、今でも健在です。
+Example3_EN: The appeal of that old movie is still very much alive today.
+
+---
+
+===word: 手指消毒===
+Nuance: 手や指の消毒を指すやや専門的な用語です。新型コロナウイルスの流行以降、日常的に使われるようになりました。「手指消毒」は「手洗い」と違い、アルコールなどで消毒する行為を特に指します。医療現場や公共施設でよく見かける表現です。
+Example1: 入店時に手指消毒をお願いしています。
+Example1_EN: We ask customers to sanitize their hands when entering the store.
+Example2: 手指消毒用のアルコールが切れていました。
+Example2_EN: The hand sanitizer had run out.
+Example3: こまめな手指消毒が感染予防に効果的です。
+Example3_EN: Frequent hand sanitization is effective in preventing infection.
+
+---
+
+===word: 横倒し===
+Nuance: 立っている物が横に倒れること、またはその状態です。意識的に倒す場合も、事故で倒れる場合も使えます。地震や台風などで物が倒れたときの描写に便利です。また、比喩的に「横倒しになる」という表現もあります。
+Example1: 強風で自転車が横倒しになっていました。
+Example1_EN: The bicycle had fallen over sideways in the strong wind.
+Example2: 荷物を横倒しにして運びました。
+Example2_EN: I laid the luggage on its side and carried it.
+Example3: 棚が横倒しになって、中の物が全部散らばりました。
+Example3_EN: The shelf fell over sideways, and everything inside scattered everywhere.
+
+---
+
+===word: ちんちくりん===
+Nuance: 背が低いことや、服が短すぎることをからかって言う俗語です。可愛らしい響きがありますが、明らかに相手を貶める言葉なので、実際に人の体型について使うと失礼にあたります。子供や動物に対して冗談めかして使う程度に留めるのが無難です。服の丈が合わない場合にも使われます。
+Example1: そのズボン、ちんちくりんでかっこ悪いですよ。
+Example1_EN: Those trousers are too short — they look bad.
+Example2: 弟はクラスで一番ちんちくりんで、よくからかわれています。
+Example2_EN: My little brother is the shortest in his class and often gets teased.
+Example3: ちんちくりんな子犬がみんなに人気でした。
+Example3_EN: The tiny, stumpy puppy was popular with everyone.
+
+---
+
+===word: 世界恐慌===
+Nuance: 1929年にアメリカから始まり世界中に広がった大不況を指す歴史用語です。経済学の教科書などで必ず出てくる固有名詞的な表現です。現代でも「世界的な金融危機」を「世界恐慌」と比喩的に呼ぶことがありますが、本来は1929年の大恐慌を指す特定の名称です。
+Example1: 世界恐慌の時、多くの銀行が倒産しました。
+Example1_EN: During the Great Depression, many banks went bankrupt.
+Example2: 世界恐慌はアメリカの株価暴落がきっかけでした。
+Example2_EN: The Great Depression was triggered by the stock market crash in America.
+Example3: 歴史の授業で世界恐慌について学びました。
+Example3_EN: I learned about the Great Depression in history class.
+
+---
+
+===word: とろろ昆布===
+Nuance: 昆布を薄く削った食品で、主に酢の物やお吸い物の具として使われます。北海道の名産品です。「とろろ」という名前ですが、山芋のとろろとは全く関係ありません。お茶漬けやおにぎりの具としても親しまれています。フワフワとした食感が特徴です。
+Example1: お吸い物にとろろ昆布を入れると風味が増します。
+Example1_EN: Adding shredded kombu to clear soup enhances its flavor.
+Example2: とろろ昆布をおにぎりの具にしてみました。
+Example2_EN: I tried using shredded kombu as a filling for rice balls.
+Example3: 酢の物にするとろろ昆布は、さっぱりしていて美味しいです。
+Example3_EN: Shredded kombu in vinegared dishes is refreshing and delicious.
+
+---
+
+===word: 養生===
+Nuance: 健康を保つために気をつけることや、病気の後の回復に努めることを意味します。また、工事現場で使われる「養生テープ」のように、物を保護するという意味もあります。日常会話では「体を養生する」「風邪の後は養生が必要」のように、健康管理の文脈で使われることが多いです。
+Example1: 風邪を引いたので、しばらく養生することにしました。
+Example1_EN: I caught a cold, so I decided to take care of myself for a while.
+Example2: 手術後はしっかり養生しないと、再発の恐れがあります。
+Example2_EN: After surgery, you need to properly recuperate or there's a risk of relapse.
+Example3: 高齢の両親にはいつも養生するように言っています。
+Example3_EN: I always tell my elderly parents to take care of their health.
+
+---
+
+===word: 溶媒===
+Nuance: 他の物質を溶かす液体のことです。理科や化学の分野で使われる専門用語で、代表的な溶媒は水です。アルコールやアセトンなども溶媒として使われます。「溶媒」は「溶液」の一部で、溶かす側の物質を指します。日常生活では「溶剤」という言葉の方がよく使われます。
+Example1: 水は最も一般的な溶媒です。
+Example1_EN: Water is the most common solvent.
+Example2: この実験ではエタノールを溶媒として使用します。
+Example2_EN: In this experiment, we use ethanol as the solvent.
+Example3: 溶媒の種類によって、溶ける物質が変わります。
+Example3_EN: The substances that dissolve differ depending on the type of solvent.
+
+---
+
+===word: 恒星===
+Nuance: 自ら光を放つ天体、つまり太陽のような星のことです。太陽系の「惑星」と区別するための天文学用語で、夜空の星々のほとんどは恒星です。日常会話では単に「星」と言うことが多いですが、天文学の話題では「恒星」と「惑星」をしっかり区別します。
+Example1: 太陽は地球に一番近い恒星です。
+Example1_EN: The Sun is the closest star to Earth.
+Example2: 夜空に輝く星々のほとんどは恒星です。
+Example2_EN: Most of the stars shining in the night sky are fixed stars.
+Example3: 恒星は自分で光を出している天体です。
+Example3_EN: A star is a celestial body that emits its own light.
+
+---
+
+===word: 斡旋===
+Nuance: 両者の間に入って、物事がうまく運ぶように仲介することです。就職斡旋や斡旋業者など、ビジネスや公的な文脈で使われることが多いです。単なる「紹介」より正式で、第三者が間に入って調整するニュアンスがあります。悪質な「斡旋業者」といったネガティブな文脈でも使われます。
+Example1: 職業斡旋所で仕事を紹介してもらいました。
+Example1_EN: I was introduced to a job through an employment agency.
+Example2: 彼の斡旋で、無事に契約を結ぶことができました。
+Example2_EN: Thanks to his mediation, we were able to successfully conclude the contract.
+Example3: 斡旋業者に高い手数料を払うのは避けたいです。
+Example3_EN: I'd like to avoid paying high fees to a broker.
+
+---
+
+===word: じゃれ合う===
+Nuance: 特に深い目的もなく、楽しそうにふざけ合ったり、遊び合ったりすることです。主に動物（特に子犬や子猫）の遊びや、親しい恋人同士や子供同士の軽いふざけ合いに使われます。大人同士の場合は、やや幼い印象を与えることもあります。
+Example1: 子犬たちが庭でじゃれ合っていて、とても可愛かったです。
+Example1_EN: The puppies were frolicking in the yard, and it was very cute.
+Example2: 子供たちがじゃれ合っているうちに、転んで泣き出しました。
+Example2_EN: While the children were messing around, one fell and started crying.
+Example3: 猫同士がじゃれ合う様子は、見ていて飽きません。
+Example3_EN: Watching cats frolic with each other is endlessly entertaining.
+
+---
+
+===word: 犬も食わない===
+Nuance: 他人のつまらない喧嘩や争いには関わらないほうがいいという意味のことわざです。「犬も食わない」は「犬も食わない喧嘩はするな」という形で使われ、犬でさえ食べないような価値のないものに手を出すな、という戒めです。また、転じて「誰も関わりたがらない」「誰も相手にしない」という意味でも使われます。
+Example1: 夫婦喧嘩は犬も食わないと言いますから、放っておきましょう。
+Example1_EN: They say not even a dog would touch a couple's quarrel — let's leave them be.
+Example2: あんなつまらない議論は犬も食わないよ。
+Example2_EN: Nobody would touch a pointless argument like that.
+Example3: 彼の作ったカレーはまずくて、犬も食わないと言われていました。
+Example3_EN: His curry was so bad that people said even a dog wouldn't eat it.
+
+---
+
+===word: 諳んじる===
+Nuance: テキストを見ないで、覚えた内容をそのまま口に出して言うことです。暗記して朗唱するという意味で、単に「覚える」よりも、それを実際に声に出して再現できる状態を指します。詩や文章、台詞などに対して使われます。やや文語的で、日常会話では「暗唱する」や「覚えている」が使われることが多いです。
+Example1: 彼はその詩を全部諳んじることができます。
+Example1_EN: He can recite that entire poem from memory.
+Example2: 子供の頃に覚えた九九は、今でも諳んじられます。
+Example2_EN: I can still recite the multiplication tables I learned as a child.
+Example3: 彼女は名ゼリフを諳んじて、みんなを感動させました。
+Example3_EN: She recited a famous line from memory, moving everyone in the audience.

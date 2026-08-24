@@ -1,0 +1,970 @@
+[
+ {
+  "word": "代わり番",
+  "reading": "かわりばん",
+  "meaning": "alternating, taking turns",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "槍玉に挙げる",
+  "reading": "やりだまにあげる",
+  "meaning": "1. to make an example of, to make a victim of, to hold up someone (something) to ridicule, to single out someone for criticism<br>2. to pierce with a spear",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "無双",
+  "reading": "むそう",
+  "meaning": "1. peerless, unparalleled, unparallelled, matchless<br>2. mowing down the enemy",
+  "sentence": "古今無双の勇士だ。",
+  "sentence_en": "He is the bravest soldier that ever lived.",
+  "has_sent": true
+ },
+ {
+  "word": "藻",
+  "reading": "も",
+  "meaning": "algae, waterweed, seaweed, duckweed",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "結果論",
+  "reading": "けっかろん",
+  "meaning": "hindsight-based opinion",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "脾臓",
+  "reading": "ひぞう",
+  "meaning": "1. spleen<br>2. 脾臟<br>3. 脾脏",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "万来",
+  "reading": "ばんらい",
+  "meaning": "many guests",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "アメフト",
+  "reading": "",
+  "meaning": "1. American football<br>2. 美式橄欖球",
+  "sentence": "アメフトでタッチダウンは６点になる。",
+  "sentence_en": "In American football, a touchdown scores six points.",
+  "has_sent": true
+ },
+ {
+  "word": "病理",
+  "reading": "びょうり",
+  "meaning": "1. pathology<br>2. 病理",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "桑原桑原",
+  "reading": "くわばらくわばら",
+  "meaning": "knock on wood, touch wood, heaven forbid, God help me, absit omen!",
+  "sentence": "カミナリが光ったその後【くわばらくわばら】と唱えたもしくは、唱える人を見たことがあるだろう。",
+  "sentence_en": "I expect you've chanted \"kuwabara kuwabara\" after a lightning flash, or have seen somebody do so.",
+  "has_sent": true
+ },
+ {
+  "word": "本懐",
+  "reading": "ほんかい",
+  "meaning": "one's long-cherished desire",
+  "sentence": "浪士は本懐を遂げた。",
+  "sentence_en": "The rōnin attained their long-cherished ambition.",
+  "has_sent": true
+ },
+ {
+  "word": "前哨戦",
+  "reading": "ぜんしょうせん",
+  "meaning": "1. (preliminary) skirmish<br>2. prelude, preliminary encounter, warm-up match (e.g. before a final)",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "沸点",
+  "reading": "ふってん",
+  "meaning": "1. boiling point<br>2. 沸點",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "怒り肩",
+  "reading": "いかりがた",
+  "meaning": "square shoulders",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "実演",
+  "reading": "じつえん",
+  "meaning": "1. demonstration, presentation<br>2. to demonstrate, to present<br>3. stage show, performance<br>4. to perform",
+  "sentence": "セールスマンはその使い方を実演した。",
+  "sentence_en": "The salesman demonstrated how to use it.",
+  "has_sent": true
+ },
+ {
+  "word": "静観",
+  "reading": "せいかん",
+  "meaning": "watchful waiting, careful supervision",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "溜飲が下がる",
+  "reading": "りゅういんがさがる",
+  "meaning": "to feel relieved, to feel satisfied",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "新味",
+  "reading": "しんみ",
+  "meaning": "fresh taste, novelty, originality, freshness",
+  "sentence": "新期にスタートしたテレビ番組だが、あいも変わらず新味がないな。",
+  "sentence_en": "The new season's T.V. programs are as much old hat as ever.",
+  "has_sent": true
+ },
+ {
+  "word": "有線",
+  "reading": "ゆうせん",
+  "meaning": "1. wired, cabled<br>2. communication by wire",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "河川敷",
+  "reading": "かせんじき",
+  "meaning": "flood plain, river terrace, riverside area, area between river and river bank",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "替え歌",
+  "reading": "かえうた",
+  "meaning": "parody (of a song), new lyrics to an old melody, song parody",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "ハイタッチ",
+  "reading": "",
+  "meaning": "1. high five<br>2. 举手击掌",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "善行",
+  "reading": "ぜんこう",
+  "meaning": "good deed, good conduct, benevolence",
+  "sentence": "一つの善行はもう一つの善行に値する。",
+  "sentence_en": "One good turn deserves another.",
+  "has_sent": true
+ },
+ {
+  "word": "巻尺",
+  "reading": "まきじゃく",
+  "meaning": "tape measure",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "恐慌",
+  "reading": "きょうこう",
+  "meaning": "1. panic, scare, alarm<br>2. panic, financial panic<br>3. 恐慌",
+  "sentence": "１９３０年代の恐慌の間、多くの金持ちが株式市場の崩壊で全てを失った。",
+  "sentence_en": "During the Depression in the 1930's, many wealthy people lost everything in the stock market crash.",
+  "has_sent": true
+ },
+ {
+  "word": "眼中",
+  "reading": "がんちゅう",
+  "meaning": "1. (one's) consideration, (taking) notice, interest, attention<br>2. within the eye",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "諂い",
+  "reading": "へつらい",
+  "meaning": "flattery",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "溜飲を下げる",
+  "reading": "りゅういんをさげる",
+  "meaning": "to satisfy oneself (by doing), to find relief (in doing)",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "健在",
+  "reading": "けんざい",
+  "meaning": "in good health, alive and well, going strong",
+  "sentence": "彼女の４人の姉妹のうち１人は他界したが、ほかは健在だ。",
+  "sentence_en": "One of her four sisters has passed away, but the others are still with us.",
+  "has_sent": true
+ },
+ {
+  "word": "手指消毒",
+  "reading": "しゅししょうどく",
+  "meaning": "hand sanitization",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "横倒し",
+  "reading": "よこだおし",
+  "meaning": "falling over, toppling sideways",
+  "sentence": "横倒しになった自動車が通行の妨げになった。",
+  "sentence_en": "A car lying on its side blocked the passage.",
+  "has_sent": true
+ },
+ {
+  "word": "ちんちくりん",
+  "reading": "",
+  "meaning": "1. short (in height), stumpy, tiny<br>2. short (trousers, etc.), undersized",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "世界恐慌",
+  "reading": "せかいきょうこう",
+  "meaning": "1. worldwide financial crisis, global depression<br>2. 大蕭條",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "とろろ昆布",
+  "reading": "とろろこんぶ",
+  "meaning": "1. shredded kombu<br>2. Kjellmaniella gyrata (species of kelp)",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "養生",
+  "reading": "ようじょう",
+  "meaning": "1. taking care of one's health<br>2. recuperation<br>3. covering (with a protective material), coating<br>4. curing (concrete)",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "溶媒",
+  "reading": "ようばい",
+  "meaning": "1. solvent<br>2. 溶劑<br>3. 溶剂",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "恒星",
+  "reading": "こうせい",
+  "meaning": "1. star<br>2. 恆星<br>3. 星, 星星",
+  "sentence": "惑星は恒星の周りを回る。",
+  "sentence_en": "Planets move around a fixed star.",
+  "has_sent": true
+ },
+ {
+  "word": "斡旋",
+  "reading": "あっせん",
+  "meaning": "1. good offices, kind offices, services, influence, recommendation<br>2. mediation, intercession, conciliation, acting as a go-between<br>3. to mediate, to intercede, to conciliate",
+  "sentence": "彼は友人のあっせんでその仕事についた。",
+  "sentence_en": "He obtained the job through the good offices of his friend.",
+  "has_sent": true
+ },
+ {
+  "word": "じゃれ合う",
+  "reading": "じゃれあう",
+  "meaning": "to frolic about, to mess around",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "犬も食わない",
+  "reading": "いぬもくわない",
+  "meaning": "avoided by everybody, disliked by everybody, not even a dog will eat (it)",
+  "sentence": "隣じゃまた犬も食わない夫婦喧嘩をしているよ。",
+  "sentence_en": "The couple next door are fighting again.",
+  "has_sent": true
+ },
+ {
+  "word": "諳んじる",
+  "reading": "そらんじる",
+  "meaning": "to memorize, to memorise, to recite from memory",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "空爆",
+  "reading": "くうばく",
+  "meaning": "aerial bombing",
+  "sentence": "アメリカは最後の手段としてしかその国を空爆しないだろう。",
+  "sentence_en": "The USA will only use air strikes in the country as a last resort.",
+  "has_sent": true
+ },
+ {
+  "word": "忌まわしい",
+  "reading": "いまわしい",
+  "meaning": "1. abhorrent, abominable, detestable, disgusting, horrid, repugnant<br>2. ominous, inauspicious, unlucky<br>3. 憎惡, 可惡, 討厭<br>4. 灾难的",
+  "sentence": "考えるだけでも忌まわしい。",
+  "sentence_en": "The very thought is abhorrent to me.",
+  "has_sent": true
+ },
+ {
+  "word": "剣聖",
+  "reading": "けんせい",
+  "meaning": "master swordsman",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "過熱",
+  "reading": "かねつ",
+  "meaning": "1. superheating, overheating<br>2. to overheat",
+  "sentence": "そのアイロンは過熱のために故障した。",
+  "sentence_en": "The iron broke down due to over-heating.",
+  "has_sent": true
+ },
+ {
+  "word": "すげ替える",
+  "reading": "すげかえる",
+  "meaning": "1. to exchange, to replace<br>2. to shift personnel, to replace one person with another",
+  "sentence": "このままでは熾烈な情報戦に勝てない。ＣＩＯの首を挿げ替えよう。",
+  "sentence_en": "This is a bruising information war. At this rate we'll never come out on top. We've got to replace our CIO.",
+  "has_sent": true
+ },
+ {
+  "word": "偽札",
+  "reading": "にせさつ",
+  "meaning": "counterfeit (paper) money, counterfeit bill, counterfeit note",
+  "sentence": "週末に偽札が市場にあふれた。",
+  "sentence_en": "The counterfeit bills flooded the market over the weekend.",
+  "has_sent": true
+ },
+ {
+  "word": "ずけずけ",
+  "reading": "",
+  "meaning": "(speak) bluntly, frankly",
+  "sentence": "彼はずけずけものをいうからね。",
+  "sentence_en": "He doesn't mince words.",
+  "has_sent": true
+ },
+ {
+  "word": "提携先",
+  "reading": "ていけいさき",
+  "meaning": "business partner",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "捩る",
+  "reading": "もじる",
+  "meaning": "1. to parody, to make a parody of, to pun (on)<br>2. to twist, to distort",
+  "sentence": "その取っ手を右にねじると箱は開きます。",
+  "sentence_en": "Twist that knob to the right and the box will open.",
+  "has_sent": true
+ },
+ {
+  "word": "夫婦喧嘩は犬も食わない",
+  "reading": "ふうふげんかはいぬもくわない",
+  "meaning": "one should not get involved in a marital quarrel",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "加虐",
+  "reading": "かぎゃく",
+  "meaning": "1. causing pain, sadism<br>2. to inflict pain",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "果報",
+  "reading": "かほう",
+  "meaning": "1. good fortune, luck, happiness<br>2. vipaka (retribution)",
+  "sentence": "彼は果報な男だ。",
+  "sentence_en": "He's a lucky guy.",
+  "has_sent": true
+ },
+ {
+  "word": "采配",
+  "reading": "さいはい",
+  "meaning": "1. baton (of command)<br>2. order, command, direction",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "肝いり",
+  "reading": "きもいり",
+  "meaning": "1. good offices, auspices, sponsorship, help, assistance<br>2. village official (during the Edo period)",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "ヤケ酒",
+  "reading": "やけざけ",
+  "meaning": "drowning one's cares in drink, drinking in desperation",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "こじつけ",
+  "reading": "",
+  "meaning": "distortion, stretch, strained interpretation, technicality, casuistry, sophistry",
+  "sentence": "何か、全部、こじつけって感じがするんだけど・・・。",
+  "sentence_en": "Somehow, all those reasons sound rather far fetched.",
+  "has_sent": true
+ },
+ {
+  "word": "山札",
+  "reading": "やまふだ",
+  "meaning": "1. deck (from which players draw cards), draw pile, stock<br>2. tag verifying one has permission to take plants and trees from common land (Edo period)",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "切り抜ける",
+  "reading": "きりぬける",
+  "meaning": "1. to cut one's way through, to fight one's way through (the enemy)<br>2. to get over, to come through, to overcome (a difficulty)",
+  "sentence": "我々はこの難局を何とかして切り抜けなければならない。",
+  "sentence_en": "We have to somehow come through this troublesome situation.",
+  "has_sent": true
+ },
+ {
+  "word": "製油所",
+  "reading": "せいゆじょ",
+  "meaning": "1. oil refinery<br>2. 煉油廠",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "がちんこ",
+  "reading": "",
+  "meaning": "competing in earnest (esp. in sumo)",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "アポ",
+  "reading": "",
+  "meaning": "1. appointment<br>2. 約會",
+  "sentence": "アポを取ろうとしたが、彼は時間をくれなかった。",
+  "sentence_en": "I asked for an appointment, but he wouldn't spare me the time.",
+  "has_sent": true
+ },
+ {
+  "word": "直筆",
+  "reading": "じきひつ",
+  "meaning": "one's own handwriting, autograph",
+  "sentence": "直筆サイン入りボールを手に入れることができた。",
+  "sentence_en": "I was able to obtain a personally signed ball.",
+  "has_sent": true
+ },
+ {
+  "word": "置きに",
+  "reading": "おきに",
+  "meaning": "every ..., every other ..., at intervals of ..., with ... in between, ... apart",
+  "sentence": "１日おきに買い物に行く。",
+  "sentence_en": "I go shopping every other day.",
+  "has_sent": true
+ },
+ {
+  "word": "鬣",
+  "reading": "たてがみ",
+  "meaning": "1. mane (of a horse, lion, etc.)<br>2. 馬鬃<br>3. 獅子的鬃毛, 獅鬣",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "試運転",
+  "reading": "しうんてん",
+  "meaning": "trial run, test run",
+  "sentence": "試運転では車両はみんなうまく動いた。",
+  "sentence_en": "All the vehicles behaved well on their test runs.",
+  "has_sent": true
+ },
+ {
+  "word": "水炊き",
+  "reading": "みずたき",
+  "meaning": "food (esp. chicken and vegetables) boiled in plain water (or sometimes dashi, etc.) and served with dipping sauce (esp. ponzu)",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "ぞっこん",
+  "reading": "",
+  "meaning": "1. madly in love, completely charmed (by), head over heels (for)<br>2. from the heart, entirely, completely<br>3. bottom of one's heart",
+  "sentence": "ベスはクリスにぞっこんなので、喜んでそれを引き受けました。",
+  "sentence_en": "Beth was committed to Chris and eagerly accepted.",
+  "has_sent": true
+ },
+ {
+  "word": "ギャン泣き",
+  "reading": "ギャンなき",
+  "meaning": "screaming fit (of a baby), tantrum, crying hysterically",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "ド田舎",
+  "reading": "どいなか",
+  "meaning": "remote countryside, boondocks, the sticks, middle of nowhere",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "放熱",
+  "reading": "ほうねつ",
+  "meaning": "1. radiant heat, heat radiation, heat dissipation, thermolysis<br>2. to radiate heat, to dissipate heat",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "入用",
+  "reading": "にゅうよう",
+  "meaning": "1. need, want, necessity, requirement<br>2. expenses, cost",
+  "sentence": "ご入用でしたらさしあげます。",
+  "sentence_en": "You may have it for the asking.",
+  "has_sent": true
+ },
+ {
+  "word": "継ぎ足し",
+  "reading": "つぎたし",
+  "meaning": "addition, extension, elongation",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "ゼネスト",
+  "reading": "",
+  "meaning": "general strike",
+  "sentence": "ゼネストで国中の機能が麻痺した。",
+  "sentence_en": "The general strike paralyzed the whole country.",
+  "has_sent": true
+ },
+ {
+  "word": "一望",
+  "reading": "いちぼう",
+  "meaning": "1. one sweep (of the eye), sweeping view, unbroken view<br>2. to overlook",
+  "sentence": "私たちはとても高く上ったので、町を一望することが出来た。",
+  "sentence_en": "We went up so high that we could get the whole view of the city.",
+  "has_sent": true
+ },
+ {
+  "word": "端脚類",
+  "reading": "たんきゃくるい",
+  "meaning": "amphipods",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "家風",
+  "reading": "かふう",
+  "meaning": "1. family tradition<br>2. wind blowing from the direction of one's home",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "戯け",
+  "reading": "たわけ",
+  "meaning": "1. tomfoolery, foolish act, nonsense<br>2. fool, idiot<br>3. 笨蛋, 蠢貨, 蠢人, 呆子, 傻瓜, 傻子, 愚人",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "長広舌を振るう",
+  "reading": "ちょうこうぜつをふるう",
+  "meaning": "to make a long-winded speech, to give a long talk",
+  "sentence": "彼は議会で延々と長広舌を振るうことで有名だ。",
+  "sentence_en": "",
+  "has_sent": true
+ },
+ {
+  "word": "風化",
+  "reading": "ふうか",
+  "meaning": "1. weathering<br>2. fading (of memories)<br>3. to fade<br>4. efflorescence",
+  "sentence": "岩が風化して奇異な形になる。",
+  "sentence_en": "The rocks are weathered into fantastic forms.",
+  "has_sent": true
+ },
+ {
+  "word": "髄膜炎",
+  "reading": "ずいまくえん",
+  "meaning": "1. meningitis<br>2. 腦膜炎<br>3. 脑膜炎",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "山ごもり",
+  "reading": "やまごもり",
+  "meaning": "1. secluding oneself in the mountains, undertaking ascetic practices at a mountain temple<br>2. retreat, off-site meeting",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "お茶を濁す",
+  "reading": "おちゃをにごす",
+  "meaning": "to evade (questions), to reply evasively, to beat around the bush, to throw up a smoke screen",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "仕事に勤しむ",
+  "reading": "しごとにいそしむ",
+  "meaning": "to be assiduous in one's business",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "腓骨",
+  "reading": "ひこつ",
+  "meaning": "1. fibula<br>2. fibular, peroneal<br>3. 腓骨",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "盤面",
+  "reading": "ばんめん",
+  "meaning": "1. surface of a board (shogi, go, etc.), (state of) the board, development of a game<br>2. surface of a record",
+  "sentence": "チェスの盤面はこの世に似ている。",
+  "sentence_en": "The chessboard is the world.",
+  "has_sent": true
+ },
+ {
+  "word": "お目通り",
+  "reading": "おめどおり",
+  "meaning": "audience (with someone of high standing)",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "額面",
+  "reading": "がくめん",
+  "meaning": "1. face value, par<br>2. 面值, 票面金額",
+  "sentence": "彼の言葉をあまり額面通りに受け取ってはいけない。",
+  "sentence_en": "Don't take his remarks too literally.",
+  "has_sent": true
+ },
+ {
+  "word": "中座",
+  "reading": "ちゅうざ",
+  "meaning": "1. leaving one's seat (before an event is over), excusing oneself (from a meeting, conversation, etc.)<br>2. to excuse oneself",
+  "sentence": "私はしばらく中座した。",
+  "sentence_en": "I excused myself for a minute.",
+  "has_sent": true
+ },
+ {
+  "word": "野兎病",
+  "reading": "やとびょう",
+  "meaning": "1. rabbit fever, tularemia (tularaemia)<br>2. 兔熱病",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "遣らせる",
+  "reading": "やらせる",
+  "meaning": "to allow, to let (someone) do, to make (someone) do",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "ドン引き",
+  "reading": "どんびき",
+  "meaning": "1. being put off (by someone's words, behaviour, etc.), being taken aback, recoiling (in shock, disgust, etc.), cringing, being left speechless<br>2. to be shocked<br>3. zooming out or pulling the camera back to get a wider image",
+  "sentence": "おい、いい加減パンツネタはやめとけよな、読者が退く、ドンビキ。",
+  "sentence_en": "Hey, it's about time you quit it with the panty jokes. You'll put off the readers, you creeper!",
+  "has_sent": true
+ },
+ {
+  "word": "イチャコラ",
+  "reading": "",
+  "meaning": "making out, necking, canoodling, fondling, flirting",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "角が立つ",
+  "reading": "かどがたつ",
+  "meaning": "to cause offence (offense), to create hard feelings",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "パワハラ",
+  "reading": "",
+  "meaning": "harassment (in the workplace) from a position of power, power harassment",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "腑抜け",
+  "reading": "ふぬけ",
+  "meaning": "coward, namby-pamby, wimp, weak-kneed person, spineless person",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "命取り",
+  "reading": "いのちとり",
+  "meaning": "1. fatal, deadly, mortal<br>2. 致命",
+  "sentence": "その間違いが彼の命取りとなった。",
+  "sentence_en": "The mistake cost him his head.",
+  "has_sent": true
+ },
+ {
+  "word": "発話",
+  "reading": "はつわ",
+  "meaning": "1. utterance, speech<br>2. to utter, to speak",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "確約",
+  "reading": "かくやく",
+  "meaning": "1. firm promise, definite promise<br>2. to promise",
+  "sentence": "確約は出来ないけど、何とかやってみましょう。",
+  "sentence_en": "I can't promise anything, but I'll do my best.",
+  "has_sent": true
+ },
+ {
+  "word": "機嫌を損ねる",
+  "reading": "きげんをそこねる",
+  "meaning": "to displease, to offend, to hurt (a person's) feelings",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "路線価",
+  "reading": "ろせんか",
+  "meaning": "roadside land prices, price of land adjoining a major road, used to calculate inheritance and gift taxes",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "符丁",
+  "reading": "ふちょう",
+  "meaning": "1. symbol, sign, mark<br>2. (secret) price mark<br>3. secret language, code, cipher, argot, password",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "底をつく",
+  "reading": "そこをつく",
+  "meaning": "1. to run out of, to dry up, to be depleted<br>2. to hit the bottom, to bottom out",
+  "sentence": "我々の食料は底を突いた。",
+  "sentence_en": "Our supply of food is exhausted.",
+  "has_sent": true
+ },
+ {
+  "word": "ペーペー",
+  "reading": "",
+  "meaning": "underling, newbie, small fry, newcomer",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "コネ",
+  "reading": "",
+  "meaning": "connection, pull",
+  "sentence": "俺には何のコネもないから、就職するのが大変だ。",
+  "sentence_en": "My job search is really going rough. I don't have any connections.",
+  "has_sent": true
+ },
+ {
+  "word": "寝坊",
+  "reading": "ねぼう",
+  "meaning": "1. sleeping in late, oversleeping<br>2. to oversleep<br>3. late riser, sleepyhead<br>4. 睡懶覺",
+  "sentence": "彼はときどき寝坊する。",
+  "sentence_en": "He sometimes sleeps in.",
+  "has_sent": true
+ },
+ {
+  "word": "念話",
+  "reading": "ねんわ",
+  "meaning": "telepathic communication",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "軟禁",
+  "reading": "なんきん",
+  "meaning": "1. house arrest<br>2. 軟禁, 幽禁",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "前のめり",
+  "reading": "まえのめり",
+  "meaning": "1. pitching forward (as if to fall)<br>2. proactive, forward-looking, positive<br>3. hasty (without sufficient preparation), rushed",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "身から出た錆",
+  "reading": "みからでたさび",
+  "meaning": "paying for one's mistakes, getting one's just deserts, suffering the consequences (of one's own actions), reaping what you sow, making a rod for one's own back",
+  "sentence": "君の身から出た錆だ。",
+  "sentence_en": "You have no one but yourself to blame.",
+  "has_sent": true
+ },
+ {
+  "word": "急き立てる",
+  "reading": "せきたてる",
+  "meaning": "to hurry (up), to press, to urge on",
+  "sentence": "父はついてくるように私をせきたてた。",
+  "sentence_en": "My father urged me to go with him.",
+  "has_sent": true
+ },
+ {
+  "word": "格式",
+  "reading": "かくしき",
+  "meaning": "1. formality, social rules<br>2. social status, social standing<br>3. amendments and enforcement regulations (of the ritsuryō)",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "引率",
+  "reading": "いんそつ",
+  "meaning": "1. leading, guiding, commanding<br>2. to lead, to guide",
+  "sentence": "サッカーのチームはトムによって引率される。",
+  "sentence_en": "The soccer team is led by Tom.",
+  "has_sent": true
+ },
+ {
+  "word": "マウントを取る",
+  "reading": "マウントをとる",
+  "meaning": "1. to mount (animal behaviour)<br>2. to assert dominance",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "術式",
+  "reading": "じゅつしき",
+  "meaning": "surgical method, operative method, surgical technique, procedure",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "潮目",
+  "reading": "しおめ",
+  "meaning": "1. junction line between two sea currents, line where two ocean currents meet<br>2. course of things, turning point",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "訳もなく",
+  "reading": "わけもなく",
+  "meaning": "without cause, without reason",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "監督",
+  "reading": "かんとく",
+  "meaning": "1. supervision, control, superintendence, direction<br>2. to supervise, to direct<br>3. director, superintendent, supervisor, coach, foreman, manager, overseer, controller, boss<br>4. 導演",
+  "sentence": "代表取締役は取締役の職務の執行を監督するものだ。",
+  "sentence_en": "The Representative Director supervises Directors' performance of duties.",
+  "has_sent": true
+ },
+ {
+  "word": "居たたまれない",
+  "reading": "いたたまれない",
+  "meaning": "unable to stay (on), unable to endure being somewhere a second longer, feel like running away",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "低俗",
+  "reading": "ていぞく",
+  "meaning": "1. vulgar, lowbrow, coarse<br>2. 俗氣, 粗俗",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ },
+ {
+  "word": "唾をつける",
+  "reading": "つばをつける",
+  "meaning": "to call dibs, to establish a claim, to spit on (thus preventing others from taking it)",
+  "sentence": "",
+  "sentence_en": "",
+  "has_sent": false
+ }
+]
