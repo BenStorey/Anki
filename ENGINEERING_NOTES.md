@@ -368,3 +368,123 @@ Subagent system: delegate_task with 3 concurrent children max.
 
 6. **WIP vs main deck migration**: New cards should go into a WIP deck first
    for batch generation, then move to main deck once enhanced.
+
+---
+
+## Next Steps: Japanese Enhanced Pipeline
+
+### Current state
+
+| Source | Cards | Note type | History | Has examples? |
+|--------|-------|-----------|---------|---------------|
+| Takoboto deck | 242 (121×2) | `jp.takoboto` (7 fields) | All new (0 reviews) | 92/121 have Sentence |
+| Japanese WIP | 5 | `Japanese` (3 fields) | Real (93–889d intervals) | None |
+| Japanese main | 27,949 | `Japanese` (3 fields) | Real (20 years!) | None |
+
+### Target note type: `Japanese Enhanced`
+
+```
+Expression | Meaning | Reading | Nuance | Example1 | Example1_EN |
+Example2 | Example2_EN | Example3 | Example3_EN
+```
+
+### Phase 1: Takoboto (121 notes, all new)
+
+Since every card is unscheduled (0 reviews), we can freely regenerate:
+
+1. **Read** 121 Takoboto notes from `currentdeck.apkg`:
+   ```
+   Takoboto.Japanese     → Japanese_Enhanced.Expression
+   Takoboto.Reading      → Japanese_Enhanced.Reading
+   Takoboto.Meaning     → Japanese_Enhanced.Meaning
+   Takoboto.Sentence    → Japanese_Enhanced.Example1 (if exists)
+   Takoboto.SentenceMeaning → Japanese_Enhanced.Example1_EN (if exists)
+   ```
+
+2. **Generate** for cards without examples (~29):
+   - LLM prompt: "Japanese word, N1 level. Give nuance paragraph + 3 simple
+     Japanese example sentences with English translations"
+   - Cost: ~$0.01 for 29 words
+
+3. **Output** a new `Japanese_Enhanced_Takoboto.apkg` with:
+   - 121 notes under new note type
+   - 2 cards per note (Expression→Meaning + Meaning→Expression)
+   - All marked as new (unscheduled, matching original state)
+
+4. **Import** — creates a new deck alongside your existing Takoboto deck.
+   Review and migrate to "Japanese WIP" once happy.
+
+### Phase 2: Japanese WIP (5 cards, has history)
+
+These 5 cards have real review history that must be preserved:
+
+1. **Read** 5 notes with their scheduling data:
+   ```sql
+   SELECT n.flds, c.ivl, c.reps, c.lapses, c.queue, c.type, c.due, c.factor
+   FROM cards c JOIN notes n ON c.nid = n.id
+   WHERE c.did = <Japanese WIP deck id>
+   ```
+
+2. **Create new notes** under `Japanese Enhanced` with Expression/Meaning/Reading
+   copied from old note.
+
+3. **Generate** nuance + 3 example sentences via LLM for all 5 (all are empty).
+
+4. **Build .apkg with scheduling injection**:
+   - Build normally in genanki
+   - Open the SQLite directly to patch the `cards` table with the old scheduling
+     values (ivl, reps, lapses, queue, type, due, factor)
+   - This preserves the exact review state — Anki sees `interval=889, reps=31`
+     and slots the card into the SRS at the right position
+
+5. **Import** — cards appear with their full history intact.
+
+### Phase 3: Main Japanese deck (27,949 cards, has history)
+
+Only after Phases 1-2 are validated:
+
+1. **Extract** all 27,949 cards with scheduling
+2. **Create** new notes under `Japanese Enhanced`
+3. **Generate** nuance + 3 examples via LLM (~$0.20 for 27,949 words)
+4. **Inject** scheduling into new cards
+5. **Output** one big `.apkg` — user imports and the entire deck is upgraded
+   with no progress loss
+
+### Chinese Enhanced Pipeline (same pattern)
+
+| Source | Cards | History | Status |
+|--------|-------|---------|--------|
+| Chinese WIP | 1,183 | Mixed (some new, some reviewed) | Ready for Phase 1 |
+| Chinese main | 15,189 | Real | Ready for Phase 2 |
+
+Same approach: new note type `Chinese Enhanced`, LLM-generated nuance +
+3 examples with EN translations only (no Japanese needed).
+
+### Scheduling preservation code sketch
+
+```python
+import zipfile, sqlite3, genanki
+from pathlib import Path
+
+# Read old card scheduling
+old_conn = sqlite3.connect("old.db")
+old_data = old_conn.execute("""
+    SELECT n.flds, c.ivl, c.reps, c.lapses, c.queue, c.type, c.due, c.factor, c.odue, c.odid
+    FROM cards c JOIN notes n ON c.nid = n.id
+    WHERE c.did = ?
+""", (old_deck_id,)).fetchall()
+
+# Build new deck with genanki
+# ... then patch scheduling into the SQLite:
+new_conn = sqlite3.connect("new.db")
+for old_row, new_note_id in zip(old_data, new_note_ids):
+    new_conn.execute("""
+        UPDATE cards SET ivl=?, reps=?, lapses=?, queue=?, type=?, due=?, factor=?
+        WHERE nid = ?
+    """, (old_row[1], old_row[2], old_row[3], old_row[4], old_row[5],
+          old_row[6], old_row[7], new_note_id))
+new_conn.commit()
+```
+
+This is safe because we're only touching the `cards` table — the `notes` table
+(where the content lives) is freshly built with the new note type.
