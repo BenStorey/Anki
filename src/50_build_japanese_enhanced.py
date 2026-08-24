@@ -152,7 +152,7 @@ MODEL_ID = 1738229000
 DECK_ID = 1738229001
 
 MODEL = genanki.Model(MODEL_ID, "Japanese Enhanced", fields=[
-    {"name": n} for n in ["Expression", "Furigana", "Meaning", "Reading",
+    {"name": n} for n in ["Expression", "Reading", "Meaning",
         "Nuance_EN", "Nuance_JP",
         "Example1", "Example1_EN",
         "Example2", "Example2_EN",
@@ -161,7 +161,7 @@ MODEL = genanki.Model(MODEL_ID, "Japanese Enhanced", fields=[
         "name": "Recognition",
         "qfmt": """<div class="card"><div class="frontbg">{{Expression}}</div></div>""",
         "afmt": """<div class="card">
-<div class="frontbg" style="padding-bottom: 20px;">{{Furigana}}</div>
+<div class="frontbg" style="padding-bottom: 20px;">{{Reading}}</div>
 <div class="backbg">
   <span class="en">{{Meaning}}</span>
   {{#Nuance_EN}}<div class="nuance-en">{{Nuance_EN}}</div>{{/Nuance_EN}}
@@ -277,10 +277,10 @@ def main():
     for w in words:
         expression = w['word']
         meaning = w['meaning']
-        reading = w['reading']
+        reading_raw = w['reading']
 
         # Generate furigana
-        furigana = make_furigana(expression)
+        reading = make_furigana(expression)
 
         llm = all_sentences.get(expression, {})
         nuance_en = llm.get('nuance_en', '')
@@ -299,7 +299,7 @@ def main():
         meaning_clean = re.sub(r'<[^>]+>', '', meaning).strip()
 
         note = genanki.Note(model=MODEL, fields=[
-            esc(expression), esc(furigana), esc(meaning_clean), esc(reading),
+            esc(expression), esc(reading), esc(meaning_clean),
             esc(nuance_en), esc(nuance_jp),
             esc(ex1), esc(ex1_en),
             esc(ex2), esc(ex2_en),
