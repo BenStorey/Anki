@@ -197,8 +197,8 @@ MODEL = genanki.Model(MODEL_ID, "Japanese Enhanced", fields=[
     }], css="""
 .card { font-family: Noto Sans CJK JP Regular; font-size: 50px; text-align: center; color: black; }
 .android .card { font-family: Noto Sans CJK JP Regular; font-size: 30px; text-align: center; color: black; }
-.frontbg { background-color: #408cc7; color: #fff; padding: 20px 0 15px 0; text-align: center; }
-.frontbg.back { padding-top: 14px; }
+.frontbg { background-color: #408cc7; color: #fff; padding: 25px 0 15px 0; text-align: center; }
+.frontbg.back { padding-top: 19px; }
 .backbg { background-color: #fff; padding: 20px 24px; color: #1a1a1a; font-size: 26px; text-align: left; }
 .android .backbg { padding: 15px 16px; font-size: 20px; }
 .en { font-size: 24px; color: #333; }
