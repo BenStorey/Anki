@@ -1,0 +1,97 @@
+[
+  {
+    "word": "慣習",
+    "meaning": "Usual historical custom",
+    "scheduling": {
+      "ivl": 169,
+      "reps": 45,
+      "lapses": 7,
+      "queue": 2,
+      "type": 2,
+      "due": 4787,
+      "factor": 1400,
+      "odue": 0,
+      "odid": 0,
+      "left": 0,
+      "ord": 0
+    },
+    "reading": "かんしゅう",
+    "old_furigana": "慣習[かんしゅう]"
+  },
+  {
+    "word": "水揚げ",
+    "meaning": "Landing / Unloading / A catch (the massive tuna auction)",
+    "scheduling": {
+      "ivl": 226,
+      "reps": 45,
+      "lapses": 6,
+      "queue": 2,
+      "type": 2,
+      "due": 4787,
+      "factor": 1600,
+      "odue": 0,
+      "odid": 0,
+      "left": 0,
+      "ord": 0
+    },
+    "reading": "みずあげ",
+    "old_furigana": "水揚[みずあ]げ"
+  },
+  {
+    "word": "干潟",
+    "meaning": "tidal flat; tideland",
+    "scheduling": {
+      "ivl": 889,
+      "reps": 31,
+      "lapses": 2,
+      "queue": 2,
+      "type": 2,
+      "due": 4787,
+      "factor": 1350,
+      "odue": 0,
+      "odid": 0,
+      "left": 1001,
+      "ord": 0
+    },
+    "reading": "ひがた",
+    "old_furigana": "干潟[ひがた]"
+  },
+  {
+    "word": "隔靴掻痒",
+    "meaning": "being frustrated because something is not quite as hoped (just as one cannot scratch an itch from outside a shoe); having an itch that one cannot scratch",
+    "scheduling": {
+      "ivl": 93,
+      "reps": 29,
+      "lapses": 4,
+      "queue": 2,
+      "type": 2,
+      "due": 4787,
+      "factor": 1300,
+      "odue": 0,
+      "odid": 0,
+      "left": 0,
+      "ord": 0
+    },
+    "reading": "かっかそうよう",
+    "old_furigana": "隔靴掻痒[かっかそうよう]"
+  },
+  {
+    "word": "懐の深い",
+    "meaning": "broad-minded",
+    "scheduling": {
+      "ivl": 118,
+      "reps": 28,
+      "lapses": 4,
+      "queue": 2,
+      "type": 2,
+      "due": 4787,
+      "factor": 1400,
+      "odue": 0,
+      "odid": 0,
+      "left": 0,
+      "ord": 0
+    },
+    "reading": "ふところの ふかい",
+    "old_furigana": "懐[ふところ]の 深[ふか]い"
+  }
+]
