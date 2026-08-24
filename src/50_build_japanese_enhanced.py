@@ -184,7 +184,7 @@ MODEL = genanki.Model(MODEL_ID, "Japanese Enhanced", fields=[
         "name": "Recognition",
         "qfmt": """<div class="card"><div class="frontbg">{{Expression}}</div></div>""",
         "afmt": """<div class="card">
-<div class="frontbg" style="padding-bottom: 20px;">{{Reading}}</div>
+<div class="frontbg" style="padding-bottom: 20px;"><div data-jrp-generate>{{furigana:Reading}}</div></div>
 <div class="backbg">
   <span class="en">{{Meaning}}</span>
   {{#Nuance_EN}}<div class="nuance-en">{{Nuance_EN}}</div>{{/Nuance_EN}}
@@ -197,11 +197,11 @@ MODEL = genanki.Model(MODEL_ID, "Japanese Enhanced", fields=[
     }], css="""
 .card { font-family: Noto Sans CJK JP Regular; font-size: 50px; text-align: center; color: black; }
 .android .card { font-family: Noto Sans CJK JP Regular; font-size: 30px; text-align: center; color: black; }
-.frontbg { background-color: #408cc7; color: #fff; padding-top: 20px; padding-bottom: 15px; }
+.frontbg { background-color: #408cc7; color: #fff; padding-top: 20px; padding-bottom: 15px; height: 120px; box-sizing: border-box; overflow: visible; }
 .backbg { background-color: #fff; padding: 20px 24px; color: #1a1a1a; font-size: 26px; text-align: left; }
 .android .backbg { padding: 15px 16px; font-size: 20px; }
 .en { font-size: 24px; color: #333; }
-.nuance-en { color: #2c5f87; font-size: 20px; margin: 12px 0; padding-top: 6px; border-top: 1px solid #c8d8ed; line-height: 1.4; }
+.nuance-en { color: #2c5f87; font-size: 18px; margin: 12px 0; padding-top: 6px; border-top: 1px solid #c8d8ed; line-height: 1.4; }
 .nuance-jp { color: #5a8faf; font-style: italic; font-size: 18px; margin: 4px 0 12px 0; line-height: 1.3; }
 .exgroup { margin-top: 10px; padding-top: 6px; border-top: 1px solid #c8d8ed; }
 .ex { font-size: 24px; color: #333; line-height: 1.4; }
