@@ -192,7 +192,7 @@ def parse_sentences(text):
             cur = m.group(1).strip() if m else s.replace('===','').strip().split('|')[0].strip()
             data = {}
             continue
-        for prefix, key in [('Nuance:', 'nuance_jp'),
+        for prefix, key in [('Nuance_EN:', 'nuance_en'), ('Nuance_JP:', 'nuance_jp'), ('Nuance:', 'nuance_jp'),
                             ('Example1:', 'ex1'), ('Example1_EN:', 'ex1_en'),
                             ('Example2:', 'ex2'), ('Example2_EN:', 'ex2_en'),
                             ('Example3:', 'ex3'), ('Example3_EN:', 'ex3_en')]:
@@ -278,6 +278,7 @@ def main():
         reading = make_furigana(expression)
         
         wip_data = llm.get(expression, {})
+        nuance_en = wip_data.get('nuance_en', '')
         nuance_jp = wip_data.get('nuance_jp', '')
         ex1 = wip_data.get('ex1', '')
         ex1_en = wip_data.get('ex1_en', '')
@@ -290,7 +291,7 @@ def main():
         
         note = genanki.Note(model=MODEL, fields=[
             esc(expression), esc(reading), esc(meaning_clean),
-            '', esc(nuance_jp),
+            esc(nuance_en), esc(nuance_jp),
             esc(ex1), esc(ex1_en),
             esc(ex2), esc(ex2_en),
             esc(ex3), esc(ex3_en),
