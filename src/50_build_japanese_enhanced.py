@@ -198,7 +198,7 @@ MODEL = genanki.Model(MODEL_ID, "Japanese Enhanced", fields=[
 .card { font-family: Noto Sans CJK JP Regular; font-size: 50px; text-align: center; color: black; }
 .android .card { font-family: Noto Sans CJK JP Regular; font-size: 30px; text-align: center; color: black; }
 .frontbg { background-color: #408cc7; color: #fff; height: 120px; padding: 25px 0 0 0; box-sizing: border-box; text-align: center; }
-.frontbg.back { padding-top: 16px; }
+.frontbg.back { padding-top: 15px; }
 /* Ruby adds invisible overhead unless we suppress its line-height */
 .frontbg rt { line-height: 1; }
 .frontbg ruby { line-height: 1; }
