@@ -1,0 +1,8 @@
+{
+  "total_words": 26916,
+  "total_batches": 54,
+  "batch_size": 500,
+  "completed_batches": 0,
+  "batches_dir": "/home/ben/dev/sino-korean/data/jp_main/batches",
+  "prompt_dir": "/home/ben/dev/sino-korean/data/sentences_raw/jp_main"
+}
