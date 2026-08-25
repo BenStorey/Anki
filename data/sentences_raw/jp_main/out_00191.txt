@@ -1,0 +1,548 @@
+===word: 不運===
+Nuance: 思いがけない不幸な出来事や、運が悪い状態を指します。人生の逆境や予期せぬトラブルに対して使われる、ややフォーマルな表現です。
+Example1: この度の不運を乗り越えて、また頑張りましょう。
+Example1_EN: Let's overcome this misfortune and do our best again.
+Example2: 彼は不運にも事故に遭ってしまいました。
+Example2_EN: Unfortunately, he got into an accident.
+Example3: 不運な出来事が続いていますが、めげずに前進します。
+Example3_EN: Unfortunate events keep happening, but I'll keep moving forward without giving up.
+
+===word: 落第===
+Nuance: 試験や進級などの審査に合格しないことを意味します。主に学校の試験や資格試験で使われる、やや厳しい響きのある言葉です。
+Example1: 彼は数学の試験で落第してしまいました。
+Example1_EN: He failed the math exam.
+Example2: 落第しないように、毎日しっかり勉強しています。
+Example2_EN: I study hard every day so I won't fail.
+Example3: 一度の落第で人生が終わるわけではありません。
+Example3_EN: A single failure doesn't mean your life is over.
+
+===word: 滑り台===
+Nuance: 公園などの遊具にある、傾斜のある台を滑り降りる遊び道具を指します。子供向けの遊具として一般的で、親しみやすい言葉です。
+Example1: 子供たちは滑り台で楽しそうに遊んでいます。
+Example1_EN: The children are playing happily on the slide.
+Example2: この公園の滑り台はとても長くて人気があります。
+Example2_EN: The slide at this park is very long and popular.
+Example3: 滑り台は雨の日は滑りやすくなりますのでご注意ください。
+Example3_EN: Please be careful as the slide becomes slippery on rainy days.
+
+===word: 雄弁===
+Nuance: 話し方が巧みで、人を引きつけるように話す能力やその様子を指します。ポジティブな意味で使われることが多く、スピーチや議論の場で評価されます。
+Example1: 彼の雄弁なスピーチに、会場の全員が感動しました。
+Example1_EN: Everyone in the venue was moved by his eloquent speech.
+Example2: 雄弁な人は説得力がありますね。
+Example2_EN: Eloquent people are persuasive, aren't they?
+Example3: 彼女は雄弁に自分の意見を述べました。
+Example3_EN: She eloquently stated her opinion.
+
+===word: 我が社===
+Nuance: 自分が所属している会社や組織を指す、やや格式ばった表現です。ビジネスシーンで使われ、自社への愛着や誇りを含むことがあります。
+Example1: 我が社の売上は昨年より二割増加しました。
+Example1_EN: Our company's sales increased by 20% compared to last year.
+Example2: 我が社の理念はお客様第一です。
+Example2_EN: Our company's philosophy is customer first.
+Example3: 我が社は来月、新製品を発表する予定です。
+Example3_EN: Our company plans to announce a new product next month.
+
+===word: 可変===
+Nuance: 状況や条件に応じて変えることができる性質を指します。技術や機械の設定、ルールなどに使われる、やや専門的な用語です。
+Example1: この設定は可変なので、自由に変更できます。
+Example1_EN: This setting is variable, so you can change it freely.
+Example2: 可変の条件を事前に確認しておきましょう。
+Example2_EN: Let's check the variable conditions in advance.
+Example3: エンジンの出力は可変になっています。
+Example3_EN: The engine's output is adjustable.
+
+===word: 暮れる===
+Nuance: 日が沈んで暗くなることや、季節や年月が終わりに近づくことを表します。また、感情に支配されるという比喩的な使い方もあります。
+Example1: 秋も暮れて、冬の気配が感じられるようになりました。
+Example1_EN: Autumn has ended, and I can feel the signs of winter.
+Example2: 日が暮れる前に帰宅したほうがいいですよ。
+Example2_EN: You should go home before it gets dark.
+Example3: 彼は悲しみに暮れて、何も手につかないようです。
+Example3_EN: He seems to be overcome with sadness and can't focus on anything.
+
+===word: 指摘する===
+Nuance: 物事の間違いや重要な点を具体的に示すことを意味します。批判的な場面だけでなく、注意を促す場面でも使われる便利な動詞です。
+Example1: 先生が私の文法の間違いを指摘してくださいました。
+Example1_EN: My teacher pointed out my grammar mistake.
+Example2: 会議で問題点を指摘するのは勇気がいります。
+Example2_EN: It takes courage to point out problems in a meeting.
+Example3: 彼はデータの矛盾をすぐに指摘しました。
+Example3_EN: He immediately pointed out the inconsistency in the data.
+
+===word: 急用===
+Nuance: 突然発生した緊急の用事を指します。予定外の出来事で、すぐに対応しなければならない状況で使われます。
+Example1: 急用ができたので、今日は早退させていただきます。
+Example1_EN: An urgent matter has come up, so I'd like to leave early today.
+Example2: 急用で電話に出られませんでした。
+Example2_EN: I couldn't answer the phone because of an urgent matter.
+Example3: 急用の場合はこちらの番号にご連絡ください。
+Example3_EN: In case of an emergency, please contact this number.
+
+===word: 把握する===
+Nuance: 物事の内容や状況を正しく理解し、自分のものとして捉えることを意味します。ビジネスや学習の場面でよく使われる、フォーマルな動詞です。
+Example1: まずは現状をしっかり把握することが大切です。
+Example1_EN: First, it's important to fully grasp the current situation.
+Example2: 全体の流れを把握してから作業を始めましょう。
+Example2_EN: Let's start working after understanding the overall flow.
+Example3: 彼はプロジェクトの進捗を正確に把握しています。
+Example3_EN: He accurately grasps the progress of the project.
+
+===word: 出版される===
+Nuance: 書籍や雑誌などが世の中に出されて、読者が入手できる状態になることを意味します。出版するの受身形で、作品や書物が主体となる表現です。
+Example1: 彼の小説は来月出版される予定です。
+Example1_EN: His novel is scheduled to be published next month.
+Example2: この雑誌は毎月十五日に出版されます。
+Example2_EN: This magazine is published on the fifteenth of every month.
+Example3: その本は十年前に出版されましたが、今でも読まれています。
+Example3_EN: That book was published ten years ago, but it's still being read.
+
+===word: 商品===
+Nuance: 売買の対象となる品物や製品を指します。店頭に並ぶものからオンラインで販売されるものまで、幅広く使われる一般的な言葉です。
+Example1: この商品はとても人気があります。
+Example1_EN: This product is very popular.
+Example2: 新商品は来週発売されます。
+Example2_EN: The new product will be released next week.
+Example3: こちらの商品は保証付きです。
+Example3_EN: This product comes with a warranty.
+
+===word: 雪国===
+Nuance: 冬に雪が多く降る地域を指します。日本では北陸地方や東北地方、北海道などが該当し、生活や文化に雪が深く関わっているイメージがあります。
+Example1: 雪国では冬になると道が雪で埋もれます。
+Example1_EN: In snowy regions, the roads get buried in snow during winter.
+Example2: 雪国に住むのは大変ですが、景色はとても美しいです。
+Example2_EN: Living in a snowy region is tough, but the scenery is very beautiful.
+Example3: 雪国ならではの観光体験を楽しみました。
+Example3_EN: I enjoyed a sightseeing experience unique to snowy regions.
+
+===word: 実態===
+Nuance: 物事の隠れた本当の状態や実情を指します。表面だけでは分からない内部の事情を表す、ややフォーマルな言葉です。
+Example1: 調査の結果、問題の実態が明らかになりました。
+Example1_EN: As a result of the investigation, the true state of the problem became clear.
+Example2: 実態を把握しないまま判断するのは危険です。
+Example2_EN: It's dangerous to make a judgment without understanding the actual situation.
+Example3: 経済の実態は統計だけでは見えてきません。
+Example3_EN: The actual economic situation cannot be seen from statistics alone.
+
+===word: 水中===
+Nuance: 水の中で囲まれた空間や状態を指します。水中での活動や生物について話すときに使われる、日常的な言葉です。
+Example1: 水中で息を止められる時間を練習しています。
+Example1_EN: I'm practicing how long I can hold my breath underwater.
+Example2: この湖の水中はとても澄んでいます。
+Example2_EN: The water in this lake is very clear.
+Example3: 水中写真を撮るのが趣味です。
+Example3_EN: Taking underwater photos is my hobby.
+
+===word: 貝===
+Nuance: 硬い殻を持つ水生生物の総称で、食用や装飾品としても親しまれています。海岸や市場で見かける身近な生き物です。
+Example1: この貝は生でも食べられます。
+Example1_EN: This shellfish can be eaten raw.
+Example2: 貝殻を拾って記念に持ち帰りました。
+Example2_EN: I picked up shells and brought them home as a souvenir.
+Example3: 貝の種類によって味が大きく違います。
+Example3_EN: The taste varies greatly depending on the type of shellfish.
+
+===word: 和服===
+Nuance: 日本の伝統的な衣服の総称で、着物や浴衣などが含まれます。特別な行事や式典で着用されることが多く、格式のある印象を与えます。
+Example1: 和服を着ると気持ちが引き締まります。
+Example1_EN: Wearing Japanese traditional clothes makes me feel more composed.
+Example2: 彼女は今日、美しい和服を着ています。
+Example2_EN: She is wearing a beautiful kimono today.
+Example3: 和服の着方を祖母に教えてもらいました。
+Example3_EN: I had my grandmother teach me how to wear Japanese traditional clothes.
+
+===word: ざーめん===
+Nuance: 俗語で、男性の精液を指す下品な表現です。日常会話では使われず、非常にくだけた場面や性的な文脈でのみ用いられる言葉です。
+Example1: そんな下品な言葉は使わないでください。
+Example1_EN: Please don't use such vulgar language.
+Example2: 公共の場では適切な言葉遣いをしましょう。
+Example2_EN: Let's use appropriate language in public places.
+Example3: その言葉は非常に失礼なので注意してください。
+Example3_EN: Please be careful as that word is very rude.
+
+===word: 降雪量===
+Nuance: 一定期間に降った雪の量を数値で表したものです。気象情報やニュースで使われる、やや専門的な気象用語です。
+Example1: 今朝の降雪量は十センチでした。
+Example1_EN: This morning's snowfall was ten centimeters.
+Example2: 降雪量が多い地域では除雪作業が欠かせません。
+Example2_EN: Snow removal work is essential in areas with heavy snowfall.
+Example3: 昨夜の降雪量は予想を上回りました。
+Example3_EN: Last night's snowfall exceeded expectations.
+
+===word: 休学===
+Nuance: 学生が病気や経済的理由などで、一定期間学校を休むことを指します。手続きを踏んで正式に認められる制度です。
+Example1: 彼は病気のため休学することになりました。
+Example1_EN: He decided to take a leave of absence from school due to illness.
+Example2: 休学中も図書館は利用できます。
+Example2_EN: You can still use the library during your leave of absence.
+Example3: 休学から復学するときは、手続きが必要です。
+Example3_EN: You need to go through procedures when returning from a leave of absence.
+
+===word: 重工業===
+Nuance: 鉄鋼や機械、化学プラントなど、大規模な設備を使って生産を行う工業部門を指します。軽工業と対比される、産業の基盤を支える分野です。
+Example1: この地域は重工業が盛んです。
+Example1_EN: This region has a thriving heavy industry.
+Example2: 重工業は国の経済を支える重要な役割を果たしています。
+Example2_EN: Heavy industry plays an important role in supporting the nation's economy.
+Example3: 重工業の工場では多くの労働者が働いています。
+Example3_EN: Many workers are employed at heavy industry factories.
+
+===word: 民===
+Nuance: 国家や社会を構成する一般の人々を指します。政治や社会の文脈で使われることが多く、やや硬い響きのある漢語です。
+Example1: この政策は民の生活を守るために作られました。
+Example1_EN: This policy was created to protect the lives of the people.
+Example2: 官と民が協力して問題解決に取り組みます。
+Example2_EN: The public and private sectors will work together to solve the problem.
+Example3: 民の声を政治に反映させることが大切です。
+Example3_EN: It is important to reflect the voices of the people in politics.
+
+===word: 攻撃性===
+Nuance: 他者に対して攻撃的な態度や行動を取ろうとする性質や傾向を指します。心理学や動物行動学の分野で使われることが多い言葉です。
+Example1: この犬は攻撃性が強いので注意が必要です。
+Example1_EN: This dog has a strong aggressive tendency, so caution is needed.
+Example2: ストレスが原因で攻撃性が高まることがあります。
+Example2_EN: Aggressiveness can increase due to stress.
+Example3: 彼の攻撃性は周囲との関係に悪影響を及ぼしました。
+Example3_EN: His aggressiveness negatively affected his relationships with those around him.
+
+===word: 高度===
+Nuance: 地面や海面から測った高さや、物事の程度や水準が高いことを指します。地理や技術、抽象的なレベルまで幅広く使われる言葉です。
+Example1: 飛行機は高度一万メートルを飛行しています。
+Example1_EN: The airplane is flying at an altitude of 10,000 meters.
+Example2: この地域は高度が高いので、空気が薄いです。
+Example2_EN: This area is at a high altitude, so the air is thin.
+Example3: 彼の技術は高度なレベルに達しています。
+Example3_EN: His skills have reached an advanced level.
+
+===word: 往復===
+Nuance: 行きと帰りの両方を含む移動を指します。交通機関の切符や移動時間の表現として日常的によく使われます。
+Example1: 東京と大阪を往復するのに五時間かかります。
+Example1_EN: It takes five hours to travel round trip between Tokyo and Osaka.
+Example2: 往復の切符を買いました。
+Example2_EN: I bought a round-trip ticket.
+Example3: この道路は往復四車線です。
+Example3_EN: This road has four lanes in both directions.
+
+===word: 祭日===
+Nuance: 法律で定められた国民の祝日を指します。学校や会社が休みになる日で、カレンダーに赤く表示されることが多いです。
+Example1: 今日は祭日なので、銀行は休みです。
+Example1_EN: Today is a national holiday, so the bank is closed.
+Example2: 祭日には家族で出かける人が多いです。
+Example2_EN: Many people go out with their families on national holidays.
+Example3: 来週の月曜日は祭日です。
+Example3_EN: Next Monday is a national holiday.
+
+===word: 日差し===
+Nuance: 太陽から照り注ぐ光のことを指します。特に昼間の明るい太陽の光を表す、日常的で親しみのある言葉です。
+Example1: 夏の日差しはとても強いです。
+Example1_EN: The summer sunlight is very strong.
+Example2: 日差しがまぶしいのでサングラスをかけましょう。
+Example2_EN: The sunlight is dazzling, so let's wear sunglasses.
+Example3: 日差しを浴びるとビタミンDが生成されます。
+Example3_EN: Exposing yourself to sunlight produces vitamin D.
+
+===word: 浪費===
+Nuance: お金や時間、資源などを無駄に使うことを指します。計画的でない使い方や価値のない消費に対して否定的なニュアンスで使われます。
+Example1: 時間を浪費しないように計画的に行動しましょう。
+Example1_EN: Let's act planfully so we don't waste time.
+Example2: 彼は給料を浪費してしまいました。
+Example2_EN: He wasted his salary.
+Example3: 浪費を減らすために予算を立てました。
+Example3_EN: I made a budget to reduce wasteful spending.
+
+===word: 親しむ===
+Nuance: 人や物事に慣れ親しんで、好感や愛着を持つようになることを意味します。自然に距離が縮まる様子を表す、温かみのある動詞です。
+Example1: もっと日本の文化に親しみたいです。
+Example1_EN: I want to become more familiar with Japanese culture.
+Example2: 彼女はクラシック音楽に親しんでいます。
+Example2_EN: She enjoys classical music.
+Example3: この公園で自然に親しむことができます。
+Example3_EN: You can get close to nature in this park.
+
+===word: 失敗作===
+Nuance: 制作や創作の過程で期待通りの結果が得られなかった作品を指します。料理、芸術、製品など様々な分野で使われます。
+Example1: このケーキは失敗作になってしまいました。
+Example1_EN: This cake turned out to be a failure.
+Example2: 失敗作から学ぶこともたくさんあります。
+Example2_EN: There is also a lot to learn from failed works.
+Example3: 彼はその小説を失敗作だと思っているようです。
+Example3_EN: He seems to think that novel is a failure.
+
+===word: 万能薬===
+Nuance: あらゆる病気や問題に効くとされる薬や解決策を指します。比喩的にも使われ、すべての問題を解決する手段という意味があります。
+Example1: このハーブは万能薬として知られています。
+Example1_EN: This herb is known as a panacea.
+Example2: 残念ですが、経済問題に万能薬はありません。
+Example2_EN: Unfortunately, there is no panacea for economic problems.
+Example3: どんな病気にも効く万能薬は存在しないと思います。
+Example3_EN: I don't think there is a cure-all that works for every disease.
+
+===word: 農耕地===
+Nuance: 農作物を栽培するために使われる土地を指します。田んぼや畑などが含まれ、農業に関連する文脈で使われるやや専門的な用語です。
+Example1: この地域の農耕地はとても肥沃です。
+Example1_EN: The farmland in this region is very fertile.
+Example2: 農耕地の減少が問題になっています。
+Example2_EN: The decrease in arable land is becoming a problem.
+Example3: 農耕地を守るための取り組みが行われています。
+Example3_EN: Efforts are being made to protect farmland.
+
+===word: 水道水===
+Nuance: 水道管を通じて各家庭や施設に供給される水を指します。飲料や調理、洗濯など日常生活で広く使われる水です。
+Example1: 日本の水道水は安全に飲めます。
+Example1_EN: Japanese tap water is safe to drink.
+Example2: 水道水を一度沸かしてから飲んでいます。
+Example2_EN: I boil tap water before drinking it.
+Example3: この地域の水道水はカルシウムが豊富です。
+Example3_EN: The tap water in this area is rich in calcium.
+
+===word: 正す===
+Nuance: 誤りや歪みを正しく直すことを意味します。姿勢や間違い、秩序などを本来あるべき状態に戻すときに使われる、やや硬めの動詞です。
+Example1: 間違った認識を正す必要があります。
+Example1_EN: We need to correct the mistaken perception.
+Example2: 背筋を正して座りましょう。
+Example2_EN: Let's sit up straight and correct our posture.
+Example3: 彼の発言をすぐに正しました。
+Example3_EN: I immediately corrected his statement.
+
+===word: ねじる===
+Nuance: 物を回転させて締めたり、形を変えたりする動作を指します。工具や身体の動きなど、具体的な動作から比喩表現まで幅広く使われます。
+Example1: 蓋をねじって開けてください。
+Example1_EN: Please twist the lid to open it.
+Example2: タオルを絞るときに強くねじりすぎないでください。
+Example2_EN: Please don't twist the towel too hard when wringing it.
+Example3: 彼は言葉をねじって冗談にしました。
+Example3_EN: He twisted his words into a joke.
+
+===word: 揺るがす===
+Nuance: 物事を激しく揺さぶって安定を失わせることを意味します。物理的な揺れだけでなく、信念や体制など抽象的なものに対して使われることも多いです。
+Example1: その出来事は社会全体を揺るがしました。
+Example1_EN: That incident shook the entire society.
+Example2: 大地震が街を揺るがしました。
+Example2_EN: A major earthquake shook the city.
+Example3: 彼の信念は何があっても揺るがされません。
+Example3_EN: His beliefs are not shaken no matter what happens.
+
+===word: 戦果===
+Nuance: 戦いや競争の結果として得られた成果や利益を指します。軍事用語としての意味が強いですが、ビジネスやスポーツの比喩としても使われます。
+Example1: 今回の作戦の戦果は非常に大きかったです。
+Example1_EN: The results of this operation were very significant.
+Example2: 戦果を報告するために本社に連絡しました。
+Example2_EN: I contacted headquarters to report the results.
+Example3: チームの戦果は今年の努力の成果です。
+Example3_EN: The team's achievements are the result of this year's efforts.
+
+===word: 生命力===
+Nuance: 生きていくための力や活力を指します。生物が環境に適応して成長し続ける能力や、人の中にある強い生きる力を表します。
+Example1: この植物はとても生命力が強いです。
+Example1_EN: This plant has a very strong vitality.
+Example2: 人間の生命力は想像以上に素晴らしいものです。
+Example2_EN: Human vitality is more wonderful than we can imagine.
+Example3: 彼女の生命力にはいつも驚かされます。
+Example3_EN: I'm always amazed by her vitality.
+
+===word: 有機===
+Nuance: 有機物に関係することや、有機農業のように化学肥料や農薬を使わない自然な方法を指します。また、各部分が互いに関連し合っている様子も表します。
+Example1: 有機野菜は体に良いと言われています。
+Example1_EN: Organic vegetables are said to be good for your health.
+Example2: この会社は有機農法に取り組んでいます。
+Example2_EN: This company is engaged in organic farming.
+Example3: 有機的なチームワークが成功の鍵です。
+Example3_EN: Organic teamwork is the key to success.
+
+===word: 街路樹===
+Nuance: 道路沿いに植えられた木々を指します。景観を美しく保ち、日陰を作ったり空気を清浄にしたりする役割もあります。
+Example1: この通りには美しい街路樹が並んでいます。
+Example1_EN: Beautiful roadside trees line this street.
+Example2: 街路樹の落ち葉掃除が大変です。
+Example2_EN: Cleaning up the fallen leaves from the roadside trees is hard work.
+Example3: 街路樹は夏に涼しい日陰を作ってくれます。
+Example3_EN: Roadside trees provide cool shade in summer.
+
+===word: 操縦士===
+Nuance: 飛行機やヘリコプターなどの航空機を操作して運転する人を指します。パイロットとも呼ばれ、専門的な訓練と資格が必要な職業です。
+Example1: 操縦士は毎日点検を行っています。
+Example1_EN: The pilot conducts inspections every day.
+Example2: 操縦士になるためには厳しい訓練が必要です。
+Example2_EN: Becoming a pilot requires rigorous training.
+Example3: 機内から操縦士のアナウンスがありました。
+Example3_EN: There was an announcement from the pilot from inside the aircraft.
+
+===word: 時代遅れ===
+Nuance: 流行や技術の進歩についていけず、古くなってしまった状態を指します。考え方やデザイン、機器などに対して使われる否定的な評価の言葉です。
+Example1: その考え方はもう時代遅れですよ。
+Example1_EN: That way of thinking is already outdated.
+Example2: この機械は時代遅れなので、新しいものに交換します。
+Example2_EN: This machine is outdated, so we'll replace it with a new one.
+Example3: 時代遅れのデザインですが、味わいがありますね。
+Example3_EN: It's an outdated design, but it has character.
+
+===word: サボる===
+Nuance: 怠けて本来すべきことをしないことを意味する俗語です。学校や仕事を怠ける場面で使われ、くだけた日常会話でよく聞かれます。
+Example1: 彼はよく授業をサボります。
+Example1_EN: He often skips class.
+Example2: 仕事をサボっているところを上司に見つかりました。
+Example2_EN: I was caught by my boss slacking off at work.
+Example3: サボらずに宿題を終わらせましょう。
+Example3_EN: Let's finish our homework without slacking off.
+
+===word: 容疑===
+Nuance: 犯罪や不正行為を行ったのではないかという疑いを指します。警察や裁判の文脈で使われる、法律関連の用語です。
+Example1: 彼は殺人の容疑で逮捕されました。
+Example1_EN: He was arrested on suspicion of murder.
+Example2: 容疑が晴れて、無罪になりました。
+Example2_EN: The suspicion was cleared and he was found innocent.
+Example3: 現在、容疑者について捜査が進められています。
+Example3_EN: An investigation is currently underway regarding the suspect.
+
+===word: 太古===
+Nuance: 非常に古い昔、歴史の記録が残る以前の時代を指します。神話や地質学的な時代について語るときに使われる、文学的な響きのある言葉です。
+Example1: 太古の昔から人間は火を使ってきました。
+Example1_EN: Humans have been using fire since ancient times.
+Example2: この地域には太古の遺跡が残っています。
+Example2_EN: Ancient ruins remain in this area.
+Example3: 太古の生物について博物館で学びました。
+Example3_EN: I learned about ancient creatures at the museum.
+
+===word: 無条件降伏===
+Nuance: 相手に一切の条件を付けずに降伏することを指します。主に戦争の文脈で使われる、歴史的・政治的な重みのある言葉です。
+Example1: その国は無条件降伏を受け入れました。
+Example1_EN: That country accepted unconditional surrender.
+Example2: 無条件降伏は戦争終結の一つの形です。
+Example2_EN: Unconditional surrender is one form of ending a war.
+Example3: 歴史の授業で無条件降伏について学びました。
+Example3_EN: I learned about unconditional surrender in history class.
+
+===word: 機関銃===
+Nuance: 一度に多数の弾丸を連続して発射できる銃器を指します。軍事やアクション映画などで登場する、威力のある武器です。
+Example1: 機関銃の音が遠くから聞こえてきました。
+Example1_EN: The sound of a machine gun could be heard from afar.
+Example2: この映画には機関銃を使った戦闘シーンがあります。
+Example2_EN: This movie has a battle scene with a machine gun.
+Example3: 機関銃は戦場で重要な役割を果たしました。
+Example3_EN: Machine guns played an important role on the battlefield.
+
+===word: 単調===
+Nuance: 変化が少なくて同じような状態が続くことを指します。作業や生活、音楽や話し方などに対して使われ、退屈や飽きのニュアンスを含みます。
+Example1: この作業は単調で飽きやすいです。
+Example1_EN: This work is monotonous and easy to get bored with.
+Example2: 単調な毎日を変えたいと思っています。
+Example2_EN: I'm thinking of changing my monotonous daily life.
+Example3: 彼の話し方は単調で眠くなります。
+Example3_EN: His way of speaking is monotonous and makes me sleepy.
+
+===word: 原チャリ===
+Nuance: 原動機付き自転車（スクーターやモペッド）の俗称で、若者言葉として親しまれています。日常的な移動手段としてよく使われます。
+Example1: 原チャリで学校に通っています。
+Example1_EN: I commute to school by moped.
+Example2: 原チャリの免許を取るつもりです。
+Example2_EN: I plan to get a moped license.
+Example3: 原チャリは駐車に便利です。
+Example3_EN: Mopeds are convenient for parking.
+
+===word: 風呂釜===
+Nuance: お風呂のお湯を沸かすための装置や、浴槽の湯を温める部分を指します。家庭の設備として、特に冬場は重要な役割を果たします。
+Example1: 風呂釜の調子が悪いので修理を頼みました。
+Example1_EN: The bath heater is not working well, so I called for repairs.
+Example2: 新しい風呂釜に交換しました。
+Example2_EN: I replaced the bath heater with a new one.
+Example3: 風呂釜の掃除を定期的にしましょう。
+Example3_EN: Let's clean the bath heater regularly.
+
+===word: 蒔く===
+Nuance: 種を土の中にまいて育てるために植える動作を指します。農業や園芸の基本的な作業で、比喩的には将来の種を準備する意味でも使われます。
+Example1: 春になったら花の種を蒔きます。
+Example1_EN: I will sow flower seeds when spring comes.
+Example2: 畑に野菜の種を蒔く準備をしています。
+Example2_EN: I'm preparing to sow vegetable seeds in the field.
+Example3: 蒔いた種が芽を出すのが楽しみです。
+Example3_EN: I'm looking forward to seeing the seeds I sowed sprout.
+
+===word: 教職===
+Nuance: 教師として働く職業や職務を指します。学校で児童や生徒を教える仕事で、教育に対する責任や使命感を含む言葉です。
+Example1: 彼女は大学で教職を志しています。
+Example1_EN: She aspires to a teaching career at university.
+Example2: 教職に就くためには教員免許が必要です。
+Example2_EN: A teaching license is required to enter the teaching profession.
+Example3: 教職はやりがいのある仕事です。
+Example3_EN: The teaching profession is a rewarding job.
+
+===word: 植物状態===
+Nuance: 脳の機能が重度に損なわれ、意識や自発的な運動ができない状態を指します。医学用語で、非常に重い状況を表す言葉です。
+Example1: 彼は事故の後、植物状態が続いています。
+Example1_EN: He has remained in a vegetative state after the accident.
+Example2: 植物状態の患者の介護は大変です。
+Example2_EN: Caring for patients in a vegetative state is very difficult.
+Example3: 植物状態からの回復は極めてまれです。
+Example3_EN: Recovery from a vegetative state is extremely rare.
+
+===word: 及ぶ===
+Nuance: ある範囲や程度まで達することを意味します。影響が広範囲に届く場合や、数量や程度がある水準に達する場合に使われる、やや硬い動詞です。
+Example1: 被害は全国に及びました。
+Example1_EN: The damage extended nationwide.
+Example2: この問題の影響は多方面に及んでいます。
+Example2_EN: The impact of this problem extends to many areas.
+Example3: 彼の知識は専門家の域に及んでいます。
+Example3_EN: His knowledge reaches the level of an expert.
+
+===word: 長続き===
+Nuance: ある状態や関係が長い間続くことを指します。特に人間関係や習慣、趣味などが途切れずに続く様子を表す日常的な言葉です。
+Example1: 彼女のダイエットは長続きしませんでした。
+Example1_EN: Her diet didn't last long.
+Example2: 何事も長続きさせることが大切です。
+Example2_EN: It's important to make everything last.
+Example3: この仕事は長続きしそうですか？
+Example3_EN: Does this job seem like it will last long?
+
+===word: 付近===
+Nuance: ある場所の周辺や近くの地域を指します。住所や目印となる場所を中心とした、はっきりしない範囲を表す便利な言葉です。
+Example1: 駅の付近にコンビニがあります。
+Example1_EN: There's a convenience store near the station.
+Example2: この付近には駐車場が少ないです。
+Example2_EN: There are few parking lots in this vicinity.
+Example3: 事件の付近にいた人を探しています。
+Example3_EN: We are looking for people who were in the vicinity of the incident.
+
+===word: 刺殺する===
+Nuance: 刃物などで人を刺して殺すことを意味します。犯罪や事件の報道などで使われる、非常に重い意味を持つ動詞です。
+Example1: その男はナイフで人を刺殺した疑いがあります。
+Example1_EN: The man is suspected of stabbing someone to death with a knife.
+Example2: 刺殺事件のニュースに衝撃を受けました。
+Example2_EN: I was shocked by the news of a stabbing murder.
+Example3: 刺殺は重大な犯罪です。
+Example3_EN: Stabbing someone to death is a serious crime.
+
+===word: 内乱===
+Nuance: 国家内部で起こる武力を用いた争いや反乱を指します。政府に対する組織的な抵抗や紛争を表す、政治・歴史的な用語です。
+Example1: その国では内乱が続いています。
+Example1_EN: Civil war continues in that country.
+Example2: 内乱によって多くの人が避難を余儀なくされました。
+Example2_EN: Many people were forced to evacuate due to the civil war.
+Example3: 内乱を防ぐためには平和的な対話が必要です。
+Example3_EN: Peaceful dialogue is necessary to prevent civil war.
+
+===word: 大掃除===
+Nuance: 家やオフィスなどを徹底的に掃除することを指します。特に年末に行われる習慣として有名で、一年の汚れを落として新年を迎える意味があります。
+Example1: 年末に家中を大掃除します。
+Example1_EN: I do a major cleaning of the whole house at the end of the year.
+Example2: 大掃除をすると気持ちがすっきりしますね。
+Example2_EN: Doing a thorough cleaning makes you feel refreshed, doesn't it?
+Example3: 来週、オフィスの大掃除を予定しています。
+Example3_EN: We're planning a major office cleanup next week.
+
+===word: 安価===
+Nuance: 値段が安いことを表す、ややフォーマルな言葉です。日常会話では「安い」が一般的ですが、ビジネスや広告では「安価」が使われることが多いです。
+Example1: この製品は安価で品質も良いです。
+Example1_EN: This product is inexpensive and of good quality.
+Example2: 安価な材料を使うと品質が落ちます。
+Example2_EN: Using cheap materials reduces quality.
+Example3: もっと安価な方法を探しましょう。
+Example3_EN: Let's look for a more affordable method.
+
+===word: 最優先する===
+Nuance: 数ある物事の中で最も優先順位を高くして取り組むことを意味します。ビジネスや日常生活で、何を一番にすべきかを示すときに使われます。
+Example1: 安全を最優先してください。
+Example1_EN: Please prioritize safety above all else.
+Example2: このプロジェクトを最優先して進めます。
+Example2_EN: I will proceed with this project as the top priority.
+Example3: お客様のご要望を最優先いたします。
+Example3_EN: We will prioritize our customers' requests above all else.

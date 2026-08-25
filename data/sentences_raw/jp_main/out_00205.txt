@@ -1,0 +1,539 @@
+===word: 団体行動===
+Nuance: 集団で協力して行動することを指します。学校や職場、社会活動など、複数人が共通の目的に向かって動く場面で使われる言葉です。
+Example1: 団体行動はチームワークを高めるのに役立ちます。
+Example1_EN: Group behavior helps improve teamwork.
+Example2: 学校では団体行動の大切さを教えています。
+Example2_EN: At school, they teach the importance of group behavior.
+Example3: 団体行動をするときは、周りの人に配慮しましょう。
+Example3_EN: When acting as a group, please be considerate of those around you.
+
+===word: 寝たきり老人===
+Nuance: 病気や老衰などで長期間ベッドから起き上がれなくなった高齢者のことを指します。介護の現場で使われる表現で、やや直接的な響きがあります。
+Example1: 寝たきり老人の介護は家族にとって大きな負担です。
+Example1_EN: Caring for a bedridden elderly person is a heavy burden on the family.
+Example2: この施設では寝たきり老人のためのリハビリを行っています。
+Example2_EN: This facility offers rehabilitation for bedridden elderly people.
+Example3: 寝たきり老人を支える社会制度がもっと必要だと思います。
+Example3_EN: I think we need more social systems to support bedridden elderly people.
+
+===word: 溶ける===
+Nuance: 固体が熱や液体によって液体状に変化することを意味します。また、比喩的に心が和らいだり、物事が解消される場合にも使われます。
+Example1: 氷が溶けると水になります。
+Example1_EN: When ice melts, it becomes water.
+Example2: バターが溶けるまで中火で加熱してください。
+Example2_EN: Please heat it over medium heat until the butter melts.
+Example3: 雪が溶けると、道がとても滑りやすくなります。
+Example3_EN: When the snow melts, the roads become very slippery.
+
+===word: 生中継===
+Nuance: テレビやラジオで、現場からリアルタイムで放送することを指します。特にスポーツやニュース、イベントなどで頻繁に使われる言葉です。
+Example1: この試合は全国で生中継されます。
+Example1_EN: This match will be broadcast live nationwide.
+Example2: 生中継の途中で機材のトラブルが発生しました。
+Example2_EN: A equipment malfunction occurred during the live broadcast.
+Example3: 生中継ならではの臨場感が視聴者に伝わります。
+Example3_EN: The sense of realism unique to live broadcasts is conveyed to the viewers.
+
+===word: 農村地帯===
+Nuance: 農作物の栽培や畜産などの農業が中心となっている地域を指します。都市部と比べて人口密度が低く、自然豊かな環境が特徴です。
+Example1: この農村地帯では米の生産が盛んです。
+Example1_EN: Rice production is thriving in this rural area.
+Example2: 農村地帯の人口は年々減少しています。
+Example2_EN: The population of rural areas is decreasing year by year.
+Example3: 農村地帯での新しいビジネスを考えています。
+Example3_EN: I am thinking about new businesses in rural areas.
+
+===word: 所得水準===
+Nuance: 個人や世帯が得る収入の程度やレベルを表す経済用語です。国や地域の経済状況を比較する際にも使われます。
+Example1: この国の所得水準は年々上がっています。
+Example1_EN: The income level of this country is rising year by year.
+Example2: 所得水準の差が社会問題になっています。
+Example2_EN: The gap in income levels has become a social issue.
+Example3: 地域によって所得水準は大きく異なります。
+Example3_EN: Income levels vary greatly depending on the region.
+
+===word: しゃがむ===
+Nuance: 膝を曲げて腰を低く落とす姿勢をとることを指します。作業や休憩、待ち時間など、日常的な動作としてよく使われます。
+Example1: 庭の草取りをするときは、よくしゃがんで作業します。
+Example1_EN: When I weed the garden, I often squat down to work.
+Example2: しゃがんだまま長時間いると、足がしびれます。
+Example2_EN: If you stay squatting for a long time, your legs will go numb.
+Example3: ここにしゃがんで待っていてください。
+Example3_EN: Please squat down here and wait.
+
+===word: 引力===
+Nuance: 物体と物体の間に働く引き合う力のことで、特に物理学では万有引力を指します。日常的には人を引きつける魅力の意味でも使われます。
+Example1: 月の引力が潮の満ち引きを引き起こします。
+Example1_EN: The moon's gravitational pull causes the tides.
+Example2: 引力の大きさは物体の質量に比例します。
+Example2_EN: The magnitude of gravitational force is proportional to the mass of the objects.
+Example3: この惑星の引力は地球よりずっと強いです。
+Example3_EN: The gravitational pull of this planet is much stronger than Earth's.
+
+===word: 賢人===
+Nuance: 知識や知恵が豊かで、判断力に優れた人のことを指します。歴史的には哲学者や思想家を指すことが多く、現代では敬意を込めて使われる言葉です。
+Example1: 彼は村一番の賢人として知られています。
+Example1_EN: He is known as the wisest person in the village.
+Example2: 賢人の言葉は後世まで語り継がれます。
+Example2_EN: The words of a wise person are passed down through generations.
+Example3: 昔からこの国には多くの賢人が現れました。
+Example3_EN: Many wise people have appeared in this country since ancient times.
+
+===word: 余る===
+Nuance: 必要以上に多く残ることを意味します。数や量が基準を超えている状態を表し、食べ物や予算、時間など様々な場面で使われます。
+Example1: 料理が多くて余ってしまいました。
+Example1_EN: There was so much food that it was left over.
+Example2: 予算が余った場合は、来年度に繰り越します。
+Example2_EN: If the budget is left over, we will carry it over to next year.
+Example3: 時間が余ったので、図書館で本を読んでいました。
+Example3_EN: I had some time left over, so I was reading a book at the library.
+
+===word: 被害===
+Nuance: 自然災害や事故、犯罪などによって受ける損害や不利益を指します。深刻なものから軽微なものまで幅広く使われる言葉です。
+Example1: この地域は台風による大きな被害を受けました。
+Example1_EN: This region suffered great damage from the typhoon.
+Example2: 地震の被害を最小限に抑える方法を考えましょう。
+Example2_EN: Let's think about ways to minimize the damage from earthquakes.
+Example3: 被害に遭われた方々にお見舞い申し上げます。
+Example3_EN: I extend my condolences to those who have been affected.
+
+===word: 様々===
+Nuance: 種類が多く、いろいろなものがあることを表します。多様性や豊富さを強調する際に使われる形容動詞です。
+Example1: 様々な国の料理を食べ比べてみたいです。
+Example1_EN: I want to try various cuisines from different countries.
+Example2: このイベントでは様々な体験ができます。
+Example2_EN: You can have various experiences at this event.
+Example3: 様々な意見を聞いた上で決断しましょう。
+Example3_EN: Let's make a decision after hearing various opinions.
+
+===word: 恐らく===
+Nuance: 確実ではないが、ほぼ間違いなくそうだろうと推測するときに使う副詞です。話し手の確信度が高い場合に用いられます。
+Example1: 彼は恐らく今日は来ないでしょう。
+Example1_EN: He probably won't come today.
+Example2: 恐らく明日は雨が降ると思います。
+Example2_EN: I think it will probably rain tomorrow.
+Example3: その計画は恐らく成功するでしょう。
+Example3_EN: That plan will probably succeed.
+
+===word: 落陽===
+Nuance: 西の空に沈んでいく夕日を指す、やや詩的な響きのある言葉です。情景描写や文学的な表現で使われることが多いです。
+Example1: 落陽が海を赤く染めています。
+Example1_EN: The setting sun is dyeing the sea red.
+Example2: 山の向こうに落陽が見えました。
+Example2_EN: I could see the setting sun beyond the mountains.
+Example3: 落陽の美しさに思わず見入ってしまいました。
+Example3_EN: I was so captivated by the beauty of the setting sun that I couldn't look away.
+
+===word: 近郊===
+Nuance: 都市の周辺に位置する地域を指します。都心からある程度離れていますが、通勤や通学が可能な範囲のことを言います。
+Example1: 近郊には自然がたくさん残っています。
+Example1_EN: There is a lot of nature left in the suburbs.
+Example2: 私は東京の近郊に住んでいます。
+Example2_EN: I live in the suburbs of Tokyo.
+Example3: 近郊の駅前に新しいショッピングモールができました。
+Example3_EN: A new shopping mall has opened in front of the suburban station.
+
+===word: 過剰摂取===
+Nuance: 必要な量を超えて、薬や栄養素、食べ物などを過度に体内に取り入れることを指します。健康や医療の文脈でよく使われます。
+Example1: ビタミン剤の過剰摂取は体に害を及ぼします。
+Example1_EN: Excessive intake of vitamin supplements can harm your body.
+Example2: カフェインの過剰摂取には注意してください。
+Example2_EN: Please be careful about excessive caffeine intake.
+Example3: 過剰摂取による健康被害が報告されています。
+Example3_EN: Health damage due to excessive intake has been reported.
+
+===word: 胃袋===
+Nuance: 胃のことを親しみを込めて、ややくだけた言い方で表した言葉です。また、比喩的に食べ物を受け入れる容量や欲望を指すこともあります。
+Example1: 彼の胃袋はとても大きいです。
+Example1_EN: His stomach is very large.
+Example2: 胃袋を掴まれると、その人の料理に頼ってしまいます。
+Example2_EN: Once you've won someone over through their stomach, you end up relying on their cooking.
+Example3: 胃袋の調子が悪いので、病院に行きます。
+Example3_EN: My stomach is feeling off, so I'm going to the hospital.
+
+===word: トラブルを引き起こす===
+Nuance: 問題や混乱、障害などを発生させることを意味します。機械的な故障から人間関係のもめ事まで、幅広い場面で使われる表現です。
+Example1: このソフトウェアはよくトラブルを引き起こします。
+Example1_EN: This software often causes trouble.
+Example2: 誤解がトラブルを引き起こすことがあります。
+Example2_EN: Misunderstandings can sometimes cause trouble.
+Example3: 新しいシステムがトラブルを引き起こさないか心配です。
+Example3_EN: I'm worried that the new system might cause trouble.
+
+===word: 箱===
+Nuance: 物を入れるための容器で、一般的には直方体のものを指します。段ボール、木製、プラスチックなど素材は様々です。
+Example1: この箱には何が入っていますか？
+Example1_EN: What is inside this box?
+Example2: 箱を開けるときは、中身が落ちないように注意してください。
+Example2_EN: When opening the box, please be careful not to let the contents fall out.
+Example3: 引っ越しの荷物は全部箱に詰めました。
+Example3_EN: I packed all the moving belongings into boxes.
+
+===word: 決定的===
+Nuance: 物事の結果や方向性を最終的に決めるほど重要な様子を表します。証拠や瞬間、要因などに使われることが多い形容動詞です。
+Example1: これは事件解決の決定的な証拠です。
+Example1_EN: This is the decisive evidence for solving the case.
+Example2: 決定的な瞬間をカメラに収めることができました。
+Example2_EN: I was able to capture the decisive moment on camera.
+Example3: その言葉が決定的な違いを生み出しました。
+Example3_EN: Those words made a decisive difference.
+
+===word: 得意分野===
+Nuance: その人が特に詳しく、上手にできる領域や分野を指します。仕事や学問、趣味など様々な場面で使われます。
+Example1: 数学は私の得意分野です。
+Example1_EN: Mathematics is my area of expertise.
+Example2: 自分の得意分野を活かした仕事をしたいです。
+Example2_EN: I want to do a job that makes use of my areas of expertise.
+Example3: 営業は彼の得意分野の一つです。
+Example3_EN: Sales is one of his areas of expertise.
+
+===word: 悪女===
+Nuance: 男性に対して意地悪だったり、ずる賢い手段を使う女性を指します。物語やドラマのキャラクターとしてよく登場する、やや劇的な響きのある言葉です。
+Example1: 彼女は悪女の役を上手に演じました。
+Example1_EN: She played the role of the villainess well.
+Example2: 悪女と呼ばれる女性には、複雑な事情があるものです。
+Example2_EN: Women who are called villainesses usually have complicated circumstances.
+Example3: この小説の悪女はとても魅力的なキャラクターです。
+Example3_EN: The villainess in this novel is a very fascinating character.
+
+===word: カンニング===
+Nuance: 試験やテストで不正に答えを覗き見たり、カンニングペーパーを使ったりする行為を指します。学校や資格試験の場面で使われるカタカナ語です。
+Example1: カンニングをすると退学になる可能性があります。
+Example1_EN: If you cheat on an exam, you may be expelled.
+Example2: カンニングが見つかって、その生徒は叱られました。
+Example2_EN: The student was scolded after being caught cheating.
+Example3: カンニングは絶対にしてはいけません。
+Example3_EN: You must never cheat.
+
+===word: 明ける===
+Nuance: 夜が終わって新しい日が始まること、または期間が終了することを指します。新年や夜明けなど、区切りや始まりを表す際に使われます。
+Example1: ようやく夜が明けてきました。
+Example1_EN: The night is finally coming to an end.
+Example2: 新しい年が明けましたね。
+Example2_EN: The new year has begun, hasn't it?
+Example3: 梅雨が明けると本格的な夏が来ます。
+Example3_EN: When the rainy season ends, the real summer arrives.
+
+===word: 前歯===
+Nuance: 口の正面にある歯のことで、上下合わせて中央から左右に数本ずつある歯を指します。見た目や発音に影響する重要な歯です。
+Example1: 子供の前歯が抜けました。
+Example1_EN: My child's front tooth fell out.
+Example2: 前歯は食べ物をかじるときに使います。
+Example2_EN: Front teeth are used when biting into food.
+Example3: 前歯をぶつけてしまい、少し欠けてしまいました。
+Example3_EN: I hit my front tooth and it chipped a little.
+
+===word: 明白===
+Nuance: はっきりしていて疑いの余地がないことを表します。事実や真実が誰の目にも明らかな場合に使われる、やや硬い印象の形容動詞です。
+Example1: 彼の意図は明白です。
+Example1_EN: His intentions are clear.
+Example2: このデータを見れば、結果は明白でしょう。
+Example2_EN: If you look at this data, the result will be clear.
+Example3: 明白な証拠があるにもかかわらず、彼は認めようとしません。
+Example3_EN: Despite the clear evidence, he refuses to admit it.
+
+===word: 制限===
+Nuance: 物事の量や範囲、行動などに上限や枠を設けることを指します。法律や規則、物理的な限界など様々な場面で使われます。
+Example1: この道路は時速制限が四十キロです。
+Example1_EN: The speed limit on this road is 40 kilometers per hour.
+Example2: 入場者数に制限がありますので、早めに来てください。
+Example2_EN: There is a limit on the number of visitors, so please come early.
+Example3: 時間制限があるので、急いでください。
+Example3_EN: There is a time limit, so please hurry.
+
+===word: 言葉遣い===
+Nuance: 話すときに使う言葉の選び方や言い回しのことを指します。丁寧さや適切さ、相手や場面に応じた表現の使い分けを含む概念です。
+Example1: 先生に対しては丁寧な言葉遣いをしましょう。
+Example1_EN: Please use polite language when speaking to your teacher.
+Example2: 彼の言葉遣いはいつも穏やかです。
+Example2_EN: His choice of words is always gentle.
+Example3: 言葉遣いが悪いと、相手に誤解を与えることがあります。
+Example3_EN: Poor word choice can sometimes cause misunderstandings.
+
+===word: 世界初===
+Nuance: 地球上で初めて実現したこと、または達成されたことを指します。画期的な発明や記録、発見など、歴史的な意義がある場合に使われる言葉です。
+Example1: この技術は世界初の試みです。
+Example1_EN: This technology is a world-first attempt.
+Example2: 世界初の快挙を成し遂げた選手を称えましょう。
+Example2_EN: Let's honor the athlete who achieved a world-first feat.
+Example3: この会社は世界初の製品を開発しました。
+Example3_EN: This company developed a world-first product.
+
+===word: 治癒===
+Nuance: 傷や病気が治って元の健康な状態に戻ることを指します。医療や医学の分野で使われる、やや専門的な響きのある言葉です。
+Example1: この傷は一週間ほどで治癒します。
+Example1_EN: This wound will heal in about a week.
+Example2: 完全に治癒するまでは安静にしてください。
+Example2_EN: Please rest until you have fully recovered.
+Example3: 新しい治療法で患者の治癒率が上がりました。
+Example3_EN: The recovery rate of patients has improved with the new treatment method.
+
+===word: 終電===
+Nuance: その日の最終の電車のことを指します。特に都市部で、帰宅時間を気にする際によく使われる日常的な言葉です。
+Example1: 終電に間に合うように駅に向かいます。
+Example1_EN: I'm heading to the station to catch the last train.
+Example2: 終電を逃してしまい、タクシーで帰りました。
+Example2_EN: I missed the last train and went home by taxi.
+Example3: 終電の時間を確認しておいたほうがいいですよ。
+Example3_EN: You'd better check the time of the last train.
+
+===word: 反抗===
+Nuance: 上の立場にある人や既存のルールに対して、逆らったり抵抗したりすることを指します。思春期の子どもの行動や、社会的な運動などの文脈で使われます。
+Example1: 彼は親の意見に反抗しています。
+Example1_EN: He is rebelling against his parents' opinions.
+Example2: 反抗的な態度は問題を複雑にします。
+Example2_EN: A rebellious attitude complicates the problem.
+Example3: 子どもは成長の過程で反抗することがあります。
+Example3_EN: Children sometimes go through a rebellious phase as they grow.
+
+===word: 相続税===
+Nuance: 人が亡くなった際に、その財産を引き継ぐ相続人に対して課される税金のことを指します。高額な資産を持つ家庭に関係する税制です。
+Example1: 相続税は資産の額によって異なります。
+Example1_EN: Inheritance tax varies depending on the amount of assets.
+Example2: 相続税の申告は期限内に行わなければなりません。
+Example2_EN: The inheritance tax return must be filed within the deadline.
+Example3: 相続税対策として早めに準備をしましょう。
+Example3_EN: Let's prepare early as a measure against inheritance tax.
+
+===word: 冷静沈着===
+Nuance: どんな状況でも感情的にならず、落ち着いて行動する様子を表す四字熟語です。緊急時やプレッシャーのかかる場面で求められる態度です。
+Example1: 彼はどんな時でも冷静沈着です。
+Example1_EN: He is calm and composed at all times.
+Example2: 冷静沈着に対応することが大切です。
+Example2_EN: It is important to respond calmly and composedly.
+Example3: 彼女の冷静沈着な態度は周りにも良い影響を与えます。
+Example3_EN: Her calm and composed attitude has a positive influence on those around her.
+
+===word: 逆効果===
+Nuance: 期待した効果とは反対の結果を生んでしまうことを指します。良いつもりで行った行動が、かえって悪い結果を招く場合に使われます。
+Example1: 厳しく叱るのは逆効果になることがあります。
+Example1_EN: Scolding them harshly can sometimes be counterproductive.
+Example2: この薬は逆効果を引き起こす可能性があります。
+Example2_EN: This medicine may cause the opposite effect.
+Example3: 無理に勧めると逆効果ですよ。
+Example3_EN: Pushing it too hard will be counterproductive.
+
+===word: 水準===
+Nuance: 物事の品質や能力、数量などの程度やレベルを指します。標準や基準と比較して、高いか低いかを評価する際に使われます。
+Example1: この学校の教育水準はとても高いです。
+Example1_EN: The educational standard of this school is very high.
+Example2: 生活水準が向上しました。
+Example2_EN: The standard of living has improved.
+Example3: 製品の品質水準を維持することが重要です。
+Example3_EN: It is important to maintain the quality standard of the product.
+
+===word: 裸になる===
+Nuance: 衣服をすべて脱いで、体に何も身につけていない状態になることを指します。入浴や着替え、医学的な検査などで使われる表現です。
+Example1: プールの前で裸になってシャワーを浴びます。
+Example1_EN: I undress and take a shower before entering the pool.
+Example2: 赤ちゃんは裸になるのが好きなようです。
+Example2_EN: Babies seem to like being naked.
+Example3: 医者の前で裸になるのは少し恥ずかしいです。
+Example3_EN: It's a bit embarrassing to undress in front of the doctor.
+
+===word: 耳鳴り===
+Nuance: 周囲に音がないのに、耳の中で音が聞こえるように感じる症状を指します。キーンという高い音や、ザーという雑音のように感じられることが多いです。
+Example1: 最近、耳鳴りがひどくて眠れません。
+Example1_EN: Lately, my tinnitus has been so bad that I can't sleep.
+Example2: 耳鳴りの原因はストレスかもしれません。
+Example2_EN: The cause of the tinnitus might be stress.
+Example3: 耳鳴りが続く場合は、耳鼻科を受診してください。
+Example3_EN: If the tinnitus persists, please see an ear, nose, and throat doctor.
+
+===word: 鉄則===
+Nuance: 絶対に守らなければならない重要な規則や原則のことを指します。ビジネスやスポーツ、日常生活などで、決して破ってはいけないルールを表します。
+Example1: これはビジネスの鉄則です。
+Example1_EN: This is a golden rule of business.
+Example2: 安全第一は工事現場の鉄則です。
+Example2_EN: Safety first is the ironclad rule at construction sites.
+Example3: 鉄則を破ると大きな問題を引き起こします。
+Example3_EN: Breaking the ironclad rules can cause major problems.
+
+===word: 直行===
+Nuance: 途中で立ち寄らずに目的地に直接向かうことを指します。寄り道や回り道をせず、まっすぐに行く行動を表します。
+Example1: 会場に直行しましょう。
+Example1_EN: Let's go straight to the venue.
+Example2: 帰りは家に直行します。
+Example2_EN: I'll go straight home on the way back.
+Example3: 空港からホテルに直行しました。
+Example3_EN: I went directly from the airport to the hotel.
+
+===word: 婆さん===
+Nuance: 高齢の女性を指すややくだけた言い方です。自分の祖母を親しみを込めて呼ぶ場合や、近所の年配の女性を指す場合に使われます。地域や世代によってニュアンスが異なります。
+Example1: うちの婆さんは九十三歳です。
+Example1_EN: My grandmother is ninety-three years old.
+Example2: 婆さんは毎朝庭で花の世話をしています。
+Example2_EN: My grandmother tends to the flowers in the garden every morning.
+Example3: 隣の婆さんが手作りのお菓子をくれました。
+Example3_EN: The old lady next door gave me some homemade sweets.
+
+===word: 原子力===
+Nuance: 原子核の分裂や融合によって生み出される膨大なエネルギーのことを指します。発電や医療、研究など様々な分野で利用されています。
+Example1: 原子力は安定したエネルギー源です。
+Example1_EN: Nuclear power is a stable energy source.
+Example2: 原子力発電所の安全対策について話し合います。
+Example2_EN: We will discuss safety measures for nuclear power plants.
+Example3: 原子力の平和利用は重要なテーマです。
+Example3_EN: The peaceful use of nuclear energy is an important topic.
+
+===word: 明かり===
+Nuance: 周囲を照らす光のことを指します。電気の明かりだけでなく、ろうそくや月明かりなど、様々な光源からの光に対して使われる日常的な言葉です。
+Example1: 部屋の明かりを消してください。
+Example1_EN: Please turn off the lights in the room.
+Example2: 外が暗くなったので、明かりをつけました。
+Example2_EN: It got dark outside, so I turned on the light.
+Example3: この明かりは少し暗いので、もっと明るい電球に替えましょう。
+Example3_EN: This light is a bit dim, so let's replace it with a brighter bulb.
+
+===word: 水底===
+Nuance: 海や湖、川などの水の一番下の部分を指します。水面から見える底の部分や、水中深くにある地面のことを表します。
+Example1: 水底には美しいサンゴ礁が広がっています。
+Example1_EN: Beautiful coral reefs spread across the bottom of the water.
+Example2: 水底が見えるほど水が澄んでいます。
+Example2_EN: The water is so clear that you can see the bottom.
+Example3: この湖の水底には沈んだ古い町があるそうです。
+Example3_EN: I hear there's an old sunken town at the bottom of this lake.
+
+===word: 実物===
+Nuance: 模型や写真、絵などではなく、実際に存在する物そのものを指します。見本や説明ではなく、現物を確認したいときに使われる言葉です。
+Example1: これは実物と同じ大きさの模型です。
+Example1_EN: This is a model the same size as the actual object.
+Example2: 実物を見ると、写真よりずっと大きかったです。
+Example2_EN: When I saw the actual thing, it was much bigger than in the photo.
+Example3: 実物を手に取って確認してみてください。
+Example3_EN: Please pick up the actual item and check it for yourself.
+
+===word: 飽き飽き===
+Nuance: 同じことの繰り返しや退屈な状況にうんざりして、もうたくさんだと思う気持ちを表す言葉です。強い不満や嫌気が含まれています。
+Example1: 毎日同じことの繰り返しで、飽き飽きしています。
+Example1_EN: I'm sick and tired of the same thing every day.
+Example2: 彼の自慢話にはもう飽き飽きです。
+Example2_EN: I'm completely fed up with his bragging.
+Example3: この天気の悪さには飽き飽きしましたね。
+Example3_EN: I'm really tired of this bad weather, aren't you?
+
+===word: 競馬===
+Nuance: 馬に騎手が乗って、決められた距離を走り、着順を競うスポーツです。日本では公営ギャンブルの一つとしても親しまれています。
+Example1: 競馬は週末に開催されます。
+Example1_EN: Horse races are held on weekends.
+Example2: 競馬場にはたくさんの人が集まります。
+Example2_EN: A lot of people gather at the horse racing track.
+Example3: 彼は競馬が大好きで、毎週競馬場に通っています。
+Example3_EN: He loves horse racing and goes to the track every week.
+
+===word: 忍び込む===
+Nuance: 人に気づかれないように、こっそりと場所の中に入ることを指します。侵入のニュアンスが強く、悪い意味でも使われます。
+Example1: 猫が窓から部屋に忍び込みました。
+Example1_EN: The cat snuck into the room through the window.
+Example2: 誰かが夜中に家に忍び込んだようです。
+Example2_EN: It seems someone snuck into the house during the night.
+Example3: 忍び込むのは危険なので、やめたほうがいいです。
+Example3_EN: Sneaking in is dangerous, so you'd better not do it.
+
+===word: 水星===
+Nuance: 太陽系で最も太陽に近い惑星で、非常に小さく、表面温度の変化が激しいことで知られています。
+Example1: 水星は太陽のすぐ近くを回っています。
+Example1_EN: Mercury orbits very close to the sun.
+Example2: 水星の表面はクレーターで覆われています。
+Example2_EN: The surface of Mercury is covered in craters.
+Example3: 水星は肉眼でも見ることができます。
+Example3_EN: Mercury can be seen with the naked eye.
+
+===word: 仕立て屋===
+Nuance: 顧客の注文に応じて、洋服を一から作る職業や店舗のことを指します。特にスーツやドレスなどの既製服ではない、オーダーメイドの服を専門にしています。
+Example1: このスーツは仕立て屋で作りました。
+Example1_EN: I had this suit made at a tailor shop.
+Example2: 仕立て屋さんに寸法を測ってもらいました。
+Example2_EN: I had my measurements taken at the tailor's.
+Example3: あの仕立て屋は技術がとても高いです。
+Example3_EN: That tailor has very high skill.
+
+===word: 薄れる===
+Nuance: 色や形、記憶や感情などが徐々に弱くなったり消えかかったりすることを意味します。物理的な現象から抽象的な概念まで幅広く使われます。
+Example1: この写真の色は時間とともに薄れてきました。
+Example1_EN: The colors of this photo have faded over time.
+Example2: 彼女との思い出が次第に薄れていきます。
+Example2_EN: My memories of her are gradually fading.
+Example3: その光景はまだ私の記憶に薄れていません。
+Example3_EN: That scene has not yet faded from my memory.
+
+===word: 脱線===
+Nuance: 電車や汽車が線路から外れることを指します。また、比喩的に話や議論が本来のテーマからそれてしまうことにも使われます。
+Example1: 台風で電車が脱線しました。
+Example1_EN: The train derailed due to the typhoon.
+Example2: 話が脱線してしまいましたね。
+Example2_EN: We've gone off track in our conversation, haven't we?
+Example3: 脱線事故を防ぐために点検を徹底してください。
+Example3_EN: Please conduct thorough inspections to prevent derailment accidents.
+
+===word: 儀式===
+Nuance: 決まった手順や形式に従って行われる、宗教的または社会的な行事のことを指します。結婚式や卒業式、お葬式などが代表的な例です。
+Example1: この儀式は毎年同じ時期に行われます。
+Example1_EN: This ceremony is held at the same time every year.
+Example2: 儀式の準備はもうできていますか？
+Example2_EN: Are the preparations for the ceremony ready?
+Example3: 伝統的な儀式を見学することができます。
+Example3_EN: You can observe the traditional ceremony.
+
+===word: 頼る===
+Nuance: 困ったときに誰かの助けや支援を求めることを意味します。他人に依存するニュアンスがあり、親しい間柄や信頼関係がある相手に対して使われます。
+Example1: 困ったときは友達に頼りましょう。
+Example1_EN: When you're in trouble, rely on your friends.
+Example2: 彼はいつも家族に頼っています。
+Example2_EN: He always depends on his family.
+Example3: 一人で抱え込まずに、周りの人に頼ってください。
+Example3_EN: Please don't keep it to yourself and rely on the people around you.
+
+===word: 決着をつける===
+Nuance: 長い間もめていた問題や争いを最終的に解決することを意味します。議論や競争に終止符を打つ場合に使われるやや強い表現です。
+Example1: この問題には早く決着をつけましょう。
+Example1_EN: Let's settle this matter quickly.
+Example2: 両者の話し合いで決着をつけることができました。
+Example2_EN: We were able to reach a settlement through discussion between both parties.
+Example3: 決着をつけるまでは気が抜けません。
+Example3_EN: I can't relax until we've settled the matter.
+
+===word: 予告===
+Nuance: これから起こることを前もって知らせることを指します。映画の予告編や、イベントの事前告知、変更の通知など様々な場面で使われます。
+Example1: 来週のイベントの予告をしました。
+Example1_EN: I gave an advance notice about next week's event.
+Example2: 予告なしに価格が変更されることがあります。
+Example2_EN: Prices may change without prior notice.
+Example3: 映画の予告を見て、その作品が楽しみになりました。
+Example3_EN: I watched the movie trailer and got excited about the film.
+
+===word: 笛===
+Nuance: 口に当てて息を吹き込み、音を出す管楽器の総称です。フルートやリコーダー、ホイッスルなど様々な種類があります。
+Example1: 先生が笛を吹いて合図を送りました。
+Example1_EN: The teacher blew a whistle to signal.
+Example2: この笛はとても綺麗な音がします。
+Example2_EN: This flute makes a very beautiful sound.
+Example3: 笛の練習を毎日三十分しています。
+Example3_EN: I practice the flute for thirty minutes every day.
+
+===word: 埃を払う===
+Nuance: 家具や衣服などの表面に積もったほこりを、布やブラシなどを使って取り除く動作を指します。掃除の一環として行われる日常的な作業です。
+Example1: 棚の埃を払ってから、本を並べます。
+Example1_EN: I dust off the shelves before arranging the books.
+Example2: 外出前にスーツの埃を払いました。
+Example2_EN: I brushed the dust off my suit before going out.
+Example3: 定期的に埃を払わないと、アレルギーの原因になります。
+Example3_EN: If you don't dust regularly, it can cause allergies.
+
+===word: 女優===
+Nuance: 映画や演劇、テレビドラマなどで女性の役を演じる職業の人を指します。演技力や表現力が求められる芸能分野の専門職です。
+Example1: 彼女は有名な女優です。
+Example1_EN: She is a famous actress.
+Example2: この女優は様々な賞を受賞しています。
+Example2_EN: This actress has won various awards.
+Example3: 女優になるために、専門学校で勉強しています。
+Example3_EN: I'm studying at a vocational school to become an actress.
+
+===word: 褪せる===
+Nuance: 色や艶が時間の経過や日光などの影響で薄くなったり、本来の鮮やかさを失ったりすることを意味します。衣類や写真、絵の具などに使われます。
+Example1: このカーテンは日焼けで色が褪せました。
+Example1_EN: These curtains have faded from sun exposure.
+Example2: 洗濯を繰り返すと、Tシャツの色が褪せてきます。
+Example2_EN: With repeated washing, the color of the T-shirt fades.
+Example3: 褪せた色を修復する方法はありますか？
+Example3_EN: Is there a way to restore the faded color?

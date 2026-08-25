@@ -1,0 +1,701 @@
+===word: 山口県===
+Nuance: 日本の本州西部に位置する県で、下関や萩などの歴史的な街があります。行政区分として使われる正式な名称です。
+Example1: 山口県には美しい景色がたくさんあります。
+Example1_EN: Yamaguchi Prefecture has many beautiful scenery spots.
+Example2: 私は山口県出身です。
+Example2_EN: I am from Yamaguchi Prefecture.
+Example3: 山口県のふぐ料理は有名ですね。
+Example3_EN: Yamaguchi Prefecture's fugu cuisine is famous, isn't it?
+
+===word: 急務===
+Nuance: 早急に取り組まなければならない重要な用事や課題を指します。ビジネスや行政の場面でよく使われる硬い表現です。
+Example1: この問題の解決は急務です。
+Example1_EN: Solving this problem is an urgent task.
+Example2: 環境対策が急務となっています。
+Example2_EN: Environmental measures have become an urgent priority.
+Example3: 資金調達が急務でございます。
+Example3_EN: Raising funds is an urgent matter.
+
+===word: 案===
+Nuance: 考えや計画、アイデアを意味します。会議や提案の場面でよく使われます。「案を出す」「案を練る」などの形で用います。
+Example1: 良い案がありましたら教えてください。
+Example1_EN: Please let me know if you have a good idea.
+Example2: 新しい事業案を検討しています。
+Example2_EN: We are considering a new business proposal.
+Example3: その案は採用されました。
+Example3_EN: That proposal was adopted.
+
+===word: 国土===
+Nuance: 国家の領土、土地全体を指す言葉です。地理や政治の文脈で使われ、フォーマルな印象があります。
+Example1: 日本の国土は約三七・八万平方キロメートルです。
+Example1_EN: Japan's national land area is approximately 378,000 square kilometers.
+Example2: 国土の保全が重要です。
+Example2_EN: Preserving the national land is important.
+Example3: 国土の三分の一は森林です。
+Example3_EN: One-third of the national land is forest.
+
+===word: 試す===
+Nuance: 物事の性能や効果、人の能力などを実際にやってみて確かめることを意味します。日常会話でよく使われる動詞です。
+Example1: 新しいレシピを試してみます。
+Example1_EN: I will try out a new recipe.
+Example2: この方法を試してみてください。
+Example2_EN: Please try this method.
+Example3: 彼の実力を試したいと思います。
+Example3_EN: I would like to test his ability.
+
+===word: 愚か者===
+Nuance: 愚かで賢くない人を軽蔑的に指す言葉です。強い否定的なニュアンスがあり、相手を罵るときに使われます。
+Example1: そんなことをするなんて、愚か者ですよ。
+Example1_EN: Doing something like that makes you a fool.
+Example2: 彼は愚か者扱いされています。
+Example2_EN: He is being treated like a fool.
+Example3: 愚か者と呼ばれて悔しいです。
+Example3_EN: It's frustrating to be called a fool.
+
+===word: 真理===
+Nuance: 普遍的で変わらない真実や道理を指します。哲学や宗教、学問の分野でよく使われる言葉です。
+Example1: 真理を追求することが大切です。
+Example1_EN: Pursuing the truth is important.
+Example2: この研究は真理の探究です。
+Example2_EN: This research is an exploration of the truth.
+Example3: 真理は一つとは限りません。
+Example3_EN: Truth is not necessarily singular.
+
+===word: きらりと===
+Nuance: 一瞬輝く様子を表す副詞です。キラキラと連続的に輝くのではなく、一瞬だけ光るニュアンスがあります。
+Example1: ダイヤモンドがきらりと光りました。
+Example1_EN: The diamond sparkled for a moment.
+Example2: 彼女の目がきらりと輝きました。
+Example2_EN: Her eyes sparkled briefly.
+Example3: 朝日を受けて海がきらりと光りました。
+Example3_EN: The sea glittered for a moment in the morning sun.
+
+===word: 久々===
+Nuance: 長い時間が経ってから何かをすることを表します。話し言葉でよく使われるカジュアルな表現です。
+Example1: 久々に友達に会いました。
+Example1_EN: I met a friend after a long time.
+Example2: 久々の雨で植物が喜んでいます。
+Example2_EN: The plants are happy with the rain after a long time.
+Example3: 久々に映画を観に行きます。
+Example3_EN: I will go watch a movie after a long time.
+
+===word: 体罰===
+Nuance: 体に対して直接加える罰、つまり殴る蹴るなどの暴力を用いたしつけや罰を指します。教育やスポーツの場面で問題になることが多いです。
+Example1: 体罰は法律で禁止されています。
+Example1_EN: Corporal punishment is prohibited by law.
+Example2: あの学校では体罰があったそうです。
+Example2_EN: I heard that there was corporal punishment at that school.
+Example3: 体罰に頼らない教育が大切です。
+Example3_EN: Education that does not rely on corporal punishment is important.
+
+===word: 来日===
+Nuance: 外国から日本に来ることを意味する名詞です。主に外国人や外国の文化、商品などが日本に来る際に使われます。
+Example1: 有名な歌手が来日します。
+Example1_EN: A famous singer will visit Japan.
+Example2: 来日した際はぜひお会いしましょう。
+Example2_EN: When you come to Japan, please let's meet up.
+Example3: 彼の来日は来月です。
+Example3_EN: His visit to Japan is next month.
+
+===word: 腰掛け===
+Nuance: 座るための簡単な椅子やベンチのことです。また、一時的な仕事や仮の立場という比喩的な意味もあります。
+Example1: 公園の腰掛けに座って休みました。
+Example1_EN: I sat on a bench in the park and rested.
+Example2: この仕事は腰掛けのつもりです。
+Example2_EN: I intend for this job to be temporary.
+Example3: 腰掛けに腰を下ろしてください。
+Example3_EN: Please take a seat on the bench.
+
+===word: 一般に===
+Nuance: 広く一般的に、多くの場合に当てはまることを表す副詞です。客観的な事実や傾向を述べるときに使われます。
+Example1: 一般に、日本人は礼儀正しいと言われます。
+Example1_EN: Generally, Japanese people are said to be polite.
+Example2: 一般に噂されていることです。
+Example2_EN: It's something that is commonly rumored.
+Example3: 一般に公開されているデータです。
+Example3_EN: This is data that is open to the public.
+
+===word: 異性===
+Nuance: 自分と性別が異なる人を指します。恋愛や人間関係の文脈でよく使われます。
+Example1: 異性と話すのが苦手です。
+Example1_EN: I'm not good at talking with the opposite sex.
+Example2: 異性の友達はいますか？
+Example2_EN: Do you have friends of the opposite sex?
+Example3: 異性に対する理解を深めたいです。
+Example3_EN: I want to deepen my understanding of the opposite sex.
+
+===word: 肌色===
+Nuance: 人間の肌の色を指す言葉です。かつては「肌色」といえば薄いベージュ色を指しましたが、近年は多様性の観点から使用に注意が必要です。
+Example1: 肌色の口紅を買いました。
+Example1_EN: I bought a nude-colored lipstick.
+Example2: この絵の具の肌色がとても自然です。
+Example2_EN: The skin tone in this paint is very natural.
+Example3: 肌色に合う服を選びましょう。
+Example3_EN: Let's choose clothes that match your skin tone.
+
+===word: 三原色===
+Nuance: 色の基本となる三つの色のことです。光の三原色は赤・緑・青、絵の具の三原色はシアン・マゼンタ・イエローです。
+Example1: 三原色を混ぜると様々な色が作れます。
+Example1_EN: You can create various colors by mixing the three primary colors.
+Example2: 三原色の原理について学びました。
+Example2_EN: I learned about the principle of the three primary colors.
+Example3: 三原色は印刷の基本です。
+Example3_EN: The three primary colors are the basics of printing.
+
+===word: 水漏れ===
+Nuance: 水道管やタンクなどから水が漏れることを指します。日常生活で起こるトラブルの一つです。
+Example1: 台所で水漏れが発生しました。
+Example1_EN: A water leak occurred in the kitchen.
+Example2: 水漏れを修理してもらいました。
+Example2_EN: I had the water leak repaired.
+Example3: 水漏れに気をつけてください。
+Example3_EN: Please be careful of water leaks.
+
+===word: 呼び寄せる===
+Nuance: 人や物を自分のいる場所に来るように招くことを意味します。ややフォーマルな響きがあります。
+Example1: タクシーを呼び寄せました。
+Example1_EN: I hailed a taxi.
+Example2: 彼をこちらに呼び寄せてください。
+Example2_EN: Please call him over here.
+Example3: 海外から専門家を呼び寄せます。
+Example3_EN: We will bring in experts from overseas.
+
+===word: 仏像===
+Nuance: 仏教の信仰対象として造られた仏の姿を表した彫刻や像です。寺院や博物館で見ることができます。
+Example1: このお寺には古い仏像があります。
+Example1_EN: There is an old Buddhist statue at this temple.
+Example2: 仏像の表情がとても穏やかです。
+Example2_EN: The expression of the Buddhist statue is very serene.
+Example3: 奈良の大仏は有名な仏像です。
+Example3_EN: The Great Buddha of Nara is a famous Buddhist statue.
+
+===word: 一切===
+Nuance: 後ろに否定の表現を伴って「全く〜ない」という意味を強調します。硬い文章や改まった場面で使われます。
+Example1: 私は一切お酒を飲みません。
+Example1_EN: I do not drink alcohol at all.
+Example2: その件については一切関知していません。
+Example2_EN: I have no knowledge of that matter whatsoever.
+Example3: 一切の責任を負います。
+Example3_EN: I will take full responsibility.
+
+===word: 公職===
+Nuance: 国や地方公共団体の職務、公的な役職を指します。政治家や公務員などが就く立場です。
+Example1: 公職に就くには選挙が必要です。
+Example1_EN: To hold public office, an election is necessary.
+Example2: 彼は公職を辞任しました。
+Example2_EN: He resigned from public office.
+Example3: 公職選挙法について勉強しています。
+Example3_EN: I am studying the Public Offices Election Act.
+
+===word: 塾===
+Nuance: 学校の授業以外で学ぶための教育施設です。受験対策や学習補助のために多くの子供が通います。
+Example1: 子供を塾に通わせています。
+Example1_EN: I send my child to a cram school.
+Example2: 塾の先生が分かりやすく教えてくれます。
+Example2_EN: The cram school teacher explains things in an easy-to-understand way.
+Example3: 塾の費用が高いです。
+Example3_EN: The cost of cram school is high.
+
+===word: 人形===
+Nuance: 人間や動物の形を模して作られたものです。子どもの遊び道具や芸術作品、伝統工芸品など様々な種類があります。
+Example1: この人形はとても可愛いです。
+Example1_EN: This doll is very cute.
+Example2: 日本人形は繊細で美しいです。
+Example2_EN: Japanese dolls are delicate and beautiful.
+Example3: 娘は人形遊びが大好きです。
+Example3_EN: My daughter loves playing with dolls.
+
+===word: 洗面所===
+Nuance: 手や顔を洗うための設備がある部屋のことです。一般的には洗面台のある場所を指します。
+Example1: 洗面所は廊下の突き当たりです。
+Example1_EN: The washroom is at the end of the hallway.
+Example2: 洗面所で手を洗いましょう。
+Example2_EN: Let's wash our hands in the washroom.
+Example3: 洗面所の鏡が曇っています。
+Example3_EN: The mirror in the washroom is foggy.
+
+===word: 農業===
+Nuance: 土地を耕して作物を育てたり、家畜を飼育したりする産業です。第一次産業の中心です。
+Example1: 農業は日本の重要な産業です。
+Example1_EN: Agriculture is an important industry in Japan.
+Example2: 彼は農業を営んでいます。
+Example2_EN: He runs a farming business.
+Example3: 農業の後継者不足が問題です。
+Example3_EN: The lack of successors in agriculture is a problem.
+
+===word: 飛ぶ===
+Nuance: 鳥や飛行機などが空中を移動することです。また、飛躍する、跳ぶという意味もあります。
+Example1: 飛行機が空を飛んでいます。
+Example1_EN: An airplane is flying in the sky.
+Example2: この鳥は高く飛ぶことができます。
+Example2_EN: This bird can fly high.
+Example3: 次のページに飛んでください。
+Example3_EN: Please skip to the next page.
+
+===word: がさがさ===
+Nuance: 紙や枯れ葉などが擦れる軽い音を表す擬音語です。また、肌が乾燥して荒れている様子を表すこともあります。
+Example1: 枯れ葉ががさがさと音を立てています。
+Example1_EN: The dead leaves are rustling.
+Example2: 肌ががさがさしています。
+Example2_EN: My skin is dry and rough.
+Example3: 紙袋ががさがさ言っています。
+Example3_EN: The paper bag is rustling.
+
+===word: 常用===
+Nuance: 日常的に使うこと、または習慣的に用いることを意味します。薬や食品、漢字など様々なものに使われます。
+Example1: この薬は常用しないでください。
+Example1_EN: Please do not use this medicine regularly.
+Example2: 常用漢字は二一三六字です。
+Example2_EN: There are 2,136 commonly used kanji characters.
+Example3: この言葉は日常的に常用されています。
+Example3_EN: This word is in daily common use.
+
+===word: 載る===
+Nuance: 新聞や雑誌、ウェブサイトなどに記事や情報が掲載されることを意味します。また、物の上に置かれるという意味もあります。
+Example1: このニュースは明日の新聞に載ります。
+Example1_EN: This news will appear in tomorrow's newspaper.
+Example2: 彼の写真が雑誌に載りました。
+Example2_EN: His photo was published in a magazine.
+Example3: テーブルに荷物が載っています。
+Example3_EN: There is luggage on the table.
+
+===word: 妖術師===
+Nuance: 妖術を使う人のことです。ファンタジーや民話の世界に登場する、魔法や超自然的な力を使う存在です。
+Example1: その妖術師は村人を怖がらせていました。
+Example1_EN: That sorcerer was scaring the villagers.
+Example2: 妖術師が呪文を唱えました。
+Example2_EN: The sorcerer chanted a spell.
+Example3: この物語には妖術師が出てきます。
+Example3_EN: A sorcerer appears in this story.
+
+===word: 玩具===
+Nuance: 子どもの遊び道具のことです。平仮名では「おもちゃ」と書くことが多く、漢字表記「玩具」はやや硬い印象です。
+Example1: この玩具は安全です。
+Example1_EN: This toy is safe.
+Example2: 子供に新しい玩具を買いました。
+Example2_EN: I bought a new toy for my child.
+Example3: 玩具は片付けましょう。
+Example3_EN: Let's put the toys away.
+
+===word: 落ち着き===
+Nuance: 心が穏やかで安定している状態や、物事に動じない性質を指します。良い性格の特徴として評価されます。
+Example1: 彼は落ち着きのある人です。
+Example1_EN: He is a composed person.
+Example2: 落ち着きを失わないでください。
+Example2_EN: Please don't lose your composure.
+Example3: 子供は落ち着きがなくて困ります。
+Example3_EN: Children are restless, which is troublesome.
+
+===word: 目玉商品===
+Nuance: 店が客を集めるために特に安くしたり目立つように販売する商品のことです。販売戦略の用語です。
+Example1: このテレビは今日の目玉商品です。
+Example1_EN: This TV is today's featured product.
+Example2: 目玉商品はすぐに売り切れました。
+Example2_EN: The featured product sold out quickly.
+Example3: 目玉商品を宣伝しています。
+Example3_EN: We are advertising our loss leader product.
+
+===word: 神経毒===
+Nuance: 神経系に障害を与える毒性物質のことです。医学や毒物学の分野で使われる専門用語です。
+Example1: このヘビの毒は神経毒です。
+Example1_EN: This snake's venom is a neurotoxin.
+Example2: 神経毒は即効性があります。
+Example2_EN: Neurotoxins act quickly.
+Example3: 神経毒の影響で麻痺が起きました。
+Example3_EN: Paralysis occurred due to the effects of the neurotoxin.
+
+===word: 衰弱===
+Nuance: 体や心の力が弱くなることです。病気や老化、栄養不足などが原因で起こります。
+Example1: 彼は病気で体が衰弱しています。
+Example1_EN: His body is weakened from illness.
+Example2: 高齢者の衰弱を防ぐことが大切です。
+Example2_EN: Preventing frailty in the elderly is important.
+Example3: 長期間の入院で体力が衰弱しました。
+Example3_EN: My physical strength weakened due to a long hospital stay.
+
+===word: まじない師===
+Nuance: 呪術やおまじないを使って人を助けたり、病気を治したりする人のことです。民俗学や伝承に登場します。
+Example1: 村のまじない師に相談しました。
+Example1_EN: I consulted the village witch doctor.
+Example2: まじない師が儀式を行いました。
+Example2_EN: The witch doctor performed a ritual.
+Example3: まじない師の知恵は古くから伝わっています。
+Example3_EN: The wisdom of witch doctors has been passed down since ancient times.
+
+===word: 拾う===
+Nuance: 落ちているものを手で取ることです。また、情報や機会などを偶然見つけるという比喩的な意味もあります。
+Example1: 道で財布を拾いました。
+Example1_EN: I picked up a wallet on the street.
+Example2: 落ちたペンを拾ってください。
+Example2_EN: Please pick up the pen that fell.
+Example3: 面白い情報を拾いました。
+Example3_EN: I picked up some interesting information.
+
+===word: 返礼===
+Nuance: お返しとして贈り物や行動をすることです。礼儀や感謝の気持ちを表すために行われます。
+Example1: いただいたお土産に返礼をしました。
+Example1_EN: I sent a return gift for the souvenir I received.
+Example2: ご招待の返礼として食事をご馳走します。
+Example2_EN: I will treat you to a meal as a return for your invitation.
+Example3: 返礼の品を準備しています。
+Example3_EN: I am preparing a return gift.
+
+===word: 死去する===
+Nuance: 人が亡くなることを丁寧に述べる表現です。「死ぬ」よりも硬く、改まった場面で使われます。
+Example1: 祖父は昨年死去しました。
+Example1_EN: My grandfather passed away last year.
+Example2: 彼は病気で死去しました。
+Example2_EN: He died of an illness.
+Example3: 著名な作家が死去しました。
+Example3_EN: A famous writer has passed away.
+
+===word: 友好===
+Nuance: 国や団体、個人の間の良い関係や親しみの気持ちを指します。国際関係や外交の文脈でよく使われます。
+Example1: 両国の友好関係が深まりました。
+Example1_EN: The friendly relations between the two countries have deepened.
+Example2: 友好都市として交流しています。
+Example2_EN: We are interacting as sister cities.
+Example3: 友好の証として記念品を贈りました。
+Example3_EN: We gave a commemorative gift as a token of friendship.
+
+===word: 単に===
+Nuance: ただそれだけで、他に何もないことを表す副詞です。後ろに否定的な内容や限定を伴うことが多いです。
+Example1: それは単に噂に過ぎません。
+Example1_EN: That is merely a rumor.
+Example2: 単に時間の問題です。
+Example2_EN: It's simply a matter of time.
+Example3: 単にそう思っただけです。
+Example3_EN: I simply thought so, that's all.
+
+===word: 外見===
+Nuance: 外から見た様子や見た目のことです。人の容貌や物の外観を指します。
+Example1: 外見だけで判断してはいけません。
+Example1_EN: You should not judge by appearance alone.
+Example2: 彼女は外見がとても綺麗です。
+Example2_EN: She is very beautiful in appearance.
+Example3: 外見は中身を反映しません。
+Example3_EN: Appearance does not reflect inner qualities.
+
+===word: 鉄分===
+Nuance: 体内に必要なミネラルの一種で、血液の成分として重要な栄養素です。食品やサプリメントの成分表示で見かけます。
+Example1: ほうれん草は鉄分が豊富です。
+Example1_EN: Spinach is rich in iron.
+Example2: 鉄分不足で貧血になりました。
+Example2_EN: I became anemic due to iron deficiency.
+Example3: 鉄分を多く含む食品を食べましょう。
+Example3_EN: Let's eat foods that are high in iron.
+
+===word: 遠のく===
+Nuance: 距離や時間的に遠くなること、または意識が薄れていくことを意味します。物理的にも比喩的にも使われます。
+Example1: 友達との関係が徐々に遠のきました。
+Example1_EN: My relationship with my friend gradually became distant.
+Example2: 意識が遠のいていきました。
+Example2_EN: My consciousness began to fade away.
+Example3: 駅がだんだん遠のいていきます。
+Example3_EN: The station is gradually getting farther away.
+
+===word: 笑いかける===
+Nuance: 相手に向かって笑顔を見せることを意味します。親しみや好意の気持ちを込めた動作です。
+Example1: 彼女は私に優しく笑いかけました。
+Example1_EN: She smiled at me gently.
+Example2: 知らない人に笑いかけるのは勇気がいります。
+Example2_EN: It takes courage to smile at a stranger.
+Example3: 先生が生徒に笑いかけました。
+Example3_EN: The teacher smiled at the students.
+
+===word: 大気汚染防止法===
+Nuance: 大気汚染を防ぐための日本の法律の正式名称です。環境法の一つで、工場の排煙規制などを定めています。
+Example1: 大気汚染防止法は一九六八年に制定されました。
+Example1_EN: The Air Pollution Prevention Law was enacted in 1968.
+Example2: 大気汚染防止法に基づいて規制が行われています。
+Example2_EN: Regulations are carried out based on the Air Pollution Prevention Law.
+Example3: 大気汚染防止法の改正について議論しています。
+Example3_EN: We are discussing amendments to the Air Pollution Prevention Law.
+
+===word: 百貨店===
+Nuance: 大規模で多様な商品を扱う小売店のことです。デパートとも呼ばれますが、「百貨店」はより正式な名称です。
+Example1: 百貨店で買い物をしました。
+Example1_EN: I went shopping at a department store.
+Example2: この百貨店は老舗です。
+Example2_EN: This department store is a long-established one.
+Example3: 百貨店の地下でお弁当を買いました。
+Example3_EN: I bought a lunch box in the department store basement.
+
+===word: 押っ始める===
+Nuance: 「始める」の強調形で、勢いよく何かを開始することを意味します。砕けた口語表現で、やや乱暴な印象を与えます。
+Example1: 彼は急に押っ始めました。
+Example1_EN: He suddenly started in a big way.
+Example2: 押っ始める前に準備が必要です。
+Example2_EN: Preparation is needed before starting with a bang.
+Example3: また押っ始めましたね。
+Example3_EN: He's started again with a vengeance, hasn't he?
+
+===word: 響く===
+Nuance: 音が空気などを伝わって聞こえることです。また、物事が他のことに影響を与えるという比喩的な意味もあります。
+Example1: 鐘の音が遠くまで響きます。
+Example1_EN: The sound of the bell echoes far away.
+Example2: 彼の言葉が心に響きました。
+Example2_EN: His words resonated in my heart.
+Example3: 不況が業績に響いています。
+Example3_EN: The recession is affecting our performance.
+
+===word: 複製する===
+Nuance: 原本と同じものをもう一つ作ることです。文書や芸術作品、データなど様々なものに使われます。
+Example1: この書類を複製してください。
+Example1_EN: Please duplicate this document.
+Example2: 複製するには許可が必要です。
+Example2_EN: Permission is required to make reproductions.
+Example3: データを複製して保存しました。
+Example3_EN: I duplicated the data and saved it.
+
+===word: 公営===
+Nuance: 国や地方公共団体が運営・経営していることを意味します。民営の対義語です。
+Example1: この駐車場は公営です。
+Example1_EN: This parking lot is publicly operated.
+Example2: 公営住宅の入居を申請しました。
+Example2_EN: I applied for moving into public housing.
+Example3: 公営ギャンブルには様々な種類があります。
+Example3_EN: There are various types of publicly operated gambling.
+
+===word: 駆け出す===
+Nuance: 急に走り始めることを意味します。驚いたり、急いだりする場面で使われます。
+Example1: 彼は雨が降り出したので駆け出しました。
+Example1_EN: He started running because it began to rain.
+Example2: 子供が嬉しそうに駆け出しました。
+Example2_EN: The child ran off happily.
+Example3: 遅刻しそうになって家を駆け出しました。
+Example3_EN: I dashed out of the house because I was about to be late.
+
+===word: 物語===
+Nuance: 出来事や想像上の話を語ったものです。小説、童話、伝説など様々な形式があります。
+Example1: この物語の結末が気になります。
+Example1_EN: I'm curious about the ending of this story.
+Example2: 彼女は素敵な物語を書きます。
+Example2_EN: She writes wonderful stories.
+Example3: 物語の主人公は勇敢な少年です。
+Example3_EN: The protagonist of the story is a brave boy.
+
+===word: 基礎===
+Nuance: 物事を成り立たせるための土台や基本的な部分のことです。学習や建築、スポーツなど様々な分野で使われます。
+Example1: 基礎をしっかり学ぶことが大切です。
+Example1_EN: It is important to learn the basics thoroughly.
+Example2: この建物の基礎は頑丈です。
+Example2_EN: The foundation of this building is sturdy.
+Example3: 基礎ができていれば応用は簡単です。
+Example3_EN: If you have the basics down, application is easy.
+
+===word: 逃亡===
+Nuance: 罪や危険から逃げてどこかに行くことです。犯罪者が逮捕を避けるために逃げる場合などに使われます。
+Example1: 犯人は逃亡しました。
+Example1_EN: The culprit escaped.
+Example2: 逃亡を続けるのは難しいです。
+Example2_EN: Continuing to flee is difficult.
+Example3: 海外への逃亡を試みました。
+Example3_EN: He attempted to flee overseas.
+
+===word: 伝染===
+Nuance: 病気や感情、習慣などが他の人にうつることを意味します。医学的な感染のほか、比喩的にも使われます。
+Example1: この病気は人に伝染します。
+Example1_EN: This disease is contagious to people.
+Example2: 笑いは伝染しますね。
+Example2_EN: Laughter is contagious, isn't it?
+Example3: 伝染を防ぐために手洗いが重要です。
+Example3_EN: Hand washing is important to prevent contagion.
+
+===word: 怪物===
+Nuance: 普通ではない異常な形や大きさを持つ生き物のことです。ホラーやファンタジー作品に登場します。
+Example1: この湖には怪物が住んでいると言われています。
+Example1_EN: It is said that a monster lives in this lake.
+Example2: その怪物は非常に恐ろしいです。
+Example2_EN: That monster is extremely terrifying.
+Example3: 子供たちは怪物の話を怖がっています。
+Example3_EN: The children are scared of the monster story.
+
+===word: 欲張り===
+Nuance: 必要以上に多くのものを求める性質や人のことです。ネガティブな意味で使われることが多いです。
+Example1: 欲張りな人は嫌われます。
+Example1_EN: Greedy people are disliked.
+Example2: 彼は欲張りで有名です。
+Example2_EN: He is known for being greedy.
+Example3: 欲張りすぎると失敗しますよ。
+Example3_EN: If you're too greedy, you'll fail.
+
+===word: ブラウン管===
+Nuance: テレビやモニターに使われていた、電子ビームで画像を表示する真空管のことです。現在は液晶ディスプレイが主流です。
+Example1: ブラウン管のテレビは重かったです。
+Example1_EN: CRT televisions were heavy.
+Example2: ブラウン管の製造は終了しました。
+Example2_EN: The production of CRTs has ended.
+Example3: ブラウン管から液晶に変わりました。
+Example3_EN: We switched from CRT to LCD.
+
+===word: 細工===
+Nuance: 細かい部分に手を加えて物を作ることです。また、裏でこっそりと工作するという意味もあります。
+Example1: この細工はとても精巧です。
+Example1_EN: This craftsmanship is very intricate.
+Example2: 彼は金属細工が得意です。
+Example2_EN: He is good at metalwork.
+Example3: 何か細工をしたのではないですか？
+Example3_EN: Didn't you tamper with something?
+
+===word: 配列要素===
+Nuance: プログラミングにおいて、配列（同じ型のデータを並べたもの）の中の個々のデータのことです。
+Example1: 配列要素にアクセスする方法を教えてください。
+Example1_EN: Please teach me how to access array elements.
+Example2: この配列要素の値はゼロです。
+Example2_EN: The value of this array element is zero.
+Example3: 配列要素を一つずつ確認します。
+Example3_EN: I will check each array element one by one.
+
+===word: 抱っこ===
+Nuance: 主に小さな子供を腕で包み込むようにして持つことです。赤ちゃんや幼児に対して使う優しい言葉です。
+Example1: 赤ちゃんを抱っこしてもいいですか？
+Example1_EN: May I hold the baby?
+Example2: 抱っこしてほしいと泣いています。
+Example2_EN: The child is crying because they want to be held.
+Example3: 抱っこすると子供が安心します。
+Example3_EN: When you hold the child, they feel safe.
+
+===word: 例題===
+Nuance: 学習のために示される具体的な問題や例のことです。教科書や参考書で説明の後にあります。
+Example1: この例題を解いてみてください。
+Example1_EN: Please try solving this example problem.
+Example2: 例題を見てから問題に取り組みましょう。
+Example2_EN: Let's look at the example before tackling the problem.
+Example3: 例題の答えは巻末にあります。
+Example3_EN: The answers to the example problems are at the end of the book.
+
+===word: 溶け込む===
+Nuance: 固体が液体の中に溶けて一体化することです。また、新しい環境や集団に自然に馴染むという比喩的な意味もあります。
+Example1: 新しい職場に早く溶け込みたいです。
+Example1_EN: I want to blend into my new workplace quickly.
+Example2: 雪が溶け込んで水になりました。
+Example2_EN: The snow melted into water.
+Example3: 彼はすぐにクラスに溶け込みました。
+Example3_EN: He quickly blended in with the class.
+
+===word: 良性===
+Nuance: 病気や腫瘍などが悪性ではなく、比較的穏やかで生命に危険が少ない性質を指します。医学用語です。
+Example1: 腫瘍は良性でした。
+Example1_EN: The tumor was benign.
+Example2: 良性の病気なので心配いりません。
+Example2_EN: Since it's a benign condition, there's no need to worry.
+Example3: 良性か悪性かの検査をします。
+Example3_EN: We will test whether it is benign or malignant.
+
+===word: 関数===
+Nuance: 数学やプログラミングで、入力に対して決まった出力を返す仕組みのことです。特にプログラミングでは処理のまとまりを指します。
+Example1: この関数は数値を二倍にします。
+Example1_EN: This function doubles the numerical value.
+Example2: 関数の定義を確認しましょう。
+Example2_EN: Let's check the function definition.
+Example3: 新しい関数を作成しました。
+Example3_EN: I created a new function.
+
+===word: 時計台===
+Nuance: 時計が取り付けられた塔や建物のことです。街のシンボルになることが多いです。
+Example1: 札幌の時計台は有名な観光名所です。
+Example1_EN: Sapporo's clock tower is a famous tourist attraction.
+Example2: 時計台の鐘の音が聞こえます。
+Example2_EN: You can hear the bell of the clock tower.
+Example3: 時計台の前で待ち合わせをしました。
+Example3_EN: We arranged to meet in front of the clock tower.
+
+===word: 平均値===
+Nuance: 複数の数値を足して個数で割った値のことです。統計やデータ分析で最も基本的な指標です。
+Example1: このクラスの平均点は七十五点です。
+Example1_EN: The average score of this class is 75 points.
+Example2: 平均値を計算しました。
+Example2_EN: I calculated the average value.
+Example3: 平均値だけでは分からないことがあります。
+Example3_EN: There are things you can't tell from the average value alone.
+
+===word: 締め具===
+Nuance: 物を固定したり留めたりするための道具や部品のことです。バンドやクリップ、クランプなどが含まれます。
+Example1: この締め具はとても頑丈です。
+Example1_EN: This fastener is very sturdy.
+Example2: 締め具をしっかり閉めてください。
+Example2_EN: Please fasten the clasp securely.
+Example3: 締め具が壊れてしまいました。
+Example3_EN: The fastener broke.
+
+===word: 報道===
+Nuance: 新聞やテレビ、インターネットなどでニュースを知らせることです。マスメディアの主要な機能です。
+Example1: この事件は大きく報道されました。
+Example1_EN: This incident was widely reported.
+Example2: 報道の自由は大切です。
+Example2_EN: Freedom of the press is important.
+Example3: 最新の報道によると、台風が近づいています。
+Example3_EN: According to the latest news, a typhoon is approaching.
+
+===word: 二重引用符===
+Nuance: 文章の中で引用符を二重に重ねた記号「」や“”のことです。プログラミングや文章作成で使われます。
+Example1: 二重引用符で囲んでください。
+Example1_EN: Please enclose it in double quotation marks.
+Example2: この言葉は二重引用符で強調します。
+Example2_EN: We emphasize this word with double quotation marks.
+Example3: 二重引用符の使い方を間違えました。
+Example3_EN: I made a mistake in using double quotation marks.
+
+===word: 低地===
+Nuance: 周囲よりも低い土地のことです。川沿いや海沿いに多く、洪水の危険があることがあります。
+Example1: この地域は低地なので水はけが悪いです。
+Example1_EN: This area is low-lying, so drainage is poor.
+Example2: 低地には田んぼが広がっています。
+Example2_EN: Rice paddies spread across the lowlands.
+Example3: 低地の住民は避難しました。
+Example3_EN: The residents of the lowlands evacuated.
+
+===word: 黄金===
+Nuance: 金色に輝く貴金属の金のことです。また、非常に価値が高いものの比喩としても使われます。
+Example1: 黄金の指輪を買いました。
+Example1_EN: I bought a gold ring.
+Example2: 黄金色に輝く夕日が美しいです。
+Example2_EN: The sunset shining in gold is beautiful.
+Example3: 黄金比は美しい比率として知られています。
+Example3_EN: The golden ratio is known as a beautiful proportion.
+
+===word: 主力部隊===
+Nuance: 軍隊や組織の中で最も重要な役割を担う部隊のことです。戦闘やプロジェクトの中心的な戦力です。
+Example1: 主力部隊を前線に派遣しました。
+Example1_EN: We dispatched the main force to the front line.
+Example2: 主力部隊の到着を待っています。
+Example2_EN: We are waiting for the arrival of the main force.
+Example3: 主力部隊が攻撃を開始しました。
+Example3_EN: The main force began its attack.
+
+===word: 海流===
+Nuance: 海の中を一定の方向に流れる大きな水の流れのことです。気候や漁業に大きな影響を与えます。
+Example1: 黒潮は日本近海の主要な海流です。
+Example1_EN: The Kuroshio is a major ocean current near Japan.
+Example2: 海流の変化が気候に影響します。
+Example2_EN: Changes in ocean currents affect the climate.
+Example3: この海流は暖流です。
+Example3_EN: This ocean current is a warm current.
+
+===word: 塩対応===
+Nuance: 芸能人や接客業などで、相手に対して冷たく素っ気ない態度を取ることを指すネットスラングです。
+Example1: あの店員の塩対応には驚きました。
+Example1_EN: I was surprised by that staff member's cold response.
+Example2: 塩対応されると悲しくなります。
+Example2_EN: It makes me sad when I get a cold reception.
+Example3: ファンに塩対応で有名なアイドルです。
+Example3_EN: He is an idol famous for giving cold treatment to fans.
+
+===word: コード補完===
+Nuance: プログラミングの際に、エディタが自動的にコードの候補を表示して入力補助をする機能のことです。
+Example1: コード補完のおかげで作業が速くなりました。
+Example1_EN: Thanks to code completion, my work has become faster.
+Example2: このエディタのコード補完は優秀です。
+Example2_EN: This editor's code completion is excellent.
+Example3: コード補完機能を有効にしてください。
+Example3_EN: Please enable the code completion feature.
+
+===word: エロゲ===
+Nuance: 「エロチックゲーム」の略で、性的な内容を含むコンピュータゲームのことです。日本で独特のジャンルとして発展しました。
+Example1: エロゲは日本で人気のジャンルです。
+Example1_EN: Erotic games are a popular genre in Japan.
+Example2: エロゲのシナリオが評価されています。
+Example2_EN: The scenarios of erotic games are highly regarded.
+Example3: エロゲの市場は縮小傾向にあります。
+Example3_EN: The erotic game market is on a declining trend.

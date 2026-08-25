@@ -1,0 +1,539 @@
+===word: 買い上げる===
+Nuance: 「買い上げる」は、商品や株などを大量に、または市場全体で買い集めることを意味します。「買う」よりも積極的で、組織的・計画的な購買行為に使われる、ややフォーマルな語です。買い占めに近いニュアンスもあります。
+Example1: あの企業は自社株を大量に買い上げました。
+Example1_EN: That company bought up a large amount of its own stock.
+Example2: この商品は転売業者に買い上げられることが多いです。
+Example2_EN: This product is often bought up by resellers.
+Example3: 買い上げた商品は倉庫で保管しています。
+Example3_EN: We are storing the purchased items in the warehouse.
+
+===word: 立ち上がる===
+Nuance: 「立ち上がる」は、座った状態や横になった状態から立つ動作を指します。物理的な動作以外にも、困難に立ち向かう、行動を起こすという比喩的な意味でも使われます。日常会話でよく使われる基本的な動詞です。
+Example1: 彼は席から立ち上がって挨拶しました。
+Example1_EN: He stood up from his seat and greeted everyone.
+Example2: 被災地の人々は復興のために立ち上がりました。
+Example2_EN: The people in the disaster area stood up for reconstruction.
+Example3: 立ち上がるときに、椅子に手をついてもいいですか？
+Example3_EN: May I put my hand on the chair when I stand up?
+
+===word: 警察署===
+Nuance: 「警察署」は、警察官が勤務する地域の警察機関の建物を指します。各市区町村に設置されており、交番よりも規模が大きく、事件の捜査や書類手続きなどが行われます。公的な施設なので、やや改まった言い方です。
+Example1: 警察署は駅の北口を出てすぐのところにあります。
+Example1_EN: The police station is right outside the north exit of the station.
+Example2: 落とし物をしたので、警察署に届け出ました。
+Example2_EN: I lost something, so I reported it to the police station.
+Example3: この警察署は二十四時間対応しています。
+Example3_EN: This police station is open twenty-four hours.
+
+===word: 特許侵害===
+Nuance: 「特許侵害」は、他人の登録された特許権を無断で使用する違法行為を指します。法律・ビジネス用語で、フォーマルな文脈で使われます。企業間の訴訟や知的財産権に関する議論でよく登場します。
+Example1: その会社は特許侵害で訴えられました。
+Example1_EN: That company was sued for patent infringement.
+Example2: 特許侵害にならないように、事前に調査することが大切です。
+Example2_EN: It is important to conduct a prior investigation to avoid patent infringement.
+Example3: 特許侵害の疑いがある場合、弁護士に相談してください。
+Example3_EN: If there is suspicion of patent infringement, please consult a lawyer.
+
+===word: 巡る===
+Nuance: 「巡る」は、ある場所を順番に回る、または物事が循環することを表す動詞です。時間や季節の巡り、議論や話題が特定のテーマに関係する場合にも使われます。やや文語的・文学的な響きがあります。
+Example1: 四季が巡るたびに、自然の美しさを感じます。
+Example1_EN: Every time the four seasons come around, I feel the beauty of nature.
+Example2: その問題を巡って激しい議論が交わされました。
+Example2_EN: A heated debate took place surrounding that issue.
+Example3: 展示会では作品を巡りながら鑑賞しました。
+Example3_EN: At the exhibition, I viewed the works while walking around.
+
+===word: 支社===
+Nuance: 「支社」は、本社に対して地域ごとに設置された会社の拠点を指します。「支店」が主に販売・営業を担当する現場拠点なのに対し、「支社」はより管理的・独立的な機能を持ちます。ビジネスシーンで使われるフォーマルな語です。
+Example1: 私は大阪支社に転勤になりました。
+Example1_EN: I was transferred to the Osaka branch office.
+Example2: 支社の売上が今年は好調だそうです。
+Example2_EN: I hear the branch office's sales are doing well this year.
+Example3: 支社長が来月本社で会議を行います。
+Example3_EN: The branch manager will hold a meeting at the head office next month.
+
+===word: 見回す===
+Nuance: 「見回す」は、周囲全体をゆっくりと見渡す動作を表します。注意深く観察するニュアンスがあり、新しい場所に入ったときや異常がないか確認するときに使われます。日常会話でも使われる一般的な動詞です。
+Example1: 彼は部屋の中を見回してから、静かにドアを閉めました。
+Example1_EN: He looked around the room and then quietly closed the door.
+Example2: 周りを見回しても、知っている人は誰もいませんでした。
+Example2_EN: I looked around, but there was no one I knew.
+Example3: 会場を見回して、空いている席を探しました。
+Example3_EN: I looked around the venue and looked for an empty seat.
+
+===word: 政治団体===
+Nuance: 「政治団体」は、特定の政治的立場や目的のために活動する組織を指します。政党もその一種ですが、より広い意味で、政治活動を行う任意の団体を含みます。ニュースや公式文書で使われるフォーマルな表現です。
+Example1: その政治団体は新しい政策を発表しました。
+Example1_EN: That political organization announced a new policy.
+Example2: 政治団体の収支報告書が公開されています。
+Example2_EN: The financial reports of political organizations are made public.
+Example3: 地元の政治団体が街頭演説を行っています。
+Example3_EN: A local political organization is giving a street speech.
+
+===word: 延長コード===
+Nuance: 「延長コード」は、電源コンセントの届かない場所に電気を供給するために使う、コードを延長する器具です。日常生活でよく使われるカタカナ語です。家電製品や電子機器の配線に広く利用されます。
+Example1: この延長コードは三メートルあります。
+Example1_EN: This extension cord is three meters long.
+Example2: 延長コードを使って、ベッドの近くに電気スタンドを置きました。
+Example2_EN: I used an extension cord to place the desk lamp near the bed.
+Example3: 延長コードはたこ足配線にならないように注意してください。
+Example3_EN: Please be careful not to create a daisy chain of extension cords.
+
+===word: 串===
+Nuance: 「串」は、食べ物を刺したり固定したりするための細く尖った棒を指します。焼き鳥や団子などの料理に使われるほか、工作や工芸の道具としても使われます。日常的で親しみやすい語です。
+Example1: この店の焼き鳥は一本の串に五つの肉が刺してあります。
+Example1_EN: The yakitori at this shop has five pieces of meat on each skewer.
+Example2: 串に刺したマシュマロをキャンプファイヤーで焼きました。
+Example2_EN: I roasted marshmallows on skewers over the campfire.
+Example3: 竹串は使い捨てできるので便利です。
+Example3_EN: Bamboo skewers are convenient because they are disposable.
+
+===word: 反撃する===
+Nuance: 「反撃する」は、相手から攻撃を受けた後、自分側から攻撃を仕返すことを意味します。物理的な戦闘だけでなく、議論や競争などの比喩的な場面でも使われます。やや強く、積極的なニュアンスがあります。
+Example1: 相手の攻撃に対して、すぐに反撃しました。
+Example1_EN: We immediately counterattacked against the opponent's assault.
+Example2: 批判されたので、事実を挙げて反撃しました。
+Example2_EN: Since I was criticized, I fought back by citing the facts.
+Example3: 彼は反撃するタイミングを慎重に計っています。
+Example3_EN: He is carefully timing his counterattack.
+
+===word: 不況===
+Nuance: 「不況」は、経済活動が全体的に低迷している状態を指します。雇用の減少や消費の落ち込みなどを伴い、ニュースや経済評論で頻繁に使われるフォーマルな用語です。反対語は「好況」です。
+Example1: 不況の影響で、多くの会社が倒産しました。
+Example1_EN: Due to the recession, many companies went bankrupt.
+Example2: この国は深刻な不況から徐々に回復しています。
+Example2_EN: This country is gradually recovering from a severe recession.
+Example3: 不況になると、人々は節約するようになります。
+Example3_EN: When there is a recession, people start to save money.
+
+===word: 生命===
+Nuance: 「生命」は、生き物が生きている状態やその源を指す、ややフォーマルで抽象度の高い名詞です。「命」に比べて客観的・科学的な響きがあり、生命保険や生命科学などの複合語でも使われます。
+Example1: この地域には多様な生命が存在しています。
+Example1_EN: A diverse range of life exists in this region.
+Example2: 生命の尊さについて、もっと考えるべきです。
+Example2_EN: We should think more about the preciousness of life.
+Example3: 彼は手術によって生命を取り留めました。
+Example3_EN: He narrowly survived thanks to the surgery.
+
+===word: 特注===
+Nuance: 「特注」は、通常の既製品ではなく、特別に注文して作ってもらうことを意味します。家具や機械、衣類など、既製品では満足できない場合に使われます。ビジネスや製造業でよく使われるフォーマルな語です。
+Example1: この家具は特注で作っていただきました。
+Example1_EN: This furniture was custom-made for us.
+Example2: 特注のスーツは寸法がぴったり合います。
+Example2_EN: A custom-ordered suit fits perfectly to your measurements.
+Example3: 特注品は納品までに一ヶ月ほどかかります。
+Example3_EN: Custom-ordered items take about a month for delivery.
+
+===word: 総理大臣===
+Nuance: 「総理大臣」は、日本の内閣の首長であり、行政機関の最高責任者を指します。国会議員の中から指名され、天皇によって任命されます。政治ニュースで最も頻繁に登場する役職名の一つで、フォーマルな公的な呼称です。
+Example1: 総理大臣が記者会見で新しい政策を発表しました。
+Example1_EN: The Prime Minister announced a new policy at the press conference.
+Example2: 総理大臣は国会で予算案について説明しました。
+Example2_EN: The Prime Minister explained the budget proposal in the Diet.
+Example3: 次の総理大臣は誰になるのでしょうか。
+Example3_EN: I wonder who will become the next Prime Minister.
+
+===word: 失望===
+Nuance: 「失望」は、期待していたことが叶わず、がっかりする気持ちを表します。単なる「残念」よりも強く、深い落胆のニュアンスがあります。フォーマルな場面でも日常会話でも使われる名詞です。
+Example1: 試合に負けて、ファンは大きな失望を味わいました。
+Example1_EN: The fans experienced great disappointment after the team lost the game.
+Example2: 彼の態度には本当に失望しました。
+Example2_EN: I was truly disappointed by his attitude.
+Example3: 結果に失望しないように、あまり期待しないほうがいいですよ。
+Example3_EN: It's better not to expect too much so you won't be disappointed by the results.
+
+===word: 調達部===
+Nuance: 「調達部」は、企業や組織の中で、原材料や資材、サービスなどを外部から購入・調達する業務を担当する部署を指します。ビジネス用語で、フォーマルな文脈で使われます。製造業や建設業で特に重要な部門です。
+Example1: 調達部が新しい取引先を開拓しています。
+Example1_EN: The procurement department is developing new business partners.
+Example2: 調達部の担当者と価格交渉を行いました。
+Example2_EN: I conducted price negotiations with the procurement department representative.
+Example3: 調達部は資材の在庫管理も担当しています。
+Example3_EN: The procurement department is also in charge of inventory management.
+
+===word: あるなし===
+Nuance: 「あるなし」は、物事の存在や有無を指す表現で、「ある」と「なし」を組み合わせた口語的な名詞です。クイズや判断の文脈でよく使われ、カジュアルな会話で親しまれています。
+Example1: 彼の意見の賛否あるなしを確認しましたか？
+Example1_EN: Did you confirm whether there is support or opposition for his opinion?
+Example2: 経験のあるなしが採用の判断基準になります。
+Example2_EN: Whether or not you have experience will be a criterion for hiring decisions.
+Example3: その情報の真偽あるなしはまだ分かりません。
+Example3_EN: Whether that information is true or false is still unknown.
+
+===word: 満車===
+Nuance: 「満車」は、駐車場に空きがなく、すべての駐車スペースが埋まっている状態を表します。看板や電子表示板でよく使われる表現で、日常生活で頻繁に目にする簡潔な語です。反対語は「空車」です。
+Example1: 駐車場が満車だったので、別の駐車場を探しました。
+Example1_EN: The parking lot was full, so I looked for another one.
+Example2: 満車の表示が出ているので、少し待ちましょう。
+Example2_EN: The sign says full, so let's wait a bit.
+Example3: 満車の場合は、隣の駐車場をご利用ください。
+Example3_EN: If the parking lot is full, please use the next parking lot.
+
+===word: 策===
+Nuance: 「策」は、目標を達成するための方法や手段、計画を指します。戦略や方策の意味合いが強く、ビジネスや政治の文脈でフォーマルに使われます。「対策」「方策」「策略」などの複合語の一部としてもよく登場します。
+Example1: 新しい販売促進の策を考えています。
+Example1_EN: We are thinking of new sales promotion strategies.
+Example2: この問題には緊急の策が必要です。
+Example2_EN: This problem requires an urgent measure.
+Example3: どんな策を講じても、状況は改善しませんでした。
+Example3_EN: No matter what measures we took, the situation did not improve.
+
+===word: 食み出す===
+Nuance: 「食み出す」は、ある範囲や枠からはみ出して外に出ることを意味します。物理的に容器や領域から飛び出す場合と、比喩的に権限や範囲を超える場合の両方で使われます。やや文語的な響きのある動詞です。
+Example1: 荷物が箱から食み出していました。
+Example1_EN: The luggage was protruding from the box.
+Example2: 彼の発言は常識の範囲を食み出していました。
+Example2_EN: His remarks went beyond the bounds of common sense.
+Example3: 予算から食み出した分は自己負担になります。
+Example3_EN: The portion that exceeds the budget will be borne by yourself.
+
+===word: 調理用食塩===
+Nuance: 「調理用食塩」は、料理に使用するための精製された塩を指します。通常の食塩よりも純度が高く、調理に適しています。日常の買い物や料理の文脈で使われる具体的な名詞です。
+Example1: この調理用食塩はさらさらしていて使いやすいです。
+Example1_EN: This cooking salt is fine and easy to use.
+Example2: 調理用食塩と天然塩では味が少し違います。
+Example2_EN: There is a slight difference in taste between cooking salt and natural salt.
+Example3: 調理用食塩は湿気らないように密閉容器で保存してください。
+Example3_EN: Please store cooking salt in an airtight container to keep it from clumping.
+
+===word: 暗躍===
+Nuance: 「暗躍」は、表に出ずにこっそりと活動し、物事に影響を与えることを意味します。陰謀や策略のニュアンスを含み、ややネガティブな文脈で使われるフォーマルな名詞です。政治や組織の裏側を語る際に登場します。
+Example1: その陰謀には複数の政治団体が暗躍していました。
+Example1_EN: Multiple political organizations were secretly maneuvering behind that plot.
+Example2: 彼は選挙の裏で暗躍していたと言われています。
+Example2_EN: It is said that he was secretly maneuvering behind the scenes of the election.
+Example3: 暗躍していた人物がついに暴かれました。
+Example3_EN: The person who had been secretly maneuvering was finally exposed.
+
+===word: 誕生===
+Nuance: 「誕生」は、人や動物がこの世に生まれ出ることを指します。比喩的に、新しい組織や制度、作品などが生まれることにも使われます。「生まれる」よりも改まった表現で、公式な発表やお祝いの場面でよく使われます。
+Example1: 先日、私たちの第一子が誕生しました。
+Example1_EN: Our first child was born the other day.
+Example2: この会社は十年以上前に誕生しました。
+Example2_EN: This company was founded over ten years ago.
+Example3: 新しい記録が誕生した瞬間を目撃しました。
+Example3_EN: I witnessed the moment a new record was born.
+
+===word: 相手===
+Nuance: 「相手」は、自分と関わりを持つ人や、対戦相手、交渉の対象などを指す、非常に汎用性の高い名詞です。良い関係だけでなく、敵対的な関係でも使われます。日常会話からビジネスまで幅広く使われる基本的な語です。
+Example1: 相手の意見を尊重することが大切です。
+Example1_EN: It is important to respect the other person's opinion.
+Example2: 今日の試合の相手はとても強いチームです。
+Example2_EN: Our opponent in today's match is a very strong team.
+Example3: 交渉の相手は経験豊富なビジネスマンでした。
+Example3_EN: The person I negotiated with was an experienced businessman.
+
+===word: 残酷な===
+Nuance: 「残酷な」は、人や動物に対して冷たく、思いやりがなく、苦しみを与える様子を表すナ形容詞です。暴力や虐待などの深刻な状況から、不運な結果を指す軽い用法まで幅広く使われます。
+Example1: その映画の残酷な描写に観客は驚きました。
+Example1_EN: The audience was shocked by the cruel depiction in that movie.
+Example2: 彼の言い方は少し残酷だったと思います。
+Example2_EN: I think what he said was a bit cruel.
+Example3: 残酷な現実を受け入れるのは難しいです。
+Example3_EN: It is difficult to accept the cruel reality.
+
+===word: 日系ロシア人===
+Nuance: 「日系ロシア人」は、日本人の血を引くロシア国籍の人を指します。民族や国籍を表す複合名詞で、社会やニュースの文脈で使われます。特定のコミュニティや文化について語る際に登場するややフォーマルな表現です。
+Example1: 日系ロシア人の方と日本語で話しました。
+Example1_EN: I spoke in Japanese with a person of Japanese-Russian heritage.
+Example2: 日系ロシア人のコミュニティがこの地域にあります。
+Example2_EN: There is a Japanese-Russian community in this area.
+Example3: 彼女は日系ロシア人で、両方の文化に詳しいです。
+Example3_EN: She is of Japanese-Russian descent and is familiar with both cultures.
+
+===word: 滑る===
+Nuance: 「滑る」は、表面が滑らかで摩擦が少ないために、物が意図せず動いてしまう、またはそのようにして進む動作を表します。氷の上や濡れた床などで足を取られる場合や、スキー・スケートなどのスポーツで意図的に滑る場合にも使われます。
+Example1: 床が濡れていたので、足が滑って転びそうになりました。
+Example1_EN: The floor was wet, so my foot slipped and I almost fell.
+Example2: 子どもが公園の滑り台を滑っています。
+Example2_EN: A child is sliding down the slide at the park.
+Example3: スケートリンクで初めて滑りましたが、とても楽しかったです。
+Example3_EN: I skated at the ice rink for the first time, and it was very fun.
+
+===word: 駅長===
+Nuance: 「駅長」は、鉄道駅の最高責任者を指します。駅の運営管理や乗務員の指揮、お客様対応など、駅全体の業務を統括します。鉄道関連の会話やニュースで使われるフォーマルな職業名です。
+Example1: 駅長が駅の改修工事について説明してくださいました。
+Example1_EN: The station master kindly explained about the station renovation work.
+Example2: あの駅長はとても親切で、よく利用客に話しかけています。
+Example2_EN: That station master is very kind and often talks to passengers.
+Example3: 新しい駅長が先月着任しました。
+Example3_EN: The new station master took up his post last month.
+
+===word: 運動場===
+Nuance: 「運動場」は、学校や公園などにある、スポーツや遊びのために使われる広い屋外の場所を指します。校庭と似ていますが、より広い意味で使われます。日常会話でよく使われる基本的な名詞です。
+Example1: 子どもたちが運動場でサッカーをしています。
+Example1_EN: The children are playing soccer on the playground.
+Example2: この学校の運動場はとても広いです。
+Example2_EN: This school's playground is very spacious.
+Example3: 運動場の使用時間は午後五時までです。
+Example3_EN: The playground is open for use until 5 PM.
+
+===word: 意義===
+Nuance: 「意義」は、物事に含まれる価値や重要性、あるいは意味合いを指します。単なる「意味」よりも深く、その行為や存在が持つ本質的な重要性に焦点を当てます。スピーチや文章で使われるややフォーマルな名詞です。
+Example1: この研究の意義について説明してください。
+Example1_EN: Please explain the significance of this research.
+Example2: 彼は自分の仕事の意義を改めて考えました。
+Example2_EN: He reconsidered the significance of his work.
+Example3: この発見は医学的に大きな意義があります。
+Example3_EN: This discovery has great medical significance.
+
+===word: 生理===
+Nuance: 「生理」は、女性の月経を指す日常的な表現です。また、広く「生理現象」のように生物の身体機能を指すこともあります。月経の意味ではやや直接的ですが、医療や日常会話で標準的に使われる語です。
+Example1: 彼女は生理でお腹が痛いと言っています。
+Example1_EN: She says she has a stomachache from her period.
+Example2: 生理中は無理をせずに休んでください。
+Example2_EN: Please rest and don't overexert yourself during your period.
+Example3: 最近の生理用品はとても使いやすくなっています。
+Example3_EN: Recent menstrual products have become very easy to use.
+
+===word: 胴上げ===
+Nuance: 「胴上げ」は、複数の人が一人の人の胴体を支えて上に放り上げる動作を指します。特に日本では、スポーツの優勝や何かめでたいことを祝って行われる伝統的な儀式です。特定の文化的文脈で使われる名詞です。
+Example1: チームが優勝したので、監督を胴上げしました。
+Example1_EN: The team won the championship, so they tossed the coach in the air.
+Example2: 胴上げされるのは少し怖いですが、嬉しいです。
+Example2_EN: Being tossed in the air is a little scary, but it feels good.
+Example3: 卒業記念に先生を胴上げしようと計画しています。
+Example3_EN: We are planning to toss our teacher in the air to celebrate graduation.
+
+===word: 捕まる===
+Nuance: 「捕まる」は、逃亡者や犯罪者が警察などに捕えられること、または移動中のものが何かに引っかかって止まることを意味します。自動詞で、受動的なニュアンスがあります。「捕まえる」が他動詞であるのに対し、こちらは自然にそうなる状態を表します。
+Example1: 犯人は空港で捕まりました。
+Example1_EN: The criminal was caught at the airport.
+Example2: 渋滞に捕まって、約束の時間に遅れました。
+Example2_EN: I got caught in a traffic jam and was late for my appointment.
+Example3: ドアにスカートが捕まって破れてしまいました。
+Example3_EN: My skirt got caught on the door and tore.
+
+===word: 病欠（する）===
+Nuance: 「病欠（する）」は、病気のために仕事や学校を欠席することを意味します。サ変動詞「病欠する」としても使われます。ビジネスや学校の文脈で使われるややフォーマルな表現で、「病気休み」よりも簡潔です。
+Example1: 彼は風邪で今日病欠しました。
+Example1_EN: He took sick leave today due to a cold.
+Example2: 病欠の際は、朝九時までに連絡してください。
+Example2_EN: Please contact us by 9 AM when you take sick leave.
+Example3: 今月は病欠が多くて困っています。
+Example3_EN: I'm concerned because I've had a lot of sick days this month.
+
+===word: 豊富===
+Nuance: 「豊富」は、数量や種類が多くて豊かな様子を表すナ形容詞です。経験や知識、資源、品揃えなど、様々なものに対して使われます。ポジティブなニュアンスを持ち、日常会話でもビジネスでも広く使われます。
+Example1: この図書館は専門書が豊富です。
+Example1_EN: This library has a wealth of specialized books.
+Example2: 彼は海外での経験が豊富なので、頼りになります。
+Example2_EN: He has extensive experience abroad, so he is reliable.
+Example3: この地域は自然資源が豊富で有名です。
+Example3_EN: This region is famous for its abundant natural resources.
+
+===word: 奪い返す===
+Nuance: 「奪い返す」は、相手に奪われたものを再び取り戻すことを意味します。物理的なものだけでなく、試合の主導権やポジションなど比喩的なものにも使われます。積極的で力強いニュアンスのある動詞です。
+Example1: 泥棒から財布を奪い返しました。
+Example1_EN: I snatched my wallet back from the thief.
+Example2: 後半に点を奪い返して、試合は振り出しに戻りました。
+Example2_EN: We scored back in the second half, and the game was back to square one.
+Example3: リーダーの座を奪い返すために、彼は努力を続けています。
+Example3_EN: He keeps working hard to reclaim the leader's position.
+
+===word: 暗部===
+Nuance: 「暗部」は、物事の暗い部分や、表に出しにくい陰の側面を指します。人の性格の悪い面や、社会の闇の部分などに使われます。「陰部」とは異なるので注意が必要です。やや文語的でフォーマルなニュアンスがあります。
+Example1: この小説は人間の心の暗部を描いています。
+Example1_EN: This novel depicts the dark side of the human heart.
+Example2: 町の暗部を知るために、自ら調査に乗り出しました。
+Example2_EN: He launched his own investigation to learn about the town's dark side.
+Example3: どんな組織にも暗部は存在するものです。
+Example3_EN: Every organization has its dark side.
+
+===word: 建築===
+Nuance: 「建築」は、建物を設計し建てる行為や、その技術・分野を指します。「建設」よりもデザインや構造に重点があり、専門的でフォーマルな語です。建築家の仕事や建物の様式について話す時に使われます。
+Example1: この神社の建築はとても古い様式です。
+Example1_EN: The architecture of this shrine is in a very old style.
+Example2: 彼は建築に興味があって、大学で勉強しています。
+Example2_EN: He is interested in architecture and is studying it at university.
+Example3: 新しい駅の建築工事が来月始まります。
+Example3_EN: Construction work on the new station building will begin next month.
+
+===word: 故障する===
+Nuance: 「故障する」は、機械や装置が正常に動かなくなることを意味するサ変動詞です。車やパソコン、家電製品など幅広い機器に使われます。日常会話で非常によく使われる実用的な語です。
+Example1: エアコンが故障したので、修理を頼みました。
+Example1_EN: The air conditioner broke down, so I called for repairs.
+Example2: この機械はもう何度も故障しています。
+Example2_EN: This machine has broken down many times already.
+Example3: エレベーターが故障しているので、階段を使ってください。
+Example3_EN: The elevator is out of order, so please use the stairs.
+
+===word: 引用===
+Nuance: 「引用」は、他人の文章や言葉を自分の文章の中に引用符を付けて用いることを指します。学術論文やレポト、ブログ記事などで使われるフォーマルな名詞です。出典を明らかにすることが重要とされます。
+Example1: この論文では多くの文献から引用しています。
+Example1_EN: This paper cites many sources from the literature.
+Example2: 引用する際は、必ず出典を明記してください。
+Example2_EN: When citing, please always clearly indicate the source.
+Example3: その言葉は有名な詩からの引用です。
+Example3_EN: That phrase is a quotation from a famous poem.
+
+===word: 長所===
+Nuance: 「長所」は、人の性格や物事の優れた点、良い面を指します。就職活動での自己アピールや、人の評価をする場面でよく使われます。反対語は「短所」です。日常会話からビジネスまで幅広く使われる語です。
+Example1: 面接で自分の長所を聞かれて答えました。
+Example1_EN: I was asked about my strengths in the interview and answered.
+Example2: 彼女の長所はどんな状況でも冷静でいられることです。
+Example2_EN: Her strength is that she can stay calm in any situation.
+Example3: この商品の長所は価格の安さです。
+Example3_EN: The strength of this product is its low price.
+
+===word: 通貨===
+Nuance: 「通貨」は、国や地域で法定の支払い手段として使われるお金のことを指します。円、ドル、ユーロなどの種類を表す経済用語で、ニュースやビジネスの文脈でフォーマルに使われます。
+Example1: 日本で使われている通貨は日本円です。
+Example1_EN: The currency used in Japan is the Japanese yen.
+Example2: 外国為替市場で通貨の価値は日々変動しています。
+Example2_EN: The value of currencies fluctuates daily in the foreign exchange market.
+Example3: この国の通貨は不安定で、注意が必要です。
+Example3_EN: The currency of this country is unstable and requires caution.
+
+===word: 死刑===
+Nuance: 「死刑」は、犯罪者の命を奪う最も重い刑罰を指します。法制度や倫理に関わる深刻なテーマで、ニュースや議論でフォーマルに使われます。日常会話よりも公的な文脈で登場することが多い語です。
+Example1: その国では死刑制度が続いています。
+Example1_EN: The death penalty system continues in that country.
+Example2: 死刑の賛否については様々な意見があります。
+Example2_EN: There are various opinions regarding the pros and cons of the death penalty.
+Example3: 死刑囚の権利についても議論されています。
+Example3_EN: The rights of death row inmates are also being debated.
+
+===word: 砕く===
+Nuance: 「砕く」は、固いものを力で割ったり粉々にしたりする動作を意味します。物理的に物を壊す場合の他、比喩的に計画や夢を挫く場合にも使われます。日常会話でも使われる基本的な動詞です。
+Example1: 彼は氷をハンマーで砕きました。
+Example1_EN: He smashed the ice with a hammer.
+Example2: 波が岩壁にぶつかって砕けます。
+Example2_EN: The waves crash against the cliff and break apart.
+Example3: 彼の野望は現実に砕けました。
+Example3_EN: His ambitions were crushed by reality.
+
+===word: 難敵===
+Nuance: 「難敵」は、戦うのが難しい強い相手や、乗り越えるのが困難な課題を指します。スポーツの対戦相手やビジネスの競争相手などに使われます。ややフォーマルで、文語的な響きのある名詞です。
+Example1: 次の試合の相手は難敵なので、しっかり準備します。
+Example1_EN: Our opponent in the next match is a formidable enemy, so we'll prepare thoroughly.
+Example2: 彼は交渉の場でいつも難敵として立ちはだかります。
+Example2_EN: He always stands as a formidable opponent in negotiations.
+Example3: 難敵を打ち破って、優勝を勝ち取りました。
+Example3_EN: They defeated a formidable enemy and won the championship.
+
+===word: 深い===
+Nuance: 「深い」は、上から下までは底までの距離が大きいことを表す形容詞です。物理的な深さの他、考えや愛情、夜などが深いという比喩的な用法もあります。日常会話で非常によく使われる基本的な形容詞です。
+Example1: この湖はとても深いので、注意が必要です。
+Example1_EN: This lake is very deep, so caution is needed.
+Example2: 彼の話には深い意味が含まれていると思います。
+Example2_EN: I think his words contain a deep meaning.
+Example3: 夜が深くなるにつれて、静寂が訪れました。
+Example3_EN: As the night grew deeper, silence fell.
+
+===word: 言い換える===
+Nuance: 「言い換える」は、同じ内容を別の言葉や表現で述べることを意味します。説明をわかりやすくする時や、失礼のないように表現を和らげる時に使われます。日常会話からビジネスまで幅広く使われる動詞です。
+Example1: 難しい言葉は、わかりやすく言い換えてください。
+Example1_EN: Please rephrase difficult words in an easy-to-understand way.
+Example2: 言い換えれば、彼は責任を取りたくなかったのです。
+Example2_EN: In other words, he didn't want to take responsibility.
+Example3: その表現は失礼なので、別の言葉に言い換えたほうがいいですよ。
+Example3_EN: That expression is rude, so you'd better rephrase it.
+
+===word: やり残す===
+Nuance: 「やり残す」は、すべきことを全部終わらせずに残してしまうことを意味します。仕事や宿題、家事など、様々な場面で使われます。後悔や未完了のニュアンスが含まれることが多いです。
+Example1: 今日の仕事をやり残して帰ってしまいました。
+Example1_EN: I left work today without finishing everything.
+Example2: 宿題をやり残したので、先生にしかられました。
+Example2_EN: I was scolded by the teacher because I left my homework unfinished.
+Example3: やり残したことがないように、チェックリストを作りました。
+Example3_EN: I made a checklist so that I don't leave anything undone.
+
+===word: 同室===
+Nuance: 「同室」は、同じ部屋を使っていること、またはその部屋を共有する相手を指します。病院の病室や旅館の部屋、学生の共生活の場面で使われます。ややフォーマルな名詞です。
+Example1: 入院中、同室の患者さんと仲良くなりました。
+Example1_EN: During my hospital stay, I became friends with my roommate.
+Example2: 同室のメンバーとは静かに過ごすことにしています。
+Example2_EN: We have agreed to spend our time quietly with our roommate.
+Example3: 旅館では見知らぬ人と同室になることもあります。
+Example3_EN: At inns, you may sometimes share a room with strangers.
+
+===word: 不足===
+Nuance: 「不足」は、必要な量や数に足りない状態を意味します。お金や時間、人手、栄養など様々なものに使われます。日常会話からビジネスまで広く使われる語です。反対語は「過剰」や「充実」です。
+Example1: 睡眠不足が続くと健康に悪いです。
+Example1_EN: Continuing lack of sleep is bad for your health.
+Example2: 予算が不足しているので、計画的に使いましょう。
+Example2_EN: The budget is insufficient, so let's use it carefully.
+Example3: 店員の不足で、営業時間を短縮しています。
+Example3_EN: Due to a shortage of staff, we are reducing business hours.
+
+===word: 前進===
+Nuance: 「前進」は、前方に進むこと、または物事が良い方向に進展することを意味します。軍隊の進軍や比喩的な発展・進歩の両方に使われます。フォーマルな響きがあり、スピーチやビジネスの場面でよく使われます。反対語は「後退」です。
+Example1: 交渉は少しずつ前進しています。
+Example1_EN: The negotiations are gradually making progress.
+Example2: 目標に向かって前進し続けることが大切です。
+Example2_EN: It is important to keep moving forward toward your goals.
+Example3: 計画は着実に前進しています。
+Example3_EN: The plan is steadily moving forward.
+
+===word: 成功率===
+Nuance: 「成功率」は、試みたことの中で成功した割合をパーセントなどで表す数値を指します。医療の手術成功率やビジネスのプロジェクト成功率など、様々な分野で使われるフォーマルな名詞です。
+Example1: この治療法の成功率は非常に高いです。
+Example1_EN: The success rate of this treatment is very high.
+Example2: 成功率を上げるために、新しい方法を試しています。
+Example2_EN: We are trying new methods to increase the success rate.
+Example3: この試験の合格率は、成功率とは少し意味が違います。
+Example3_EN: The pass rate for this exam has a slightly different meaning from the success rate.
+
+===word: 沢山===
+Nuance: 「沢山」は、数量が多いことを表す副詞・名詞です。通常はひらがなで「たくさん」と書かれることが多いですが、漢字表記も存在します。日常会話で非常に頻繁に使われる基本的な語です。
+Example1: 今日は買い物をして、沢山の荷物があります。
+Example1_EN: I went shopping today and have a lot of bags.
+Example2: 沢山食べたいですが、ダイエット中なので控えます。
+Example2_EN: I want to eat a lot, but I'm on a diet so I'll hold back.
+Example3: 沢山の人がコンサートに来てくれました。
+Example3_EN: A lot of people came to the concert.
+
+===word: 運転席===
+Nuance: 「運転席」は、自動車などの運転者が座る席を指します。助手席や後部座席と区別する時に使われます。車に関する会話でよく登場する具体的な名詞です。
+Example1: 運転席からは周りがよく見えます。
+Example1_EN: You can see the surroundings well from the driver's seat.
+Example2: 運転席のシートを前に動かしてください。
+Example2_EN: Please move the driver's seat forward.
+Example3: この車の運転席は電動で調節できます。
+Example3_EN: The driver's seat in this car can be adjusted electrically.
+
+===word: 邪教===
+Nuance: 「邪教」は、正しくない教えや、社会に害を及ぼす宗教団体を指す否定的な言葉です。主に宗教や社会問題に関する議論で使われ、強い批判的ニュアンスを含みます。フォーマルな文脈で使われる名詞です。
+Example1: その団体は邪教として非難されています。
+Example1_EN: That group is criticized as a cult.
+Example2: 邪教の勧誘には十分に注意してください。
+Example2_EN: Please be very careful about solicitation from cults.
+Example3: 歴史的に見ても、邪教と呼ばれる団体は何度も現れています。
+Example3_EN: Historically, groups called cults have appeared many times.
+
+===word: 削除===
+Nuance: 「削除」は、文字やデータ、ファイルなどを消し去ることを意味する名詞です。パソコンやスマートフォンの操作で非常によく使われる他、書類の一部を消す時にも使われます。日常会話でもコンピューター用語として頻繁に登場します。
+Example1: 不要なファイルは全て削除しました。
+Example1_EN: I deleted all the unnecessary files.
+Example2: この記述は誤りなので、削除してください。
+Example2_EN: This description is incorrect, so please delete it.
+Example3: アカウントを削除すると、データは復元できません。
+Example3_EN: If you delete the account, the data cannot be restored.
+
+===word: 城門===
+Nuance: 「城門」は、城の入口にある大きな門を指します。歴史的な建造物や時代劇などで使われる名詞で、観光や歴史の文脈で登場します。日常会話ではあまり使われない、やや専門的な語です。
+Example1: この城門は江戸時代に建てられました。
+Example1_EN: This castle gate was built in the Edo period.
+Example2: 城門をくぐると、広い庭が広がっています。
+Example2_EN: When you go through the castle gate, a wide courtyard spreads out before you.
+Example3: 城門の前に武士の像が立っています。
+Example3_EN: There is a statue of a samurai standing in front of the castle gate.
+
+===word: 軍服===
+Nuance: 「軍服」は、軍人が着用する制服を指します。軍隊に属することを示す服で、階級章や勲章などが付されていることが多です。歴史的な文脈やニュースで使われるフォーマルな名詞です。
+Example1: 彼は昔の軍服を着て記念写真を撮りました。
+Example1_EN: He took a commemorative photo wearing an old military uniform.
+Example2: 軍服のデザインは国によって大きく異なります。
+Example2_EN: The desgn of military uniforms varies greatly by country.
+Example3: 彼は軍服姿がとても似合っていました。
+Example3_EN: He looked very good in his military uniform.
+
+===word: 大水===
+Nuance: 「大水」は、洪水や氾濫によって大量の水が押し寄せる自然災害を指します。「洪水」よりも古い、やや文語的な響きのある語です。災害報や歴史的な文脈で使われることが多いです。
+Example1: 昨年の大水で多くの家が被害を受けました。
+Example1_EN: Many homes were damaged by the flood last year.
+Example2: 大水の後は衛生状態に注意が必要です。
+Example2_EN: After a flood, attention to sanitation is necessary.
+Example3: 昔の人は大水を神の怒りだと考えていました。
+Example3_EN: People in the old days thought of great floods as the wrath of the gods.

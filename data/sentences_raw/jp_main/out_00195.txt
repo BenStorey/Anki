@@ -1,0 +1,611 @@
+===word: 宝===
+Nuance: 日常会話や物語でよく使われる名詞で、金銭的・精神的な価値があるものを指します。比喩的に「大切な人」や「貴重な経験」にも使われます。
+Example1: これは私の宝です。
+Example1_EN: This is my treasure.
+Example2: 彼女は宝のような存在です。
+Example2_EN: She is a treasure-like presence.
+Example3: この経験は一生の宝になりました。
+Example3_EN: This experience became a lifelong treasure.
+
+===word: 簡体字===
+Nuance: 中国語の文字体系の一つで、画数が少なく簡略化された漢字を指します。日本語学習者にとっては、繁体字や日本の漢字との違いに注意が必要です。
+Example1: 簡体字は中国本土で使われています。
+Example1_EN: Simplified Chinese characters are used in mainland China.
+Example2: この単語は簡体字でどう書きますか？
+Example2_EN: How do you write this word in simplified Chinese characters?
+Example3: 簡体字と繁体字の違いを勉強しています。
+Example3_EN: I am studying the differences between simplified and traditional characters.
+
+===word: 騎士===
+Nuance: 中世ヨーロッパの騎馬戦士を指す名詞で、転じて「騎士道精神を持った人」や「特定のゲームの職業」も意味します。やや古風で物語的な響きがあります。
+Example1: 騎士は勇敢で誠実であるべきです。
+Example1_EN: A knight should be brave and sincere.
+Example2: 彼はまるで騎士のように紳士的です。
+Example2_EN: He is as gentlemanly as a knight.
+Example3: このゲームでは騎士のレベルを上げています。
+Example3_EN: I am leveling up my knight in this game.
+
+===word: 地域===
+Nuance: 地理的な範囲やエリアを指す名詞で、行政区分や特徴的なエリアを表す際に広く使われます。日常会話からビジネスまで幅広い場面で使用されます。
+Example1: この地域は交通の便がいいです。
+Example1_EN: This area has good transportation access.
+Example2: 地域によって気候が大きく違います。
+Example2_EN: The climate varies greatly by region.
+Example3: 地域のイベントに参加しました。
+Example3_EN: I participated in a local event.
+
+===word: 血まみれ===
+Nuance: 血液で全身が濡れた状態を表す形容動詞的な名詞・ナ形容詞で、主にホラーやアクションの描写で使われます。かなり衝撃的な表現です。
+Example1: 彼は血まみれで病院に運ばれました。
+Example1_EN: He was taken to the hospital covered in blood.
+Example2: 血まみれの服をすぐに洗濯しました。
+Example2_EN: I washed the bloodstained clothes immediately.
+Example3: 映画で血まみれの scene がありました。
+Example3_EN: There was a blood-covered scene in the movie.
+
+===word: 散在===
+Nuance: 物事がまとまっておらず、あちこちに点在している状態を表すサ変動詞・名詞です。やや書き言葉的で、学術的な文章や報告書でよく使われます。
+Example1: 遺跡はこの地域に散在しています。
+Example1_EN: The ruins are scattered throughout this area.
+Example2: データが散在していて分析が大変です。
+Example2_EN: The data is scattered, making analysis difficult.
+Example3: 小さな島々が海に散在しています。
+Example3_EN: Small islands are scattered across the sea.
+
+===word: 挟み撃ち===
+Nuance: 敵や対象を両側から攻撃する戦術を指す名詞です。実際の戦闘だけでなく、議論や交渉で追い詰められる状況の比喩としても使われます。
+Example1: 挟み撃ちにあって、逃げられませんでした。
+Example1_EN: I was caught in a pincer attack and couldn't escape.
+Example2: 敵を挟み撃ちにする作戦を立てました。
+Example2_EN: We planned a strategy to attack the enemy from both sides.
+Example3: 質問の挟み撃ちで答えに困りました。
+Example3_EN: I was troubled by the pincer of questions from both sides.
+
+===word: 悩み===
+Nuance: 心配や迷いなど、心を悩ませる問題や感情を指す名詞です。非常に日常的な表現で、相談やカウンセリングの場面でもよく使われます。
+Example1: 今の悩みを聞いてもらえますか？
+Example1_EN: Can you listen to my current worries?
+Example2: 彼女は仕事の悩みで眠れないそうです。
+Example2_EN: She says she can't sleep because of work worries.
+Example3: 悩みがあるときは友達に相談します。
+Example3_EN: When I have worries, I consult with my friends.
+
+===word: 誓う===
+Nuance: 神や人に対して真実や決意を固く約束することを表す動詞です。結婚式や宣誓式など、フォーマルで重みのある場面で使われることが多いです。
+Example1: 私は最後までやり遂げると誓います。
+Example1_EN: I swear I will see it through to the end.
+Example2: 二人は永遠の愛を誓いました。
+Example2_EN: The two pledged eternal love.
+Example3: 彼は絶対に秘密を守ると誓いました。
+Example3_EN: He swore to absolutely keep the secret.
+
+===word: 表面===
+Nuance: 物の外側の面や、見た目・うわべを指す名詞です。物理的な表面から、比喩的な「表面的な理解」まで幅広く使われます。
+Example1: このテーブルの表面はとても滑らかです。
+Example1_EN: The surface of this table is very smooth.
+Example2: 表面だけ見て判断しないほうがいいです。
+Example2_EN: You shouldn't judge based only on the surface.
+Example3: 問題の表面しか見えていないかもしれません。
+Example3_EN: You may only be seeing the surface of the problem.
+
+===word: 光源===
+Nuance: 光を発する源を指す名詞で、物理学やグラフィックス、写真などの専門分野でよく使われます。日常会話では「明かり」のほうが一般的です。
+Example1: この部屋の光源は窓だけです。
+Example1_EN: The only light source in this room is the window.
+Example2: 写真を撮るときは光源の位置に注意します。
+Example2_EN: When taking photos, I pay attention to the light source position.
+Example3: 自然光は一番美しい光源です。
+Example3_EN: Natural light is the most beautiful light source.
+
+===word: 生理的===
+Nuance: 生物の体の機能や反応に関することを表すナ形容詞です。医学や生物学の文脈で使われるほか、感覚や反応が自然で本能的であることを表すこともあります。
+Example1: 生理的な欲求は我慢できないことがあります。
+Example1_EN: Sometimes physiological needs cannot be suppressed.
+Example2: これは生理的な反応なので仕方ありません。
+Example2_EN: This is a physiological reaction, so it can't be helped.
+Example3: 生理的なリズムを整えることが大切です。
+Example3_EN: It is important to regulate your physiological rhythm.
+
+===word: 朝市===
+Nuance: 早朝に開かれる市場を指す名詞で、新鮮な野菜や魚介類が売られることが多いです。観光地の名物としても人気があります。
+Example1: 朝市に行って新鮮な野菜を買いました。
+Example1_EN: I went to the morning market and bought fresh vegetables.
+Example2: この町の朝市は朝五時から始まります。
+Example2_EN: The morning market in this town starts at five AM.
+Example3: 朝市は地元の人でとても賑わっています。
+Example3_EN: The morning market is very lively with local people.
+
+===word: 受験する===
+Nuance: 学校や資格などの試験を受けることを表すサ変動詞です。日本では特に高校や大学の入学試験を指すことが多く、人生の大きなイベントとして重要視されます。
+Example1: 来年、大学を受験する予定です。
+Example1_EN: I plan to take university entrance exams next year.
+Example2: 彼女は国立大学を受験しました。
+Example2_EN: She took the exam for a national university.
+Example3: 受験する前にしっかり準備をします。
+Example3_EN: I will prepare thoroughly before taking the exam.
+
+===word: 仕上げ===
+Nuance: 物事を完成させる最後の作業や工程を指す名詞です。料理、工芸、仕事など、さまざまな分野で使われる日常的な表現です。
+Example1: このケーキの仕上げにクリームを塗ります。
+Example1_EN: I will put cream on as the finishing touch for this cake.
+Example2: 仕上げはとても丁寧に行いました。
+Example2_EN: I did the finishing work very carefully.
+Example3: あと少しで仕上げが終わります。
+Example3_EN: I will finish the final touches soon.
+
+===word: 浮気相手===
+Nuance: 恋人や配偶者がいるにもかかわらず、関係を持っている相手を指す名詞です。ネガティブなニュアンスが強く、不倫や裏切りを連想させます。
+Example1: 彼女は彼の浮気相手だとわかりました。
+Example1_EN: I found out she is the woman he's been cheating with.
+Example2: 浮気相手とはもう会わないと約束しました。
+Example2_EN: He promised not to see the other woman anymore.
+Example3: 浮気相手にまで優しくする必要はありません。
+Example3_EN: You don't need to be kind to the person he's cheating with.
+
+===word: 前科===
+Nuance: 過去に犯罪を犯して刑罰を受けた記録を指す名詞です。法律用語ですが、日常会話でも比喩的に「前科がある」という形で使われることがあります。
+Example1: 彼には前科があると聞きました。
+Example1_EN: I heard he has a criminal record.
+Example2: 前科があると就職が難しい場合があります。
+Example2_EN: Having a criminal record can make finding a job difficult.
+Example3: この店は食品衛生法違反の前科があります。
+Example3_EN: This store has a prior record of violating food sanitation laws.
+
+===word: 独学===
+Nuance: 学校などに通わず、自分一人で学ぶことを指す名詞・サ変動詞です。近年はオンラインリソースの充実により、独学でスキルを身につける人が増えています。
+Example1: 私は日本語を独学で勉強しました。
+Example1_EN: I studied Japanese by myself.
+Example2: 独学だとモチベーションを保つのが難しいです。
+Example2_EN: It's hard to stay motivated when studying on your own.
+Example3: 彼は独学でプログラミングをマスターしました。
+Example3_EN: He mastered programming through self-study.
+
+===word: 病弱な===
+Nuance: 体が弱く、病気になりやすい状態を表すナ形容詞です。子供や高齢者について使われることが多く、相手を気遣うニュアンスがあります。
+Example1: 彼女は子供の頃、病弱でした。
+Example1_EN: She was sickly when she was a child.
+Example2: 病弱な体質なので、健康に気をつけています。
+Example2_EN: I have a weak constitution, so I take care of my health.
+Example3: 病弱な犬の世話を毎日しています。
+Example3_EN: I take care of my sickly dog every day.
+
+===word: 天気図===
+Nuance: 気圧配置や天気の状況を地図上に示した図を指す名詞です。天気予報のニュースなどでよく見かける、気象分野の基本的な用語です。
+Example1: 天気図を見ると、明日は雨のようです。
+Example1_EN: Looking at the weather map, it seems like rain tomorrow.
+Example2: 天気図の書き方を学校で習いました。
+Example2_EN: I learned how to draw a weather map at school.
+Example3: この天気図では台風の進路が予測できます。
+Example3_EN: With this weather map, you can predict the typhoon's path.
+
+===word: 見当===
+Nuance: おおよその見積もりや予想、目星を指す名詞です。「見当がつく」「見当違い」などの慣用表現でもよく使われます。
+Example1: だいたいの見当はついています。
+Example1_EN: I have a rough idea.
+Example2: 見当がまったく外れてしまいました。
+Example2_EN: My guess was completely off.
+Example3: この仕事にかかる時間の見当をつけてください。
+Example3_EN: Please give me an estimate of the time this work will take.
+
+===word: 派遣社員===
+Nuance: 人材派遣会社に雇用され、他の企業で働く社員を指す名詞です。正社員とは雇用形態や待遇が異なることが多く、日本の労働市場で重要な用語です。
+Example1: 派遣社員として三年間働いています。
+Example1_EN: I have been working as a temporary staff member for three years.
+Example2: 派遣社員の待遇改善が求められています。
+Example2_EN: Improvements in treatment of temporary staff are being demanded.
+Example3: 彼女は派遣社員から正社員になりました。
+Example3_EN: She moved from being a temporary worker to a permanent employee.
+
+===word: 進出===
+Nuance: 新しい分野や地域に進んで出ていくことを表す名詞・サ変動詞です。ビジネスや軍事の文脈でよく使われ、特に企業の海外展開を指すことが多いです。
+Example1: 多くの日本企業が海外に進出しています。
+Example1_EN: Many Japanese companies are expanding overseas.
+Example2: この会社はアジア市場に進出しました。
+Example2_EN: This company entered the Asian market.
+Example3: 新規事業への進出を検討しています。
+Example3_EN: We are considering entering a new business field.
+
+===word: 人種===
+Nuance: 人類を皮膚の色や身体的特徴で分類した集団を指す名詞です。センシティブな話題でもあるため、使用には注意が必要な言葉です。
+Example1: 人種差別は許されない行為です。
+Example1_EN: Racial discrimination is an unacceptable act.
+Example2: この学校には様々な人種の学生がいます。
+Example2_EN: This school has students of various races.
+Example3: 人種に関係なく平等に扱われるべきです。
+Example3_EN: Everyone should be treated equally regardless of race.
+
+===word: 反応===
+Nuance: 刺激や働きかけに対して示す応答や変化を指す名詞・サ変動詞です。化学反応から人の感情的反応まで、非常に幅広い分野で使われます。
+Example1: 彼の冗談にみんなが笑って反応しました。
+Example1_EN: Everyone reacted with laughter to his joke.
+Example2: 新しい商品に対する反応は良好です。
+Example2_EN: The reaction to the new product has been favorable.
+Example3: この薬の副作用としてアレルギー反応が出ることがあります。
+Example3_EN: Allergic reactions may occur as a side effect of this medicine.
+
+===word: 聞き手===
+Nuance: 話を聞く側の人を指す名詞です。会話やスピーチ、インタビューなどの場面で使われ、話し手と対になる概念です。
+Example1: 良い聞き手になることは大切です。
+Example1_EN: Being a good listener is important.
+Example2: 聞き手の反応を見ながら話します。
+Example2_EN: I speak while watching the listener's reaction.
+Example3: 彼女はとても上手な聞き手です。
+Example3_EN: She is a very skilled listener.
+
+===word: 貧乏人===
+Nuance: 貧しくてお金がない人を指す名詞で、やや見下したニュアンスを含むことがあります。直接人に対して使うと失礼になるため注意が必要です。
+Example1: 貧乏人でも幸せに暮らせます。
+Example1_EN: Even poor people can live happily.
+Example2: 彼は貧乏人の子育ては大変だと言いました。
+Example2_EN: He said raising children as a poor person is hard.
+Example3: 貧乏人扱いしないでください。
+Example3_EN: Please don't treat me like a poor person.
+
+===word: 仕事をこなす===
+Nuance: 与えられた仕事を効率よく処理・完了することを表す慣用表現です。単に作業をするだけでなく、熟練や能力の高さを感じさせる言い方です。
+Example1: 彼は仕事をこなすスピードが速いです。
+Example1_EN: He is fast at getting through his work.
+Example2: たくさんの仕事をこなさなければなりません。
+Example2_EN: I have to get through a lot of work.
+Example3: 彼女は難しい仕事も見事にこなします。
+Example3_EN: She handles even difficult work beautifully.
+
+===word: 俳句===
+Nuance: 五・七・五の十七音からなる日本独自の短詩形文学を指す名詞です。季語や切れ字が重要な要素で、世界的にも知られる日本文化の一つです。
+Example1: 俳句を趣味で始めました。
+Example1_EN: I started haiku as a hobby.
+Example2: この俳句は有名な松尾芭蕉の作品です。
+Example2_EN: This haiku is a work by the famous Matsuo Basho.
+Example3: 俳句のコンテストに応募しました。
+Example3_EN: I submitted an entry to a haiku contest.
+
+===word: 付与===
+Nuance: 権利や資格、能力などを公式に与えることを表す名詞・サ変動詞です。ビジネスや行政の文書でよく使われる、ややフォーマルな表現です。
+Example1: このカードにはポイントが付与されます。
+Example1_EN: Points are awarded with this card.
+Example2: 条件を満たした方に資格を付与します。
+Example2_EN: We will grant the qualification to those who meet the conditions.
+Example3: 特別な権限が付与されました。
+Example3_EN: Special authority was granted.
+
+===word: 神対応===
+Nuance: 顧客対応やファンサービスなどが非常に素晴らしいことを賛美する俗語です。インターネットやソーシャルメディアで若者を中心に使われるカジュアルな表現です。
+Example1: あの会社のクレーム対応は神対応でした。
+Example1_EN: That company's complaint handling was incredible.
+Example2: 彼女のファンサービスはまさに神対応です。
+Example2_EN: Her fan service is truly an amazing response.
+Example3: 神対応すぎて感動しました。
+Example3_EN: It was such an incredible response that I was moved.
+
+===word: 家業===
+Nuance: 代々その家で営んでいる仕事や商売を指す名詞です。家族経営の店や伝統工芸など、親から子へ受け継がれる職業を表します。
+Example1: 彼は家業の八百屋を継ぎました。
+Example1_EN: He took over the family vegetable shop.
+Example2: 家業を手伝うために実家に戻りました。
+Example2_EN: I returned to my parents' home to help with the family business.
+Example3: 家業は代々続いている酒造会社です。
+Example3_EN: The family business is a sake brewery that has been passed down for generations.
+
+===word: 当て字===
+Nuance: 漢字の本来の意味とは関係なく、発音だけを借りて当てはめる漢字表記法を指す名詞です。例えば「倶楽部（クラブ）」などが有名です。
+Example1: 当て字は日本語の面白い特徴の一つです。
+Example1_EN: Phonetic kanji usage is one of the interesting features of Japanese.
+Example2: この言葉は当て字で書かれています。
+Example2_EN: This word is written with phonetic kanji.
+Example3: 当て字の例を辞書で調べました。
+Example3_EN: I looked up examples of phonetic kanji in the dictionary.
+
+===word: 返品する===
+Nuance: 購入した商品を店に戻して返金や交換をしてもらうことを表すサ変動詞です。買い物や通販でよく使われる日常的な表現です。
+Example1: サイズが合わなかったので返品しました。
+Example1_EN: I returned it because the size didn't fit.
+Example2: 返品する場合はレシートが必要です。
+Example2_EN: You need a receipt to return an item.
+Example3: この商品は返品できないと書いてあります。
+Example3_EN: It says this item cannot be returned.
+
+===word: 確かめる===
+Nuance: 不確かな点を明らかにするために、実際に見たり聞いたりして確認することを表す動詞です。日常的に非常に頻繁に使われる重要な動詞です。
+Example1: もう一度、鍵を確かめました。
+Example1_EN: I checked the lock one more time.
+Example2: 答えを確かめるために先生に聞きました。
+Example2_EN: I asked the teacher to check the answer.
+Example3: 約束の時間を確かめたいです。
+Example3_EN: I want to confirm the appointment time.
+
+===word: 愛す===
+Nuance: 愛情や愛着を感じることを表す動詞で、「愛する」よりもやや古風・文語的な響きがあります。歌詞や文学作品でよく使われます。
+Example1: 私はこの町を愛しています。
+Example1_EN: I love this town.
+Example2: 彼は家族を深く愛しています。
+Example2_EN: He deeply loves his family.
+Example3: 自然を愛する人々が集まりました。
+Example3_EN: People who love nature gathered together.
+
+===word: 静的===
+Nuance: 動きや変化がなく、静止している状態を表すナ形容詞です。物理学やコンピュータプログラミングの分野で特によく使われる専門用語です。
+Example1: この変数は静的な値を持っています。
+Example1_EN: This variable has a static value.
+Example2: 静的な分析と動的な分析の違いを説明します。
+Example2_EN: I will explain the difference between static and dynamic analysis.
+Example3: 静的なページは内容が変わりません。
+Example3_EN: Static pages do not change their content.
+
+===word: 世間知らず===
+Nuance: 社会の常識や現実をよく知らない人を指す名詞・ナ形容詞です。やや批判的なニュアンスがあり、相手を未熟だと評価するときに使われます。
+Example1: 彼はまだ世間知らずの若者です。
+Example1_EN: He is still a young man naive about the world.
+Example2: 世間知らずだとよく言われます。
+Example2_EN: I am often told I'm naive about the world.
+Example3: 世間知らずのまま大人になってはいけません。
+Example3_EN: You shouldn't become an adult while still ignorant of the world.
+
+===word: 史上===
+Nuance: 記録された歴史の中で、という意味を表す名詞です。多くの場合「史上初」「史上最高」のように他の言葉と組み合わせて使われます。
+Example1: これは史上最高の映画だと思います。
+Example1_EN: I think this is the greatest movie in history.
+Example2: 史上初の快挙を達成しました。
+Example2_EN: They achieved a feat unprecedented in history.
+Example3: 史上最も暑い夏になりました。
+Example3_EN: It became the hottest summer in history.
+
+===word: 満足する===
+Nuance: 欲求や期待が十分に満たされて、心が足りている状態を表すサ変動詞です。肯定的な場面でも、改善が必要な場面でも使われる日常的な表現です。
+Example1: このサービスに大変満足しています。
+Example1_EN: I am very satisfied with this service.
+Example2: お客様に満足していただけるよう努力します。
+Example2_EN: I will strive to ensure customer satisfaction.
+Example3: 結果に満足できませんでした。
+Example3_EN: I was not satisfied with the results.
+
+===word: 暗号化===
+Nuance: データを第三者に読めないように変換することを表す名詞・サ変動詞です。情報セキュリティや情報技術の分野で非常に重要な概念です。
+Example1: このファイルは暗号化されています。
+Example1_EN: This file is encrypted.
+Example2: パスワードは暗号化して保存します。
+Example2_EN: Passwords are stored encrypted.
+Example3: 通信はすべて暗号化する必要があります。
+Example3_EN: All communications must be encrypted.
+
+===word: 肩書===
+Nuance: 社会での地位や役職、資格などを表す名称を指す名詞です。名刺交換や紹介の場面でよく使われるほか、肩書にこだわる人を批判する際にも使われます。
+Example1: 彼の肩書は教授です。
+Example1_EN: His title is professor.
+Example2: 肩書より中身が大切だと思います。
+Example2_EN: I think the substance is more important than the title.
+Example3: 立派な肩書を持っていますね。
+Example3_EN: You have an impressive title, don't you.
+
+===word: 潜る===
+Nuance: 水の中や物の下などに入ることを表す動詞です。水中に潜る物理的な意味から、比喩的に「眠りに潜る」「地下に潜る」など幅広く使われます。
+Example1: 海に潜って魚を見ました。
+Example1_EN: I dove into the sea and saw fish.
+Example2: 彼は布団に潜って寝ました。
+Example2_EN: He burrowed under the futon and slept.
+Example3: このトンネルは山の下を潜っています。
+Example3_EN: This tunnel runs under the mountain.
+
+===word: 駆け下りる===
+Nuance: 高いところから低いところへ走って下ることを表す動詞です。階段や坂道などで使われる、具体的な動作を表す表現です。
+Example1: 彼は階段を駆け下りました。
+Example1_EN: He ran down the stairs.
+Example2: 子供たちが坂道を駆け下りています。
+Example2_EN: The children are running down the slope.
+Example3: 急いで駅の階段を駆け下りました。
+Example3_EN: I hurriedly ran down the station stairs.
+
+===word: 主張===
+Nuance: 自分の意見や考えを強く述べることを表す名詞・サ変動詞です。議論や討論の場でよく使われ、確固たる意思や信念を感じさせる表現です。
+Example1: 彼は自分の意見を強く主張しました。
+Example1_EN: He strongly asserted his opinion.
+Example2: 彼女の主張は十分に理解できます。
+Example2_EN: I can fully understand her argument.
+Example3: 自分の権利を主張することが大切です。
+Example3_EN: It is important to assert your own rights.
+
+===word: 明暗===
+Nuance: 明るいことと暗いこと、または物事の良い面と悪い面を対比的に表す名詞です。比喩的にも使われ、写真や文学の分野でも重要な概念です。
+Example1: 人生には明暗があります。
+Example1_EN: Life has its ups and downs.
+Example2: この写真の明暗のコントラストが美しいです。
+Example2_EN: The contrast of light and shadow in this photo is beautiful.
+Example3: 明暗をはっきりつける必要があります。
+Example3_EN: We need to draw a clear line between right and wrong.
+
+===word: 目撃する===
+Nuance: 実際に現場で出来事を自分の目で見ることを表すサ変動詞です。事件や事故、珍しい光景などについて話すときに使われます。
+Example1: 私は交通事故を目撃しました。
+Example1_EN: I witnessed a traffic accident.
+Example2: 彼女がその場面を目撃したそうです。
+Example2_EN: I heard she witnessed that scene.
+Example3: 何か怪しいものを目撃しましたか？
+Example3_EN: Did you witness anything suspicious?
+
+===word: 陰鬱===
+Nuance: 気分や天気などが暗く沈んでいて、憂鬱な様子を表す名詞・ナ形容詞です。空模様や雰囲気、人の気持ちについて使われることが多いです。
+Example1: 今日は陰鬱な天気ですね。
+Example1_EN: The weather is gloomy today, isn't it.
+Example2: 彼は陰鬱な表情をしていました。
+Example2_EN: He had a gloomy expression on his face.
+Example3: この部屋の雰囲気は陰鬱で落ち着きません。
+Example3_EN: The atmosphere of this room is gloomy and unsettling.
+
+===word: 待合室===
+Nuance: 病院や駅、役所などで順番を待つための部屋を指す名詞です。日常的に使われる施設の名称で、椅子や掲示板などが備えられていることが一般的です。
+Example1: 待合室で名前を呼ばれるのを待っています。
+Example1_EN: I am waiting in the waiting room to be called.
+Example2: この病院の待合室はとても広いです。
+Example2_EN: This hospital's waiting room is very spacious.
+Example3: 待合室にたくさんの人がいました。
+Example3_EN: There were many people in the waiting room.
+
+===word: 天職===
+Nuance: 自分に最も適していて、喜びを感じながらできる仕事を指す名詞です。運命的な職業というニュアンスがあり、強い肯定感を伴います。
+Example1: 教師は私の天職だと思います。
+Example1_EN: I think teaching is my calling.
+Example2: 彼は天職を見つけることができました。
+Example2_EN: He was able to find his vocation.
+Example3: この仕事はまさに天職ですね。
+Example3_EN: This job is truly a calling, isn't it.
+
+===word: 見張り台===
+Nuance: 周囲を監視するために高い場所に設置された台や施設を指す名詞です。刑務所やキャンプ、軍事施設などで使われます。
+Example1: 見張り台から周囲を確認しました。
+Example1_EN: I checked the surroundings from the lookout.
+Example2: 山頂に見張り台が設置されています。
+Example2_EN: A lookout platform has been installed at the mountain summit.
+Example3: 見張り台に立っている人に手を振りました。
+Example3_EN: I waved to the person standing at the lookout.
+
+===word: 鳴き声===
+Nuance: 動物や鳥などが出す声を指す名詞です。犬や猫、鳥など種類によって様々な鳴き声があり、オノマトペで表現されることも多いです。
+Example1: 鳥の鳴き声で目が覚めました。
+Example1_EN: I woke up to the chirping of birds.
+Example2: 夜中に変な鳴き声が聞こえました。
+Example2_EN: I heard a strange cry in the middle of the night.
+Example3: 猫の鳴き声が庭から聞こえます。
+Example3_EN: I can hear a cat's meow from the garden.
+
+===word: 説得する===
+Nuance: 相手にわかってもらえるように、論理的に話して納得させることを表すサ変動詞です。無理やりではなく、理解を促すプロセスを強調します。
+Example1: 彼を説得するのに時間がかかりました。
+Example1_EN: It took time to persuade him.
+Example2: 両親を説得して留学に行くことにしました。
+Example2_EN: I persuaded my parents and decided to study abroad.
+Example3: 説得するのは難しいですが、頑張ります。
+Example3_EN: It's difficult to persuade them, but I will do my best.
+
+===word: 谷間===
+Nuance: 山と山の間の低くなった地形を指す名詞です。実際の地理的な谷だけでなく、比喩的に「世代間の谷間」などの表現でも使われます。
+Example1: この谷間には美しい川が流れています。
+Example1_EN: A beautiful river flows through this valley.
+Example2: 谷間の村はとても静かでした。
+Example2_EN: The village in the valley was very quiet.
+Example3: 両方の山の谷間を歩いてきました。
+Example3_EN: I walked through the valley between the two mountains.
+
+===word: 明け方===
+Nuance: 夜が明け始める時間帯、夜明け前後の時刻を指す名詞です。早朝よりもさらに早い、空が明るくなり始める微妙な時間を表します。
+Example1: 明け方に目が覚めてしまいました。
+Example1_EN: I woke up at dawn.
+Example2: 明け方の空はとても美しいです。
+Example2_EN: The sky at dawn is very beautiful.
+Example3: 明け方まで友達と話し続けました。
+Example3_EN: I kept talking with my friend until dawn.
+
+===word: 現れる===
+Nuance: 今まで見えなかったものが見えるようになる、または姿を表すことを表す動詞です。人や物、現象など、様々なものが主語になります。
+Example1: 雲の間から太陽が現れました。
+Example1_EN: The sun appeared from between the clouds.
+Example2: 彼は約束の時間に現れませんでした。
+Example2_EN: He didn't show up at the appointed time.
+Example3: 新しい問題が現れました。
+Example3_EN: A new problem has appeared.
+
+===word: 過ぎ去った===
+Nuance: 時間が経過して、もう過去のものになったことを表す動詞の連体形です。後悔や懐かしさのニュアンスを伴うことが多いです。
+Example1: 過ぎ去った時間は戻ってきません。
+Example1_EN: The time that has passed will not come back.
+Example2: 過ぎ去った日々を懐かしく思います。
+Example2_EN: I look back fondly on the days that have passed.
+Example3: あの出来事はもう過ぎ去ったことです。
+Example3_EN: That incident is already in the past.
+
+===word: 無関心===
+Nuance: 物事に対して関心や興味を持たないことを表す名詞・ナ形容詞です。社会的な問題や他人のことに対して使われることが多いです。
+Example1: 彼は政治に無関心です。
+Example1_EN: He is indifferent to politics.
+Example2: 無関心な態度は周りに悪影響を与えます。
+Example2_EN: An indifferent attitude negatively affects those around you.
+Example3: 環境問題に無関心ではいられません。
+Example3_EN: I cannot remain indifferent to environmental issues.
+
+===word: 死す===
+Nuance: 死ぬことを意味する文語的な動詞で、現代の日常会話ではほとんど使われません。書物や格言、碑文などで見られる格式のある表現です。
+Example1: 彼は名声を得ることなく死しました。
+Example1_EN: He died without gaining fame.
+Example2: 英雄は勇敢に戦って死しました。
+Example2_EN: The hero fought bravely and died.
+Example3: 若くして死すのは残念なことです。
+Example3_EN: It is a pity to die young.
+
+===word: 解雇===
+Nuance: 雇用主が従業員を一方的に仕事から辞めさせることを指す名詞・サ変動詞です。雇用に関する重要な法律用語であり、ネガティブなニュアンスが強いです。
+Example1: 彼は会社を解雇されました。
+Example1_EN: He was dismissed from the company.
+Example2: 解雇の理由を説明してもらえますか？
+Example2_EN: Can you explain the reason for the dismissal?
+Example3: 不当解雇だと訴えることができます。
+Example3_EN: You can file a claim for wrongful dismissal.
+
+===word: ミイラ===
+Nuance: 古代エジプトなどで防腐処理された死体を指す名詞です。ホラー映画や博物館の展示などでよく知られており、比喩的に「痩せ細った人」を指すこともあります。
+Example1: 博物館でミイラの展示を見ました。
+Example1_EN: I saw a mummy exhibition at the museum.
+Example2: ミイラはエジプトの遺跡で発見されました。
+Example2_EN: The mummy was discovered in an Egyptian ruin.
+Example3: ミイラの写真を見るのが怖いです。
+Example3_EN: I'm scared to look at pictures of mummies.
+
+===word: 募集===
+Nuance: 人や物を広く集めることを表す名詞・サ変動詞です。従業員の採用やイベントの参加者集め、寄付の呼びかけなど幅広い場面で使われます。
+Example1: 新しい社員を募集しています。
+Example1_EN: We are recruiting new employees.
+Example2: このイベントの参加者を募集します。
+Example2_EN: We are recruiting participants for this event.
+Example3: 募集は今月末までです。
+Example3_EN: The recruitment period is until the end of this month.
+
+===word: 入門===
+Nuance: ある学問や技術、趣味などを初めて学び始めることを指す名詞・サ変動詞です。初心者向けの本やコースのタイトルとしてもよく使われます。
+Example1: 日本語入門のクラスを取っています。
+Example1_EN: I am taking a Japanese introductory class.
+Example2: この本はプログラミング入門に最適です。
+Example2_EN: This book is perfect for an introduction to programming.
+Example3: 茶道に入門して一年になります。
+Example3_EN: It's been a year since I started learning the tea ceremony.
+
+===word: 北半球===
+Nuance: 地球を赤道で南北に分けたときの北側半分を指す名詞です。地理や気象の分野で使われる基本的な用語です。
+Example1: 日本は北半球にあります。
+Example1_EN: Japan is located in the northern hemisphere.
+Example2: 北半球と南半球では季節が反対です。
+Example2_EN: The seasons are opposite in the northern and southern hemispheres.
+Example3: 北半球では夏に昼が長くなります。
+Example3_EN: In the northern hemisphere, days become longer in summer.
+
+===word: 男子校===
+Nuance: 男子だけが通う学校を指す名詞です。日本では中高一貫の男子校が多く、教育方針や校風に特色があることが多いです。
+Example1: 彼は男子校に通っています。
+Example1_EN: He goes to an all-boys school.
+Example2: 男子校と共学の違いについて話しました。
+Example2_EN: We talked about the differences between boys' schools and co-ed schools.
+Example3: 男子校出身者はクラスメートと仲がいいです。
+Example3_EN: Graduates of boys' schools tend to be close with their classmates.
+
+===word: 鳥肌が立つ===
+Nuance: 寒さや恐怖、感動などで皮膚に小さな突起ができる現象を表す慣用表現です。物理的な現象から、比喩的に強い感情を表すのにも使われます。
+Example1: その話を聞いて鳥肌が立ちました。
+Example1_EN: I got goosebumps hearing that story.
+Example2: 寒すぎて鳥肌が立っています。
+Example2_EN: It's so cold that I have goosebumps.
+Example3: 感動的なシーンで鳥肌が立ちました。
+Example3_EN: I got goosebumps at the moving scene.
+
+===word: 使い果たす===
+Nuance: お金や資源などを残らず使い切ってしまうことを表す動詞です。使い切った結果、もう何も残っていない状態を強調します。
+Example1: 給料を全部使い果たしてしまいました。
+Example1_EN: I used up all my salary.
+Example2: エネルギーを使い果たして動けません。
+Example2_EN: I've used up all my energy and can't move.
+Example3: 貯金を使い果たす前に次の収入が必要です。
+Example3_EN: I need the next income before I use up all my savings.
+
+===word: 日程表===
+Nuance: 予定やスケジュールを一覧にまとめた表や書類を指す名詞です。旅行や会議、イベントなどの計画を管理するために使われます。
+Example1: 旅行の日程表を作成しました。
+Example1_EN: I made a travel itinerary.
+Example2: 日程表に沿って行動します。
+Example2_EN: I will act according to the schedule.
+Example3: 日程表を見ながら予定を確認してください。
+Example3_EN: Please check the schedule while looking at the itinerary.

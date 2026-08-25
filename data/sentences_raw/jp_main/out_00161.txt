@@ -1,0 +1,728 @@
+===word: 語り継ぐ===
+Nuance: 物語や経験などを後世に伝えていく意味の動詞です。世代を超えて口承や文書で受け継ぐニュアンスがあります。
+Example1: この伝説は村の人々によって語り継がれています。
+Example1_EN: This legend has been passed down by the villagers.
+Example2: 先祖の教えを子孫に語り継ぐことが大切だと思います。
+Example2_EN: I believe it is important to pass down ancestral teachings to descendants.
+Example3: この物語は何世代にもわたって語り継がれてきました。
+Example3_EN: This story has been handed down for many generations.
+
+===word: 流し===
+Nuance: 台所のシンクを指す言葉で、特に調理場の流し台のことを言います。日常会話でよく使われます。
+Example1: 流しで野菜を洗ってください。
+Example1_EN: Please wash the vegetables in the sink.
+Example2: 流しの排水口が詰まってしまいました。
+Example2_EN: The sink drain has gotten clogged.
+Example3: この流しはステンレス製で掃除がしやすいです。
+Example3_EN: This sink is made of stainless steel and easy to clean.
+
+===word: 容積===
+Nuance: 立体の内部の空間の大きさを表す言葉です。数学や物理、物流の分野でよく使われます。
+Example1: この箱の容積を計算してください。
+Example1_EN: Please calculate the volume of this box.
+Example2: 荷物の容積が大きすぎて運べませんでした。
+Example2_EN: The luggage was too voluminous to carry.
+Example3: タンクの容積は五百リットルです。
+Example3_EN: The capacity of the tank is five hundred liters.
+
+===word: 検察側===
+Nuance: 裁判において被告人を訴追する側、つまり検察官の立場を指します。主に法廷やニュースで使われる法律用語です。
+Example1: 検察側は十年の懲役を求刑しました。
+Example1_EN: The prosecution has demanded a ten-year prison sentence.
+Example2: 検察側の主張は十分な証拠に基づいています。
+Example2_EN: The prosecution's argument is based on sufficient evidence.
+Example3: 裁判で検察側と弁護側が激しく対立しました。
+Example3_EN: In the trial, the prosecution and the defense were in fierce opposition.
+
+===word: 声優===
+Nuance: アニメや外国映画の吹き替えなどで声の演技をする職業を指します。日本では特にアニメ文化と結びついた人気のある職業です。
+Example1: 彼女は有名な声優として多くのアニメに出演しています。
+Example1_EN: She appears in many anime as a famous voice actress.
+Example2: 声優の仕事は演技力だけでなく声の表現力が重要です。
+Example2_EN: In voice acting work, not only acting skills but vocal expression is important.
+Example3: このゲームでは豪華な声優陣が起用されました。
+Example3_EN: A luxurious cast of voice actors was hired for this game.
+
+===word: 彩度===
+Nuance: 色の鮮やかさの度合いを表す言葉で、写真やデザイン、美術の分野で使われます。高いほど鮮やかになります。
+Example1: この写真は彩度が高すぎて不自然に見えます。
+Example1_EN: This photo looks unnatural because the saturation is too high.
+Example2: 彩度を調整すると画像の印象が大きく変わります。
+Example2_EN: Adjusting the saturation greatly changes the impression of the image.
+Example3: 彩度の低い色は落ち着いた雰囲気を与えます。
+Example3_EN: Colors with low saturation give a calm atmosphere.
+
+===word: 座標===
+Nuance: 平面上や空間上の位置を数字の組み合わせで表したものです。数学や地理、プログラミングで広く使われます。
+Example1: 地図上の座標を入力して目的地を設定してください。
+Example1_EN: Please enter the coordinates on the map to set the destination.
+Example2: この点の座標は（三、五）です。
+Example2_EN: The coordinates of this point are (3, 5).
+Example3: 三次元座標を使えば物体の位置を正確に表せます。
+Example3_EN: Using three-dimensional coordinates, you can accurately represent the position of an object.
+
+===word: 清掃車===
+Nuance: ゴミを収集して運搬するための車両を指します。一般的には「ゴミ収集車」のほうが会話ではよく使われます。
+Example1: 毎週火曜日に清掃車が来ます。
+Example1_EN: The garbage truck comes every Tuesday.
+Example2: 清掃車の音で目が覚めてしまいました。
+Example2_EN: I woke up because of the sound of the garbage truck.
+Example3: 新しい清掃車は燃費が良くて環境に優しいです。
+Example3_EN: The new garbage truck is fuel-efficient and environmentally friendly.
+
+===word: 口笛を吹く===
+Nuance: 唇をすぼめて息を出し、メロディーや音を出す行為を指します。注意を引くためや楽しみのために行います。
+Example1: 彼はいつも鼻歌交じりに口笛を吹いています。
+Example1_EN: He is always whistling along with his humming.
+Example2: 口笛を吹くと気分が良くなると言われています。
+Example2_EN: It is said that whistling makes you feel better.
+Example3: 静かな図書館で口笛を吹くのはやめてください。
+Example3_EN: Please stop whistling in the quiet library.
+
+===word: 倍返し===
+Nuance: 受けたものの二倍を返すことを意味します。贈り物や仕返しなどの文脈で使われ、ドラマの影響で広く知られるようになりました。
+Example1: ご親切に対して倍返しをしたい気持ちです。
+Example1_EN: I feel like returning double for your kindness.
+Example2: 恩返しは倍返しでするのが私の流儀です。
+Example2_EN: My way is to return favors twofold.
+Example3: 誕生日プレゼントは倍返しするつもりです。
+Example3_EN: I intend to give back double for the birthday present.
+
+===word: 円形===
+Nuance: 丸い形をしたものや形状そのものを指します。数学やデザイン、日常会話で幅広く使われます。
+Example1: このテーブルは円形で、全員の顔が見やすいです。
+Example1_EN: This table is round, making it easy to see everyone's faces.
+Example2: 円形の模様を紙に描いてください。
+Example2_EN: Please draw a circular pattern on the paper.
+Example3: 広場の中央に円形の噴水があります。
+Example3_EN: There is a circular fountain in the center of the plaza.
+
+===word: 静まる===
+Nuance: 音や騒ぎが収まって穏やかになることを表す自動詞です。感情や状況が落ち着く意味でも使われます。
+Example1: 先生が入ってくると教室が静まりました。
+Example1_EN: The classroom quieted down when the teacher entered.
+Example2: 嵐が静まるまでここで待ちましょう。
+Example2_EN: Let's wait here until the storm calms down.
+Example3: 彼の怒りが静まるのに時間がかかりました。
+Example3_EN: It took a long time for his anger to subside.
+
+===word: 闘犬===
+Nuance: 犬同士を戦わせる行為、またはそのために飼育されている犬を指します。動物虐待の観点から問題視されることも多い言葉です。
+Example1: 闘犬は多くの国で禁止されています。
+Example1_EN: Dog fighting is banned in many countries.
+Example2: あの犬はかつて闘犬として使われていたそうです。
+Example2_EN: I hear that dog was once used as a fighting dog.
+Example3: 闘犬のニュースを見てとても悲しくなりました。
+Example3_EN: I felt very sad when I saw the news about dog fighting.
+
+===word: 継承===
+Nuance: 先代から地位や財産、伝統などを受け継ぐことを指します。会話よりは公式な文書やスピーチで使われることが多いです。
+Example1: 彼が会長の地位を継承しました。
+Example1_EN: He inherited the position of chairman.
+Example2: 伝統文化を次世代に継承することが重要だと思います。
+Example2_EN: I think it is important to pass on traditional culture to the next generation.
+Example3: この会社は三代にわたって家族経営を継承しています。
+Example3_EN: This company has maintained family management for three generations.
+
+===word: 好意的===
+Nuance: 相手に対して良い印象や態度を持っている様子を表す形容動詞です。友好的で前向きな姿勢を示します。
+Example1: 彼女は私の提案に好意的な反応を示しました。
+Example1_EN: She showed a favorable response to my proposal.
+Example2: 面接官はとても好意的な態度で接してくださいました。
+Example2_EN: The interviewer treated me with a very favorable attitude.
+Example3: 新しい計画に対して社員は好意的でした。
+Example3_EN: The employees were favorable toward the new plan.
+
+===word: 首飾り===
+Nuance: 首に飾るアクセサリーの総称で、ネックレスとも言います。真珠や宝石を使ったものから安価なものまで幅広くあります。
+Example1: 祖母から素敵な首飾りを譲り受けました。
+Example1_EN: I received a lovely necklace from my grandmother.
+Example2: その首飾りはダイヤモンドが使われています。
+Example2_EN: That necklace uses diamonds.
+Example3: 結婚式に真珠の首飾りを着けていきました。
+Example3_EN: I wore a pearl necklace to the wedding.
+
+===word: 期待===
+Nuance: 物事が望ましい結果になることを予想して待ち望む気持ちを表します。良い方向への予測や希望を含みます。
+Example1: 新しいプロジェクトに大きな期待をしています。
+Example1_EN: I have high expectations for the new project.
+Example2: 彼の才能にはとても期待しています。
+Example2_EN: I have great expectations for his talent.
+Example3: 期待に応えられるように一生懸命頑張ります。
+Example3_EN: I will work hard to live up to your expectations.
+
+===word: 逆輸入車===
+Nuance: 一度輸出された車両が再び国内に持ち込まれたものを指します。特に大型のバイクでよく使われる言葉です。
+Example1: このバイクは逆輸入車で、日本では珍しいモデルです。
+Example1_EN: This motorcycle is a reverse-imported vehicle, a rare model in Japan.
+Example2: 逆輸入車は部品の調達が難しい場合があります。
+Example2_EN: It can be difficult to source parts for reverse-imported vehicles.
+Example3: 逆輸入車を購入する前に整備状況をよく確認してください。
+Example3_EN: Please check the maintenance condition carefully before purchasing a reverse-imported vehicle.
+
+===word: 気構え===
+Nuance: 物事に臨む際の心の準備や態度を意味します。精神的な覚悟や構えのことを指し、フォーマルな場面で使われます。
+Example1: 面接に向けて気構えをしっかり整えました。
+Example1_EN: I thoroughly prepared my mindset for the interview.
+Example2: 大事な試合なので気構えが違います。
+Example2_EN: It's an important match, so my mental preparation is different.
+Example3: 彼の気構えは初心者とは思えないほど立派でした。
+Example3_EN: His attitude was so admirable that you wouldn't think he was a beginner.
+
+===word: 長々===
+Nuance: 時間的または物理的に長く続く様子を表す副詞です。好ましくないほど長い場合に使われることが多いです。
+Example1: 会議が長々と続いて疲れてしまいました。
+Example1_EN: The meeting dragged on and on, and I got tired.
+Example2: 長々とお話ししてすみませんでした。
+Example2_EN: I'm sorry for talking for so long.
+Example3: 挨拶を長々とするのは避けたほうがいいです。
+Example3_EN: It's better to avoid making a long-winded speech.
+
+===word: 無生物===
+Nuance: 生きていないもの、生命のない物体を指します。文学や文法の説明などで使われることが多いです。
+Example1: 日本語では無生物を主語にした文もあります。
+Example1_EN: In Japanese, there are also sentences with inanimate objects as subjects.
+Example2: この部屋には無生物しかありません。
+Example2_EN: There are only inanimate objects in this room.
+Example3: 無生物の描写だけでも小説は成り立ちます。
+Example3_EN: A novel can be written with descriptions of inanimate objects alone.
+
+===word: 飛び跳ねる===
+Nuance: 勢いよく上下に跳ねる動作を指します。喜びや驚き、興奮の表現として使われることが多いです。
+Example1: 子供たちは嬉しそうに飛び跳ねています。
+Example1_EN: The children are jumping up and down happily.
+Example2: 驚いたあまり飛び跳ねてしまいました。
+Example2_EN: I was so surprised that I jumped.
+Example3: ウサギは庭の中を飛び跳ねていました。
+Example3_EN: The rabbit was hopping around in the garden.
+
+===word: 熟睡===
+Nuance: ぐっすりと深く眠ることを指します。目覚めが悪くなるほど深い睡眠の状態を表します。
+Example1: 昨夜は熟睡できてとても気分がいいです。
+Example1_EN: I slept soundly last night and feel great.
+Example2: 疲れていたので十二時間も熟睡しました。
+Example2_EN: I was so tired that I slept soundly for twelve hours.
+Example3: 熟睡するためには寝る前のスマホを控えたほうがいいです。
+Example3_EN: To sleep soundly, it's better to avoid using your phone before bed.
+
+===word: 猫に引っかかれる===
+Nuance: 猫の爪で皮膚を傷つけられることを意味します。経験を表す受身形の表現です。
+Example1: 昨日、猫に引っかかれて病院に行きました。
+Example1_EN: Yesterday I was scratched by a cat and went to the hospital.
+Example2: 野良猫に引っかかれないように気をつけてください。
+Example2_EN: Please be careful not to get scratched by a stray cat.
+Example3: 子供が猫に引っかかれて泣いていました。
+Example3_EN: The child was crying after being scratched by a cat.
+
+===word: 批評===
+Nuance: 物事の良し悪しを分析して評価や意見を述べることを指します。芸術作品や商品などに対して使われます。
+Example1: この映画は批評家から高い評価を受けています。
+Example1_EN: This movie has received high praise from critics.
+Example2: 彼の小説に対する批評はとても厳しかったです。
+Example2_EN: The criticism of his novel was very harsh.
+Example3: 作品を批評するときは客観的な視点が大切です。
+Example3_EN: When critiquing a work, an objective perspective is important.
+
+===word: 激安===
+Nuance: 通常より非常に安い価格を意味する言葉で、広告や販売促進でよく使われます。カジュアルな印象があります。
+Example1: この店では激安セールをやっています。
+Example1_EN: This store is having a dirt-cheap sale.
+Example2: 激安の旅行プランを見つけました。
+Example2_EN: I found a super cheap travel package.
+Example3: 激安すぎて品質が心配になります。
+Example3_EN: It's so incredibly cheap that I worry about the quality.
+
+===word: 官僚主義===
+Nuance: 行政機関が規則や手続きを重視しすぎて非効率になる傾向を指します。批判的な文脈で使われることが多いです。
+Example1: 官僚主義のせいで手続きに時間がかかります。
+Example1_EN: Due to bureaucracy, the procedures take a long time.
+Example2: あの会社は官僚主義が強すぎて改革が必要です。
+Example2_EN: That company is too bureaucratic and needs reform.
+Example3: 官僚主義を改善するための努力が続けられています。
+Example3_EN: Efforts to improve bureaucracy are ongoing.
+
+===word: 勇気===
+Nuance: 恐れや困難に立ち向かう心の強さを表します。行動を起こすための原動力として語られることが多いです。
+Example1: 彼には本当のことを話す勇気がありませんでした。
+Example1_EN: He didn't have the courage to tell the truth.
+Example2: 勇気を出して彼女に告白しました。
+Example2_EN: I mustered up the courage and confessed to her.
+Example3: 新しいことに挑戦する勇気を持ちたいです。
+Example3_EN: I want to have the courage to take on new challenges.
+
+===word: 乳児===
+Nuance: 生後間もない赤ちゃんを指す医学的な用語です。一般的に一歳未満の子供を指します。
+Example1: 乳児の成長はとても早いです。
+Example1_EN: Infants grow very quickly.
+Example2: 乳児には母乳またはミルクが最適です。
+Example2_EN: Breast milk or formula is best for infants.
+Example3: 乳児のいる家庭では安全対策が重要です。
+Example3_EN: Safety measures are important in households with infants.
+
+===word: 盲点===
+Nuance: 気づきにくい部分や見落としがちな点を意味します。本来は生理的な視覚の盲点から転じた比喩表現です。
+Example1: この計画には盲点があったようです。
+Example1_EN: It seems there was a blind spot in this plan.
+Example2: 自分では気づかない盲点を指摘してもらいました。
+Example2_EN: Someone pointed out a blind spot that I hadn't noticed.
+Example3: 試験勉強では盲点を作らないように復習が大切です。
+Example3_EN: Review is important to avoid creating blind spots in exam study.
+
+===word: 揚げ豆腐===
+Nuance: 豆腐を油で揚げた食品を指します。厚揚げや油揚げなど種類があり、日本の料理によく使われます。
+Example1: 揚げ豆腐を味噌汁に入れると美味しいです。
+Example1_EN: Deep-fried tofu is delicious when added to miso soup.
+Example2: 今日の夕食に揚げ豆腐を使った料理を作ります。
+Example2_EN: I will make a dish using deep-fried tofu for dinner today.
+Example3: 揚げ豆腐は炒め物にも合います。
+Example3_EN: Deep-fried tofu also goes well with stir-fries.
+
+===word: 妬ましい===
+Nuance: 他人の成功や恵まれた状態を見て、自分もそうありたいと羨む気持ちを表す形容詞です。良い意味では使われません。
+Example1: 彼女の才能が妬ましいです。
+Example1_EN: I envy her talent.
+Example2: 人の幸せを妬ましいと思うのはよくないことです。
+Example2_EN: It is not good to feel envious of others' happiness.
+Example3: 友人の成功が妬ましいと感じてしまう自分が嫌です。
+Example3_EN: I hate myself for feeling envious of my friend's success.
+
+===word: 試食（する）===
+Nuance: 商品の味を確かめるために少量を食べることを指します。スーパーや販売店での試食販売がよく知られています。
+Example1: この店では新商品の試食を提供しています。
+Example1_EN: This store is offering samples of a new product.
+Example2: 試食してみて、このチーズがとても美味しかったです。
+Example2_EN: I tried a sample, and this cheese was very delicious.
+Example3: 試食コーナーでいろいろな味を楽しめます。
+Example3_EN: You can enjoy various flavors at the sample corner.
+
+===word: 頂上===
+Nuance: 山や丘などの最も高い地点を指します。比喩的に競技や分野での最高位も表します。
+Example1: 富士山の頂上でご来光を見ました。
+Example1_EN: I saw the sunrise from the summit of Mount Fuji.
+Example2: 頂上まであと少しなので頑張りましょう。
+Example2_EN: We're almost at the top, so let's do our best.
+Example3: 彼は営業成績で頂上を極めました。
+Example3_EN: He reached the top in sales performance.
+
+===word: 砂漠化===
+Nuance: 土地が乾燥して砂漠のようになる現象を指します。気候変動や過剰な農業活動などが原因です。
+Example1: 砂漠化は世界的な環境問題の一つです。
+Example1_EN: Desertification is one of the global environmental issues.
+Example2: この地域では砂漠化が急速に進んでいます。
+Example2_EN: Desertification is progressing rapidly in this region.
+Example3: 砂漠化を防ぐために植林活動が行われています。
+Example3_EN: Tree-planting activities are being carried out to prevent desertification.
+
+===word: 小火器===
+Nuance: 個人が携行できる小型の銃器の総称です。拳銃や小銃などが含まれ、軍事や警察の文脈で使われます。
+Example1: 小火器の取り扱いには十分な訓練が必要です。
+Example1_EN: Sufficient training is required for handling small arms.
+Example2: その国では小火器の所持が厳しく規制されています。
+Example2_EN: Possession of small arms is strictly regulated in that country.
+Example3: 小火器による事故を防ぐためのルールを守ってください。
+Example3_EN: Please follow the rules to prevent accidents with small arms.
+
+===word: キーボードを叩く===
+Nuance: パソコンのキーボードを打つことをやや荒い印象で表現する言い方です。勢いよくタイピングする様子を表します。
+Example1: 彼は怒ったようにキーボードを叩いていました。
+Example1_EN: He was banging on the keyboard as if angry.
+Example2: キーボードを叩く音が部屋中に響いています。
+Example2_EN: The sound of typing echoes throughout the room.
+Example3: キーボードを叩きすぎて指が痛くなりました。
+Example3_EN: My fingers hurt from typing too much.
+
+===word: 非常に===
+Nuance: 程度が極めて高いことを表す副詞です。フォーマルな文章やスピーチでよく使われ、とても丁寧な印象を与えます。
+Example1: この問題は非常に重要です。
+Example1_EN: This issue is extremely important.
+Example2: 彼の説明は非常に分かりやすかったです。
+Example2_EN: His explanation was extremely easy to understand.
+Example3: ご協力に非常に感謝しています。
+Example3_EN: I am extremely grateful for your cooperation.
+
+===word: 煉瓦===
+Nuance: 粘土を焼いて作った建築用のブロックです。レンガ造りの建物はヨーロッパ風の趣があります。
+Example1: この家は煉瓦で造られています。
+Example1_EN: This house is made of brick.
+Example2: 煉瓦の壁は温かみのある雰囲気を出します。
+Example2_EN: Brick walls give a warm atmosphere.
+Example3: 古い煉瓦建築が街のシンボルになっています。
+Example3_EN: The old brick building is a symbol of the town.
+
+===word: 勘定===
+Nuance: 飲食店などでの支払いや代金の総額を指します。また、計算する行為そのものを意味することもあります。
+Example1: お勘定をお願いします。
+Example1_EN: The check, please.
+Example2: 食事の勘定は私が払いました。
+Example2_EN: I paid the bill for the meal.
+Example3: 旅行の費用を全部勘定してみました。
+Example3_EN: I tried calculating all the travel expenses.
+
+===word: 突き刺す===
+Nuance: 刃物や先の尖ったものを勢いよく物体に刺し込む動作を表します。強い力を伴う印象があります。
+Example1: 彼はナイフで果物を突き刺しました。
+Example1_EN: He stabbed the fruit with a knife.
+Example2: 釘を板に突き刺すときは慎重にやってください。
+Example2_EN: Please be careful when driving a nail into the board.
+Example3: 蜂に刺されないように注意してください。
+Example3_EN: Please be careful not to get stung by a bee.
+
+===word: 惨事===
+Nuance: 悲惨で痛ましい災害や事故を指します。大きな被害や死傷者を伴う出来事に使われる重い表現です。
+Example1: その惨事で多くの人が命を落としました。
+Example1_EN: Many people lost their lives in that disaster.
+Example2: 惨事を二度と繰り返してはいけません。
+Example2_EN: Such a tragedy must never be repeated.
+Example3: 惨事のニュースに言葉を失いました。
+Example3_EN: I was speechless at the news of the disaster.
+
+===word: 嗅ぎつける===
+Nuance: 臭いを探し当てる、または比喩的に秘密や情報を探り出すことを意味します。動物にも人にも使えます。
+Example1: 警察は事件の手がかりを嗅ぎつけました。
+Example1_EN: The police sniffed out clues to the case.
+Example2: 犬が麻薬を嗅ぎつけて知らせました。
+Example2_EN: The dog sniffed out the drugs and alerted us.
+Example3: 記者はスキャンダルを嗅ぎつけたようです。
+Example3_EN: It seems the reporter got wind of the scandal.
+
+===word: 長らく===
+Nuance: 「長い間」をやや改まった言い方で表す副詞です。手紙やスピーチなどフォーマルな場面で使われます。
+Example1: 長らくご無沙汰しております。
+Example1_EN: I apologize for not being in touch for so long.
+Example2: 長らくお待たせして申し訳ございません。
+Example2_EN: I apologize for keeping you waiting so long.
+Example3: 長らくこの地域で伝統が守られてきました。
+Example3_EN: The tradition has been preserved in this region for a long time.
+
+===word: 彷徨う===
+Nuance: 目的もなくあちこち歩き回ることを表す自動詞です。心が迷っている状態の比喩としても使われます。
+Example1: 彼は街の中を彷徨っていました。
+Example1_EN: He was wandering around the town.
+Example2: 迷子になって森の中を彷徨いました。
+Example2_EN: I got lost and wandered through the forest.
+Example3: 彼女は人生の岐路で彷徨っているようです。
+Example3_EN: She seems to be wandering at a crossroads in life.
+
+===word: 激増===
+Nuance: 数量や程度が急激に増えることを指します。グラフや統計などのデータに関する話題でよく使われます。
+Example1: 今月の売り上げは先月比で激増しました。
+Example1_EN: Sales this month have surged compared to last month.
+Example2: SNSの利用者がここ数年で激増しています。
+Example2_EN: The number of SNS users has surged in recent years.
+Example3: 交通事故がこの地域で激増しているのが心配です。
+Example3_EN: I'm worried that traffic accidents have increased dramatically in this area.
+
+===word: 名将===
+Nuance: 優れた才能を持つ指揮官や将軍を称える言葉です。歴史的な人物やスポーツの監督に対しても使われます。
+Example1: 彼はチームを優勝に導いた名将です。
+Example1_EN: He is a great commander who led the team to victory.
+Example2: 歴史に名を残す名将の一人です。
+Example2_EN: He is one of the famous commanders in history.
+Example3: あの監督は名将として知られています。
+Example3_EN: That manager is known as a great commander.
+
+===word: おびき寄せる===
+Nuance: 目的の場所や状態に誘導するために、何かを餌や魅力として使うことを意味します。動物や人に対して使います。
+Example1: 罠を使って獲物をおびき寄せました。
+Example1_EN: They lured the prey using a trap.
+Example2: 安い広告で客をおびき寄せようとしています。
+Example2_EN: They are trying to lure customers with cheap advertisements.
+Example3: 敵を深い森の中へおびき寄せる作戦でした。
+Example3_EN: It was a strategy to lure the enemy deep into the forest.
+
+===word: 昆布===
+Nuance: 海藻の一種で、出汁や料理に広く使われる日本の食材です。主に北海道で採れます。
+Example1: 昆布で出汁を取ると美味しい味噌汁ができます。
+Example1_EN: You can make delicious miso soup by extracting broth from kombu.
+Example2: 昆布は食物繊維が豊富で健康に良いです。
+Example2_EN: Kombu is rich in dietary fiber and good for health.
+Example3: この煮物には昆布を使うのが伝統的です。
+Example3_EN: It is traditional to use kombu in this simmered dish.
+
+===word: 計===
+Nuance: 合計や総数を表す言葉で、数値を合計した結果を示します。レシートや明細書でよく見かけます。
+Example1: お買い上げの計は五千円になります。
+Example1_EN: Your total comes to five thousand yen.
+Example2: 参加者の計は百二十名でした。
+Example2_EN: The total number of participants was one hundred and twenty.
+Example3: 経費の計を計算して報告書にまとめてください。
+Example3_EN: Please calculate the total expenses and summarize them in a report.
+
+===word: 猟師===
+Nuance: 狩猟を仕事や趣味とする人を指します。伝統的な職業の一つで、山や森で動物を獲ります。
+Example1: 猟師は朝早くから山へ出かけます。
+Example1_EN: The hunter goes into the mountains early in the morning.
+Example2: この地域では猟師の数が減っています。
+Example2_EN: The number of hunters is decreasing in this region.
+Example3: 猟師になるためには免許が必要です。
+Example3_EN: A license is required to become a hunter.
+
+===word: にっこり===
+Nuance: 口元を緩めて優しく微笑む様子を表す副詞です。嬉しさや好意が感じられる笑顔に使われます。
+Example1: 彼女は私ににっこり微笑みました。
+Example1_EN: She smiled warmly at me.
+Example2: 先生がにっこりしながら「よくできました」と言いました。
+Example2_EN: The teacher smiled and said, 'Well done.'
+Example3: 子供がにっこり笑うと周りの人も幸せな気分になります。
+Example3_EN: When a child smiles warmly, it makes everyone around feel happy.
+
+===word: 量る===
+Nuance: 重さや容量を測定することを意味する動詞です。体重を測る、材料の分量を計るなど日常でよく使います。
+Example1: 毎朝体重を量る習慣があります。
+Example1_EN: I have a habit of weighing myself every morning.
+Example2: 小麦粉の量を量ってからボウルに入れてください。
+Example2_EN: Please weigh the flour before putting it into the bowl.
+Example3: 正確に量ることが料理のコツです。
+Example3_EN: Measuring accurately is the key to cooking.
+
+===word: ばっちり===
+Nuance: 完璧に、または正確に物事がうまくいく様子を表す副詞です。カジュアルな会話でよく使われます。
+Example1: 試験の準備はばっちりです。
+Example1_EN: I'm perfectly prepared for the exam.
+Example2: 新しい計画はばっちり決まりました。
+Example2_EN: The new plan has been perfectly decided.
+Example3: プレゼンテーションはばっちり成功しました。
+Example3_EN: The presentation was a perfect success.
+
+===word: 店頭販売===
+Nuance: 商品を店の陳列棚などで直接販売することを指します。オンライン販売と対比されることが多いです。
+Example1: この商品は店頭販売のみ行っています。
+Example1_EN: This product is only sold in stores.
+Example2: 店頭販売の方が実物を確認できて安心です。
+Example2_EN: In-store sales are more reassuring because you can check the actual product.
+Example3: 店頭販売とオンライン販売の両方を実施しています。
+Example3_EN: We offer both in-store and online sales.
+
+===word: 間一髪===
+Nuance: 危険や失敗が目前に迫っているところでぎりぎり回避する様子を表す慣用句です。
+Example1: 間一髪で事故を免れました。
+Example1_EN: I narrowly avoided an accident by a hair's breadth.
+Example2: 電車に乗り遅れそうでしたが、間一髪で飛び乗りました。
+Example2_EN: I almost missed the train, but I jumped on just in time.
+Example3: 間一髪のところで彼に助けられました。
+Example3_EN: I was saved by him at the very last moment.
+
+===word: 擬装===
+Nuance: 外見を偽って本来の姿や目的を隠すことを指します。軍事や探偵小説などでよく使われます。
+Example1: 敵に気づかれないように基地を擬装しました。
+Example1_EN: They camouflaged the base so the enemy wouldn't notice.
+Example2: 擬装が完璧だったので誰も気づきませんでした。
+Example2_EN: The camouflage was perfect, so no one noticed.
+Example3: 彼の優しさは本心を擬装したものだったようです。
+Example3_EN: His kindness seemed to be a disguise for his true feelings.
+
+===word: 弾痕===
+Nuance: 銃弾が当たった後に残る跡や穴を指します。戦争や事件の現場を描写するときに使われます。
+Example1: 壁には無数の弾痕が残っていました。
+Example1_EN: Countless bullet holes remained on the wall.
+Example2: 弾痕を見て、激しい戦闘があったことが分かりました。
+Example2_EN: Seeing the bullet marks, I understood there had been fierce fighting.
+Example3: 建物の弾痕が戦争の悲惨さを物語っています。
+Example3_EN: The bullet holes on the building tell the tragedy of war.
+
+===word: 女子校===
+Nuance: 女子生徒のみが通う学校を指します。中高一貫の女子校などがあります。
+Example1: 彼女は女子校に通っています。
+Example1_EN: She attends a girls' school.
+Example2: 女子校には男子校にはない良さがあると思います。
+Example2_EN: I think girls' schools have advantages that boys' schools don't.
+Example3: この女子校は伝統的に英語教育に力を入れています。
+Example3_EN: This girls' school has traditionally focused on English education.
+
+===word: 特訓===
+Nuance: 特定の技能を高めるために集中的に行う訓練を指します。試験前や試合前に行われることが多いです。
+Example1: 夏休みに水泳の特訓をする予定です。
+Example1_EN: I plan to do special swimming training during summer vacation.
+Example2: 受験前に特訓コースに参加しました。
+Example2_EN: I participated in an intensive course before the exam.
+Example3: 特訓の成果が出て、前よりもずっと上手になりました。
+Example3_EN: The special training paid off, and I've become much better than before.
+
+===word: 共稼ぎ===
+Nuance: 夫婦が共に働いて収入を得ること、つまり共働きを指しますやや古風な響きのある言葉です。
+Example1: 最近は共稼ぎの家庭が多いです。
+Example1_EN: Recently, there are many dual-income households.
+Example2: 共稼ぎだと家事の分担が重要になります。
+Example2_EN: When both spouses work, sharing household chores becomes important.
+Example3: うちは共稼ぎなので毎日忙しいです。
+Example3_EN: Since both my spouse and I work, we are busy every day.
+
+===word: 投資信託 / 投信===
+Nuance: 複数の投資家から集めた資金を運用会社が株式や債券などに投資する金融商品です。
+Example1: 投資信託は初心者でも始めやすい運用方法です。
+Example1_EN: Investment trusts are an easy way for beginners to start investing.
+Example2: 毎月一定額を投資信託に積み立てています。
+Example2_EN: I am putting a fixed amount into an investment trust every month.
+Example3: 投資信託を選ぶときは手数料に注意してください。
+Example3_EN: When choosing an investment trust, please pay attention to the fees.
+
+===word: 屍===
+Nuance: 死んだ人間の体を指す言葉で、生々しいニュアンスがあります。「遺体」よりも文学的で直接的な表現です。
+Example1: 戦場には多くの屍が横たわっていました。
+Example1_EN: Many corpses lay on the battlefield.
+Example2: その洞窟で古い屍が見つかりました。
+Example2_EN: An old corpse was found in that cave.
+Example3: 屍を乗り越えて前に進まなければなりません。
+Example3_EN: We must step over the corpses and move forward.
+
+===word: 逃す===
+Nuance: 好機や物事を捉え損ねることを意味します。捕まえようとしたものが逃げてしまうイメージです。
+Example1: 大事なチャンスを逃してしまいました。
+Example1_EN: I missed an important opportunity.
+Example2: 電車を逃さないように早めに家を出ます。
+Example2_EN: I'll leave the house early so I don't miss the train.
+Example3: 彼は絶好のゴールチャンスを逃しました。
+Example3_EN: He missed a perfect scoring opportunity.
+
+===word: 激論===
+Nuance: 互いに激しく意見を交わす議論を指します。喧嘩とは違い、論理的なやり取りですが熱を帯びています。
+Example1: 会議で予算案について激論が交わされました。
+Example1_EN: A heated debate over the budget proposal took place in the meeting.
+Example2: 二人の間で政治について激論になりました。
+Example2_EN: They had a heated argument about politics.
+Example3: 激論の末、ようやく合意に達しました。
+Example3_EN: After a heated debate, they finally reached an agreement.
+
+===word: 散る===
+Nuance: 集まっていたものが別れ別れになる、または花びらや葉が落ちることを表す自動詞です。
+Example1: 桜の花が風に散っています。
+Example1_EN: Cherry blossoms are scattering in the wind.
+Example2: 観客が試合終了後に散っていきました。
+Example2_EN: The audience dispersed after the game ended.
+Example3: 霧が朝日とともに散っていきました。
+Example3_EN: The fog dissipated with the morning sun.
+
+===word: 手負い===
+Nuance: 戦いや事故などで傷を負った状態を指します。主に動物や武士などに対して使われるやや古風な表現です。
+Example1: 手負いの獣は危険なので近づかないでください。
+Example1_EN: A wounded beast is dangerous, so please don't approach it.
+Example2: 手負いの状態でも彼は戦い続けました。
+Example2_EN: Even while wounded, he continued fighting.
+Example3: 手負いの鳥が地面で震えていました。
+Example3_EN: A wounded bird was trembling on the ground.
+
+===word: 予選===
+Nuance: 本選に出場するための前段階の競技や選考を指します。スポーツや音楽コンテストなどで行われます。
+Example1: 予選を突破して本選に出場します。
+Example1_EN: I will advance through the preliminaries and compete in the finals.
+Example2: 予選の結果は来週発表されます。
+Example2_EN: The preliminary results will be announced next week.
+Example3: 予選で強い相手と当たってしまいました。
+Example3_EN: I ended up facing a strong opponent in the preliminaries.
+
+===word: 開放的===
+Nuance: 閉鎖的でなく、自由で明るい雰囲気があることを表す形容動詞です。性格や空間の特徴として使われます。
+Example1: この教室は窓が大きくて開放的です。
+Example1_EN: This classroom has large windows and feels open.
+Example2: 彼女はとても開放的で誰とでも仲良くなれます。
+Example2_EN: She is very open-minded and can get along with anyone.
+Example3: この公園は開放的で気持ちがいいです。
+Example3_EN: This park is open and feels pleasant.
+
+===word: 襲撃===
+Nuance: 敵や標的に対して突然攻撃を仕掛けることを指します。戦争や犯罪の文脈で使われることが多いです。
+Example1: 敵軍が夜間に基地を襲撃しました。
+Example1_EN: The enemy forces attacked the base at night.
+Example2: 襲撃に備えて警備を強化しました。
+Example2_EN: We strengthened security in preparation for an attack.
+Example3: そのグループは銀行を襲撃する計画を立てていました。
+Example3_EN: The group was planning to attack the bank.
+
+===word: 崇拝者===
+Nuance: ある人物や神仏などを熱心に信仰し敬う人を指します。宗教的な文脈だけでなく、有名人の熱狂的なファンにも使います。
+Example1: 彼には多くの熱心な崇拝者がいます。
+Example1_EN: He has many devoted worshippers.
+Example2: 崇拝者たちが神社に集まりました。
+Example2_EN: The worshippers gathered at the shrine.
+Example3: あの作家には世界中に崇拝者がいます。
+Example3_EN: That author has admirers all over the world.
+
+===word: ウクライナ===
+Nuance: 東ヨーロッパの国の名前です。首都はキーウで、豊かな農地と歴史的な文化を持つ国として知られています。
+Example1: ウクライナは美しい国だと思います。
+Example1_EN: I think Ukraine is a beautiful country.
+Example2: ウクライナの文化についてもっと知りたいです。
+Example2_EN: I want to learn more about Ukrainian culture.
+Example3: 最近ウクライナの料理に興味があります。
+Example3_EN: I've been interested in Ukrainian cuisine recently.
+
+===word: 転校（する）===
+Nuance: 現在通っている学校から別の学校に移ることを指します。主に小中学校の児童・生徒に対して使われます。
+Example1: 来月、大阪の学校に転校します。
+Example1_EN: I will transfer to a school in Osaka next month.
+Example2: 転校するときは新しい友達ができるか心配でした。
+Example2_EN: When I transferred schools, I was worried about making new friends.
+Example3: 転校先の学校はとても親切でした。
+Example3_EN: The school I transferred to was very kind.
+
+===word: 四則演算===
+Nuance: 足し算、引き算、掛け算、割り算の四つの基本的な計算方法の総称です。算数や数学の基礎です。
+Example1: 四則演算は数学の基礎です。
+Example1_EN: The four arithmetic operations are the foundation of mathematics.
+Example2: 子供に四則演算を教えるのは楽しいです。
+Example2_EN: Teaching children the four arithmetic operations is fun.
+Example3: 四則演算ができれば日常の計算には困りません。
+Example3_EN: If you can do the four basic operations, you won't have trouble with everyday calculations.
+
+===word: 始動===
+Nuance: 機械や装置の運転を開始することを指します。エンジンやシステムなどに対して使われます。
+Example1: エンジンを始動する前に点検してください。
+Example1_EN: Please inspect the engine before starting it.
+Example2: 機械の始動はボタン一つで簡単です。
+Example2_EN: Starting the machine is easy with just one button.
+Example3: システムの始動に時間がかかります。
+Example3_EN: It takes time to start up the system.
+
+===word: 濫用===
+Nuance: 本来の目的や範囲を超えて過度に使うことを指します。権利や薬物などに対して否定的な意味で使われます。
+Example1: その薬の濫用は健康に深刻な影響を与えます。
+Example1_EN: Abuse of that medicine has serious effects on health.
+Example2: 権力を濫用する政治家が問題になっています。
+Example2_EN: Politicians who abuse their power are becoming a problem.
+Example3: アルコールの濫用は控えたほうがいいです。
+Example3_EN: You should refrain from alcohol abuse.
+
+===word: 振り払う===
+Nuance: 手や体を使って何かを強く振って取り除く動作を表します。比喩的に、悪い習慣や考えを断ち切る意味でも使われます。
+Example1: 彼は私の手を振り払って去っていきました。
+Example1_EN: He shook off my hand and left.
+Example2: 水滴を振り払ってから傘を閉じてください。
+Example2_EN: Please shake off the water droplets before closing the umbrella.
+Example3: 嫌な記憶を振り払おうと努力しています。
+Example3_EN: I am trying to shake off the unpleasant memories.
+
+===word: 双肩===
+Nuance: 両方の肩を指す言葉で、責任や重荷を担う比喩としてよく使われます。やや硬い表現です。
+Example1: 彼の双肩には会社の将来がかかっています。
+Example1_EN: The future of the company rests on his shoulders.
+Example2: その責任は私の双肩にのしかかっています。
+Example2_EN: That responsibility weighs on my shoulders.
+Example3: リーダーの双肩には大きなプレッシャーがあります。
+Example3_EN: There is great pressure on the leader's shoulders.
+
+===word: 鼻柱===
+Nuance: 鼻の中央から上に向かう骨格部分を指します。感情表現として「鼻柱が強い」などの慣用句でも使われます。
+Example1: 彼は鼻柱が強くて、一度決めたら曲げません。
+Example1_EN: He is strong-willed and never bends once he has decided.
+Example2: 鼻柱を打ってしまい、しばらく痛かったです。
+Example2_EN: I hit the bridge of my nose, and it hurt for a while.
+Example3: 鼻柱の高い人は頑固に見られがちです。
+Example3_EN: People with a strong will tend to be seen as stubborn.
+
+===word: 棟===
+Nuance: 大きな建物や屋根の頂上の部分、また建物を数える助数詞として使われます。
+Example1: このキャンパスには三棟の校舎があります。
+Example1_EN: There are three school buildings on this campus.
+Example2: 新しく建設された棟には最新の設備が整っています。
+Example2_EN: The newly built wing is equipped with the latest facilities.
+Example3: あの棟の屋根は伝統的な日本建築です。
+Example3_EN: The roof of that building is in traditional Japanese architectural style.
+
+===word: 厄介（な）===
+Nuance: 面倒だったり手間がかかったりする様子を表す形容動詞です。人に対しても物事に対しても使われます。
+Example1: この問題はかなり厄介です。
+Example1_EN: This problem is quite troublesome.
+Example2: 厄介な仕事は先延ばしにしがちです。
+Example2_EN: I tend to put off troublesome tasks.
+Example3: 彼はいつも厄介なことばかり起こします。
+Example3_EN: He always causes nothing but trouble.

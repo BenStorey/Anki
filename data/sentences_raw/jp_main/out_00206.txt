@@ -1,0 +1,548 @@
+===word: 電圧計===
+Nuance: 電圧を測定するための機器です。実験や電気工事などで使われる専門用語で、アナログ式とデジタル式があります。
+Example1: 実験室で電圧計を使って電圧を測ります。
+Example1_EN: I measure the voltage using a voltmeter in the laboratory.
+Example2: この電圧計は精度が高いので、信頼できます。
+Example2_EN: This voltmeter is highly accurate, so I can trust it.
+Example3: 電圧計の目盛りをしっかり読んでください。
+Example3_EN: Please read the scale of the voltmeter carefully.
+
+===word: 企業家===
+Nuance: 新しい事業を起こしたり、企業を経営する人を指します。起業家とほぼ同義で、経済やビジネスの文脈でよく使われます。
+Example1: 彼は若い頃から企業家として成功しました。
+Example1_EN: He succeeded as an entrepreneur from a young age.
+Example2: 企業家にはリスクを恐れない姿勢が必要です。
+Example2_EN: Entrepreneurs need a mindset that does not fear risk.
+Example3: 多くの企業家が新しい技術を活用しています。
+Example3_EN: Many entrepreneurs are making use of new technologies.
+
+===word: 対話===
+Nuance: 二人以上の人が意見を交わしながら話し合うことを意味します。単なる会話より深く、相互理解を目的とした丁寧なやり取りに使われます。
+Example1: 先生と生徒の間で対話が行われます。
+Example1_EN: A dialogue is held between the teacher and the students.
+Example2: 対話を通じてお互いの考えを理解できます。
+Example2_EN: We can understand each other's thoughts through dialogue.
+Example3: この問題は対話で解決していきたいと思います。
+Example3_EN: I would like to resolve this issue through dialogue.
+
+===word: 夢中===
+Nuance: ある物事に強く惹かれて、他のことが気にならなくなる状態を指します。恋愛や趣味の場面でよく使われる言葉です。
+Example1: 彼女は最近、読書に夢中になっています。
+Example1_EN: She has been absorbed in reading lately.
+Example2: 子供たちはゲームに夢中で周りが見えません。
+Example2_EN: The children are so into the game that they don't notice anything around them.
+Example3: 私はこのドラマにすっかり夢中になりました。
+Example3_EN: I have become completely hooked on this drama.
+
+===word: 劣等感===
+Nuance: 自分が他人より劣っていると感じる気持ちを指します。心理学の文脈でもよく使われ、コンプレックスと似た意味ですが、より日常的な表現です。
+Example1: 彼は子供の頃から劣等感を持っていました。
+Example1_EN: He has had an inferiority complex since childhood.
+Example2: 劣等感を乗り越えるのは簡単なことではありません。
+Example2_EN: Overcoming an inferiority complex is not an easy thing.
+Example3: 周りと比べて劣等感を感じる必要はありません。
+Example3_EN: There is no need to feel an inferiority complex by comparing yourself with others.
+
+===word: 情報伝達===
+Nuance: 情報を相手に伝える行為や仕組みを指します。ビジネスや通信の分野でよく使われるやや硬い表現です。
+Example1: この会社では情報伝達がとてもスムーズです。
+Example1_EN: Information transmission is very smooth in this company.
+Example2: 情報伝達の方法を改善する必要があります。
+Example2_EN: We need to improve the method of information transmission.
+Example3: 正確な情報伝達が仕事の効率を上げます。
+Example3_EN: Accurate information transmission improves work efficiency.
+
+===word: 一方通行===
+Nuance: 道路などの交通が一方向だけに進むこと、または相互のやり取りがないことを意味します。比喩的にも使われます。
+Example1: この道は一方通行なので、逆走は危険です。
+Example1_EN: This road is one-way, so driving the wrong way is dangerous.
+Example2: 一方通行の恋愛はなかなか辛いものです。
+Example2_EN: A one-sided love affair is quite painful.
+Example3: 駅前の通りは全て一方通行になっています。
+Example3_EN: All the streets in front of the station are one-way.
+
+===word: 年々===
+Nuance: 年を追うごとに変化する様子を表す副詞です。時間の経過に伴う変化を述べる時に使われ、書き言葉でも話し言葉でもよく登場します。
+Example1: 年々、気温が上がっている気がします。
+Example1_EN: I feel that the temperature is rising year by year.
+Example2: この町の人口は年々減少しています。
+Example2_EN: The population of this town is decreasing year by year.
+Example3: 年々技術の進歩が速くなっていますね。
+Example3_EN: Technological progress is getting faster year by year, isn't it?
+
+===word: 国境===
+Nuance: 国と国との境界線を指します。地理的な意味だけでなく、政治や文化の違いを表す比喩としても使われます。
+Example1: 国境を越えるにはパスポートが必要です。
+Example1_EN: You need a passport to cross the border.
+Example2: この川が二つの国の国境になっています。
+Example2_EN: This river forms the border between the two countries.
+Example3: 国境なき医師団という組織をご存知ですか？
+Example3_EN: Do you know about the organization called Doctors Without Borders?
+
+===word: 反抗期===
+Nuance: 子供が親や教師などに対して反抗的になる時期を指します。主に思春期の子供について使われるカジュアルな表現です。
+Example1: 息子は今、反抗期で大変なんです。
+Example1_EN: My son is going through a rebellious stage right now, and it's tough.
+Example2: 反抗期は誰にでもあるものだと思います。
+Example2_EN: I think everyone goes through a rebellious stage.
+Example3: 娘の反抗期がいつ終わるのか心配です。
+Example3_EN: I'm worried about when my daughter's rebellious stage will end.
+
+===word: 上===
+Nuance: 目上の人や上司、地位が上の人を指す言葉です。職場や社会の上下関係を表す時に使われ、丁寧な表現です。
+Example1: 上の人に相談してから決めます。
+Example1_EN: I will decide after consulting with my superiors.
+Example2: 上からの指示を待っているところです。
+Example2_EN: We are waiting for instructions from above.
+Example3: 上の立場の人間は責任が重いです。
+Example3_EN: People in higher positions bear heavy responsibilities.
+
+===word: 犠牲===
+Nuance: 大切なものを失うことや、誰かのために自分を捧げることを意味します。事故や災害の文脈から、自己犠牲の精神まで幅広く使われます。
+Example1: 多くの犠牲を払ってこのプロジェクトは成功しました。
+Example1_EN: This project succeeded at the cost of many sacrifices.
+Example2: 自然災害で多くの犠牲が出ました。
+Example2_EN: Many casualties resulted from the natural disaster.
+Example3: 彼は家族のために自分の時間を犠牲にしました。
+Example3_EN: He sacrificed his own time for his family.
+
+===word: 国際調査===
+Nuance: 国際的な規模で行われる調査や研究を指します。国連や国際機関が行うものなど、フォーマルな文脈で使われる硬い表現です。
+Example1: 国際調査の結果が来月発表されます。
+Example1_EN: The results of the international investigation will be announced next month.
+Example2: この問題は国際調査が必要だと思います。
+Example2_EN: I think this issue requires an international investigation.
+Example3: 国際調査チームが現地に派遣されました。
+Example3_EN: An international investigation team was dispatched to the site.
+
+===word: 低音===
+Nuance: 低い音域の音を指します。音楽のベース音や男性の低い声などについて話す時に使われます。
+Example1: 彼の低音の声はとても魅力的です。
+Example1_EN: His low-pitched voice is very attractive.
+Example2: このスピーカーは低音がよく響きます。
+Example2_EN: This speaker has good bass resonance.
+Example3: 低音の楽器が曲に深みを加えています。
+Example3_EN: The bass instruments add depth to the piece.
+
+===word: 理想主義===
+Nuance: 物事を理想の姿で捉えようとする考え方や立場を指します。現実主義と対比されることが多く、やや硬い哲学的な響きがあります。
+Example1: 彼は理想主義者で、現実が見えていないことがあります。
+Example1_EN: He is an idealist and sometimes doesn't see reality.
+Example2: 理想主義も時には必要だと思います。
+Example2_EN: I think idealism is sometimes necessary too.
+Example3: 若い頃は理想主義に燃えていたものです。
+Example3_EN: When I was young, I was burning with idealism.
+
+===word: 物々交換===
+Nuance: お金を使わずに品物と品物を直接交換することを指します。古代の交易方法ですが、現代でもバーター取引として使われることがあります。
+Example1: 昔は物々交換が一般的な取引方法でした。
+Example1_EN: In the old days, bartering was a common method of trade.
+Example2: この村では今でも物々交換が行われています。
+Example2_EN: Bartering is still practiced in this village.
+Example3: 物々交換で必要なものを手に入れました。
+Example3_EN: I obtained what I needed through bartering.
+
+===word: 食中毒===
+Nuance: 食べ物に含まれる細菌やウイルスが原因で起こる健康被害を指します。衛生や健康の話題でよく使われる日常的な医学用語です。
+Example1: 夏は食中毒に気をつけたほうがいいです。
+Example1_EN: You should be careful about food poisoning in summer.
+Example2: 生の肉は食中毒の原因になります。
+Example2_EN: Raw meat can cause food poisoning.
+Example3: 友人と食事をした後、食中毒になりました。
+Example3_EN: I got food poisoning after eating with a friend.
+
+===word: 食費===
+Nuance: 食べ物にかかる費用を指します。家計や生活費の話題でよく使われる日常的な言葉です。
+Example1: 今月の食費はもうほとんど使ってしまいました。
+Example1_EN: I have already spent most of this month's food budget.
+Example2: 食費を節約するために自炊をしています。
+Example2_EN: I cook for myself to save on food expenses.
+Example3: 最近、食費が増えて困っています。
+Example3_EN: Recently, my food expenses have been increasing, and it's a problem.
+
+===word: 強制===
+Nuance: 相手の意思に関係なく無理に何かをさせることを指します。法律や規則の文脈から日常的な場面まで幅広く使われる言葉です。
+Example1: この学校では制服の着用が強制されています。
+Example1_EN: Wearing a uniform is compulsory at this school.
+Example2: 誰も何も強制されるべきではありません。
+Example2_EN: No one should be forced to do anything.
+Example3: 上司が残業を強制するのは問題です。
+Example3_EN: It is a problem when a boss forces overtime work.
+
+===word: 鞭===
+Nuance: 人や動物を叩いたり誘導したりするための道具です。馬術や調教の場面で使われる他、比喩的に叱咤の意味でも使われます。
+Example1: 鞭で馬を上手に操ることができます。
+Example1_EN: He can skillfully control a horse with a whip.
+Example2: 昔は教育で鞭を使うこともありました。
+Example2_EN: In the past, whips were sometimes used in education.
+Example3: その調教師は鞭を一度も使いませんでした。
+Example3_EN: That trainer never used a whip even once.
+
+===word: 黙読===
+Nuance: 声に出さずに心の中で読むことを指します。図書館や試験中など、静かにしなければならない場面でよく使われます。
+Example1: 試験中は黙読で問題を読んでください。
+Example1_EN: Please read the questions silently during the exam.
+Example2: 図書館では黙読をするのがマナーです。
+Example2_EN: It is good manners to read silently in the library.
+Example3: 子供たちは黙読の練習をしています。
+Example3_EN: The children are practicing silent reading.
+
+===word: 新婚===
+Nuance: 結婚して間もない状態を指します。新婚旅行や新婚生活など、結婚後の新しい生活に関する言葉と組み合わせて使われます。
+Example1: 新婚の頃はよく料理を一緒に作りました。
+Example1_EN: When we were newlyweds, we often cooked together.
+Example2: 新婚旅行でハワイに行きました。
+Example2_EN: We went to Hawaii for our honeymoon.
+Example3: あの二人はまだ新婚なので、とても仲が良いです。
+Example3_EN: That couple is still newlyweds, so they get along very well.
+
+===word: 霊能力===
+Nuance: 普通の人には見えない霊的なものが見えたり感じたりする特別な能力を指します。超自然現象やオカルトの話題で使われるやや特殊な言葉です。
+Example1: 彼女には霊能力があると言われています。
+Example1_EN: It is said that she has psychic powers.
+Example2: 霊能力を信じるかどうかは人それぞれです。
+Example2_EN: Whether to believe in psychic powers depends on the person.
+Example3: テレビで霊能力者の特集を見ました。
+Example3_EN: I watched a special feature about psychics on TV.
+
+===word: 繋がる===
+Nuance: 物事が物理的または抽象的に結びつくことを意味する動詞です。インターネットの接続から人間関係まで幅広い場面で使われます。
+Example1: このケーブルを繋ぐと、インターネットに繋がります。
+Example1_EN: When you connect this cable, it connects to the internet.
+Example2: 努力がいつか成功に繋がると信じています。
+Example2_EN: I believe that hard work will lead to success someday.
+Example3: この道は駅に繋がっています。
+Example3_EN: This road connects to the station.
+
+===word: 裏門===
+Nuance: 建物や敷地の裏側にある門を指します。表門と対になる言葉で、あまり人目につかない出入り口のことを言います。
+Example1: 裏門からこっそり入りました。
+Example1_EN: I entered quietly through the back gate.
+Example2: この裏門は従業員専用です。
+Example2_EN: This back gate is for employees only.
+Example3: 裏門に大きな荷物が届いています。
+Example3_EN: A large package has arrived at the back gate.
+
+===word: 横転===
+Nuance: 車や飛行機などが横に倒れて回転することを指します。事故や災害の報道でよく使われるやや硬い表現です。
+Example1: 高速道路でトラックが横転する事故がありました。
+Example1_EN: There was an accident where a truck overturned on the highway.
+Example2: 強風で自転車が横転してしまいました。
+Example2_EN: My bicycle was overturned by the strong wind.
+Example3: 横転した車から運転手が救出されました。
+Example3_EN: The driver was rescued from the overturned car.
+
+===word: 低空飛行===
+Nuance: 飛行機などが低い高度で飛ぶことを指します。比喩的に、調子が上がらない状態や成績が振るわない様子を表すこともあります。
+Example1: 飛行機が低空飛行で街の上を通過しました。
+Example1_EN: The airplane passed over the city at a low altitude.
+Example2: 最近、売上が低空飛行を続けています。
+Example2_EN: Recently, sales have been stuck in a low-altitude flight.
+Example3: 鳥が低空飛行で獲物を狙っています。
+Example3_EN: The bird is hunting its prey in low-altitude flight.
+
+===word: 言いかねる===
+Nuance: 言いたいことがあるが、それを言うのが難しいと感じる様子を表す動詞です。ためらいや遠慮の気持ちを含んだ丁寧な表現です。
+Example1: その件については、はっきりとは言いかねます。
+Example1_EN: I find it hard to speak clearly about that matter.
+Example2: 彼の前でそれを言うのはちょっと言いかねます。
+Example2_EN: I find it hard to say that in front of him.
+Example3: 申し訳ありませんが、その質問にはお答えしかねます。
+Example3_EN: I'm sorry, but I find it difficult to answer that question.
+
+===word: 驚かす===
+Nuance: 人に驚きの感情を与えることを意味する動詞です。サプライズや突然の出来事など、相手をびっくりさせる場面で使われます。
+Example1: 友達を誕生日に驚かす計画を立てています。
+Example1_EN: I am planning to surprise my friend on their birthday.
+Example2: 後ろから突然声をかけて驚かしてしまいました。
+Example2_EN: I startled him by suddenly calling out from behind.
+Example3: あの映画は最後に観客を驚かす展開があります。
+Example3_EN: That movie has a twist at the end that surprises the audience.
+
+===word: 五十音===
+Nuance: 日本語の仮名文字の基本的な配列を指します。あいうえお順の五十音表は、日本語学習の基礎としてよく使われます。
+Example1: 子供は小学校で五十音を覚えます。
+Example1_EN: Children learn the Japanese syllabary in elementary school.
+Example2: 五十音を順番に言えますか？
+Example2_EN: Can you recite the Japanese syllabary in order?
+Example3: この辞書は五十音順に並んでいます。
+Example3_EN: This dictionary is arranged in Japanese syllabary order.
+
+===word: 涙声===
+Nuance: 泣きそうな時や泣いた後に、声が震えたり詰まったりする様子を指します。感動や悲しみの場面でよく使われる表現です。
+Example1: 彼女は涙声で話し始めました。
+Example1_EN: She began to speak in a tearful voice.
+Example2: 涙声でお礼を言われて、私も感動しました。
+Example2_EN: When she thanked me in a tearful voice, I was moved too.
+Example3: 電話の向こうで母が涙声でした。
+Example3_EN: My mother's voice sounded tearful on the phone.
+
+===word: 運送屋===
+Nuance: 荷物や貨物を運ぶことを専門とする業者を指します。引っ越しや配送のサービスを提供する会社のことを日常的に言う言葉です。
+Example1: 運送屋に家具の運搬を頼みました。
+Example1_EN: I asked the moving company to transport the furniture.
+Example2: 運送屋が明日荷物を届けに来ます。
+Example2_EN: The delivery company will bring the package tomorrow.
+Example3: この運送屋は料金が安くて評判です。
+Example3_EN: This transport company has a good reputation for low prices.
+
+===word: 城壁===
+Nuance: 城や要塞の周りを囲む高い壁を指します。中世の建築や歴史の話題でよく使われる言葉です。
+Example1: この城の城壁はとても古いものです。
+Example1_EN: The castle walls of this castle are very old.
+Example2: 城壁の上から町全体が見渡せます。
+Example2_EN: You can see the whole town from the top of the castle walls.
+Example3: 城壁の修復作業が来月から始まります。
+Example3_EN: Restoration work on the castle walls will begin next month.
+
+===word: 画像ファイル===
+Nuance: コンピューター上で画像データを保存するファイルを指します。写真やイラストなどの形式があり、デジタル機器の操作でよく使われる言葉です。
+Example1: 画像ファイルをメールに添付して送ります。
+Example1_EN: I will attach the image file to the email and send it.
+Example2: この画像ファイルのサイズが大きすぎます。
+Example2_EN: This image file is too large in size.
+Example3: 画像ファイルをPDFに変換する方法を教えてください。
+Example3_EN: Please tell me how to convert an image file to PDF.
+
+===word: 男子用トイレ===
+Nuance: 男性専用のトイレを指す丁寧な表現です。公共施設や駅などでよく見かける表示です。
+Example1: 男子用トイレは二階にあります。
+Example1_EN: The men's room is on the second floor.
+Example2: すみません、男子用トイレはどこですか？
+Example2_EN: Excuse me, where is the men's room?
+Example3: 男子用トイレの前で待ち合わせをしました。
+Example3_EN: We arranged to meet in front of the men's room.
+
+===word: 品切れ===
+Nuance: 商品が売り切れて在庫がなくなることを指します。お店やネットショッピングでよく使われる日常表現です。
+Example1: その商品は申し訳ありませんが、品切れです。
+Example1_EN: We are sorry, but that item is out of stock.
+Example2: 人気の本はすぐに品切れになってしまいます。
+Example2_EN: Popular books sell out quickly.
+Example3: 品切れの場合は入荷までお待ちください。
+Example3_EN: If it is out of stock, please wait until it arrives.
+
+===word: 言い訳===
+Nuance: 自分の失敗や過ちを正当化するために述べる説明を指します。ネガティブなニュアンスを含むことが多く、謝罪の場面でよく使われます。
+Example1: 言い訳をする前に、まず謝るべきです。
+Example1_EN: Before making excuses, you should apologize first.
+Example2: 彼の言い訳は全く説得力がありませんでした。
+Example2_EN: His excuse was not at all convincing.
+Example3: 言い訳を並べるのはやめましょう。
+Example3_EN: Let's stop making excuses.
+
+===word: 作り上げる===
+Nuance: 努力や時間をかけて何かを完成させることを意味する動詞です。物理的なものだけでなく、話や計画などを創作する場合にも使われます。
+Example1: 彼はこの会社を一人で作り上げました。
+Example1_EN: He built this company all by himself.
+Example2: この物語は彼女の想像で作り上げられたものです。
+Example2_EN: This story was created from her imagination.
+Example3: チーム一丸となって製品を作り上げました。
+Example3_EN: The team worked together to create the product.
+
+===word: 高級言語===
+Nuance: 人間が理解しやすいように設計されたプログラミング言語を指します。アプリケーション開発などで幅広く使われる専門用語です。
+Example1: Pythonは初心者にも優しい高級言語です。
+Example1_EN: Python is a high-level language that is friendly to beginners.
+Example2: 高級言語を使うと開発効率が上がります。
+Example2_EN: Using a high-level language improves development efficiency.
+Example3: この授業では高級言語の基礎を学びます。
+Example3_EN: In this class, we will learn the basics of high-level languages.
+
+===word: 錆び===
+Nuance: 金属が空気中の水分や酸素と反応して変色・腐食する現象を指します。鉄製品の劣化について話す時に使われる日常的な言葉です。
+Example1: この古い鉄橋には錆びが見られます。
+Example1_EN: Rust can be seen on this old iron bridge.
+Example2: 錆びを落とすのにかなり時間がかかりました。
+Example2_EN: It took quite a long time to remove the rust.
+Example3: 定期的に塗装しないと、錆びが広がります。
+Example3_EN: If you don't paint regularly, rust will spread.
+
+===word: 妻===
+Nuance: 結婚している男性から見た配偶者を指す丁寧な言葉です。公的な書類や人に紹介する時など、フォーマルな場面で使われます。
+Example1: 私の妻は料理がとても上手です。
+Example1_EN: My wife is very good at cooking.
+Example2: 妻と一緒に買い物に行きました。
+Example2_EN: I went shopping with my wife.
+Example3: 妻は今、仕事で出張中です。
+Example3_EN: My wife is currently away on a business trip.
+
+===word: 無線局===
+Nuance: 無線通信を行うための設備や施設を指します。アマチュア無線や放送局など、通信関連の文脈で使われる専門用語です。
+Example1: この無線局は二十四時間稼働しています。
+Example1_EN: This radio station operates twenty-four hours a day.
+Example2: 無線局の免許を取得するには試験が必要です。
+Example2_EN: You need to pass an exam to obtain a radio station license.
+Example3: 山頂に無線局が設置されました。
+Example3_EN: A radio station was installed at the mountain summit.
+
+===word: 新聞記事===
+Nuance: 新聞に掲載される文章記事を指します。ニュースや報道の話題でよく使われる日常的な言葉です。
+Example1: この新聞記事はとても興味深い内容です。
+Example1_EN: This newspaper article has very interesting content.
+Example2: 新聞記事をスクラップする習慣があります。
+Example2_EN: I have a habit of clipping newspaper articles.
+Example3: その事件は新聞記事で初めて知りました。
+Example3_EN: I first learned about that incident from a newspaper article.
+
+===word: 脂肪===
+Nuance: 生物の体内に蓄えられる栄養素の一種を指します。健康や美容、食品の話題でよく使われる日常的な言葉です。
+Example1: この肉は脂肪が多くて美味しいです。
+Example1_EN: This meat is delicious with a lot of fat.
+Example2: 脂肪の摂りすぎは健康に良くありません。
+Example2_EN: Consuming too much fat is not good for your health.
+Example3: 運動で体内の脂肪を燃焼させましょう。
+Example3_EN: Let's burn body fat through exercise.
+
+===word: 裏===
+Nuance: 物の表面ではなく反対側の面を指します。比喩的に、表に出ない事情や隠された意味を表す時にも使われます。
+Example1: 書類の裏にも名前を書いてください。
+Example1_EN: Please write your name on the back of the document too.
+Example2: この話には何か裏がある気がします。
+Example2_EN: I feel there is something behind this story.
+Example3: 家の裏に小さな庭があります。
+Example3_EN: There is a small garden behind the house.
+
+===word: 調子===
+Nuance: 物事の状態や体調、機械の動作状態などを指す幅広い言葉です。良い状態にも悪い状態にも使える便利な表現です。
+Example1: 今日は体の調子がとても良いです。
+Example1_EN: I'm feeling very well today.
+Example2: このパソコンは最近調子が悪いんです。
+Example2_EN: This computer has been acting up lately.
+Example3: 仕事の調子はどうですか？
+Example3_EN: How is work going for you?
+
+===word: 田舎===
+Nuance: 都市から離れた地方を指します。自然豊かな風景を連想させる一方で、便利さに欠けるイメージも含まれます。
+Example1: 私は田舎で育ちました。
+Example1_EN: I grew up in the countryside.
+Example2: 田舎の空気はとても美味しいです。
+Example2_EN: The air in the countryside is very fresh.
+Example3: 休みの日には田舎に帰ってリラックスします。
+Example3_EN: On holidays, I go back to the countryside to relax.
+
+===word: 山頂===
+Nuance: 山の最も高い地点を指します。登山やハイキングの話題でよく使われる言葉です。
+Example1: やっと山頂に着きました。
+Example1_EN: We finally reached the mountain summit.
+Example2: 山頂からの景色は言葉にできないほど美しかったです。
+Example2_EN: The view from the mountain summit was indescribably beautiful.
+Example3: 山頂で記念写真を撮りました。
+Example3_EN: We took a commemorative photo at the mountain summit.
+
+===word: 交渉決裂===
+Nuance: 交渉が合意に至らずに終わることを指します。ビジネスや政治の場面で使われるやや硬い表現です。
+Example1: 労使の交渉が決裂してしまいました。
+Example1_EN: The labor-management negotiations broke down.
+Example2: 交渉決裂のニュースに株価が下落しました。
+Example2_EN: Stock prices fell on the news of the breakdown of negotiations.
+Example3: 交渉決裂を避けるために、もう一度話し合います。
+Example3_EN: We will discuss again to avoid a breakdown of negotiations.
+
+===word: のろ猫===
+Nuance: 飼い主のいない猫、いわゆる野良猫を指す言葉です。標準語では「野良猫」と言いますが、「のろ猫」は地域や方言によって使われる表現です。
+Example1: のろ猫が庭に遊びに来ています。
+Example1_EN: A stray cat comes to play in the garden.
+Example2: のろ猫に餌をあげるのは控えたほうがいいです。
+Example2_EN: It's better to refrain from feeding stray cats.
+Example3: この辺りにはのろ猫がたくさんいます。
+Example3_EN: There are many stray cats around here.
+
+===word: 休戦===
+Nuance: 戦っている双方が一時的に戦闘を停止することを指します。戦争や紛争の文脈で使われるやや硬い表現です。
+Example1: 両国は休戦に合意しました。
+Example1_EN: The two countries agreed to a truce.
+Example2: 休戦期間中に平和交渉が行われます。
+Example2_EN: Peace negotiations will be held during the truce period.
+Example3: 休戦が成立して、住民は安心しました。
+Example3_EN: The residents were relieved when the truce was established.
+
+===word: 航空券===
+Nuance: 飛行機に乗るための切符を指します。旅行や出張の話題でよく使われる日常的な言葉です。
+Example1: 航空券をインターネットで予約しました。
+Example1_EN: I booked an airline ticket online.
+Example2: 往復の航空券を買うと割引になります。
+Example2_EN: It is cheaper to buy a round-trip airline ticket.
+Example3: 航空券の値段が高くなってきましたね。
+Example3_EN: Airline ticket prices have been getting expensive, haven't they?
+
+===word: 仲直り===
+Nuance: 喧嘩した相手と再び良い関係になることを指します。友人や恋人、家族間の人間関係でよく使われる日常的な表現です。
+Example1: 彼と喧嘩しましたが、すぐに仲直りしました。
+Example1_EN: I had a fight with him, but we made up quickly.
+Example2: 仲直りしたいなら、まず素直に謝りましょう。
+Example2_EN: If you want to make up, first apologize sincerely.
+Example3: 兄妹はすぐに仲直りできるところがいいです。
+Example3_EN: It's nice that siblings can make up quickly.
+
+===word: 異常な===
+Nuance: 正常な状態から外れている様子を表す形容動詞です。珍しいことや問題がある状態を指す時に使われます。
+Example1: 最近の暑さは異常なレベルです。
+Example1_EN: The recent heat is at an abnormal level.
+Example2: 彼の行動には異常なところがあります。
+Example2_EN: There is something abnormal about his behavior.
+Example3: 異常な騒音が続いているので、管理会社に連絡しました。
+Example3_EN: Since the abnormal noise continued, I contacted the management company.
+
+===word: 宇宙服===
+Nuance: 宇宙空間で人間が活動するための特殊な服を指します。宇宙開発やサイエンスフィクションの話題でよく使われる言葉です。
+Example1: 宇宙飛行士が宇宙服を着て船外活動をしました。
+Example1_EN: The astronaut put on a spacesuit and did a spacewalk.
+Example2: 宇宙服はとても高価で複雑な装置です。
+Example2_EN: A spacesuit is a very expensive and complex piece of equipment.
+Example3: 子供の頃、宇宙服を着るのが夢でした。
+Example3_EN: When I was a child, my dream was to wear a spacesuit.
+
+===word: 頭皮===
+Nuance: 頭の皮膚の部分を指します。髪の毛や育毛、シャンプーなどの話題でよく使われる日常的な言葉です。
+Example1: 頭皮のマッサージは血行を良くします。
+Example1_EN: Scalp massage improves blood circulation.
+Example2: このシャンプーは頭皮に優しいです。
+Example2_EN: This shampoo is gentle on the scalp.
+Example3: 頭皮の健康が美しい髪の基本です。
+Example3_EN: Scalp health is the foundation of beautiful hair.
+
+===word: ドラクエ===
+Nuance: ドラゴンクエストという有名な日本のロールプレイングゲームの略称です。ゲームファンの間で広く使われる親しみやすい言葉です。
+Example1: 子供の頃からドラクエが大好きです。
+Example1_EN: I have loved Dragon Quest since I was a child.
+Example2: 新しいドラクエの発売日が発表されました。
+Example2_EN: The release date of the new Dragon Quest was announced.
+Example3: ドラクエの音楽はいつも素晴らしいです。
+Example3_EN: The music of Dragon Quest is always wonderful.
+
+===word: 距離感===
+Nuance: 物理的な距離だけでなく、人間関係での適切な距離の取り方を指す感覚です。ビジネスや恋愛の文脈でよく使われる言葉です。
+Example1: 彼とは適度な距離感を保っています。
+Example1_EN: I maintain an appropriate sense of distance with him.
+Example2: 距離感の掴み方が難しいですね。
+Example2_EN: It's hard to get a sense of the right distance, isn't it?
+Example3: 上司と部下の距離感は職場の雰囲気に影響します。
+Example3_EN: The sense of distance between superiors and subordinates affects the workplace atmosphere.
+
+===word: 平均===
+Nuance: 複数の数値を足して個数で割った値を指します。統計や日常生活で広く使われる基本的な数学用語です。
+Example1: このクラスの平均点は八十点でした。
+Example1_EN: The average score of this class was 80 points.
+Example2: 日本人の平均寿命は年々延びています。
+Example2_EN: The average life expectancy of Japanese people is increasing year by year.
+Example3: 平均的な家庭の年収はどのくらいですか？
+Example3_EN: What is the average annual income of a typical household?
+
+===word: 車椅子===
+Nuance: 歩行が困難な人が移動のために使う椅子に車輪が付いた器具を指します。バリアフリーや介護の話題でよく使われる言葉です。
+Example1: 怪我をしたので、一時的に車椅子を使っています。
+Example1_EN: I injured myself, so I am temporarily using a wheelchair.
+Example2: 駅に車椅子用のスロープがあります。
+Example2_EN: There is a wheelchair ramp at the station.
+Example3: 車椅子の方が利用しやすい施設が増えています。
+Example3_EN: Facilities that are easier for wheelchair users to use are increasing.
+
+===word: 充電する===
+Nuance: 電池やバッテリーに電気を蓄えることを意味する動詞です。スマートフォンや電気自動車など、現代生活で非常によく使われる言葉です。
+Example1: スマートフォンを毎晩充電しています。
+Example1_EN: I charge my smartphone every night.
+Example2: 出かける前にカメラのバッテリーを充電します。
+Example2_EN: I will charge the camera battery before going out.
+Example3: この車は一晩充電すれば十分です。
+Example3_EN: This car is fine if you charge it overnight.

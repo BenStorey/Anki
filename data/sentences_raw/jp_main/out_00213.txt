@@ -1,0 +1,548 @@
+===word: 到着===
+Nuance: 目的地や場所に着くことを意味する名詞です。旅行や移動の文脈でよく使われ、フォーマルな響きがあります。
+Example1: 到着しましたら、お知らせください。
+Example1_EN: Please let me know when you arrive.
+Example2: 飛行機の到着が遅れています。
+Example2_EN: The flight arrival is delayed.
+Example3: 到着時刻は午後三時です。
+Example3_EN: The arrival time is 3 PM.
+
+===word: 新郎===
+Nuance: 結婚式で、結婚する男性のことを指します。フォーマルな場面で使われる言葉です。
+Example1: 新郎が緊張しているように見えます。
+Example1_EN: The groom looks nervous.
+Example2: 新郎新婦の入場です。
+Example2_EN: Here come the bride and groom.
+Example3: 新郎のスピーチはとても感動的でした。
+Example3_EN: The groom's speech was very moving.
+
+===word: 臆病===
+Nuance: 怖がりで、勇気がない性質を表す名詞です。ネガティブな意味合いで使われることが多いです。
+Example1: 彼は臆病なので、一人では暗い道を歩けません。
+Example1_EN: He is timid, so he can't walk down a dark road alone.
+Example2: 臆病な性格を直したいと思います。
+Example2_EN: I want to overcome my cowardly nature.
+Example3: 子供の頃はとても臆病でした。
+Example3_EN: I was very timid when I was a child.
+
+===word: 御覧===
+Nuance: 「見る」の尊敬語で、相手の動作を敬って表現するときに使います。主に「ご覧ください」の形で使われます。
+Example1: こちらが資料でございます。ご覧ください。
+Example1_EN: Here are the documents. Please take a look.
+Example2: パンフレットをご覧になりましたか？
+Example2_EN: Have you looked at the brochure?
+Example3: この作品をぜひご覧ください。
+Example3_EN: Please be sure to see this work.
+
+===word: 船長===
+Nuance: 船の指揮をとる責任者のことを指します。海や船舶に関連する文脈で使われます。
+Example1: 船長は乗客全員の安全に責任があります。
+Example1_EN: The captain is responsible for the safety of all passengers.
+Example2: 船長が舵を取っています。
+Example2_EN: The captain is at the helm.
+Example3: 船長の指示に従ってください。
+Example3_EN: Please follow the captain's instructions.
+
+===word: 一列===
+Nuance: 人や物が一つの列に並んでいる様子を表します。順番待ちや整列の場面でよく使われます。
+Example1: 一列に並んでお待ちください。
+Example1_EN: Please line up in a single file and wait.
+Example2: 子どもたちは一列になって歩いています。
+Example2_EN: The children are walking in a single file.
+Example3: 一列目に座りたいのですが。
+Example3_EN: I'd like to sit in the front row.
+
+===word: 狼===
+Nuance: 野生の肉食動物であるオオカミを指します。比喩的に、危険や冷酷さの象徴としても使われます。
+Example1: 狼は群れで行動します。
+Example1_EN: Wolves act in packs.
+Example2: 昔話に狼がよく登場します。
+Example2_EN: Wolves often appear in old folktales.
+Example3: 狼の遠吠えが聞こえました。
+Example3_EN: I heard the howl of a wolf.
+
+===word: 上限===
+Nuance: 数量や程度の最大限の範囲を指します。ルールや制限に関する文脈でよく使われます。
+Example1: 予算には上限があります。
+Example1_EN: There is an upper limit on the budget.
+Example2: 参加人数の上限は五十人です。
+Example2_EN: The maximum number of participants is fifty.
+Example3: 上限を超えないように気をつけてください。
+Example3_EN: Please be careful not to exceed the limit.
+
+===word: 腕時計===
+Nuance: 手首に付ける時計のことを指します。日常生活でよく使われる一般的なアイテムです。
+Example1: この腕時計は父からもらいました。
+Example1_EN: I received this wristwatch from my father.
+Example2: 腕時計が壊れてしまいました。
+Example2_EN: My wristwatch broke.
+Example3: 新しい腕時計を買いたいです。
+Example3_EN: I want to buy a new wristwatch.
+
+===word: 少女===
+Nuance: 幼い女性のことを指す名詞です。文学や物語でよく使われ、ややフォーマルで詩的な響きがあります。
+Example1: あの少女はピアノが上手です。
+Example1_EN: That girl is good at playing the piano.
+Example2: 少女は優しい笑顔を浮かべました。
+Example2_EN: The girl had a gentle smile.
+Example3: この小説は少女の成長を描いています。
+Example3_EN: This novel depicts a girl's growth.
+
+===word: 餅===
+Nuance: もち米を蒸してつくった日本の伝統的な食品です。お正月や祝い事でよく食べられます。
+Example1: お正月に餅を食べます。
+Example1_EN: We eat rice cakes on New Year's.
+Example2: 餅は焼いてから食べるのが好きです。
+Example2_EN: I like to eat rice cakes after grilling them.
+Example3: この餅はとても柔らかいです。
+Example3_EN: This rice cake is very soft.
+
+===word: 和平会議===
+Nuance: 戦争や紛争を終わらせるために行う話し合いのことを指します。国際関係や政治の文脈で使われます。
+Example1: 和平会議が来月開催されます。
+Example1_EN: The peace conference will be held next month.
+Example2: 和平会議では停戦について話し合われました。
+Example2_EN: A ceasefire was discussed at the peace conference.
+Example3: 和平会議の結果が注目されています。
+Example3_EN: The outcome of the peace conference is drawing attention.
+
+===word: 退任===
+Nuance: 現在の職務や役職から退くことを意味する名詞です。主に会社や組織のリーダーが辞める場面で使われます。
+Example1: 社長が来月退任します。
+Example1_EN: The president will step down next month.
+Example2: 退任の挨拶をされました。
+Example2_EN: He gave a farewell speech upon retirement.
+Example3: 彼の退任は残念です。
+Example3_EN: His resignation is regrettable.
+
+===word: 払い戻す===
+Nuance: お金を返すことを意味する動詞です。買い物の返金やチケットのキャンセルなどの場面で使われます。
+Example1: チケットをキャンセルしましたので、代金を払い戻します。
+Example1_EN: Since you cancelled the ticket, we will refund the amount.
+Example2: 払い戻しには一週間ほどかかります。
+Example2_EN: The refund will take about a week.
+Example3: こちらの商品は払い戻しができません。
+Example3_EN: This product is not eligible for a refund.
+
+===word: 面子===
+Nuance: 社会的な体面や名誉を意味する名詞で、特にアジアの文化における対面や評価を重視する概念です。
+Example1: 彼は面子をとても気にしています。
+Example1_EN: He cares a lot about saving face.
+Example2: 面子を保つために謝りませんでした。
+Example2_EN: He didn't apologize to save face.
+Example3: そんなことをすると面子がつぶれますよ。
+Example3_EN: If you do that, you'll lose face.
+
+===word: 郵便===
+Nuance: 手紙や荷物を送るための制度やサービスを指します。日常生活で広く使われる言葉です。
+Example1: 郵便で書類を送りました。
+Example1_EN: I sent the documents by mail.
+Example2: 郵便は毎日届きます。
+Example2_EN: The mail arrives every day.
+Example3: この郵便はいつ着きますか？
+Example3_EN: When will this mail arrive?
+
+===word: 同性愛===
+Nuance: 同じ性別の人に対して恋愛感情や性的関心を持つことを指します。社会的な話題や人権に関連して使われます。
+Example1: 同性愛についての理解が深まっています。
+Example1_EN: Understanding of homosexuality is deepening.
+Example2: 同性愛の権利が認められるようになりました。
+Example2_EN: Rights for homosexual people have been recognized.
+Example3: 彼は同性愛者であることを公表しました。
+Example3_EN: He came out as homosexual.
+
+===word: 教材===
+Nuance: 教育や学習のために使う資料や道具のことを指します。学校や教室でよく使われる言葉です。
+Example1: この教材は初心者に適しています。
+Example1_EN: This teaching material is suitable for beginners.
+Example2: 新しい教材を準備しました。
+Example2_EN: We prepared new teaching materials.
+Example3: 教材をオンラインで配布します。
+Example3_EN: We will distribute the materials online.
+
+===word: 着順===
+Nuance: 到着した順番を意味する名詞です。競技やイベントで順位を決める際に使われます。
+Example1: 着順で賞品を授与します。
+Example1_EN: Prizes will be awarded in order of arrival.
+Example2: 着順を記録してください。
+Example2_EN: Please record the order of arrival.
+Example3: 着順によって席が決まります。
+Example3_EN: Seats are determined by order of arrival.
+
+===word: 液===
+Nuance: 液体状の物質を指す名詞です。やや専門的で、化学や医療の分野でよく使われます。
+Example1: この液をよく振ってから使ってください。
+Example1_EN: Please shake this liquid well before using.
+Example2: 液が漏れていないか確認してください。
+Example2_EN: Please check that the liquid is not leaking.
+Example3: この液は危険ですので、注意してください。
+Example3_EN: This liquid is dangerous, so please be careful.
+
+===word: 外地===
+Nuance: 本国以外の地域や領域を指す言葉です。歴史的・政治的な文脈で使われることが多いです。
+Example1: 外地からの移住者が増えています。
+Example1_EN: Immigrants from overseas territories are increasing.
+Example2: 外地に住んでいた経験があります。
+Example2_EN: I have experience living in an overseas territory.
+Example3: 外地の文化について勉強しました。
+Example3_EN: I studied about the culture of overseas territories.
+
+===word: 満月===
+Nuance: 月が完全に丸く見える状態を指します。天文や自然に関する話題で使われます。
+Example1: 今夜は満月です。
+Example1_EN: Tonight is a full moon.
+Example2: 満月がとてもきれいに見えます。
+Example2_EN: The full moon looks very beautiful.
+Example3: 満月の夜に散歩するのが好きです。
+Example3_EN: I like to go for walks on full moon nights.
+
+===word: オーバー===
+Nuance: 「誇張する」や「超過する」という意味のカタカナ語です。日常会話でよく使われます。
+Example1: 彼の話はいつもオーバーです。
+Example1_EN: His stories are always exaggerated.
+Example2: 時間オーバーになってしまいました。
+Example2_EN: We went over time.
+Example3: ちょっとオーバーだと思います。
+Example3_EN: I think that's a bit over the top.
+
+===word: 長年の夢===
+Nuance: 何年も持ち続けてきた長い間の夢や目標を指す表現です。
+Example1: 長年の夢がついに叶いました。
+Example1_EN: My long-cherished dream has finally come true.
+Example2: 長年の夢を実現するために頑張っています。
+Example2_EN: I'm working hard to achieve my long-cherished dream.
+Example3: 長年の夢だった留学が決まりました。
+Example3_EN: My long-cherished dream of studying abroad has been decided.
+
+===word: 染める===
+Nuance: 色をつけることを意味する動詞です。髪や布地などに色を加える場面でよく使われます。
+Example1: 髪を茶色に染めました。
+Example1_EN: I dyed my hair brown.
+Example2: この布を青色に染めたいです。
+Example2_EN: I want to dye this cloth blue.
+Example3: 母は着物を染め直してもらいました。
+Example3_EN: My mother had her kimono re-dyed.
+
+===word: 大声===
+Nuance: 大きい声のことを指します。叫ぶときや遠くの人に呼びかけるときなどに使われます。
+Example1: 大声で名前を呼びました。
+Example1_EN: I called out the name in a loud voice.
+Example2: 大声を出さないでください。
+Example2_EN: Please don't raise your voice.
+Example3: 彼は大声で笑っています。
+Example3_EN: He is laughing loudly.
+
+===word: 最適化===
+Nuance: 物事を最も効果的で効率的な状態に調整することを意味します。技術やビジネスの分野でよく使われます。
+Example1: システムの最適化を行いました。
+Example1_EN: We performed system optimization.
+Example2: このプログラムは速度が最適化されています。
+Example2_EN: This program is optimized for speed.
+Example3: コストの最適化について検討しています。
+Example3_EN: We are considering cost optimization.
+
+===word: 動力ドリル===
+Nuance: 電動で回転する穴あけ工具のことを指します。建設や日曜大工の現場で使われる道具です。
+Example1: 動力ドリルで壁に穴を開けました。
+Example1_EN: I drilled a hole in the wall with a power drill.
+Example2: 動力ドリルを使うときは安全メガネを着けてください。
+Example2_EN: Please wear safety goggles when using a power drill.
+Example3: この動力ドリルはとても強力です。
+Example3_EN: This power drill is very powerful.
+
+===word: 現れ===
+Nuance: 目に見える形で表れること、またはその結果を指します。抽象的な概念が具体化したものにも使われます。
+Example1: それは努力の現れです。
+Example1_EN: That is a manifestation of effort.
+Example2: 彼の表情に不安の現れが見えました。
+Example2_EN: A sign of anxiety appeared on his face.
+Example3: この現象は自然の現れだと思います。
+Example3_EN: I think this phenomenon is a manifestation of nature.
+
+===word: 警官===
+Nuance: 警察官のことを指すやや略式の言葉です。日常会話やニュースでよく使われます。
+Example1: 警官が道を教えてくれました。
+Example1_EN: A police officer showed me the way.
+Example2: 警官は事件の現場に急行しました。
+Example2_EN: The police officer rushed to the scene.
+Example3: 警官に呼び止められました。
+Example3_EN: I was stopped by a police officer.
+
+===word: 騙し合い===
+Nuance: お互いに嘘をついたり欺いたりすることを指します。人間関係や競争の場面で使われます。
+Example1: あの会社では騙し合いが日常的です。
+Example1_EN: Deception is commonplace in that company.
+Example2: 騙し合いをしても良い結果は生まれません。
+Example2_EN: Deceiving each other won't produce good results.
+Example3: もう騙し合いをするのはやめましょう。
+Example3_EN: Let's stop deceiving each other.
+
+===word: 群れ===
+Nuance: 動物や人が集まってできた集団を指します。特に動物の集団に対してよく使われます。
+Example1: 鳥の群れが空を飛んでいます。
+Example1_EN: A flock of birds is flying in the sky.
+Example2: 魚の群れを見つけました。
+Example2_EN: We found a school of fish.
+Example3: 観光客の群れが押し寄せています。
+Example3_EN: A crowd of tourists is flooding in.
+
+===word: 衣食住===
+Nuance: 人間の生活に欠かせない三つの要素、すなわち衣服・食べ物・住まいをまとめて指す言葉です。
+Example1: 衣食住は人間の基本です。
+Example1_EN: Food, clothing, and shelter are the basics of human life.
+Example2: 衣食住が整えば幸せだと思います。
+Example2_EN: I think having food, clothing, and shelter makes one happy.
+Example3: 衣食住の質が向上しました。
+Example3_EN: The quality of food, clothing, and shelter has improved.
+
+===word: 外来語===
+Nuance: 外国から入ってきて日本語として使われるようになった言葉を指します。多くはカタカナで表記されます。
+Example1: 日本語には多くの外来語があります。
+Example1_EN: There are many loanwords in Japanese.
+Example2: この外来語は英語から来ています。
+Example2_EN: This loanword comes from English.
+Example3: 外来語を覚えるのが楽しいです。
+Example3_EN: Learning loanwords is fun.
+
+===word: 社会科学===
+Nuance: 人間社会の仕組みや現象を科学的に研究する学問分野の総称です。政治学、経済学、社会学などが含まれます。
+Example1: 社会科学は人間の行動を研究します。
+Example1_EN: Social sciences study human behavior.
+Example2: 大学で社会科学を専攻しています。
+Example2_EN: I am majoring in social sciences at university.
+Example3: 社会科学の論文を書いています。
+Example3_EN: I am writing a social sciences paper.
+
+===word: 質===
+Nuance: 物事の本質的な価値や性質を表す名詞です。品質や内容の良し悪しを評価するときに使われます。
+Example1: この製品は質が高いです。
+Example1_EN: This product is of high quality.
+Example2: 量より質を重視しています。
+Example2_EN: I value quality over quantity.
+Example3: 質の良い睡眠が大切です。
+Example3_EN: Good quality sleep is important.
+
+===word: 学費===
+Nuance: 学校で学ぶために支払う費用のことを指します。授業料や入学金などが含まれます。
+Example1: 学費を払うためにアルバイトをしています。
+Example1_EN: I'm working part-time to pay for tuition.
+Example2: この大学の学費は高いです。
+Example2_EN: The tuition at this university is expensive.
+Example3: 学費の支払い方法を教えてください。
+Example3_EN: Please tell me how to pay the tuition.
+
+===word: 試着室===
+Nuance: 洋服を試しに着てみるための部屋やスペースを指します。服屋さんでよく使われる言葉です。
+Example1: 試着室はあちらです。
+Example1_EN: The fitting rooms are over there.
+Example2: 試着室でサイズを確認しました。
+Example2_EN: I checked the size in the fitting room.
+Example3: 試着室は今空いています。
+Example3_EN: The fitting room is available now.
+
+===word: オフレコ===
+Nuance: 公にしないこと、非公式であることを意味するカタカナ語です。報道や会話の文脈で使われます。
+Example1: これはオフレコでお願いします。
+Example1_EN: Please keep this off the record.
+Example2: 彼の話はオフレコでした。
+Example2_EN: His remarks were off the record.
+Example3: オフレコの情報を漏らしてはいけません。
+Example3_EN: You must not leak off-the-record information.
+
+===word: 手術===
+Nuance: 病気やけがを治療するために体を切ったり処置したりする医療行為を指します。
+Example1: 来週、手術を受ける予定です。
+Example1_EN: I am scheduled to have surgery next week.
+Example2: 手術は無事に終わりました。
+Example2_EN: The surgery ended safely.
+Example3: この病気は手術が必要です。
+Example3_EN: This illness requires surgery.
+
+===word: 直接===
+Nuance: 間に何も介さずに、じかに何かをすることを表す言葉です。方法や態度について使われます。
+Example1: 直接先生に質問しました。
+Example1_EN: I asked the teacher directly.
+Example2: 直接会って話したいです。
+Example2_EN: I want to talk in person.
+Example3: 直接メールでお送りします。
+Example3_EN: I will send it to you directly by email.
+
+===word: 飽きる===
+Nuance: 同じことを繰り返して嫌になることを意味する動詞です。日常的な場面でよく使われます。
+Example1: このゲームにはもう飽きました。
+Example1_EN: I'm already bored with this game.
+Example2: 同じ料理に飽きてしまいました。
+Example2_EN: I got tired of eating the same food.
+Example3: 飽きずに毎日練習を続けています。
+Example3_EN: I keep practicing every day without getting bored.
+
+===word: 卓球===
+Nuance: ピンポンとも呼ばれる、小さなラケットと軽いボールを使う室内競技です。日本で人気のあるスポーツです。
+Example1: 卓球を一緒にしませんか？
+Example1_EN: Would you like to play table tennis together?
+Example2: 卓球は老若男女楽しめます。
+Example2_EN: Table tennis can be enjoyed by people of all ages.
+Example3: 彼は卓球がとても上手です。
+Example3_EN: He is very good at table tennis.
+
+===word: 弾む===
+Nuance: 物が跳ね返ることを意味する動詞です。また、会話や気分が盛り上がるという比喩的な使い方もあります。
+Example1: ボールがよく弾みます。
+Example1_EN: The ball bounces well.
+Example2: 会話が弾んで楽しかったです。
+Example2_EN: The conversation was lively and enjoyable.
+Example3: このトランポリンはよく弾みます。
+Example3_EN: This trampoline bounces well.
+
+===word: 年下===
+Nuance: 自分より年齢が下であることを指します。年齢の比較や人間関係でよく使われます。
+Example1: 彼は私より年下です。
+Example1_EN: He is younger than me.
+Example2: 年下の社員が先に昇進しました。
+Example2_EN: A younger employee got promoted before me.
+Example3: 年下でも尊敬できる人はいます。
+Example3_EN: There are younger people I can still respect.
+
+===word: お仕舞い===
+Nuance: 物事が終わることや最後を意味する言葉です。やや日常的でカジュアルな響きがあります。
+Example1: 今日の仕事はお仕舞いにしましょう。
+Example1_EN: Let's call it a day for work.
+Example2: 映画はもうお仕舞いでした。
+Example2_EN: The movie was already over.
+Example3: お仕舞いの時間です。
+Example3_EN: It's closing time.
+
+===word: 恋愛対象===
+Nuance: 恋愛の感情や関心を向ける相手として見なされる人を指します。
+Example1: 彼は恋愛対象として見ていません。
+Example1_EN: I don't see him as a romantic interest.
+Example2: 恋愛対象の条件は人それぞれです。
+Example2_EN: The criteria for a romantic interest vary by person.
+Example3: 彼女は私の恋愛対象になりました。
+Example3_EN: She became my romantic interest.
+
+===word: 無能===
+Nuance: 能力がなくて役に立たないことを意味する名詞・形容動詞です。人に対する否定的な評価として使われます。
+Example1: 彼は無能な上司だと思われています。
+Example1_EN: He is considered an incompetent boss.
+Example2: 無能な人を雇うわけにはいきません。
+Example2_EN: We cannot hire incompetent people.
+Example3: 自分が無能だと感じる時があります。
+Example3_EN: There are times when I feel incompetent.
+
+===word: 言い辛い===
+Nuance: 言葉に出すのが難しい、または気まずいと感じることを表す形容詞です。デリケートな話題に関連して使われます。
+Example1: 言い辛いことですが、お伝えしなければなりません。
+Example1_EN: This is hard to say, but I must tell you.
+Example2: 彼に言い辛いお願いをしました。
+Example2_EN: I made a request to him that was hard to make.
+Example3: 言い辛い話があるんです。
+Example3_EN: There's something difficult to talk about.
+
+===word: 壁===
+Nuance: 部屋や建物の仕切りとなる垂直の構造物を指します。比喩的に障害や困難の意味でも使われます。
+Example1: 壁に絵を掛けました。
+Example1_EN: I hung a picture on the wall.
+Example2: この壁はとても厚いです。
+Example2_EN: This wall is very thick.
+Example3: 壁にぶつかってしまいました。
+Example3_EN: I hit a wall (encountered an obstacle).
+
+===word: 三流===
+Nuance: レベルや質が低いことを表す言葉で、一流、二流に次ぐ三段階目の評価です。否定的なニュアンスがあります。
+Example1: あの大学は三流だと言われています。
+Example1_EN: That university is said to be third-rate.
+Example2: 三流のサービスには満足できません。
+Example2_EN: I cannot be satisfied with third-rate service.
+Example3: 彼は三流の評論家に過ぎません。
+Example3_EN: He is nothing more than a third-rate critic.
+
+===word: 翌===
+Nuance: 何かの次の日や次の年を表す接頭語です。「翌日」「翌年」「翌朝」などの形で使われます。
+Example1: 翌日、また会う約束をしました。
+Example1_EN: We arranged to meet again the following day.
+Example2: 翌朝、早く起きて出発しました。
+Example2_EN: I woke up early the next morning and departed.
+Example3: 翌年には新しい店を開きます。
+Example3_EN: We will open a new store the following year.
+
+===word: 自由===
+Nuance: 自分の思い通りに行動できる状態や権利を指します。哲学や政治、日常生活まで幅広く使われます。
+Example1: 自由な時間がほとんどありません。
+Example1_EN: I have almost no free time.
+Example2: 言論の自由は大切です。
+Example2_EN: Freedom of speech is important.
+Example3: 自由に意見を言ってください。
+Example3_EN: Please feel free to express your opinion.
+
+===word: 高級品===
+Nuance: 品質が高く、値段も高い商品を指します。ブランド品や贅沢品の文脈でよく使われます。
+Example1: この店では高級品を扱っています。
+Example1_EN: This store deals in luxury goods.
+Example2: 高級品を買う余裕はありません。
+Example2_EN: I can't afford to buy luxury items.
+Example3: 高級品は品質が違います。
+Example3_EN: Luxury goods are different in quality.
+
+===word: 不景気===
+Nuance: 経済が低迷している状態を指します。仕事や収入に関するマイナスの影響について話すときに使われます。
+Example1: 不景気で仕事が減りました。
+Example1_EN: Work has decreased due to the recession.
+Example2: 不景気の影響で給料が下がりました。
+Example2_EN: My salary decreased due to the economic slump.
+Example3: 不景気はいつ終わるのでしょうか。
+Example3_EN: I wonder when the recession will end.
+
+===word: 大急ぎ===
+Nuance: 非常に急いでいる様子を表す名詞・形容動詞です。時間がないときの行動を表現します。
+Example1: 大急ぎで駅に向かいました。
+Example1_EN: I rushed to the station in a great hurry.
+Example2: 大急ぎの用事があるんです。
+Example2_EN: I have urgent business to attend to.
+Example3: 大急ぎで準備をしてください。
+Example3_EN: Please prepare in a great hurry.
+
+===word: 生える===
+Nuance: 植物や毛などが自然に伸びて出てくることを意味する動詞です。
+Example1: 庭に雑草が生えました。
+Example1_EN: Weeds have grown in the garden.
+Example2: 彼のひげが濃く生えています。
+Example2_EN: His beard grows thick.
+Example3: この木はとても速く生えます。
+Example3_EN: This tree grows very fast.
+
+===word: 機長===
+Nuance: 飛行機の運航を指揮する責任者のことを指します。航空業界で使われる正式な肩書きです。
+Example1: 機長がアナウンスをしています。
+Example1_EN: The captain is making an announcement.
+Example2: 機長の判断で飛行経路が変わりました。
+Example2_EN: The flight route was changed at the captain's discretion.
+Example3: 機長はベテランのパイロットです。
+Example3_EN: The captain is an experienced pilot.
+
+===word: 書面===
+Nuance: 紙に書かれた文書や書類のことを指します。口頭ではなく文書で伝える場面で使われます。
+Example1: 書面でご連絡いたします。
+Example1_EN: We will contact you in writing.
+Example2: 書面にサインをお願いします。
+Example2_EN: Please sign the document.
+Example3: 書面を送っていただけますか？
+Example3_EN: Could you send me the document?
+
+===word: 黒帯===
+Nuance: 武道や格闘技で、高い技術レベルを示す黒い帯を指します。達人や熟練者の象徴です。
+Example1: 彼は柔道の黒帯を持っています。
+Example1_EN: He has a black belt in judo.
+Example2: 黒帯を取るために五年間練習しました。
+Example2_EN: I trained for five years to get my black belt.
+Example3: 黒帯の試験はとても難しいです。
+Example3_EN: The black belt exam is very difficult.
+
+===word: 武力===
+Nuance: 軍事力や物理的な力を使って物事を強行する力を指します。政治や紛争の文脈で使われます。
+Example1: 武力による解決は避けるべきです。
+Example1_EN: We should avoid resolution by military force.
+Example2: 武力行使は最後の手段です。
+Example2_EN: The use of force is the last resort.
+Example3: 武力に頼らない方法を考えましょう。
+Example3_EN: Let's think of a way that doesn't rely on force.

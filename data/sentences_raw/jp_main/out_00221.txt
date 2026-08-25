@@ -1,0 +1,485 @@
+===word: あれこれ===
+Nuance: 「あれこれ」は、特定せずに様々な事柄や物事を指す言葉です。日常会話でよく使われ、漠然と「いろいろなこと」を表す際に用います。カジュアルな表現で、書き言葉より話し言葉で頻繁に登場します。
+Example1: あれこれ考えすぎると、決断できなくなりますよ。
+Example1_EN: If you think about this and that too much, you won't be able to make a decision.
+Example2: あれこれ悩むより、まずは行動してみましょう。
+Example2_EN: Rather than worrying about one thing or another, let's try taking action first.
+Example3: 旅行の準備であれこれ忙しいです。
+Example3_EN: I'm busy with this and that with the travel preparations.
+
+===word: 偉い===
+Nuance: 「偉い」は、地位や能力が優れていること、または立派な行いをしたことを褒める際に使います。また、目上の人を敬って「偉い人」と言う用法や、子供に対して「よくできたね」という意味で使うこともあります。フォーマルよりはカジュアルな場面でよく使われます。
+Example1: 彼は若いのに偉いですね。
+Example1_EN: He's great even though he's young, isn't he?
+Example2: うちの子は毎日宿題をやって偉いです。
+Example2_EN: My child does their homework every day — they're so good.
+Example3: あの先生は学校で一番偉い人です。
+Example3_EN: That teacher is the most important person at the school.
+
+===word: 記事===
+Nuance: 「記事」は、新聞や雑誌、ウェブサイトなどに掲載される文章のことを指します。ニュースや特集、コラムなど、情報を伝えるための文章全般に使われる言葉です。ビジネスやメディアの文脈でよく登場します。
+Example1: この記事はとても面白い内容ですね。
+Example1_EN: This article has very interesting content, doesn't it?
+Example2: 昨日の新聞に政治に関する記事が出ていました。
+Example2_EN: There was an article about politics in yesterday's newspaper.
+Example3: ウェブサイトの記事をもう一度読み直しました。
+Example3_EN: I read the website article again from the beginning.
+
+===word: 救済===
+Nuance: 「救済」は、困難な状況にある人や組織を助けて、その状態から救い出すことを意味します。法律や経済、社会的な文脈で使われることが多く、ややフォーマルな響きがあります。例えば「貧困救済」「債務者救済」などの複合語で用いられます。
+Example1: この制度は低所得者を救済するためのものです。
+Example1_EN: This system is intended to provide relief for low-income people.
+Example2: 政府は被災地の救済に全力を尽くしています。
+Example2_EN: The government is doing its utmost to provide relief to the disaster-stricken area.
+Example3: 救済措置が早急に必要だと思います。
+Example3_EN: I believe relief measures are urgently needed.
+
+===word: 影===
+Nuance: 「影」は、光が遮られることでできる暗い形を指します。また、比喩的に「存在感」や「影響」「兆し」という意味でも使われます。例えば「影が薄い」は存在感が弱いこと、「影を落とす」は悪い影響を与えることを表します。
+Example1: 夕方になると、木の影が長くなります。
+Example1_EN: In the evening, the shadows of the trees grow longer.
+Example2: 彼女の影が壁に映っていました。
+Example2_EN: Her shadow was reflected on the wall.
+Example3: この事件は会社の評判に影を落としました。
+Example3_EN: This incident cast a shadow over the company's reputation.
+
+===word: 内閣===
+Nuance: 「内閣」は、日本の政治制度において、内閣総理大臣と国務大臣から構成される行政機関を指します。国の政策を決定し、行政を執行する最高機関です。ニュースや政治の話題で頻繁に登場するフォーマルな言葉です。
+Example1: 内閣は新しい政策を発表しました。
+Example1_EN: The Cabinet announced a new policy.
+Example2: 内閣の支持率が大きく変動しています。
+Example2_EN: The Cabinet's approval rating is fluctuating significantly.
+Example3: 内閣改造が来月行われる予定です。
+Example3_EN: A cabinet reshuffle is scheduled for next month.
+
+===word: 配布する===
+Nuance: 「配布する」は、チラシや資料、見本などを多くの人に広く配ることを意味します。不特定多数に無料で配る場合に使われ、ビジネスやイベントの場面でよく用いられます。似た意味の「配る」よりフォーマルで、書き言葉に適しています。
+Example1: 会場で資料を配布しますので、ご自由にお持ちください。
+Example1_EN: We will distribute materials at the venue, so please feel free to take them.
+Example2: 駅前で新しい店のチラシを配布しました。
+Example2_EN: We distributed flyers for the new store in front of the station.
+Example3: このパンフレットは入場者全員に配布されます。
+Example3_EN: This pamphlet will be distributed to all attendees.
+
+===word: 休業===
+Nuance: 「休業」は、店舗や会社が一時的に営業や業務を行わないことを指します。計画的に休む場合（夏季休業、年末年始休業）にも、臨時の場合（都合により休業）にも使われます。店頭の張り紙や公式告知でよく見られる表現です。
+Example1: こちらは本日臨時休業とさせていただきます。
+Example1_EN: We will be temporarily closed today.
+Example2: 来週は夏季休業のため、お休みをいただきます。
+Example2_EN: We will be closed next week for the summer holidays.
+Example3: この店は毎週月曜日が定休日で、休業です。
+Example3_EN: This store is closed every Monday as a regular holiday.
+
+===word: 裏切る===
+Nuance: 「裏切る」は、信頼や期待を寄せている人に対して、その期待を損なう行為をすることを意味します。人間関係における信頼の破壊を表す強い言葉で、恋愛や友情、政治の文脈などで使われます。また、「期待を裏切る」のように、良い意味でも使われることがあります。
+Example1: 彼は友達の信頼を裏切ってしまいました。
+Example1_EN: He betrayed his friend's trust.
+Example2: あの俳優の演技は期待を裏切りませんでした。
+Example2_EN: That actor's performance did not disappoint expectations.
+Example3: 裏切られるのが怖くて、なかなか心を開けません。
+Example3_EN: I'm afraid of being betrayed, so I can't easily open up to people.
+
+===word: 割引券===
+Nuance: 「割引券」は、商品やサービスの代金を割り引いてもらえる券のことです。レストランやショップ、観光施設などで発行され、提示することで割引価格で購入できます。日常会話からビジネスまで幅広く使われる言葉です。
+Example1: この割引券は来月まで使えます。
+Example1_EN: This discount coupon is valid until next month.
+Example2: 割引券を忘れたので、定価で払いました。
+Example2_EN: I forgot my discount coupon, so I paid the full price.
+Example3: 割引券をインターネットで印刷できますか？
+Example3_EN: Can I print the discount coupon from the internet?
+
+===word: 店長===
+Nuance: 「店長」は、店舗の責任者を指します。スーパーやコンビニ、飲食店など、様々な店舗で使われる一般的な肩書きです。社員の中で最も権限があり、スタッフの管理や売上管理、在庫管理などを行います。ややカジュアルな響きがあります。
+Example1: 店長にお客様からのクレームを報告しました。
+Example1_EN: I reported the customer complaint to the store manager.
+Example2: この店の店長はとても親切な人です。
+Example2_EN: The manager of this store is a very kind person.
+Example3: 店長に商品の追加発注をお願いしました。
+Example3_EN: I asked the store manager to place an additional order for the product.
+
+===word: 検査===
+Nuance: 「検査」は、物事や人の状態を詳しく調べて、異常や問題の有無を確認することを指します。医療（健康診断、血液検査）、製品（品質検査）、機械（点検）など、幅広い分野で使われるフォーマルな言葉です。
+Example1: 病院で詳しい検査を受ける予定です。
+Example1_EN: I'm scheduled to undergo a detailed examination at the hospital.
+Example2: 検査の結果は来週出ます。
+Example2_EN: The test results will be available next week.
+Example3: 製品の品質検査を毎日行っています。
+Example3_EN: We conduct product quality inspections every day.
+
+===word: 擬似乱数===
+Nuance: 「擬似乱数」は、コンピュータがアルゴリズムによって生成する、ランダムに見える数字の列を指します。真の乱数ではなく、計算によって作られるため「擬似」と表現されます。プログラミングや暗号理論、シミュレーションなどの技術分野で使われる専門用語です。
+Example1: このプログラムは擬似乱数を使ってデータを生成します。
+Example1_EN: This program generates data using pseudo-random numbers.
+Example2: 擬似乱数は暗号化の分野で重要な役割を果たします。
+Example2_EN: Pseudo-random numbers play an important role in the field of encryption.
+Example3: シミュレーションには高品質の擬似乱数が必要です。
+Example3_EN: High-quality pseudo-random numbers are required for simulations.
+
+===word: 悲鳴===
+Nuance: 「悲鳴」は、恐怖や驚き、痛みを感じたときに思わず発する叫び声を指します。ホラー映画や事故の場面などで使われることが多いです。また、比喩的に「悲鳴を上げる」という形で、機械や体が限界に達している状態を表すこともあります。
+Example1: 悲鳴を聞いて、すぐに外に飛び出しました。
+Example1_EN: I heard a scream and immediately ran outside.
+Example2: ホラー映画のシーンで、思わず悲鳴を上げてしまいました。
+Example2_EN: I couldn't help but scream at the scene in the horror movie.
+Example3: 古いパソコンが悲鳴を上げています。
+Example3_EN: My old computer is groaning under the strain.
+
+===word: 上限がない===
+Nuance: 「上限がない」は、数量や金額、程度などに上限が設定されていないことを意味する表現です。クレジットカードの限度額や、予算、年齢制限などの話題で使われます。また、比喩的に「可能性は無限だ」というポジティブな意味でも使われます。
+Example1: このカードは利用額に上限がありません。
+Example1_EN: There is no upper limit on the usage amount for this card.
+Example2: 彼の成長には本当に上限がないですね。
+Example2_EN: There really is no limit to his growth, is there?
+Example3: このイベントの参加者数には上限がないそうです。
+Example3_EN: I heard there is no upper limit on the number of participants for this event.
+
+===word: 徐々に===
+Nuance: 「徐々に」は、物事が少しずつ段階を踏んで進む様子を表す副詞です。急激ではなく、時間をかけてゆっくり変化する場合に使います。フォーマル・カジュアルどちらでも使える便利な言葉で、書き言葉にも話し言葉にも適しています。
+Example1: 気温が徐々に上がってきています。
+Example1_EN: The temperature is gradually rising.
+Example2: 彼の日本語は徐々に上達しています。
+Example2_EN: His Japanese is gradually improving.
+Example3: 薬の効果が徐々に現れ始めました。
+Example3_EN: The effect of the medicine has gradually begun to show.
+
+===word: 主に===
+Nuance: 「主に」は、複数の要素の中で中心となるものや、最も重要なものを指す副詞です。「ほとんど」「だいたい」という意味合いで、話の焦点を絞る際に使います。日常会話でもビジネスでも広く使われる表現です。
+Example1: この仕事は主にデータ入力が中心です。
+Example1_EN: This job mainly involves data entry.
+Example2: 主に週末にジムで運動しています。
+Example2_EN: I mainly exercise at the gym on weekends.
+Example3: このレストランは主に魚料理が人気です。
+Example3_EN: This restaurant is mainly popular for its fish dishes.
+
+===word: 増幅===
+Nuance: 「増幅」は、音や電気信号、力などの大きさを強めることを意味します。特に電子工学や物理学の分野で使われる専門用語ですが、比喩的に「感情や影響を大きくする」という意味でも使われます。フォーマルな響きがあります。
+Example1: この機械は音声信号を増幅します。
+Example1_EN: This machine amplifies audio signals.
+Example2: マイクを使うと声を大きく増幅できます。
+Example2_EN: Using a microphone, you can amplify your voice greatly.
+Example3: SNSの影響力が増幅されていると感じます。
+Example3_EN: I feel that the influence of social media is being amplified.
+
+===word: 窓口===
+Nuance: 「窓口」は、銀行や役所、病院などで、来客や利用者との対応を行うカウンターや受付を指します。また、比喩的に「組織やサービスの連絡・問い合わせ先」という意味でも使われます。ビジネスや行政の場面で頻繁に登場する言葉です。
+Example1: お問い合わせは、こちらの窓口で承っております。
+Example1_EN: We handle inquiries at this counter.
+Example2: 銀行の窓口で振込をしました。
+Example2_EN: I made a transfer at the bank counter.
+Example3: この部署がお客様からの苦情の窓口になっています。
+Example3_EN: This department serves as the contact point for customer complaints.
+
+===word: 示す===
+Nuance: 「示す」は、物事を他人に見せたり、明らかにしたりすることを意味します。具体的な物を見せる場合と、証拠やデータなどで主張を裏付ける場合の両方で使われます。フォーマルな文書や学術的な文脈でよく使われる動詞です。
+Example1: データは結果の改善を示しています。
+Example1_EN: The data shows an improvement in the results.
+Example2: 地図で場所を示してください。
+Example2_EN: Please show me the location on the map.
+Example3: 彼は関心を示さなかったので、驚きました。
+Example3_EN: He showed no interest, so I was surprised.
+
+===word: ビールの栓を抜く===
+Nuance: 「ビールの栓を抜く」は、ビール瓶の王冠や、ビール缶のプルタブを開ける動作を指します。居酒屋や家庭での飲み会など、くつろいだ場面で使われるカジュアルな表現です。ビールに限らず、栓や蓋を開ける動作全般にも応用できます。
+Example1: 父がビールの栓を抜いてくれました。
+Example1_EN: My father opened the beer bottle for me.
+Example2: ビールの栓を抜くときに、泡が吹き出しました。
+Example2_EN: When I opened the beer, the foam spilled out.
+Example3: この道具を使うと、ビールの栓が簡単に抜けます。
+Example3_EN: With this tool, you can easily open the beer bottle.
+
+===word: 通じる===
+Nuance: 「通じる」は、言葉や考えが相手に正しく伝わること、または道路や線路などが一箇所から別の場所まで続いていることを意味します。他にも「電気や水が通じる」「電話が通じる」など、様々な用途がある多義語です。
+Example1: 彼の英語はよく通じますね。
+Example1_EN: His English is well understood, isn't it?
+Example2: この辺りはまだ電話が通じない場所です。
+Example2_EN: This area is still a place where phone signals don't reach.
+Example3: この道は駅まで通じています。
+Example3_EN: This road leads all the way to the station.
+
+===word: 走り去る===
+Nuance: 「走り去る」は、走ってその場から離れることを意味する動詞です。「去る」が付くことで、単に走るだけでなく、遠ざかっていくイメージが強調されます。車や人が急にその場を離れる様子を描写する際に使われます。
+Example1: その車は猛スピードで走り去りました。
+Example1_EN: The car sped away at great speed.
+Example2: 彼女は振り返らずに走り去っていきました。
+Example2_EN: She ran away without looking back.
+Example3: 犯人はその場から走り去ったようです。
+Example3_EN: It seems the culprit ran away from the scene.
+
+===word: 効力===
+Nuance: 「効力」は、法律や規則、契約などの持つ拘束力や有効性、または薬や治療法の効果を指します。フォーマルな場面で使われることが多く、法律、ビジネス、医療の分野で頻繁に登場します。
+Example1: この法律は来月から効力が発生します。
+Example1_EN: This law will take effect from next month.
+Example2: この薬は強い効力を持っています。
+Example2_EN: This medicine has a strong effect.
+Example3: その契約はまだ効力がありますか？
+Example3_EN: Is that contract still in effect?
+
+===word: 顔色===
+Nuance: 「顔色」は、顔の血色や表情の様子を指します。特に、健康状態や感情の変化を読み取る際に使われます。例えば「顔色が悪い」は体調が良くないこと、「顔色をうかがう」は相手の機嫌や意図を探ることを意味します。
+Example1: 顔色が悪いですが、大丈夫ですか？
+Example1_EN: You look pale. Are you okay?
+Example2: 彼はいつも上司の顔色をうかがっています。
+Example2_EN: He's always watching his boss's expression to gauge his mood.
+Example3: 顔色が良くなって、安心しました。
+Example3_EN: Your complexion looks better — I'm relieved.
+
+===word: 実弾===
+Nuance: 「実弾」は、実際に発射して人や物にダメージを与えることができる弾丸を指します。対義語は空包や模擬弾です。軍事や警察、狩猟などの文脈で使われる専門用語で、日常会話ではあまり登場しませんが、映画やニュースで見かけることがあります。
+Example1: 訓練では実弾は使用しません。
+Example1_EN: We do not use live ammunition in training.
+Example2: 警察官は実弾を携帯しています。
+Example2_EN: Police officers carry live ammunition.
+Example3: 実弾と空包では、重さが違います。
+Example3_EN: Live ammunition and blank rounds differ in weight.
+
+===word: 意志===
+Nuance: 「意志」は、何かをしようとする積極的な心の働きや、自分の意思で行動を決定する力を指します。哲学や心理学の文脈でも使われますが、日常会話でも「意志が強い」「意志を貫く」などの表現でよく使われます。
+Example1: 彼は強い意志を持っている人です。
+Example1_EN: He is a person with strong willpower.
+Example2: 自分の意志でこの道を選びました。
+Example2_EN: I chose this path of my own volition.
+Example3: 意志の力だけでは、解決できない問題もあります。
+Example3_EN: There are some problems that cannot be solved by willpower alone.
+
+===word: 選挙===
+Nuance: 「選挙」は、国民や会員が投票によって代表者や役員を選ぶ制度を指します。国政選挙（衆議院選挙、参議院選挙）から地方選挙、さらには組織内の役員選挙まで幅広く使われます。ニュースや政治の話題で最も頻繁に登場する言葉の一つです。
+Example1: 来月、衆議院議員の選挙が行われます。
+Example1_EN: The election for members of the House of Representatives will be held next month.
+Example2: 選挙の投票率が年々低下しています。
+Example2_EN: Voter turnout in elections has been declining year by year.
+Example3: この選挙には多くの若者が関心を持っています。
+Example3_EN: Many young people are interested in this election.
+
+===word: 水力===
+Nuance: 「水力」は、水の流れや落下する力によって生み出されるエネルギーを指します。水力発電などの分野で使われる技術用語で、再生可能エネルギーの一つとして注目されています。自然エネルギーに関する議論や工学の文脈で登場します。
+Example1: 水力はクリーンなエネルギー源です。
+Example1_EN: Hydropower is a clean energy source.
+Example2: この地域では水力発電が盛んです。
+Example2_EN: Hydroelectric power generation is thriving in this region.
+Example3: 水力の利用は古くから行われてきました。
+Example3_EN: The use of hydropower has been practiced since ancient times.
+
+===word: 証人===
+Nuance: 「証人」は、事件や取引などの事実を自分の経験や知識に基づいて証言する人を指します。法律用語として、裁判で証言する人を特に指しますが、日常的には結婚式の立会人や、契約の署名証人なども含みます。目撃者を指す「目撃者」とは異なり、証言する立場に焦点があります。
+Example1: 証人として法廷で証言しました。
+Example1_EN: I testified in court as a witness.
+Example2: 彼はその事件の重要証人です。
+Example2_EN: He is a key witness in that case.
+Example3: 証人の話には矛盾点がありました。
+Example3_EN: There were inconsistencies in the witness's statement.
+
+===word: 燃える===
+Nuance: 「燃える」は、火がついて燃え上がることを意味する自動詞です。また、比喩的に「情熱が燃える」「闘志が燃える」のように、感情が高ぶる様子を表現する際にも使われます。日常会話で非常によく使われる基本動詞の一つです。
+Example1: この紙はとても燃えやすいです。
+Example1_EN: This paper is very flammable.
+Example2: 遠くの山が燃えているのが見えました。
+Example2_EN: We could see a mountain burning in the distance.
+Example3: 彼の情熱が燃えているのを感じます。
+Example3_EN: I can feel his passion burning.
+
+===word: 朝立ち===
+Nuance: 「朝立ち」は、男性が起床時に陰茎が勃起している生理現象を指す俗称です。医学的には「夜間陰茎勃起現象」の一部で、健康な男性に自然に起こるものです。専門用語ではなく、日常会話で使われるくだけた表現です。なお、同じ読みで別の意味（朝早く出発すること）もありますが、ここではこの生理現象の意味を扱います。
+Example1: 朝立ちは健康な男性なら誰にでも起こるものです。
+Example1_EN: Morning erections happen to any healthy man.
+Example2: 先生は朝立ちのメカニズムについて説明しました。
+Example2_EN: The teacher explained the mechanism of morning erections.
+Example3: 朝立ちはテストステロンの分泌と関係があります。
+Example3_EN: Morning erections are related to testosterone secretion.
+
+===word: 品===
+Nuance: 「品」は、商品や物品、品物を指す一般的な言葉です。スーパーやデパートで売られている物を指す場合や、製品の種類を表す場合に使われます。また、「品がある」「品がない」のように、人の振る舞いや趣味の良さを表す用法もあります。
+Example1: この店は品揃えが豊富です。
+Example1_EN: This store has a wide selection of items.
+Example2: お客様からお預かりした品は、こちらで保管しています。
+Example2_EN: We keep the items entrusted to us by customers here.
+Example3: 彼女はいつも品のある服を着ていますね。
+Example3_EN: She always wears elegant clothes, doesn't she?
+
+===word: 指定===
+Nuance: 「指定」は、特定のものや人、場所、日時などを明確に決めることを意味します。交通機関の「座席指定」や、試験の「指定科目」、会議の「指定日」など、幅広い場面で使われるフォーマルな言葉です。
+Example1: 座席指定を事前に行ってください。
+Example1_EN: Please reserve your seat in advance.
+Example2: 指定された場所に書類を提出しました。
+Example2_EN: I submitted the documents to the designated location.
+Example3: この試験には指定の辞書を使用しなければなりません。
+Example3_EN: You must use the designated dictionary for this exam.
+
+===word: 姉妹===
+Nuance: 「姉妹」は、姉と妹、つまり女のきょうだいを指す言葉です。実の姉妹だけでなく、比喩的に「姉妹都市」「姉妹校」「姉妹提携」のように、密接な関係にある二つの組織や団体を表す際にも使われます。
+Example1: 私には姉妹が二人います。
+Example1_EN: I have two sisters.
+Example2: この二つの都市は姉妹都市として提携しています。
+Example2_EN: These two cities are twinned as sister cities.
+Example3: 姉妹で同じ学校に通っています。
+Example3_EN: My sisters and I attend the same school.
+
+===word: 巨額===
+Nuance: 「巨額」は、金額が非常に大きいことを表す形容動詞・名詞です。数百万、数千万、数億といったレベルの大きな金額を指す際に使われ、ニュースやビジネスの文脈でよく登場します。フォーマルな響きがあり、日常会話では「すごい金額」の方がよく使われます。
+Example1: その会社は巨額の損失を出しました。
+Example1_EN: That company incurred a massive loss.
+Example2: 巨額の資金がプロジェクトに投入されました。
+Example2_EN: A huge amount of funds was invested in the project.
+Example3: 彼は巨額の遺産を相続したそうです。
+Example3_EN: I heard he inherited a huge fortune.
+
+===word: 不審な===
+Nuance: 「不審な」は、怪しい、疑わしい、または普通ではないと感じられる様子を表す形容動詞の連体形です。人物の挙動や物事の状況に対して、不信感や疑問を抱く場合に使われます。警察やセキュリティの文脈で特に頻繁に使われます。
+Example1: 不審な人物が駅の周辺をうろついています。
+Example1_EN: A suspicious person is loitering around the station.
+Example2: 不審なメールが届いたので、開けませんでした。
+Example2_EN: I received a suspicious email, so I didn't open it.
+Example3: 不審な点があれば、すぐにご連絡ください。
+Example3_EN: If you notice anything suspicious, please contact us immediately.
+
+===word: 国外===
+Nuance: 「国外」は、国の領域の外側を指す言葉です。海外旅行や国際問題、法律の適用範囲などの話題で使われます。フォーマルな表現で、ニュースや公文書で頻繁に登場します。対義語は「国内」です。
+Example1: この製品は国外への持ち出しが禁止されています。
+Example1_EN: This product is prohibited from being taken outside the country.
+Example2: 国外で生活した経験がありますか？
+Example2_EN: Do you have experience living abroad?
+Example3: 国外からの観光客が増えています。
+Example3_EN: The number of tourists from abroad is increasing.
+
+===word: 改名する===
+Nuance: 「改名する」は、名前を改めて新しい名前に変えることを意味します。芸能人が芸名を変える場合や、結婚後の姓の変更、会社の名称変更など、様々な場面で使われます。フォーマルな響きがあります。
+Example1: 彼は芸名を改名することにしました。
+Example1_EN: He decided to change his stage name.
+Example2: 結婚して名字を改名しました。
+Example2_EN: I changed my surname after getting married.
+Example3: 会社が来月から社名を改名する予定です。
+Example3_EN: The company plans to change its corporate name starting next month.
+
+===word: 生存者===
+Nuance: 「生存者」は、事故や災害、戦争などの危険な状況の中で生き残った人を指します。ニュースで災害や事故の報道の際に頻繁に使われる言葉です。切迫感や深刻さを伴う文脈で用いられることが多いです。
+Example1: 事故の生存者は約三時間後に救出されました。
+Example1_EN: The accident survivor was rescued about three hours later.
+Example2: 生存者の救出活動が続けられています。
+Example2_EN: Rescue operations for survivors are ongoing.
+Example3: 生存者の中には重傷を負った方もいらっしゃいます。
+Example3_EN: Some of the survivors sustained serious injuries.
+
+===word: 食用===
+Nuance: 「食用」は、食べるために使われること、または食べられることを意味します。動植物や物質が人間の食べ物として適しているかどうかを表す際に使われます。例えば「食用菊」「食用色素」「食用油」など、複合語の形でよく使われます。
+Example1: このキノコは食用ですか？
+Example1_EN: Is this mushroom edible?
+Example2: 食用の花を使ったサラダが人気です。
+Example2_EN: Salads made with edible flowers are popular.
+Example3: この油は食用として安全です。
+Example3_EN: This oil is safe for consumption as food.
+
+===word: 悪用===
+Nuance: 「悪用」は、本来の目的や正しい使い方とは異なる、悪い目的のために物事や情報、権限などを利用することを意味します。法律用語やニュースで頻繁に登場するフォーマルな言葉です。「個人情報の悪用」「権限の悪用」などの形で使われます。
+Example1: 個人情報の悪用は絶対に許されません。
+Example1_EN: Misuse of personal information is absolutely unacceptable.
+Example2: このシステムは悪用される危険性があります。
+Example2_EN: This system carries the risk of being misused.
+Example3: クレジットカードが悪用されていないか確認しました。
+Example3_EN: I checked whether my credit card had been misused.
+
+===word: 喫茶店===
+Nuance: 「喫茶店」は、コーヒーや紅茶、軽食などを提供する飲食店を指します。カフェと似ていますが、「喫茶店」はより喫茶に特化した昔ながらの雰囲気の店をイメージさせることが多いです。日本の喫茶店文化として、モーニングサービスやレトロな内装などが特徴的です。
+Example1: この喫茶店のコーヒーはとても美味しいです。
+Example1_EN: The coffee at this coffee shop is very delicious.
+Example2: 喫茶店で友達と待ち合わせをしました。
+Example2_EN: I arranged to meet my friend at a coffee shop.
+Example3: 駅前に新しい喫茶店ができましたね。
+Example3_EN: A new coffee shop has opened in front of the station, hasn't it?
+
+===word: 可能性===
+Nuance: 「可能性」は、物事が実現する見込みや、ある状態になる余地を指します。ビジネスや学術、日常会話まで幅広く使われる重要な言葉です。「可能性が高い」「可能性がある」「可能性を探る」など、様々な表現で用いられます。
+Example1: 成功する可能性は十分にあります。
+Example1_EN: There is a good possibility of success.
+Example2: この研究には新しい発見の可能性があります。
+Example2_EN: This research has the potential for new discoveries.
+Example3: 可能性を広げるために、いろいろなことに挑戦しています。
+Example3_EN: I'm trying various things to expand my possibilities.
+
+===word: 発明する===
+Nuance: 「発明する」は、今までにない新しい物や技術を考え出して作り出すことを意味します。エジソンの電球や、電話、インターネットなどの画期的な成果を指す場合に使われます。特許や技術開発の文脈でよく登場するフォーマルな言葉です。
+Example1: この機械は日本で発明されました。
+Example1_EN: This machine was invented in Japan.
+Example2: 彼は新しいエネルギーを発明しました。
+Example2_EN: He invented a new form of energy.
+Example3: 発明した技術は特許を取得しました。
+Example3_EN: The technology I invented has been patented.
+
+===word: 返答===
+Nuance: 「返答」は、質問や呼びかけに対して答えること、またはその答えの内容を指します。日常会話では「返事」の方がカジュアルですが、「返答」はややフォーマルで、ビジネスや正式な場面で好まれます。
+Example1: ご質問への返答をお待ちしております。
+Example1_EN: We await your response to the question.
+Example2: 彼からの返答はまだありません。
+Example2_EN: There has been no reply from him yet.
+Example3: できるだけ早く返答いたします。
+Example3_EN: I will respond as soon as possible.
+
+===word: 教え===
+Nuance: 「教え」は、知識や技術、道徳などを他者に伝えること、またはその内容を指します。先生や親から子へ、宗教の教義など、幅広い意味で使われます。動詞「教える」の名詞形で、ややフォーマルな響きがあります。
+Example1: 先生の教えを今でも覚えています。
+Example1_EN: I still remember my teacher's teachings.
+Example2: この教えは代々受け継がれてきました。
+Example2_EN: These teachings have been passed down through generations.
+Example3: 彼の教えのおかげで、成長できました。
+Example3_EN: Thanks to his teachings, I was able to grow.
+
+===word: 西洋人===
+Nuance: 「西洋人」は、ヨーロッパや北アメリカなどの西洋諸国出身の人々を指す言葉です。日本では、欧米からの外国人を総称して使うことが多いですが、ややカテゴリー化した表現のため、現代では個人を指す際には「アメリカ人」「フランス人」など具体的な国名を使うことが好まれます。
+Example1: 西洋人と日本人では、考え方に違いがありますね。
+Example1_EN: There are differences in ways of thinking between Westerners and Japanese people.
+Example2: この店には西洋人のお客様も多く来ます。
+Example2_EN: Many Western customers also visit this store.
+Example3: 西洋人の友達から誕生日プレゼントをもらいました。
+Example3_EN: I received a birthday present from a Western friend.
+
+===word: 影も形もない===
+Nuance: 「影も形もない」は、人や物の存在が全く確認できない様子を表す慣用表現です。本来そこにあるはずのものが、どこにも見当たらない場合に使います。比喩的に「手がかりが全くない」という意味でも使われます。
+Example1: さっきまでここにいたのに、もう影も形もありません。
+Example1_EN: He was here just a moment ago, but now there's no trace of him.
+Example2: 証拠品は影も形もなくなっていました。
+Example2_EN: The evidence had vanished without a trace.
+Example3: 彼の姿は、影も形も見えませんでした。
+Example3_EN: There was no sign or shadow of him to be seen.
+
+===word: 出版社===
+Nuance: 「出版社」は、書籍や雑誌、教科書などを編集・発行する会社を指します。出版業界の中心的な存在で、大手出版社から小さな専門出版社まで様々な規模のものがあります。ビジネスや文化の文脈で使われる言葉です。
+Example1: この本は有名な出版社から出ています。
+Example1_EN: This book is published by a famous publishing company.
+Example2: 出版社に原稿を送りました。
+Example2_EN: I sent the manuscript to the publisher.
+Example3: 出版社で編集者として働いています。
+Example3_EN: I work as an editor at a publishing company.
+
+===word: 現住所===
+Nuance: 「現住所」は、現在住んでいる住所を指します。役所への届け出や、各種書類の記入欄でよく見かける言葉です。転居した場合に「旧住所」と対比して使われることもあります。フォーマルな書類用語です。
+Example1: 現住所をこちらの用紙にご記入ください。
+Example1_EN: Please write your current address on this form.
+Example2: 現住所に変更があった場合は、お知らせください。
+Example2_EN: Please inform us if there is a change in your current address.
+Example3: 私の現住所は東京都新宿区です。
+Example3_EN: My current address is in Shinjuku-ku, Tokyo.
+
+===word: 週刊===
+Nuance: 「週刊」は、毎週一回発行されることを意味する言葉です。主に雑誌や新聞に対して使われ、「週刊誌」「週刊新聞」などの複合語でよく見られます。月刊や日刊と対比される言葉で、出版やメディアの分野で使われます。
+Example1: この情報は週刊誌で読みました。
+Example1_EN: I read this information in a weekly magazine.
+Example2: 週刊のニュースレターを購読しています。
+Example2_EN: I subscribe to a weekly newsletter.
+Example3: 週刊誌の最新号が発売されました。
+Example3_EN: The latest issue of the weekly magazine has been released.
+
+===word: 呪う===
+Nuance: 「呪う」は、言葉や儀式によって相手に不幸や災いが降りかかることを願う行為を指します。また、比喩的に「自分の運命や状況を呪う」という形で、強い不満や悔しさを表現する際にも使われます。やや強い感情を伴う言葉です。
+Example1: 彼は自分の運命を呪いました。
+Example1_EN: He cursed his own fate.
+Example2: あんなことをした人を呪いたくなります。
+Example2_EN: It makes me want to curse the person who did such a thing.
+Example3: 呪うよりも、許すことが大切だと思います。
+Example3_EN: I think forgiving is more important than cursing.
+
+===word: 重たい===
+Nuance: 「重たい」は、物の重量が大きいことを表す形容詞で、「重い」の口語的なバリエーションです。「重い」とほぼ同じ意味ですが、「重たい」の方がより感情的なニュアンスを含み、「持ち上げるのが大変だ」という感覚が強調されます。また、気分や雰囲気が沈んでいる場合にも使われます。
+Example1: この荷物はとても重たいです。
+Example1_EN: This luggage is very heavy.
+Example2: 重たい雰囲気の会議でしたね。
+Example2_EN: It was a meeting with a heavy atmosphere, wasn't it?
+Example3: その話を聞いて、心が重たくなりました。
+Example3_EN: After hearing that story, my heart felt heavy.

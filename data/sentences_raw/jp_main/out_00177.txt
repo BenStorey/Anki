@@ -1,0 +1,728 @@
+===word: 団結する===
+Nuance: 人々や集団が一つの目的のために結束し、まとまることを表します。政治やスポーツ、職場などで使われるやや硬い表現です。
+Example1: 社員全員が一丸となって団結します。
+Example1_EN: All employees unite as one.
+Example2: チームは困難な状況でも団結しました。
+Example2_EN: The team united even in difficult circumstances.
+Example3: 私たちは同じ目標に向かって団結しましょう。
+Example3_EN: Let's unite toward the same goal.
+
+===word: 塗る===
+Nuance: 壁や紙などの表面に色や液体を薄く広げて付けることを表します。ペンキ、化粧品、薬など、さまざまなものに使います。
+Example1: 壁を白く塗ります。
+Example1_EN: I paint the wall white.
+Example2: 日焼け止めを顔に塗りました。
+Example2_EN: I applied sunscreen to my face.
+Example3: このテーブルにニスを塗りますか？
+Example3_EN: Will you varnish this table?
+
+===word: 乗り込む===
+Nuance: 車や電車、船などに勢いよく、または大勢で乗ることを表します。乗り物に乗って中に入るイメージの言葉です。
+Example1: 私たちはバスに乗り込みます。
+Example1_EN: We get on the bus.
+Example2: 彼はタクシーに乗り込みました。
+Example2_EN: He got into a taxi.
+Example3: どうぞ車に乗り込んでください。
+Example3_EN: Please get into the car.
+
+===word: 突撃隊===
+Nuance: 敵陣に突き進んで攻撃するための部隊を指します。軍隊や歴史の話で使われることが多い言葉です。
+Example1: 突撃隊は夜明けに攻撃を開始します。
+Example1_EN: The storm troops begin their attack at dawn.
+Example2: 彼はかつて突撃隊に所属していました。
+Example2_EN: He once belonged to the storm troops.
+Example3: 突撃隊の動きは素早いです。
+Example3_EN: The storm troops' movements are quick.
+
+===word: 銀河===
+Nuance: 無数の恒星や星雲などが集まった天体の集まりを指します。天文学の分野で使われ、壮大なイメージを持つ言葉です。
+Example1: 私たちの銀河にはたくさんの星があります。
+Example1_EN: Our galaxy has many stars.
+Example2: 昨夜、望遠鏡で銀河を観察しました。
+Example2_EN: I observed a galaxy with a telescope last night.
+Example3: 銀河の写真はとても美しいです。
+Example3_EN: Photographs of galaxies are very beautiful.
+
+===word: 格好つける===
+Nuance: 見た目や態度をよく見せようとして、無理に装うことを表します。やや否定的なニュアンスを含むくだけた表現です。
+Example1: 彼はいつも格好つけます。
+Example1_EN: He always tries to look good.
+Example2: 写真では格好つけました。
+Example2_EN: I posed for the photo.
+Example3: そんなに格好つけないでください。
+Example3_EN: Please don't show off so much.
+
+===word: 単価===
+Nuance: 商品一つ分の値段を指します。ビジネスや会計の場面で使われることが多く、やや硬い表現です。
+Example1: この商品の単価は五百円です。
+Example1_EN: The unit price of this product is 500 yen.
+Example2: 先月、原材料の単価が上がりました。
+Example2_EN: The unit price of raw materials rose last month.
+Example3: 単価を教えていただけますか？
+Example3_EN: Could you tell me the unit price?
+
+===word: 奮戦===
+Nuance: 全力を尽くして戦うことを表します。スポーツや試合、困難な状況に立ち向かう場面で使われ、敬意を含む硬い表現です。
+Example1: 選手たちは最後まで奮戦します。
+Example1_EN: The players fight hard until the end.
+Example2: 彼らは不利な状況でも奮戦しました。
+Example2_EN: They fought hard even in an unfavorable situation.
+Example3: 皆さんの奮戦に敬意を表します。
+Example3_EN: I pay tribute to your hard fighting.
+
+===word: 跋扈===
+Nuance: 悪い者や好ましくないものが、はびこって勝手に振る舞うことを表します。悪い意味で使われる硬い文語的な言葉です。
+Example1: この地域では悪質な業者が跋扈します。
+Example1_EN: Unscrupulous dealers run rampant in this area.
+Example2: 昔はこの辺りに野犬が跋扈していました。
+Example2_EN: Stray dogs used to run wild around here.
+Example3: 情報化社会では偽情報が跋扈しています。
+Example3_EN: Misinformation runs rampant in the information society.
+
+===word: 精機===
+Nuance: 精密機械や精密機器を指す言葉です。単独でも使われますが、会社名や「精機工業」のような複合語で見られることが多いです。
+Example1: この工場では精機部品を製造します。
+Example1_EN: This factory manufactures precision machinery parts.
+Example2: 父は精機メーカーに勤めていました。
+Example2_EN: My father worked at a precision machinery manufacturer.
+Example3: 精機工業は高い技術力で有名です。
+Example3_EN: The precision machinery industry is famous for its advanced technology.
+
+===word: 中止===
+Nuance: 物事を途中でやめること、または予定していたことを行わないことを表します。イベントや行事、放送などで使われます。
+Example1: 悪天候のため、試合は中止になります。
+Example1_EN: The game will be canceled due to bad weather.
+Example2: 昨日の講演会は中止になりました。
+Example2_EN: Yesterday's lecture was canceled.
+Example3: このイベントは中止しないでください。
+Example3_EN: Please don't cancel this event.
+
+===word: 仕事の虫===
+Nuance: 仕事ばかりしている人を指す俗語です。働くことが好きで、休むことを知らない人を表します。
+Example1: 父は典型的な仕事の虫です。
+Example1_EN: My father is a typical workaholic.
+Example2: 彼は仕事の虫で、週末も働きました。
+Example2_EN: He was a workaholic and worked on weekends too.
+Example3: 仕事の虫になりすぎないようにしてください。
+Example3_EN: Please try not to become too much of a workaholic.
+
+===word: 自省===
+Nuance: 自分の行いや言動を振り返って反省することを表します。硬い表現で、文章や正式な場面で使われます。
+Example1: この機会に自省します。
+Example1_EN: I will reflect on myself on this occasion.
+Example2: 彼は自分の態度を自省しました。
+Example2_EN: He reflected on his own attitude.
+Example3: 自省の時間を持ちましょう。
+Example3_EN: Let's take time for self-reflection.
+
+===word: 義手===
+Nuance: 事故や病気で失った腕の代わりに使う人工の腕を指します。医療や福祉の分野で使われる言葉です。
+Example1: 彼は最新の義手を使っています。
+Example1_EN: He uses the latest artificial arm.
+Example2: 義手の技術は大きく進歩しました。
+Example2_EN: Artificial arm technology has advanced greatly.
+Example3: 義手の調整は専門医に任せてください。
+Example3_EN: Please leave the adjustment of the artificial arm to a specialist.
+
+===word: 基礎知識===
+Nuance: ある分野を学ぶための土台となる基本的な知識を指します。勉強や仕事の場面でよく使われます。
+Example1: パソコンの基礎知識を身につけます。
+Example1_EN: I will acquire basic knowledge of computers.
+Example2: この講座では経済の基礎知識を学びました。
+Example2_EN: I learned basic knowledge of economics in this course.
+Example3: 基礎知識がないと応用は難しいです。
+Example3_EN: Without basic knowledge, application is difficult.
+
+===word: 当代===
+Nuance: 現在の時代を指すほか、「当代随一」のように、その時代で第一人者であることを表すのに使われます。やや硬い表現です。
+Example1: 彼は当代随一のピアニストです。
+Example1_EN: He is the foremost pianist of the present age.
+Example2: 当代の若者には新しい価値観があります。
+Example2_EN: The youth of the present age have new values.
+Example3: この作品は当代の空気をよく表しています。
+Example3_EN: This work well captures the atmosphere of the present age.
+
+===word: 抗体===
+Nuance: 体内に入ったウイルスや細菌などに対抗するために作られるたんぱく質を指します。医学や健康の分野で使われます。
+Example1: ワクチン接種で抗体ができます。
+Example1_EN: Antibodies are produced through vaccination.
+Example2: 検査の結果、抗体が確認されました。
+Example2_EN: Antibodies were confirmed as a result of the test.
+Example3: 抗体はどのようにして作られますか？
+Example3_EN: How are antibodies produced?
+
+===word: 国土交通省===
+Nuance: 日本の行政機関の一つで、国土の開発や交通、観光など幅広い分野を担当する省庁を指します。ニュースやビジネスでよく出てきます。
+Example1: 国土交通省が新しい計画を発表します。
+Example1_EN: The Ministry of Land, Infrastructure, Transport and Tourism announces a new plan.
+Example2: 国土交通省は昨日、対策をまとめました。
+Example2_EN: The ministry compiled countermeasures yesterday.
+Example3: 国土交通省の発表によると、工事は来年完了するそうです。
+Example3_EN: According to the ministry's announcement, the construction will be completed next year.
+
+===word: 反面===
+Nuance: 一つの物事の別の側面を対比して述べる時に使います。「一方で」と似ていますが、「反面」は同じ対象の別の面を指すのが特徴です。
+Example1: この仕事は楽しい反面、疲れます。
+Example1_EN: This job is fun, but on the other hand it is tiring.
+Example2: 都会は便利な反面、騒がしかったです。
+Example2_EN: The city was convenient, but on the other hand it was noisy.
+Example3: 彼は厳しい反面、優しいところもあります。
+Example3_EN: He is strict, but on the other hand he has a kind side.
+
+===word: 熱意===
+Nuance: 物事に真剣に取り組もうとする強い気持ちや情熱を表します。仕事や勉強、趣味などさまざまな場面で使われます。
+Example1: 彼は仕事に熱意を持っています。
+Example1_EN: He has enthusiasm for his work.
+Example2: 私は若い頃、熱意だけで突き進みました。
+Example2_EN: When I was young, I pushed forward with enthusiasm alone.
+Example3: 熱意を持って取り組んでください。
+Example3_EN: Please work on it with enthusiasm.
+
+===word: 制御文字===
+Nuance: コンピューターや通信の分野で、表示や印刷ではなく機器の制御に使われる文字を指します。専門的な用語です。
+Example1: このデータには制御文字が含まれます。
+Example1_EN: This data contains control characters.
+Example2: 制御文字が原因で文字化けが起きました。
+Example2_EN: Garbled text occurred because of a control character.
+Example3: 制御文字はどのように処理されますか？
+Example3_EN: How are control characters processed?
+
+===word: 健闘===
+Nuance: 力の限り戦い、善戦することを表します。スポーツや勝負の場面で、負けた相手へのねぎらいにも使われます。
+Example1: 両チームとも健闘します。
+Example1_EN: Both teams fight bravely.
+Example2: 彼女は最後まで健闘しました。
+Example2_EN: She fought bravely until the end.
+Example3: 皆さんの健闘を祈ります。
+Example3_EN: I wish you all the best of luck.
+
+===word: 理想的===
+Nuance: 物事が理想にかなっている様子を表します。人や環境、状態などに対して使われる形容動詞です。
+Example1: ここは仕事をするのに理想的な環境です。
+Example1_EN: This is an ideal environment for work.
+Example2: 彼女は理想的なパートナーでした。
+Example2_EN: She was an ideal partner.
+Example3: 理想的な解決策を考えましょう。
+Example3_EN: Let's think of an ideal solution.
+
+===word: 売れ行き===
+Nuance: 商品がどのくらい売れているかの具合を表します。「売れ行きが良い」「売れ行きが悪い」のように使われ、商業の場面でよく出てきます。
+Example1: 新商品の売れ行きは好調です。
+Example1_EN: Sales of the new product are strong.
+Example2: 先月の売れ行きは予想を上回りました。
+Example2_EN: Last month's sales exceeded expectations.
+Example3: この商品の売れ行きはどうですか？
+Example3_EN: How are sales of this product?
+
+===word: 彫刻刀===
+Nuance: 木や石などを彫るために使う道具を指します。美術や工芸の分野で使われる言葉です。
+Example1: 彫刻刀で木を彫ります。
+Example1_EN: I carve wood with a chisel.
+Example2: 学校の授業で彫刻刀を使いました。
+Example2_EN: I used a carving chisel in a school class.
+Example3: 彫刻刀は使い方に注意してください。
+Example3_EN: Please be careful how you use the chisel.
+
+===word: 既定値===
+Nuance: あらかじめ決められている標準の値や設定を指します。コンピューターやソフトウェアの分野でよく使われます。
+Example1: このソフトの既定値は自動で設定されます。
+Example1_EN: This software's default values are set automatically.
+Example2: 設定を既定値に戻しました。
+Example2_EN: I reset the settings to their default values.
+Example3: 既定値のままでも問題ありませんか？
+Example3_EN: Is it okay to keep the default values?
+
+===word: けらけら笑う===
+Nuance: 声を立てて、軽くて高らかに笑う様子を表します。ときに軽薄な印象を与える笑い方を指します。
+Example1: 彼女はその冗談にけらけら笑います。
+Example1_EN: She cackles at the joke.
+Example2: 子供たちはけらけら笑いながら遊びました。
+Example2_EN: The children played while cackling.
+Example3: そんなにけらけら笑わないでください。
+Example3_EN: Please don't cackle like that.
+
+===word: 吹き矢===
+Nuance: 筒に矢を入れて息を吹き込み、飛ばす道具やその矢を指します。狩猟や遊び、健康器具としても使われます。
+Example1: 彼は吹き矢で的を狙います。
+Example1_EN: He aims at a target with a blowgun.
+Example2: 昔の人は吹き矢で狩りをしました。
+Example2_EN: People in the old days hunted with blowguns.
+Example3: 吹き矢の練習を一緒にしましょう。
+Example3_EN: Let's practice the blowgun together.
+
+===word: 南部===
+Nuance: ある地域の中での南の方の部分を指します。「東部」「西部」と同様に、地理的な区分を表す言葉です。
+Example1: この県の南部は温暖です。
+Example1_EN: The southern part of this prefecture is mild.
+Example2: 日本列島の南部では台風が多かったです。
+Example2_EN: There were many typhoons in the southern part of the Japanese archipelago.
+Example3: 南部の天気はどうですか？
+Example3_EN: How is the weather in the southern part?
+
+===word: 局部麻酔===
+Nuance: 体の一部だけに麻酔をかけて痛みをなくす方法を指します。歯科や小さな手術でよく使われます。
+Example1: この手術は局部麻酔で行います。
+Example1_EN: This surgery is performed under local anesthesia.
+Example2: 歯医者で局部麻酔をしました。
+Example2_EN: I had local anesthesia at the dentist.
+Example3: 局部麻酔の効果はどのくらい続きますか？
+Example3_EN: How long does the effect of local anesthesia last?
+
+===word: 装置===
+Nuance: 特定の目的のために組み立てられた機械や器具の一式を指します。工業や科学の場面でよく使われます。
+Example1: この工場には新しい装置があります。
+Example1_EN: This factory has new equipment.
+Example2: 昨夜、警報装置が作動しました。
+Example2_EN: The alarm device went off last night.
+Example3: 装置の使い方を説明してください。
+Example3_EN: Please explain how to use the device.
+
+===word: 礼儀===
+Nuance: 人と付き合う上での正しい作法や、相手を敬う気持ちを表す態度を指します。日常生活やビジネスで重要とされる言葉です。
+Example1: 彼は目上の人に礼儀を尽くします。
+Example1_EN: He shows courtesy to his elders.
+Example2: 子供の頃、祖父母に礼儀を教えられました。
+Example2_EN: When I was a child, I was taught manners by my grandparents.
+Example3: 礼儀を忘れないでください。
+Example3_EN: Please don't forget your manners.
+
+===word: エロい===
+Nuance: 性的な内容を含む様子や、色っぽい雰囲気を表す俗語です。くだけた会話で使われ、フォーマルな場には向きません。
+Example1: その映画は少しエロいです。
+Example1_EN: That movie is a bit erotic.
+Example2: 彼の冗談はいつもエロかったです。
+Example2_EN: His jokes were always lewd.
+Example3: そんなエロい話はやめてください。
+Example3_EN: Please stop such lewd talk.
+
+===word: 登山===
+Nuance: 山に登ることを表します。趣味やスポーツとしての登山を指し、アウトドアの場面でよく使われます。
+Example1: 週末に友達と登山をします。
+Example1_EN: I go mountain climbing with my friends on the weekend.
+Example2: 去年、初めて富士山に登山しました。
+Example2_EN: Last year I climbed Mount Fuji for the first time.
+Example3: 登山の準備は整っていますか？
+Example3_EN: Are you ready for mountain climbing?
+
+===word: 突破する===
+Nuance: 障害や壁、限界を押し破って進むことを表します。物理的な突破だけでなく、記録や難関を乗り越える意味でも使われます。
+Example1: 新製品が技術的な壁を突破します。
+Example1_EN: The new product breaks through technological barriers.
+Example2: 彼はついに一万点を突破しました。
+Example2_EN: He finally broke through the 10,000-point mark.
+Example3: この問題を突破する方法を考えましょう。
+Example3_EN: Let's think of a way to break through this problem.
+
+===word: お絞り===
+Nuance: 食事の前などに手を拭くために出される、絞った濡れタオルを指します。日本の飲食店でよく見られます。
+Example1: この店ではお絞りが出ます。
+Example1_EN: This restaurant serves wet towels.
+Example2: お絞りで手を拭きました。
+Example2_EN: I wiped my hands with a wet towel.
+Example3: お絞りはどこに置いてありますか？
+Example3_EN: Where are the wet towels?
+
+===word: 感じ取る===
+Nuance: 直接見たり聞いたりしなくても、周囲の様子や相手の気持ちを感じて理解することを表します。
+Example1: 私は彼の不安を感じ取ります。
+Example1_EN: I sense his anxiety.
+Example2: 彼女は空気の変化を感じ取りました。
+Example2_EN: She sensed the change in the atmosphere.
+Example3: 相手の気持ちを感じ取ってください。
+Example3_EN: Please try to sense the other person's feelings.
+
+===word: 殴り飛ばす===
+Nuance: 強く殴って相手を遠くへ吹き飛ばすことを表します。乱暴で激しい動作を指す俗語的な表現です。
+Example1: 彼は相手を殴り飛ばします。
+Example1_EN: He punches the opponent away.
+Example2: 映画の中で悪役を殴り飛ばしました。
+Example2_EN: In the movie, he knocked down the villain.
+Example3: 人を殴り飛ばすのはやめてください。
+Example3_EN: Please stop punching people.
+
+===word: 読本===
+Nuance: 読み物として編まれた本や、教科書として使われる読書用の本を指します。やや古風な言い方です。
+Example1: この読本は小学生向けです。
+Example1_EN: This reader is for elementary school students.
+Example2: 昔の学校では国語の読本を使いました。
+Example2_EN: In the old days, schools used Japanese language readers.
+Example3: 読本はどこで買えますか？
+Example3_EN: Where can I buy the reader?
+
+===word: 幾ら===
+Nuance: 「幾ら〜ても」の形で、程度がどれほどでも結果が変わらないことを表します。また、数量や金額を尋ねる意味もあります。
+Example1: 幾ら待っても彼は来ません。
+Example1_EN: No matter how long I wait, he doesn't come.
+Example2: 幾ら練習しても上手くなりませんでした。
+Example2_EN: No matter how much I practiced, I didn't improve.
+Example3: 幾ら時間があっても足りません。
+Example3_EN: No matter how much time I have, it's not enough.
+
+===word: 花粉症===
+Nuance: 花粉が原因で起こるアレルギー症状を指します。日本では春のスギ花粉が有名で、多くの人が悩む季節性の病気です。
+Example1: 春になると花粉症に悩みます。
+Example1_EN: I suffer from hay fever when spring comes.
+Example2: 今年は花粉症の症状がひどかったです。
+Example2_EN: My hay fever symptoms were severe this year.
+Example3: 花粉症の薬を飲んでいますか？
+Example3_EN: Are you taking medicine for hay fever?
+
+===word: 垂らす===
+Nuance: 液体を少しずつ落とす、またはひもや布などを下にぶら下げることを表します。
+Example1: 彼は目薬を垂らします。
+Example1_EN: He puts eye drops in his eyes.
+Example2: 誤って絵の具を床に垂らしました。
+Example2_EN: I accidentally dripped paint on the floor.
+Example3: ロープを下に垂らしてください。
+Example3_EN: Please hang the rope down.
+
+===word: 上訴===
+Nuance: 裁判で、判決に不服がある場合に上の裁判所に不服を申し立てることを表します。法律の分野で使われる硬い言葉です。
+Example1: 被告は判決に対して上訴します。
+Example1_EN: The defendant appeals against the judgment.
+Example2: 弁護士は高裁に上訴しました。
+Example2_EN: The lawyer appealed to the high court.
+Example3: 上訴の期限はいつまでですか？
+Example3_EN: Until when is the appeal deadline?
+
+===word: 成績===
+Nuance: 勉強や仕事などの成果や結果を評価したものを指します。学校の試験の結果や、業績を表す際に使われます。
+Example1: 今学期の成績は優秀です。
+Example1_EN: My grades this term are excellent.
+Example2: 彼はテストの成績が上がりました。
+Example2_EN: His test scores improved.
+Example3: 成績はいつ発表されますか？
+Example3_EN: When will the grades be announced?
+
+===word: 廃止予定===
+Nuance: 制度や物事をやめる予定であることを表します。サービスや法律、路線などが廃止されることを伝える場面で使われます。
+Example1: この路線は来年廃止予定です。
+Example1_EN: This line is scheduled to be abolished next year.
+Example2: あのサービスは先月廃止予定でしたが、延期になりました。
+Example2_EN: That service was scheduled to be abolished last month, but it was postponed.
+Example3: 廃止予定の制度について説明してください。
+Example3_EN: Please explain the system scheduled for abolition.
+
+===word: 試練の時===
+Nuance: 困難や苦労が自分を試すような時期を指します。人生や組織の危機的な局面を表す文語的な言い回しです。
+Example1: 今こそ試練の時です。
+Example1_EN: Now is the moment of trial.
+Example2: そのチームは試練の時を乗り越えました。
+Example2_EN: That team overcame its moment of trial.
+Example3: 試練の時こそ団結しましょう。
+Example3_EN: Let's unite precisely at the moment of trial.
+
+===word: 徘徊する===
+Nuance: 目的もなくあちこち歩き回ることを表します。高齢者が行方不明になる問題や、うろうろする人を指す場面で使われます。
+Example1: 夜遅くに徘徊する人を見かけます。
+Example1_EN: I see people wandering late at night.
+Example2: 祖父は昨日、近所を徘徊しました。
+Example2_EN: My grandfather wandered around the neighborhood yesterday.
+Example3: 夜の徘徊は危険ですからやめてください。
+Example3_EN: Please don't wander at night because it's dangerous.
+
+===word: 筋肉===
+Nuance: 体を動かすための組織を指します。スポーツや健康、ボディビルなどの分野でよく使われます。
+Example1: 運動して筋肉をつけます。
+Example1_EN: I exercise to build muscle.
+Example2: 昨日のトレーニングで筋肉が痛みました。
+Example2_EN: My muscles ached from yesterday's training.
+Example3: 筋肉をほぐす方法を教えてください。
+Example3_EN: Please tell me how to relax my muscles.
+
+===word: 照らす===
+Nuance: 光を当てて明るくすることを表します。太陽や月、ライトなどが対象を明るくする場面で使われます。
+Example1: 太陽が庭を照らします。
+Example1_EN: The sun illuminates the garden.
+Example2: 月明かりが道を照らしました。
+Example2_EN: The moonlight lit the road.
+Example3: このライトで暗い場所を照らしてください。
+Example3_EN: Please illuminate the dark place with this light.
+
+===word: 迎撃する===
+Nuance: 攻めてくる敵や飛来物を途中で迎え撃つことを表します。軍事や防衛の分野でよく使われる言葉です。
+Example1: 部隊は敵機を迎撃します。
+Example1_EN: The unit intercepts enemy aircraft.
+Example2: ミサイルは海上で迎撃されました。
+Example2_EN: The missile was intercepted at sea.
+Example3: 敵の攻撃を迎撃する準備をしてください。
+Example3_EN: Please prepare to intercept the enemy's attack.
+
+===word: 作り話===
+Nuance: 事実ではなく、人が作り上げた話を指します。嘘や創作の物語を表す際に使われます。
+Example1: それは全部作り話です。
+Example1_EN: That is all a made-up story.
+Example2: 彼は作り話で人を信じ込ませました。
+Example2_EN: He made people believe his made-up story.
+Example3: 作り話と本当の話を見分けてください。
+Example3_EN: Please distinguish made-up stories from true ones.
+
+===word: 次ぐ===
+Nuance: 順番や地位がすぐ後ろに続くことを表します。「〜に次ぐ」の形で第二位を表すこともあります。
+Example1: 大阪は東京に次ぐ大都市です。
+Example1_EN: Osaka is the largest city after Tokyo.
+Example2: 彼は社長に次ぐ地位にありました。
+Example2_EN: He held a position second only to the president.
+Example3: 売り上げは昨年に次ぐ記録です。
+Example3_EN: Sales are a record second only to last year's.
+
+===word: 部族===
+Nuance: 共通の文化や習慣を持つ集団を指します。人類学や歴史の文脈で使われることが多い言葉です。
+Example1: この地域には多くの部族が住みます。
+Example1_EN: Many tribes live in this region.
+Example2: その部族は独自の言語を持っていました。
+Example2_EN: That tribe had its own language.
+Example3: 部族の伝統を守ってください。
+Example3_EN: Please preserve the tribe's traditions.
+
+===word: 洗顔する===
+Nuance: 顔を洗うことを表します。洗顔料を使うことを指すことが多く、美容や衛生の分野で使われます。
+Example1: 朝起きてすぐ洗顔します。
+Example1_EN: I wash my face right after waking up.
+Example2: 昨夜は疲れて洗顔せずに寝てしまいました。
+Example2_EN: Last night I was so tired that I went to bed without washing my face.
+Example3: 洗顔は優しく行ってください。
+Example3_EN: Please wash your face gently.
+
+===word: 採算性===
+Nuance: 事業や計画が利益を生み出せるかどうかの見込みを表します。ビジネスや経済の分野で使われる硬い言葉です。
+Example1: この事業の採算性は高いです。
+Example1_EN: This business has high profitability.
+Example2: 採算性の低い部門は見直されました。
+Example2_EN: Divisions with low profitability were reviewed.
+Example3: 採算性をどう評価しますか？
+Example3_EN: How do you evaluate the profitability?
+
+===word: 報告===
+Nuance: 物事の経過や結果を、関係者に伝えることを表します。仕事や学校で頻繁に使われる言葉です。
+Example1: 会議の結果を上司に報告します。
+Example1_EN: I report the results of the meeting to my boss.
+Example2: 昨日の実験結果を報告しました。
+Example2_EN: I reported yesterday's experiment results.
+Example3: 進捗状況を報告してください。
+Example3_EN: Please report on the progress.
+
+===word: 訪日する===
+Nuance: 外国人が日本を訪れることを表します。観光やビジネスの分野で、ニュースなどでよく使われる言葉です。
+Example1: 多くの外国人観光客が訪日します。
+Example1_EN: Many foreign tourists visit Japan.
+Example2: 彼はビジネスで初めて訪日しました。
+Example2_EN: He visited Japan for business for the first time.
+Example3: 訪日の際は何に気をつけますか？
+Example3_EN: What do you pay attention to when visiting Japan?
+
+===word: 肉体労働===
+Nuance: 体を使って行う仕事を指します。工事現場や工場などで行われ、頭脳労働と対比される言葉です。
+Example1: 彼は肉体労働で生計を立てています。
+Example1_EN: He makes a living through physical labor.
+Example2: 若い頃、肉体労働の仕事をしました。
+Example2_EN: When I was young, I did physical labor.
+Example3: 肉体労働の後はしっかり休んでください。
+Example3_EN: Please rest well after physical labor.
+
+===word: 加工===
+Nuance: 原材料に手を加えて製品を作ることを表します。食品や工業製品などの製造過程で使われます。
+Example1: この工場では木材を加工します。
+Example1_EN: This factory processes wood.
+Example2: 加工された食品は日持ちします。
+Example2_EN: Processed foods last longer.
+Example3: 加工の工程を見学できますか？
+Example3_EN: Can we tour the processing process?
+
+===word: 焼く付く===
+Nuance: 熱で焦げて張り付くことや、強い印象が心に深く刻まれることを表します。また、機械の部品が焼けて動かなくなる意味もあります。
+Example1: その光景が目に焼き付きます。
+Example1_EN: That scene burns into my memory.
+Example2: 彼の言葉が心に焼き付きました。
+Example2_EN: His words were burned into my heart.
+Example3: モーターが焼き付くと、動かなくなります。
+Example3_EN: When a motor burns out, it stops working.
+
+===word: 収益性===
+Nuance: 事業がどれだけ利益を生む能力があるかを表します。経営や投資の分野で使われる言葉です。
+Example1: この会社の収益性は安定しています。
+Example1_EN: This company's profitability is stable.
+Example2: 収益性の高い事業に投資しました。
+Example2_EN: I invested in a highly profitable business.
+Example3: 収益性を高めるにはどうすればいいですか？
+Example3_EN: What should we do to improve profitability?
+
+===word: 以降===
+Nuance: ある時点から後ずっとを表します。「それ以降」「九時以降」のように使われ、時間の区切りを示します。
+Example1: 来週以降に予定を決めます。
+Example1_EN: I will decide the schedule from next week onward.
+Example2: 午後三時以降は空いていました。
+Example2_EN: I was free from three o'clock in the afternoon onward.
+Example3: 以降の予定を教えてください。
+Example3_EN: Please tell me the schedule from now on.
+
+===word: ラムネ===
+Nuance: ガラス瓶に入った炭酸飲料で、玉の形をした栓で密封されているのが特徴です。夏祭りなどでよく飲まれます。
+Example1: 夏祭りでラムネを飲みます。
+Example1_EN: I drink ramune at the summer festival.
+Example2: 子供の頃、よくラムネを買いました。
+Example2_EN: When I was a child, I often bought ramune.
+Example3: ラムネはどこで売っていますか？
+Example3_EN: Where is ramune sold?
+
+===word: 船室===
+Nuance: 船の中にある、乗客が泊まったり休んだりする部屋を指します。クルーズ船やフェリーなどで使われる言葉です。
+Example1: 私たちの船室は二階にあります。
+Example1_EN: Our cabin is on the second deck.
+Example2: 船室から海が見えました。
+Example2_EN: I could see the sea from the cabin.
+Example3: 船室の予約は済んでいますか？
+Example3_EN: Have you booked the cabin?
+
+===word: 運命===
+Nuance: 人間の力では変えられない、あらかじめ定められた未来や巡り合わせを表します。恋愛や人生の話題でよく使われます。
+Example1: 彼女との出会いは運命です。
+Example1_EN: Meeting her is destiny.
+Example2: 私たちは同じ運命をたどりました。
+Example2_EN: We followed the same fate.
+Example3: 運命に逆らわないでください。
+Example3_EN: Please don't go against fate.
+
+===word: 応答===
+Nuance: 呼びかけや質問に対して答えることを表します。機械やシステムの反応を指すこともあり、やや硬い表現です。
+Example1: 彼はすぐに応答します。
+Example1_EN: He responds immediately.
+Example2: システムがエラーに応答しました。
+Example2_EN: The system responded to the error.
+Example3: 質問には必ず応答してください。
+Example3_EN: Please always respond to questions.
+
+===word: 罰金===
+Nuance: 法律や規則に違反した場合に、国や機関に支払う金銭を指します。交通違反などの場面でよく使われます。
+Example1: 駐車違反で罰金を払います。
+Example1_EN: I pay a fine for a parking violation.
+Example2: 彼はスピード違反で罰金を科されました。
+Example2_EN: He was fined for speeding.
+Example3: 罰金はいくらですか？
+Example3_EN: How much is the fine?
+
+===word: 同盟国===
+Nuance: 条約などで互いに協力し合う約束を結んだ国を指します。国際関係や歴史の話題で使われる言葉です。
+Example1: 日本は多くの同盟国を持っています。
+Example1_EN: Japan has many allied countries.
+Example2: その国はかつて同盟国でした。
+Example2_EN: That country was once an ally.
+Example3: 同盟国との関係を大切にしましょう。
+Example3_EN: Let's value our relations with allied countries.
+
+===word: ぴょんぴょん===
+Nuance: 軽く跳ねる様子を表すオノマトペです。動物や子供が飛び跳ねる様子を生き生きと伝えます。
+Example1: うさぎがぴょんぴょん跳ねます。
+Example1_EN: The rabbit hops around.
+Example2: 子供たちはぴょんぴょん跳びながら遊びました。
+Example2_EN: The children played while hopping around.
+Example3: ぴょんぴょん跳ねないでください。
+Example3_EN: Please don't hop around.
+
+===word: 売国===
+Nuance: 自分の利益のために国の利益を損なう行為を指します。政治の批判的な文脈で使われる硬い言葉です。
+Example1: そんな政策は売国行為です。
+Example1_EN: Such a policy is an act of selling out the country.
+Example2: 彼は売国だと言われました。
+Example2_EN: He was called a traitor to his country.
+Example3: 売国と呼ばれないように注意してください。
+Example3_EN: Please be careful not to be called a traitor.
+
+===word: 赤らめる===
+Nuance: 恥ずかしさや怒りで顔が赤くなることを表します。「顔を赤らめる」の形でよく使われます。
+Example1: 彼女は褒められて顔を赤らめます。
+Example1_EN: She blushes when she is praised.
+Example2: 彼は怒って顔を赤らめました。
+Example2_EN: He reddened with anger.
+Example3: そんなに赤らめないでください。
+Example3_EN: Please don't blush so much.
+
+===word: 水兵===
+Nuance: 軍艦などに乗って任務に当たる海軍の兵士を指します。軍や歴史の話題で使われる言葉です。
+Example1: 水兵たちは甲板に並びます。
+Example1_EN: The sailors line up on the deck.
+Example2: 彼は若い頃、水兵でした。
+Example2_EN: He was a sailor when he was young.
+Example3: 水兵の制服はかっこいいです。
+Example3_EN: Sailor uniforms look cool.
+
+===word: 農具===
+Nuance: 農業で使う道具の総称を指します。鍬や鎌、スコップなどが含まれます。
+Example1: この倉庫には農具があります。
+Example1_EN: This warehouse has farm tools.
+Example2: 祖父は古い農具を大切にしていました。
+Example2_EN: My grandfather treasured old farm tools.
+Example3: 農具を片付けてください。
+Example3_EN: Please put away the farm tools.
+
+===word: 福祉===
+Nuance: 社会の弱い立場にある人々の生活を支える制度や活動を指します。行政や医療、介護の分野で使われます。
+Example1: この町は福祉に力を入れています。
+Example1_EN: This town puts effort into welfare.
+Example2: 彼女は福祉の仕事に就きました。
+Example2_EN: She took a job in welfare.
+Example3: 福祉の制度について教えてください。
+Example3_EN: Please tell me about the welfare system.
+
+===word: 回す===
+Nuance: 物を軸を中心にぐるぐる動かすことを表します。機械や身体、物の受け渡しなど、幅広い場面で使われます。
+Example1: ハンドルを右に回します。
+Example1_EN: I turn the handle to the right.
+Example2: 洗濯機を回しました。
+Example2_EN: I ran the washing machine.
+Example3: このボタンを回してください。
+Example3_EN: Please turn this button.
+
+===word: 我慢汁===
+Nuance: 性的な文脈で使われる俗語で、男性の尿道から分泌される液体を指します。下品な表現なので、公の場では使いません。
+Example1: この言葉は下品ですから、公の場では使いません。
+Example1_EN: This word is vulgar, so I don't use it in public.
+Example2: その単語は俗語で、下品な響きがあります。
+Example2_EN: That word is slang and has a vulgar ring to it.
+Example3: あまり聞かない言葉ですが、意味は知っています。
+Example3_EN: It's a word I don't hear often, but I know what it means.
+
+===word: 戦いごっこ===
+Nuance: 子供が戦いのまねをして遊ぶことを指します。ゲームや遊びとしての擬似的な戦いを表します。
+Example1: 子供たちは戦いごっこが好きです。
+Example1_EN: Children like play-fighting.
+Example2: 公園で戦いごっこをしました。
+Example2_EN: We played at fighting in the park.
+Example3: 戦いごっこは怪我に注意してください。
+Example3_EN: Please be careful of injuries during play-fighting.
+
+===word: 原則===
+Nuance: 物事を行う上での基本となる規則や方針を指します。「原則として」の形で「特別な場合を除いて」という意味でも使われます。
+Example1: 原則として、返品はできません。
+Example1_EN: As a rule, returns are not accepted.
+Example2: この会社は原則を守って経営しました。
+Example2_EN: This company managed itself by following principles.
+Example3: 原則に従って判断してください。
+Example3_EN: Please judge according to the principles.
+
+===word: マスコミ===
+Nuance: 新聞、テレビ、ラジオ、雑誌など、大勢の人に情報を伝えるメディアの総称を指します。ニュースや社会の話題でよく使われます。
+Example1: マスコミがこの事件を大きく報じます。
+Example1_EN: The mass media report this incident widely.
+Example2: マスコミの取材が始まりました。
+Example2_EN: The mass media began covering the story.
+Example3: マスコミの情報をうのみにしないでください。
+Example3_EN: Please don't take the media's information at face value.
+
+===word: 侵略===
+Nuance: 他国の領土に武力で入り込み、支配しようとすることを表します。歴史や国際問題の文脈で使われる言葉です。
+Example1: 侵略は国際法で禁止されています。
+Example1_EN: Invasion is prohibited under international law.
+Example2: その戦争は侵略から始まりました。
+Example2_EN: That war began with an invasion.
+Example3: 侵略の歴史を学んでください。
+Example3_EN: Please learn about the history of invasions.
+
+===word: 聖職===
+Nuance: 神や宗教に仕える職業を指します。僧侶や牧師など、宗教的な使命を帯びた仕事を表します。
+Example1: 彼は聖職を志しています。
+Example1_EN: He aspires to a sacred profession.
+Example2: 祖父は聖職の道を選びました。
+Example2_EN: My grandfather chose the path of a sacred profession.
+Example3: 聖職に就くには長い修行が必要です。
+Example3_EN: A long period of training is needed to enter the priesthood.

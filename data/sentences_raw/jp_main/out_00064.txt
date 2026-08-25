@@ -1,0 +1,962 @@
+===word: 釣鐘===
+Nuance: 「釣鐘」は、寺院などに吊るしてある大型の鐘を指します。主に仏教寺院で時刻を知らせたり、儀式の際に鳴らされます。大きさと重厚な音が特徴です。
+Example1: このお寺の釣鐘は、毎朝六時に鳴ります。
+Example1_EN: The temple's hanging bell rings at six o'clock every morning.
+Example2: 釣鐘の音が遠くまで響いていました。
+Example2_EN: The sound of the hanging bell echoed far into the distance.
+Example3: 釣鐘堂に立派な釣鐘がありました。
+Example3_EN: There was a splendid hanging bell in the bell tower.
+
+===word: 代理人===
+Nuance: 「代理人」は、本人に代わって何らかの行為や手続きを行う権限を与えられた人のことです。法律やビジネスの場面でよく使われます。
+Example1: 彼を代理人として契約を結びました。
+Example1_EN: We signed the contract with him as our agent.
+Example2: 代理人を通じて交渉を進めます。
+Example2_EN: We will proceed with the negotiations through an agent.
+Example3: 代理人には委任状が必要です。
+Example3_EN: A power of attorney is necessary for an agent.
+
+===word: 邀撃===
+Nuance: 「邀撃」（ようげき）は、待ち伏せて攻撃することを意味します。敵が通りかかるのを待って急襲する軍事用語で、文章語的な響きがあります。
+Example1: 敵軍を邀撃する作戦が成功しました。
+Example1_EN: The operation to ambush the enemy forces was successful.
+Example2: 彼らは夜陰に乗じて邀撃を仕掛けました。
+Example2_EN: They launched an ambush under cover of darkness.
+Example3: 邀撃を受けた部隊は大きな損害を出しました。
+Example3_EN: The unit that was ambushed suffered heavy losses.
+
+===word: 馬の骨===
+Nuance: 「馬の骨」は、「誰だか分からない者」「素性の怪しい人」を指す蔑称です。馬の骨自体に価値がないことから、身分や出自が不明で信用できない人を貶めて言う表現です。
+Example1: あんな馬の骨に娘を嫁には出せません。
+Example1_EN: I cannot let my daughter marry a person of such dubious origin.
+Example2: 馬の骨のような人に関わるのはやめた方がいいですよ。
+Example2_EN: You'd better not get involved with someone of doubtful background.
+Example3: 彼は馬の骨扱いされて、会社ではまともに相手にされていません。
+Example3_EN: He is treated like a nobody and isn't taken seriously at the company.
+
+===word: 前世===
+Nuance: 「前世」は、生まれ変わりや輪廻の概念における、現在の人生より前の人生を指します。仏教やスピリチュアルな文脈でよく使われ、比喩的に「前の段階」という意味でも使われます。
+Example1: 前世の記憶があるという人は珍しいです。
+Example1_EN: People who say they remember their past life are rare.
+Example2: 前世の行いが現在の運命に影響すると言われています。
+Example2_EN: It is said that one's actions in a past life affect their current fate.
+Example3: この場所には前世で来たことがある気がします。
+Example3_EN: I feel like I have been to this place in a past life.
+
+===word: 病棟===
+Nuance: 「病棟」は、病院の中で患者が入院するための区画を指します。科ごとに分けられることが多く、「小児病棟」「精神科病棟」などと使われます。
+Example1: 彼女は外科病棟で働いています。
+Example1_EN: She works in the surgical ward.
+Example2: 面会時間は病棟によって異なります。
+Example2_EN: Visiting hours vary depending on the ward.
+Example3: この病棟は完全に禁煙です。
+Example3_EN: This ward is completely non-smoking.
+
+===word: 突んのめる===
+Nuance: 「突んのめる」は、歩いているときなどに前のめりによろめくことを意味します。つまずいたり、押されたりして体が前方に倒れかかる動作を表します。「つんのめる」と書くことも多いです。
+Example1: 段差につまずいて、思わず突んのめってしまいました。
+Example1_EN: I tripped on a step and couldn't help pitching forward.
+Example2: 後ろから押されて突んのめりそうになりました。
+Example2_EN: I was pushed from behind and nearly fell forward.
+Example3: 急に電車が止まって、みんな突んのめっていました。
+Example3_EN: The train stopped suddenly and everyone lurched forward.
+
+===word: 差分ファイル===
+Nuance: 「差分ファイル」は、コンピューターの分野で、元のデータと更新後のデータの差分のみを記録したファイルのことです。バックアップやバージョン管理で効率的に変更を保存するために使われます。
+Example1: 更新のたびに差分ファイルを作成してください。
+Example1_EN: Please create a diff file each time you update.
+Example2: この差分ファイルを適用すれば、最新状態になります。
+Example2_EN: If you apply this diff file, you will get the latest state.
+Example3: 差分ファイルの管理はバックアップの効率化に役立ちます。
+Example3_EN: Managing diff files helps make backups more efficient.
+
+===word: 漂流===
+Nuance: 「漂流」は、海や川などを目的もなく流れ漂うことを意味します。船が遭難して制御不能になった状態や、比喩的に人生や状況に身を任せる意味でも使われます。
+Example1: その船は嵐の後、十日間漂流しました。
+Example1_EN: The ship drifted for ten days after the storm.
+Example2: 漂流者たちは小さな島に流れ着きました。
+Example2_EN: The castaways washed up on a small island.
+Example3: 彼は人生の目的を見失い、漂流しているような状態です。
+Example3_EN: He has lost sight of his purpose in life and feels like he is drifting.
+
+===word: 睨む===
+Nuance: 「睨む」は、怒りや警戒の気持ちを込めて、相手をじっと見つめることです。睨まれた相手は威圧感を覚えます。「犯人だと睨む」のように「推測する」という意味でも使われます。
+Example1: 先生に睨まれたので、すぐに静かにしました。
+Example1_EN: The teacher glared at me, so I became quiet immediately.
+Example2: 彼は私をじろりと睨んでから、何も言わずに去りました。
+Example2_EN: He gave me a sharp glare and then left without saying anything.
+Example3: あの男が犯人だと睨んでいます。
+Example3_EN: I suspect that man is the culprit.
+
+===word: 視野===
+Nuance: 「視野」は、目で見える範囲を指します。比喩的には「視野が広い／狭い」のように、物事の考え方や判断力の広さを表すのにもよく使われます。
+Example1: この病気になると、視野が徐々に狭くなります。
+Example1_EN: With this disease, your field of vision gradually narrows.
+Example2: もっと視野を広げるために、いろいろな本を読んでいます。
+Example2_EN: I read various books to broaden my perspective.
+Example3: 彼は視野が広いので、どんな問題にも柔軟に対応できます。
+Example3_EN: He has a broad perspective, so he can handle any problem flexibly.
+
+===word: 私案===
+Nuance: 「私案」は、個人が自分で考えた案や計画を意味します。公式なものや組織としての見解ではなく、あくまで個人レベルの提案であることを示します。
+Example1: これは私案ですが、一度ご検討いただけますか。
+Example1_EN: This is my personal proposal, but would you consider it?
+Example2: 私案を発表する機会をいただきました。
+Example2_EN: I was given the opportunity to present my personal plan.
+Example3: この問題について、私案をまとめてみました。
+Example3_EN: I have put together my personal proposal on this matter.
+
+===word: 虫干し===
+Nuance: 「虫干し」は、衣服や書物などを風通しの良い場所に広げて虫や湿気を防ぐことです。特に梅雨明けなどに行う伝統的な習慣で、大切なものを長持ちさせる意味があります。
+Example1: 梅雨が明けたら、着物の虫干しをします。
+Example1_EN: After the rainy season ends, I air out the kimonos.
+Example2: 大事な本は定期的に虫干ししないと傷みます。
+Example2_EN: Important books will get damaged if you do not air them out regularly.
+Example3: 昨日、古いアルバムの虫干しをしました。
+Example3_EN: Yesterday I aired out the old photo albums.
+
+===word: 性状===
+Nuance: 「性状」は、物の性質や状態を表す言葉です。特に科学や医学の分野で、物質の特徴や症状の様子を説明する際に使われます。
+Example1: この薬品の性状を詳しく調べてください。
+Example1_EN: Please examine the properties of this chemical in detail.
+Example2: 患者の便の性状を確認しました。
+Example2_EN: We checked the characteristics of the patient's stool.
+Example3: この物質は酸性の性状を示します。
+Example3_EN: This substance exhibits acidic properties.
+
+===word: 驚喜する===
+Nuance: 「驚喜する」は、驚くと同時に喜ぶこと、つまり「驚くほど嬉しい」という感情を表します。予想外の良い出来事に直面した際の強い喜びを表現するやや改まった言い方です。
+Example1: 合格の知らせに両親は驚喜しました。
+Example1_EN: My parents were pleasantly surprised at the news of my passing the exam.
+Example2: 彼はその知らせを聞いて驚喜していました。
+Example2_EN: He was pleasantly surprised when he heard the news.
+Example3: 古い友人が突然訪ねてきて、驚喜しました。
+Example3_EN: I was pleasantly surprised when an old friend suddenly visited me.
+
+===word: 猊下===
+Nuance: 「猊下」は、高僧や仏教の指導者に対する最高敬称です。キリスト教では教皇や枢機卿にも使われますが、日本語では主に仏教の高僧に対して用いられます。非常に格式の高い呼び方です。
+Example1: 猊下のご説法を拝聴いたしました。
+Example1_EN: I had the honor of listening to Your Eminence's sermon.
+Example2: 猊下からのお言葉を皆様にお伝えします。
+Example2_EN: I will convey His Eminence's message to everyone.
+Example3: 猊下がご来山されるのは来月の予定です。
+Example3_EN: His Eminence is scheduled to visit the temple next month.
+
+===word: 鷹===
+Nuance: 「鷹」は、鋭い目と強力な爪を持つ猛禽類です。日本では古来より鷹狩りに使われ、武士の間で鷹の飼育や調教が盛んでした。強さや鋭さの象徴としても使われます。
+Example1: 空高く鷹が優雅に飛んでいます。
+Example1_EN: A hawk is soaring gracefully high in the sky.
+Example2: 鷹はその鋭い目で獲物を逃しません。
+Example2_EN: A hawk never misses its prey with those sharp eyes.
+Example3: 昔の武士は鷹狩りを趣味にしていました。
+Example3_EN: Samurai in the old days enjoyed falconry as a hobby.
+
+===word: 元帳===
+Nuance: 「元帳」は、簿記や会計において、取引を勘定科目ごとに整理して記録する主要な帳簿です。すべての取引が最終的に集約される帳簿で、企業の財務状況を把握するために欠かせません。
+Example1: 毎月末に元帳を締め切ります。
+Example1_EN: We close the ledger at the end of each month.
+Example2: 元帳の記入漏れがないか確認してください。
+Example2_EN: Please check that there are no omissions in the ledger entries.
+Example3: 新しい会計ソフトで元帳を管理しています。
+Example3_EN: We manage the ledger with new accounting software.
+
+===word: 諸悪の根源===
+Nuance: 「諸悪の根源」は、あらゆる悪いことの原因となるものを指す慣用句です。一つの原因から多くの問題や不幸が生じている状況で使われます。
+Example1: お金は諸悪の根源だと言う人もいます。
+Example1_EN: Some people say money is the root of all evil.
+Example2: 彼はストレスが諸悪の根源だと考えています。
+Example2_EN: He believes stress is the root of all evil.
+Example3: この問題の諸悪の根源を突き止めなければなりません。
+Example3_EN: We must identify the root cause of all these problems.
+
+===word: バラバラ===
+Nuance: 「バラバラ」は、物がまとまらずに散らばっている様子や、一つのものが細かく分かれてばらばらになった状態を表す副詞です。物理的な「バラバラ死体」や、意見が一致しない「意見がバラバラ」など様々な文脈で使われます。
+Example1: メンバーの意見がバラバラで、なかなか決まりません。
+Example1_EN: The members' opinions are divided, so it is hard to reach a decision.
+Example2: おもちゃがバラバラに散らかっています。
+Example2_EN: The toys are scattered all over the place.
+Example3: 遺体がバラバラの状態で発見されました。
+Example3_EN: The body was found dismembered.
+
+===word: 過去を省みる===
+Nuance: 「過去を省みる」は、自分の過去の行動や経験を振り返って反省したり、そこから学んだりすることを意味します。「省みる」は「かえりみる」と読み、自己反省のニュアンスが強いです。
+Example1: 時には過去を省みることも大切です。
+Example1_EN: It is important to reflect on the past from time to time.
+Example2: 彼は過去を省みて、自分の過ちを認めました。
+Example2_EN: He reflected on the past and admitted his mistakes.
+Example3: 過去を省みずに前に進むだけでは成長できません。
+Example3_EN: You cannot grow if you only move forward without reflecting on the past.
+
+===word: 宥める===
+Nuance: 「宥める」は、怒ったり興奮している人を優しく落ち着かせることを意味します。なだめすかすように、言葉や態度で穏やかに相手の感情を鎮める際に使われます。
+Example1: 泣いている子供を宥めるのに苦労しました。
+Example1_EN: I had a hard time soothing the crying child.
+Example2: 彼女を宥めるために、丁寧に説明しました。
+Example2_EN: I explained carefully to calm her down.
+Example3: 怒ったお客様を宥めるのは大変です。
+Example3_EN: It is difficult to appease an angry customer.
+
+===word: 軍備競争===
+Nuance: 「軍備競争」は、国家間で軍事力の拡大を競い合う現象を指します。自国の安全保障のために他国に追随して軍備を増強するという循環が生まれ、緊張を高める要因となります。
+Example1: 両国の軍備競争が国際社会の不安を招いています。
+Example1_EN: The arms race between the two countries is causing international concern.
+Example2: 軍備競争を抑制するための条約が結ばれました。
+Example2_EN: A treaty was signed to curb the arms race.
+Example3: 軍備競争には莫大な予算が必要です。
+Example3_EN: An arms race requires a huge budget.
+
+===word: 隠避===
+Nuance: 「隠避」は、法律用語で、犯罪者を捜査機関から逃がすために隠したり避難させたりする行為を指します。「犯人隠避」の罪として刑事罰の対象になります。
+Example1: 彼は友人の犯罪を隠避した罪に問われています。
+Example1_EN: He is accused of helping a friend evade arrest.
+Example2: 犯人隠避は刑法で罰せられます。
+Example2_EN: Assisting a criminal to avoid arrest is punishable under criminal law.
+Example3: 隠避の行為が発覚して、彼も逮捕されました。
+Example3_EN: His act of harboring the criminal was discovered and he was also arrested.
+
+===word: 咳き込む===
+Nuance: 「咳き込む」は、激しく咳を続けること、または咳の発作に襲われることを意味します。「咳をする」よりも症状が重く、苦しそうに咳き込む様子を表します。
+Example1: 風邪を引いて、夜中に何度も咳き込みました。
+Example1_EN: I caught a cold and had coughing fits many times during the night.
+Example2: 彼はタバコの煙で咳き込んでいました。
+Example2_EN: He was coughing violently from the cigarette smoke.
+Example3: 咳き込みが止まらず、病院に行きました。
+Example3_EN: My coughing would not stop, so I went to the hospital.
+
+===word: 不適===
+Nuance: 「不適」は、適切でないこと、ふさわしくないことを意味します。能力や資格が足りない場合や、状況に対して適切な対応ではない場合に使われるやや硬い表現です。
+Example1: 彼の経験ではこの仕事には不適です。
+Example1_EN: His experience makes him unsuitable for this job.
+Example2: この薬は子供には不適とされています。
+Example2_EN: This medicine is considered unsuitable for children.
+Example3: その発言は場に不適だったと思います。
+Example3_EN: I think that remark was inappropriate for the occasion.
+
+===word: 強要===
+Nuance: 「強要」は、相手の意思に反して無理やり何かをさせようとする行為を指します。脅迫や圧力をかけて特定の行動を迫ることで、犯罪行為としても扱われます。
+Example1: 彼は同僚に不正を強要されました。
+Example1_EN: He was coerced into wrongdoing by his colleague.
+Example2: 金銭を強要する行為は立派な犯罪です。
+Example2_EN: Extorting money is a clear crime.
+Example3: 上司が残業を強要するのは問題です。
+Example3_EN: It is a problem when a boss forces employees to work overtime.
+
+===word: 用意周到===
+Nuance: 「用意周到」は、事前の準備が細かいところまでしっかり行き届いていることを表す四字熟語です。万全の準備や抜かりのない計画を褒める際に使われます。
+Example1: 彼はいつも用意周到で、何を聞いてもすぐに答えられます。
+Example1_EN: He is always thoroughly prepared and can answer anything right away.
+Example2: 用意周到な計画のおかげで、イベントは大成功でした。
+Example2_EN: Thanks to the thorough planning, the event was a great success.
+Example3: 旅行の準備は用意周到に済ませました。
+Example3_EN: I prepared for the trip thoroughly.
+
+===word: オカルト===
+Nuance: 「オカルト」は、超自然的・神秘的な現象や、科学では説明できない不可解な事柄を指します。心霊現象、占い、超能力などが含まれ、サブカルチャーのジャンルとしても人気があります。
+Example1: 彼女はオカルト番組が大好きです。
+Example1_EN: She loves occult TV shows.
+Example2: オカルトに関する本を何冊も読んでいます。
+Example2_EN: I have read many books about the occult.
+Example3: あの噂はオカルトっぽくて信じられません。
+Example3_EN: That rumor sounds too occult-like to believe.
+
+===word: 決闘（する）===
+Nuance: 「決闘」は、二者間で武器を用いて戦い、勝敗を決めることを指します。歴史的には名誉をかけて行われることが多く、現代では違法行為です。比喩的にも使われます。
+Example1: あの二人は決闘することになりました。
+Example1_EN: Those two have decided to duel.
+Example2: 決闘は法律で禁止されています。
+Example2_EN: Duels are prohibited by law.
+Example3: 因縁の対決で、両者が決闘を申し込みました。
+Example3_EN: In a grudge match, both parties challenged each other to a duel.
+
+===word: 文面===
+Nuance: 「文面」は、手紙やメール、書類などに書かれた文章の内容や表現を指します。形式よりも中身、つまり「何が書かれているか」に注目する言葉です。
+Example1: 手紙の文面から彼の気持ちが伝わってきました。
+Example1_EN: I could feel his feelings from the content of the letter.
+Example2: メールの文面を確認してから送信してください。
+Example2_EN: Please check the content of the email before sending it.
+Example3: その文面だと誤解を招くかもしれません。
+Example3_EN: That wording might cause misunderstanding.
+
+===word: ぴんとくる===
+Nuance: 「ぴんとくる」は、何かが直感的に理解できること、ひらめきや「ピンと来る」感覚を表す口語的な表現です。冗談の意味がすぐに分かる時や、直感で正しいと感じる時に使います。
+Example1: その冗談はすぐにはぴんときませんでした。
+Example1_EN: I did not get the joke right away.
+Example2: 彼の説明を聞いてようやくぴんときました。
+Example2_EN: After hearing his explanation, it finally clicked for me.
+Example3: このアイデアは何かぴんときますね。
+Example3_EN: This idea really resonates with me.
+
+===word: 湿地===
+Nuance: 「湿地」は、水が常時または長期間溜まっている土地を指します。沼地や湿原など、特有の生態系を持つ地域であり、環境保護の観点からも重要なエリアです。
+Example1: この湿地帯には珍しい植物が生えています。
+Example1_EN: Rare plants grow in this wetland area.
+Example2: 湿地の環境を守るための活動をしています。
+Example2_EN: We are engaged in activities to protect the wetland environment.
+Example3: 湿地は多くの生物の生息地になっています。
+Example3_EN: Wetlands serve as habitats for many living creatures.
+
+===word: 盆暗===
+Nuance: 「盆暗」（ぼんくら）は、頭の働きが鈍い人や、ぼんやりしている人を指す蔑称です。能率が悪くて要領を得ない様子をののしる言葉で、カジュアルな会話では使われますが、相手に直接言うのは失礼です。
+Example1: あの人は本当に盆暗で、何を言っても理解してくれません。
+Example1_EN: That person is such a blockhead that he does not understand anything I say.
+Example2: 盆暗な同僚に何度も同じ説明をしなければなりません。
+Example2_EN: I have to explain the same thing over and over to my dull-witted colleague.
+Example3: 彼は盆暗だから、この仕事は任せられません。
+Example3_EN: He is an idiot, so we cannot entrust him with this task.
+
+===word: 風潮===
+Nuance: 「風潮」は、ある時代や社会に広く見られる傾向や雰囲気を指します。人々の考え方や行動の流れ、世の中の「流れ」のようなものです。
+Example1: 最近は健康志向の風潮が強まっています。
+Example1_EN: Recently, the trend toward health consciousness has been growing.
+Example2: この風潮は長く続かないと思います。
+Example2_EN: I do not think this trend will last long.
+Example3: 安易な儲けを求める風潮には疑問を感じます。
+Example3_EN: I have doubts about the trend of seeking easy money.
+
+===word: 人外===
+Nuance: 「人外」は、人間の域を超えていること、または人間以外の存在（妖怪や神など）を意味します。比喩的には、人間らしさを欠いた残忍な行動をする人に対しても使われます。
+Example1: この物語には人外の存在がたくさん出てきます。
+Example1_EN: Many non-human beings appear in this story.
+Example2: 彼の行為はまさに人外の所業でした。
+Example2_EN: His actions were truly inhuman.
+Example3: 人外の力を持つキャラクターが主人公を助けます。
+Example3_EN: A character with superhuman powers helps the protagonist.
+
+===word: 被さる===
+Nuance: 「被さる」（かぶさる）は、物の上から覆いかぶさるようにのしかかることを意味します。布団や毛布などが掛かる物理的な意味と、圧迫感を与える抽象的な意味で使われます。
+Example1: 大きな布団が子供に被さっていました。
+Example1_EN: A large futon was covering the child.
+Example2: 倒れた木が車に被さって動けません。
+Example2_EN: The fallen tree is on top of the car and it cannot move.
+Example3: 彼の影が私に被さるように感じました。
+Example3_EN: I felt as if his shadow was looming over me.
+
+===word: 満身創痍===
+Nuance: 「満身創痍」は、全身に傷を負っている状態を指す四字熟語です。比喩的には、大きなダメージを受けてぼろぼろの状態を表します。事業や計画の失敗などでも使われます。
+Example1: 彼は事故で満身創痍の重傷を負いました。
+Example1_EN: He was covered in wounds from the accident.
+Example2: 満身創痍になりながらも、彼は戦い続けました。
+Example2_EN: Despite being covered in wounds, he continued to fight.
+Example3: その会社は買収合戦で満身創痍の状態です。
+Example3_EN: That company is in a battered state after the takeover battle.
+
+===word: 怪文書===
+Nuance: 「怪文書」は、差出人不明で内容が怪しい文書、特に他人を誹謗中傷する匿名の文書を指します。職場や組織内で問題になることが多いです。
+Example1: 会社に社長を批判する怪文書が送られてきました。
+Example1_EN: A suspicious anonymous document criticizing the president was sent to the company.
+Example2: 怪文書をばらまく行為は処分の対象になります。
+Example2_EN: Distributing anonymous defamatory documents is subject to disciplinary action.
+Example3: あの怪文書の出所を突き止めてください。
+Example3_EN: Please find the source of that suspicious document.
+
+===word: 含み資産===
+Nuance: 「含み資産」は、企業が所有している資産のうち、帳簿上の価格よりも実際の時価が高いために含まれている含み益のことです。主に不動産や株式などが該当します。
+Example1: この会社には含み資産がたくさんあります。
+Example1_EN: This company has a lot of hidden assets.
+Example2: 含み資産を売却すれば、大きな利益が出ます。
+Example2_EN: If we sell the hidden assets, we can generate a large profit.
+Example3: 含み資産の評価額は市場の変動で変わります。
+Example3_EN: The valuation of hidden assets changes with market fluctuations.
+
+===word: 互角===
+Nuance: 「互角」は、力や実力がほぼ等しく、どちらが勝つか予想できない状態を指します。勝負や競争において甲乙つけがたい時に使われます。
+Example1: 両者の実力は互角で、決着がつきませんでした。
+Example1_EN: The two were evenly matched, so no decision was reached.
+Example2: 互角の勝負は観客を最後まで楽しませました。
+Example2_EN: The evenly matched contest entertained the audience until the very end.
+Example3: 彼と互角に戦える相手はなかなかいません。
+Example3_EN: There are few people who can compete with him on equal terms.
+
+===word: 見劣り===
+Nuance: 「見劣り」は、他のものと比べて見た目や品質が劣っていると感じられることを意味します。比較の対象があって、それに及ばない場合に使われます。
+Example1: この製品は他社のものと比べて見劣りします。
+Example1_EN: This product compares unfavorably with those from other companies.
+Example2: 新しいモデルは旧モデルに見劣りしない出来です。
+Example2_EN: The new model is of a quality that does not fall short of the old model.
+Example3: 彼の実力は先輩に見劣りしません。
+Example3_EN: His ability is not inferior to his senior's.
+
+===word: 自嘲===
+Nuance: 「自嘲」は、自分自身を嘲る（あざける）こと、つまり自分の欠点や失敗をネタにして笑うことを意味します。自虐的なユーモアとして会話の中で使われることが多いです。
+Example1: 彼はよく自嘲を交えて話をします。
+Example1_EN: He often makes self-deprecating remarks when he talks.
+Example2: 自嘲気味に「私は本当にダメな人間です」と言いました。
+Example2_EN: He said with a hint of self-derision, "I am really a useless person."
+Example3: 自嘲の笑いを浮かべて、彼はその場を去りました。
+Example3_EN: He left the scene with a self-deprecating smile.
+
+===word: 浴びせる===
+Nuance: 「浴びせる」は、液体やものを上からかぶせるように注ぐことです。比喩的に「質問を浴びせる」「非難を浴びせる」のように、相手に次々と何かを与える意味でも使われます。
+Example1: 彼に冷たい水を浴びせました。
+Example1_EN: I poured cold water on him.
+Example2: 記者たちは彼に質問を浴びせました。
+Example2_EN: The reporters showered him with questions.
+Example3: 彼女は元彼に罵声を浴びせました。
+Example3_EN: She hurled abusive language at her ex-boyfriend.
+
+===word: 埋め込む===
+Nuance: 「埋め込む」は、あるものの中に別のものをはめ込んだり、埋め入れたりすることです。物理的には「地面に杭を埋め込む」、デジタル的には「ファイルにデータを埋め込む」と使われます。
+Example1: この文章に画像を埋め込むことができます。
+Example1_EN: You can embed an image in this document.
+Example2: 庭にセンサーを埋め込みました。
+Example2_EN: We embedded a sensor in the garden.
+Example3: Webページに動画を埋め込む方法を教えてください。
+Example3_EN: Please tell me how to embed a video in a web page.
+
+===word: 立役者===
+Nuance: 「立役者」は、芝居で主役を務める俳優を指すと同時に、比喩的に物事の中心となって活躍する人を意味します。プロジェクトやイベントを成功に導くキーパーソンに対して使われます。
+Example1: 彼がこのプロジェクトの立役者です。
+Example1_EN: He is the driving force behind this project.
+Example2: このイベントの成功は彼女が立役者でした。
+Example2_EN: She was the key figure in the success of this event.
+Example3: 立役者として彼の手腕は欠かせませんでした。
+Example3_EN: His skill as the leading figure was indispensable.
+
+===word: 列席者===
+Nuance: 「列席者」は、会議や式典などに出席している人たちを指すやや改まった表現です。「出席者」とほぼ同じ意味ですが、特に公式な席に連なっているニュアンスがあります。
+Example1: 列席者の皆様に感謝申し上げます。
+Example1_EN: I would like to express my gratitude to all present.
+Example2: 会場には多数の列席者が集まりました。
+Example2_EN: A large number of attendees gathered at the venue.
+Example3: 列席者の方々はご起立ください。
+Example3_EN: All those present, please stand up.
+
+===word: 合点承知之助===
+Nuance: 「合点承知之助」は、江戸時代の戯作から生まれた言葉で、「承知しました」「わかりました」という意味をユーモラスに強調した表現です。現代でも冗談めかして使われることがあります。
+Example1: 「はい、合点承知之助でございます。」
+Example1_EN: "Yes, I understand completely."
+Example2: 彼は「合点承知之助」と返事をしました。
+Example2_EN: He replied, "Got it, roger that."
+Example3: 合点承知之助、その仕事は引き受けました。
+Example3_EN: Understood, I have taken on that job.
+
+===word: 工具箱===
+Nuance: 「工具箱」は、工具（道具）を収納するための箱やケースのことです。大工道具、DIY用品、機械整備用工具などを整理して持ち運ぶのに使われます。
+Example1: 工具箱からドライバーを取り出してください。
+Example1_EN: Please take a screwdriver out of the toolbox.
+Example2: この工具箱には必要な工具がすべて入っています。
+Example2_EN: This toolbox contains all the necessary tools.
+Example3: 工具箱を車のトランクに載せました。
+Example3_EN: I put the toolbox in the trunk of the car.
+
+===word: 薬物===
+Nuance: 「薬物」は、医薬品として使われる物質全般を指しますが、特に「薬物依存」「薬物乱用」のように、違法ドラッグや危険薬物の文脈で使われることが多い言葉です。
+Example1: 薬物の乱用は絶対にやめてください。
+Example1_EN: Please never abuse drugs.
+Example2: この病気には特定の薬物が効果的です。
+Example2_EN: Specific drugs are effective for this disease.
+Example3: 薬物依存になると抜け出すのが難しくなります。
+Example3_EN: Once you become addicted to drugs, it becomes difficult to quit.
+
+===word: 咲き乱れる===
+Nuance: 「咲き乱れる」は、花が勢いよくたくさん咲いて、あたり一面に広がっている様子を表します。単に咲くだけでなく、乱れ咲くような美しい賑やかさのニュアンスがあります。
+Example1: 春には桜が咲き乱れます。
+Example1_EN: Cherry blossoms bloom in profusion in spring.
+Example2: 庭中にバラが咲き乱れていました。
+Example2_EN: Roses were blooming profusely all over the garden.
+Example3: この公園は花々が咲き乱れて、とても綺麗です。
+Example3_EN: This park is beautiful with flowers blooming in profusion.
+
+===word: こつこつ===
+Nuance: 「こつこつ」は、物事を地道に着実に続ける様子を表す副詞です。努力や勉強など、一歩一歩確実に積み上げていく姿勢を褒める言葉として使われます。
+Example1: 彼は毎日こつこつと勉強を続けています。
+Example1_EN: He studies steadily every day.
+Example2: こつこつ貯めたお金で家を買いました。
+Example2_EN: I bought a house with money I saved little by little.
+Example3: こつこつ働いてきたおかげで今の地位があります。
+Example3_EN: Thanks to working steadily, I have the position I have today.
+
+===word: 均質===
+Nuance: 「均質」は、全体の構成や性質が均一でむらがないことを意味します。品質管理や科学実験の文脈でよく使われ、安定した品質を評価する言葉です。
+Example1: この製品は均質な品質を保っています。
+Example1_EN: This product maintains homogeneous quality.
+Example2: 溶液が均質になるまでよく混ぜてください。
+Example2_EN: Please mix well until the solution becomes homogeneous.
+Example3: 均質な素材を使うことで、製品のばらつきが減ります。
+Example3_EN: Using homogeneous materials reduces product variability.
+
+===word: 梅毒===
+Nuance: 「梅毒」は、梅毒トレポネーマという細菌によって引き起こされる性感染症です。歴史的には非常に恐れられた病気で、適切な治療をしないと全身に深刻な症状を引き起こします。現代では抗生物質で治療可能です。
+Example1: 梅毒の感染者数が増加しています。
+Example1_EN: The number of syphilis infections is increasing.
+Example2: 梅毒は早期発見・早期治療が重要です。
+Example2_EN: Early detection and treatment of syphilis are important.
+Example3: 梅毒の検査を受けることをお勧めします。
+Example3_EN: I recommend getting tested for syphilis.
+
+===word: 跳梁跋扈===
+Nuance: 「跳梁跋扈」（ちょうりょうばっこ）は、悪者が好き勝手にのさばり、好き放題に振る舞っている様子を表す四字熟語です。社会的に害をなす存在が野放しになっている批判的な文脈で使われます。
+Example1: 悪質な業者が跳梁跋扈しています。
+Example1_EN: Unscrupulous dealers are running rampant.
+Example2: この業界では不正が跳梁跋扈していると聞きます。
+Example2_EN: I hear that fraud is rampant in this industry.
+Example3: 跳梁跋扈する犯罪者を取り締まる必要があります。
+Example3_EN: We need to crack down on the rampant criminals.
+
+===word: 湯舟===
+Nuance: 「湯舟」は、風呂に入るためのお湯を張った浴槽のことです。特に日本の家庭や温泉の湯船を指し、ゆったりと浸かるイメージがあります。「湯船に浸かる」という表現がよく使われます。
+Example1: 毎晩ゆっくり湯舟に浸かっています。
+Example1_EN: I soak in the bathtub every evening.
+Example2: 湯舟から上がるときは足元に気をつけてください。
+Example2_EN: Please be careful of your footing when getting out of the bathtub.
+Example3: この旅館の湯舟はとても広いです。
+Example3_EN: The bathtub at this inn is very spacious.
+
+===word: 斯くして===
+Nuance: 「斯くして」（かくして）は、文章語で「こうして」「このようにして」という意味です。前の出来事を受けて、その結果として次の展開が起こることを示す接続詞的に使われます。硬い書き言葉です。
+Example1: 斯くして、長い戦いが終わりを告げました。
+Example1_EN: Thus, the long battle came to an end.
+Example2: 斯くして新しい時代が始まりました。
+Example2_EN: Thus, a new era began.
+Example3: 斯くして我々は目的地にたどり着きました。
+Example3_EN: Thus, we arrived at our destination.
+
+===word: 近未来===
+Nuance: 「近未来」は、現在からあまり遠くない未来、数十年以内の未来を指します。SF作品の設定としてよく使われるほか、技術予測や社会予測の文脈でも使われます。
+Example1: 近未来には自動運転が普及するでしょう。
+Example1_EN: Self-driving cars will likely become widespread in the near future.
+Example2: この小説は近未来の日本を舞台にしています。
+Example2_EN: This novel is set in Japan in the near future.
+Example3: 近未来の技術についてプレゼンテーションをします。
+Example3_EN: I will give a presentation on near-future technology.
+
+===word: 四苦八苦===
+Nuance: 「四苦八苦」は、元々仏教用語で人間の八つの苦しみを指しますが、日常的には「非常に苦労する」「あらゆる困難に直面する」という意味で使われる四字熟語です。
+Example1: 受験勉強で四苦八苦しています。
+Example1_EN: I am having a terrible time with my exam preparation.
+Example2: 仕事と育児の両立に四苦八苦しています。
+Example2_EN: I am struggling to balance work and childcare.
+Example3: 彼はコンピューターの設定に四苦八苦していました。
+Example3_EN: He was wrestling with the computer settings.
+
+===word: 類推===
+Nuance: 「類推」は、似ている点をもとに未知の事柄を推測することです。既知の知識や経験から類似性を見出して、新しい状況や概念を理解しようとする思考方法です。
+Example1: 過去の事例から類推することができます。
+Example1_EN: We can infer by analogy from past cases.
+Example2: 類推によって問題の解決策を見つけました。
+Example2_EN: We found a solution to the problem by analogy.
+Example3: このパズルは類推の力を使って解きます。
+Example3_EN: You solve this puzzle using analogical reasoning.
+
+===word: 腹いせ===
+Nuance: 「腹いせ」は、怒りや不満を晴らすために他人に嫌がらせをしたり、物に当たったりすることです。「腹が立った」という感情を他の対象に向けて発散する行為を指します。
+Example1: 彼は上司に叱られた腹いせに、部下に八つ当たりしました。
+Example1_EN: He took out his anger on his subordinates after being scolded by his boss.
+Example2: 腹いせに彼の車に傷をつけるなんて許せません。
+Example2_EN: I cannot forgive scratching his car out of spite.
+Example3: 腹いせに冷たい態度を取るのはやめた方がいいですよ。
+Example3_EN: You should not act coldly out of spite.
+
+===word: 揺さぶる===
+Nuance: 「揺さぶる」は、物を激しく揺り動かすことです。物理的な揺れだけでなく、「相手の心を揺さぶる」「業界を揺さぶる」のように、心理的・社会的な大きな影響を与える意味でも使われます。
+Example1: 彼の肩を揺さぶって起こしました。
+Example1_EN: I shook his shoulder to wake him up.
+Example2: その感動的な話は聴衆の心を揺さぶりました。
+Example2_EN: That moving story shook the audience's hearts.
+Example3: 新しい技術が業界を大きく揺さぶっています。
+Example3_EN: New technology is shaking up the industry.
+
+===word: 寝付く===
+Nuance: 「寝付く」は、床に就いて眠りに入ることを意味します。「なかなか寝付けない」のように、眠りにつくまでの動作に焦点があります。
+Example1: 赤ちゃんはすぐに寝付きました。
+Example1_EN: The baby fell asleep quickly.
+Example2: 昨夜は暑くてなかなか寝付けませんでした。
+Example2_EN: Last night was so hot that I could not get to sleep.
+Example3: 彼はあっという間に寝付いてしまいました。
+Example3_EN: He fell asleep in no time.
+
+===word: 投宿===
+Nuance: 「投宿」は、旅先で宿に泊まることを意味するやや改まった表現です。「宿に投宿する」のように使われ、「宿泊する」よりも格式ばった言い方です。
+Example1: 駅前の旅館に投宿しました。
+Example1_EN: I put up at an inn near the station.
+Example2: 予約なしで投宿するのは難しいかもしれません。
+Example2_EN: It might be difficult to find lodging without a reservation.
+Example3: このホテルには三泊投宿する予定です。
+Example3_EN: I plan to stay at this hotel for three nights.
+
+===word: 手ほどき===
+Nuance: 「手ほどき」は、初心者に対して基礎や入門の段階を教えることを意味します。特に芸事や技術習得の初期指導に使われ、「手ほどきを受ける」「手ほどきをする」という形で用います。
+Example1: 先生からピアノの手ほどきを受けました。
+Example1_EN: I received introductory piano lessons from the teacher.
+Example2: 彼が私に茶道の手ほどきをしてくれました。
+Example2_EN: He gave me basic instruction in tea ceremony.
+Example3: 初心者向けにパソコンの手ほどきをしています。
+Example3_EN: I give basic computer instruction for beginners.
+
+===word: 異な===
+Nuance: 「異な」（あやな）は、古風・文語的な表現で「奇妙だ」「おかしい」「普通と違う」という意味です。現代ではあまり使われませんが、文学や時代劇などで見られます。
+Example1: それは異なことですね。
+Example1_EN: That is rather strange, is it not?
+Example2: 異な噂が広まっているようです。
+Example2_EN: There seems to be a strange rumor spreading.
+Example3: 何とも異な感じがします。
+Example3_EN: It feels rather odd.
+
+===word: しがない===
+Nuance: 「しがない」は、取るに足らない、つまらない、価値のないという意味の形容詞です。自分の立場や仕事を謙遜して「しがないサラリーマン」のように使うことが多いです。
+Example1: 私はしがない会社員です。
+Example1_EN: I am a humble office worker.
+Example2: しがない給料でやりくりするのは大変です。
+Example2_EN: It is hard to make ends meet on a meager salary.
+Example3: 彼はしがない役人に過ぎません。
+Example3_EN: He is nothing more than an insignificant civil servant.
+
+===word: 天衣無縫===
+Nuance: 「天衣無縫」は、天女の衣には縫い目がないという故事から、芸術作品や人物が自然で美しく、欠点や作為がまったく見られないことを表す四字熟語です。
+Example1: 彼女の演技は天衣無縫で、観客を魅了しました。
+Example1_EN: Her performance was flawless and captivated the audience.
+Example2: この作品は天衣無縫の美しさを持っています。
+Example2_EN: This work possesses a flawless, natural beauty.
+Example3: 天衣無縫な人柄が彼の魅力です。
+Example3_EN: His natural and artless personality is his charm.
+
+===word: 転がす===
+Nuance: 「転がす」は、ものを回転させながら移動させることです。球や円筒形のものを押して転がす動作を指します。比喩的に「人を転がす（うまく扱う）」などの使い方もあります。
+Example1: 丸太を坂道から転がしました。
+Example1_EN: We rolled the log down the slope.
+Example2: 彼は石を転がして遊んでいました。
+Example2_EN: He was playing by rolling a stone.
+Example3: ボールを相手の方向に転がしてください。
+Example3_EN: Please roll the ball toward the other person.
+
+===word: 狭める===
+Nuance: 「狭める」は、範囲や幅を狭くすることを意味します。物理的な幅を狭くする場合と、選択肢や視野を限定的にする場合の両方で使われます。
+Example1: 道路工事で車線を狭めています。
+Example1_EN: They are narrowing the lanes due to road construction.
+Example2: 選択肢を絞って、候補を三つに狭めました。
+Example2_EN: We narrowed down the choices to three candidates.
+Example3: 予算を狭めざるを得ませんでした。
+Example3_EN: We had no choice but to narrow the budget.
+
+===word: 招来===
+Nuance: 「招来」は、ある行動や状態が原因となって、結果的に新しい事態を引き起こすことを意味する漢語です。「問題を招来する」「混乱を招来する」のように、悪い結果をもたらす場合に使われることが多いです。
+Example1: その政策は経済の混乱を招来しました。
+Example1_EN: That policy brought about economic turmoil.
+Example2: 無計画な開発は環境問題を招来します。
+Example2_EN: Unplanned development gives rise to environmental problems.
+Example3: 彼の不注意は大きな事故を招来しかねません。
+Example3_EN: His carelessness could invite a major accident.
+
+===word: 噛み砕く===
+Nuance: 「噛み砕く」は、文字通り食べ物を歯で噛んで細かく砕くことです。比喩的には「わかりやすく説明する」「かみ砕いて話す」のように、難しい内容を理解しやすく分解して説明する意味でもよく使われます。
+Example1: よく噛み砕いて食べてください。
+Example1_EN: Please chew your food well before swallowing.
+Example2: この内容をかみ砕いて説明していただけますか。
+Example2_EN: Could you explain this content in simpler terms?
+Example3: 彼は難しい理論をかみ砕いて教えてくれました。
+Example3_EN: He broke down the difficult theory and explained it simply.
+
+===word: 鉄筋===
+Nuance: 「鉄筋」は、コンクリートの中に埋め込んで強度を高めるための棒状の鉄材です。「鉄筋コンクリート（RC造）」は現代建築の主要構造方法です。
+Example1: このビルは鉄筋コンクリートで建てられています。
+Example1_EN: This building is made of reinforced concrete.
+Example2: 鉄筋の太さは建物の規模によって異なります。
+Example2_EN: The thickness of reinforcing bars varies depending on the building scale.
+Example3: 鉄筋が錆びると建物の強度が落ちます。
+Example3_EN: If the reinforcing bars rust, the building's strength decreases.
+
+===word: 顔役===
+Nuance: 「顔役」は、地域や業界などで勢力や影響力を持つ人を指します。表向きの役職ではなく、実質的な力を持つボス的な存在です。時に博徒やヤクザの親分を指すこともあります。
+Example1: 彼はこの地域の顔役として知られています。
+Example1_EN: He is known as the local boss in this area.
+Example2: 町内の顔役が集まって相談しました。
+Example2_EN: The influential figures in the town gathered to discuss.
+Example3: 彼は政界の顔役として裏で大きな力を持っています。
+Example3_EN: He wields great behind-the-scenes power as a political boss.
+
+===word: 防具===
+Nuance: 「防具」は、事故や攻撃から体を守るために身に着ける装備品の総称です。剣道やフェンシングなどのスポーツ用防具から、工事現場の安全具まで幅広く使われます。
+Example1: 剣道の防具は高価ですが、品質が重要です。
+Example1_EN: Kendo armor is expensive, but quality is important.
+Example2: 工事現場では必ず防具を着用してください。
+Example2_EN: Please always wear protective gear at construction sites.
+Example3: この防具は頭部を衝撃から守ります。
+Example3_EN: This protective gear protects the head from impact.
+
+===word: 下位互換性===
+Nuance: 「下位互換性」（後方互換性）は、新しいバージョンのシステムやソフトウェアが、古いバージョンのデータや機器とも動作する互換性のことです。IT分野でよく使われる用語です。
+Example1: このソフトウェアは下位互換性があります。
+Example1_EN: This software is backward compatible.
+Example2: 下位互換性を維持するために、古い機能も残しています。
+Example2_EN: We keep old features to maintain backward compatibility.
+Example3: 下位互換性がないと、古いファイルが開けません。
+Example3_EN: Without backward compatibility, you cannot open old files.
+
+===word: 痒み===
+Nuance: 「痒み」は、皮膚がかゆいと感じる感覚のことです。虫刺されやアレルギー、皮膚疾患など様々な原因で生じます。
+Example1: 局部にかゆみがあります。
+Example1_EN: I have an itch in a certain area.
+Example2: このクリームを塗ると痒みが和らぎます。
+Example2_EN: Applying this cream will relieve the itching.
+Example3: 痒みがひどくて眠れませんでした。
+Example3_EN: The itching was so bad that I could not sleep.
+
+===word: 夕涼み===
+Nuance: 「夕涼み」は、夏の夕方に涼むために屋外で過ごすことを指す日本の夏の風物詩です。うちわを持って縁側に座ったり、川辺で涼を取ったりする習慣があります。
+Example1: 毎年夏には川辺で夕涼みをします。
+Example1_EN: Every summer I enjoy the evening cool by the river.
+Example2: 夕涼みに出かけませんか。
+Example2_EN: Would you like to go out and enjoy the cool evening?
+Example3: 庭で夕涼みをしていると、心が落ち着きます。
+Example3_EN: When I enjoy the cool evening in the garden, my mind feels at peace.
+
+===word: 持て成す===
+Nuance: 「持て成す」（もてなす）は、客に対して心を込めて歓待することです。食事やおもてなしを通じて、相手に気持ちよく過ごしてもらうことを意味します。
+Example1: お客様を心から持て成すことが大切です。
+Example1_EN: It is important to entertain guests with all your heart.
+Example2: 彼は自宅に友人を招いて、手料理で持て成しました。
+Example2_EN: He invited friends to his home and entertained them with homemade dishes.
+Example3: この旅館ではお客様を最高に持て成します。
+Example3_EN: This inn provides the highest level of hospitality to its guests.
+
+===word: はち切れる===
+Nuance: 「はち切れる」は、内部の圧力で破裂しそうなくらい膨れ上がることを意味します。食べ過ぎてお腹がはち切れそうな状態や、感情で心が満たされる比喩にも使われます。
+Example1: ご飯を食べ過ぎて、お腹がはち切れそうです。
+Example1_EN: I ate too much and my stomach feels like it is about to burst.
+Example2: 彼女への愛で心がはち切れそうです。
+Example2_EN: My heart feels like it is bursting with love for her.
+Example3: 袋に荷物を詰めすぎて、はち切れそうになっています。
+Example3_EN: I packed too much into the bag and it is about to burst.
+
+===word: 積雪===
+Nuance: 「積雪」は、地面に積もった雪のことを指します。積雪量や積雪地域など、気象や生活に影響を与える雪の状態を表す際に使われます。
+Example1: 昨夜の積雪は十センチでした。
+Example1_EN: The snowfall last night was ten centimeters.
+Example2: この地域は積雪が多いため、冬用タイヤが必要です。
+Example2_EN: This area gets heavy snowfall, so winter tires are necessary.
+Example3: 積雪のため、電車が遅れています。
+Example3_EN: Trains are delayed due to snowfall.
+
+===word: 戯曲===
+Nuance: 「戯曲」は、演劇のために書かれた文学作品で、登場人物の台詞とト書きから構成されます。シェイクスピアやチェーホフなどの作品が有名で、文学の一分野としても重要です。
+Example1: 彼女は有名な戯曲を読むのが好きです。
+Example1_EN: She enjoys reading famous plays.
+Example2: この戯曲は百年前に書かれました。
+Example2_EN: This play was written a hundred years ago.
+Example3: 戯曲を書くことに挑戦しています。
+Example3_EN: I am challenging myself to write a play.
+
+===word: 陰干し===
+Nuance: 「陰干し」は、直射日光を避けて風通しの良い日陰で物を乾かす方法です。洗濯物や食材を乾燥させる際に、色あせや風味の劣化を防ぐ目的で行われます。
+Example1: この着物は陰干ししてください。
+Example1_EN: Please dry this kimono in the shade.
+Example2: 乾燥させるときは陰干しの方が風味が保てます。
+Example2_EN: When drying, shade-drying preserves the flavor better.
+Example3: 梅干しは天日干しより陰干しの方が良いとされています。
+Example3_EN: Plum pickles are said to be better when shade-dried rather than sun-dried.
+
+===word: 弄る===
+Nuance: 「弄る」（いじくる）は、物を指で触って弄んだり、あれこれと触って遊んだりすることを意味します。無意識に触る動作や、機械をいじって調整しようとする意味でも使われるくだけた言い方です。
+Example1: 彼は考え事をしながら髪の毛を弄っていました。
+Example1_EN: He was playing with his hair while thinking.
+Example2: 機械を弄るのは趣味ですが、直せるとは限りません。
+Example2_EN: I enjoy tinkering with machines but that does not mean I can always fix them.
+Example3: スマートフォンを弄っていると時間があっという間に過ぎます。
+Example3_EN: Time flies by when I am fiddling with my smartphone.
+
+===word: 久方振り===
+Nuance: 「久方振り」（ひさかたぶり）は、「久しぶり」の強調表現で、非常に長い期間が経ってから再会したり何かをしたりすることを意味します。やや古風で改まった印象を与えます。
+Example1: 先生にお会いするのは久方振りですね。
+Example1_EN: It has been a long time since I last saw you, Professor.
+Example2: 久方振りに故郷に帰りました。
+Example2_EN: I returned to my hometown after a very long time.
+Example3: 久方振りに彼女から手紙が来ました。
+Example3_EN: I received a letter from her after a very long time.
+
+===word: 転嫁===
+Nuance: 「転嫁」は、自分の責任や負担を他人に押し付けることを意味します。「責任転嫁」という形でよく使われ、他者に罪や責めをなすりつけるネガティブな行為を指します。
+Example1: 彼は自分のミスを同僚に転嫁しました。
+Example1_EN: He shifted the blame for his mistake onto his colleague.
+Example2: 責任転嫁をする人は信頼を失います。
+Example2_EN: People who shift blame lose trust.
+Example3: 転嫁する前に自分の非を認めるべきです。
+Example3_EN: You should admit your fault instead of shifting the blame.
+
+===word: 非業===
+Nuance: 「非業」（ひごう）は、不本意で悲惨な死に方をすることを指し、ほとんど「非業の死」という形で使われます。事故や事件など、本人の意思に反して突然訪れる不幸な死を表現します。
+Example1: 彼は若くして非業の死を遂げました。
+Example1_EN: He met an untimely death at a young age.
+Example2: 非業の死を遂げた人々を追悼しました。
+Example2_EN: We mourned those who died unnatural deaths.
+Example3: 災害で非業の最期を迎える人が後を絶ちません。
+Example3_EN: People who meet tragic ends in disasters are never-ending.
+
+===word: 紅一点===
+Nuance: 「紅一点」は、多くの男性の中にただ一人だけ女性がいる状況を表す四字熟語です。「紅」は女性を、「一点」はただ一人を表します。会議や集団で女性が一人だけの時に使われます。
+Example1: 彼女は委員会の紅一点です。
+Example1_EN: She is the only woman on the committee.
+Example2: 紅一点として彼女は注目を集めました。
+Example2_EN: She attracted attention as the lone woman in the group.
+Example3: この部署では私が紅一点でした。
+Example3_EN: I was the only woman in this department.
+
+===word: ロムる===
+Nuance: 「ロムる」は、インターネットの掲示板やSNSなどで、自分は投稿せずに他の人の書き込みを読むだけの行為を指すネットスラングです。「ROM（Read Only Member）」に由来します。
+Example1: この掲示板ではいつもロムっています。
+Example1_EN: I always lurk on this bulletin board.
+Example2: ロムるだけならアカウントは必要ありません。
+Example2_EN: You do not need an account if you are just lurking.
+Example3: ロムっているだけでは情報は得られても交流はできません。
+Example3_EN: Just lurking lets you get information, but you cannot interact.
+
+===word: 妥協（する）===
+Nuance: 「妥協」は、互いに譲歩して意見や条件を一致させることです。双方が完全には満足しない点で折り合いをつけることを意味します。強い信念を曲げるというネガティブなニュアンスで使われることもあります。
+Example1: 両者は最終的に妥協点を見つけました。
+Example1_EN: Both parties eventually found a compromise.
+Example2: 品質に妥協したくありません。
+Example2_EN: I do not want to compromise on quality.
+Example3: 彼は自分の信念に妥協することはありません。
+Example3_EN: He never compromises his principles.
+
+===word: 顔ぶれ===
+Nuance: 「顔ぶれ」は、あるグループや集まりに参加している人々の顔触れ・メンバー構成を指します。同じ顔ぶれが集まる、新しい顔ぶれになる、といった使い方をします。
+Example1: 今日の会議の顔ぶれはいつもと少し違います。
+Example1_EN: The lineup for today's meeting is a bit different from usual.
+Example2: メンバーの顔ぶれが新しくなりました。
+Example2_EN: The member lineup has been renewed.
+Example3: いつもの顔ぶれが揃いましたね。
+Example3_EN: The usual crowd has gathered, has it not.
+
+===word: 暴君===
+Nuance: 「暴君」は、権力を濫用して残酷・横暴な政治を行う君主や指導者を指します。独裁者や専制的な権力者に対して使われ、比喩的に家庭や職場で威張っている人にも使われます。
+Example1: その暴君は国民に大きな苦しみをもたらしました。
+Example1_EN: That tyrant brought great suffering to the people.
+Example2: 彼は会社では暴君のような振る舞いをしています。
+Example2_EN: He behaves like a tyrant at the company.
+Example3: 暴君の支配に終止符を打つ時が来ました。
+Example3_EN: The time has come to put an end to the tyrant's rule.
+
+===word: 幌===
+Nuance: 「幌」（ほろ）は、馬車や自動車、トラックなどの上に取り付ける日除けや雨除けの布製の覆いです。幌馬車（幌付きの馬車）が有名で、現代ではトラックの荷台に使われることが多いです。
+Example1: このトラックは幌を付けています。
+Example1_EN: This truck has a canopy.
+Example2: 幌を外して荷物を積み込みました。
+Example2_EN: We removed the canopy and loaded the cargo.
+Example3: 古い幌馬車が博物館に展示されています。
+Example3_EN: An old covered wagon is displayed at the museum.
+
+===word: 巡視===
+Nuance: 「巡視」は、安全や秩序を守るために決められた区域を見回って点検することを指します。警察官のパトロールや、工場・施設の安全点検などの文脈で使われます。
+Example1: 警備員が施設内を巡視しています。
+Example1_EN: The security guard is making an inspection tour of the facility.
+Example2: 巡視中に異常は見つかりませんでした。
+Example2_EN: No abnormalities were found during the inspection tour.
+Example3: 工場では毎朝巡視を行うことになっています。
+Example3_EN: An inspection tour is conducted every morning at the factory.
+
+===word: ふしだら===
+Nuance: 「ふしだら」は、女性の品行が悪く、だらしない様子を指す形容動詞です。特に異性関係や生活態度が締まりのないことを批判的に評価する言葉で、強い否定的ニュアンスがあります。
+Example1: 彼女はふしだらな生活をしていると噂されています。
+Example1_EN: She is rumored to be living a loose lifestyle.
+Example2: ふしだらな行いは周囲からの信頼を失います。
+Example2_EN: Immoral behavior makes you lose the trust of those around you.
+Example3: ふしだらなイメージで売っているタレントもいます。
+Example3_EN: Some celebrities market themselves with a loose image.
+
+===word: 肉球===
+Nuance: 「肉球」は、猫や犬などの動物の足の裏にある柔らかい肉質の部分です。英語のpaw padに相当し、歩行時の衝撃吸収や静音化の役割を果たします。動物の可愛い特徴として人気があります。
+Example1: 猫の肉球はとても柔らかいです。
+Example1_EN: A cat's paw pads are very soft.
+Example2: 犬の肉球が乾燥しているので、クリームを塗りました。
+Example2_EN: My dog's paw pads were dry, so I applied cream.
+Example3: 子犬の肉球はピンク色でとても可愛いです。
+Example3_EN: Puppy paw pads are pink and very cute.
+
+===word: 炭素クレジット===
+Nuance: 「炭素クレジット」（カーボンクレジット）は、二酸化炭素などの温室効果ガスの排出削減量を証書化したもので、売買可能な排出権のことです。地球温暖化対策の市場メカニズムの一つです。
+Example1: 多くの企業が炭素クレジットを購入しています。
+Example1_EN: Many companies are purchasing carbon credits.
+Example2: 炭素クレジットの取引市場が拡大しています。
+Example2_EN: The carbon credit trading market is expanding.
+Example3: 炭素クレジットを利用して、自社の排出量を相殺できます。
+Example3_EN: You can offset your company's emissions by using carbon credits.
+
+===word: 空調===
+Nuance: 「空調」は、「空気調和」の略で、室内の温度・湿度・空気の清浄度を調整する設備やシステムのことです。エアコンや換気システムを含みます。
+Example1: このビルは空調が完備しています。
+Example1_EN: This building is fully air-conditioned.
+Example2: 空調の調子が悪いので修理を頼みました。
+Example2_EN: The air conditioning is not working well, so I called for repairs.
+Example3: 空調の温度設定は二十六度にしています。
+Example3_EN: We set the air conditioning temperature to 26 degrees.
+
+===word: 狭義===
+Nuance: 「狭義」は、言葉の意味を狭く限定して解釈することを指します。対義語は「広義」で、「狭義の○○」という形で特定の用語を限定的な意味で使う際に用います。
+Example1: 狭義の意味では、それは正しいと言えます。
+Example1_EN: In the narrow sense, that can be said to be correct.
+Example2: この用語を狭義に解釈すると誤解が生じます。
+Example2_EN: Interpreting this term in a narrow sense leads to misunderstanding.
+Example3: 狭義の経済学と広義の経済学の違いを説明してください。
+Example3_EN: Please explain the difference between economics in the narrow sense and in the broad sense.
+
+===word: 偶数===
+Nuance: 「偶数」は、2で割り切れる整数のことです。0、2、4、6、8などが偶数で、対義語は「奇数」です。日常生活でも「偶数月」「偶数のページ」などに使われます。
+Example1: このカレンダーでは偶数の日が休みです。
+Example1_EN: On this calendar, even-numbered days are holidays.
+Example2: 偶数と奇数を見分けるのは簡単です。
+Example2_EN: It is easy to tell even and odd numbers apart.
+Example3: 偶数階にはエレベーターが止まります。
+Example3_EN: The elevator stops at the even-numbered floors.
+
+===word: 物陰===
+Nuance: 「物陰」は、建物や木などの陰になる場所、人目につかない隠れ場所を指します。誰かが隠れている場合や、何かが背後に隠れている状況で使われます。
+Example1: 物陰から誰かがこちらを見ています。
+Example1_EN: Someone is watching us from behind something.
+Example2: 物陰に隠れている犯人を見つけました。
+Example2_EN: We found the culprit hiding in the shadows.
+Example3: 猫が物陰に潜んで鳥を狙っています。
+Example3_EN: The cat is lurking in the shadows, stalking a bird.
+
+===word: 気を抜く===
+Nuance: 「気を抜く」は、緊張や集中を解いてリラックスすることを意味します。しかし「気を抜いたら失敗した」のように、注意力を怠るというネガティブな意味でも使われます。
+Example1: 最後まで気を抜かないでください。
+Example1_EN: Please do not let your guard down until the end.
+Example2: ちょっと気を抜いたら、間違えてしまいました。
+Example2_EN: I made a mistake the moment I let my concentration slip.
+Example3: たまには気を抜くことも必要です。
+Example3_EN: It is necessary to relax sometimes.
+
+===word: 肉眼===
+Nuance: 「肉眼」は、望遠鏡や顕微鏡などの道具を使わない、生の人間の目を指します。肉眼で見える／見えないといった形で、機器を使わない自然な視覚について述べる時に使います。
+Example1: この星は肉眼でも見えます。
+Example1_EN: This star is visible to the naked eye.
+Example2: 肉眼では細かい文字が読めません。
+Example2_EN: I cannot read small letters with the naked eye.
+Example3: 肉眼で確認できる範囲は限られています。
+Example3_EN: The range visible to the naked eye is limited.
+
+===word: 茶々を入れる===
+Nuance: 「茶々を入れる」は、人が真剣に話しているところに横から冗談や余計なことを言って邪魔をすることを意味する慣用句です。他人の会話や作業を妨害するニュアンスがあります。
+Example1: 真面目な話をしているのに、彼が茶々を入れて困ります。
+Example1_EN: It is annoying how he interrupts our serious conversation with jokes.
+Example2: 子供たちが遊んでいるのに茶々を入れるのはやめてください。
+Example2_EN: Please stop teasing the children while they are playing.
+Example3: 彼女の説明に茶々を入れる人がいて、進行が遅れました。
+Example3_EN: Someone interrupted her explanation and the proceedings were delayed.
+
+===word: 威勢===
+Nuance: 「威勢」は、活気や元気の良さ、また人を威圧するような勢いを意味します。「威勢がいい」は元気で活発な様子を、「威勢を張る」は威張った態度を取ることを表します。
+Example1: 彼はいつも威勢が良くて、周りを元気にします。
+Example1_EN: He is always full of energy and cheers up those around him.
+Example2: 威勢のいい掛け声に乗せられて、参加してしまいました。
+Example2_EN: I was swept up by the spirited shouts and ended up joining in.
+Example3: 威勢だけで中身が伴わないこともあります。
+Example3_EN: Sometimes there is just a lot of bluster without substance.
+
+===word: 混合===
+Nuance: 「混合」は、異なる種類のものを混ぜ合わせることを意味します。液体同士、気体同士、または異なる要素を一つのものにする場合に使われます。
+Example1: この薬は二種類の成分を混合して作ります。
+Example1_EN: This medicine is made by mixing two types of ingredients.
+Example2: 油と水を混合しても、すぐに分離します。
+Example2_EN: Even if you mix oil and water, they separate quickly.
+Example3: 混合した材料をよく撹拌してください。
+Example3_EN: Please stir the mixed ingredients thoroughly.
+
+===word: 銘柄===
+Nuance: 「銘柄」は、商品のブランド名や商標を指します。特に日本酒やタバコ、証券（株式）の分野でよく使われ、「銘柄選び」「おすすめの銘柄」のように用います。
+Example1: この銘柄の日本酒はとても人気があります。
+Example1_EN: This brand of sake is very popular.
+Example2: 投資する銘柄を慎重に選びましょう。
+Example2_EN: Let us carefully choose which stocks to invest in.
+Example3: 銘柄によって品質や価格が大きく異なります。
+Example3_EN: Quality and price vary greatly depending on the brand.

@@ -1,0 +1,530 @@
+===word: 女装===
+Nuance: 男性が女性の服装や化粧をすることを指します。趣味や仕事、パフォーマンスなど様々な目的で行われます。
+Example1: 彼は女装が趣味だそうです。
+Example1_EN: I heard that cross-dressing is his hobby.
+Example2: 女装をすると、気分が変わりますね。
+Example2_EN: When I dress in women's clothing, my mood changes.
+Example3: あの俳優は女装がとても似合います。
+Example3_EN: That actor looks very good in women's clothing.
+
+===word: 指揮者===
+Nuance: オーケストラや合唱団などを統率して音楽を演奏に導く役割の人のことです。クラシック音楽の分野でよく使われます。
+Example1: 指揮者はタクトを振ってオーケストラを導きます。
+Example1_EN: The conductor leads the orchestra by waving a baton.
+Example2: 彼女は世界的に有名な指揮者です。
+Example2_EN: She is a world-famous conductor.
+Example3: 指揮者の動きに合わせて演奏します。
+Example3_EN: We play in time with the conductor's movements.
+
+===word: 帰国===
+Nuance: 自分の国に戻ることを意味します。留学や海外勤務などの後によく使われる言葉です。
+Example1: 来月、日本に帰国する予定です。
+Example1_EN: I plan to return to Japan next month.
+Example2: 彼は三年ぶりに帰国しました。
+Example2_EN: He returned to his home country after three years.
+Example3: 帰国後の手続きは面倒ですね。
+Example3_EN: The procedures after returning home are troublesome.
+
+===word: 虐待===
+Nuance: 弱い立場にある人や動物に対して、肉体的または精神的な暴力や酷い扱いをすることです。非常に深刻な意味を持つ言葉です。
+Example1: 児童虐待は絶対に許せません。
+Example1_EN: Child abuse is absolutely unforgivable.
+Example2: 動物虐待は法律で禁止されています。
+Example2_EN: Animal abuse is prohibited by law.
+Example3: 虐待の兆候に気づいたら、すぐに相談してください。
+Example3_EN: If you notice signs of abuse, please consult someone immediately.
+
+===word: 冷戦===
+Nuance: 第二次世界大戦後、アメリカとソ連を中心に行われた軍事・政治・経済的な対立状態のことです。直接的な武力衝突はありませんでした。
+Example1: 冷戦時代は世界が二分されていました。
+Example1_EN: The world was divided in two during the Cold War era.
+Example2: 冷戦の終結により国際関係が大きく変わりました。
+Example2_EN: International relations changed significantly with the end of the Cold War.
+Example3: 冷戦についての本を読んでいます。
+Example3_EN: I am reading a book about the Cold War.
+
+===word: 沖縄県===
+Nuance: 日本の最南端に位置する県で、多くの島々から成り立っています。温暖な気候と独自の文化が特徴です。
+Example1: 沖縄県は美しい海で有名です。
+Example1_EN: Okinawa Prefecture is famous for its beautiful seas.
+Example2: 沖縄県にはアメリカの基地が多くあります。
+Example2_EN: There are many American military bases in Okinawa Prefecture.
+Example3: 沖縄県の方言は標準語とかなり違いますね。
+Example3_EN: The dialect of Okinawa Prefecture is quite different from standard Japanese.
+
+===word: 評論家===
+Nuance: 政治、経済、文化、芸術などの分野について専門的な意見や批評を述べる人のことです。
+Example1: 彼は政治評論家としてテレビによく出演します。
+Example1_EN: He frequently appears on TV as a political commentator.
+Example2: 評論家の意見は参考になりますね。
+Example2_EN: The opinions of critics are helpful.
+Example3: あの映画評論家はいつも辛口の評価をします。
+Example3_EN: That film critic always gives harsh reviews.
+
+===word: 化粧道具===
+Nuance: 化粧をするために使う道具や器具の総称です。ブラシやスポンジ、鏡などが含まれます。
+Example1: 化粧道具は専用のケースにしまっています。
+Example1_EN: I keep my makeup tools in a special case.
+Example2: 新しい化粧道具を買いました。
+Example2_EN: I bought new makeup tools.
+Example3: 化粧道具は定期的に清掃したほうがいいですよ。
+Example3_EN: You should clean your makeup tools regularly.
+
+===word: 運営===
+Nuance: 組織や団体、イベントなどを計画的に動かしていくことを意味します。管理や経営に近い意味です。
+Example1: この団体はボランティアで運営されています。
+Example1_EN: This organization is run by volunteers.
+Example2: イベントの運営は大変でした。
+Example2_EN: Managing the event was tough.
+Example3: 会社の運営には多くの課題があります。
+Example3_EN: There are many challenges in running a company.
+
+===word: 電波===
+Nuance: 無線通信に使われる電気的な波のことです。また、携帯電話の繋がりやすさを指すこともあります。
+Example1: この辺りは電波が悪いですね。
+Example1_EN: The signal is bad around here.
+Example2: 電波の届かない場所でキャンプをしました。
+Example2_EN: We went camping in a place with no signal.
+Example3: テレビの電波がデジタルに変わりました。
+Example3_EN: TV signals switched to digital.
+
+===word: 覆面===
+Nuance: 顔を隠すための布やマスクのことです。正体を隠す目的で使われます。
+Example1: 犯人は覆面をしていました。
+Example1_EN: The culprit was wearing a mask.
+Example2: 覆面レスラーは正体を明かしません。
+Example2_EN: Masked wrestlers do not reveal their identities.
+Example3: 覆面を取って顔を見せてください。
+Example3_EN: Please take off your mask and show your face.
+
+===word: 長期===
+Nuance: 時間の長さが長いことを表します。数ヶ月から数年にわたる期間を指すことが多いです。
+Example1: 長期の旅行に出かけます。
+Example1_EN: I am going on a long-term trip.
+Example2: 長期の計画を立てるのは難しいです。
+Example2_EN: Making long-term plans is difficult.
+Example3: 長期にわたって研究を続けています。
+Example3_EN: I have been continuing my research over a long period.
+
+===word: 姿===
+Nuance: 人の外見や形、様子のことです。目に見える状態や態度を表すこともあります。
+Example1: 彼女の姿が見えなくなりました。
+Example1_EN: I lost sight of her.
+Example2: 彼の元気な姿を見られて安心しました。
+Example2_EN: I was relieved to see him looking energetic.
+Example3: 昔の姿を思い出しますね。
+Example3_EN: It brings back memories of how things used to look.
+
+===word: 不可欠===
+Nuance: 何かを行う上で絶対に必要で、欠かすことができないことを表します。
+Example1: インターネットは現代生活に不可欠です。
+Example1_EN: The internet is indispensable to modern life.
+Example2: 水は人間の生存に不可欠なものです。
+Example2_EN: Water is essential for human survival.
+Example3: このプロジェクトに彼は不可欠な存在です。
+Example3_EN: He is an indispensable presence in this project.
+
+===word: 冒険する===
+Nuance: 危険や不確かさがあることを承知で、新しいことに挑戦することを意味します。
+Example1: 彼は一人で世界一周の冒険をしました。
+Example1_EN: He went on an adventure around the world alone.
+Example2: たまには冒険してみたいです。
+Example2_EN: Sometimes I want to try an adventure.
+Example3: 新しいことに挑戦するのは冒険ですね。
+Example3_EN: Trying new things is an adventure.
+
+===word: 生活する===
+Nuance: 毎日の暮らしを営むことを意味します。食事、睡眠、仕事などの日常的な活動を含みます。
+Example1: 田舎でゆっくり生活したいです。
+Example1_EN: I want to live a slow life in the countryside.
+Example2: 彼は一人暮らしを始めて生活する大変さを知りました。
+Example2_EN: He learned the difficulty of living independently.
+Example3: 健康的に生活するために運動しています。
+Example3_EN: I exercise to live healthily.
+
+===word: 息===
+Nuance: 呼吸によって肺に出し入れする空気のことです。また、生きている証としての呼吸を指します。
+Example1: 息が苦しいです。
+Example1_EN: I am having trouble breathing.
+Example2: 深く息を吸って吐いてください。
+Example2_EN: Please take a deep breath in and out.
+Example3: 彼は息を切らして走ってきました。
+Example3_EN: He came running, out of breath.
+
+===word: 空中===
+Nuance: 地面から離れた空の中の空間のことです。飛行機や鳥が飛んでいる場所を指します。
+Example1: 空中に大きな虹が出ていました。
+Example1_EN: A big rainbow appeared in the sky.
+Example2: 飛行機が空中で揺れました。
+Example2_EN: The airplane shook in the air.
+Example3: 空中に浮かんでいる雲がきれいです。
+Example3_EN: The clouds floating in the sky are beautiful.
+
+===word: 満員===
+Nuance: 乗り物や会場などが人でいっぱいで、もう入る余地がない状態を表します。
+Example1: 電車が満員で乗れませんでした。
+Example1_EN: The train was so full I couldn't get on.
+Example2: コンサート会場は満員でした。
+Example2_EN: The concert venue was packed full.
+Example3: 満員のバスに乗るのは嫌です。
+Example3_EN: I don't like riding on a crowded bus.
+
+===word: 所得税===
+Nuance: 個人の所得に対して課される税金のことです。給料から自動的に差し引かれます。
+Example1: 所得税は毎月の給料から引かれます。
+Example1_EN: Income tax is deducted from your monthly salary.
+Example2: 今年の所得税の申告をしましたか？
+Example2_EN: Have you filed your income tax return for this year?
+Example3: 所得税の税率は所得によって変わります。
+Example3_EN: The income tax rate varies depending on your income.
+
+===word: 信用===
+Nuance: 人や組織を信頼し、その能力や誠実さを評価することです。ビジネスや人間関係で重要な概念です。
+Example1: 彼は地域で信用のある人物です。
+Example1_EN: He is a trusted person in the community.
+Example2: 信用を失うのは一瞬です。
+Example2_EN: Losing trust takes only a moment.
+Example3: この会社は信用できますか？
+Example3_EN: Can this company be trusted?
+
+===word: パン屑===
+Nuance: パンを切ったり食べたりした時に出る小さなかけらのことです。
+Example1: パン屑をテーブルから払い落としてください。
+Example1_EN: Please brush the breadcrumbs off the table.
+Example2: パン屑が床に落ちていますよ。
+Example2_EN: There are breadcrumbs on the floor.
+Example3: パン屑を集めて鳥にあげました。
+Example3_EN: I gathered the breadcrumbs and fed them to the birds.
+
+===word: 害す===
+Nuance: 人や物に害や損害を与えることを意味する古風な言い方です。現代では「害する」が一般的です。
+Example1: タバコは健康を害します。
+Example1_EN: Tobacco harms your health.
+Example2: その化学物質は環境を害す恐れがあります。
+Example2_EN: That chemical substance may harm the environment.
+Example3: ストレスが体を害すこともあります。
+Example3_EN: Stress can also harm your body.
+
+===word: 不眠症===
+Nuance: なかなか眠れなかったり、途中で目が覚めてしまったりする睡眠障害のことです。
+Example1: 最近不眠症に悩んでいます。
+Example1_EN: I have been suffering from insomnia lately.
+Example2: 不眠症の治療法について医者に相談しました。
+Example2_EN: I consulted a doctor about treatments for insomnia.
+Example3: 不眠症には規則正しい生活が大切です。
+Example3_EN: A regular lifestyle is important for insomnia.
+
+===word: デフレ===
+Nuance: 物価が継続的に下がる経済現象のことです。景気の悪化につながることがあります。
+Example1: デフレが続くと経済に悪影響があります。
+Example1_EN: Continued deflation has a negative impact on the economy.
+Example2: デフレの時期には物価が下がります。
+Example2_EN: During deflation, prices go down.
+Example3: 日本は長い間デフレに悩まされてきました。
+Example3_EN: Japan has been troubled by deflation for a long time.
+
+===word: 主体===
+Nuance: 行動や決定の中心となる人や組織のことです。何かを進める上での主な役割を指します。
+Example1: このプロジェクトの主体は学生たちです。
+Example1_EN: The main agents of this project are the students.
+Example2: 主体となってイベントを企画しました。
+Example2_EN: I took the lead in planning the event.
+Example3: 地域の主体が町づくりに参加しています。
+Example3_EN: Local agents are participating in community development.
+
+===word: 本陣===
+Nuance: 戦国時代や江戸時代に、戦いの際に大将が陣を置いた場所のことです。歴史用語として使われます。
+Example1: 本陣は敵に見つからない場所に置かれました。
+Example1_EN: The headquarters was placed where the enemy could not find it.
+Example2: この地域には昔、本陣があったそうです。
+Example2_EN: I heard there used to be a troop headquarters in this area.
+Example3: 本陣の跡地が史跡として残っています。
+Example3_EN: The site of the former headquarters remains as a historical landmark.
+
+===word: 進化する===
+Nuance: 生物や物事が長い時間をかけて徐々に変化し、より発達した状態になることです。
+Example1: 人間は猿から進化したと言われています。
+Example1_EN: It is said that humans evolved from apes.
+Example2: 技術は日々進化していますね。
+Example2_EN: Technology is evolving every day.
+Example3: スマートフォンは急速に進化しました。
+Example3_EN: Smartphones have evolved rapidly.
+
+===word: 飼う===
+Nuance: 動物を自分の家で世話し、育てることを意味します。ペットに対してよく使われます。
+Example1: 私は猫を二匹飼っています。
+Example1_EN: I have two cats.
+Example2: 犬を飼うには責任が必要です。
+Example2_EN: Owning a dog requires responsibility.
+Example3: 子供の頃にハムスターを飼っていました。
+Example3_EN: I used to have a hamster when I was a child.
+
+===word: 機能===
+Nuance: 機械やシステムなどが持っている働きや役割のことです。製品の性能を表す時によく使われます。
+Example1: このスマートフォンには便利な機能がたくさんあります。
+Example1_EN: This smartphone has many convenient functions.
+Example2: 新しい機能を追加しました。
+Example2_EN: We added a new function.
+Example3: この機械の機能は十分ですか？
+Example3_EN: Are the functions of this machine sufficient?
+
+===word: 重量挙げ選手===
+Nuance: バーベルを持ち上げて力の強さを競うスポーツの選手のことです。オリンピック種目でもあります。
+Example1: 彼はプロの重量挙げ選手です。
+Example1_EN: He is a professional weightlifter.
+Example2: 重量挙げ選手はとても強い筋肉を持っています。
+Example2_EN: Weightlifters have very strong muscles.
+Example3: あの重量挙げ選手は金メダルを取りました。
+Example3_EN: That weightlifter won a gold medal.
+
+===word: 雨天決行===
+Nuance: 雨が降っても予定通りに行事やイベントを行うことを表す言葉です。
+Example1: この運動会は雨天決行です。
+Example1_EN: This sports day will be held rain or shine.
+Example2: 雨天決行と書いてありました。
+Example2_EN: It said the event will proceed regardless of rain.
+Example3: 雨が降っていますが、雨天決行なので試合をします。
+Example3_EN: It's raining, but since it's rain-or-shine, we will hold the match.
+
+===word: 中古===
+Nuance: 一度誰かが使ったもので、新品ではない状態のことを指します。中古車や中古本などによく使われます。
+Example1: 中古の車を買いました。
+Example1_EN: I bought a used car.
+Example2: この本は中古で安かったです。
+Example2_EN: This book was cheap because it was secondhand.
+Example3: 中古品でも状態が良いものを選びましょう。
+Example3_EN: Even with secondhand items, let's choose ones in good condition.
+
+===word: 自動化===
+Nuance: 人間が行っていた作業を機械やコンピューターに置き換えることです。効率化や省力化が目的です。
+Example1: 工場の生産工程が自動化されました。
+Example1_EN: The factory's production process was automated.
+Example2: 自動化によって仕事の効率が上がりました。
+Example2_EN: Work efficiency improved through automation.
+Example3: この業務は自動化できませんか？
+Example3_EN: Can't this task be automated?
+
+===word: 打率===
+Nuance: 野球で、打数に対する安打数の割合を表す数値のことです。打者の成績を示す重要な指標です。
+Example1: 彼の打率は三割を超えています。
+Example1_EN: His batting average is over .300.
+Example2: 打率が高い選手は評価されます。
+Example2_EN: Players with a high batting average are highly valued.
+Example3: 今シーズンの打率はどのくらいですか？
+Example3_EN: What is your batting average this season?
+
+===word: 国語===
+Nuance: 日本で学校の教科として教えられる日本語の読み書きや表現についての科目のことです。
+Example1: 国語の授業は楽しかったです。
+Example1_EN: Japanese language class was enjoyable.
+Example2: 国語の試験で良い点を取りました。
+Example2_EN: I got a good score on the Japanese language exam.
+Example3: 国語力をつけるには読書が大切です。
+Example3_EN: Reading is important for improving Japanese language skills.
+
+===word: 知識===
+Nuance: 学んだり経験したりして得た情報や理解のことです。幅広い分野の情報を指します。
+Example1: 彼は歴史の知識が豊富です。
+Example1_EN: He has extensive knowledge of history.
+Example2: 知識を深めるために本を読んでいます。
+Example2_EN: I am reading books to deepen my knowledge.
+Example3: その知識はどこで得ましたか？
+Example3_EN: Where did you acquire that knowledge?
+
+===word: 駆け足===
+Nuance: 走ること、特に早足で走ることを指します。また、物事を急いで行うことの比喩としても使われます。
+Example1: 子供たちが駆け足で校庭を回っています。
+Example1_EN: The children are running around the schoolyard.
+Example2: 時間がないので駆け足で説明します。
+Example2_EN: Since we don't have time, I will explain quickly.
+Example3: 駆け足で見学すると疲れますね。
+Example3_EN: Rushing through a tour is tiring.
+
+===word: 雑音===
+Nuance: 周囲のうるさい音や、目的の音を邪魔する不要な音のことです。
+Example1: この部屋は雑音が多くて集中できません。
+Example1_EN: This room has too much noise and I can't concentrate.
+Example2: 雑音を消すためにイヤホンをつけました。
+Example2_EN: I put on earphones to block out the noise.
+Example3: ラジオに雑音が入っています。
+Example3_EN: There is static noise on the radio.
+
+===word: 外貨===
+Nuance: 自国以外の国の通貨のことで、ドルやユーロなどが代表的な例です。
+Example1: 外貨を両替したいです。
+Example1_EN: I would like to exchange foreign currency.
+Example2: 旅行の前に外貨を用意しました。
+Example2_EN: I prepared foreign currency before the trip.
+Example3: 外貨のレートは毎日変わります。
+Example3_EN: Foreign exchange rates change daily.
+
+===word: 時折===
+Nuance: たまに、時々という意味の副詞です。何かが不定期に起こる様子を表します。やや文語的で落ち着いた響きがあります。
+Example1: 時折、昔の友達を思い出します。
+Example1_EN: I occasionally think of old friends.
+Example2: 時折雨が降っていました。
+Example2_EN: It was raining on and off.
+Example3: 彼は時折難しい質問をしますね。
+Example3_EN: He occasionally asks difficult questions.
+
+===word: 生卵===
+Nuance: 加熱調理されていない、生の状態の卵のことです。ご飯にかけたり、料理に使ったりします。
+Example1: 生卵をご飯にかけて食べるのが好きです。
+Example1_EN: I like eating raw egg on rice.
+Example2: 生卵は新鮮なものを選んでください。
+Example2_EN: Please choose fresh raw eggs.
+Example3: 生卵を使った料理を作りました。
+Example3_EN: I made a dish using raw eggs.
+
+===word: 無色===
+Nuance: 色がついていないこと、透明であることを意味します。
+Example1: この液体は無色です。
+Example1_EN: This liquid is colorless.
+Example2: 無色のガラスのコップを買いました。
+Example2_EN: I bought a colorless glass cup.
+Example3: 水は本来無色透明です。
+Example3_EN: Water is essentially colorless and transparent.
+
+===word: 知らず知らず===
+Nuance: 自分では意識していないうちに、自然にそうなってしまう様子を表す副詞です。
+Example1: 知らず知らずのうちに眠っていました。
+Example1_EN: I fell asleep without realizing it.
+Example2: 知らず知らずに習慣が身についていました。
+Example2_EN: I had developed a habit without even noticing.
+Example3: 知らず知らずに涙が出てきました。
+Example3_EN: Tears came out without me realizing it.
+
+===word: 胸===
+Nuance: 体の前面で首と腹の間の部分のことです。また、心や感情の比喩としても使われます。
+Example1: 胸が痛いです。
+Example1_EN: My chest hurts.
+Example2: 彼女の胸は希望でいっぱいです。
+Example2_EN: Her heart is full of hope.
+Example3: 胸に手を当てて考えてみてください。
+Example3_EN: Please put your hand on your heart and think about it.
+
+===word: 手編み===
+Nuance: 手で編み物をすること、またその製品のことです。機械ではなく手作業で作られた温かみのある品物を指します。
+Example1: 母が手編みのセーターを送ってくれました。
+Example1_EN: My mother sent me a hand-knitted sweater.
+Example2: 手編みのマフラーは暖かいです。
+Example2_EN: Hand-knitted scarves are warm.
+Example3: 手編みの作品をインターネットで販売しています。
+Example3_EN: I sell hand-knitted items online.
+
+===word: 石鹸===
+Nuance: 体や物を洗うために使う固形の洗浄剤のことです。液体のものはボディソープなどと呼ばれます。
+Example1: この石鹸はいい香りがします。
+Example1_EN: This soap smells nice.
+Example2: 手を石鹸で洗ってください。
+Example2_EN: Please wash your hands with soap.
+Example3: 石鹸がなくなったので買いに行きます。
+Example3_EN: We ran out of soap, so I'll go buy some.
+
+===word: 食生活===
+Nuance: 毎日の食事の内容や食べ方についての習慣や傾向のことです。健康と関連してよく話題になります。
+Example1: 食生活を見直すことにしました。
+Example1_EN: I decided to re-evaluate my eating habits.
+Example2: 不規則な食生活は体に悪いです。
+Example2_EN: Irregular eating habits are bad for your health.
+Example3: バランスの良い食生活を心がけています。
+Example3_EN: I try to maintain a balanced diet.
+
+===word: 暗殺する===
+Nuance: 政治的な理由などで、重要な人物を計画的に殺害することです。
+Example1: その政治家は暗殺されました。
+Example1_EN: That politician was assassinated.
+Example2: 暗殺を計画した人物が逮捕されました。
+Example2_EN: The person who planned the assassination was arrested.
+Example3: 歴史上の偉人を暗殺した事件は多くあります。
+Example3_EN: There are many cases in history where great figures were assassinated.
+
+===word: 手続き===
+Nuance: 何かを行うために必要な正式な段取りや処理のことを指します。役所や会社での書類のやり取りによく使われます。
+Example1: 入国手続きが終わりました。
+Example1_EN: The immigration procedures are finished.
+Example2: 手続きには一週間かかります。
+Example2_EN: The procedures will take one week.
+Example3: 必要な手続きを教えてください。
+Example3_EN: Please tell me the necessary procedures.
+
+===word: 不幸せ===
+Nuance: 幸せではない状態、心が満たされず辛い気持ちであることを表します。
+Example1: 彼女はとても不幸せそうに見えました。
+Example1_EN: She looked very unhappy.
+Example2: 不幸せな気分の時は音楽を聴きます。
+Example2_EN: When I feel unhappy, I listen to music.
+Example3: お金があっても不幸せな人もいます。
+Example3_EN: There are unhappy people even with money.
+
+===word: 商売===
+Nuance: 商品を売り買いして利益を得る仕事のことです。お店や会社を営むことを指します。
+Example1: 彼は食堂を商売にしています。
+Example1_EN: He runs a restaurant as his business.
+Example2: この商売はもうかりますか？
+Example2_EN: Is this business profitable?
+Example3: 商売を始めるには資金が必要です。
+Example3_EN: You need capital to start a business.
+
+===word: 自然===
+Nuance: 人間が作り出したものではない、元々ある風景や環境、現象のことです。また、無理のない様子も表します。
+Example1: 自然の中で過ごす時間が好きです。
+Example1_EN: I like spending time in nature.
+Example2: 日本の自然はとても美しいです。
+Example2_EN: Japan's nature is very beautiful.
+Example3: 自然を守るために何ができるでしょうか。
+Example3_EN: What can we do to protect nature?
+
+===word: 退屈===
+Nuance: することがなくて時間が長く感じられ、つまらないと感じる状態のことです。
+Example1: 退屈な授業でした。
+Example1_EN: It was a boring class.
+Example2: 一人でいると退屈です。
+Example2_EN: I get bored when I'm alone.
+Example3: 退屈を感じたら散歩に出かけます。
+Example3_EN: When I feel bored, I go for a walk.
+
+===word: 相続財産===
+Nuance: 亡くなった人からその家族や親族が受け継ぐ財産や権利のことです。
+Example1: 彼は父親の相続財産を受け取りました。
+Example1_EN: He inherited his father's estate.
+Example2: 相続財産には税金がかかります。
+Example2_EN: Inheritance is subject to taxes.
+Example3: 相続財産の分配について話し合いました。
+Example3_EN: We discussed the distribution of the inherited estate.
+
+===word: 漫画===
+Nuance: 日本の代表的な大衆文化の一つで、絵と文章で物語を表現する作品のことです。
+Example1: 漫画を読むのが好きです。
+Example1_EN: I like reading manga.
+Example2: 日本の漫画は世界中で人気があります。
+Example2_EN: Japanese manga is popular all over the world.
+Example3: この漫画は来月完結します。
+Example3_EN: This manga will conclude next month.
+
+===word: 親孝行===
+Nuance: 親に対して感謝の気持ちを持ち、親を大切にしたり喜ばせたりする行為のことです。
+Example1: 親孝行をしたいと思っています。
+Example1_EN: I want to be a dutiful child to my parents.
+Example2: 彼はとても親孝行な息子です。
+Example2_EN: He is a very filial son.
+Example3: 親孝行はできるうちにしておいたほうがいいですよ。
+Example3_EN: You should show filial piety to your parents while you can.
+
+===word: 最低条件===
+Nuance: 物事を進める上で絶対に満たさなければならない、最も低い基準や条件のことです。
+Example1: この仕事の最低条件は何ですか？
+Example1_EN: What are the minimum requirements for this job?
+Example2: 給料は最低条件を満たしていません。
+Example2_EN: The salary does not meet the minimum requirements.
+Example3: 契約の最低条件を確認しました。
+Example3_EN: I confirmed the minimum terms of the contract.
+
+===word: 一応===
+Nuance: 完全ではないが、ひとまずのところや最低限のことを行う様子を表す副詞です。念のための意味合いもあります。
+Example1: 一応確認しておきました。
+Example1_EN: I checked it just in case.
+Example2: 一応やってみますが、できるかどうかわかりません。
+Example2_EN: I'll give it a try, but I'm not sure if I can do it.
+Example3: 一応準備はできています。
+Example3_EN: I'm tentatively ready.

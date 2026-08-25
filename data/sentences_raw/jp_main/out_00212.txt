@@ -1,0 +1,593 @@
+===word: 食器===
+Nuance: 食事の際に使う皿、茶碗、箸、コップなどの道具をまとめて指します。家庭や飲食店で日常的に使われる言葉です。
+Example1: この食器は電子レンジで使えますか？
+Example1_EN: Can this tableware be used in a microwave?
+Example2: 食器を洗った後は、しっかり乾かしてください。
+Example2_EN: After washing the dishes, please dry them thoroughly.
+Example3: 新しい食器セットを買いました。
+Example3_EN: I bought a new dinnerware set.
+
+===word: 次回===
+Nuance: 次に会う時や、次に行われる回を指します。予定や連絡の際に、フォーマルな場面でもカジュアルな場面でもよく使われます。
+Example1: 次回の会議は来週の水曜日です。
+Example1_EN: The next meeting is next Wednesday.
+Example2: 次回はもう少し早く来ていただけますか？
+Example2_EN: Could you please come a little earlier next time?
+Example3: 次回の講座で最終回となります。
+Example3_EN: The next session will be the final one.
+
+===word: 安全===
+Nuance: 危険がなく安心できる状態や様子を表します。物事を行う際に、事故やトラブルが起きないように注意する場面で使われます。
+Example1: この地域は夜でも安全です。
+Example1_EN: This area is safe even at night.
+Example2: 安全を確認してから、機械を操作してください。
+Example2_EN: Please operate the machine after confirming safety.
+Example3: 工事現場では安全が第一です。
+Example3_EN: Safety is the number one priority at construction sites.
+
+===word: ずる賢い===
+Nuance: 賢いというよりは、ずるい方法やずるい手段を使って自分の利益を得ようとする様子を表します。悪い意味で使われることが多いです。
+Example1: 彼はずる賢いやり方で試験に合格しました。
+Example1_EN: He passed the exam in a sneaky way.
+Example2: ずる賢い人には気をつけたほうがいいですよ。
+Example2_EN: You should be careful of cunning people.
+Example3: あのセールスマンはずる賢い手を使います。
+Example3_EN: That salesman uses sly tactics.
+
+===word: 体制===
+Nuance: 組織や国などの仕組みや構造を指します。特に政治や経済の分野で、長期的な枠組みや秩序を表すのに使われます。
+Example1: 新しい体制の下で会社は成長しました。
+Example1_EN: The company grew under the new system.
+Example2: 現体制を維持するべきだと思いますか？
+Example2_EN: Do you think we should maintain the current system?
+Example3: 政治体制の改革が必要です。
+Example3_EN: Reform of the political system is necessary.
+
+===word: 合意===
+Nuance: 複数の人の意見や考えが一致することです。話し合いの結果、全員が同意した状態を指します。
+Example1: 両社は合意に達しました。
+Example1_EN: Both companies reached an agreement.
+Example2: 合意が得られるまで話し合いを続けましょう。
+Example2_EN: Let's continue the discussion until we reach an agreement.
+Example3: この件については全員の合意が必要です。
+Example3_EN: We need everyone's agreement on this matter.
+
+===word: 無数===
+Nuance: 数えきれないほどたくさんあることを表します。数が非常に多く、正確に数えられない様子を強調する言葉です。
+Example1: 夜空には無数の星があります。
+Example1_EN: There are countless stars in the night sky.
+Example2: インターネット上には無数の情報があります。
+Example2_EN: There is an infinite amount of information on the internet.
+Example3: 無数の選択肢の中から選ぶのは大変です。
+Example3_EN: It's difficult to choose from countless options.
+
+===word: 道路===
+Nuance: 車や人が通るための道を指します。街中や郊外など、様々な場所にあり、交通の重要な役割を果たします。
+Example1: この道路は工事中ですので、ご注意ください。
+Example1_EN: Please be careful as this road is under construction.
+Example2: 新しい道路が来月開通します。
+Example2_EN: A new road will open next month.
+Example3: この道路は夜になると暗くなります。
+Example3_EN: This road gets dark at night.
+
+===word: 扶養家族===
+Nuance: 経済的に支えなければならない家族のことを指します。税金や保険などの制度で、収入がなく自分で生活できない家族を表します。
+Example1: 私には扶養家族が三人います。
+Example1_EN: I have three dependents.
+Example2: 扶養家族の範囲を教えてください。
+Example2_EN: Please tell me the scope of dependents.
+Example3: 扶養家族がいる場合、控除が受けられます。
+Example3_EN: If you have dependents, you can receive deductions.
+
+===word: 通信衛星===
+Nuance: 地球の周りを回りながら、テレビや電話、インターネットなどの通信を中継する人工衛星のことです。遠く離れた場所との通信に欠かせません。
+Example1: 通信衛星を使って海外と連絡を取ります。
+Example1_EN: We communicate with overseas using communications satellites.
+Example2: 通信衛星の打ち上げに成功しました。
+Example2_EN: The launch of the communications satellite was successful.
+Example3: 通信衛星の技術は日々進歩しています。
+Example3_EN: Communications satellite technology is advancing every day.
+
+===word: 入社===
+Nuance: 会社に社員として入ることです。新卒や中途採用で会社に採用され、働き始めることを指します。
+Example1: 私は来年四月に入社します。
+Example1_EN: I will join the company next April.
+Example2: 入社してからもう三年になります。
+Example2_EN: It's already been three years since I joined the company.
+Example3: 入社の手続きについて説明します。
+Example3_EN: I will explain the joining procedures.
+
+===word: ゲップ===
+Nuance: 食べたり飲んだりした後に、胃の中の空気が口から出てくる現象です。食事のマナーとしては、控えたほうがよいとされています。
+Example1: ゲップをすると失礼になりますよ。
+Example1_EN: Burping is considered rude.
+Example2: 食後にゲップが出てしまいました。
+Example2_EN: I burped after the meal.
+Example3: ゲップを抑える方法はありますか？
+Example3_EN: Is there a way to suppress burping?
+
+===word: 採掘===
+Nuance: 地下にある鉱物や資源を掘り出して取ることを指します。石炭、石油、金などの資源を地面から取り出す作業です。
+Example1: この地域では金の採掘が行われています。
+Example1_EN: Gold mining is being carried out in this area.
+Example2: 採掘作業は危険を伴います。
+Example2_EN: Mining work involves danger.
+Example3: 採掘現場の安全基準を確認しました。
+Example3_EN: We confirmed the safety standards at the mining site.
+
+===word: 冷やす===
+Nuance: 物の温度を下げて冷たくすることを意味します。食べ物や飲み物を冷蔵庫に入れたり、氷を入れたりする時に使います。
+Example1: ビールを冷蔵庫で冷やしてください。
+Example1_EN: Please chill the beer in the refrigerator.
+Example2: 熱があるので、額を冷やします。
+Example2_EN: I have a fever, so I'll cool my forehead.
+Example3: このケーキは食べる前に冷やしたほうがいいです。
+Example3_EN: This cake is better chilled before eating.
+
+===word: 母性本能===
+Nuance: 母親が子供に対して自然に持つ、守りたい、育てたいという本能的な感情や行動を指します。女性に特に強いとされています。
+Example1: 母性本能はすべての女性にあるわけではありません。
+Example1_EN: Not all women have maternal instincts.
+Example2: 彼女は母性本能が強いですね。
+Example2_EN: She has strong maternal instincts.
+Example3: 母性本能で子供を守るのです。
+Example3_EN: They protect their children out of maternal instinct.
+
+===word: 座席表===
+Nuance: 教室や会場などで、誰がどの席に座るかを示した表や図のことです。結婚式や会議などで使われます。
+Example1: 座席表を見て自分の席を確認してください。
+Example1_EN: Please check your seat on the seating chart.
+Example2: 座席表は入り口に貼ってあります。
+Example2_EN: The seating chart is posted at the entrance.
+Example3: 座席表を作成するのに時間がかかりました。
+Example3_EN: It took time to create the seating chart.
+
+===word: 技師===
+Nuance: 専門的な技術や知識を持って、機械や設備の操作、修理、開発などを行う人のことです。エンジニアとほぼ同じ意味です。
+Example1: 彼は優秀な技師として知られています。
+Example1_EN: He is known as an excellent engineer.
+Example2: 技師の資格を取るために勉強しています。
+Example2_EN: I'm studying to get an engineer certification.
+Example3: 工場の技師が機械を点検しました。
+Example3_EN: The factory engineer inspected the machine.
+
+===word: 発売===
+Nuance: 新しい商品や製品を店で売り始めることです。特に音楽や本、娯楽作品などの販売開始日に使われます。
+Example1: このゲームは来月発売されます。
+Example1_EN: This game will be released next month.
+Example2: 発売日はいつですか？
+Example2_EN: What is the release date?
+Example3: 新作のチケットが本日発売になりました。
+Example3_EN: Tickets for the new work went on sale today.
+
+===word: 善===
+Nuance: 正しいことや道徳的に良いことを表します。悪（悪いこと）の反対で、哲学や宗教の分野でよく使われる言葉です。
+Example1: 善を行うことは人として大切です。
+Example1_EN: Doing good is important as a human being.
+Example2: 善と悪の区別を教えてください。
+Example2_EN: Please teach me the difference between good and evil.
+Example3: 彼は善人として知られています。
+Example3_EN: He is known as a good person.
+
+===word: 増援===
+Nuance: 戦いや困難な状況で、助けるために追加で送られる人や物のことです。軍隊や警察などでよく使われます。
+Example1: 増援が到着するまで待ちましょう。
+Example1_EN: Let's wait until reinforcements arrive.
+Example2: 増援を要請しました。
+Example2_EN: We requested reinforcements.
+Example3: 増援部隊が現場に向かっています。
+Example3_EN: Reinforcement troops are heading to the scene.
+
+===word: 書き取り===
+Nuance: 聞いた言葉や見た文章をそのまま紙に書く練習方法です。特に外国語の学習や、漢字の練習でよく行われます。
+Example1: 書き取りの練習を毎日しています。
+Example1_EN: I practice dictation every day.
+Example2: 書き取りテストは明日です。
+Example2_EN: The dictation test is tomorrow.
+Example3: 書き取りで漢字を覚えました。
+Example3_EN: I learned kanji through dictation.
+
+===word: 足す===
+Nuance: 数字や数量を加えることです。算数や日常生活で、数を増やす時に使います。
+Example1: この数字に三を足してください。
+Example1_EN: Please add three to this number.
+Example2: 合計を出すには、全部の数字を足します。
+Example2_EN: To get the total, add up all the numbers.
+Example3: 砂糖をスプーン一杯足しますか？
+Example3_EN: Would you like to add a spoonful of sugar?
+
+===word: 変換===
+Nuance: あるものを別の形や状態に変えることです。文字入力で漢字に変換する時や、単位を変える時などに使います。
+Example1: この文章を英語に変換してください。
+Example1_EN: Please convert this sentence into English.
+Example2: パソコンの変換機能が便利です。
+Example2_EN: The conversion function on the computer is convenient.
+Example3: エネルギーを電力に変換します。
+Example3_EN: We convert energy into electricity.
+
+===word: 確実===
+Nuance: 間違いがなく、はっきりとしていることです。予定や情報が確かで、信頼できる状態を表します。
+Example1: 確実な情報を教えてください。
+Example1_EN: Please give me reliable information.
+Example2: この方法は確実に効果があります。
+Example2_EN: This method is definitely effective.
+Example3: 確実に終わらせるためには、もう少し時間が必要です。
+Example3_EN: We need a little more time to finish it for sure.
+
+===word: 移籍市場===
+Nuance: サッカーなどのプロスポーツで、選手が別のチームに移るための市場のことです。移籍期間中に選手の取引が行われます。
+Example1: 移籍市場で話題の選手がいます。
+Example1_EN: There is a player making headlines in the transfer market.
+Example2: 移籍市場は今月の末までです。
+Example2_EN: The transfer market is open until the end of this month.
+Example3: 移籍市場の動向をチェックしています。
+Example3_EN: I'm checking the transfer market trends.
+
+===word: 回収する===
+Nuance: 使ったものや配ったものを集めて元の場所に戻すことです。お金や書類、製品などを回収する時に使います。
+Example1: 不良品をすべて回収します。
+Example1_EN: We will recall all defective products.
+Example2: アンケート用紙を回収してください。
+Example2_EN: Please collect the survey forms.
+Example3: 図書館の本を回収する日は来週です。
+Example3_EN: The book collection day at the library is next week.
+
+===word: 労働者階級===
+Nuance: 社会の中で、労働力を売って給料をもらい生活する人々の集団を指します。工場や建設現場などで働く人たちを表すことが多いです。
+Example1: 労働者階級の生活条件は改善されました。
+Example1_EN: The living conditions of the working class have improved.
+Example2: 労働者階級の権利を守りましょう。
+Example2_EN: Let's protect the rights of the working class.
+Example3: この小説は労働者階級の生活を描いています。
+Example3_EN: This novel depicts the life of the working class.
+
+===word: 絶賛===
+Nuance: とても素晴らしいと、多くの人が一斆にほめることです。特に映画や音楽、本などの作品に対して使われます。
+Example1: この映画は批評家から絶賛されました。
+Example1_EN: This movie received rave reviews from critics.
+Example2: 彼の演技は絶賛に値します。
+Example2_EN: His performance deserves high praise.
+Example3: 絶賛の声が続々と届いています。
+Example3_EN: Praises are coming in one after another.
+
+===word: いちいち===
+Nuance: 一つ一つの物事に対して、細かくすべてを処理する様子を表します。面倒に感じる時や、細かすぎると感じる時に使われることが多いです。
+Example1: いちいち確認するのは面倒です。
+Example1_EN: It's tedious to check every single thing.
+Example2: いちいち説明しなくてもわかります。
+Example2_EN: I understand without you explaining every detail.
+Example3: いちいち指摘しないでください。
+Example3_EN: Please don't point out every little thing.
+
+===word: 無理解===
+Nuance: 物事の意味や価値を正しく理解していない状態を指します。相手の気持ちや状況がわからない時に使われます。
+Example1: 彼の無理解には困っています。
+Example1_EN: His lack of understanding is troubling.
+Example2: 無理解な態度は問題です。
+Example2_EN: An uncomprehending attitude is a problem.
+Example3: 無理解を克服するために対話が必要です。
+Example3_EN: Dialogue is necessary to overcome misunderstanding.
+
+===word: 水路===
+Nuance: 水が流れるための人工的または自然の道のことです。農業用水や運河、排水路など様々なものがあります。
+Example1: この水路は農業に使われています。
+Example1_EN: This waterway is used for agriculture.
+Example2: 水路の掃除を定期的にしましょう。
+Example2_EN: Let's clean the waterway regularly.
+Example3: 水路沿いに桜が植えられています。
+Example3_EN: Cherry trees are planted along the waterway.
+
+===word: 暮れ===
+Nuance: 日が沈んで暗くなり始める頃のことです。夕方から夜になる時間帯を指します。また、年の暮れ（年末）という使い方もあります。
+Example1: 暮れになると気温が下がります。
+Example1_EN: The temperature drops at dusk.
+Example2: 暮れの街は静かです。
+Example2_EN: The town is quiet at dusk.
+Example3: 今年の暮れは実家に帰ります。
+Example3_EN: I'll go back to my parents' home at the end of this year.
+
+===word: 日程===
+Nuance: これから行う予定を日付順に並べたものです。会議や旅行、イベントなどの計画を立てる時に使います。
+Example1: 日程を確認しましょう。
+Example1_EN: Let's check the schedule.
+Example2: 日程の変更は可能ですか？
+Example2_EN: Is it possible to change the schedule?
+Example3: 日程が決まり次第、連絡します。
+Example3_EN: I'll contact you once the schedule is decided.
+
+===word: 同期===
+Nuance: 複数のものが同じタイミングで動いたり、同じ時期であることを指します。機械やコンピューターではデータの一致を、人間関係では同じ時期に入学や入社した人を指します。
+Example1: データをスマートフォンと同期します。
+Example1_EN: I synchronize the data with my smartphone.
+Example2: 彼は私の同期の同僚です。
+Example2_EN: He is my colleague from the same cohort.
+Example3: 同期の設定を確認してください。
+Example3_EN: Please check the synchronization settings.
+
+===word: 片側===
+Nuance: 左右や上下の二つのうちの一方の側のことです。道路や物の片方だけを指す時に使います。
+Example1: 道路の片側が工事中です。
+Example1_EN: One side of the road is under construction.
+Example2: 片側だけに荷物を置かないでください。
+Example2_EN: Please don't put luggage on only one side.
+Example3: 片側が破損しています。
+Example3_EN: One side is damaged.
+
+===word: 北上する===
+Nuance: 北の方へ移動することを意味します。台風や軍隊、旅行者などが北に向かって進む時に使われます。
+Example1: 台風が北上しています。
+Example1_EN: The typhoon is moving northward.
+Example2: 列車は北上して北海道を目指します。
+Example2_EN: The train heads north toward Hokkaido.
+Example3: この船は今夜北上する予定です。
+Example3_EN: This ship is scheduled to head north tonight.
+
+===word: 遺恨試合===
+Nuance: 過去の対戦で因縁や恨みがある者同士が再び戦う試合のことです。特にスポーツや格闘技で、ライバル関係が強い試合を指します。
+Example1: 両チームの遺恨試合が注目されています。
+Example1_EN: The grudge match between the two teams is attracting attention.
+Example2: 遺恨試合は来月行われます。
+Example2_EN: The grudge match will be held next month.
+Example3: 遺恨試合に勝って、借りを返したいです。
+Example3_EN: I want to win the grudge match and get even.
+
+===word: 県庁===
+Nuance: 県の政治や行政を行うための中心的な建物のことです。県知事や県の職員が働く場所です。
+Example1: 県庁は駅のすぐ近くにあります。
+Example1_EN: The prefectural office is right near the station.
+Example2: 県庁で住民票を取得しました。
+Example2_EN: I got my certificate of residence at the prefectural office.
+Example3: 県庁までのバスはありますか？
+Example3_EN: Is there a bus to the prefectural office?
+
+===word: 寵臣===
+Nuance: 君主や権力者から特別に可愛がられ、寵愛を受けている家来や臣下のことです。歴史や小説の中で使われることが多い言葉です。
+Example1: その寵臣は王様の信頼を得ていました。
+Example1_EN: That favored retainer had the king's trust.
+Example2: 寵臣の地位は危険も伴います。
+Example2_EN: The position of a favored retainer comes with danger.
+Example3: 歴史書には多くの寵臣が登場します。
+Example3_EN: Many favored retainers appear in historical texts.
+
+===word: 産業===
+Nuance: 経済活動の分野のことで、物を作ったり、売ったり、サービスを提供したりする仕事全般を指します。農業、工業、情報産業などがあります。
+Example1: 日本の産業は多岐にわたります。
+Example1_EN: Japan's industries are diverse.
+Example2: この地域の主要産業は観光です。
+Example2_EN: The main industry of this region is tourism.
+Example3: 新しい産業を育てる政策が必要です。
+Example3_EN: Policies to foster new industries are necessary.
+
+===word: 不確か===
+Nuance: はっきりと確かではない状態のことです。情報や記憶、予定などが曖昧で、自信が持てない時に使います。
+Example1: その情報は不確かなものです。
+Example1_EN: That information is uncertain.
+Example2: 記憶が不確かではっきり言えません。
+Example2_EN: My memory is unclear, so I can't say for sure.
+Example3: 不確かな予定は入れないほうがいいです。
+Example3_EN: It's better not to make plans based on uncertain schedules.
+
+===word: 両日===
+Nuance: 二つの日付の両方のことを指します。二日間にわたるイベントや、指定された二つの日付をまとめて表す時に使います。
+Example1: 両日とも満席になりました。
+Example1_EN: Both days are fully booked.
+Example2: イベントは両日とも開催されます。
+Example2_EN: The event will be held on both days.
+Example3: 両日とも参加できますか？
+Example3_EN: Can you attend both days?
+
+===word: 水面===
+Nuance: 湖や川、海などの水の表面のことです。水の上側の面を指し、光が反射したり、風で波が立ったりする様子を表します。
+Example1: 水面に月が映っています。
+Example1_EN: The moon is reflected on the water's surface.
+Example2: 水面が静かに輝いています。
+Example2_EN: The water surface is shimmering quietly.
+Example3: 水面の温度を測りました。
+Example3_EN: We measured the temperature of the water surface.
+
+===word: 開会===
+Nuance: 会議や式典、イベントなどを始めることです。開会式や開会宣言など、フォーマルな場面で使われることが多いです。
+Example1: これで開会を宣言します。
+Example1_EN: I hereby declare the opening.
+Example2: 開会の時間は午前十時です。
+Example2_EN: The opening time is ten in the morning.
+Example3: 開会に先立ちまして、注意事項を説明します。
+Example3_EN: Before the opening, I will explain the precautions.
+
+===word: 活字===
+Nuance: 印刷に使われる文字のことで、金属やプラスチックでできた一字一字の印字用の型を指します。また、印刷された文字そのものを指すこともあります。
+Example1: 活字を読む習慣は大切です。
+Example1_EN: The habit of reading printed text is important.
+Example2: この本は活字が小さくて読みにくいです。
+Example2_EN: The print in this book is too small to read easily.
+Example3: 活字離れが進んでいます。
+Example3_EN: People are moving away from printed materials.
+
+===word: 急病===
+Nuance: 突然病気になることです。予期せずに体調が悪くなり、すぐに医療措置が必要な状態を指します。
+Example1: 彼は急病で会社を休みました。
+Example1_EN: He took a day off from work due to a sudden illness.
+Example2: 急病の場合は、この連絡先に電話してください。
+Example2_EN: In case of sudden illness, please call this number.
+Example3: 急病で救急車を呼びました。
+Example3_EN: I called an ambulance due to a sudden illness.
+
+===word: 光年===
+Nuance: 光が一年間に進む距離のことで、天文学で星や銀河の距離を表す単位です。非常に大きな距離を表す時に使われます。
+Example1: その星は地球から百光年離れています。
+Example1_EN: That star is a hundred light-years away from Earth.
+Example2: 光年は距離の単位です。
+Example2_EN: A light-year is a unit of distance.
+Example3: 何光年も離れた銀河まで観測できます。
+Example3_EN: We can observe galaxies many light-years away.
+
+===word: 天候不順===
+Nuance: 季節のわりに天気が安定しないことです。雨が多すぎたり、気温が高すぎたり低すぎたりするなど、異常な天候が続く状態を指します。
+Example1: 今年の夏は天候不順でした。
+Example1_EN: This summer had unseasonable weather.
+Example2: 天候不順で農作物の収穫が減りました。
+Example2_EN: The harvest decreased due to the bad weather.
+Example3: 天候不順が続いていますね。
+Example3_EN: The unseasonable weather continues, doesn't it?
+
+===word: 休止===
+Nuance: 活動や動きを一時的にやめることです。完全に終わるのではなく、しばらくの間停止することを意味します。
+Example1: 工事は来月まで休止します。
+Example1_EN: Construction will be suspended until next month.
+Example2: この路線は運転を休止しています。
+Example2_EN: This line has suspended its operations.
+Example3: 休止期間中に設備を点検します。
+Example3_EN: We will inspect the equipment during the suspension period.
+
+===word: 職種===
+Nuance: 仕事の種類や分野のことです。事務、営業、技術、医療など、様々な職業の区分を表します。
+Example1: あなたの希望する職種は何ですか？
+Example1_EN: What type of job are you looking for?
+Example2: この会社では様々な職種の人が働いています。
+Example2_EN: People in various occupations work at this company.
+Example3: 職種によって給料が違います。
+Example3_EN: Salaries differ depending on the type of job.
+
+===word: 株主===
+Nuance: 会社の株式を保有している人のことです。株主は会社の所有者の一人として、配当を受けたり、株主総会で議決権を行使したりできます。
+Example1: 株主総会は六月に開かれます。
+Example1_EN: The shareholders' meeting will be held in June.
+Example2: 株主に配当金が支払われました。
+Example2_EN: Dividends were paid to shareholders.
+Example3: 株主の権利について説明します。
+Example3_EN: I will explain the rights of shareholders.
+
+===word: 棒===
+Nuance: 細長くてまっすぐな形をした物体のことです。木や金属、プラスチックなどでできていて、様々な用途に使われます。
+Example1: 棒で地面に線を書きました。
+Example1_EN: I drew a line on the ground with a stick.
+Example2: この棒は長すぎて持ち運びにくいです。
+Example2_EN: This rod is too long to carry easily.
+Example3: 棒を使って窓を開けました。
+Example3_EN: I used a pole to open the window.
+
+===word: 言い表す===
+Nuance: 思っていることや感じていることを、言葉にして表現することです。感情や考えを正確に言葉にするのが難しい時に使います。
+Example1: この気持ちを言葉で言い表すのは難しいです。
+Example1_EN: It's hard to express this feeling in words.
+Example2: 彼の業績を言い表す適切な言葉が見つかりません。
+Example2_EN: I can't find the right words to describe his achievements.
+Example3: 感動を言い表せないほど美しい景色でした。
+Example3_EN: The scenery was so beautiful that I couldn't express my awe.
+
+===word: 動作===
+Nuance: 体を動かすことや、機械が動く様子を指します。人の行動や機械の動き全般について使える幅広い言葉です。
+Example1: 彼の動作はとてもスムーズです。
+Example1_EN: His movements are very smooth.
+Example2: この機械の動作を確認してください。
+Example2_EN: Please check the operation of this machine.
+Example3: 動作が遅いので、修理が必要です。
+Example3_EN: The movement is slow, so repairs are needed.
+
+===word: 空港===
+Nuance: 飛行機が離着陸するための施設で、旅客ターミナルや滑走路などがあります。旅行や出張で飛行機を利用する時に使います。
+Example1: 空港まで車で送ります。
+Example1_EN: I'll drive you to the airport.
+Example2: 空港に着いたら連絡してください。
+Example2_EN: Please contact me when you arrive at the airport.
+Example3: この空港からは多くの国際線が飛んでいます。
+Example3_EN: Many international flights depart from this airport.
+
+===word: 巣===
+Nuance: 鳥や虫、動物などが生活するために作る住みかのことです。木の上や地面の下、建物の隙間など、様々な場所に作られます。
+Example1: 鳥が巣を作っています。
+Example1_EN: A bird is building a nest.
+Example2: 軒下に蜂の巣がありました。
+Example2_EN: There was a wasp nest under the eaves.
+Example3: 巣の中に卵がありました。
+Example3_EN: There were eggs in the nest.
+
+===word: くノ一===
+Nuance: 忍者の中でも女性の忍者を指す言葉です。江戸時代の小説や現代のアニメ、漫画などでよく登場します。
+Example1: くノ一はスパイとして活躍しました。
+Example1_EN: The female ninja was active as a spy.
+Example2: この物語の主人公はくノ一です。
+Example2_EN: The protagonist of this story is a female ninja.
+Example3: くノ一の修行はとても厳しかったそうです。
+Example3_EN: I heard that the training of female ninja was very harsh.
+
+===word: 盗聴器===
+Nuance: 他人の会話をこっそり盗み聞きするための小さな機器のことです。犯罪やスパイ行為に使われることが多いですが、親の監視などにも使われます。
+Example1: この部屋に盗聴器が仕掛けられています。
+Example1_EN: A bug has been planted in this room.
+Example2: 盗聴器を探す機械を買いました。
+Example2_EN: I bought a device to detect bugs.
+Example3: 盗聴器の使用は法律で禁止されています。
+Example3_EN: The use of eavesdropping devices is prohibited by law.
+
+===word: 泣き叫ぶ===
+Nuance: 大声で泣きながら叫ぶことです。子供が怖がったり、痛がったりする時や、大人でも悲しみや怒りで声を上げて泣く時に使います。
+Example1: 子供が迷子になって泣き叫んでいました。
+Example1_EN: The child was lost and crying out loud.
+Example2: 彼女は悲しみのあまり泣き叫びました。
+Example2_EN: She cried out loud from overwhelming sadness.
+Example3: 赤ちゃんが泣き叫んでなかなか寝ません。
+Example3_EN: The baby is crying and screaming and won't go to sleep.
+
+===word: 生き方===
+Nuance: 人がどのように生活し、どのような価値観で人生を過ごすかという考え方や態度のことです。人生観や哲学に関わる言葉です。
+Example1: 彼の生き方は多くの人に影響を与えました。
+Example1_EN: His way of life influenced many people.
+Example2: 自分の生き方に自信を持っています。
+Example2_EN: I have confidence in my way of life.
+Example3: どんな生き方が幸せだと思いますか？
+Example3_EN: What kind of lifestyle do you think is happy?
+
+===word: 値上げ===
+Nuance: 商品やサービスの値段を上げることです。物価の上昇や原材料費の増加など、様々な理由で行われます。
+Example1: 来月からガソリンの値上げがあります。
+Example1_EN: There will be a gas price hike starting next month.
+Example2: 値上げの理由を教えてください。
+Example2_EN: Please tell me the reason for the price increase.
+Example3: 値上げの前に買っておいたほうがいいですよ。
+Example3_EN: You should buy it before the price goes up.
+
+===word: 海上===
+Nuance: 海の上のことです。船が航行する場所や、海の上で行われる活動を指す時に使います。
+Example1: 海上の天気は変わりやすいです。
+Example1_EN: The weather at sea is changeable.
+Example2: 海上保安庁が安全を守っています。
+Example2_EN: The Japan Coast Guard protects safety at sea.
+Example3: 海上を多くの船が行き交っています。
+Example3_EN: Many ships are coming and going at sea.
+
+===word: 穴===
+Nuance: 物の表面に開いたくぼみや、物を貫通する空いた場所のことです。地面に掘った穴や、壁の穴、服の穴など様々なものがあります。
+Example1: 地面に穴を掘って木を植えます。
+Example1_EN: I dig a hole in the ground and plant a tree.
+Example2: 靴下に穴が開いています。
+Example2_EN: There's a hole in the sock.
+Example3: この穴の深さを測ってください。
+Example3_EN: Please measure the depth of this hole.
+
+===word: 凶器===
+Nuance: 人を傷つけたり殺したりするために使われる道具や武器のことです。ニュースや事件の報道でよく使われる言葉です。
+Example1: 犯人は凶器を現場に置き去りにしました。
+Example1_EN: The perpetrator left the weapon at the scene.
+Example2: 凶器はまだ見つかっていません。
+Example2_EN: The weapon has not been found yet.
+Example3: 凶器として使われたナイフが展示されています。
+Example3_EN: The knife used as a weapon is on display.
+
+===word: 欄===
+Nuance: 書類や用紙に区切られた、縦または横の枠のことです。記入するためのスペースや、新聞や雑誌の記事の区切りを指します。
+Example1: この欄に名前を書いてください。
+Example1_EN: Please write your name in this field.
+Example2: 空欄はすべて埋めてください。
+Example2_EN: Please fill in all the blank fields.
+Example3: 注意事項は下の欄に書いてあります。
+Example3_EN: The notes are written in the lower column.
+
+===word: 文化財===
+Nuance: 長い歴史の中で作られ、大切に守られてきた文化的に価値のあるもののことです。建物や美術品、工芸品、遺跡などが含まれます。
+Example1: この寺院は国の重要文化財に指定されています。
+Example1_EN: This temple is designated as an important cultural property.
+Example2: 文化財を守るための活動が行われています。
+Example2_EN: Activities are being carried out to protect cultural properties.
+Example3: 文化財の修復には専門的な技術が必要です。
+Example3_EN: Restoration of cultural properties requires specialized skills.

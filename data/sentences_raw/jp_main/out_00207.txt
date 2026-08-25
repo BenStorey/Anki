@@ -1,0 +1,629 @@
+===word: 行事===
+Nuance: 学校や地域などで定期的に行われる催しやイベントを指します。公式な場面でよく使われる語です。
+Example1: 来月、学校で大きな行事があります。
+Example1_EN: There will be a big event at school next month.
+Example2: この行事は毎年秋に開催されます。
+Example2_EN: This event is held every autumn.
+Example3: 行事の準備は順調に進んでいますか？
+Example3_EN: Is the preparation for the event going smoothly?
+
+===word: 反攻===
+Nuance: 攻撃を受けた側が相手に対して反撃に転じることを意味します。軍事や戦略の文脈でよく使われます。
+Example1: 敵軍は反攻を開始しました。
+Example1_EN: The enemy army has launched a counteroffensive.
+Example2: 反攻の準備は整いましたか？
+Example2_EN: Are you ready for the counteroffensive?
+Example3: 彼らは反攻に出るタイミングを慎重に判断します。
+Example3_EN: They will carefully judge the timing to launch a counteroffensive.
+
+===word: 敵===
+Nuance: 戦いや競争において対立する相手や集団を指します。軍事、スポーツ、ビジネスなど幅広い場面で使われます。
+Example1: 敵の動きをしっかり観察してください。
+Example1_EN: Please observe the enemy's movements carefully.
+Example2: 彼は敵に回すと怖い人物です。
+Example2_EN: He is a frightening person to have as an enemy.
+Example3: この試合では敵の方が強いと言われています。
+Example3_EN: It is said that the opponent is stronger in this match.
+
+===word: 砂===
+Nuance: 細かい石の粒で、海岸や砂漠、川辺などにあります。日常的によく使われる基本的な語彙です。
+Example1: この砂はとてもきめが細かいです。
+Example1_EN: This sand is very fine-grained.
+Example2: 砂浜で子供たちが遊んでいます。
+Example2_EN: Children are playing on the sandy beach.
+Example3: 靴の中に砂が入ってしまいました。
+Example3_EN: Sand got inside my shoes.
+
+===word: 初体験===
+Nuance: 何かを初めて経験することを意味します。特に性的な経験を指すこともありますが、本来は幅広い意味で使われます。
+Example1: スカイダイビングは初めての体験でした。
+Example1_EN: Skydiving was my first-time experience.
+Example2: 彼にとって海外旅行は初めての体験です。
+Example2_EN: Traveling abroad is a first-time experience for him.
+Example3: 初めての体験はいつも緊張しますね。
+Example3_EN: First-time experiences are always nerve-wracking, aren't they?
+
+===word: 終える===
+Nuance: 物事を完了させる、最後までやり遂げるという意味の動詞です。「終わる」が自動詞なのに対し、こちらは他動詞として使われます。
+Example1: 仕事を午後五時に終えます。
+Example1_EN: I will finish work at five in the afternoon.
+Example2: このプロジェクトを今月中に終えたいです。
+Example2_EN: I want to finish this project by the end of this month.
+Example3: 彼は長い議論をようやく終えました。
+Example3_EN: He finally ended the long discussion.
+
+===word: 会員===
+Nuance: ある組織や団体、クラブなどに正式に登録している人を指します。
+Example1: このジムの会員になりたいです。
+Example1_EN: I would like to become a member of this gym.
+Example2: 会員には特別な割引があります。
+Example2_EN: Members receive special discounts.
+Example3: 会員証を忘れずにお持ちください。
+Example3_EN: Please don't forget to bring your membership card.
+
+===word: 低価格===
+Nuance: 通常よりも安い価格であることを意味します。商品やサービスの宣伝などでよく使われます。
+Example1: この店は低価格で質の良い商品を提供しています。
+Example1_EN: This store offers quality products at low prices.
+Example2: 低価格の旅行プランを探しています。
+Example2_EN: I am looking for a low-price travel plan.
+Example3: 低価格でも十分な品質がありますよ。
+Example3_EN: Even at a low price, the quality is sufficient.
+
+===word: 転職願望===
+Nuance: 今の仕事を辞めて別の仕事に就きたいという気持ちや希望を指します。
+Example1: 彼には強い転職願望があるようです。
+Example1_EN: He seems to have a strong desire to change jobs.
+Example2: 転職願望を持つ人は年々増えています。
+Example2_EN: The number of people who want to change jobs is increasing year by year.
+Example3: 転職願望があるなら、まずは情報を集めましょう。
+Example3_EN: If you have a desire to change jobs, let's start by gathering information.
+
+===word: 国道===
+Nuance: 国が管理する主要な道路のことを指します。一般道の中で重要な幹線道路です。
+Example1: この国道は交通量が多いです。
+Example1_EN: This national highway has heavy traffic.
+Example2: 国道沿いに大きな商業施設があります。
+Example2_EN: There is a large commercial facility along the national highway.
+Example3: 国道をまっすぐ進んでください。
+Example3_EN: Please go straight on the national highway.
+
+===word: 軍人===
+Nuance: 軍隊に所属し、軍事活動に従事する人のことを指します。
+Example1: 彼は若い頃、軍人でした。
+Example1_EN: He was a soldier when he was young.
+Example2: 軍人には厳しい規律が求められます。
+Example2_EN: Strict discipline is required of military personnel.
+Example3: あの国では軍人の地位が高いです。
+Example3_EN: In that country, the status of military personnel is high.
+
+===word: 好き嫌い===
+Nuance: 人や物事に対する好みの違いを指します。食べ物の好き嫌いという意味でもよく使われます。
+Example1: 食べ物の好き嫌いはありませんか？
+Example1_EN: Do you have any food likes or dislikes?
+Example2: 子供の好き嫌いは成長とともに変わります。
+Example2_EN: Children's likes and dislikes change as they grow.
+Example3: 好き嫌いが激しい人は周りにいますか？
+Example3_EN: Is there someone around you with strong likes and dislikes?
+
+===word: 深夜番組===
+Nuance: 夜遅く、特に深夜時間帯に放送されるテレビ番組のことを指します。
+Example1: 深夜番組は面白い内容が多いです。
+Example1_EN: Late-night programs often have interesting content.
+Example2: 昨夜、面白い深夜番組を見ました。
+Example2_EN: I watched an interesting late-night program last night.
+Example3: 深夜番組は大人向けの内容のものが多いですね。
+Example3_EN: Many late-night programs have content aimed at adults, don't they?
+
+===word: 性犯罪者===
+Nuance: 性的な犯罪を犯した人のことを指します。法律や社会問題の文脈で使われる重い語です。
+Example1: 性犯罪者には厳しい罰が与えられます。
+Example1_EN: Sex offenders are given severe punishments.
+Example2: 性犯罪者の再犯率は高いと言われています。
+Example2_EN: It is said that the recidivism rate of sex offenders is high.
+Example3: 性犯罪者を社会に復帰させるための更生プログラムがあります。
+Example3_EN: There are rehabilitation programs to reintegrate sex offenders into society.
+
+===word: 法律===
+Nuance: 国や社会の秩序を維持するために定められた規則の総称です。日常生活からビジネスまで幅広く関係します。
+Example1: 法律を守ることは市民の義務です。
+Example1_EN: Obeying the law is a citizen's duty.
+Example2: この法律は来月から施行されます。
+Example2_EN: This law will come into effect next month.
+Example3: 法律に関する質問があれば、弁護士に相談してください。
+Example3_EN: If you have any questions about the law, please consult a lawyer.
+
+===word: ありのまま===
+Nuance: 飾ったり偽ったりせず、事実や現状をそのまま受け入れる様子を表す副詞的な表現です。
+Example1: ありのままの自分を大切にしたいです。
+Example1_EN: I want to value myself as I am.
+Example2: 彼はありのままの気持ちを話しました。
+Example2_EN: He spoke his true feelings as they were.
+Example3: ありのままの事実を伝えることが大切です。
+Example3_EN: It is important to convey the facts as they are.
+
+===word: ぬいぐるみ===
+Nuance: 布や綿などで作られた動物やキャラクターの形をした柔らかい玩具を指します。
+Example1: このぬいぐるみはとても可愛いです。
+Example1_EN: This stuffed animal is very cute.
+Example2: 子供はぬいぐるみを抱いて寝ました。
+Example2_EN: The child slept hugging a stuffed animal.
+Example3: ぬいぐるみは子供へのプレゼントに人気があります。
+Example3_EN: Stuffed animals are popular as gifts for children.
+
+===word: 古代===
+Nuance: 遠い昔の時代、特に文明の初期段階を指します。歴史の区分としてよく使われます。
+Example1: 古代エジプトの遺跡を見に行きたいです。
+Example1_EN: I want to go see the ruins of ancient Egypt.
+Example2: 古代の人々はどのように暮らしていたのでしょうか。
+Example2_EN: How did ancient people live, I wonder.
+Example3: この博物館には古代の工芸品が展示されています。
+Example3_EN: This museum displays ancient artifacts.
+
+===word: 注射===
+Nuance: 医療で使われる、針を使って薬剤を体内に直接入れる処置を指します。
+Example1: 医者から注射を打ってもらいました。
+Example1_EN: I got an injection from the doctor.
+Example2: 注射は苦手な人が多いです。
+Example2_EN: Many people are not good with injections.
+Example3: 予防接種の注射はいつでも受けられますか？
+Example3_EN: Can I receive the vaccination injection anytime?
+
+===word: 骨===
+Nuance: 人間や動物の体を支える硬い組織を指します。比喩的に物事の核心という意味でも使われます。
+Example1: 骨は健康な体を作るために重要です。
+Example1_EN: Bones are important for building a healthy body.
+Example2: 彼は骨を折って働きました。
+Example2_EN: He worked his fingers to the bone (lit. broke his bones working).
+Example3: この魚は骨が多いので気をつけてください。
+Example3_EN: This fish has many bones, so please be careful.
+
+===word: 中州===
+Nuance: 川の中にできる砂や土が堆積した島状の地形を指します。
+Example1: この川の中州には珍しい植物が生えています。
+Example1_EN: Rare plants grow on this sandbank in the river.
+Example2: 中州は雨季になると水に浸かります。
+Example2_EN: The sandbank gets submerged during the rainy season.
+Example3: あの中州まで泳いで渡るのは危険です。
+Example3_EN: It is dangerous to swim across to that sandbank.
+
+===word: 地形===
+Nuance: 土地の起伏や形状などの地表の様子を指します。地理や建設の分野でよく使われます。
+Example1: この地域の地形はとても複雑です。
+Example1_EN: The topography of this area is very complex.
+Example2: 地形図を見ながらハイキングを楽しみました。
+Example2_EN: I enjoyed hiking while looking at a topographic map.
+Example3: この辺りの地形を詳しく調べたいです。
+Example3_EN: I would like to investigate the topography of this area in detail.
+
+===word: 初期化する===
+Nuance: 電子機器やコンピューターの設定を工場出荷時の状態に戻すことを意味します。
+Example1: パソコンを初期化する前にデータを保存してください。
+Example1_EN: Please save your data before initializing the computer.
+Example2: このスマートフォンを初期化したいのですが、どうすればいいですか？
+Example2_EN: I want to initialize this smartphone, but how should I do it?
+Example3: 初期化するとすべてのデータが消えますのでご注意ください。
+Example3_EN: Please note that all data will be erased when you initialize it.
+
+===word: 芽吹き===
+Nuance: 植物の芽が出ること、またはその芽自体を指します。春の季語としても使われます。
+Example1: 春になると木々の芽吹きが見られます。
+Example1_EN: In spring, you can see the budding of the trees.
+Example2: 今年の芽吹きは例年より早いです。
+Example2_EN: This year's budding is earlier than usual.
+Example3: 庭の桜の芽吹きを毎日楽しみにしています。
+Example3_EN: I look forward to the budding of the cherry tree in my garden every day.
+
+===word: 消費税===
+Nuance: 商品の購入やサービスの利用に対して課される税金の一種です。日本の税率は現在百分之十です。
+Example1: 消費税は来年上がるかもしれません。
+Example1_EN: The consumption tax might go up next year.
+Example2: この金額には消費税が含まれていますか？
+Example2_EN: Does this amount include consumption tax?
+Example3: 消費税の使い道について議論が行われています。
+Example3_EN: Discussions are being held about how the consumption tax revenue is used.
+
+===word: 処女===
+Nuance: 性的経験がない女性を指します。比喩的に「初めて」という意味でも使われます。
+Example1: その小説は彼女の処女作です。
+Example1_EN: That novel is her debut (first) work.
+Example2: 処女であることは恥ずかしいことではありません。
+Example2_EN: Being a virgin is nothing to be ashamed of.
+Example3: この山はまだ処女峰と呼ばれています。
+Example3_EN: This mountain is still called a virgin peak (unclimbed).
+
+===word: 元カノ===
+Nuance: 以前に付き合っていた女性のことを指すカジュアルな話し言葉です。
+Example1: 先週、元カノに偶然会いました。
+Example1_EN: I happened to run into my ex-girlfriend last week.
+Example2: 元カノの話は今の彼女の前ではしない方がいいです。
+Example2_EN: It's better not to talk about your ex-girlfriend in front of your current girlfriend.
+Example3: 元カノから久しぶりに連絡が来ました。
+Example3_EN: I heard from my ex-girlfriend for the first time in a while.
+
+===word: 総選挙===
+Nuance: 国の議会議員をすべて改選する選挙を指します。特に日本の衆議院議員総選挙を指すことが多いです。
+Example1: 総選挙は来月行われる予定です。
+Example1_EN: The general election is scheduled for next month.
+Example2: 総選挙の結果は明日発表されます。
+Example2_EN: The results of the general election will be announced tomorrow.
+Example3: 総選挙では多くの政党が新しい政策を掲げました。
+Example3_EN: Many parties put forward new policies in the general election.
+
+===word: 報酬===
+Nuance: 仕事やサービスに対する対価として支払われる金銭や物品を指します。
+Example1: この仕事の報酬はかなり高いです。
+Example1_EN: The remuneration for this job is quite high.
+Example2: 報酬は月末に支払われます。
+Example2_EN: The remuneration will be paid at the end of the month.
+Example3: 彼は報酬として高級時計を受け取りました。
+Example3_EN: He received a luxury watch as a reward.
+
+===word: 損害===
+Nuance: 自然災害や事故などによって受けた金銭的・物理的な被害を指します。
+Example1: 台風で大きな損害が出ました。
+Example1_EN: The typhoon caused great damage.
+Example2: 損害の総額はまだ分かりません。
+Example2_EN: The total amount of damage is not yet known.
+Example3: 損害を受けた方には保険金が支払われます。
+Example3_EN: Insurance money will be paid to those who suffered damage.
+
+===word: 意外===
+Nuance: 予想や期待に反している様子を表す形容動詞です。よく「意外に」「意外と」の形でも使われます。
+Example1: 彼の意外な一面を見ました。
+Example1_EN: I saw a surprising side of him.
+Example2: この料理は意外に簡単に作れます。
+Example2_EN: This dish is surprisingly easy to make.
+Example3: 試験の結果は意外なものでした。
+Example3_EN: The test results were unexpected.
+
+===word: 自衛隊===
+Nuance: 日本の国防を担う組織で、憲法の制約の下で防衛活動を行っています。
+Example1: 自衛隊は災害救助でも活躍しています。
+Example1_EN: The Self-Defense Forces are also active in disaster relief.
+Example2: 自衛隊の予算は毎年議論の的になります。
+Example2_EN: The budget of the Self-Defense Forces becomes a topic of discussion every year.
+Example3: 自衛隊員は厳しい訓練を受けています。
+Example3_EN: Self-Defense Forces personnel undergo rigorous training.
+
+===word: 焦げる===
+Nuance: 火や熱で物の表面が黒く焼けてしまうことを意味する自動詞です。
+Example1: トーストが焦げてしまいました。
+Example1_EN: The toast got burnt.
+Example2: 焦げた部分だけ取り除けばまだ食べられます。
+Example2_EN: If you remove just the burnt part, you can still eat it.
+Example3: 料理中に焦げないように注意してください。
+Example3_EN: Please be careful not to burn it while cooking.
+
+===word: 栓===
+Nuance: 瓶や容器の口を塞ぐための道具を指します。コルクやプラスチック製のものが一般的です。
+Example1: ワインの栓を抜くのが難しいです。
+Example1_EN: It's difficult to pull out the wine cork.
+Example2: この栓はしっかり閉めてください。
+Example2_EN: Please close this cap tightly.
+Example3: 栓が固くて開きませんでした。
+Example3_EN: The cap was too tight and wouldn't open.
+
+===word: 五穀米===
+Nuance: 五種類の穀物を混ぜたお米のことを指します。白米より栄養価が高いとされています。
+Example1: 五穀米は白米より健康に良いです。
+Example1_EN: Five-grain rice is healthier than white rice.
+Example2: 最近、五穀米を食べるようになりました。
+Example2_EN: I've started eating five-grain rice recently.
+Example3: 五穀米は炊く前に水に浸しておいた方がいいです。
+Example3_EN: It's better to soak five-grain rice in water before cooking it.
+
+===word: 新型===
+Nuance: 従来のものとは異なる新しい型や様式を指します。特に製品や技術の分野でよく使われます。
+Example1: 新型のスマートフォンが発売されました。
+Example1_EN: A new model of smartphone has been released.
+Example2: この車は新型なので燃費が良いです。
+Example2_EN: This car is a new model, so it has good fuel efficiency.
+Example3: 新型コロナウイルスのワクチンが開発されました。
+Example3_EN: A vaccine for the new coronavirus has been developed.
+
+===word: 当初===
+Nuance: 物事の始まりの時点や最初の段階を指します。
+Example1: 当初の計画では来月完成する予定でした。
+Example1_EN: According to the original plan, it was scheduled to be completed next month.
+Example2: 当初は反対意見もありましたが、今は皆が賛成しています。
+Example2_EN: There were opposing opinions at first, but now everyone agrees.
+Example3: 当初の予定より少し遅れています。
+Example3_EN: We are a little behind the original schedule.
+
+===word: 偽善===
+Nuance: 表面的には善人を装いながら、内心では悪意や利己的な考えを持っていることを指します。
+Example1: 偽善的な態度は周りから見抜かれます。
+Example1_EN: Hypocritical attitudes are seen through by those around you.
+Example2: 彼の親切は偽善だと噂されています。
+Example2_EN: It is rumored that his kindness is hypocrisy.
+Example3: 偽善は長続きしません。
+Example3_EN: Hypocrisy does not last long.
+
+===word: 伝言===
+Nuance: 直接会えない人に代わりに伝えてもらう言葉やメッセージを指します。
+Example1: 彼に伝言をお願いできますか？
+Example1_EN: Could you give him a message?
+Example2: 伝言をメモに残しておきました。
+Example2_EN: I left a message on a note.
+Example3: 伝言があれば私までお知らせください。
+Example3_EN: If you have a message, please let me know.
+
+===word: 視界===
+Nuance: 目で見える範囲や景色の広がりを指します。比喩的に将来の見通しという意味でも使われます。
+Example1: 霧で視界が悪くなっています。
+Example1_EN: Visibility is poor due to fog.
+Example2: 視界に入るものすべてが美しかったです。
+Example2_EN: Everything that came into view was beautiful.
+Example3: この場所からは視界がとても良いです。
+Example3_EN: The visibility from this spot is very good.
+
+===word: ユーロ危機===
+Nuance: ヨーロッパ諸国で起こった通貨ユーロを巡る経済的・財政的な危機を指します。
+Example1: ユーロ危機は世界経済に大きな影響を与えました。
+Example1_EN: The euro crisis had a major impact on the global economy.
+Example2: ユーロ危機の後、経済は徐々に回復しました。
+Example2_EN: After the euro crisis, the economy gradually recovered.
+Example3: ユーロ危機の原因は複雑です。
+Example3_EN: The causes of the euro crisis are complex.
+
+===word: 再会===
+Nuance: 一度別れた人と再び会うことを指します。感動的で温かい響きのある言葉です。
+Example1: 十年ぶりに友人と再会しました。
+Example1_EN: I reunited with a friend after ten years.
+Example2: 再会をとても楽しみにしています。
+Example2_EN: I am very much looking forward to the reunion.
+Example3: 卒業生の再会パーティーが来月あります。
+Example3_EN: There will be an alumni reunion party next month.
+
+===word: 北風===
+Nuance: 北から吹いてくる冷たい風を指します。冬の季語としても使われます。
+Example1: 北風が強く吹いています。
+Example1_EN: The north wind is blowing strongly.
+Example2: 北風が吹くと体感温度がぐっと下がります。
+Example2_EN: When the north wind blows, the perceived temperature drops sharply.
+Example3: 北風の冷たさに震えました。
+Example3_EN: I shivered from the coldness of the north wind.
+
+===word: お坊さん===
+Nuance: 仏教の僧侶を指す親しみのある言い方です。敬意を込めた呼び方として使われます。
+Example1: お坊さんがお経を読んでくださいました。
+Example1_EN: The monk chanted sutras for us.
+Example2: このお寺には三人のお坊さんが住んでいます。
+Example2_EN: Three monks live in this temple.
+Example3: お坊さんになるには長い修行が必要です。
+Example3_EN: Becoming a monk requires a long period of training.
+
+===word: 抱く===
+Nuance: 腕の中に包み込むようにして大切に持つことを意味します。比喩的に感情や考えを持つ意味でも使われます。
+Example1: 赤ちゃんを優しく抱きました。
+Example1_EN: I gently held the baby in my arms.
+Example2: 彼は大きな夢を抱いています。
+Example2_EN: He harbors a big dream.
+Example3: そのニュースに疑問を抱く人は多いです。
+Example3_EN: Many people have doubts about that news.
+
+===word: 学長===
+Nuance: 大学の最高責任者を指します。大学の運営や教育方針を統括する役割です。
+Example1: 学長の講演はとても興味深かったです。
+Example1_EN: The college president's lecture was very interesting.
+Example2: 新しい学長が来月着任します。
+Example2_EN: The new college president will take office next month.
+Example3: 学長に直接質問する機会がありました。
+Example3_EN: I had an opportunity to ask the college president a question directly.
+
+===word: 門限===
+Nuance: 家や施設に戻らなければならない決まった時刻を指します。特に寮や家庭で使われる規則です。
+Example1: この寮の門限は午後十時です。
+Example1_EN: The curfew for this dormitory is 10 PM.
+Example2: 門限に遅れると罰則があります。
+Example2_EN: There are penalties if you are late for curfew.
+Example3: 門限を過ぎても彼は帰ってきませんでした。
+Example3_EN: He didn't come home even after curfew.
+
+===word: 貨物===
+Nuance: 船や飛行機、トラックなどで運ばれる積み荷や商品を指します。商業や物流の分野で使われます。
+Example1: 貨物は来週の月曜日に到着します。
+Example1_EN: The cargo will arrive next Monday.
+Example2: この貨物列車は長距離を走ります。
+Example2_EN: This freight train travels long distances.
+Example3: 貨物の積み込みは午前中に終わりました。
+Example3_EN: The loading of the cargo was completed in the morning.
+
+===word: 体重計===
+Nuance: 人の体重を測るための計測器を指します。家庭やジムなどで使われます。
+Example1: 毎朝体重計に乗っています。
+Example1_EN: I step on the scale every morning.
+Example2: この体重計はデジタル表示です。
+Example2_EN: This scale has a digital display.
+Example3: 体重計の数値が気になります。
+Example3_EN: I'm concerned about the number on the scale.
+
+===word: 火災===
+Nuance: 建物や山林などが焼ける災害を指します。消防や保険の文脈でよく使われます。
+Example1: 火災には十分に気をつけてください。
+Example1_EN: Please be very careful about fires.
+Example2: 昨夜、近所で火災がありました。
+Example2_EN: There was a fire in the neighborhood last night.
+Example3: 火災報知器が鳴ったらすぐに避難してください。
+Example3_EN: If the fire alarm goes off, please evacuate immediately.
+
+===word: 不在===
+Nuance: その場所に人がいないことや、家に誰もいない状態を指します。
+Example1: 彼は現在外出中で不在です。
+Example1_EN: He is currently out and not here.
+Example2: 不在の間、郵便物がたまっていました。
+Example2_EN: Mail piled up while I was away.
+Example3: ご不在の場合は、配達員が持ち帰ります。
+Example3_EN: If you are not home, the delivery person will take it back.
+
+===word: 開脚===
+Nuance: 両足を左右に大きく開く姿勢や動作を指します。ストレッチや体操、柔軟運動の文脈で使われます。
+Example1: 開脚のストレッチを毎日続けています。
+Example1_EN: I continue doing leg-stretching exercises every day.
+Example2: 開脚ができるようになるには時間がかかります。
+Example2_EN: It takes time to be able to do the splits.
+Example3: このヨガのポーズは開脚が必要です。
+Example3_EN: This yoga pose requires leg spreading.
+
+===word: 暗号===
+Nuance: 第三者に内容が分からないように、特定の規則で変換された文字や記号を指します。
+Example1: この暗号を解読するのは難しいです。
+Example1_EN: Deciphering this code is difficult.
+Example2: 暗号を使って秘密のメッセージを送りました。
+Example2_EN: I sent a secret message using a cipher.
+Example3: この暗号は第二次世界大戦中に使われていました。
+Example3_EN: This cipher was used during World War II.
+
+===word: 脅迫的===
+Nuance: 人を怖がらせたり脅したりするような様子を表す形容動詞です。
+Example1: 彼の脅迫的な態度に恐怖を感じました。
+Example1_EN: I felt fear at his threatening attitude.
+Example2: 脅迫的なメールが届いたので警察に相談しました。
+Example2_EN: I received a threatening email, so I consulted the police.
+Example3: その脅迫的な言葉遣いは問題です。
+Example3_EN: That threatening wording is a problem.
+
+===word: 比喩的===
+Nuance: 物事を直接的に表現せず、他のものに例えて表現する様子を指します。文学や日常会話で使われます。
+Example1: 彼の言い方は比喩的な表現が多いです。
+Example1_EN: His way of speaking includes many metaphorical expressions.
+Example2: この詩は比喩的な言葉で書かれています。
+Example2_EN: This poem is written in metaphorical language.
+Example3: 比喩的な意味で使われている言葉に注意してください。
+Example3_EN: Please pay attention to words used in a metaphorical sense.
+
+===word: 秋田県===
+Nuance: 日本の東北地方にある県の一つです。秋田犬や米どころとして有名です。
+Example1: 秋田県は雪が多いことで知られています。
+Example1_EN: Akita Prefecture is known for having a lot of snow.
+Example2: 秋田県の米はとても美味しいです。
+Example2_EN: The rice from Akita Prefecture is very delicious.
+Example3: 秋田県には有名な温泉がたくさんあります。
+Example3_EN: There are many famous hot springs in Akita Prefecture.
+
+===word: 目薬===
+Nuance: 目の乾燥や炎症、感染症などを治療するために目にさす薬液を指します。
+Example1: 目薬をさすと目がすっきりします。
+Example1_EN: My eyes feel refreshed when I put in eye drops.
+Example2: この目薬は一日に何回させばいいですか？
+Example2_EN: How many times a day should I use these eye drops?
+Example3: 目薬の有効期限を確認してください。
+Example3_EN: Please check the expiration date of the eye drops.
+
+===word: 字引===
+Nuance: 言葉の意味や使い方を調べるための本のことを指す、やや古風な言い方です。現代では「辞書」の方が一般的です。
+Example1: この字引は祖父からもらったものです。
+Example1_EN: This dictionary is something I received from my grandfather.
+Example2: 字引で分からない言葉を調べました。
+Example2_EN: I looked up a word I didn't know in the dictionary.
+Example3: 字引は引くものではなく読むものだと先生が言っていました。
+Example3_EN: My teacher said that a dictionary is something to read, not just to look things up in.
+
+===word: 心外===
+Nuance: 予想や期待に反していて納得がいかない、残念だという気持ちを表す形容動詞です。
+Example1: そのような誤解を受けるとは心外です。
+Example1_EN: It is unjust to be misunderstood like that.
+Example2: 彼に疑われるのは心外でなりません。
+Example2_EN: Being suspected by him is extremely unfair.
+Example3: 心外な結果に終わってしまいました。
+Example3_EN: It ended with an unjust result.
+
+===word: 人体実験===
+Nuance: 人間の体を使って行われる医学的・科学的な実験を指します。倫理的な問題を伴うことが多い言葉です。
+Example1: 人体実験は厳しい倫理審査が必要です。
+Example1_EN: Human experimentation requires strict ethical review.
+Example2: 過去には非倫理的な人体実験が行われていました。
+Example2_EN: In the past, unethical human experimentation was conducted.
+Example3: 人体実験の歴史について調べています。
+Example3_EN: I am researching the history of human experimentation.
+
+===word: 性別===
+Nuance: 男性と女性という生物学的な区別を指します。書類やアンケートなどでよく見られる項目です。
+Example1: 性別に関係なく誰でも応募できます。
+Example1_EN: Anyone can apply regardless of gender.
+Example2: アンケートの性別欄に記入してください。
+Example2_EN: Please fill in the gender section of the questionnaire.
+Example3: 性別による差別は禁止されています。
+Example3_EN: Discrimination based on sex is prohibited.
+
+===word: 国産===
+Nuance: 自国内で生産された製品や商品を指します。品質や信頼性を強調する際によく使われます。
+Example1: この車は国産です。
+Example1_EN: This car is domestically produced.
+Example2: 国産の食材は安全だと信じています。
+Example2_EN: I believe that domestically produced ingredients are safe.
+Example3: 国産品を積極的に購入するようにしています。
+Example3_EN: I try to actively purchase domestic products.
+
+===word: 動向===
+Nuance: 物事の動きや変化の方向性を指します。市場や社会、政治などの分野でよく使われます。
+Example1: 市場の動向を常にチェックしています。
+Example1_EN: I always check the market trends.
+Example2: 彼の動向には注目しています。
+Example2_EN: I am paying attention to his movements.
+Example3: 業界の動向について調査しています。
+Example3_EN: I am researching trends in the industry.
+
+===word: 発射===
+Nuance: 弾丸やロケット、ミサイルなどを勢いよく打ち出すことを指します。
+Example1: ロケットが無事に発射されました。
+Example1_EN: The rocket was successfully launched.
+Example2: 発射の瞬間はとても感動的でした。
+Example2_EN: The moment of the launch was very moving.
+Example3: 発射の準備はすべて整っています。
+Example3_EN: All preparations for the launch are complete.
+
+===word: 文字通り===
+Nuance: 言葉の意味をそのままの形で受け取る様子を表す副詞です。比喩ではなく字義通りの意味で使います。
+Example1: 彼の言葉を文字通りに受け取りました。
+Example1_EN: I took his words literally.
+Example2: 文字通り、息を呑む美しさでした。
+Example2_EN: It was literally breathtakingly beautiful.
+Example3: この表現は文字通りの意味ではありません。
+Example3_EN: This expression does not mean it literally.
+
+===word: 愛国心===
+Nuance: 自分の国を愛し、大切に思う気持ちを指します。
+Example1: 彼は強い愛国心を持っています。
+Example1_EN: He has strong patriotic feelings.
+Example2: 愛国心を持つことは大切なことです。
+Example2_EN: Having patriotic feelings is important.
+Example3: 愛国心と排外主義は違います。
+Example3_EN: Patriotism and xenophobia are different.
+
+===word: 訴え===
+Nuance: 裁判所に法的な判断を求める行為や、不満や意見を強く伝えることを指します。
+Example1: 彼は会社に対して訴えを起こしました。
+Example1_EN: He filed a lawsuit against the company.
+Example2: 消費者の訴えを真剣に受け止める必要があります。
+Example2_EN: We need to take consumer complaints seriously.
+Example3: 彼女の訴えは多くの人の共感を呼びました。
+Example3_EN: Her appeal resonated with many people.
+
+===word: 和語===
+Nuance: 日本古来の言葉で、漢語や外来語に対して日本語本来の語彙を指します。
+Example1: 和語は漢語に比べて柔らかい印象を与えます。
+Example1_EN: Native Japanese words give a softer impression compared to Sino-Japanese words.
+Example2: この文章は和語を多く使っているので読みやすいです。
+Example2_EN: This sentence uses many native Japanese words, so it's easy to read.
+Example3: 和語と漢語の使い分けは日本語の難しさの一つです。
+Example3_EN: Distinguishing between native Japanese words and Sino-Japanese words is one of the difficulties of Japanese.
+
+===word: 盗聴===
+Nuance: 他人の会話や通信を本人の許可なくこっそり聞くことを指します。法律で禁止されている行為です。
+Example1: 盗聴は法律で禁止されています。
+Example1_EN: Wiretapping is prohibited by law.
+Example2: 盗聴器が部屋から見つかりました。
+Example2_EN: A bugging device was found in the room.
+Example3: 盗聴の疑いがある場合は警察に相談してください。
+Example3_EN: If you suspect wiretapping, please consult the police.
+
+===word: 乱数===
+Nuance: 規則性やパターンがない、ランダムに現れる数字のことを指します。コンピューターや暗号の分野で重要です。
+Example1: 乱数を使ってパスワードを生成しました。
+Example1_EN: I generated a password using random numbers.
+Example2: このプログラムは乱数を発生させます。
+Example2_EN: This program generates random numbers.
+Example3: 乱数は暗号技術に欠かせません。
+Example3_EN: Random numbers are essential for cryptographic technology.

@@ -1,0 +1,656 @@
+===word: 一生===
+Nuance: 人の生涯や人生の全ての期間を指します。強調したい時に使われ、"一生懸命"や"一生もの"などの形でもよく使われます。
+Example1: 一生忘れられない思い出になりました。
+Example1_EN: It became a memory I will never forget for the rest of my life.
+Example2: 祖父母は一生仲良く暮らしました。
+Example2_EN: My grandparents lived together happily all their lives.
+Example3: この指輪は一生大切にします。
+Example3_EN: I will treasure this ring for the rest of my life.
+
+===word: 聖なる===
+Nuance: 神聖で清らかな様子を表す形容動詞です。宗教的な文脈や、特別に尊いものに対して使われることが多いです。
+Example1: 聖なる場所で祈りを捧げました。
+Example1_EN: I offered a prayer at a sacred place.
+Example2: この森は聖なる土地として守られています。
+Example2_EN: This forest is protected as a sacred land.
+Example3: 聖なる音楽を聴くと心が落ち着きます。
+Example3_EN: Listening to sacred music calms my heart.
+
+===word: 病死する===
+Nuance: 病気によって命を失うことを意味します。自然死の一種で、事故死や他殺と区別する際に使われます。
+Example1: 彼の祖父は昨年病死しました。
+Example1_EN: His grandfather died of illness last year.
+Example2: 健康診断を定期的に受ければ、病死を防げる場合もあります。
+Example2_EN: Regular health check-ups can sometimes prevent death from illness.
+Example3: 有名な作家が先月病死したそうです。
+Example3_EN: I heard that a famous writer passed away from illness last month.
+
+===word: 述べる===
+Nuance: 自分の考えや意見を言葉や文章で表すことを意味します。フォーマルな場面や書き言葉でよく使われます。
+Example1: 会議で自分の意見を述べました。
+Example1_EN: I stated my opinion at the meeting.
+Example2: 首相は記者団に声明を述べました。
+Example2_EN: The prime minister issued a statement to the press.
+Example3: 彼は講演で今後の方針について詳しく述べました。
+Example3_EN: He spoke in detail about future plans during his lecture.
+
+===word: 操縦室===
+Nuance: 飛行機や船、列車などの乗り物を運転・操作するための部屋を指します。パイロットや運転士がいる場所です。
+Example1: 操縦室にはパイロットと副操縦士が座っています。
+Example1_EN: The pilot and co-pilot are seated in the cockpit.
+Example2: 操縦室の見学をさせていただきました。
+Example2_EN: I was allowed to tour the flight deck.
+Example3: 操縦室からは素晴らしい景色が見えました。
+Example3_EN: I could see a wonderful view from the cockpit.
+
+===word: 新刊書===
+Nuance: 新しく出版された本や書籍のことを指します。書店で新しく並べられた本に対して使われます。
+Example1: この新刊書は発売直後から話題になっています。
+Example1_EN: This new publication has been talked about since its release.
+Example2: 図書館で新刊書を借りました。
+Example2_EN: I borrowed a new publication from the library.
+Example3: 新刊書のコーナーはいつも賑わっています。
+Example3_EN: The new publications section is always busy.
+
+===word: 相場===
+Nuance: 商品や株などの市場での一般的な価格や値段を指します。また、相場観として「世間一般の評価」という意味でも使われます。
+Example1: 最近の株の相場は安定しています。
+Example1_EN: Recent stock market prices have been stable.
+Example2: この地域の家賃の相場を教えてください。
+Example2_EN: Could you tell me the going rate for rent in this area?
+Example3: 金の相場が急に上がりましたね。
+Example3_EN: The market price of gold suddenly rose, didn't it?
+
+===word: 証拠品===
+Nuance: 事件や犯罪の証拠として提出される物品を指します。警察や裁判所で使われる法的な用語です。
+Example1: この証拠品は法廷で提出されました。
+Example1_EN: This evidence was submitted in court.
+Example2: 証拠品は厳重に保管されています。
+Example2_EN: The evidence items are kept under strict security.
+Example3: 警察は新しい証拠品を発見しました。
+Example3_EN: The police discovered new evidence items.
+
+===word: 時刻表===
+Nuance: 電車やバスなどの交通機関の出発・到着時刻を表にしたものです。学校などの時間割を指すこともあります。
+Example1: 時刻表を確認してから駅に行きました。
+Example1_EN: I checked the timetable before going to the station.
+Example2: この時刻表は来月から変わります。
+Example2_EN: This timetable will change from next month.
+Example3: 時刻表アプリをスマホに入れています。
+Example3_EN: I have a timetable app on my phone.
+
+===word: 供給量===
+Nuance: 市場や社会に対して提供される物やサービスの量を指します。経済やビジネスの文脈でよく使われます。
+Example1: この製品の供給量は需要に追いついていません。
+Example1_EN: The supply of this product has not kept up with demand.
+Example2: 水の供給量が不足しています。
+Example2_EN: The water supply volume is insufficient.
+Example3: 供給量を増やすために工場を増設しました。
+Example3_EN: We expanded the factory to increase the supply volume.
+
+===word: 手間===
+Nuance: ある作業や行動に必要な時間や労力を指します。面倒くささや大変さを含むニュアンスがあります。
+Example1: この料理は作るのに手間がかかります。
+Example1_EN: This dish takes a lot of time and effort to prepare.
+Example2: 手間を省くために便利な道具を使っています。
+Example2_EN: I use convenient tools to save time and effort.
+Example3: お手間を取らせてすみません。
+Example3_EN: I'm sorry for taking up your time.
+
+===word: 観衆===
+Nuance: 演劇やスポーツ、イベントなどを見ている人々の集まりを指します。比較的大きな集団に対して使われます。
+Example1: 観衆は選手に大きな拍手を送りました。
+Example1_EN: The audience gave the players a big round of applause.
+Example2: 観衆の中に有名人がいたそうです。
+Example2_EN: I heard there was a celebrity among the audience.
+Example3: 観衆の熱気が会場全体に広がっていました。
+Example3_EN: The excitement of the audience spread throughout the venue.
+
+===word: 黒幕となる===
+Nuance: 表に出ずに陰で物事を操る人物や組織のことを指します。否定的な文脈で使われることが多いです。
+Example1: あの事件の黒幕は誰ですか。
+Example1_EN: Who is the mastermind behind that incident?
+Example2: 彼がこの計画の黒幕だと言われています。
+Example2_EN: He is said to be the mastermind behind this plan.
+Example3: 黒幕が逮捕されたというニュースを見ました。
+Example3_EN: I saw the news that the mastermind was arrested.
+
+===word: 調査団===
+Nuance: 特定の目的や事件について調査するために組織されたチームやグループを指します。
+Example1: 調査団が現地に向かいました。
+Example1_EN: The investigation team headed to the site.
+Example2: 調査団の報告書が来週公開されます。
+Example2_EN: The investigation team's report will be released next week.
+Example3: 政府は新しい調査団を派遣しました。
+Example3_EN: The government dispatched a new investigation team.
+
+===word: 一人暮らし===
+Nuance: 家族やルームメイトと一緒に住まず、一人で生活することを指します。大学生や社会人によく見られる生活形態です。
+Example1: 私は大学に入ってから一人暮らしを始めました。
+Example1_EN: I started living alone after entering university.
+Example2: 一人暮らしは自由ですが、寂しい時もあります。
+Example2_EN: Living alone is free, but sometimes it gets lonely.
+Example3: 一人暮らしの方が料理が上手になりますね。
+Example3_EN: People who live alone tend to get better at cooking, don't they?
+
+===word: 常識===
+Nuance: 社会の一般的な知識や、普通の人が持っているべき判断力を指します。社会生活を送る上で必要な基本的な知識です。
+Example1: それは常識だと思います。
+Example1_EN: I think that's common sense.
+Example2: 彼は常識のある人です。
+Example2_EN: He is a person with common sense.
+Example3: 常識を疑うことも時には大切です。
+Example3_EN: Sometimes it's important to question common sense.
+
+===word: 基本===
+Nuance: 物事の土台や基礎となる部分を指します。何かを学ぶ時や始める時に最初に押さえるべき内容です。
+Example1: まずは基本をしっかり学びましょう。
+Example1_EN: First, let's learn the basics thoroughly.
+Example2: この練習は基本を身につけるのに役立ちます。
+Example2_EN: This exercise helps you acquire the basics.
+Example3: 基本ができていれば応用もできます。
+Example3_EN: If you have the basics down, you can also do the advanced work.
+
+===word: 伍===
+Nuance: 数字の五を表す漢字で、特に正式な書類や法律文書で使われます。通常の「五」よりも格式ばった印象があります。
+Example1: 契約書に伍万円と記入しました。
+Example1_EN: I wrote fifty thousand yen in the contract.
+Example2: この書類では金額を「伍」で表記します。
+Example2_EN: In this document, amounts are written using the character 'go'.
+Example3: 領収書に「伍仟円」と書いてください。
+Example3_EN: Please write 'five thousand yen' on the receipt.
+
+===word: 密着===
+Nuance: 二つのものが隙間なくくっつくこと、または非常に接近することを意味します。物理的にも比喩的にも使われます。
+Example1: このテープはよく密着します。
+Example1_EN: This tape adheres very well.
+Example2: 密着した状態で撮影しました。
+Example2_EN: I took the photo at close range.
+Example3: 肌に密着する素材を使っています。
+Example3_EN: We use a material that fits closely to the skin.
+
+===word: 照明===
+Nuance: 部屋や舞台などを明るくするための設備や装置を指します。写真撮影や映画製作でも重要な要素です。
+Example1: この部屋の照明は明るすぎます。
+Example1_EN: The lighting in this room is too bright.
+Example2: 舞台の照明がとてもきれいでした。
+Example2_EN: The stage lighting was very beautiful.
+Example3: 照明を落として映画を観ましょう。
+Example3_EN: Let's dim the lights and watch a movie.
+
+===word: お年玉===
+Nuance: 正月に大人から子供に贈られるお金のことを指します。日本の新年の伝統的な習慣の一つです。
+Example1: 子供たちはお年玉をもらって喜んでいました。
+Example1_EN: The children were happy to receive New Year's gifts.
+Example2: お年玉はいくらあげる予定ですか。
+Example2_EN: How much are you planning to give as a New Year's gift?
+Example3: 今年はお年玉を貯金することにしました。
+Example3_EN: I decided to save my New Year's gift money this year.
+
+===word: 不得意===
+Nuance: あることに対して苦手であること、上手くできないことを意味します。得意の反対語です。
+Example1: 私は数学が不得意です。
+Example1_EN: I'm not good at math.
+Example2: 不得意な分野でも頑張っています。
+Example2_EN: I'm doing my best even in areas I'm not good at.
+Example3: 不得意なことは練習すれば克服できます。
+Example3_EN: You can overcome things you're not good at through practice.
+
+===word: 判定===
+Nuance: 物事をよく調べて、その結果や価値などを決めることを指します。審判や試験など様々な場面で使われます。
+Example1: 審判の判定に選手たちは納得しました。
+Example1_EN: The players accepted the referee's decision.
+Example2: 判定の結果は来週発表されます。
+Example2_EN: The judgment results will be announced next week.
+Example3: 医師の判定では特に問題はありませんでした。
+Example3_EN: According to the doctor's assessment, there were no particular issues.
+
+===word: 自撮り===
+Nuance: 自分自身の写真を自分で撮影することを指します。スマートフォンの普及で一般的になった言葉です。
+Example1: 友達と自撮りをしました。
+Example1_EN: I took a selfie with my friends.
+Example2: 自撮りをする時は背景にも気をつけています。
+Example2_EN: I pay attention to the background when taking selfies too.
+Example3: 自撮りが上手になるコツを教えてください。
+Example3_EN: Could you tell me some tips for getting good at selfies?
+
+===word: 除雪する===
+Nuance: 積もった雪を取り除くことを意味します。冬の地域で道路や歩道、家の前などの雪かきをする時に使います。
+Example1: 朝早く起きて除雪しました。
+Example1_EN: I woke up early and cleared the snow.
+Example2: 除雪作業は毎日続きました。
+Example2_EN: The snow removal work continued every day.
+Example3: 除雪車が道路の雪を取り除いています。
+Example3_EN: The snowplow is clearing the snow from the road.
+
+===word: 主義===
+Nuance: 人が行動や考えの基準とする根本的な方針や信念を指します。政治や思想、芸術などの分野でよく使われます。
+Example1: 彼は自分の主義を貫いています。
+Example1_EN: He sticks to his principles.
+Example2: 私は主義としてお金を借りません。
+Example2_EN: As a matter of principle, I don't borrow money.
+Example3: それぞれの主義を尊重することが大切です。
+Example3_EN: It's important to respect each other's principles.
+
+===word: 薄い===
+Nuance: 厚みが少ないことや、色や味が濃くないことを表します。比喩的に「関係が薄い」のように使うこともあります。
+Example1: この紙は薄すぎて破れやすいです。
+Example1_EN: This paper is too thin and tears easily.
+Example2: コーヒーの味が薄いと感じました。
+Example2_EN: I felt the coffee tasted weak.
+Example3: この布は薄いので夏にぴったりです。
+Example3_EN: This fabric is thin, so it's perfect for summer.
+
+===word: 着替える===
+Nuance: 今着ている服を別の服に変えることを意味します。日常生活で頻繁に使われる動詞です。
+Example1: 仕事から帰ってすぐに着替えました。
+Example1_EN: I changed clothes right after coming home from work.
+Example2: プールで着替える場所はありますか。
+Example2_EN: Is there a place to change clothes at the pool?
+Example3: 子供に着替えさせてから出かけました。
+Example3_EN: I changed the child's clothes before going out.
+
+===word: 気まぐれで===
+Nuance: その時の気分や思いつきで行動する様子を表します。計画的ではなく、感情のままに行動するニュアンスがあります。
+Example1: 気まぐれで旅行に行くことにしました。
+Example1_EN: I decided to go on a trip on a whim.
+Example2: 彼女は気まぐれで髪の色を変えました。
+Example2_EN: She changed her hair color on a whim.
+Example3: 気まぐれで始めた趣味が長続きしています。
+Example3_EN: A hobby I started on a whim has lasted a long time.
+
+===word: 愛用（の）===
+Nuance: 長く使い続けて気に入っていることを表します。特に物に対して使われ、愛着のある品を指します。
+Example1: これは私の愛用のペンです。
+Example1_EN: This is my favorite pen that I always use.
+Example2: 母が愛用していた時計を譲り受けました。
+Example2_EN: I inherited the watch my mother always used.
+Example3: 愛用のバッグが壊れてしまいました。
+Example3_EN: My favorite bag that I always use broke.
+
+===word: 吸い込む===
+Nuance: 空気や煙などを体内に取り入れることを意味します。また、物が中に入っていく様子を表すこともあります。
+Example1: 新鮮な空気を深く吸い込みました。
+Example1_EN: I took a deep breath of fresh air.
+Example2: 掃除機でほこりを吸い込みました。
+Example2_EN: The vacuum cleaner sucked in the dust.
+Example3: タバコの煙を吸い込まないように気をつけています。
+Example3_EN: I'm careful not to inhale cigarette smoke.
+
+===word: 性差別===
+Nuance: 性別を理由に不当な差別や扱いをすることを指します。社会的な問題として議論されることが多い言葉です。
+Example1: 性差別は現代社会でも残っている問題です。
+Example1_EN: Gender discrimination is an issue that still remains in modern society.
+Example2: 性差別のない職場を目指しています。
+Example2_EN: We are aiming for a workplace free of gender discrimination.
+Example3: 性差別についての講演を聞きました。
+Example3_EN: I attended a lecture about gender discrimination.
+
+===word: 判子===
+Nuance: 署名の代わりに使われる印鑑のことを指します。日本では重要な書類に押すことが一般的です。
+Example1: 書類に判子を押してください。
+Example1_EN: Please stamp your seal on the document.
+Example2: 判子を忘れたので、サインで代用しました。
+Example2_EN: I forgot my personal seal, so I used a signature instead.
+Example3: 新しい判子を作ってもらいました。
+Example3_EN: I had a new personal seal made.
+
+===word: 害獣===
+Nuance: 人間の生活や農業などに害を与える野生動物を指します。イノシシやシカ、カラスなどが該当します。
+Example1: この地域では害獣の被害が増えています。
+Example1_EN: Damage from harmful animals is increasing in this area.
+Example2: 害獣を追い払うための対策を考えました。
+Example2_EN: We came up with measures to drive away harmful animals.
+Example3: 害獣による農作物の被害が深刻です。
+Example3_EN: The damage to crops from harmful animals is serious.
+
+===word: 所属===
+Nuance: ある組織や団体の一員であることを指します。会社や学校、クラブなどに対して使われます。
+Example1: 私は営業部に所属しています。
+Example1_EN: I belong to the sales department.
+Example2: 所属しているサークルを教えてください。
+Example2_EN: Please tell me which club you belong to.
+Example3: この研究所に所属している研究者です。
+Example3_EN: I am a researcher affiliated with this institute.
+
+===word: 中破===
+Nuance: 船や機械などが半分程度の損傷を受けることを指します。特にゲームや軍事の文脈で使われることが多いです。
+Example1: 戦闘で艦が中破しました。
+Example1_EN: The ship was moderately damaged in battle.
+Example2: 中破した船は修理が必要です。
+Example2_EN: The moderately damaged ship needs repairs.
+Example3: 中破の状態でもまだ航行は可能でした。
+Example3_EN: Even in a moderately damaged state, it was still able to sail.
+
+===word: 関連する===
+Nuance: 二つ以上の物事の間に何らかの関係があることを意味します。ビジネスや学術の場でよく使われます。
+Example1: この問題は環境問題に関連しています。
+Example1_EN: This issue is related to environmental problems.
+Example2: 関連する資料をまとめておいてください。
+Example2_EN: Please compile the relevant documents in advance.
+Example3: この二つの研究は深く関連しています。
+Example3_EN: These two studies are deeply related.
+
+===word: 炊飯器===
+Nuance: ご飯を炊くための電気調理器具を指します。日本の家庭では非常に一般的な家電製品です。
+Example1: 炊飯器でご飯を炊きました。
+Example1_EN: I cooked rice in the rice cooker.
+Example2: 新しい炊飯器を買いました。
+Example2_EN: I bought a new rice cooker.
+Example3: この炊飯器は保温機能が優れています。
+Example3_EN: This rice cooker has an excellent keep-warm function.
+
+===word: 陸地===
+Nuance: 海や湖などの水に対して、地面が続いている部分を指します。島や大陸などの地形を表す時に使います。
+Example1: 船がやっと陸地に見えてきました。
+Example1_EN: We could finally see land from the ship.
+Example2: この島の陸地はほとんどが山です。
+Example2_EN: Most of the land on this island is mountainous.
+Example3: 陸地に近づくと波が穏やかになりました。
+Example3_EN: The waves became calmer as we approached land.
+
+===word: 配分===
+Nuance: 物事や資源を適切に分け与えることを意味します。時間や予算、人員など様々なものに対して使われます。
+Example1: 予算の配分を検討しました。
+Example1_EN: We considered the budget allocation.
+Example2: 仕事の配分が均等ではありません。
+Example2_EN: The work distribution is not even.
+Example3: 時間の配分を工夫する必要があります。
+Example3_EN: We need to manage our time allocation more carefully.
+
+===word: 伸びをする===
+Nuance: 体を伸ばす動作を指します。特に起床後や長時間同じ姿勢でいた後に行うストレッチのような動作です。
+Example1: 朝起きて伸びをすると気持ちがいいです。
+Example1_EN: It feels good to stretch after waking up in the morning.
+Example2: 会議の合間に伸びをしました。
+Example2_EN: I stretched during a break in the meeting.
+Example3: 伸びをしたら背中が鳴りました。
+Example3_EN: My back cracked when I stretched.
+
+===word: 明晩===
+Nuance: 明日の夜のことを指します。今日の夜ではなく、翌日の夜を表す時に使います。
+Example1: 明晩、友達と食事に行きます。
+Example1_EN: I'm going out to dinner with a friend tomorrow evening.
+Example2: 明晩の天気はどうですか。
+Example2_EN: What's the weather forecast for tomorrow evening?
+Example3: 明晩のパーティーの準備をしています。
+Example3_EN: I'm preparing for tomorrow evening's party.
+
+===word: 凍り付く===
+Nuance: 寒さで完全に凍って固まることを意味します。比喩的に、恐怖や驚きで体が動かなくなる様子も表します。
+Example1: 湖の水が完全に凍り付きました。
+Example1_EN: The lake water froze completely.
+Example2: 寒さで水道管が凍り付きました。
+Example2_EN: The water pipes froze due to the cold.
+Example3: 驚いたニュースを聞いて、その場に凍り付きました。
+Example3_EN: I froze on the spot when I heard the shocking news.
+
+===word: 英雄===
+Nuance: 並外れた勇気や偉業を持つ人を指します。歴史的な人物や物語の主人公などに使われることが多いです。
+Example1: 彼は町の英雄として称えられました。
+Example1_EN: He was praised as a hero of the town.
+Example2: 子供の頃、英雄に憧れていました。
+Example2_EN: When I was a child, I admired heroes.
+Example3: その英雄の物語は今も語り継がれています。
+Example3_EN: The story of that hero is still told to this day.
+
+===word: 打ち上げる===
+Nuance: 物を上に向かって勢いよく飛ばすことを意味します。ロケットや花火などに使われる他、比喩的にも使われます。
+Example1: ロケットが無事に打ち上げられました。
+Example1_EN: The rocket was successfully launched.
+Example2: 花火を打ち上げる場所を確保しました。
+Example2_EN: We secured a location to launch fireworks.
+Example3: 船を岸に打ち上げて修理しました。
+Example3_EN: We beached the ship and repaired it.
+
+===word: 支援団体===
+Nuance: 特定の目的や活動を支援するために組織された団体を指します。非営利団体やボランティア組織などが該当します。
+Example1: この支援団体は被災地で活動しています。
+Example1_EN: This support group is active in the disaster-stricken area.
+Example2: 支援団体に寄付をしました。
+Example2_EN: I made a donation to a support organization.
+Example3: 地元の支援団体がイベントを開催しました。
+Example3_EN: A local support group held an event.
+
+===word: お歳暮===
+Nuance: 年末に日頃お世話になっている人に贈る贈り物のことを指します。日本の年中行事の一つです。
+Example1: お歳暮にコーヒーギフトを送りました。
+Example1_EN: I sent a coffee gift set as a year-end gift.
+Example2: お歳暮はいつ頃届けますか。
+Example2_EN: When do you usually send your year-end gifts?
+Example3: 今年はお歳暮の代わりに手紙を送りました。
+Example3_EN: This year I sent a letter instead of a year-end gift.
+
+===word: 人違い===
+Nuance: 他の人と間違えることを指します。見知らぬ人を知っている人と勘違いした時に使います。
+Example1: すみません、人違いでした。
+Example1_EN: I'm sorry, I mistook you for someone else.
+Example2: 人違いだと気づいて恥ずかしかったです。
+Example2_EN: I was embarrassed when I realized I had mistaken someone for another person.
+Example3: 人違いが原因でトラブルになりました。
+Example3_EN: It turned into a problem due to mistaken identity.
+
+===word: 従業員===
+Nuance: 会社や組織で働く人のことを指します。社員よりも広い意味で、パートやアルバイトも含む場合があります。
+Example1: 従業員の皆さんに連絡します。
+Example1_EN: I will contact all employees.
+Example2: この会社の従業員は五百人です。
+Example2_EN: This company has five hundred employees.
+Example3: 従業員の健康管理にも気を配っています。
+Example3_EN: We also pay attention to employee health management.
+
+===word: 他家===
+Nuance: 他の家庭や家族を指します。自分の家ではない別の家という意味で使われます。
+Example1: 他家の庭には桜の木があります。
+Example1_EN: There is a cherry tree in another family's garden.
+Example2: 他家の習慣を尊重しましょう。
+Example2_EN: Let's respect the customs of other families.
+Example3: 他家と比べても仕方がありません。
+Example3_EN: There's no point in comparing with other families.
+
+===word: 変数===
+Nuance: プログラミングや数学で、値が変わる可能性のある数を表す記号や名前を指します。
+Example1: この変数には数値を代入します。
+Example1_EN: We assign a numerical value to this variable.
+Example2: 変数の名前は分かりやすく付けましょう。
+Example2_EN: Let's give variables clear and easy-to-understand names.
+Example3: グローバル変数はできるだけ使わない方がいいです。
+Example3_EN: It's better to avoid using global variables as much as possible.
+
+===word: 目隠す===
+Nuance: 目を覆って見えないようにすることを意味します。遊びや罰則、またはプライバシー保護のために使われます。
+Example1: 子供が目隠しをして遊んでいました。
+Example1_EN: The children were playing blindfolded.
+Example2: プライバシーを守るために顔を目隠しました。
+Example2_EN: I covered the face to protect privacy.
+Example3: 目隠しをしたまま歩くのは危険です。
+Example3_EN: It's dangerous to walk while blindfolded.
+
+===word: 初回===
+Nuance: 最初の回や第一回目を指します。イベントや放送、会議などの最初の機会に使われます。
+Example1: 初回の会議は来週の月曜日です。
+Example1_EN: The first meeting is next Monday.
+Example2: このドラマの初回放送は高視聴率でした。
+Example2_EN: The first episode of this drama had high ratings.
+Example3: 初回は無料で体験できます。
+Example3_EN: You can try it for free the first time.
+
+===word: 白線===
+Nuance: 白く塗られた線のことを指します。道路の車線区分や駐車場の区画、スポーツのコートなどに使われます。
+Example1: 白線の内側に停めてください。
+Example1_EN: Please park inside the white line.
+Example2: 道路の白線に従って運転しましょう。
+Example2_EN: Let's drive according to the white lines on the road.
+Example3: テニスコートの白線が薄くなっていました。
+Example3_EN: The white lines on the tennis court had faded.
+
+===word: 皮膚をかく===
+Nuance: かゆみなどで自分の皮膚を爪でこする動作を指します。日常的な動作の一つです。
+Example1: 蚊に刺された所をかいてしまいました。
+Example1_EN: I scratched where the mosquito bit me.
+Example2: 皮膚をかきすぎると傷になります。
+Example2_EN: Scratching your skin too much will cause wounds.
+Example3: かゆい時は皮膚をかかないでください。
+Example3_EN: Please don't scratch your skin when it itches.
+
+===word: 飛び出す絵本===
+Nuance: ページを開くと立体的な絵が飛び出してくる仕掛け絵本のことを指します。子供向けの本として人気があります。
+Example1: 子供に飛び出す絵本を買ってあげました。
+Example1_EN: I bought a pop-up book for my child.
+Example2: この飛び出す絵本はとても細かい作りです。
+Example2_EN: This pop-up book has very detailed construction.
+Example3: 飛び出す絵本はプレゼントにぴったりです。
+Example3_EN: Pop-up books make perfect gifts.
+
+===word: 割合に===
+Nuance: 予想や基準と比べて、比較的そうであることを表します。文頭や文中で使われ、他の言葉と比較するニュアンスがあります。
+Example1: この仕事は割合に簡単でした。
+Example1_EN: This job was relatively easy.
+Example2: 彼は年齢の割合に若く見えます。
+Example2_EN: He looks young for his age.
+Example3: 値段の割合に品質がいいですね。
+Example3_EN: The quality is good for the price, isn't it?
+
+===word: 自作===
+Nuance: 自分で作った作品や物を指します。料理や工芸品、プログラムなど、様々な分野で使われます。
+Example1: これは私の自作のケーキです。
+Example1_EN: This is a cake I made myself.
+Example2: 自作の小説をコンテストに応募しました。
+Example2_EN: I submitted my self-written novel to a contest.
+Example3: 自作のパソコンを使っています。
+Example3_EN: I use a self-built computer.
+
+===word: 最重要===
+Nuance: 多くのものの中で最も重要であることを表します。最優先で扱うべき事項に対して使われます。
+Example1: これは最重要の案件です。
+Example1_EN: This is the most important matter.
+Example2: 安全は最重要項目です。
+Example2_EN: Safety is the most important item.
+Example3: 最重要課題は何だと思いますか。
+Example3_EN: What do you think is the most important issue?
+
+===word: 伸ばす===
+Nuance: 長くしたり、広げたり、延長したりすることを意味します。体の一部や物、能力など様々なものに対して使えます。
+Example1: 毎日ストレッチで体を伸ばしています。
+Example1_EN: I stretch my body every day with stretching exercises.
+Example2: 髪を伸ばしているので、まとめています。
+Example2_EN: I'm growing my hair, so I tie it up.
+Example3: 語学力を伸ばすために勉強を続けています。
+Example3_EN: I continue studying to improve my language skills.
+
+===word: 低水準===
+Nuance: 基準や平均よりも低いレベルであることを指します。品質や能力、数値など様々な分野で使われます。
+Example1: 今回のテストの点数は低水準でした。
+Example1_EN: The test scores this time were at a low level.
+Example2: この製品の品質は低水準です。
+Example2_EN: The quality of this product is substandard.
+Example3: 低水準のサービスに不満を感じました。
+Example3_EN: I felt dissatisfied with the low level of service.
+
+===word: 時機===
+Nuance: 物事を行うのに適した時期や機会を指します。チャンスやタイミングという意味で使われます。
+Example1: 今が投資の時機だと思います。
+Example1_EN: I think now is the right time to invest.
+Example2: 時機を見て発表しましょう。
+Example2_EN: Let's make the announcement when the time is right.
+Example3: 良い時機を逃さないようにしてください。
+Example3_EN: Please don't miss the right opportunity.
+
+===word: 料亭===
+Nuance: 高級な日本料理を提供する伝統的な飲食店を指します。個室があり、接待や特別な席で利用されることが多いです。
+Example1: 料亭で会食がありました。
+Example1_EN: I had a dinner party at a traditional Japanese restaurant.
+Example2: この料亭は庭も美しいです。
+Example2_EN: This traditional restaurant has a beautiful garden too.
+Example3: 料亭での食事は特別な気分になります。
+Example3_EN: Dining at a traditional Japanese restaurant feels special.
+
+===word: 指令===
+Nuance: 上位の者から下位の者に対して出す公式な命令や指示を指します。軍隊や組織などで使われます。
+Example1: 本部から指令が届きました。
+Example1_EN: An order arrived from headquarters.
+Example2: 指令に従って行動してください。
+Example2_EN: Please act according to the directive.
+Example3: その指令は緊急を要するものです。
+Example3_EN: That directive requires urgent attention.
+
+===word: 山脈===
+Nuance: 連なって続く山々のことを指します。一つの山ではなく、複数の山が連なった地形を表します。
+Example1: この山脈は冬になると雪で覆われます。
+Example1_EN: This mountain range is covered in snow in winter.
+Example2: ヒマラヤ山脈は世界で最も高い山脈です。
+Example2_EN: The Himalayas are the highest mountain range in the world.
+Example3: 山脈を越えるのに三日かかりました。
+Example3_EN: It took three days to cross the mountain range.
+
+===word: 風貌===
+Nuance: 人の外見や顔つき、全体的な印象を指します。容姿だけでなく、その人が醸し出す雰囲気も含みます。
+Example1: 彼は学者らしい風貌をしています。
+Example1_EN: He has the appearance of a scholar.
+Example2: あの人の風貌がとても印象的でした。
+Example2_EN: That person's appearance was very striking.
+Example3: 風貌だけで人を判断してはいけません。
+Example3_EN: You shouldn't judge people by their appearance alone.
+
+===word: 包帯===
+Nuance: 傷口を保護するために巻く布やガーゼのことを指します。医療現場で使われる基本的な処置用品です。
+Example1: 看護師が包帯を巻き替えてくれました。
+Example1_EN: The nurse changed my bandage.
+Example2: 包帯は清潔なものを使用してください。
+Example2_EN: Please use a clean bandage.
+Example3: 怪我をしたので包帯をしてもらいました。
+Example3_EN: I got injured, so I had a bandage put on.
+
+===word: 無能===
+Nuance: 能力がなく、役に立たないことを指します。人に対して使われると強い批判のニュアンスがあります。
+Example1: 彼は無能な上司だと思われています。
+Example1_EN: He is considered an incompetent boss.
+Example2: 無能だと決めつけるのはよくありません。
+Example2_EN: It's not good to dismiss someone as incompetent.
+Example3: 無能な人ほど自分を過大評価する傾向があります。
+Example3_EN: Incompetent people tend to overestimate themselves.
+
+===word: 打倒===
+Nuance: 相手を打ち負かすこと、または倒すことを意味します。スポーツや選挙、競争などの文脈で使われます。
+Example1: 打倒チャンピオンを目指して練習しています。
+Example1_EN: I'm training to defeat the champion.
+Example2: 打倒を目標にチーム一丸となりました。
+Example2_EN: The team united with the goal of defeating the opponent.
+Example3: 打倒を誓って試合に臨みました。
+Example3_EN: I vowed to defeat my opponent as I entered the match.
+
+===word: 股===
+Nuance: 両脚の付け根の部分を指します。人体の部位の名称で、日常会話ではあまり使われないやや改まった言葉です。
+Example1: 股を痛めて歩くのが大変でした。
+Example1_EN: I hurt my groin and had difficulty walking.
+Example2: 股関節のストレッチをしています。
+Example2_EN: I'm doing hip joint stretches.
+Example3: 股の部分がほつれていたので縫いました。
+Example3_EN: The crotch area was frayed, so I sewed it up.
+
+===word: 特定===
+Nuance: 多くのものの中から一つをはっきりと指し示すことを意味します。また、特別に定めるという意味もあります。
+Example1: 特定の相手にだけ連絡しました。
+Example1_EN: I contacted only specific people.
+Example2: 原因を特定するために調査を続けています。
+Example2_EN: We are continuing our investigation to identify the cause.
+Example3: 特定の条件を満たす必要があります。
+Example3_EN: You need to meet specific conditions.
+
+===word: 雑魚===
+Nuance: 価値の低い小魚のこと、または比喩的に地位や能力が低い人を指す軽蔑的な言葉です。
+Example1: この川には雑魚しかいません。
+Example1_EN: There are only small fish in this river.
+Example2: 雑魚扱いされるのが悔しかったです。
+Example2_EN: I was frustrated at being treated like a small fry.
+Example3: 雑魚でも数が集まれば大きな魚に勝てます。
+Example3_EN: Even small fish can defeat a big fish if they gather in numbers.
+
+===word: 招き猫===
+Nuance: 片方の前足を上げた猫の置物で、商売繁盛や幸運を招く縁起物として知られています。
+Example1: 店の入り口に招き猫が置いてあります。
+Example1_EN: A beckoning cat is placed at the entrance of the shop.
+Example2: 招き猫は商売繁盛のシンボルです。
+Example2_EN: The beckoning cat is a symbol of business prosperity.
+Example3: 金色の招き猫をいただきました。
+Example3_EN: I received a gold-colored beckoning cat.

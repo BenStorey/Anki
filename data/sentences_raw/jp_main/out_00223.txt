@@ -1,0 +1,494 @@
+===word: 決断力===
+Nuance: 物事を迷わずに決める能力や、素早く判断する力を指します。ビジネスやリーダーシップの文脈でよく使われるややフォーマルな言葉です。
+Example1: 彼女は決断力のあるリーダーです。
+Example1_EN: She is a decisive leader.
+Example2: 決断力をつけるために、小さなことから自分で決めるようにしています。
+Example2_EN: I try to decide things on my own, starting with small matters, to build decisiveness.
+Example3: この仕事には決断力が求められます。
+Example3_EN: This job requires decisiveness.
+
+===word: 手一杯===
+Nuance: すでにやることが多くて、これ以上何もできない状態を表します。日常会話でよく使われるカジュアルな表現です。
+Example1: 今週は仕事が手一杯で、残業が続いています。
+Example1_EN: I have my hands full with work this week and have been doing overtime.
+Example2: すみません、今は手一杯で新しい案件は受けられません。
+Example2_EN: I'm sorry, but I have my hands full right now and cannot take on a new project.
+Example3: 趣味に使う時間がなくて、手一杯な毎日です。
+Example3_EN: I don't have time for hobbies and every day is packed.
+
+===word: 結晶===
+Nuance: 液体や気体から固体ができること、またはその固体を指します。比喩的には、努力や研究の成果を指すのにも使われるややフォーマルな言葉です。
+Example1: これは長年の研究の結晶です。
+Example1_EN: This is the crystallization of years of research.
+Example2: 塩の結晶は顕微鏡で見ると美しい形をしています。
+Example2_EN: Salt crystals have beautiful shapes when viewed under a microscope.
+Example3: 冬の朝、窓ガラスに氷の結晶ができていました。
+Example3_EN: Ice crystals formed on the window glass on a winter morning.
+
+===word: 好調===
+Nuance: 物事の調子や状態が良く、順調に進んでいることを表します。ビジネスやスポーツ、経済など幅広い場面で使われます。
+Example1: 今月の売り上げは好調です。
+Example1_EN: Sales this month are performing well.
+Example2: 彼のチームは今シーズン好調で、連勝が続いています。
+Example2_EN: His team is in good form this season and has been on a winning streak.
+Example3: 経済の好調がいつまで続くか、専門家の間でも意見が分かれています。
+Example3_EN: Even among experts, opinions are divided on how long the economic boom will last.
+
+===word: 同士===
+Nuance: 同じ属性や立場を持つ人同士の関係を表します。名詞の後ろに付けて「〜同士」の形でよく使われます。
+Example1: クラスメート同士で助け合うことが大切です。
+Example1_EN: It is important for classmates to help each other.
+Example2: 趣味の合う者同士で集まって、サークルを作りました。
+Example2_EN: People with similar hobbies gathered and started a club.
+Example3: 初めて会ったのに、なぜか旧友同士のように感じました。
+Example3_EN: Even though we met for the first time, I somehow felt like we were old friends.
+
+===word: 訓読み===
+Nuance: 漢字の日本語本来の読み方のことで、漢字の意味に基づいた読み方です。漢字学習や国語の授業でよく使われる言葉です。
+Example1: この漢字の訓読みを教えてください。
+Example1_EN: Please tell me the Japanese reading of this kanji.
+Example2: 小学生は訓読みから漢字を覚え始めます。
+Example2_EN: Elementary school students start learning kanji through their Japanese readings.
+Example3: 音読みと訓読みの違いを説明できますか？
+Example3_EN: Can you explain the difference between the on-reading and kun-reading?
+
+===word: 自動販売機===
+Nuance: お金を入れると商品が出てくる機械のことで、飲み物や食べ物、切符などを販売します。日本では街中でよく見かけます。
+Example1: 自動販売機でコーヒーを買いました。
+Example1_EN: I bought coffee from a vending machine.
+Example2: 日本では自動販売機がとても普及しています。
+Example2_EN: Vending machines are very widespread in Japan.
+Example3: この自動販売機はおつりが出ませんのでご注意ください。
+Example3_EN: Please note that this vending machine does not give change.
+
+===word: 閉館===
+Nuance: 図書館や美術館、映画館などの施設がその日の営業を終了することを意味します。フォーマルな場面で使われることが多いです。
+Example1: この美術館は午後五時に閉館します。
+Example1_EN: This museum closes at 5 PM.
+Example2: 閉館間際だったので、急いで展示を見ました。
+Example2_EN: It was almost closing time, so I hurriedly looked at the exhibits.
+Example3: 図書館は毎週月曜日が閉館日です。
+Example3_EN: The library is closed every Monday.
+
+===word: 降りる===
+Nuance: 乗り物から出るときや、高いところから低いところへ移動するときに使います。バスや電車、階段などに使われる日常的な動詞です。
+Example1: 次のバス停で降りてください。
+Example1_EN: Please get off at the next bus stop.
+Example2: 階段を降りるときは手すりにお掴まりください。
+Example2_EN: Please hold the handrail when going down the stairs.
+Example3: この駅で降りるのは初めてです。
+Example3_EN: This is the first time I've gotten off at this station.
+
+===word: 実話===
+Nuance: 実際にあった話や出来事に基づいた話を指します。小説や映画の紹介などでよく使われる言葉です。
+Example1: この映画は実話に基づいています。
+Example1_EN: This movie is based on a true story.
+Example2: 彼の話を聞いて、それが実話だと信じられませんでした。
+Example2_EN: After hearing his story, I couldn't believe it was true.
+Example3: 実話を読むと、人生の厳しさを実感します。
+Example3_EN: Reading true stories makes me feel the harshness of life.
+
+===word: 憎らしい===
+Nuance: 相手の言動に対して腹が立ったり、許せない気持ちになったりする様子を表します。感情を込めた日常的な表現です。
+Example1: 彼のあの態度は本当に憎らしいです。
+Example1_EN: His attitude is really hateful.
+Example2: ずる休みした同僚が憎らしくて仕方ありません。
+Example2_EN: I can't help but feel resentment toward my colleague who skipped work.
+Example3: あの憎らしい笑顔を見ると、イライラします。
+Example3_EN: Seeing that hateful smile makes me irritated.
+
+===word: 行===
+Nuance: 文章や本の中の一続きの文字列を指す言葉で、縦書きの文章では横の列を、横書きでは縦の列を意味します。
+Example1: この段落は十行あります。
+Example1_EN: This paragraph has ten lines.
+Example2: 次の行にあなたの名前を書いてください。
+Example2_EN: Please write your name on the next line.
+Example3: この行の意味がよく分かりません。
+Example3_EN: I don't really understand the meaning of this line.
+
+===word: 速度===
+Nuance: 物事の動く速さの度合いを表します。車や電車などの乗り物の速さや、処理の速さなど、幅広い分野で使われます。
+Example1: この道路の制限速度は時速六十キロです。
+Example1_EN: The speed limit on this road is 60 km/h.
+Example2: 新幹線の速度はとても速いです。
+Example2_EN: The speed of the Shinkansen is very fast.
+Example3: インターネットの速度が遅くて困っています。
+Example3_EN: I'm having trouble with the slow internet speed.
+
+===word: 東京湾===
+Nuance: 東京都や千葉県、神奈川県に囲まれた大きな湾の名前です。東京の地理や観光の話題でよく登場します。
+Example1: 東京湾の景色はとても綺麗です。
+Example1_EN: The view of Tokyo Bay is very beautiful.
+Example2: 東京湾にはたくさんの船が行き交っています。
+Example2_EN: Many ships come and go in Tokyo Bay.
+Example3: 東京湾の埋め立て地に新しい公園ができました。
+Example3_EN: A new park was built on reclaimed land in Tokyo Bay.
+
+===word: 共産主義===
+Nuance: 生産手段を共有し、階級のない社会を目指す政治・経済思想です。政治や歴史の話題で使われるフォーマルな言葉です。
+Example1: 大学で共産主義の歴史について学びました。
+Example1_EN: I studied the history of communism at university.
+Example2: 共産主義と資本主義の違いを説明してください。
+Example2_EN: Please explain the difference between communism and capitalism.
+Example3: 二十世紀は共産主義が多くの国に広がった時代です。
+Example3_EN: The twentieth century was an era when communism spread to many countries.
+
+===word: 高速道路===
+Nuance: 自動車が高速で走行できるように整備された道路のことです。長距離移動や旅行の際によく利用されます。
+Example1: 高速道路を使って大阪まで行きました。
+Example1_EN: I went to Osaka using the expressway.
+Example2: 高速道路の料金は距離によって変わります。
+Example2_EN: The expressway toll varies depending on the distance.
+Example3: 高速道路は渋滞しているので、一般道路を使います。
+Example3_EN: The expressway is congested, so I'll use the regular road.
+
+===word: 外部===
+Nuance: ある範囲や組織の外側のことを指します。会社や学校などの組織の外、または機械や建物の外面を表すときに使われます。
+Example1: この問題は外部の専門家に相談しました。
+Example1_EN: I consulted an outside expert about this issue.
+Example2: 外部からの訪問者は受付でお名前をお書きください。
+Example2_EN: Outside visitors, please write your name at the reception.
+Example3: 建物の外部は来月から改装工事が始まります。
+Example3_EN: Renovation work on the exterior of the building will start next month.
+
+===word: 成長===
+Nuance: 人や組織、植物などが大きくなったり、能力が向上したりすることを意味します。ビジネスや教育など幅広い分野で使われます。
+Example1: この会社はこの十年で大きく成長しました。
+Example1_EN: This company has grown significantly over the past ten years.
+Example2: 子供の成長は本当に早いですね。
+Example2_EN: Children grow up so fast, don't they?
+Example3: この経験を通じて、私は人間として成長できました。
+Example3_EN: Through this experience, I was able to grow as a person.
+
+===word: 宇宙船===
+Nuance: 宇宙空間を飛行するための乗り物のことです。サイエンスフィクションや科学の話題でよく使われます。
+Example1: 宇宙船が月に向かって出発しました。
+Example1_EN: The spaceship departed for the moon.
+Example2: 将来、宇宙船で旅行できるようになるかもしれません。
+Example2_EN: In the future, we may be able to travel by spaceship.
+Example3: この映画に出てくる宇宙船のデザインがかっこいいです。
+Example3_EN: The design of the spaceship in this movie is cool.
+
+===word: 名店===
+Nuance: 評判が良くて有名なお店のことを指します。特に料理や食べ物の店に対して使われることが多いです。
+Example1: この地域には老舗の名店がたくさんあります。
+Example1_EN: There are many famous long-established shops in this area.
+Example2: 友達に紹介されたラーメンの名店に行ってみました。
+Example2_EN: I went to a famous ramen shop that my friend recommended.
+Example3: このケーキ屋さんは全国的にも有名な名店です。
+Example3_EN: This cake shop is a nationally famous establishment.
+
+===word: 脳死===
+Nuance: 脳の機能が完全に停止した状態のことで、医学的な死の定義の一つです。医療や倫理の話題で使われるフォーマルな言葉です。
+Example1: 脳死と心臓死の違いについて説明します。
+Example1_EN: I will explain the difference between brain death and cardiac death.
+Example2: 脳死になった場合の臓器提供について家族で話し合いました。
+Example2_EN: My family discussed organ donation in the event of brain death.
+Example3: 脳死の判定は厳格な基準に基づいて行われます。
+Example3_EN: Brain death determination is made based on strict criteria.
+
+===word: 再婚する===
+Nuance: 一度離婚したり配偶者と死別した後、もう一度結婚することを意味します。日常会話で使われるややフォーマルな言葉です。
+Example1: 彼女は去年、再婚しました。
+Example1_EN: She remarried last year.
+Example2: 父は母が亡くなった後、五年後に再婚しました。
+Example2_EN: My father remarried five years after my mother passed away.
+Example3: 再婚するときは、子供の気持ちも考える必要があります。
+Example3_EN: When remarrying, you need to consider the children's feelings as well.
+
+===word: 埃===
+Nuance: 空気中に浮かぶ細かい粒子や、物の表面に積もった細かい塵のことを指します。掃除や清潔に関する話題でよく使われます。
+Example1: この部屋は埃がたくさん積もっています。
+Example1_EN: A lot of dust has accumulated in this room.
+Example2: 埃を吸い込むと、くしゃみが出ます。
+Example2_EN: I sneeze when I inhale dust.
+Example3: 本棚の埃を拭いて掃除しました。
+Example3_EN: I wiped the dust off the bookshelf and cleaned it.
+
+===word: 吐く===
+Nuance: 口から物を外に出すことを意味し、食べ物を戻す嘔吐や、息を吐き出す動作などに使います。日常的な動詞です。
+Example1: 車酔いして、途中で何度も吐きました。
+Example1_EN: I got carsick and threw up several times along the way.
+Example2: 深く息を吐いてから、ゆっくり吸ってください。
+Example2_EN: Please breathe out deeply, then slowly breathe in.
+Example3: 胃の調子が悪くて、食べたものを吐いてしまいました。
+Example3_EN: My stomach was upset and I vomited what I ate.
+
+===word: 登る===
+Nuance: 高いところに向かって上へ移動することを表します。山や階段、木などに使われる日常的な動詞です。
+Example1: 日曜日に友達と山に登りました。
+Example1_EN: I climbed a mountain with my friend on Sunday.
+Example2: この階段を登ると、展望台があります。
+Example2_EN: If you climb these stairs, there is an observation deck.
+Example3: 子供の頃、よく裏山に登って遊びました。
+Example3_EN: When I was a child, I often climbed the hill behind our house to play.
+
+===word: 句===
+Nuance: 文章の中で一つのまとまりを成す語の連続のことです。文法や文学の授業で使われるややフォーマルな言葉です。
+Example1: この文は三つの句に分けられます。
+Example1_EN: This sentence can be divided into three phrases.
+Example2: 有名な俳句を一つ覚えていますか？
+Example2_EN: Do you remember any famous haiku?
+Example3: この句の意味を辞書で調べてください。
+Example3_EN: Please look up the meaning of this phrase in the dictionary.
+
+===word: 友情===
+Nuance: 友達同士の間の温かい気持ちや絆のことを指します。文学やスピーチなどでよく使われるややフォーマルな言葉です。
+Example1: 彼との友情はもう二十年以上続いています。
+Example1_EN: My friendship with him has lasted over twenty years.
+Example2: 本当の友情は簡単には壊れません。
+Example2_EN: True friendship doesn't break easily.
+Example3: 私たちの友情はこれからも大切にしていきたいです。
+Example3_EN: I want to cherish our friendship from now on.
+
+===word: 賢い===
+Nuance: 頭の回転が速くて、良い判断ができる様子を表します。人や動物の知能や、選択の良さを褒めるときに使います。
+Example1: 彼女はとても賢い学生です。
+Example1_EN: She is a very smart student.
+Example2: 賢い選択をすれば、将来のリスクを減らせます。
+Example2_EN: Making smart choices can reduce future risks.
+Example3: 犬は本当に賢い動物ですね。
+Example3_EN: Dogs are really smart animals, aren't they?
+
+===word: 軍事===
+Nuance: 国や組織の軍隊や戦争に関係する事柄を指します。政治や国際関係のニュースなどでよく使われるフォーマルな言葉です。
+Example1: この国は軍事費を増やしています。
+Example1_EN: This country is increasing its military spending.
+Example2: 軍事に関するニュースは慎重に報道されます。
+Example2_EN: News related to military affairs is reported carefully.
+Example3: 彼は軍事の専門家としてテレビで解説しています。
+Example3_EN: He provides commentary on TV as a military expert.
+
+===word: イケメン===
+Nuance: 顔がかっこいい男性を指すカジュアルな言葉で、若い世代の日常会話でよく使われます。
+Example1: あの俳優は本当にイケメンですね。
+Example1_EN: That actor is really good-looking.
+Example2: クラスにイケメンの転校生が来ました。
+Example2_EN: A good-looking transfer student came to our class.
+Example3: イケメンだからといって、性格も良いとは限りません。
+Example3_EN: Just because someone is good-looking doesn't mean they have a good personality.
+
+===word: ぶつける===
+Nuance: 物を別の物に強く当てる動作や、不満や感情を相手に直接向けることを表します。日常的な動詞です。
+Example1: 車を壁にぶつけてしまいました。
+Example1_EN: I accidentally hit the car against the wall.
+Example2: 頭をドアにぶつけて、たこができました。
+Example2_EN: I hit my head on the door and got a bump.
+Example3: 彼に言いたいことを直接ぶつけることにしました。
+Example3_EN: I decided to tell him directly what I wanted to say.
+
+===word: 大型トラック===
+Nuance: 普通のトラックより大きく、多くの荷物を運べる車両のことです。物流や道路の話題でよく使われます。
+Example1: 大型トラックが高速道路を走っています。
+Example1_EN: A large truck is driving on the expressway.
+Example2: 大型トラックの運転には特別な免許が必要です。
+Example2_EN: A special license is required to drive a large truck.
+Example3: 大型トラックが狭い道を通るときは、とても危険です。
+Example3_EN: It is very dangerous when a large truck goes through a narrow road.
+
+===word: 伝説===
+Nuance: 古くから語り継がれてきた有名な話や、非常に優れた業績を残した人物についての名声を指します。
+Example1: この地域には伝説がたくさん残っています。
+Example1_EN: Many legends remain in this area.
+Example2: 彼のプレーは伝説として語り継がれています。
+Example2_EN: His performance has been passed down as a legend.
+Example3: 伝説の料理人に一度会ってみたいです。
+Example3_EN: I would like to meet the legendary chef at least once.
+
+===word: 忍び===
+Nuance: 相手に気づかれないように行動することや、そのための技術を指します。忍者やスパイのイメージで使われることが多いです。
+Example1: 忍びのように静かに部屋に入りました。
+Example1_EN: I entered the room quietly like a ninja.
+Example2: 彼は忍びの技術を長年修行しました。
+Example2_EN: He trained in the art of stealth for many years.
+Example3: 忍び足で廊下を歩くのは危ないですよ。
+Example3_EN: Walking stealthily in the hallway is dangerous.
+
+===word: アホ===
+Nuance: 愚かな人やばかなことをする人を指すカジュアルな言葉で、関西地方でよく使われます。親しい間柄では冗談としても使います。
+Example1: そんな簡単なことも間違えるなんて、アホみたいです。
+Example1_EN: Making a mistake on something so simple makes me feel like an idiot.
+Example2: 彼はアホなことを言って、みんなを笑わせました。
+Example2_EN: He said something silly and made everyone laugh.
+Example3: アホと言われても、気にしないようにしています。
+Example3_EN: Even if I'm called an idiot, I try not to let it bother me.
+
+===word: 鉄===
+Nuance: 金属の一種で、建築や製造に広く使われる素材です。理科や工業の話題でよく登場します。
+Example1: この橋は鉄でできています。
+Example1_EN: This bridge is made of iron.
+Example2: 鉄は熱いうちに打てということわざがあります。
+Example2_EN: There is a proverb that says strike while the iron is hot.
+Example3: 鉄はリサイクルしやすい素材です。
+Example3_EN: Iron is a material that is easy to recycle.
+
+===word: むしろ===
+Nuance: 二つのことを比べて、どちらかと言えば後者の方が当てはまるという気持ちを表す副詞です。話し言葉でも書き言葉でも使われます。
+Example1: 彼は怒るどころか、むしろ喜んでいました。
+Example1_EN: Far from being angry, he was rather pleased.
+Example2: この方法は簡単ではなく、むしろ難しいです。
+Example2_EN: This method is not easy; rather, it's difficult.
+Example3: 都会よりむしろ田舎の方が住みやすいと思います。
+Example3_EN: I think the countryside is more livable than the city.
+
+===word: 時給===
+Nuance: 一時間あたりの賃金のことを指します。アルバイトやパートの給与形態としてよく使われる日常的な言葉です。
+Example1: この仕事の時給は千二百円です。
+Example1_EN: The hourly wage for this job is 1,200 yen.
+Example2: 時給が高いアルバイトを探しています。
+Example2_EN: I'm looking for a part-time job with a high hourly wage.
+Example3: 時給は経験によって変わります。
+Example3_EN: The hourly wage varies depending on experience.
+
+===word: 戦力===
+Nuance: 戦闘や競争などにおける力の強さや、組織に貢献できる能力のことを指します。軍事やビジネス、スポーツなどで使われます。
+Example1: 新しい選手がチームの戦力になりました。
+Example1_EN: The new player has become an asset to the team.
+Example2: 彼は会社にとって欠かせない戦力です。
+Example2_EN: He is an indispensable asset to the company.
+Example3: この国の軍事戦力は年々強化されています。
+Example3_EN: This country's military strength has been strengthening year by year.
+
+===word: 守備===
+Nuance: スポーツなどで相手の攻撃を防ぐことや、その役割を指します。特に野球やサッカーでよく使われる言葉です。
+Example1: 彼の守備はとても安定しています。
+Example1_EN: His defense is very steady.
+Example2: サッカーの試合では、守備が重要です。
+Example2_EN: In soccer, defense is important.
+Example3: この選手は守備も攻撃も上手です。
+Example3_EN: This player is good at both defense and offense.
+
+===word: 桜===
+Nuance: 日本の春を代表する花で、日本人にとって特別な意味を持つ木です。花見や入学式の季節に話題になります。
+Example1: 桜の花が満開でとても綺麗です。
+Example1_EN: The cherry blossoms are in full bloom and very beautiful.
+Example2: 来週、友達と一緒に桜を見に行きます。
+Example2_EN: I will go see the cherry blossoms with my friends next week.
+Example3: 日本の桜は世界中で有名です。
+Example3_EN: Japan's cherry blossoms are famous all over the world.
+
+===word: 二流===
+Nuance: 一流ほどではないが、二番手の水準にあることを指します。能力や品質に対して使われるやや否定的なニュアンスがあります。
+Example1: 彼の作品は一流とは言えませんが、二流でもありません。
+Example1_EN: His work is not first-rate, but it's not second-rate either.
+Example2: 二流のホテルだったので、サービスはあまり良くなかったです。
+Example2_EN: It was a second-rate hotel, so the service wasn't very good.
+Example3: 二流と言われないように、もっと努力しなければなりません。
+Example3_EN: I have to work harder so I won't be called second-rate.
+
+===word: 寝ぼける===
+Nuance: 眠っている途中や起きたばかりで、意識がはっきりしない状態のことを指します。朝の時間帯によく使われる日常的な言葉です。
+Example1: 朝はよく寝ぼけて、変なことを言ってしまいます。
+Example1_EN: I'm often half-asleep in the morning and say weird things.
+Example2: 子供が寝ぼけて泣いているので、起こさないようにしました。
+Example2_EN: My child was crying in a daze, so I tried not to wake him.
+Example3: 寝ぼけたまま学校に行くと、忘れ物をしやすいです。
+Example3_EN: If you go to school while still half-asleep, you're likely to forget things.
+
+===word: 三角形===
+Nuance: 三つの辺と三つの角を持つ図形のことです。数学の授業で最初に習う基本的な図形の一つです。
+Example1: 三角形の面積の求め方を教えてください。
+Example1_EN: Please teach me how to find the area of a triangle.
+Example2: この三角形は三つの辺の長さが全部同じです。
+Example2_EN: All three sides of this triangle are the same length.
+Example3: 三角形は建築構造としてとても丈夫です。
+Example3_EN: Triangles are very strong as architectural structures.
+
+===word: 多読===
+Nuance: たくさんの本を読むことや、その学習方法を指します。特に外国語学習の分野でよく使われる言葉です。
+Example1: 多読は語学力向上に効果的です。
+Example1_EN: Extensive reading is effective for improving language skills.
+Example2: 毎日三十分の多読を習慣にしています。
+Example2_EN: I make it a habit to do extensive reading for thirty minutes every day.
+Example3: 多読を始めてから、読むスピードが速くなりました。
+Example3_EN: Since I started extensive reading, my reading speed has increased.
+
+===word: 火星人===
+Nuance: 火星に住むと想像される架空の生物のことです。サイエンスフィクションやアニメなどの話題でよく登場します。
+Example1: 子供の頃、火星人がいると思っていました。
+Example1_EN: When I was a child, I thought there were Martians.
+Example2: この映画では火星人が地球に侵略してきます。
+Example2_EN: In this movie, Martians invade Earth.
+Example3: 火星人が本当にいるかどうかは、まだ分かっていません。
+Example3_EN: Whether Martians really exist is still unknown.
+
+===word: 完治する===
+Nuance: 病気や怪我が完全に治ることを意味するフォーマルな言葉で、医療現場でよく使われます。
+Example1: 手術後、一か月で完治しました。
+Example1_EN: I made a full recovery one month after the surgery.
+Example2: この病気は完治するまでに時間がかかります。
+Example2_EN: It takes time to completely recover from this illness.
+Example3: 医者から完治したと言われて、ほっとしました。
+Example3_EN: I was relieved when the doctor told me I had fully recovered.
+
+===word: 脅迫電話===
+Nuance: 相手を脅す内容の電話のことを指します。犯罪や事件のニュースでよく使われるややフォーマルな言葉です。
+Example1: 会社に脅迫電話がかかってきたそうです。
+Example1_EN: I heard that a threatening phone call was made to the company.
+Example2: 脅迫電話を受けた場合は、すぐに警察に連絡してください。
+Example2_EN: If you receive a threatening phone call, please contact the police immediately.
+Example3: 脅迫電話の犯人はまだ捕まっていません。
+Example3_EN: The perpetrator of the threatening phone call has not been caught yet.
+
+===word: 発電===
+Nuance: 電気を作り出すことや、その仕組みのことです。水力発電や太陽光発電など、エネルギーに関する話題でよく使われます。
+Example1: この地域では太陽光発電が盛んです。
+Example1_EN: Solar power generation is popular in this region.
+Example2: 水力発電は環境に優しいエネルギーです。
+Example2_EN: Hydroelectric power is an environmentally friendly energy source.
+Example3: 停電に備えて、自家発電の準備をしています。
+Example3_EN: I'm preparing a private generator in case of a power outage.
+
+===word: 魔導士===
+Nuance: ファンタジー作品などに登場する、魔法を使う人のことを指します。特にゲームやアニメの世界でよく使われる言葉です。
+Example1: このゲームでは魔導士が強い魔法を使えます。
+Example1_EN: In this game, wizards can use powerful magic.
+Example2: 魔導士になるための修行はとても厳しいです。
+Example2_EN: The training to become a wizard is very harsh.
+Example3: 物語の主人公は若い魔導士です。
+Example3_EN: The protagonist of the story is a young wizard.
+
+===word: 本棚===
+Nuance: 本を整理して置くための家具で、家庭や図書館、書店などで使われます。日常的によく使われる言葉です。
+Example1: 新しい本棚を買って、部屋に置きました。
+Example1_EN: I bought a new bookshelf and placed it in my room.
+Example2: 本棚の本を整理したいのですが、時間がありません。
+Example2_EN: I want to organize the books on the bookshelf, but I don't have time.
+Example3: この本棚はとても頑丈で、たくさん本が入ります。
+Example3_EN: This bookshelf is very sturdy and can hold many books.
+
+===word: 恐怖===
+Nuance: とても怖いと感じる気持ちや、その原因となるものを指します。ホラー映画や危険な状況などについて話すときに使われます。
+Example1: 私は高所恐怖症なので、高いところが怖いです。
+Example1_EN: I have acrophobia, so I'm scared of heights.
+Example2: その映画を見て、夜中に恐怖を感じました。
+Example2_EN: I watched that movie and felt terrified in the middle of the night.
+Example3: 恐怖のあまり、声も出ませんでした。
+Example3_EN: I was so terrified that I couldn't even speak.
+
+===word: 交通===
+Nuance: 人や物が道路や鉄道などを通って移動することや、その仕組みを指します。通勤や旅行、街の話題でよく使われます。
+Example1: この辺りは交通の便がとても良いです。
+Example1_EN: This area has very good transportation access.
+Example2: 朝の通勤時間帯は交通が混雑します。
+Example2_EN: Traffic is congested during the morning commute.
+Example3: 交通ルールを守って、安全に運転してください。
+Example3_EN: Please follow traffic rules and drive safely.
+
+===word: 駆け上がる===
+Nuance: 勢いよく走って上の方へ移動することを表します。階段や坂道などで使われる動詞です。
+Example1: 急いでいたので、階段を駆け上がりました。
+Example1_EN: I was in a hurry, so I ran up the stairs.
+Example2: 子供たちが坂道を楽しそうに駆け上がっていきます。
+Example2_EN: The children are happily running up the hill.
+Example3: 駅のホームに駆け上がったら、電車が行ってしまいました。
+Example3_EN: When I ran up to the platform, the train had already left.
+
+===word: 最大===
+Nuance: 数量や程度が最も大きいことを表します。サイズや数値、能力などを比較するときに使われる日常的な言葉です。
+Example1: この箱の最大の長さは五十センチです。
+Example1_EN: The maximum length of this box is 50 centimeters.
+Example2: この会場の最大収容人数は五百人です。
+Example2_EN: The maximum capacity of this venue is 500 people.
+Example3: 最大の努力をしても、間に合わないかもしれません。
+Example3_EN: Even with maximum effort, we might not make it in time.

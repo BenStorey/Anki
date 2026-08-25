@@ -1,0 +1,539 @@
+===word: 保険===
+Nuance: 病気や事故、災害などに備えて、あらかじめお金を払っておき、実際に損害が生じたときに給付金を受け取ることができる制度です。金融や生活の場面でよく使われる言葉です。
+Example1: 私は毎月、生命保険の料金を支払っています。
+Example1_EN: I pay my life insurance premium every month.
+Example2: この保険は医療費をカバーしてくれます。
+Example2_EN: This insurance covers medical expenses.
+Example3: 保険の加入を検討されていますか？
+Example3_EN: Are you considering taking out insurance?
+
+===word: 創設する===
+Nuance: 新しい組織や施設、制度などを初めて作り上げることを意味します。特に学校や病院、会社などを設立する際に使われる、ややフォーマルな動詞です。
+Example1: 彼は昨年、財団を創設しました。
+Example1_EN: He founded a foundation last year.
+Example2: この学校は明治時代に創設されました。
+Example2_EN: This school was founded in the Meiji era.
+Example3: 新しい研究機関を創設する予定です。
+Example3_EN: We are planning to establish a new research institute.
+
+===word: 教育===
+Nuance: 知識や技能、道徳などを教え育てることを指します。学校での学習だけでなく、家庭や社会での学びも含む広い概念です。
+Example1: 教育は子供の未来を形作る重要なものです。
+Example1_EN: Education is important for shaping children's futures.
+Example2: 私は大学で教育について学びました。
+Example2_EN: I studied education at university.
+Example3: この国では教育の機会が平等に与えられています。
+Example3_EN: In this country, educational opportunities are provided equally.
+
+===word: 奇数===
+Nuance: 2で割り切れない整数のことで、1、3、5、7などの数を指します。数学の授業や日常生活で使われる基本的な用語です。
+Example1: この部屋の番号は奇数です。
+Example1_EN: This room number is an odd number.
+Example2: 奇数と偶数の違いを説明してください。
+Example2_EN: Please explain the difference between odd and even numbers.
+Example3: 私の席は奇数の列にあります。
+Example3_EN: My seat is in an odd-numbered row.
+
+===word: 飼育===
+Nuance: 動物を世話し、育てることを意味します。ペットから家畜、動物園の動物まで、幅広い動物に対して使われます。
+Example1: この動物園ではパンダを飼育しています。
+Example1_EN: This zoo breeds and raises pandas.
+Example2: 私は子供の頃、ウサギを飼育していました。
+Example2_EN: I raised rabbits when I was a child.
+Example3: 飼育には十分な知識と経験が必要です。
+Example3_EN: Raising animals requires sufficient knowledge and experience.
+
+===word: 県外===
+Nuance: 自分の住んでいる県の外側、つまり他の県を指します。旅行や通勤、転勤などの場面でよく使われる言葉です。
+Example1: 私は来月、県外に引っ越します。
+Example1_EN: I will move outside the prefecture next month.
+Example2: 県外から通っている学生も多いです。
+Example2_EN: Many students commute from outside the prefecture.
+Example3: この製品は県外でも販売されていますか？
+Example3_EN: Is this product also sold outside the prefecture?
+
+===word: 自己満足===
+Nuance: 自分の行いや状態に自分自身で満足することを意味します。他人の評価とは関係なく、自分だけで満足している様子を表すことが多いです。ややネガティブなニュアンスで使われることもあります。
+Example1: それはただの自己満足に過ぎません。
+Example1_EN: That is nothing more than self-satisfaction.
+Example2: 自己満足で終わらないように気をつけています。
+Example2_EN: I am careful not to end up with just self-satisfaction.
+Example3: 彼の作品は自己満足の域を出ていません。
+Example3_EN: His work does not go beyond the realm of self-satisfaction.
+
+===word: 裁判所===
+Nuance: 法律に基づいて裁判を行い、争いごとを解決する国家機関です。民事、刑事、家庭などのさまざまな種類の裁判所があります。
+Example1: 裁判所から呼び出し状が届きました。
+Example1_EN: A summons arrived from the court.
+Example2: この問題は裁判所で争うことになりました。
+Example2_EN: This matter will be contested in court.
+Example3: 裁判所の判決は来月下されます。
+Example3_EN: The court's verdict will be handed down next month.
+
+===word: 昭和===
+Nuance: 日本の元号の一つで、1926年から1989年までの期間を指します。この時代の文化や出来事を語る際によく使われます。
+Example1: 昭和は長い平和な時代でした。
+Example1_EN: The Showa era was a long period of peace.
+Example2: 私の両親は昭和の時代に生まれました。
+Example2_EN: My parents were born in the Showa era.
+Example3: 昭和の映画は今でも人気がありますね。
+Example3_EN: Showa-era movies are still popular, aren't they?
+
+===word: 資本主義===
+Nuance: 個人や企業が自由に経済活動を行い、利益を追求する経済体制です。市場経済や私有財産制を特徴とします。政治や経済の議論でよく使われる用語です。
+Example1: 資本主義社会では競争が重要です。
+Example1_EN: Competition is important in a capitalist society.
+Example2: 資本主義の仕組みについて勉強しています。
+Example2_EN: I am studying how capitalism works.
+Example3: 資本主義と社会主義の違いを教えてください。
+Example3_EN: Please tell me the difference between capitalism and socialism.
+
+===word: 下旬===
+Nuance: 月の20日ごろから月末までの期間を指します。上旬、中旬と並んで、月の三分割の一つとして使われます。ビジネスや日常でよく使われる表現です。
+Example1: この仕事は来月下旬までに終わらせます。
+Example1_EN: I will finish this work by the end of next month.
+Example2: 下旬になると天気が不安定になります。
+Example2_EN: The weather becomes unstable toward the end of the month.
+Example3: 商品は三月下旬に入荷する予定です。
+Example3_EN: The products are scheduled to arrive in late March.
+
+===word: 乗り降り===
+Nuance: 乗り物に乗ることと降りることをまとめて指す言葉です。バスや電車、タクシーなどの交通機関の利用時に使われます。
+Example1: バスの乗り降りは後ろのドアからお願いします。
+Example1_EN: Please board and exit the bus from the rear door.
+Example2: この駅では電車の乗り降りがスムーズです。
+Example2_EN: Boarding and alighting from trains is smooth at this station.
+Example3: 乗り降りの際は、足元にご注意ください。
+Example3_EN: Please watch your step when boarding and alighting.
+
+===word: 方法===
+Nuance: 何かを行うためのやり方や手段を指します。具体的な手順から抽象的なアプローチまで、幅広い状況で使われる非常に一般的な名詞です。
+Example1: この問題の解決方法を教えてください。
+Example1_EN: Please tell me the method for solving this problem.
+Example2: もっと効率的な方法はありませんか？
+Example2_EN: Isn't there a more efficient way?
+Example3: 私は自分の方法で仕事を進めたいです。
+Example3_EN: I want to proceed with my work in my own way.
+
+===word: 用例===
+Nuance: 言葉や表現の使い方を示す具体的な例を指します。辞書や教科書などで、単語の意味を説明する際に使われる実例のことです。
+Example1: この辞書には豊富な用例が載っています。
+Example1_EN: This dictionary contains abundant usage examples.
+Example2: 用例を見ながら単語の意味を覚えましょう。
+Example2_EN: Let's learn the meaning of words while looking at usage examples.
+Example3: その言葉の用例を三つ挙げてください。
+Example3_EN: Please give three usage examples of that word.
+
+===word: 落第生===
+Nuance: 試験や進級の基準に達せず、次の学年に進めなかった学生を指します。やや古い響きのある言葉で、現在は「留年生」の方が一般的です。
+Example1: 彼は一年間落第生として過ごしました。
+Example1_EN: He spent a year as a student who failed to advance.
+Example2: 落第生にならないようにしっかり勉強しましょう。
+Example2_EN: Let's study hard so we don't become a repeat student.
+Example3: あのクラスには落第生が三人います。
+Example3_EN: There are three repeating students in that class.
+
+===word: 効果===
+Nuance: ある行動や原因によって生じた結果や効き目を意味します。薬の効能から広告の効果まで、幅広い分野で使われます。
+Example1: この薬は副作用が少なく、効果が高いです。
+Example1_EN: This medicine has few side effects and is highly effective.
+Example2: 新しい広告キャンペーンの効果が出てきました。
+Example2_EN: The new advertising campaign is starting to show results.
+Example3: どのような効果が期待できますか？
+Example3_EN: What kind of effects can we expect?
+
+===word: 数える===
+Nuance: 物の数量を一つずつ確認しながら、数字を当てはめていく動作を指します。数える対象は具体的な物から抽象的なものまで様々です。
+Example1: お金を数えるときは慎重にしてください。
+Example1_EN: Please count the money carefully.
+Example2: 子供たちは指を使って数を数えています。
+Example2_EN: The children are counting numbers using their fingers.
+Example3: この箱の中のリンゴを数えてみてください。
+Example3_EN: Please try counting the apples in this box.
+
+===word: 放射能===
+Nuance: 放射性物質が放射線を出す能力や性質を指します。原子力や医療、科学の分野で使われる専門用語ですが、ニュースなどでもよく耳にします。
+Example1: 放射能の影響について専門家が説明しました。
+Example1_EN: An expert explained the effects of radioactivity.
+Example2: この地域の放射能レベルは安全です。
+Example2_EN: The radioactivity level in this area is safe.
+Example3: 放射能を測定する機械をご覧ください。
+Example3_EN: Please take a look at the machine that measures radioactivity.
+
+===word: 豪雪===
+Nuance: 非常に多くの雪が降ることを指します。特に日本海側の地域で使われる気象用語で、ニュースや天気予報でよく見かけます。
+Example1: 今年の冬は豪雪で大変でした。
+Example1_EN: This winter was tough due to heavy snowfall.
+Example2: 豪雪のため、学校が休校になりました。
+Example2_EN: School was closed due to heavy snowfall.
+Example3: この地域は毎年豪雪に見舞われます。
+Example3_EN: This region is hit by heavy snowfall every year.
+
+===word: 選考に落ちる===
+Nuance: 採用試験や審査などの選考過程で、不合格になることを意味します。就職活動や入学試験など、競争がある場面で使われる表現です。
+Example1: 彼は面接の選考に落ちてしまいました。
+Example1_EN: He failed the selection process after the interview.
+Example2: 選考に落ちた理由を聞いてもいいですか？
+Example2_EN: May I ask why I was not selected?
+Example3: 選考に落ちても、また次に挑戦します。
+Example3_EN: Even if I'm not selected, I'll try again next time.
+
+===word: 冷たい===
+Nuance: 温度が低くて、触ると冷たさを感じる状態を指します。また、比喩的に人の態度や対応が優しくない場合にも使われます。
+Example1: この水は冷たくてとても気持ちがいいです。
+Example1_EN: This water is cold and feels very nice.
+Example2: 彼女の冷たい態度に傷つきました。
+Example2_EN: I was hurt by her cold attitude.
+Example3: 冷たい飲み物が欲しいです。
+Example3_EN: I want a cold drink.
+
+===word: 資料===
+Nuance: 調べ物や研究、発表などのために集められた情報や材料を指します。書類やデータ、画像など、形式は様々です。ビジネスや学術の場でよく使われます。
+Example1: 会議の資料を準備しました。
+Example1_EN: I have prepared the materials for the meeting.
+Example2: この資料はインターネットで見つけました。
+Example2_EN: I found this material on the internet.
+Example3: 資料を基にプレゼンテーションを行います。
+Example3_EN: I will give a presentation based on the materials.
+
+===word: 選挙区===
+Nuance: 選挙を行う際に、地域ごとに区切られた区域を指します。国会議員や地方議員を選ぶときに、有権者が投票する区域の単位です。
+Example1: この選挙区は人口が増えています。
+Example1_EN: The population of this electoral district is increasing.
+Example2: 選挙区ごとに候補者が異なります。
+Example2_EN: The candidates differ by electoral district.
+Example3: 私の選挙区では新しい候補者が立候補しました。
+Example3_EN: A new candidate has entered the race in my electoral district.
+
+===word: 初耳===
+Nuance: ある情報や話を初めて聞くことを意味する口語表現です。驚きや意外性を伴って使われることが多いです。
+Example1: その話は初耳です。
+Example1_EN: That's the first I've heard of it.
+Example2: そんな規則があるのは初耳でした。
+Example2_EN: It was the first time I'd heard that such a rule exists.
+Example3: 彼が結婚したという話は初耳ですが、本当ですか？
+Example3_EN: This is the first I've heard that he got married — is it true?
+
+===word: 反面教師===
+Nuance: 悪い行いや失敗をしている人を見て、自分はそうならないように学ぶべき教訓とすることを指します。そのような人自体を指すこともあります。
+Example1: 彼の行動は反面教師として役立ちました。
+Example1_EN: His actions served as a lesson in how not to behave.
+Example2: 失敗した経験を反面教師にしています。
+Example2_EN: I treat my past failures as lessons for what not to do.
+Example3: 反面教師になるような人には注意しましょう。
+Example3_EN: Let's be careful of people who serve as negative examples.
+
+===word: 無言===
+Nuance: 何も言わないこと、声を出さないことを指します。沈黙の状態を表す名詞で、連体形の「無言の」としてもよく使われます。
+Example1: 彼は無言で部屋を出ていきました。
+Example1_EN: He left the room without saying a word.
+Example2: 無言のまま会議が終わりました。
+Example2_EN: The meeting ended in silence.
+Example3: 無言の圧力を感じました。
+Example3_EN: I felt silent pressure.
+
+===word: 制服===
+Nuance: 学校や会社、組織などで、その構成員が一定の規則に従って着用する衣服を指します。識別や統一感を目的としています。
+Example1: この学校では制服の着用が義務付けられています。
+Example1_EN: Wearing a uniform is mandatory at this school.
+Example2: 新しい制服のデザインが発表されました。
+Example2_EN: The design of the new uniform has been announced.
+Example3: 制服を着ると気持ちが引き締まります。
+Example3_EN: Wearing a uniform makes me feel more focused.
+
+===word: 時期===
+Nuance: あることが行われる特定の時点や期間を指します。季節やタイミング、期間など、時間に関する幅広い概念を表します。
+Example1: 桜の時期に日本を訪れたいです。
+Example1_EN: I want to visit Japan during cherry blossom season.
+Example2: この仕事は忙しい時期に入っています。
+Example2_EN: This work is entering a busy period.
+Example3: 申し込みの時期はいつですか？
+Example3_EN: When is the application period?
+
+===word: 国々===
+Nuance: 複数の国をまとめて指す言葉です。同じ漢字を重ねて複数形を表す日本語の特徴的な表現です。
+Example1: アジアの国々を旅行しました。
+Example1_EN: I traveled to various Asian countries.
+Example2: 世界各国々から観光客が集まります。
+Example2_EN: Tourists gather from countries all over the world.
+Example3: 発展途上の国々を支援することが大切です。
+Example3_EN: It is important to support developing countries.
+
+===word: 物体===
+Nuance: 形を持って空間に存在するもの全般を指します。固体だけでなく、液体や気体も含むことがある物理的な概念です。
+Example1: この物体は何でできていますか？
+Example1_EN: What is this object made of?
+Example2: 物体の重さを測ってみましょう。
+Example2_EN: Let's measure the weight of the object.
+Example3: あの物体は異常に光っていますね。
+Example3_EN: That object is glowing strangely, isn't it?
+
+===word: 温野菜===
+Nuance: 加熱して温かくなった野菜を指します。サラダや付け合わせとして、生野菜と区別する際に使われる言葉です。
+Example1: 温野菜は体に優しいです。
+Example1_EN: Warm vegetables are gentle on the body.
+Example2: このサラダは温野菜を使っています。
+Example2_EN: This salad uses warm vegetables.
+Example3: 温野菜をたくさん食べるようにしています。
+Example3_EN: I try to eat plenty of warm vegetables.
+
+===word: 灰皿===
+Nuance: タバコの灰を入れるための容器です。喫煙所やテーブルの上などに置かれています。
+Example1: 灰皿をテーブルの上に置いてください。
+Example1_EN: Please put the ashtray on the table.
+Example2: この灰皿は陶器でできています。
+Example2_EN: This ashtray is made of ceramic.
+Example3: 灰皿はどこにありますか？
+Example3_EN: Where is the ashtray?
+
+===word: 連れ===
+Nuance: 一緒に行動する相手や仲間を指します。特に、誰かを連れて行くときのその相手を表すカジュアルな表現です。
+Example1: 彼女は私の連れです。
+Example1_EN: She is with me.
+Example2: 連れの者が駐車場で待っています。
+Example2_EN: The person with me is waiting in the parking lot.
+Example3: お連れ様は何名様ですか？
+Example3_EN: How many people are in your party?
+
+===word: 褒め言葉===
+Nuance: 人を褒めるときに使う言葉や表現を指します。称賛や賞賛の気持ちを伝えるための言葉です。
+Example1: 彼女から素敵な褒め言葉をもらいました。
+Example1_EN: I received a lovely compliment from her.
+Example2: 褒め言葉は人間関係をよくします。
+Example2_EN: Compliments improve relationships.
+Example3: その褒め言葉に感動しました。
+Example3_EN: I was moved by that compliment.
+
+===word: 家電製品===
+Nuance: 家庭で使われる電気機器の総称です。冷蔵庫、洗濯機、テレビ、掃除機など、日常生活に欠かせない製品を指します。
+Example1: 新しい家電製品を買いました。
+Example1_EN: I bought a new home appliance.
+Example2: この店では様々な家電製品を扱っています。
+Example2_EN: This store carries various home appliances.
+Example3: 家電製品のエネルギー効率が良くなりましたね。
+Example3_EN: Home appliances have become more energy-efficient, haven't they?
+
+===word: 実例===
+Nuance: 実際にあった具体的な例を指します。理論や説明を裏付けるために、実際の事例を示す際に使われます。
+Example1: この問題の実例を紹介します。
+Example1_EN: I will introduce a real example of this problem.
+Example2: 実例を挙げながら説明してください。
+Example2_EN: Please explain while giving concrete examples.
+Example3: その理論の実例を見つけました。
+Example3_EN: I found a real-world example of that theory.
+
+===word: 求める===
+Nuance: 欲しいものや必要なものを探し、得ようとすることを意味します。仕事や情報、解決策など、対象は幅広いです。
+Example1: 私は新しい仕事を求めています。
+Example1_EN: I am seeking a new job.
+Example2: 彼は真実を求めているのです。
+Example2_EN: He is seeking the truth.
+Example3: お客様のご意見を求めております。
+Example3_EN: We are seeking our customers' opinions.
+
+===word: 学生自身===
+Nuance: 学生本人、つまり学生そのものを指す表現です。「自身」を付けることで、他人ではなくその学生本人であることを強調します。
+Example1: 学生自身がこの企画を考えました。
+Example1_EN: The students themselves came up with this plan.
+Example2: 問題は学生自身が解決すべきです。
+Example2_EN: The students themselves should solve the problem.
+Example3: 学生自身の意思を尊重します。
+Example3_EN: We respect the students' own intentions.
+
+===word: 株===
+Nuance: 株式会社の所有権を表す単位で、株式市場で売買されます。また、植物の根元の部分や、植物の単位も指します。投資や経済の話題でよく使われます。
+Example1: 私は株を始めました。
+Example1_EN: I started investing in stocks.
+Example2: この会社の株は値上がりしています。
+Example2_EN: The stock of this company is rising.
+Example3: 株の取引にはリスクが伴います。
+Example3_EN: Stock trading involves risk.
+
+===word: 重病===
+Nuance: 命に関わるほど症状が重い病気を指します。軽い病気と区別して、深刻な健康状態を表す際に使われます。
+Example1: 彼は重病のため入院しました。
+Example1_EN: He was hospitalized due to a serious illness.
+Example2: 重病の場合、すぐに大きな病院に行ったほうがいいです。
+Example2_EN: In the case of a serious illness, you should go to a large hospital immediately.
+Example3: 重病から回復して良かったです。
+Example3_EN: I'm glad he recovered from his serious illness.
+
+===word: いじめる===
+Nuance: 弱い立場の人に対して、意図的に苦痛や不快感を与える行為を指します。学校や職場などでの深刻な問題として扱われることが多いです。
+Example1: クラスメートをいじめてはいけません。
+Example1_EN: You must not bully your classmates.
+Example2: 彼は子供の頃よくいじめられていました。
+Example2_EN: He was often bullied as a child.
+Example3: いじめられる側の気持ちを考えてください。
+Example3_EN: Please consider the feelings of those being bullied.
+
+===word: 受付===
+Nuance: 会社や病院、ホテルなどで、来客の対応や案内を行う場所や係の人を指します。また、申し込みや書類を受け付ける行為も意味します。
+Example1: 受付で名前を伝えてください。
+Example1_EN: Please give your name at the reception desk.
+Example2: 受付の方が親切に案内してくれました。
+Example2_EN: The receptionist kindly guided me.
+Example3: 申し込みの受付は明日までです。
+Example3_EN: The application deadline is tomorrow.
+
+===word: 印象付ける===
+Nuance: 人や物事に対して、強い印象やイメージを心に残すことを意味します。意識的に相手に何かを伝えたいときに使われます。
+Example1: 彼のスピーチは聴衆に強い印象を付けました。
+Example1_EN: His speech made a strong impression on the audience.
+Example2: 第一印象を印象付けるのは大切です。
+Example2_EN: It's important to leave a good first impression.
+Example3: その映画は私に忘れられない印象を付けました。
+Example3_EN: That movie left an unforgettable impression on me.
+
+===word: 場外===
+Nuance: 競技場や試合会場などの外側の区域を指します。特に相撲や野球などのスポーツで使われることが多いです。
+Example1: 場外で待っている人がたくさんいます。
+Example1_EN: There are many people waiting outside the venue.
+Example2: 場外にも観客が集まっていました。
+Example2_EN: Spectators had gathered outside the venue as well.
+Example3: 場外での販売も行っています。
+Example3_EN: We are also selling outside the venue.
+
+===word: 管理職===
+Nuance: 組織の中で、部下を管理し指導する立場にある人を指します。会社の課長や部長などが該当します。
+Example1: 彼は今年から管理職に昇進しました。
+Example1_EN: He was promoted to a management position this year.
+Example2: 管理職には責任が伴います。
+Example2_EN: Management positions come with responsibility.
+Example3: 管理職の研修を受けています。
+Example3_EN: I am receiving training for management positions.
+
+===word: 死亡===
+Nuance: 人が亡くなることを指す、形式的で客観的な表現です。医療や統計、保険などの公式な場面で使われます。
+Example1: 事故による死亡者が増えています。
+Example1_EN: The number of deaths from accidents is increasing.
+Example2: 死亡の原因を調査しています。
+Example2_EN: We are investigating the cause of death.
+Example3: 死亡届は役所に提出してください。
+Example3_EN: Please submit the death notification to the municipal office.
+
+===word: 圧倒的な===
+Nuance: 他のものを完全に押さえ込むほど、力や規模が非常に大きいことを表す形容動詞です。実力差や存在感がはっきりしている場合に使います。
+Example1: 彼の実力は圧倒的です。
+Example1_EN: His ability is overwhelming.
+Example2: あのチームは圧倒的な強さを見せました。
+Example2_EN: That team showed overwhelming strength.
+Example3: その景色は圧倒的な美しさでした。
+Example3_EN: That scenery was of overwhelming beauty.
+
+===word: 竹===
+Nuance: 細長く伸びる茎を持つ植物で、日本では古くから建材や工芸品、食材として利用されてきました。
+Example1: この庭には竹が植えてあります。
+Example1_EN: Bamboo is planted in this garden.
+Example2: 竹を使って籠を編みました。
+Example2_EN: I wove a basket using bamboo.
+Example3: 竹の子は春の味覚ですね。
+Example3_EN: Bamboo shoots are a taste of spring, aren't they?
+
+===word: 連休===
+Nuance: 休みが続けて何日もある期間を指します。ゴールデンウィークやお盆、年末年始などのまとまった休暇のことです。
+Example1: 連休はどこかへ旅行に行きますか？
+Example1_EN: Are you going somewhere on vacation during the consecutive holidays?
+Example2: 連休中はどこも混んでいますね。
+Example2_EN: Everywhere is crowded during the consecutive holidays, isn't it?
+Example3: 今年の連休は特に長いです。
+Example3_EN: The consecutive holidays this year are especially long.
+
+===word: 蒸し暑い===
+Nuance: 気温が高いだけでなく湿度も高く、不快に感じる天候を表す形容詞です。日本の夏の特徴的な気候を表現するのに使われます。
+Example1: 今日は蒸し暑いですね。
+Example1_EN: It's humid and hot today, isn't it?
+Example2: 蒸し暑い日は冷たい麦茶が美味しいです。
+Example2_EN: Cold barley tea tastes good on humid summer days.
+Example3: 蒸し暑いのでエアコンをつけました。
+Example3_EN: It's so humid and hot that I turned on the air conditioner.
+
+===word: 本年===
+Nuance: 「今年」をより改まった言い方で表した言葉です。ビジネス文書や公式な挨拶などで使われます。
+Example1: 本年もどうぞよろしくお願いいたします。
+Example1_EN: We look forward to your continued support this year.
+Example2: 本年の売上目標を達成しました。
+Example2_EN: We achieved this year's sales target.
+Example3: 本年の計画について説明します。
+Example3_EN: I will explain this year's plan.
+
+===word: 選考委員会===
+Nuance: 応募者や候補者の中から、特定の人を選ぶために設置された委員会を指します。採用や賞の選定などの場面で使われます。
+Example1: 選考委員会で審査が行われました。
+Example1_EN: The selection committee conducted the review.
+Example2: 選考委員会の結果は来週発表されます。
+Example2_EN: The results of the selection committee will be announced next week.
+Example3: 選考委員会のメンバーに選ばれました。
+Example3_EN: I was selected as a member of the selection committee.
+
+===word: 英文===
+Nuance: 英語で書かれた文章や文書を指します。英語の手紙やメール、記事など、英語で書かれたもの全般を表します。
+Example1: この英文を日本語に翻訳してください。
+Example1_EN: Please translate this English text into Japanese.
+Example2: 彼は難しい英文でもすらすら読めます。
+Example2_EN: He can read even difficult English texts fluently.
+Example3: 英文の書き方を教えてもらいました。
+Example3_EN: I was taught how to write in English.
+
+===word: 地下室===
+Nuance: 建物の地面より下の階にある部屋のことを指します。収納や倉庫、趣味の部屋などとして使われることが多いです。
+Example1: 地下室にワインを保管しています。
+Example1_EN: I store wine in the basement.
+Example2: この家には地下室があります。
+Example2_EN: This house has a basement.
+Example3: 地下室はとても涼しいです。
+Example3_EN: The basement is very cool.
+
+===word: 訪ねる===
+Nuance: 人に会うためにその人の家や職場に行くことを意味します。友人や知人を訪問する際に使われる丁寧な動詞です。
+Example1: 明日、友達を訪ねます。
+Example1_EN: I will visit a friend tomorrow.
+Example2: 先生を訪ねて学校に行きました。
+Example2_EN: I went to school to visit my teacher.
+Example3: 彼を訪ねるのは久しぶりです。
+Example3_EN: It's been a long time since I visited him.
+
+===word: 長生き===
+Nuance: 平均より長く生きることを指します。健康や幸福の象徴として、お祝いの言葉などでも使われます。
+Example1: 祖母は九十歳まで長生きしました。
+Example1_EN: My grandmother lived a long life until the age of ninety.
+Example2: 長生きの秘訣は何ですか？
+Example2_EN: What is the secret to a long life?
+Example3: 長生きしたいなら、健康的な生活を送りましょう。
+Example3_EN: If you want to live a long life, live healthily.
+
+===word: 泣き虫===
+Nuance: ちょっとしたことですぐ泣く人を指す言葉です。特に子供に対して使われることが多い、やや軽いニュアンスの表現です。
+Example1: 彼女は子供の頃、泣き虫でした。
+Example1_EN: She was a crybaby when she was a child.
+Example2: 泣き虫だなんて言わないでください。
+Example2_EN: Please don't call me a crybaby.
+Example3: 泣き虫の弟も成長しましたね。
+Example3_EN: My little brother, who used to be a crybaby, has grown up, hasn't he.
+
+===word: 一見===
+Nuance: 一見、最初に見たときや一見しただけで判断することを意味します。実際はそうでない可能性を含む、副詞的な使い方をされることが多いです。
+Example1: 一見簡単そうに見えますが、実は難しいです。
+Example1_EN: At first glance it looks easy, but it's actually difficult.
+Example2: 一見して彼が嘘をついていることがわかりました。
+Example2_EN: I could tell at a glance that he was lying.
+Example3: 一見すると普通の家ですが、中は広いです。
+Example3_EN: At first glance it's an ordinary house, but inside it's spacious.
+
+===word: 醜い===
+Nuance: 見た目が美しくないこと、または心や行いが卑劣であることを表す形容詞です。外見だけでなく、内面の形容にも使われます。
+Example1: その建物は醜いデザインだと思います。
+Example1_EN: I think that building has an ugly design.
+Example2: 醜い噂を流すのはやめてください。
+Example2_EN: Please stop spreading ugly rumors.
+Example3: 彼の醜い態度にはがっかりしました。
+Example3_EN: I was disappointed by his ugly attitude.
+
+===word: 役人===
+Nuance: 国や地方公共団体で働く公務員を指します。特に行政の仕事に携わる人を指すことが多い、やや古い響きのある言葉です。
+Example1: 役人の仕事は地域の安全を守ることです。
+Example1_EN: The job of public officials is to protect the safety of the community.
+Example2: 彼は市役所の役人です。
+Example2_EN: He is a public official at the city hall.
+Example3: 役人の説明は分かりにくかったです。
+Example3_EN: The public official's explanation was difficult to understand.

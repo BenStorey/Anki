@@ -1,0 +1,629 @@
+===word: 語彙===
+Nuance: 「語彙」は、ある言語や個人が持っている単語の集合を指します。語彙力（ごいりょく）という形で、「どれだけ多くの単語を知っているか」という意味でもよく使われます。学術的・教育的な文脈で用いられることが多いです。
+Example1: 日本語の語彙を増やすために、毎日新しい単語を覚えています。
+Example1_EN: I study new words every day to expand my Japanese vocabulary.
+Example2: この本はビジネスに役立つ語彙がたくさん載っています。
+Example2_EN: This book contains a lot of vocabulary useful for business.
+Example3: 彼は語彙が豊富で、スピーチがとても分かりやすいです。
+Example3_EN: He has a rich vocabulary, so his speeches are very easy to understand.
+
+===word: 慣らす===
+Nuance: 「慣らす」は、何かを新しい状態や環境に徐々に適応させることを意味します。機械の「慣らし運転」や、靴を「履き慣らす」など、時間をかけて馴染ませるニュアンスがあります。
+Example1: 新しい靴を履き慣らすのに、しばらく時間がかかります。
+Example1_EN: It takes a while to break in new shoes.
+Example2: エンジンを十分に慣らしてから、高速道路を使いましょう。
+Example2_EN: After properly breaking in the engine, let's use the highway.
+Example3: 子犬を新しい環境に慣らすのは、根気が必要です。
+Example3_EN: It takes patience to accustom a puppy to a new environment.
+
+===word: 製造業===
+Nuance: 「製造業」は、原材料を加工して製品を作り出す産業のことです。自動車、電機、食品など幅広い分野を含み、第二次産業の中核をなします。日本の経済を支える重要な産業分野です。
+Example1: 製造業では、品質管理が非常に重要です。
+Example1_EN: Quality control is very important in the manufacturing industry.
+Example2: 私の父は製造業で働いています。
+Example2_EN: My father works in the manufacturing industry.
+Example3: 最近、製造業でもAIの導入が進んでいます。
+Example3_EN: Recently, the introduction of AI is also progressing in the manufacturing industry.
+
+===word: 至聖所===
+Nuance: 「至聖所」は、ユダヤ教の神殿で最も神聖な場所を指す言葉です。一般には「最も神聖な場所」「核心的な領域」という比喩としても使われます。非常にフォーマルで、宗教的・文学的な文脈で用いられます。
+Example1: 至聖所には、年に一度だけ大祭司が入ることが許されていました。
+Example1_EN: The high priest was permitted to enter the Holy of Holies only once a year.
+Example2: 彼にとって、その書斎はまるで至聖所のような場所でした。
+Example2_EN: For him, that study was like a sanctum sanctorum.
+Example3: 神殿の至聖所は、金の装飾で美しく飾られていました。
+Example3_EN: The Holy of Holies in the temple was beautifully decorated with gold ornaments.
+
+===word: 要請===
+Nuance: 「要請」は、相手に対して強く何かを求めることを意味します。「要求」よりも丁寧で正式な響きがあり、「依頼」よりも強い必要性を含みます。公的な文書や報道などでよく使われるフォーマルな表現です。
+Example1: 政府は国民に節電を要請しました。
+Example1_EN: The government requested that the public conserve electricity.
+Example2: 警察の要請により、周辺道路が封鎖されました。
+Example2_EN: The surrounding roads were closed at the request of the police.
+Example3: 支援の要請があった場合、すぐに対応します。
+Example3_EN: If there is a request for assistance, we will respond immediately.
+
+===word: 麻薬===
+Nuance: 「麻薬」は、法律で規制されている依存性の高い薬物の総称です。ヘロイン、コカイン、覚醒剤などが含まれます。健康や社会に深刻な害を及ぼすものとして、強い否定的なニュアンスがあります。
+Example1: 麻薬の使用は法律で厳しく禁止されています。
+Example1_EN: The use of narcotics is strictly prohibited by law.
+Example2: 麻薬中毒になると、自分の生活をコントロールできなくなります。
+Example2_EN: If you become addicted to narcotics, you lose control of your life.
+Example3: 彼は麻薬の密売で逮捕されました。
+Example3_EN: He was arrested for drug trafficking.
+
+===word: 氷点下===
+Nuance: 「氷点下」は、摂氏零度以下の気温を指します。特に冬の寒さを表現する際に使われ、天気予報などで頻繁に登場します。単に「零度以下」という事実だけでなく、厳しい寒さのイメージを伴います。
+Example1: 今朝の気温は氷点下五度まで下がりました。
+Example1_EN: This morning's temperature dropped to minus five degrees Celsius.
+Example2: 氷点下の日は、道路が凍結して危険です。
+Example2_EN: On days below freezing, the roads freeze and are dangerous.
+Example3: この地域では、冬になると毎日氷点下になります。
+Example3_EN: In this region, it stays below freezing every day in winter.
+
+===word: 黒点===
+Nuance: 「黒点」は、太陽の表面に見える黒い斑点のことです。太陽の活動によって現れる低温領域で、天文学の分野で使われる専門用語です。比喩的に「欠点」「汚点」の意味で使われることもあります。
+Example1: 黒点の数は約十一年の周期で増減します。
+Example1_EN: The number of sunspots increases and decreases in an approximately 11-year cycle.
+Example2: 望遠鏡を使って太陽の黒点を観察しました。
+Example2_EN: I observed sunspots on the sun using a telescope.
+Example3: 黒点が多い時期は、太陽の活動が活発になります。
+Example3_EN: During periods of many sunspots, solar activity becomes more active.
+
+===word: 主演===
+Nuance: 「主演」は、映画や演劇、ドラマなどで主役を務めることを指します。俳優や女優が作品の中心的な役割を担うことを意味し、芸能・エンターテインメントの分野でよく使われる言葉です。
+Example1: 彼女はその映画で主演を務めました。
+Example1_EN: She played the lead role in that movie.
+Example2: 主演俳優の演技が素晴らしかったです。
+Example2_EN: The lead actor's performance was wonderful.
+Example3: このドラマは主演の二人の魅力で人気になりました。
+Example3_EN: This drama became popular thanks to the charm of its two lead actors.
+
+===word: 納得===
+Nuance: 「納得」は、相手の説明や理由を聞いて、理解し、心から同意することを意味します。単に「理解する」だけでなく、「腑に落ちる」「受け入れられる」という感情的な納まりの良さを含みます。
+Example1: 彼の説明を聞いて、ようやく納得しました。
+Example1_EN: After hearing his explanation, I was finally convinced.
+Example2: お客様に納得していただけるまで、しっかり説明します。
+Example2_EN: I will explain thoroughly until the customer is satisfied.
+Example3: 納得のいく結果が出るまで、挑戦を続けます。
+Example3_EN: I will keep trying until I get a satisfactory result.
+
+===word: 謝恩会===
+Nuance: 「謝恩会」は、恩師やお世話になった人々に感謝の気持ちを伝えるために開く集まりです。主に卒業シーズンに、卒業生が教師を招いて開く会を指すことが多いです。フォーマルな場面で使われます。
+Example1: 卒業式の後、ホテルで謝恩会が開かれました。
+Example1_EN: After the graduation ceremony, a thank-you party was held at the hotel.
+Example2: 謝恩会では、先生方に感謝の言葉を贈りました。
+Example2_EN: At the thank-you party, we expressed our gratitude to the teachers.
+Example3: 謝恩会の準備は、実行委員が中心になって進めています。
+Example3_EN: The preparation for the thank-you party is being led by the organizing committee.
+
+===word: 奨励===
+Nuance: 「奨励」は、ある行為や活動を積極的に勧め、後押しすることを意味します。公的な機関や団体が特定の取り組みを推進する際に使われることが多く、フォーマルな響きがあります。
+Example1: この会社は社員の自己啓発を奨励しています。
+Example1_EN: This company encourages employees' self-development.
+Example2: 政府は省エネルギーの取り組みを奨励しています。
+Example2_EN: The government is encouraging energy-saving initiatives.
+Example3: 読書を奨励するために、学校で読書週間を設けています。
+Example3_EN: To encourage reading, the school has set up a reading week.
+
+===word: 引き伸ばす===
+Nuance: 「引き伸ばす」は、物理的に長く延ばすことと、時間や期限を延ばすことの両方の意味があります。物理的な用法では写真の引き伸ばしなど、比喩的な用法では「話を引き伸ばす」のように使われます。
+Example1: この写真を大きく引き伸ばして、額に入れたいです。
+Example1_EN: I want to enlarge this photo and put it in a frame.
+Example2: 会議が長引いて、話を必要以上に引き伸ばしてしまいました。
+Example2_EN: The meeting dragged on, and I stretched the discussion longer than necessary.
+Example3: ゴムを引き伸ばしすぎると、切れてしまいますよ。
+Example3_EN: If you stretch the rubber too much, it will break.
+
+===word: 測る===
+Nuance: 「測る」は、長さ、重さ、時間、温度などを計器や道具を使って調べることを意味します。非常に汎用性の高い動詞で、様々な対象を測定する際に使われます。「計る」「量る」とは使い分けがあります。
+Example1: このテーブルの幅を測ってみましょう。
+Example1_EN: Let's measure the width of this table.
+Example2: 体温を測ったら、三十八度ありました。
+Example2_EN: When I measured my body temperature, it was 38 degrees.
+Example3: 距離を測るには、巻き尺を使うと便利です。
+Example3_EN: A tape measure is convenient for measuring distance.
+
+===word: 売りつける===
+Nuance: 「売りつける」は、相手が欲しくないものを無理やり買わせることを意味します。強引なセールスや悪質な商法を批判するニュアンスが強く、否定的な文脈で使われることがほとんどです。
+Example1: あの店員は、高い商品を観光客に売りつけようとしました。
+Example1_EN: That salesperson tried to palm off expensive products onto tourists.
+Example2: 不要な保険を売りつけられて、後悔しています。
+Example2_EN: I regret being sold unnecessary insurance.
+Example3: 押し売り的に商品を売りつけるやり方は、評判を下げます。
+Example3_EN: Forcibly pushing products on customers damages your reputation.
+
+===word: 来季===
+Nuance: 「来季」は、次の季節や次のシーズンを指します。スポーツのリーグ戦、テレビ番組、ファッションなど、様々な分野で「次の期間」を表すのに使われます。ややフォーマルな響きがあります。
+Example1: 来季の新商品は、来月発表される予定です。
+Example1_EN: Next season's new products are scheduled to be announced next month.
+Example2: このチームは来季こそ優勝を目指しています。
+Example2_EN: This team is aiming for the championship next season.
+Example3: 来季のドラマのラインアップが発表されました。
+Example3_EN: The lineup for next season's dramas has been announced.
+
+===word: 必見===
+Nuance: 「必見」は、必ず見るべき価値があるという意味で、映画や展覧会、観光スポットなどを勧める際に使われます。広告やレビュー、旅行ガイドなどで頻繁に登場するカジュアルな表現です。
+Example1: この美術館の特別展は必見です。
+Example1_EN: The special exhibition at this museum is a must-see.
+Example2: 旅行ガイドに載っている絶景スポットは必見ですよ。
+Example2_EN: The scenic spots listed in the travel guide are a must-see.
+Example3: 彼の最新作は、映画ファンなら必見の作品です。
+Example3_EN: His latest work is a must-see for movie fans.
+
+===word: 呼び覚ます===
+Nuance: 「呼び覚ます」は、眠っている人を起こすことや、記憶や感情を再び呼び起こすことを意味します。物理的な「目覚めさせる」と比喩的な「蘇らせる」の両方の用法があります。文学的な響きを持つ言葉です。
+Example1: 彼女の言葉が、私の忘れていた記憶を呼び覚ましました。
+Example1_EN: Her words awakened memories I had forgotten.
+Example2: 大きな音で、真夜中に呼び覚まされてしまいました。
+Example2_EN: I was awakened in the middle of the night by a loud noise.
+Example3: その音楽は、懐かしい感情を呼び覚ましてくれます。
+Example3_EN: That music awakens nostalgic feelings in me.
+
+===word: 手品===
+Nuance: 「手品」は、観客の前で手先の技術や仕掛けを使って奇術を見せる芸のことです。「マジック」とも言いますが、「手品」は日本語として伝統的な呼び方です。カジュアルな場面でよく使われます。
+Example1: 彼は手品が得意で、パーティーでいつも披露しています。
+Example1_EN: He is good at magic tricks and always performs them at parties.
+Example2: その手品の種がどうしても分かりません。
+Example2_EN: I just can't figure out the secret behind that magic trick.
+Example3: 子供の頃、手品の本を買って練習していました。
+Example3_EN: When I was a child, I bought a magic book and practiced.
+
+===word: 同一===
+Nuance: 「同一」は、二つ以上のものが全く同じであることを意味します。厳密に違いがない状態を指し、法律や学術などのフォーマルな文書でよく使われます。日常会話では「同じ」の方が一般的です。
+Example1: この二つの書類は内容が同一です。
+Example1_EN: These two documents have identical content.
+Example2: 同一の製品でも、店によって価格が違います。
+Example2_EN: Even for the same product, prices differ by store.
+Example3: 彼は同一人物だと確認されました。
+Example3_EN: He was confirmed to be the same person.
+
+===word: 避難訓練===
+Nuance: 「避難訓練」は、地震や火災などの災害に備えて、安全な場所に避難する手順を練習することを指します。学校や職場などで定期的に行われ、防災意識を高めるために重要な活動です。
+Example1: 毎月、会社で避難訓練が行われています。
+Example1_EN: Evacuation drills are held at the company every month.
+Example2: 避難訓練では、落ち着いて行動することが大切です。
+Example2_EN: During evacuation drills, it's important to act calmly.
+Example3: 学校では年に数回、避難訓練を実施しています。
+Example3_EN: Schools conduct evacuation drills several times a year.
+
+===word: 腹筋===
+Nuance: 「腹筋」は、腹部の筋肉のことです。筋肉を鍛えるトレーニングの種目としてもよく使われます。「腹筋運動」を略して「腹筋」と言うことも多く、日常会話で頻繁に登場するカジュアルな表現です。
+Example1: 毎日腹筋を五十回やっています。
+Example1_EN: I do fifty sit-ups every day.
+Example2: 腹筋を鍛えると、姿勢が良くなります。
+Example2_EN: Strengthening your abdominal muscles improves your posture.
+Example3: 彼は腹筋が割れていて、とてもかっこいいです。
+Example3_EN: He has a six-pack and looks very cool.
+
+===word: 一酸化炭素===
+Nuance: 「一酸化炭素」は、化学式COで表される無色無臭の気体です。不完全燃焼によって発生し、有毒で中毒を引き起こす危険性があります。ニュースや防災の文脈で使われる専門用語です。
+Example1: 一酸化炭素中毒を防ぐために、換気をしっかりしてください。
+Example1_EN: Please ventilate well to prevent carbon monoxide poisoning.
+Example2: ストーブの不完全燃焼で一酸化炭素が発生することがあります。
+Example2_EN: Carbon monoxide can be produced by incomplete combustion in stoves.
+Example3: 一酸化炭素警報器を設置することをお勧めします。
+Example3_EN: I recommend installing a carbon monoxide detector.
+
+===word: 班===
+Nuance: 「班」は、ある目的のために組織された小さなグループを指します。学校のクラスでのグループ分けや、職場のチーム、調査隊などの小規模な単位を表すのに使われます。「班長」という役割もよく見られます。
+Example1: 私たちの班は、五年生の研究発表を担当します。
+Example1_EN: Our group is in charge of the fifth graders' research presentation.
+Example2: 班ごとに分かれて、清掃活動を行いました。
+Example2_EN: We divided into groups and carried out cleaning activities.
+Example3: 班長として、みんなの意見をまとめなければなりません。
+Example3_EN: As group leader, I need to summarize everyone's opinions.
+
+===word: 種===
+Nuance: 「種」は、植物の種子を指すほか、物事の種類や原因、カードゲームのスートなど多様な意味を持つ言葉です。非常に基本的な語彙で、日常会話から専門的な文脈まで幅広く使われます。
+Example1: 春になったら、花の種を庭にまきます。
+Example1_EN: When spring comes, I'll sow flower seeds in the garden.
+Example2: この問題の種は、もうずっと前からあったのです。
+Example2_EN: The seed of this problem has been there for a long time.
+Example3: この店では、さまざまな種のコーヒー豆を扱っています。
+Example3_EN: This store carries various kinds of coffee beans.
+
+===word: 経路===
+Nuance: 「経路」は、ある地点から別の地点まで移動する際の道筋やルートを指します。交通、通信、情報伝達など、様々な分野で使われる比較的フォーマルな言葉です。
+Example1: 目的地までの最適な経路を調べてください。
+Example1_EN: Please look up the best route to the destination.
+Example2: このウイルスは、どのような経路で感染するのですか。
+Example2_EN: What route does this virus use to infect people?
+Example3: 新しい配送経路を開拓することで、コストが削減できました。
+Example3_EN: By developing a new delivery route, we were able to reduce costs.
+
+===word: 採点する===
+Nuance: 「採点する」は、テストや課題の答えを評価して点数をつけることを意味します。主に教育現場で使われる言葉で、教師が生徒の答案を評価する際に用います。正確さや公平さが求められる行為です。
+Example1: 先生が百人分のテストを採点しています。
+Example1_EN: The teacher is grading one hundred tests.
+Example2: 採点するときは、採点基準に従って公平に行います。
+Example2_EN: When grading, I do it fairly according to the grading criteria.
+Example3: この問題は採点が難しいので、時間がかかります。
+Example3_EN: This question is difficult to grade, so it takes time.
+
+===word: 賭す===
+Nuance: 「賭す」は、勝負に自分の財産や名誉などをかけることを意味します。「賭ける」とほぼ同義ですが、「賭す」はやや硬く、文学的な響きがあります。リスクを伴う重要な決断をする際に使われます。
+Example1: 彼は全財産を賭して、新しい事業に挑戦しました。
+Example1_EN: He risked his entire fortune to take on a new business venture.
+Example2: 命を賭してまで、その山に登りたいですか。
+Example2_EN: Do you want to climb that mountain even at the risk of your life?
+Example3: 会社の未来を賭した大事なプロジェクトです。
+Example3_EN: This is an important project that stakes the company's future.
+
+===word: 過去===
+Nuance: 「過去」は、現在より前の時間、すでに過ぎ去った時期を指します。歴史や個人の経験など、幅広い文脈で使われる非常に基本的な名詞です。未来や現在と対比して使われることが多いです。
+Example1: 過去の失敗から多くのことを学びました。
+Example1_EN: I learned a lot from my past mistakes.
+Example2: 過去を振り返ると、懐かしい思い出がよみがえります。
+Example2_EN: When I look back on the past, nostalgic memories come back.
+Example3: 過去の経験が今の自分を作っています。
+Example3_EN: Past experiences have shaped who I am today.
+
+===word: 不滅===
+Nuance: 「不滅」は、永遠に滅びずに存在し続けることを意味します。魂や名声、愛など、形のないものに対して使われることが多いです。ポジティブな響きを持ち、文学や哲学の文脈でよく登場します。
+Example1: 彼の業績は不滅のものとして語り継がれています。
+Example1_EN: His achievements are spoken of as immortal.
+Example2: 不滅の愛を誓うことは、とてもロマンチックですね。
+Example2_EN: Swearing eternal love is very romantic, isn't it?
+Example3: 人間の魂は不滅だと信じている人もいます。
+Example3_EN: Some people believe that the human soul is immortal.
+
+===word: 慣用句===
+Nuance: 「慣用句」は、二つ以上の単語が結びついて、個々の単語の意味とは異なる特別な意味を持つようになった言い回しです。「足を引っ張る」「猫をかぶる」などが例で、日本語学習者にとっては重要な分野です。
+Example1: 日本語の慣用句を覚えるのは、とても面白いです。
+Example1_EN: Learning Japanese idioms is very interesting.
+Example2: この慣用句は、ビジネスシーンでよく使われます。
+Example2_EN: This idiom is often used in business situations.
+Example3: 慣用句の意味を辞書で調べました。
+Example3_EN: I looked up the meaning of the idiom in a dictionary.
+
+===word: 要職===
+Nuance: 「要職」は、組織や社会において重要な役職や地位を指します。会社の役員や政府の大臣など、大きな責任と権限を伴うポジションを表すフォーマルな言葉です。
+Example1: 彼は会社の要職を歴任してきました。
+Example1_EN: He has held key positions in the company.
+Example2: 要職にある人は、それだけ責任も重いです。
+Example2_EN: Those in key positions bear proportionally heavy responsibilities.
+Example3: 彼女は若くして要職に抜擢されました。
+Example3_EN: She was selected for a key position at a young age.
+
+===word: 秘書===
+Nuance: 「秘書」は、上司や経営者のスケジュール管理や書類作成、電話対応など、業務を補佐する役割を担う人を指します。会社や官公庁などで働く専門職で、ビジネスにおいて重要なポジションです。
+Example1: 秘書が社長のスケジュールを管理しています。
+Example1_EN: The secretary manages the president's schedule.
+Example2: 秘書の仕事は、正確さと気配りが求められます。
+Example2_EN: A secretary's job requires accuracy and attentiveness.
+Example3: 彼女は秘書として十年の経験があります。
+Example3_EN: She has ten years of experience as a secretary.
+
+===word: 向上===
+Nuance: 「向上」は、技術や能力、品質などがより良い方向に進むことを意味します。「向上心」という形で、成長しようとする意欲を表すことも多いです。ポジティブな文脈で使われるフォーマルな言葉です。
+Example1: 社員のスキル向上のために、研修制度を充実させています。
+Example1_EN: We are enhancing the training system to improve employee skills.
+Example2: 彼は向上心が強く、いつも新しいことに挑戦しています。
+Example2_EN: He has a strong desire for self-improvement and always takes on new challenges.
+Example3: 製品の品質向上に努めてまいります。
+Example3_EN: We will strive to improve product quality.
+
+===word: 小型化===
+Nuance: 「小型化」は、機器や装置などの大きさを小さくすることを意味します。特にテクノロジーの進歩に伴って、電子機器がより小さく軽くなる現象を指すのに使われます。技術分野でよく使われる言葉です。
+Example1: この機種は前のモデルよりも大幅に小型化されました。
+Example1_EN: This model has been significantly miniaturized compared to the previous one.
+Example2: 部品の小型化により、製品のデザインの自由度が増しました。
+Example2_EN: The miniaturization of parts has increased design freedom for the product.
+Example3: 最近のスマートフォンは小型化と高性能化が進んでいます。
+Example3_EN: Recent smartphones have been advancing in both miniaturization and high performance.
+
+===word: 怒鳴り声===
+Nuance: 「怒鳴り声」は、怒って大声で叫ぶ声を指します。怒りの感情が込められた大きな声で、周囲に威圧感を与えるものです。ネガティブな状況で使われることが多く、日常会話でもよく登場します。
+Example1: 隣の部屋から怒鳴り声が聞こえてきました。
+Example1_EN: I heard shouting coming from the next room.
+Example2: 怒鳴り声で話すのは、問題解決に役立ちません。
+Example2_EN: Speaking in a shouting voice doesn't help solve problems.
+Example3: 彼の怒鳴り声に、子供たちは怖がってしまいました。
+Example3_EN: The children were frightened by his angry shouting.
+
+===word: 語呂合わせ===
+Nuance: 「語呂合わせ」は、数字や言葉の響きを利用して、別の意味や面白いフレーズを作る遊びです。電話番号の覚え方や、ギャグなどに使われます。日本語の音の特徴を活かした言葉遊びの一種です。
+Example1: 電話番号を語呂合わせで覚えています。
+Example1_EN: I remember phone numbers using number-word associations.
+Example2: この語呂合わせは、受験生の間で有名です。
+Example2_EN: This wordplay is famous among students preparing for exams.
+Example3: 語呂合わせは、記憶を助ける便利な方法です。
+Example3_EN: Puns and number-word associations are a useful way to aid memory.
+
+===word: 餃子===
+Nuance: 「餃子」は、小麦粉の皮にひき肉や野菜などの具を包んで焼いたり蒸したりする中華料理です。日本では焼き餃子が最も一般的で、ラーメンと一緒に注文されることが多い人気メニューです。
+Example1: この店の餃子は皮がパリパリで美味しいです。
+Example1_EN: The gyoza at this restaurant have crispy skin and are delicious.
+Example2: 週末に家族で餃子を作るのが楽しみです。
+Example2_EN: I look forward to making gyoza with my family on weekends.
+Example3: 餃子を食べる時は、酢醤油につけていただきます。
+Example3_EN: When eating gyoza, I dip them in vinegar and soy sauce.
+
+===word: 衛生兵===
+Nuance: 「衛生兵」は、戦場で負傷した兵士の応急手当や治療を行う軍人のことです。軍隊の医療部門に所属し、戦闘地域で医療活動を行います。戦争や軍隊に関する文脈で使われる専門用語です。
+Example1: 衛生兵が負傷者の手当てを急いで行っています。
+Example1_EN: The combat medic is quickly treating the wounded.
+Example2: 彼は衛生兵として、過酷な戦場で任務を果たしました。
+Example2_EN: He fulfilled his duty as a combat medic on the harsh battlefield.
+Example3: 衛生兵の訓練は、通常の兵士より長期間かかります。
+Example3_EN: The training for combat medics takes longer than that for regular soldiers.
+
+===word: 有意義===
+Nuance: 「有意義」は、価値や意味があること、無駄ではないことを表す形容動詞です。時間の使い方や経験、活動などに対して使われ、ポジティブな評価を込めた表現です。
+Example1: このセミナーはとても有意義でした。
+Example1_EN: This seminar was very meaningful.
+Example2: 休日を有意義に過ごすには、計画を立てることが大切です。
+Example2_EN: To spend your holidays meaningfully, it's important to make plans.
+Example3: 彼との話し合いは、時間を忘れるほど有意義なものでした。
+Example3_EN: The discussion with him was so meaningful that I lost track of time.
+
+===word: 攻めて===
+Nuance: 「攻めて」は、動詞「攻める」のテ形で、積極的に攻撃する態度や行動を表します。スポーツやビジネスなどで「積極的に攻める姿勢」という意味で使われることが多く、前向きなニュアンスがあります。
+Example1: 試合では、守りに入らずに攻めて勝ちたいです。
+Example1_EN: In the match, I want to win by attacking rather than playing defensively.
+Example2: 営業では攻めて行く姿勢が重要です。
+Example2_EN: In sales, an aggressive attitude is important.
+Example3: もっと攻めてプレイしないと、相手に追い越されてしまいます。
+Example3_EN: If we don't play more aggressively, we'll be overtaken by the opponent.
+
+===word: 下降===
+Nuance: 「下降」は、位置や数値、程度などが下がることを意味します。気温の下降、株価の下降など、グラフや統計で使われることが多いです。比較的フォーマルな言葉で、日常会話では「下がる」の方が一般的です。
+Example1: 今週に入って、気温が急激に下降しました。
+Example1_EN: Since the start of this week, temperatures have dropped sharply.
+Example2: 株価の下降が続いています。
+Example2_EN: Stock prices continue to decline.
+Example3: エレベーターがゆっくりと下降していきます。
+Example3_EN: The elevator slowly descends.
+
+===word: 陰謀論===
+Nuance: 「陰謀論」は、実際の出来事の背後に特定の集団や組織による秘密の計画があると主張する説のことです。科学的根拠に欠けることが多く、否定的なニュアンスで使われることが多いです。
+Example1: 彼はいつも陰謀論を信じていて、周りを困らせています。
+Example1_EN: He always believes in conspiracy theories, which bothers those around him.
+Example2: 陰謀論は時に社会に悪影響を及ぼすことがあります。
+Example2_EN: Conspiracy theories can sometimes have a negative impact on society.
+Example3: インターネットでは、様々な陰謀論が広まっています。
+Example3_EN: Various conspiracy theories are spreading on the internet.
+
+===word: 釈放===
+Nuance: 「釈放」は、拘束されていた人を自由の身にすることです。主に警察や裁判所などの司法機関が、被疑者や受刑者を解放する際に使われる正式な法律用語です。
+Example1: 彼は証拠不十分で釈放されました。
+Example1_EN: He was released due to insufficient evidence.
+Example2: 容疑者は取り調べの後、釈放されました。
+Example2_EN: The suspect was released after the interrogation.
+Example3: 刑期を終えた受刑者が社会に釈放されました。
+Example3_EN: The prisoner who completed his sentence was released into society.
+
+===word: 対義語===
+Nuance: 「対義語」は、意味が反対の関係にある言葉のことを指します。例えば「大きい」と「小さい」、「明るい」と「暗い」などです。語彙学習や国語の授業でよく使われる基本的な言葉です。
+Example1: この単語の対義語を教えてください。
+Example1_EN: Please tell me the antonym of this word.
+Example2: 対義語を一緒に覚えると、語彙が効率的に増えます。
+Example2_EN: Learning antonyms together helps you expand your vocabulary efficiently.
+Example3: テストでは、対義語を選ぶ問題が出ました。
+Example3_EN: There was a question on the test about choosing the antonym.
+
+===word: 商店街===
+Nuance: 「商店街」は、多くの店舗が道路沿いに集まっている商業地区のことです。地域の住民の日常生活を支える役割を果たしており、近年はシャッター通りと呼ばれる衰退が問題になることもあります。
+Example1: この商店街には、昔ながらの八百屋や魚屋が残っています。
+Example1_EN: This shopping district still has old-fashioned vegetable and fish shops.
+Example2: 駅前の商店街は、週末になると多くの人で賑わいます。
+Example2_EN: The shopping district in front of the station gets crowded on weekends.
+Example3: 地元の商店街を活性化するためのイベントが開かれました。
+Example3_EN: An event was held to revitalize the local shopping district.
+
+===word: 心拍停止===
+Nuance: 「心拍停止」は、心臓の拍動が止まる状態を指す医学用語です。心臓発作や重大な事故などで発生し、緊急の蘇生処置が必要となります。医療現場やニュース報道などで使われます。
+Example1: 患者さんが心拍停止の状態で運ばれてきました。
+Example1_EN: The patient was brought in with cardiac arrest.
+Example2: 心拍停止から回復する確率は、時間との勝負です。
+Example2_EN: The chance of recovery from cardiac arrest is a race against time.
+Example3: 心拍停止の際は、すぐに心肺蘇生を開始しなければなりません。
+Example3_EN: In the event of cardiac arrest, CPR must be started immediately.
+
+===word: 小馬鹿===
+Nuance: 「小馬鹿」は、相手を軽く見て馬鹿にすることを意味する「小馬鹿にする」という形で使われることがほとんどです。相手を見下すニュアンスがあり、あまり良い意味ではありません。
+Example1: 人の意見を小馬鹿にするのは、良い態度ではありません。
+Example1_EN: Making light of other people's opinions is not a good attitude.
+Example2: 彼は同僚の努力を小馬鹿にしています。
+Example2_EN: He makes fun of his colleague's efforts.
+Example3: 小馬鹿にされた気分になって、とても不快でした。
+Example3_EN: I felt ridiculed and it was very unpleasant.
+
+===word: 環境===
+Nuance: 「環境」は、人や生物を取り巻く周囲の状況や条件のことを指します。自然環境、職場環境、学習環境など、様々な分野で使われる非常に汎用性の高い言葉です。
+Example1: この会社は働きやすい環境が整っています。
+Example1_EN: This company has a comfortable working environment.
+Example2: 環境問題について、もっと真剣に考える必要があります。
+Example2_EN: We need to think more seriously about environmental issues.
+Example3: 子供の学習環境を整えることが、親の役目です。
+Example3_EN: It is a parent's role to prepare a good learning environment for their children.
+
+===word: 敏感な===
+Nuance: 「敏感な」は、外部からの刺激や変化に対して、反応が鋭いことを意味する形容動詞です。肌の敏感さ、政治的な敏感さ、価格への敏感さなど、様々な対象に対して使われます。
+Example1: 彼女は肌が敏感なので、刺激の少ない化粧品を使っています。
+Example1_EN: She has sensitive skin, so she uses cosmetics with few irritants.
+Example2: 政治的な話題は敏感な問題なので、慎重に話す必要があります。
+Example2_EN: Political topics are sensitive issues, so we need to discuss them carefully.
+Example3: 彼は周りの雰囲気に敏感な人です。
+Example3_EN: He is a person who is sensitive to the atmosphere around him.
+
+===word: 料金===
+Nuance: 「料金」は、商品やサービスの利用に対して支払うお金のことを指します。入場料、通行料、通信料など、様々な場面で使われる日常的な言葉です。値段や費用を表す一般的な表現です。
+Example1: この駐車場の料金は一時間三百円です。
+Example1_EN: The fee for this parking lot is 300 yen per hour.
+Example2: 料金は前払いでお願いします。
+Example2_EN: Please pay the fee in advance.
+Example3: 高速道路の料金が値上がりしました。
+Example3_EN: The highway toll has gone up.
+
+===word: 木版===
+Nuance: 「木版」は、木の板に文字や絵を彫り、それにインクを付けて紙に刷る印刷技術や、その版そのものを指します。日本の伝統的な浮世絵も木版画です。美術や印刷の分野で使われる専門用語です。
+Example1: この木版画は、江戸時代の職人が彫ったものです。
+Example1_EN: This woodblock print was carved by a craftsman in the Edo period.
+Example2: 木版で作られた年賀状は、味わい深いです。
+Example2_EN: New Year's cards made with woodblock printing have a charming quality.
+Example3: 木版の技術を習得するには、長年の修行が必要です。
+Example3_EN: Mastering woodblock printing techniques requires many years of training.
+
+===word: 拘束===
+Nuance: 「拘束」は、人の自由な行動を制限することを意味します。物理的に縛ることから、時間やルールによる制約まで幅広く使われます。ややフォーマルな響きがあります。
+Example1: 長時間の会議に拘束されて、自由な時間がありません。
+Example1_EN: I'm tied up in long meetings and have no free time.
+Example2: 警察は容疑者を拘束して、事情を聞いています。
+Example2_EN: The police have detained the suspect and are questioning him.
+Example3: この契約は、拘束力のある合意です。
+Example3_EN: This contract is a binding agreement.
+
+===word: 潤滑剤===
+Nuance: 「潤滑剤」は、機械の摩擦を減らすために使う油やグリースなどの物質です。転じて、人間関係を円滑にするものの比喩としても使われます。技術的な文脈と比喩的な文脈の両方で使われます。
+Example1: 機械の調子が悪いので、潤滑剤を差しました。
+Example1_EN: The machine wasn't running well, so I applied lubricant.
+Example2: 適度なユーモアは、人間関係の潤滑剤になります。
+Example2_EN: Appropriate humor acts as a lubricant for human relationships.
+Example3: この潤滑剤は高温でも効果が持続します。
+Example3_EN: This lubricant maintains its effectiveness even at high temperatures.
+
+===word: 虚しい===
+Nuance: 「虚しい」は、何もかも空っぽで無意味に感じられる状態を表す形容詞です。努力が報われなかった時や、大切な人を失った時など、深い失望や喪失感を伴う感情を表現します。
+Example1: 彼の努力は虚しい結果に終わりました。
+Example1_EN: His efforts ended in vain.
+Example2: 一人でいると、時々人生が虚しく感じられます。
+Example2_EN: When I'm alone, sometimes life feels empty.
+Example3: 虚しい気持ちを紛らわすために、散歩に出かけました。
+Example3_EN: I went for a walk to distract myself from the feeling of emptiness.
+
+===word: 毛先===
+Nuance: 「毛先」は、髪の毛の先端部分を指します。美容院でのカットの注文や、ヘアケア製品の説明などでよく使われる言葉です。日常会話で頻繁に登場します。
+Example1: 毛先が傷んでいるので、トリートメントをしています。
+Example1_EN: My hair ends are damaged, so I'm using a hair treatment.
+Example2: 毛先を二センチくらい切ってください。
+Example2_EN: Please cut about two centimeters off the ends.
+Example3: 毛先まで均一にパーマをかけるのは難しいです。
+Example3_EN: It's difficult to get a perm that's even all the way to the ends.
+
+===word: 洋間===
+Nuance: 「洋間」は、洋風の家具や内装で整えられた部屋を指します。日本の伝統的な「和室」に対する言葉で、椅子や机、ベッドなどが置かれた西洋スタイルの部屋のことです。
+Example1: この家は、和室が二部屋と洋間が三部屋あります。
+Example1_EN: This house has two Japanese-style rooms and three Western-style rooms.
+Example2: 洋間にはベッドを置いて、寝室として使っています。
+Example2_EN: I put a bed in the Western-style room and use it as a bedroom.
+Example3: 古い日本家屋ですが、洋間も一つあります。
+Example3_EN: It's an old Japanese house, but it also has one Western-style room.
+
+===word: 軟式テニス===
+Nuance: 「軟式テニス」は、ゴム製の柔らかいボールを使って行うテニスのことです。日本で独自に発展したスポーツで、主に中学生や高校生の間で盛んです。硬式テニスと区別するために使われる言葉です。
+Example1: 中学では軟式テニス部に入っていました。
+Example1_EN: I was in the softball tennis club in junior high school.
+Example2: 軟式テニスは硬式テニスよりボールが遅いので、初心者に向いています。
+Example2_EN: Softball tennis is suitable for beginners because the ball is slower than in regular tennis.
+Example3: 軟式テニスの大会で優勝しました。
+Example3_EN: I won first place in a softball tennis tournament.
+
+===word: 大仕事===
+Nuance: 「大仕事」は、非常に大変で重要な仕事や任務を指します。規模が大きい、労力がかかる、責任が重いなどのニュアンスを含みます。カジュアルな会話からフォーマルな場面まで使われます。
+Example1: このプロジェクトは本当に大仕事でした。
+Example1_EN: This project was really a big job.
+Example2: 引っ越しは大仕事なので、計画的に進めましょう。
+Example2_EN: Moving is a big task, so let's proceed with a plan.
+Example3: 彼は大仕事を成し遂げて、みんなから尊敬されています。
+Example3_EN: He accomplished a great task and is respected by everyone.
+
+===word: 注目===
+Nuance: 「注目」は、ある物事や人に特別な関心を向けて注意深く見ることを意味します。ニュースやメディアで「注目を集める」という形でよく使われ、ポジティブな文脈で使われることが多いです。
+Example1: この新製品は、業界から大きな注目を集めています。
+Example1_EN: This new product is garnering a lot of attention from the industry.
+Example2: 注目すべき点は、彼の年齢ではなく実績です。
+Example2_EN: What deserves attention is not his age but his track record.
+Example3: 環境問題に対する注目が高まっています。
+Example3_EN: Attention to environmental issues is increasing.
+
+===word: 脱ぎ捨てる===
+Nuance: 「脱ぎ捨てる」は、着ている衣服を素早く脱いで、その場に置き去りにすることを意味します。急いで脱ぐ様子や、だらしなく脱ぎ散らかす様子を表すことが多いです。
+Example1: 彼は玄関で靴を脱ぎ捨てて、部屋に入ってきました。
+Example1_EN: He kicked off his shoes at the entrance and came into the room.
+Example2: 濡れた服を脱ぎ捨てて、すぐにシャワーを浴びました。
+Example2_EN: I tossed off my wet clothes and took a shower right away.
+Example3: 子供が部屋中に服を脱ぎ捨てているので、片付けるのが大変です。
+Example3_EN: The kids have tossed their clothes all over the room, so it's hard to clean up.
+
+===word: 長編===
+Nuance: 「長編」は、小説や映画、漫画などで、物語の長さが長い作品を指します。「長編小説」は数百ページに及ぶものが多く、「長編映画」はおおよそ一時間以上の作品を指します。
+Example1: この長編小説を読み終えるのに、一か月かかりました。
+Example1_EN: It took me a month to finish reading this novel-length book.
+Example2: 彼の長編デビュー作が、映画祭で賞を取りました。
+Example2_EN: His feature-length debut film won an award at the film festival.
+Example3: 長編漫画は、キャラクターの成長をじっくり描ける魅力があります。
+Example3_EN: Long-form manga has the appeal of being able to carefully depict character growth.
+
+===word: 大容量===
+Nuance: 「大容量」は、収容できる量やデータの容量が非常に大きいことを表します。ハードディスク、メモリー、バッテリーなど、テクノロジー製品の仕様説明でよく使われる言葉です。
+Example1: このスマートフォンは大容量のバッテリーを搭載しています。
+Example1_EN: This smartphone is equipped with a large-capacity battery.
+Example2: 大容量のデータを保存するには、外付けハードディスクが便利です。
+Example2_EN: An external hard drive is convenient for storing large amounts of data.
+Example3: 大容量の洗濯機を買ったので、一度にたくさん洗えます。
+Example3_EN: I bought a large-capacity washing machine, so I can wash a lot at once.
+
+===word: 傾斜===
+Nuance: 「傾斜」は、地面や物体の表面が水平に対して斜めになっていることを指します。山の斜面や屋根の傾きなど、物理的な傾きを表すほか、比喩的に「意見の傾斜」のように使われることもあります。
+Example1: この土地は傾斜が急なので、家を建てるのが難しいです。
+Example1_EN: This land has a steep slope, so it's difficult to build a house on it.
+Example2: 傾斜のある庭に、階段を作りました。
+Example2_EN: I built stairs on the sloped garden.
+Example3: 屋根の傾斜を緩やかにすると、雪が積もりやすくなります。
+Example3_EN: If you make the roof slope gentler, snow tends to accumulate.
+
+===word: 果てしなく===
+Nuance: 「果てしなく」は、終わりや限りがなく続く様子を表す副詞です。広大な空間や長い時間、尽きない努力などに対して使われます。文学的な響きがあり、ややフォーマルな表現です。
+Example1: この砂漠は果てしなく広がっています。
+Example1_EN: This desert stretches endlessly.
+Example2: 彼の研究への情熱は果てしなく続いています。
+Example2_EN: His passion for research continues endlessly.
+Example3: 果てしなく続く道を、二人で歩き続けました。
+Example3_EN: We kept walking together along the endless road.
+
+===word: 降伏===
+Nuance: 「降伏」は、戦いに負けた側が相手に対して負けを認め、戦闘をやめることを意味します。軍事や戦争の文脈で使われることが多いですが、比喩的に「病気に降伏する」のように使われることもあります。
+Example1: 敵軍はついに降伏しました。
+Example1_EN: The enemy army finally surrendered.
+Example2: 降伏しないで、最後まで戦い抜く決意です。
+Example2_EN: I am determined to fight to the end without surrendering.
+Example3: 無条件降伏を受け入れる以外に道はありませんでした。
+Example3_EN: There was no choice but to accept unconditional surrender.
+
+===word: 演説===
+Nuance: 「演説」は、大勢の人の前で自分の意見や主張を述べることを指します。政治家の街頭演説や、式典でのスピーチなど、公の場で行われるフォーマルな発言です。
+Example1: 大統領の演説は、国民に大きな感動を与えました。
+Example1_EN: The president's speech moved the nation deeply.
+Example2: 彼の演説は説得力があり、多くの人の心を動かしました。
+Example2_EN: His speech was persuasive and moved many people's hearts.
+Example3: 選挙前に候補者の演説を聞きに行きました。
+Example3_EN: I went to hear the candidates' speeches before the election.
+
+===word: 建築家===
+Nuance: 「建築家」は、建物の設計や工事の監理を専門に行う職業の人です。単なる設計者ではなく、芸術性や機能性を兼ね備えた建築物を創造する専門家として、高い社会的評価を受けています。
+Example1: 有名な建築家がこの美術館を設計しました。
+Example1_EN: A famous architect designed this museum.
+Example2: 建築家になるには、長い勉強と実務経験が必要です。
+Example2_EN: Becoming an architect requires long study and practical experience.
+Example3: 彼女は建築家として、数々の賞を受賞しています。
+Example3_EN: She has won numerous awards as an architect.
+
+===word: 宝石===
+Nuance: 「宝石」は、ダイヤモンドやルビーなど、美しく希少価値の高い鉱物を加工した装飾品のことです。指輪やネックレスなどのアクセサリーに使われ、高級品としてのイメージが強いです。
+Example1: 彼女は誕生日に宝石の指輪をもらいました。
+Example1_EN: She received a jeweled ring for her birthday.
+Example2: この宝石は、光の当たり方によって色が変わって見えます。
+Example2_EN: This gem appears to change color depending on how the light hits it.
+Example3: 宝石の偽物を見分けるのは、専門家でも難しいです。
+Example3_EN: Even for experts, it's difficult to tell fake gems from real ones.
+
+===word: 書き取る===
+Nuance: 「書き取る」は、聞いた言葉や見た文字をそのまま紙に書いて記録することを意味します。授業のノートを取る時や、インタビューの内容を記録する時などに使われます。
+Example1: 先生の話を聞きながら、ノートに書き取ります。
+Example1_EN: I write down what the teacher says in my notebook.
+Example2: インタビューの内容をすべて書き取るのは大変です。
+Example2_EN: It's hard work to transcribe all of the interview content.
+Example3: このテープの会話を書き取って、レポートにまとめてください。
+Example3_EN: Please transcribe the conversation on this tape and summarize it in a report.

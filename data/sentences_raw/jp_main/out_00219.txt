@@ -1,0 +1,611 @@
+===word: 床===
+Nuance: 「ゆか」と読み、部屋の足元にある平らな部分を指します。建物の内部の地面部分で、歩いたり物を置いたりする場所です。日常的によく使われる基本的な単語です。
+Example1: この部屋の床は木でできています。
+Example1_EN: The floor of this room is made of wood.
+Example2: 床に座ってテレビを見ます。
+Example2_EN: I sit on the floor and watch TV.
+Example3: 床を掃除しましたか？
+Example3_EN: Did you clean the floor?
+
+===word: 再利用する===
+Nuance: 「さいりようする」と読み、使ったものを再び使うことを意味します。リサイクルや資源の有効活用の文脈でよく使われます。環境問題に関連して使われることが多いです。
+Example1: この紙は繰り返し再利用できます。
+Example1_EN: This paper can be reused repeatedly.
+Example2: 古着を再利用してエコバッグを作りました。
+Example2_EN: I reused old clothes to make an eco-bag.
+Example3: 資源を再利用することは環境に優しいです。
+Example3_EN: Reusing resources is environmentally friendly.
+
+===word: 重心を失う===
+Nuance: 「じゅうしんをうしなう」と読み、体のバランスを崩して倒れそうになることを指します。物理的な意味だけでなく、比喩的に精神的な安定を失う意味でも使われることがあります。
+Example1: 足を滑らせて重心を失いました。
+Example1_EN: I slipped and lost my balance.
+Example2: 重心を失わないように、ゆっくり歩いてください。
+Example2_EN: Please walk slowly so you don't lose your balance.
+Example3: 重心を失って転びそうになりました。
+Example3_EN: I almost fell because I lost my balance.
+
+===word: 残念なことに===
+Nuance: 「ざんねんなことに」と読み、話し手が望ましくないと感じる事態を述べる際に使う副詞表現です。文頭に置いて、残念な結果や状況を伝えるときに用います。ややフォーマルな響きがあります。
+Example1: 残念なことに、試合は雨で中止になりました。
+Example1_EN: Unfortunately, the game was canceled due to rain.
+Example2: 残念なことに、彼はその知らせをまだ聞いていません。
+Example2_EN: Unfortunately, he hasn't heard the news yet.
+Example3: 残念なことに、その計画は却下されました。
+Example3_EN: Unfortunately, the plan was rejected.
+
+===word: 飛び移る===
+Nuance: 「とびうつる」と読み、一つの場所から別の場所に跳んで移動することを意味します。物理的なジャンプだけでなく、比喩的に話題や立場を急に変える意味でも使われることがあります。
+Example1: 電車が止まったときに、別の車両に飛び移りました。
+Example1_EN: I jumped to another car when the train stopped.
+Example2: 岩から岩へ飛び移るのは危険です。
+Example2_EN: Jumping from rock to rock is dangerous.
+Example3: 彼はバスから電車に飛び移りました。
+Example3_EN: He jumped from the bus to the train.
+
+===word: 体験する===
+Nuance: 「たいけんする」と読み、実際に経験することを意味します。「経験」との違いは、より直接的に自分の身体や感覚で味わうニュアンスが強い点です。イベントやアクティビティなど、実際にやってみる場面で使われます。
+Example1: このイベントで伝統文化を体験できます。
+Example1_EN: You can experience traditional culture at this event.
+Example2: 子供たちは農作業を体験しました。
+Example2_EN: The children experienced farm work.
+Example3: 新しい趣味を体験してみませんか？
+Example3_EN: Would you like to try experiencing a new hobby?
+
+===word: 夜勤===
+Nuance: 「やきん」と読み、夜間に行う勤務を指します。病院や工場、警備など、24時間体制で働く職場でよく使われる言葉です。シフト勤務の一部として語られます。
+Example1: 今週は夜勤が三回あります。
+Example1_EN: I have three night shifts this week.
+Example2: 夜勤の後はしっかり休んでください。
+Example2_EN: Please rest well after your night shift.
+Example3: 夜勤は体調管理が難しいです。
+Example3_EN: It's hard to manage your health with night shifts.
+
+===word: 熊本県===
+Nuance: 「くまもとけん」と読み、日本の九州地方にある県の一つです。熊本城や阿蘇山などで有名です。地名としての固有名詞で、ニュースや旅行の話題でよく登場します。
+Example1: 熊本県は九州にあります。
+Example1_EN: Kumamoto Prefecture is in Kyushu.
+Example2: 熊本県には有名な観光地がたくさんあります。
+Example2_EN: Kumamoto Prefecture has many famous tourist spots.
+Example3: 私は熊本県出身です。
+Example3_EN: I am from Kumamoto Prefecture.
+
+===word: 致命傷===
+Nuance: 「ちめいしょう」と読み、命に関わる重い傷を意味します。物理的な傷だけでなく、比喩的に組織や計画に大きな打撃を与える事態を指すこともあります。深刻なニュアンスを持つ言葉です。
+Example1: 彼は事故で致命傷を負いました。
+Example1_EN: He suffered fatal injuries in the accident.
+Example2: そのスキャンダルは会社に致命傷を与えました。
+Example2_EN: The scandal dealt a fatal blow to the company.
+Example3: 致命傷を避けるために、すぐに病院に行ってください。
+Example3_EN: Please go to the hospital immediately to avoid fatal injuries.
+
+===word: 勝手===
+Nuance: 「かって」と読み、自分の都合だけを考えて行動する様子や、わがままな態度を指します。また、場所によっては「台所」の意味でも使われますが、日常会話では「自己中心的」の意味でよく使われます。ややネガティブなニュアンスがあります。
+Example1: 彼はいつも勝手なことばかりします。
+Example1_EN: He always does whatever he wants.
+Example2: そんな勝手な行動はやめてください。
+Example2_EN: Please stop acting so selfishly.
+Example3: 勝手に人の物を使わないでください。
+Example3_EN: Please don't use other people's things without permission.
+
+===word: 締め切る===
+Nuance: 「しめきる」と読み、期限を設定して受け付けを終了することや、窓やドアを完全に閉めることを意味します。特に「申し込み締め切り」などの表現でよく使われる重要なビジネス用語です。
+Example1: 申し込みは今月末で締め切ります。
+Example1_EN: Applications will be closed at the end of this month.
+Example2: 窓を締め切って出かけました。
+Example2_EN: I closed the windows tightly and went out.
+Example3: 締め切りは来週の金曜日です。
+Example3_EN: The deadline is next Friday.
+
+===word: 新卒===
+Nuance: 「しんそつ」と読み、学校を卒業したばかりの人のことを指します。主に就職活動の文脈で使われ、新卒採用という形で企業が大学や高校を卒業したばかりの学生を採用する際に用いられます。
+Example1: 新卒の学生向けに説明会を開きます。
+Example1_EN: We will hold an information session for new graduates.
+Example2: 彼は今年の新卒で入社しました。
+Example2_EN: He joined the company as a new graduate this year.
+Example3: 新卒採用はいつから始まりますか？
+Example3_EN: When does the new graduate recruitment start?
+
+===word: 空っぽ===
+Nuance: 「からっぽ」と読み、中に何も入っていない状態を意味します。物理的な容器だけでなく、頭や心が何も考えていない状態を比喩的に表すこともあります。話し言葉でよく使われるカジュアルな表現です。
+Example1: 冷蔵庫が空っぽなので、買い物に行きます。
+Example1_EN: The refrigerator is empty, so I'll go shopping.
+Example2: 頭が空っぽで何も考えられません。
+Example2_EN: My mind is blank and I can't think of anything.
+Example3: その箱は空っぽでした。
+Example3_EN: That box was empty.
+
+===word: 積極的に===
+Nuance: 「せっきょくてきに」と読み、自ら進んで行動する様子を表す副詞です。受動的ではなく、能動的かつ意欲的に物事に取り組む態度を指します。自己紹介や面接などで好印象を与える言葉としてよく使われます。
+Example1: 彼は積極的に意見を述べます。
+Example1_EN: He actively expresses his opinions.
+Example2: 積極的に新しいことに挑戦してください。
+Example2_EN: Please actively take on new challenges.
+Example3: 私は積極的にボランティア活動に参加しています。
+Example3_EN: I actively participate in volunteer activities.
+
+===word: 運動会===
+Nuance: 「うんどうかい」と読み、学校や地域で行われるスポーツイベントを指します。徒競走やリレー、団体競技などを行い、紅白に分かれて競います。日本の学校文化の重要な行事の一つです。
+Example1: 運動会は十月に開催されます。
+Example1_EN: The sports festival will be held in October.
+Example2: 子供の運動会を見に行きました。
+Example2_EN: I went to watch my child's sports day.
+Example3: 運動会の練習が始まりました。
+Example3_EN: Practice for the sports festival has started.
+
+===word: 起動する===
+Nuance: 「きどうする」と読み、コンピューターや機械の電源を入れて動作を開始させることを意味します。特にパソコンやスマートフォンなどの電子機器について使われることが多い現代的な用語です。
+Example1: パソコンを起動するのに時間がかかります。
+Example1_EN: It takes time to start up the computer.
+Example2: このアプリを起動するにはどうすればいいですか？
+Example2_EN: How do I launch this application?
+Example3: システムを起動しました。
+Example3_EN: I have started the system.
+
+===word: 勘===
+Nuance: 「かん」と読み、理論や根拠ではなく、直感的に物事を感じ取る能力を指します。「勘が良い」「勘が働く」などの形で使われ、ビジネスや日常生活で直感が正しい場面を表します。
+Example1: 彼女は勘が鋭いです。
+Example1_EN: She has sharp intuition.
+Example2: 私の勘では、今日は雨が降ると思います。
+Example2_EN: My intuition tells me it will rain today.
+Example3: 勘に頼らずに、データを確認してください。
+Example3_EN: Please check the data instead of relying on intuition.
+
+===word: 主食===
+Nuance: 「しゅしょく」と読み、毎日の食事の中心となる食品を指します。日本では米が主食ですが、国や地域によってパンや麺類などが主食になります。栄養学や食文化の話題でよく使われます。
+Example1: 日本では米が主食です。
+Example1_EN: Rice is the staple food in Japan.
+Example2: パンを主食にしている国もあります。
+Example2_EN: There are countries where bread is the staple food.
+Example3: 主食と副食のバランスが大切です。
+Example3_EN: The balance between staple food and side dishes is important.
+
+===word: お膳===
+Nuance: 「おぜん」と読み、日本の伝統的な食事の際に使われる、一人分の料理を載せる台のことです。脚が付いた四角い台で、和食の場面で用いられます。現代では旅館や料亭などで見かけます。
+Example1: お膳に料理が並べられています。
+Example1_EN: The dishes are arranged on the tray table.
+Example2: 旅館でお膳の食事をいただきました。
+Example2_EN: I had a meal served on a tray table at the inn.
+Example3: お膳の準備はできていますか？
+Example3_EN: Is the tray table ready?
+
+===word: 研究===
+Nuance: 「けんきゅう」と読み、物事を詳しく調べ考えて真理を明らかにすることを意味します。大学や研究所での学術的な活動だけでなく、ビジネスでの市場調査などにも使われます。幅広い分野で使われる重要な言葉です。
+Example1: 私は大学で言語学を研究しています。
+Example1_EN: I am researching linguistics at university.
+Example2: この研究には五年かかりました。
+Example2_EN: This research took five years.
+Example3: 研究結果を発表してください。
+Example3_EN: Please present the research results.
+
+===word: 辞任===
+Nuance: 「じにん」と読み、自分の意思で役職や地位を辞めることを意味します。主に政治家や会社の役員など、責任ある立場の人が職を辞する際に使われます。ややフォーマルな響きがあります。
+Example1: 社長は業績不振の責任を取って辞任しました。
+Example1_EN: The president resigned taking responsibility for the poor performance.
+Example2: 大臣が突然辞任しました。
+Example2_EN: The minister suddenly resigned.
+Example3: 辞任を発表する予定です。
+Example3_EN: I plan to announce my resignation.
+
+===word: 所持===
+Nuance: 「しょじ」と読み、物を自分の持ち物として持っていることを意味します。法律や規則に関わる文脈でよく使われ、許可なく危険物を所持することの禁止など、ややフォーマルな場面で用いられます。
+Example1: この書類を所持していますか？
+Example1_EN: Do you have this document in your possession?
+Example2: 危険物を所持することは禁止されています。
+Example2_EN: Possessing dangerous items is prohibited.
+Example3: 彼は有効なパスポートを所持しています。
+Example3_EN: He holds a valid passport.
+
+===word: 不良===
+Nuance: 「ふりょう」と読み、品質が悪いことや、行儀が悪いことを意味します。製品の不良品という意味でも使われますし、不良少年のように人の素行を表す意味でも使われます。文脈によって意味が異なるので注意が必要です。
+Example1: この商品は不良品でした。
+Example1_EN: This product was defective.
+Example2: 不良品を見つけたら交換してください。
+Example2_EN: If you find a defective item, please exchange it.
+Example3: 品質不良の原因を調べています。
+Example3_EN: We are investigating the cause of the quality defect.
+
+===word: 問う===
+Nuance: 「とう」と読み、質問する、尋ねるという意味ですが、「聞く」よりも硬くフォーマルな響きがあります。また、責任を問うなどの形で、追及するニュアンスでも使われます。書き言葉や公式な場面でよく使われます。
+Example1: その問題について、専門家に意見を問いました。
+Example1_EN: I asked the expert for their opinion on that matter.
+Example2: 事件の責任を問う必要があります。
+Example2_EN: We need to hold someone accountable for the incident.
+Example3: 彼の意図を問いたいと思います。
+Example3_EN: I would like to ask about his intentions.
+
+===word: 同級生===
+Nuance: 「どうきゅうせい」と読み、同じ学校の同じ学年に属する仲間を指します。小学校から大学までの学校生活で使われ、クラスが同じかどうかに関わらず、同じ学年の人のことを指します。懐かしさや親しみを込めて使われることが多いです。
+Example1: 彼は小学校の同級生です。
+Example1_EN: He is my elementary school classmate.
+Example2: 同級生と久しぶりに会いました。
+Example2_EN: I met a classmate after a long time.
+Example3: 同級生の結婚式に招待されました。
+Example3_EN: I was invited to my classmate's wedding.
+
+===word: 歌詞===
+Nuance: 「かし」と読み、歌の中の言葉の部分を指します。メロディーではなく、歌われる言葉そのものを意味します。音楽の話題で頻繁に使われ、素晴らしい歌詞、感動的な歌詞などのように評価の対象にもなります。
+Example1: この歌の歌詞がとても素敵です。
+Example1_EN: The lyrics of this song are very lovely.
+Example2: 歌詞を覚えるまで何度も聞きました。
+Example2_EN: I listened many times until I memorized the lyrics.
+Example3: 歌詞の意味を調べましたか？
+Example3_EN: Did you look up the meaning of the lyrics?
+
+===word: 書類===
+Nuance: 「しょるい」と読み、文字や図などが書かれた紙のことを指します。仕事や役所の手続きで使われるフォーマルな文書の意味でよく使われます。申請書や報告書など、様々な種類の書類があります。
+Example1: 必要書類をすべて提出してください。
+Example1_EN: Please submit all the required documents.
+Example2: 書類に記入してからお渡しください。
+Example2_EN: Please fill out the documents and then hand them in.
+Example3: その書類はどこにしまいましたか？
+Example3_EN: Where did you put that document?
+
+===word: 少ない===
+Nuance: 「すくない」と読み、数量や程度が基準より下回っていることを表す形容詞です。お金や時間、人数など、様々なものに対して使えます。「多い」の反対語で、基本的な語彙です。
+Example1: 今日は来客が少ないです。
+Example1_EN: There are few visitors today.
+Example2: 予算が少ないので、無駄遣いはできません。
+Example2_EN: Since the budget is small, we can't waste money.
+Example3: この地域は人口が少ないですか？
+Example3_EN: Is the population small in this area?
+
+===word: 嫌う===
+Nuance: 「きらう」と読み、好きではない、避けたいと思う感情を表します。「嫌い」という形容詞よりも、動作や態度としての嫌悪を示すニュアンスがあります。人や物事に対して積極的に避ける態度を指します。
+Example1: 彼は人前で話すことを嫌います。
+Example1_EN: He dislikes speaking in public.
+Example2: この会社は遅刻を嫌います。
+Example2_EN: This company dislikes tardiness.
+Example3: 私は野菜を嫌う子供がいました。
+Example3_EN: I had a child who disliked vegetables.
+
+===word: 小指===
+Nuance: 「こゆび」と読み、手や足の一番外側にある細い指を指します。五本の指の中で最も小さいことからこの名前が付いています。約束の際に小指を絡める「ゆびきり」の習慣でも知られています。
+Example1: 小指をドアにぶつけて痛かったです。
+Example1_EN: I hit my little finger on the door and it hurt.
+Example2: 小指に指輪をしています。
+Example2_EN: I wear a ring on my little finger.
+Example3: ゆびきりは小指同士を絡めて行います。
+Example3_EN: The pinky promise is done by linking little fingers together.
+
+===word: 深呼吸する===
+Nuance: 「しんこきゅうする」と読み、ゆっくりと深く息を吸ったり吐いたりすることを意味します。リラックスや集中のため、また緊張を和らげるために行います。ヨガや瞑想の場面でもよく推奨されます。
+Example1: 緊張したときは深呼吸してください。
+Example1_EN: Please take a deep breath when you're nervous.
+Example2: 私は毎朝深呼吸をしてから仕事を始めます。
+Example2_EN: I start my work after taking deep breaths every morning.
+Example3: 深呼吸をして気持ちを落ち着けました。
+Example3_EN: I calmed my nerves by taking deep breaths.
+
+===word: 帯===
+Nuance: 「おび」と読み、着物の上に巻く布製のベルトのような装飾品を指します。和服に欠かせないアクセサリーで、種類や結び方によって格式や雰囲気が変わります。日本文化の重要な要素です。
+Example1: この帯は着物によく合います。
+Example1_EN: This sash goes well with the kimono.
+Example2: 帯の結び方を習っています。
+Example2_EN: I am learning how to tie an obi.
+Example3: その帯はとても高級そうですね。
+Example3_EN: That obi looks very high-quality.
+
+===word: 地価===
+Nuance: 「ちか」と読み、土地の価格を意味します。不動産や経済のニュースでよく使われる用語で、地域によって大きく異なります。土地の売買や税金の計算の基準となる重要な指標です。
+Example1: 東京の地価はとても高いです。
+Example1_EN: Land prices in Tokyo are very high.
+Example2: 地価の上昇が続いています。
+Example2_EN: Land prices continue to rise.
+Example3: この地域の地価を調べましたか？
+Example3_EN: Did you check the land prices in this area?
+
+===word: 新学期===
+Nuance: 「しんがっき」と読み、学校で新しい学期が始まることを指します。日本では四月に新学期が始まり、入学式や始業式が行われます。新しい環境や目標に向かう期待感を伴う言葉です。
+Example1: 新学期は四月から始まります。
+Example1_EN: The new term starts in April.
+Example2: 新学期の準備をしています。
+Example2_EN: I am preparing for the new semester.
+Example3: 新学期に新しい先生が来ました。
+Example3_EN: A new teacher came at the start of the new term.
+
+===word: 国防省===
+Nuance: 「こくぼうしょう」と読み、国の防衛や安全保障を担当する行政機関を指します。アメリカの国防総省（ペンタゴン）や日本の防衛省に相当します。ニュースや政治の話題でよく登場する言葉です。
+Example1: 国防省が新しい政策を発表しました。
+Example1_EN: The Department of Defense announced a new policy.
+Example2: 国防省の予算が増額されました。
+Example2_EN: The budget for the Department of Defense has been increased.
+Example3: 国防省の報道官が声明を出しました。
+Example3_EN: The Defense Department spokesperson issued a statement.
+
+===word: 出来るだけ===
+Nuance: 「できるだけ」と読み、可能な限りという意味の副詞表現です。努力や工夫をして、最大限に何かをしようとする態度を表します。依頼やお願いの場面でよく使われる便利な表現です。
+Example1: 出来るだけ早く終わらせます。
+Example1_EN: I will finish it as soon as possible.
+Example2: 出来るだけ多くの人に協力してもらいたいです。
+Example2_EN: I would like as many people as possible to cooperate.
+Example3: 出来るだけ安い方法を探してください。
+Example3_EN: Please find the cheapest method possible.
+
+===word: 口答え===
+Nuance: 「くちごたえ」と読み、目上の人に対して反抗的な言葉を返すことを意味します。子供が親に、または部下が上司に言い返す場面で使われ、ネガティブなニュアンスがあります。しつけやマナーの文脈でよく登場します。
+Example1: 子供が親に口答えをしてはいけません。
+Example1_EN: Children should not talk back to their parents.
+Example2: 口答えをすると叱られますよ。
+Example2_EN: If you talk back, you'll get scolded.
+Example3: 彼は上司に口答えをしました。
+Example3_EN: He talked back to his boss.
+
+===word: 発行===
+Nuance: 「はっこう」と読み、新聞や雑誌、本などを印刷して世の中に出すことや、切手や紙幣などを新しく作って流通させることを意味します。出版や金融の分野でよく使われる重要な用語です。
+Example1: この雑誌は毎月一回発行されます。
+Example1_EN: This magazine is published once a month.
+Example2: 新しい切手が来月発行されます。
+Example2_EN: New stamps will be issued next month.
+Example3: この本はいつ発行されましたか？
+Example3_EN: When was this book published?
+
+===word: 学年===
+Nuance: 「がくねん」と読み、学校での学習段階の区分を指します。小学一年生から大学四年生まで、各学年に分かれています。また、同学年の人々をまとめて指すこともあります。学校生活の基本的な単位です。
+Example1: 彼は同じ学年ですが、クラスが違います。
+Example1_EN: He is in the same grade but in a different class.
+Example2: 学年が上がるにつれて勉強が難しくなります。
+Example2_EN: As you go up in grade, the studies get harder.
+Example3: この学校は学年ごとにクラスが変わります。
+Example3_EN: In this school, classes change by grade level.
+
+===word: 金融市場===
+Nuance: 「きんゆうしじょう」と読み、お金や証券などの金融商品が取引される市場を指します。株式市場や債券市場、為替市場などが含まれます。経済ニュースやビジネスの話題で頻繁に登場する専門用語です。
+Example1: 金融市場は今日も安定しています。
+Example1_EN: The financial market is stable again today.
+Example2: 金融市場の動向を注視しています。
+Example2_EN: We are closely monitoring the financial market trends.
+Example3: 金融市場に大きな変化がありました。
+Example3_EN: There was a major change in the financial market.
+
+===word: 人物===
+Nuance: 「じんぶつ」と読み、人、特にその人の性格や能力などの特徴に注目した言い方を指します。話題の人物、歴史上の人物などのように、特定の個人を評価する文脈でよく使われます。
+Example1: 彼は信頼できる人物です。
+Example1_EN: He is a trustworthy person.
+Example2: この小説には魅力的な人物がたくさん出てきます。
+Example2_EN: This novel features many fascinating characters.
+Example3: その人物について詳しく教えてください。
+Example3_EN: Please tell me more about that person.
+
+===word: 曲===
+Nuance: 「きょく」と読み、音楽の一つの作品を指します。歌謡曲、クラシック曲、楽曲など、様々なジャンルの音楽作品に対して使われます。メロディーを中心とした音楽作品を表す基本的な語です。
+Example1: この曲はとても有名です。
+Example1_EN: This song is very famous.
+Example2: お気に入りの曲を教えてください。
+Example2_EN: Please tell me your favorite song.
+Example3: その曲をピアノで弾けますか？
+Example3_EN: Can you play that piece on the piano?
+
+===word: 愛知県===
+Nuance: 「あいちけん」と読み、日本の本州の中央部に位置する県です。名古屋市を県庁所在地とし、自動車産業で有名です。豊田市にはトヨタ自動車の本社があります。日本の工業の中心地の一つです。
+Example1: 愛知県は中部地方にあります。
+Example1_EN: Aichi Prefecture is in the Chubu region.
+Example2: 愛知県には有名な自動車工場があります。
+Example2_EN: Aichi Prefecture has famous automobile factories.
+Example3: 私は愛知県に住んだことがあります。
+Example3_EN: I have lived in Aichi Prefecture.
+
+===word: 映す===
+Nuance: 「うつす」と読み、光の反射や投影によって映像を別の場所に現すことを意味します。鏡に映る、スクリーンに映写する、写真に撮るなどの意味で使われます。物理的な映像だけでなく、心に思い浮かべる比喩的な使い方もあります。
+Example1: 彼女の顔が鏡に映っています。
+Example1_EN: Her face is reflected in the mirror.
+Example2: この映画をスクリーンに映します。
+Example2_EN: I will project this movie onto the screen.
+Example3: 写真に美しい風景を映しました。
+Example3_EN: I captured the beautiful scenery in a photograph.
+
+===word: 直す===
+Nuance: 「なおす」と読み、壊れたものや悪くなったものを元の良い状態に戻すことを意味します。物の修理だけでなく、間違いを訂正したり、態度や習慣を改善したりする意味でも幅広く使われる重要な動詞です。
+Example1: 壊れた時計を直してもらいました。
+Example1_EN: I had the broken watch repaired.
+Example2: 間違えたところを直してください。
+Example2_EN: Please correct the mistakes.
+Example3: この書類の誤字を直しました。
+Example3_EN: I fixed the typos in this document.
+
+===word: 残業===
+Nuance: 「ざんぎょう」と読み、決められた勤務時間を超えて働くことを意味します。日本のビジネス文化でよく話題になる言葉で、長時間労働の問題としても議論されることが多いです。会社員の日常に関わる重要な用語です。
+Example1: 今日は残業をしなければなりません。
+Example1_EN: I have to work overtime today.
+Example2: 残業が続いて疲れています。
+Example2_EN: I'm tired because overtime work continues.
+Example3: 残業代はちゃんと支払われますか？
+Example3_EN: Will overtime pay be properly compensated?
+
+===word: 高齢===
+Nuance: 「こうれい」と読み、年齢が高いことを意味します。主に高齢者や高齢化社会などの複合語で使われ、単独で使うよりも他の言葉と組み合わせて使われることが多いです。ややフォーマルで丁寧な響きがあります。
+Example1: 高齢の方でも使いやすい商品です。
+Example1_EN: This product is easy to use even for elderly people.
+Example2: 日本の高齢化が進んでいます。
+Example2_EN: Japan's aging population is progressing.
+Example3: 高齢の両親と一緒に住んでいます。
+Example3_EN: I live with my elderly parents.
+
+===word: 少量===
+Nuance: 「しょうりょう」と読み、量が少ないことを意味します。料理の調味料や薬の用量、ビジネスの取引量など、様々な場面で使われます。「大量」の反対語で、客観的に量が少ないことを示します。
+Example1: この薬は一度に少量だけ飲んでください。
+Example1_EN: Please take only a small amount of this medicine at a time.
+Example2: 少量の塩を加えると味が引き立ちます。
+Example2_EN: Adding a small amount of salt brings out the flavor.
+Example3: 少量から注文できますか？
+Example3_EN: Can I order a small quantity?
+
+===word: 三角===
+Nuance: 「さんかく」と読み、三つの角を持つ図形を指します。幾何学の基本的な形で、三角形のことを日常的に「三角」と呼ぶことがあります。また、三角関係などの比喩的な表現でも使われます。
+Example1: 三角の形を紙に書いてください。
+Example1_EN: Please draw a triangle shape on the paper.
+Example2: 三角の定規を使っています。
+Example2_EN: I am using a triangular ruler.
+Example3: 三角の印が付いている場所に集まってください。
+Example3_EN: Please gather at the place marked with a triangle.
+
+===word: 自国===
+Nuance: 「じこく」と読み、自分が属している国、自分の出身国を意味します。国際的な話題や比較の文脈でよく使われ、自国の文化や経済、政治について語る際に用いられます。ややフォーマルな響きがあります。
+Example1: 自国の文化をもっと大切にすべきです。
+Example1_EN: We should value our own culture more.
+Example2: 自国の経済成長について発表しました。
+Example2_EN: I gave a presentation about my country's economic growth.
+Example3: 自国の言語を勉強することは大切です。
+Example3_EN: Studying one's own language is important.
+
+===word: 臭い===
+Nuance: 「くさい」と読み、嫌な匂いがすることを意味する形容詞です。良い匂いには使わず、悪い匂いに対して使います。物理的な匂いだけでなく、比喩的に怪しい雰囲気を表すこともあります。日常会話でよく使われる言葉です。
+Example1: この部屋はたばこの臭いがします。
+Example1_EN: This room smells like cigarette smoke.
+Example2: 生ごみの臭いが気になります。
+Example2_EN: The smell of garbage bothers me.
+Example3: この魚は臭いので食べられません。
+Example3_EN: This fish smells bad, so I can't eat it.
+
+===word: 郵送===
+Nuance: 「ゆうそう」と読み、郵便で物を送ることを意味します。書類や小包などを郵便局を通じて送る際に使います。メールや宅配便が普及した現代でも、公式な書類の送付ではよく使われる表現です。
+Example1: 書類を郵送でお送りします。
+Example1_EN: I will send the documents by mail.
+Example2: 郵送料はこちらで負担します。
+Example2_EN: We will cover the postage costs.
+Example3: 申込書を郵送しましたか？
+Example3_EN: Did you mail the application form?
+
+===word: 無効===
+Nuance: 「むこう」と読み、効力や効果がないことを意味します。法律や契約の文脈で、ある行為や書類が法的に効力を持たない場合に使われます。また、機械やシステムの機能が働かない状態も指します。
+Example1: このチケットは期限が切れて無効です。
+Example1_EN: This ticket has expired and is invalid.
+Example2: パスワードが無効になりました。
+Example2_EN: The password has become invalid.
+Example3: その契約は無効だと宣言されました。
+Example3_EN: That contract was declared invalid.
+
+===word: 圧倒する===
+Nuance: 「あっとうする」と読み、力や勢いで相手を完全に抑え込むことを意味します。試合や勝負で相手を完全に打ち負かす場合や、迫力や規模で人を驚かせる場合に使われます。ポジティブにもネガティブにも使える表現です。
+Example1: そのチームは相手を三対零で圧倒しました。
+Example1_EN: That team overwhelmed the opponent three to nothing.
+Example2: 彼のプレゼンテーションは観客を圧倒しました。
+Example2_EN: His presentation overwhelmed the audience.
+Example3: 大自然の美しさに圧倒されました。
+Example3_EN: I was overwhelmed by the beauty of nature.
+
+===word: あり得る===
+Nuance: 「ありえる」と読み、可能性や起こり得ることを表す表現です。ある事態が現実に起こる可能性があるかどうかを述べる際に使います。否定形の「あり得ない」も日常会話で非常によく使われます。
+Example1: それは十分にあり得る話です。
+Example1_EN: That is a perfectly possible scenario.
+Example2: こんなことがあり得るのでしょうか？
+Example2_EN: Is it possible for something like this to happen?
+Example3: 彼が遅れることもあり得ます。
+Example3_EN: It's possible that he might be late.
+
+===word: 法学部===
+Nuance: 「ほうがくぶ」と読み、大学で法律を学ぶ学部を指します。弁護士や検察官、裁判官などの法律専門家を目指す学生が多く在籍します。日本の大学の代表的な学部の一つです。
+Example1: 私は大学の法学部で学んでいます。
+Example1_EN: I am studying at the university's faculty of law.
+Example2: 法学部の入学試験は難しいです。
+Example2_EN: The entrance exam for the law faculty is difficult.
+Example3: 彼は法学部を卒業して弁護士になりました。
+Example3_EN: He graduated from law school and became a lawyer.
+
+===word: 閉じる===
+Nuance: 「とじる」と読み、本やノート、目などを閉じることを意味します。店や施設を閉める場合は「閉める」を使い、この「閉じる」は主に開閉するもの（本、傘、目など）に使われます。使い分けが重要な動詞です。
+Example1: 本を閉じて、休憩しましょう。
+Example1_EN: Let's close the book and take a break.
+Example2: 目を閉じてリラックスしてください。
+Example2_EN: Please close your eyes and relax.
+Example3: 傘を閉じてから電車に乗ってください。
+Example3_EN: Please close your umbrella before getting on the train.
+
+===word: 栽培===
+Nuance: 「さいばい」と読み、植物を育てることを意味します。農業や園芸の分野で使われ、野菜や花、果物などを計画的に育てることを指します。商業的な農業から家庭菜園まで幅広い場面で使われます。
+Example1: この地域では稲の栽培が盛んです。
+Example1_EN: Rice cultivation is thriving in this region.
+Example2: トマトの栽培に挑戦しています。
+Example2_EN: I am trying my hand at growing tomatoes.
+Example3: 有機栽培の野菜は人気があります。
+Example3_EN: Organically grown vegetables are popular.
+
+===word: 射殺する===
+Nuance: 「しゃさつする」と読み、銃で撃って殺すことを意味します。主にニュースや事件の報道で使われる重い言葉です。警察の職務執行や犯罪の文脈で登場し、日常会話ではほとんど使われません。
+Example1: 犯人は警察に射殺されました。
+Example1_EN: The suspect was shot dead by the police.
+Example2: 射殺事件の詳細が報告されました。
+Example2_EN: The details of the shooting death case were reported.
+Example3: その地域では射殺事件が増えています。
+Example3_EN: Shooting deaths are increasing in that area.
+
+===word: 一部分===
+Nuance: 「いちぶぶん」と読み、全体の中の一部を指します。物事の全体ではなく、その一部だけを取り出して話題にする際に使われます。全体に対する部分の割合が明確でない場合にも使える便利な表現です。
+Example1: この問題の一部分だけを説明します。
+Example1_EN: I will explain only a part of this problem.
+Example2: その計画の一部分は変更されました。
+Example2_EN: A part of that plan has been changed.
+Example3: 書類の一部分に誤りがありました。
+Example3_EN: There was an error in part of the document.
+
+===word: 記憶===
+Nuance: 「きおく」と読み、過去の経験や学んだことを覚えている能力や、その内容そのものを指します。コンピューターの記憶装置の意味でも使われますが、主に人間の記憶について語る際に使われる基本的な言葉です。
+Example1: 彼の名前は私の記憶に残っています。
+Example1_EN: His name remains in my memory.
+Example2: 幼い頃の記憶はあまりありません。
+Example2_EN: I don't have many memories from my early childhood.
+Example3: その出来事は私の記憶に強く刻まれています。
+Example3_EN: That event is strongly etched in my memory.
+
+===word: 一流===
+Nuance: 「いちりゅう」と読み、技術や能力が最も優れたレベルにあることを意味します。一流のホテル、一流のシェフなどのように、最高級の品質や評価を示す際に使われます。目標や評価の基準としてよく使われる言葉です。
+Example1: 彼は一流のピアニストです。
+Example1_EN: He is a first-class pianist.
+Example2: このホテルは一流のサービスを提供しています。
+Example2_EN: This hotel provides first-class service.
+Example3: 一流の企業で働くことが私の夢です。
+Example3_EN: Working at a top-tier company is my dream.
+
+===word: イスラム教===
+Nuance: 「イスラムきょう」と読み、世界三大宗教の一つで、アッラーを唯一神とする宗教を指します。コーランを聖典とし、世界中に多くの信者がいます。ニュースや国際理解の文脈でよく登場する重要な宗教用語です。
+Example1: イスラム教は世界中に多くの信者がいます。
+Example1_EN: Islam has many followers around the world.
+Example2: イスラム教について勉強しています。
+Example2_EN: I am studying about Islam.
+Example3: イスラム教の文化や習慣を尊重しましょう。
+Example3_EN: Let's respect the culture and customs of Islam.
+
+===word: 見守る===
+Nuance: 「みまもる」と読み、何かが起こるのを注意深く見続けることや、大切な人の成長や安全を気にかけながら見ていることを意味します。温かい気持ちで見守るというニュアンスが強く、愛情や心配を伴うことが多いです。
+Example1: 子供の成長を静かに見守っています。
+Example1_EN: I am quietly watching over my child's growth.
+Example2: 彼の回復を家族が見守っています。
+Example2_EN: His family is watching over his recovery.
+Example3: 新入社員の様子を見守ってください。
+Example3_EN: Please keep an eye on the new employee's progress.
+
+===word: 当局===
+Nuance: 「とうきょく」と読み、その事柄に関係する行政機関や責任ある立場の組織を指します。警察当局、税務当局、監督当局などのように使われ、ニュースや公式発表でよく登場するややフォーマルな言葉です。
+Example1: 当局が事件の調査を始めました。
+Example1_EN: The authorities have begun investigating the case.
+Example2: 当局の発表によると、被害は拡大しています。
+Example2_EN: According to the authorities, the damage is spreading.
+Example3: 当局に問い合わせてみます。
+Example3_EN: I will inquire with the authorities.
+
+===word: 受付嬢===
+Nuance: 「うけつけじょう」と読み、会社やホテルなどの受付で対応をする女性のことを指します。来客の案内や電話の取り次ぎなどの業務を行います。やや古い印象のある言葉で、現代では「受付」や「フロントスタッフ」と言うことが多いです。
+Example1: 受付嬢に名前を伝えてください。
+Example1_EN: Please tell your name to the receptionist.
+Example2: ホテルの受付嬢が親切に案内してくれました。
+Example2_EN: The hotel receptionist kindly guided me.
+Example3: 受付嬢は日本語と英語を話せます。
+Example3_EN: The receptionist can speak both Japanese and English.
+
+===word: 名前をつける===
+Nuance: 「なまえをつける」と読み、人や物に名前を付ける行為を意味します。赤ちゃんの命名、ペットの名前、新しい製品の名称など、様々な場面で使われる日常的な表現です。
+Example1: 赤ちゃんにどんな名前をつけますか？
+Example1_EN: What name will you give the baby?
+Example2: この犬に「モモ」という名前をつけました。
+Example2_EN: I named this dog Momo.
+Example3: 新しい製品に名前をつけるのは難しいです。
+Example3_EN: It's difficult to name a new product.
+
+===word: 外す===
+Nuance: 「はずす」と読み、付いているものを取ることや、予定や約束をキャンセルすることを意味します。メガネを外す、ボタンを外すなどの物理的な動作から、席を外す、予定を外すなどの抽象的な使い方まで幅広いです。
+Example1: 部屋に入るときは靴を外してください。
+Example1_EN: Please take off your shoes when entering the room.
+Example2: メガネを外して顔を洗いました。
+Example2_EN: I took off my glasses and washed my face.
+Example3: ボタンを外してからシャツを脱いでください。
+Example3_EN: Please unbutton the shirt before taking it off.

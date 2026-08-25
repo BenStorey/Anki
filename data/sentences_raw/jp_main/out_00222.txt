@@ -1,0 +1,548 @@
+===word: 名医===
+Nuance: 非常に優れた技術や知識を持つ医者のことを指します。患者からの信頼も厚く、評判の高い医者を表す尊敬の意味を含んだ言葉です。
+Example1: あの病院には名医がいるそうです。
+Example1_EN: I hear there's a great doctor at that hospital.
+Example2: 名医に診てもらうために、予約を取りました。
+Example2_EN: I made a reservation to be seen by a renowned doctor.
+Example3: 彼は名医として全国的に知られています。
+Example3_EN: He is known nationwide as an excellent doctor.
+
+===word: 都内===
+Nuance: 東京都の区域内を指す言葉で、主に東京の23区を中心とした地域を意味します。ニュースやビジネスシーンでよく使われるややフォーマルな表現です。
+Example1: 都内には多くの観光スポットがあります。
+Example1_EN: There are many tourist spots within Tokyo.
+Example2: 都内の不動産価格は年々上がっています。
+Example2_EN: Real estate prices in Tokyo have been rising year by year.
+Example3: 来週、都内で会議があります。
+Example3_EN: I have a meeting in Tokyo next week.
+
+===word: くたばる===
+Nuance: 「死ぬ」という意味の乱暴な俗語で、怒りや軽蔑の気持ちを込めて使われます。非常にカジュアルで下品な表現なので、日常会話でも注意が必要です。
+Example1: あんなやつ、早くくたばればいいのにと思います。
+Example1_EN: I think a guy like that should just drop dead already.
+Example2: くたばるまで働かされるのは嫌です。
+Example2_EN: I don't want to be made to work until I drop dead.
+Example3: あの犬は老衰でくたばりました。
+Example3_EN: That dog kicked the bucket from old age.
+
+===word: 役所===
+Nuance: 国や地方公共団体の行政事務を行う官公署のことです。一般的には市区町村の役場を指すことが多く、住民票の取得や税金の手続きなどで利用します。
+Example1: 役所に住民票を取りに行きました。
+Example1_EN: I went to the municipal office to get my certificate of residence.
+Example2: 役所の手続きは書類が多くて大変です。
+Example2_EN: Procedures at the government office are tough because there are so many documents.
+Example3: 新しいパスポートを役所で申請しました。
+Example3_EN: I applied for a new passport at the government office.
+
+===word: 本紙===
+Nuance: 新聞や雑誌などの出版物において、その刊行物自体を指す言葉です。特に別刷りや付録と区別する際に使われる、やや専門的な表現です。
+Example1: 本紙の一面に大きな記事が載っています。
+Example1_EN: A big article appears on the front page of this newspaper.
+Example2: 本紙の読者アンケートにご協力ください。
+Example2_EN: Please cooperate with this newspaper's reader survey.
+Example3: 本紙の編集方針について説明します。
+Example3_EN: I will explain the editorial policy of this newspaper.
+
+===word: 仲良く===
+Nuance: 人と人の関係が良好で、親しく付き合う様子を表します。友達や家族、同僚など、対人関係全般に使える温かみのある表現です。
+Example1: 隣の席の同僚と仲良くしています。
+Example1_EN: I get along well with my colleague at the next desk.
+Example2: 子供たちは仲良く遊んでいます。
+Example2_EN: The children are playing together nicely.
+Example3: 夫婦はいつまでも仲良く暮らしたいものです。
+Example3_EN: A married couple should want to live harmoniously forever.
+
+===word: 冷蔵庫===
+Nuance: 食品や飲み物を低温で保存するための家庭電化製品です。現代の家庭に欠かせない調理器具の一つで、日本語では「れいぞうこ」と読みます。
+Example1: 冷蔵庫に牛乳を入れました。
+Example1_EN: I put the milk in the refrigerator.
+Example2: この冷蔵庫は省エネで電気代が安いです。
+Example2_EN: This refrigerator is energy-efficient and cheap on electricity bills.
+Example3: 冷蔵庫の中の食材で夕食を作りました。
+Example3_EN: I made dinner with the ingredients in the refrigerator.
+
+===word: 置く===
+Nuance: 物をある場所に位置させる、または物を一定の場所に留まらせるという基本的な動作を表します。日常生活で非常によく使われる重要な動詞です。
+Example1: 花瓶をテーブルの上に置きます。
+Example1_EN: I will place the vase on the table.
+Example2: 荷物はここに置かないでください。
+Example2_EN: Please don't put your luggage here.
+Example3: 鍵はいつも同じ場所に置くことにしています。
+Example3_EN: I make it a rule to always put my keys in the same place.
+
+===word: 繁殖する===
+Nuance: 生物が子孫を増やしていくことを意味します。動物や植物の個体数が増える現象を指し、農業や生物学の分野でよく使われる専門的な言葉です。
+Example1: この地域ではウサギが急速に繁殖しています。
+Example1_EN: Rabbits are breeding rapidly in this area.
+Example2: 外来種が繁殖すると在来種に影響があります。
+Example2_EN: When invasive species breed, it affects native species.
+Example3: 適切な環境で魚を繁殖させることが大切です。
+Example3_EN: It is important to breed fish in a suitable environment.
+
+===word: 着手===
+Nuance: 何か新しい仕事や計画を始めることを意味する、ややフォーマルな表現です。ビジネスやプロジェクトの場面でよく使われる硬い印象の言葉です。
+Example1: 来月から新プロジェクトに着手します。
+Example1_EN: We will start work on the new project from next month.
+Example2: 問題の解決に着手しました。
+Example2_EN: We have begun working on solving the problem.
+Example3: この工事は来週着手する予定です。
+Example3_EN: This construction is scheduled to start next week.
+
+===word: 瞬間===
+Nuance: 非常に短い時間、ほとんど一瞬のことを指します。物理的な時間の単位というよりは、ある出来事が起こるまさにその時を強調する言葉です。
+Example1: その瞬間、何も言えませんでした。
+Example1_EN: At that moment, I couldn't say anything.
+Example2: 彼がゴールを決めた瞬間、観客が沸きました。
+Example2_EN: The moment he scored the goal, the audience erupted.
+Example3: 窓を開けた瞬間、冷たい風が入ってきました。
+Example3_EN: The moment I opened the window, a cold wind came in.
+
+===word: 足下===
+Nuance: 足のすぐ下の地面や床の部分を指します。また、比喩的に人の立場や状況を表すこともあります。日常会話でよく使われる言葉です。
+Example1: 足下に気をつけて歩いてください。
+Example1_EN: Please walk carefully, watching your step.
+Example2: 足下が暗いので、懐中電灯が必要です。
+Example2_EN: It's dark underfoot, so I need a flashlight.
+Example3: 彼は足下をすくわれて転びました。
+Example3_EN: He was tripped up and fell.
+
+===word: 排水===
+Nuance: 水を排出すること、またはそのための設備や仕組みを指します。家庭や工場、農業など様々な場面で使われる実用的な言葉です。
+Example1: この地域の排水設備は古くなっています。
+Example1_EN: The drainage facilities in this area are old.
+Example2: 工場から排水を流す前に浄化します。
+Example2_EN: We purify the wastewater before discharging it from the factory.
+Example3: 大雨で排水が追いつきませんでした。
+Example3_EN: The drainage couldn't keep up with the heavy rain.
+
+===word: 立派===
+Nuance: 外見や内容が立派で、他人の目立つほど優れていることを表す形容動詞です。人や建物、業績など幅広い対象に使える褒め言葉です。
+Example1: あの建物はとても立派ですね。
+Example1_EN: That building is very magnificent, isn't it?
+Example2: 彼は立派な社会人になりました。
+Example2_EN: He has become a fine member of society.
+Example3: 立派な成績を収めて卒業しました。
+Example3_EN: He graduated with excellent results.
+
+===word: 傾向===
+Nuance: ある方向に偏った状態や、物事の起こりやすい状態を表します。統計やデータ分析、社会現象の説明などでよく使われる言葉です。
+Example1: 最近の若者は結婚しない傾向があります。
+Example1_EN: Recently, young people tend not to get married.
+Example2: この地域では地震の発生傾向が高まっています。
+Example2_EN: The tendency for earthquakes to occur is increasing in this region.
+Example3: 円安の傾向が続いています。
+Example3_EN: The trend of a weak yen continues.
+
+===word: 点数===
+Nuance: 試験やゲームなどで評価を示す数字のことです。学校のテストの成績やスポーツの得点など、様々な場面で使われる日常的な言葉です。
+Example1: テストの点数が思ったより良かったです。
+Example1_EN: My test score was better than I expected.
+Example2: このゲームの最高点数はいくつですか？
+Example2_EN: What is the highest score in this game?
+Example3: 点数を確認してから答案を返しました。
+Example3_EN: I checked the scores before returning the exam papers.
+
+===word: 原因===
+Nuance: 何かが起こるもとになった事柄や理由を指します。問題や出来事の発生源を特定する際に使われる、客観的で分析的な言葉です。
+Example1: 事故の原因を調査しています。
+Example1_EN: We are investigating the cause of the accident.
+Example2: 体調不良の原因は睡眠不足だと思います。
+Example2_EN: I think the cause of my poor health is lack of sleep.
+Example3: この問題の原因は何ですか？
+Example3_EN: What is the cause of this problem?
+
+===word: 助手===
+Nuance: 専門家や上司の仕事を補助する人のことを指します。医者や教授、研究者などのアシスタントとして働く人に使われる、職業的な表現です。
+Example1: 彼女は教授の助手として働いています。
+Example1_EN: She works as a professor's assistant.
+Example2: 助手が実験の準備をしてくれました。
+Example2_EN: My assistant prepared the experiment for me.
+Example3: この研究室には三人の助手がいます。
+Example3_EN: This laboratory has three assistants.
+
+===word: そっくり===
+Nuance: 物や人が非常によく似ている様子を表す形容動詞です。親子や兄弟で顔がよく似ている時や、物が本物そっくりに作られている時に使います。
+Example1: 彼はお父さんにそっくりですね。
+Example1_EN: He looks just like his father, doesn't he?
+Example2: この人形は本物の赤ちゃんにそっくりです。
+Example2_EN: This doll looks just like a real baby.
+Example3: あの建物は白鳥にそっくりな形をしています。
+Example3_EN: That building has a shape that looks just like a swan.
+
+===word: アジト===
+Nuance: 犯罪組織や秘密結社などが拠点として使う隠れ家を意味する言葉です。もともとは英語の「アジト（隠れ家）」から来た和製外来語で、やや俗語的です。
+Example1: 犯人は山の中にアジトを構えていたようです。
+Example1_EN: It seems the criminals had set up a hideout in the mountains.
+Example2: 秘密のアジトで計画を練りました。
+Example2_EN: We hatched our plans at a secret hideout.
+Example3: スパイのアジトが警察に発見されました。
+Example3_EN: The spy's hideout was discovered by the police.
+
+===word: 蜜月===
+Nuance: 結婚後最初の幸せな時期を指す言葉で、いわゆるハネムーンのことです。比喩的に、組織や団体同士の関係が最も良好な時期を表すこともあります。
+Example1: 新婚の二人は蜜月を楽しんでいます。
+Example1_EN: The newlyweds are enjoying their honeymoon.
+Example2: 蜜月旅行でハワイに行きました。
+Example2_EN: I went to Hawaii for my honeymoon trip.
+Example3: 両社の関係はまさに蜜月状態でした。
+Example3_EN: The relationship between the two companies was truly in a honeymoon period.
+
+===word: 食パン===
+Nuance: 日本で一般的に食べられている、四角い形の白いパンのことです。主に朝食やトーストとして食べられ、一枚一枚切って使います。
+Example1: 朝はいつも食パンを一枚焼いて食べます。
+Example1_EN: I always toast and eat one slice of bread in the morning.
+Example2: この食パンはしっとりしていて美味しいです。
+Example2_EN: This bread loaf is moist and delicious.
+Example3: 食パンにバターとジャムを塗りました。
+Example3_EN: I spread butter and jam on the bread.
+
+===word: 憤慨===
+Nuance: 不正や理不尽なことに強く怒る気持ちを表す言葉です。単なる「怒り」よりも、正義感に基づいた強い憤りのニュアンスがあります。
+Example1: 彼の不当な扱いに憤慨しています。
+Example1_EN: I am indignant at his unfair treatment.
+Example2: 社長の発言に社員全員が憤慨しました。
+Example2_EN: All the employees were outraged at the president's remarks.
+Example3: そのニュースを見て、憤慨せずにはいられませんでした。
+Example3_EN: I couldn't help but feel indignant when I saw that news.
+
+===word: 誤訳===
+Nuance: 翻訳の際に内容を間違って訳すこと、またはその間違った翻訳を指します。特に専門的な文章や文学の翻訳で問題になることが多い言葉です。
+Example1: このマニュアルには誤訳がいくつかあります。
+Example1_EN: There are several mistranslations in this manual.
+Example2: 誤訳があった場合はお知らせください。
+Example2_EN: Please let us know if there are any mistranslations.
+Example3: その文の誤訳を指摘しました。
+Example3_EN: I pointed out the mistranslation in that sentence.
+
+===word: 呼び戻す===
+Nuance: 離れた場所にいる人や物を、元の場所に呼び寄せることを意味する動詞です。電話や連絡で人を呼び戻す場合や、記憶を思い出す場合にも使います。
+Example1: 緊急の用事で息子を呼び戻しました。
+Example1_EN: I called my son back due to an urgent matter.
+Example2: 彼は海外から本国に呼び戻されました。
+Example2_EN: He was called back to his home country from overseas.
+Example3: 昔の記憶を呼び戻そうとしましたが、うまくいきませんでした。
+Example3_EN: I tried to bring back old memories, but I couldn't.
+
+===word: 郷===
+Nuance: 生まれ育った故郷や田舎のことを指す、やや古風で詩的な響きのある言葉です。現代ではあまり日常会話では使われず、文学作品や地名などで見られます。
+Example1: この郷には美しい自然が残っています。
+Example1_EN: This village has beautiful nature remaining.
+Example2: 遠く離れた郷のことが懐かしいです。
+Example2_EN: I miss my faraway hometown.
+Example3: 郷に入っては郷に従うのが良いと言われます。
+Example3_EN: They say you should follow the customs of the place you visit.
+
+===word: 戦況===
+Nuance: 戦争や戦闘の状況や経過を指す言葉です。軍事やニュース報道で使われる、やや硬い表現です。比喩的にビジネスの競争状況を表すこともあります。
+Example1: 戦況は刻々と変化しています。
+Example1_EN: The war situation is changing moment by moment.
+Example2: 最新の戦況を報告します。
+Example2_EN: I will report on the latest battle situation.
+Example3: 戦況が有利に進んでいます。
+Example3_EN: The battle situation is progressing favorably.
+
+===word: 検索エンジン===
+Nuance: インターネット上で情報を探すためのシステムのことを指します。代表的な検索エンジンとして様々なサービスがあり、現代の情報収集に欠かせないツールです。
+Example1: 検索エンジンを使って情報を調べました。
+Example1_EN: I looked up information using a search engine.
+Example2: この検索エンジンは使いやすいです。
+Example2_EN: This search engine is easy to use.
+Example3: 検索エンジンの結果を比較しました。
+Example3_EN: I compared the results from the search engine.
+
+===word: 学説===
+Nuance: 学問の分野で提唱された理論や考え方のことを指します。科学的な研究や学術的な議論の対象となる、専門性の高い言葉です。
+Example1: この学説は多くの学者に支持されています。
+Example1_EN: This theory is supported by many scholars.
+Example2: 新しい学説が発表されました。
+Example2_EN: A new academic theory was announced.
+Example3: その学説は後に否定されました。
+Example3_EN: That theory was later disproven.
+
+===word: 鼻くそ===
+Nuance: 鼻の内部にできる乾燥した粘液の塊を指す、非常にカジュアルでやや下品な言葉です。医学用語の「鼻垢」よりも日常的でくだけた表現です。
+Example1: 子供の頃、鼻くそをよくほじっていました。
+Example1_EN: When I was a child, I used to pick my nose a lot.
+Example2: 鼻くそが気になって仕方ありません。
+Example2_EN: I can't stop being bothered by the boogers in my nose.
+Example3: 鼻くそを指で取るのはやめましょう。
+Example3_EN: Let's stop picking boogers with our fingers.
+
+===word: コンクール===
+Nuance: 音楽や美術などの芸術分野で行われる競技会や発表会のことを指します。フランス語由来の言葉で、日本語として定着しています。
+Example1: ピアノのコンクールで一位になりました。
+Example1_EN: I won first place in a piano competition.
+Example2: 来月、合唱コンクールが開催されます。
+Example2_EN: A choral competition will be held next month.
+Example3: コンクールに向けて毎日練習しています。
+Example3_EN: I practice every day for the competition.
+
+===word: 冷や汗===
+Nuance: 恐怖や緊張、不安などの心理的なストレスによって出る汗のことを指します。暑さや運動による汗とは区別される、感情的な反応です。
+Example1: 試験の結果を見て冷や汗が出ました。
+Example1_EN: I broke out in a cold sweat when I saw my exam results.
+Example2: 上司に呼ばれて冷や汗をかきました。
+Example2_EN: I was called by my boss and broke out in a cold sweat.
+Example3: 危うく大事故になるところで冷や汗ものでした。
+Example3_EN: It was a cold-sweat moment when we nearly had a major accident.
+
+===word: 水位===
+Nuance: 川や湖、ダムなどの水面の高さを表す言葉です。洪水の危険度を測る指標としても使われる、気象や防災の分野で重要な用語です。
+Example1: 大雨で川の水位が上がっています。
+Example1_EN: The river's water level is rising due to the heavy rain.
+Example2: ダムの水位を定期的にチェックしています。
+Example2_EN: We regularly check the water level of the dam.
+Example3: 水位が危険なレベルに達しました。
+Example3_EN: The water level has reached a dangerous level.
+
+===word: 意見===
+Nuance: ある事柄について自分が考えることや感じることを述べたものです。会議や討論、日常会話など幅広い場面で使われる基本的な言葉です。
+Example1: 皆さんの意見を聞かせてください。
+Example1_EN: Please let me hear everyone's opinions.
+Example2: 私は彼の意見に賛成です。
+Example2_EN: I agree with his opinion.
+Example3: 意見が合わなくて議論になりました。
+Example3_EN: We ended up in a debate because our opinions differed.
+
+===word: 議席===
+Nuance: 議会や会議で議員が座る席のことで、転じて議員の地位そのものを指すこともあります。選挙や政治のニュースでよく使われる言葉です。
+Example1: この政党は議席を大幅に増やしました。
+Example1_EN: This political party greatly increased its seats.
+Example2: 彼女は議席を獲得するために選挙に出ました。
+Example2_EN: She ran in the election to win a seat.
+Example3: その党は二百議席を超えました。
+Example3_EN: That party surpassed two hundred seats.
+
+===word: 突撃命令===
+Nuance: 軍隊などで、敵に向かって一斉に攻撃を開始するよう命じることを指します。日常では比喩的に、何かを一気に進める指示を出す意味でも使われます。
+Example1: 隊長が突撃命令を出しました。
+Example1_EN: The captain gave the order to charge.
+Example2: 上司から突撃命令が出て、一晩中働きました。
+Example2_EN: The boss gave a rush order, and we worked all night.
+Example3: 突撃命令が下るのを待っています。
+Example3_EN: We are waiting for the order to charge.
+
+===word: 逆風===
+Nuance: 進行方向から吹いてくる向かい風を指す言葉です。比喩的に、物事を進める上での障害や反対勢力のことを表すこともあります。
+Example1: 自転車で逆風の中を走るのは大変です。
+Example1_EN: Riding a bicycle in a headwind is tough.
+Example2: 経済の逆風が業績に影響しています。
+Example2_EN: Economic headwinds are affecting our performance.
+Example3: 逆風に負けずに前進し続けます。
+Example3_EN: We will keep moving forward without losing to the headwinds.
+
+===word: 格差===
+Nuance: 個人や集団の間にある経済的、社会的な差のことを指します。特に所得や教育、機会の不平等を議論する際に使われる、社会問題に関連する言葉です。
+Example1: 都市と地方の格差は広がっています。
+Example1_EN: The gap between urban and rural areas is widening.
+Example2: 所得格差の問題を解決する必要があります。
+Example2_EN: We need to solve the problem of income disparity.
+Example3: 教育格差をなくすための政策が進められています。
+Example3_EN: Policies are being promoted to eliminate the education gap.
+
+===word: 住まい===
+Nuance: 人が生活するための家や居住場所を指す、やや丁寧な言い方です。「家」よりもフォーマルで、不動産や住宅関連の場面でよく使われます。
+Example1: 新しい住まいを探しています。
+Example1_EN: I am looking for a new place to live.
+Example2: 住まいの環境は健康に影響します。
+Example2_EN: The living environment affects your health.
+Example3: この地域は住まいとして人気があります。
+Example3_EN: This area is popular as a place to live.
+
+===word: 送り込む===
+Nuance: 人や物を目的地に向かって送り届けることを意味する動詞です。ビジネスでは人材を派遣する意味で、軍事では部隊を投入する意味で使われます。
+Example1: 優秀な社員を支店に送り込みました。
+Example1_EN: We sent an excellent employee to the branch office.
+Example2: 救援物資を被災地に送り込みます。
+Example2_EN: We will send relief supplies to the disaster area.
+Example3: スパイを敵陣に送り込む計画です。
+Example3_EN: It's a plan to send a spy into enemy territory.
+
+===word: 小型===
+Nuance: 通常のサイズよりも小さいことを表す言葉です。機械や車、家電製品など、様々な物のサイズを表現する際に使われる便利な形容動詞です。
+Example1: 小型の冷蔵庫を買いました。
+Example1_EN: I bought a small refrigerator.
+Example2: この車は小型で運転しやすいです。
+Example2_EN: This car is compact and easy to drive.
+Example3: 小型のロボットが開発されました。
+Example3_EN: A small-sized robot has been developed.
+
+===word: 連れ戻す===
+Nuance: どこかへ行った人や逃げた人を元の場所に連れて帰ることを意味する動詞です。物理的に人を連れ戻す場合と、気持ちや考えを元に戻す場合に使います。
+Example1: 逃げ出した犬を連れ戻しました。
+Example1_EN: I brought back the dog that had run away.
+Example2: 彼を会社に連れ戻すのは難しいでしょう。
+Example2_EN: It will be difficult to bring him back to the company.
+Example3: 子供を遊び場から連れ戻しました。
+Example3_EN: I brought the child back from the playground.
+
+===word: 作者===
+Nuance: 文学作品や芸術作品、音楽などを創作した人のことを指します。絵画の画家や小説の作家など、作品の生みの親を表す一般的な言葉です。
+Example1: この小説の作者は誰ですか？
+Example1_EN: Who is the author of this novel?
+Example2: 作者の意図を考えながら読みました。
+Example2_EN: I read it while thinking about the author's intention.
+Example3: 作者のサインをもらいました。
+Example3_EN: I got the author's autograph.
+
+===word: 新作===
+Nuance: 新しく作られた作品や商品のことを指します。映画や音楽、ゲーム、ファッションなど、クリエイティブな分野でよく使われる言葉です。
+Example1: 新作の映画を観に行きました。
+Example1_EN: I went to see the new movie.
+Example2: このブランドの新作は来週発売されます。
+Example2_EN: This brand's new collection will be released next week.
+Example3: 新作のケーキを試食しました。
+Example3_EN: I tried a sample of the new cake.
+
+===word: C言語===
+Nuance: コンピュータプログラミング言語の一つで、基本ソフトや組み込みシステムの開発に広く使われています。一九七〇年代に開発された歴史ある言語です。
+Example1: 大学でC言語を勉強しました。
+Example1_EN: I studied the C language at university.
+Example2: C言語は処理速度が速いことで知られています。
+Example2_EN: The C language is known for its fast processing speed.
+Example3: C言語でプログラムを書いています。
+Example3_EN: I am writing a program in the C language.
+
+===word: 煙===
+Nuance: 物が燃える時に発生する、目に見える気体のことを指します。火事やタバコ、料理など様々な場面で見られる、日常的な言葉です。
+Example1: 遠くから煙が上がっているのが見えます。
+Example1_EN: I can see smoke rising from afar.
+Example2: 煙が目にしみて痛いです。
+Example2_EN: The smoke stings my eyes and hurts.
+Example3: 工場の煙突から煙が出ています。
+Example3_EN: Smoke is coming out of the factory chimney.
+
+===word: 無名===
+Nuance: 名前が知られていないこと、または名声や評価を得ていないことを意味します。芸術家や作家など、まだ世間に認められていない人に対して使われます。
+Example1: 彼は無名の画家でしたが、今では有名です。
+Example1_EN: He was an unknown painter, but now he is famous.
+Example2: 無名の時代から応援していました。
+Example2_EN: I have been supporting him since his unknown days.
+Example3: この作品は無名の作者によるものです。
+Example3_EN: This work is by an unknown author.
+
+===word: 詩的===
+Nuance: 詩のように美しく、情感豊かで想像力をかき立てる様子を表す形容動詞です。風景や表現、雰囲気などに対して使われる、感性的な言葉です。
+Example1: この風景はとても詩的ですね。
+Example1_EN: This scenery is very poetic, isn't it?
+Example2: 彼の言葉には詩的な響きがあります。
+Example2_EN: His words have a poetic ring to them.
+Example3: 詩的な表現を使って手紙を書きました。
+Example3_EN: I wrote a letter using poetic expressions.
+
+===word: 本題===
+Nuance: 話や議論の中心となる、最も重要なテーマや問題のことを指します。前置きや余談と区別して、核心的な話題を指す時に使う便利な言葉です。
+Example1: そろそろ本題に入りましょう。
+Example1_EN: Let's get to the main point soon.
+Example2: 本題からそれないようにしてください。
+Example2_EN: Please try not to stray from the main topic.
+Example3: 本題はこれではありません。
+Example3_EN: This is not the main issue.
+
+===word: 刑事===
+Nuance: 警察官の中で、犯罪の捜査を専門に行う職種のことを指します。一般的な警察官（制服警官）とは違い、私服で活動することが多いです。
+Example1: 刑事が事件の詳細を調べています。
+Example1_EN: The detective is investigating the details of the case.
+Example2: 彼は刑事になるために試験を受けました。
+Example2_EN: He took the exam to become a detective.
+Example3: あの刑事は優秀な捜査官です。
+Example3_EN: That detective is an excellent investigator.
+
+===word: 金融商品===
+Nuance: 銀行や証券会社などが提供する、投資や貯蓄のための商品のことです。株式や債券、投資信託などが含まれ、資産運用の選択肢として使われます。
+Example1: この金融商品は利回りが良いです。
+Example1_EN: This financial product has a good yield.
+Example2: 金融商品を購入する前に注意事項を読みました。
+Example2_EN: I read the terms and conditions before purchasing the financial product.
+Example3: 金融商品のリスクについて説明します。
+Example3_EN: I will explain the risks of the financial product.
+
+===word: 消耗===
+Nuance: 物やエネルギーが使われて減っていくこと、または体力や精神力が疲れ切ることを意味します。物理的な消耗と精神的な消耗の両方に使われます。
+Example1: 長距離の移動で体力を消耗しました。
+Example1_EN: I exhausted my physical strength from the long-distance travel.
+Example2: この機械は部品の消耗が早いです。
+Example2_EN: This machine's parts wear out quickly.
+Example3: 精神的な消耗が激しい仕事です。
+Example3_EN: This is a job that causes severe mental exhaustion.
+
+===word: 軌道===
+Nuance: 天体や人工衛星が回る道筋、または電車やロケットなどが走る決まった経路を指します。比喩的に、物事が進むべき正しい道筋の意味でも使われます。
+Example1: 衛星が地球の軌道を回っています。
+Example1_EN: The satellite is orbiting the Earth.
+Example2: 計画が軌道に乗ってきました。
+Example2_EN: The plan has gotten on track.
+Example3: 電車が軌道を外れて事故になりました。
+Example3_EN: The train derailed from the tracks and caused an accident.
+
+===word: 理由===
+Nuance: 何かが起こった原因や、ある行動をとる根拠を説明するための言葉です。日常会話からビジネスまで、あらゆる場面で使われる非常に基本的な名詞です。
+Example1: 遅刻した理由を説明してください。
+Example1_EN: Please explain the reason for being late.
+Example2: 彼が辞めた理由はわかりません。
+Example2_EN: I don't know the reason why he quit.
+Example3: そう思う理由を教えてください。
+Example3_EN: Please tell me the reason why you think so.
+
+===word: 新築===
+Nuance: 建物が新しく建てられたこと、または新しく建てられた建物自体を指します。主に住宅やマンションなどの不動産広告でよく見られる言葉です。
+Example1: 新築のマンションに引っ越しました。
+Example1_EN: I moved into a newly built apartment.
+Example2: この家は新築なので、設備が全部新しいです。
+Example2_EN: This house is newly built, so all the fixtures are new.
+Example3: 新築の匂いが好きです。
+Example3_EN: I like the smell of a new building.
+
+===word: 外食===
+Nuance: 家で料理を食べずに、レストランや食堂など外の店で食事をすることを指します。現代の生活スタイルを表す、よく使われる言葉です。
+Example1: 今週は外食が続いています。
+Example1_EN: I've been eating out all week.
+Example2: 外食すると野菜が不足しがちです。
+Example2_EN: When you eat out, you tend to lack vegetables.
+Example3: たまには外食するのもいいですね。
+Example3_EN: Eating out once in a while is nice, isn't it?
+
+===word: 解決済み===
+Nuance: 問題やトラブルがすでに解決され、終わった状態を表す言葉です。ビジネスやサポートの現場で、案件のステータスを示す際に使われます。
+Example1: この問題は解決済みです。
+Example1_EN: This problem has been resolved.
+Example2: お問い合わせいただいた件は解決済みになりました。
+Example2_EN: The matter you inquired about has been resolved.
+Example3: 全てのバグは解決済みです。
+Example3_EN: All the bugs have been fixed.
+
+===word: 親子===
+Nuance: 親と子の関係を一つの言葉で表したものです。実の親子だけでなく、比喩的に性質や大きさが大きく異なる二つのものを比較する時にも使われます。
+Example1: 親子の絆はとても大切です。
+Example1_EN: The bond between parent and child is very important.
+Example2: 親子で一緒に料理を作りました。
+Example2_EN: I cooked together with my child.
+Example3: 親子の関係は時に難しいものです。
+Example3_EN: The parent-child relationship can sometimes be difficult.
+
+===word: 崩れる===
+Nuance: 形を保っていたものが壊れてバラバラになることを意味します。建物や地面などの物理的な崩壊から、予定や計画が駄目になる比喩的な使い方まであります。
+Example1: 地震で壁が崩れました。
+Example1_EN: The wall collapsed due to the earthquake.
+Example2: 楽しみにしていた予定が崩れてしまいました。
+Example2_EN: The plans I was looking forward to fell through.
+Example3: 積み上げた書類が崩れました。
+Example3_EN: The pile of documents collapsed.
+
+===word: 知り合う===
+Nuance: それまで知らなかった人と初めて出会い、知り合いになることを意味する動詞です。友達や恋人、ビジネス上の知人など、関係の始まりを表します。
+Example1: 彼女とは五年前に知り合いました。
+Example1_EN: I first met her five years ago.
+Example2: 留学先でたくさんの人と知り合いました。
+Example2_EN: I met many people at my study abroad destination.
+Example3: どうやってお二人は知り合ったのですか？
+Example3_EN: How did you two meet each other?
+
+===word: 人民===
+Nuance: 国家や社会を構成する人々の総称です。特に政治的な文脈で使われることが多く、「国民」よりもやや硬い、社会的な集団としての意味合いが強い言葉です。
+Example1: 人民の意見を尊重すべきです。
+Example1_EN: We should respect the opinions of the people.
+Example2: 人民の生活を守ることが政府の役目です。
+Example2_EN: Protecting the people's livelihood is the government's role.
+Example3: 全ての人民に平等な権利があります。
+Example3_EN: All people have equal rights.

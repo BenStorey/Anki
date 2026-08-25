@@ -1,0 +1,593 @@
+===word: 畳===
+Nuance: 「畳」は日本の伝統的な床材で、イグサを編んで作られた敷物です。和室の床に敷き詰めて使われ、一枚の大きさが約180センチ×90センチで、部屋の広さを「畳」で数える習慣もあります。
+Example1: この部屋は八畳あります。
+Example1_EN: This room has eight tatami mats.
+Example2: 畳の上では靴を脱ぐのが日本の習慣です。
+Example2_EN: It is Japanese custom to take off shoes on tatami.
+Example3: 新しい畳に替えると部屋の匂いが良くなりました。
+Example3_EN: When I replaced the tatami, the room smelled much better.
+
+===word: 預かりします===
+Nuance: 「預かりします」は、店舗や施設でお客様の品物や荷物を一時的に預かる際に使う丁寧な表現です。「お預かりします」の形でよく使われ、接客業で頻繁に耳にします。
+Example1: お荷物はこちらでお預かりします。
+Example1_EN: We will keep your luggage here for you.
+Example2: お預かりしますので、しばらくお待ちください。
+Example2_EN: We will take it, so please wait a moment.
+Example3: 貴重品はこちらでお預かりしますか？
+Example3_EN: Shall we keep your valuables here?
+
+===word: 百メートル走===
+Nuance: 「百メートル走」は、陸上競技の一種で、100メートルの直線を走るタイムを競う種目です。学校の体育の授業や運動会でもよく行われます。
+Example1: 百メートル走の記録が三秒縮まりました。
+Example1_EN: My hundred-meter dash time improved by three seconds.
+Example2: 運動会の百メートル走で一位になりました。
+Example2_EN: I came in first in the hundred-meter dash at the sports festival.
+Example3: 彼は百メートル走の選手として有名です。
+Example3_EN: He is famous as a hundred-meter dash athlete.
+
+===word: 戦う===
+Nuance: 「戦う」は、敵や相手と武器や力を使って争うことを意味します。物理的な戦いだけでなく、病気や困難、自分自身との闘いにも使われます。
+Example1: 彼は病気と戦っています。
+Example1_EN: He is fighting against illness.
+Example2: 試合で最後まで戦うことが大切です。
+Example2_EN: It's important to fight until the end in a match.
+Example3: 私たちは平和のために戦わなければなりません。
+Example3_EN: We must fight for peace.
+
+===word: ググる===
+Nuance: 「ググる」は、グーグルの検索エンジンを使って情報を調べることを意味する俗語です。カジュアルな会話でよく使われ、インターネット時代ならではの動詞です。
+Example1: わからない言葉はすぐにググります。
+Example1_EN: I google words I don't understand right away.
+Example2: その問題の答えをググってみました。
+Example2_EN: I tried googling the answer to that question.
+Example3: スマホでレシピをググることが多いです。
+Example3_EN: I often google recipes on my smartphone.
+
+===word: 遅刻===
+Nuance: 「遅刻」は、決められた時間に遅れて到着することを意味します。学校や仕事、約束の場面で使われ、社会的に良くない行為とされます。
+Example1: 今朝は電車の遅れで遅刻してしまいました。
+Example1_EN: I was late this morning because of a train delay.
+Example2: 遅刻しないように、いつもより早く家を出ます。
+Example2_EN: I'll leave home earlier than usual so I won't be late.
+Example3: 三回遅刻すると注意されます。
+Example3_EN: If you are late three times, you will be warned.
+
+===word: 開始===
+Nuance: 「開始」は、何かを始めること、またはその時点を指します。会議やイベント、試合など、公式な場面でよく使われるややフォーマルな言葉です。
+Example1: 会議は午前十時に開始します。
+Example1_EN: The meeting will start at 10 a.m.
+Example2: 試合の開始が十五分遅れました。
+Example2_EN: The start of the game was delayed by fifteen minutes.
+Example3: ただいまから入場を開始します。
+Example3_EN: We will now begin admitting people.
+
+===word: 消費者===
+Nuance: 「消費者」は、商品やサービスを購入して使う人々を指します。経済や法律の分野でよく使われる正式な用語で、日常生活での買い物をする人全般を表します。
+Example1: 消費者の権利を守る法律があります。
+Example1_EN: There are laws that protect consumer rights.
+Example2: 消費者の立場から製品を評価します。
+Example2_EN: We evaluate products from the consumer's perspective.
+Example3: 消費者の需要が年々変化しています。
+Example3_EN: Consumer demand is changing year by year.
+
+===word: 幽霊===
+Nuance: 「幽霊」は、死んだ人の魂がこの世に現れたものとされる存在です。日本の怪談やホラー作品でよく登場し、白い着物を着て足のない姿で描かれることが多いです。
+Example1: あの建物には幽霊が出るという噂があります。
+Example1_EN: There is a rumor that ghosts appear in that building.
+Example2: 幽霊の話を聞くと眠れなくなります。
+Example2_EN: When I hear ghost stories, I can't sleep.
+Example3: 幽霊を見たことがある人はいますか？
+Example3_EN: Is there anyone who has seen a ghost?
+
+===word: 仕事量===
+Nuance: 「仕事量」は、こなさなければならない仕事の分量や多さを指します。主に職場で使われ、量が多い場合は負担やプレッシャーを感じるニュアンスがあります。
+Example1: 今月の仕事量が多すぎて大変です。
+Example1_EN: The workload this month is too heavy and it's tough.
+Example2: 仕事量を減らしてもらえるように上司に相談しました。
+Example2_EN: I talked to my boss about reducing my workload.
+Example3: 二人で仕事量を分担すると効率が上がりました。
+Example3_EN: When we divided the workload between two people, efficiency improved.
+
+===word: 親しい===
+Nuance: 「親しい」は、人との関係が近くて仲が良いことを表します。家族や友達など、心の距離が近い間柄に使われ、目上の人にはあまり使いません。
+Example1: 彼とは子どもの頃から親しい関係です。
+Example1_EN: I have had a close relationship with him since childhood.
+Example2: 親しい友達と週末に旅行に行きます。
+Example2_EN: I'm going on a trip this weekend with a close friend.
+Example3: あの二人はとても親しそうです。
+Example3_EN: Those two seem very close.
+
+===word: 経済力===
+Nuance: 「経済力」は、個人や組織、国が持つ経済的な能力や資金力を指します。収入の多さや資産の豊かさ、経済的な影響力などを含む幅広い概念です。
+Example1: 経済力のある国ほど教育にお金をかけています。
+Example1_EN: Countries with stronger economies spend more on education.
+Example2: 彼は経済力があるので、大きな家に住んでいます。
+Example2_EN: He has financial means, so he lives in a big house.
+Example3: 経済力を身につけるために、投資の勉強をしています。
+Example3_EN: I'm studying investing to build financial strength.
+
+===word: 残る===
+Nuance: 「残る」は、人や物がその場に留まること、または何かが使い切られずに余っていることを意味します。記憶や印象が消えない場合にも使われます。
+Example1: 会議の後も残って資料を整理しました。
+Example1_EN: I stayed after the meeting to organize the documents.
+Example2: この料理は残ってしまったので冷蔵庫に入れます。
+Example2_EN: This dish is leftover, so I'll put it in the fridge.
+Example3: 子どもの頃の記憶が鮮明に残っています。
+Example3_EN: My childhood memories remain vivid.
+
+===word: 怖がる===
+Nuance: 「怖がる」は、何かに対して恐怖や不安を感じることを表します。主に第三者が怖がっている様子を描写するときに使われ、自分自身には「怖い」を使います。
+Example1: うちの犬は雷を怖がります。
+Example1_EN: My dog is afraid of thunder.
+Example2: 彼女は暗いところを怖がるので、一緒に歩いてあげました。
+Example2_EN: She is afraid of dark places, so I walked with her.
+Example3: 子どもは注射を怖がるのが普通です。
+Example3_EN: It's normal for children to be afraid of injections.
+
+===word: 焼く===
+Nuance: 「焼く」は、火や熱を使って食材に火を通す調理法の一つです。魚や肉、パンなどを焼く時に使います。また、焦げるほど強く熱する場合にも使われます。
+Example1: 魚を焼くときは弱火でじっくり焼きます。
+Example1_EN: When grilling fish, I cook it slowly over low heat.
+Example2: パンをトースターで焼いて食べました。
+Example2_EN: I toasted bread in the toaster and ate it.
+Example3: この肉は十分に焼いてから食べてください。
+Example3_EN: Please cook this meat thoroughly before eating.
+
+===word: 十字路===
+Nuance: 「十字路」は、道が十字に交差している場所を指します。「交差点」と似ていますが、「十字路」はより古くからの言い方で、信号のない小さな交差点を指すことが多いです。
+Example1: その十字路を右に曲がってください。
+Example1_EN: Please turn right at that crossroads.
+Example2: 十字路のところにコンビニがあります。
+Example2_EN: There is a convenience store at the crossroads.
+Example3: この十字路は事故が多いので気をつけましょう。
+Example3_EN: This crossroads has many accidents, so let's be careful.
+
+===word: 飼い主===
+Nuance: 「飼い主」は、ペットや動物を飼っている人のことを指します。犬や猫などの動物に対する責任者という意味合いがあります。
+Example1: 飼い主は犬の散歩のときに必ずリードをつけます。
+Example1_EN: Owners must always put a leash on their dogs when walking them.
+Example2: 迷子の猫の飼い主を探しています。
+Example2_EN: I'm looking for the owner of a lost cat.
+Example3: 飼い主に似て、その犬も穏やかな性格です。
+Example3_EN: Like its owner, that dog also has a calm personality.
+
+===word: 或いは===
+Nuance: 「或いは」は、いくつかの選択肢を提示するときに使う接続詞です。「または」とほぼ同じ意味ですが、やや書き言葉的でフォーマルな印象があります。
+Example1: 申し込みはメール或いは電話で受け付けています。
+Example1_EN: Applications are accepted by email or by phone.
+Example2: 会議は明日或いは明後日になります。
+Example2_EN: The meeting will be tomorrow or the day after.
+Example3: 進学するか或いは就職するか、まだ決めていません。
+Example3_EN: I haven't decided yet whether to go to college or get a job.
+
+===word: 断ち切る===
+Nuance: 「断ち切る」は、物を力強く切って分けること、または関係や感情などを完全に絶つことを意味します。物理的な切断と抽象的な断絶の両方に使われます。
+Example1: 彼は悪い習慣を断ち切りました。
+Example1_EN: He broke his bad habit.
+Example2: 長年の関係を断ち切るのは辛い決断でした。
+Example2_EN: It was a painful decision to cut off a long-standing relationship.
+Example3: ロープをハサミで断ち切ってください。
+Example3_EN: Please cut the rope with scissors.
+
+===word: 無政府主義者===
+Nuance: 「無政府主義者」は、国家や政府による支配を否定し、個人の自由な自律的社会を目指す考えを持つ人を指します。政治や社会思想の分野で使われる専門的な言葉です。
+Example1: 彼は無政府主義者として活動していました。
+Example1_EN: He was active as an anarchist.
+Example2: 無政府主義者の考え方に興味があります。
+Example2_EN: I'm interested in anarchist ideas.
+Example3: 無政府主義者は国家の存在そのものを否定します。
+Example3_EN: Anarchists deny the very existence of the state.
+
+===word: 体操選手===
+Nuance: 「体操選手」は、体操競技を専門に行うスポーツ選手のことです。鉄棒や床運動、跳馬などの種目で技を競い、オリンピックでも人気の高い競技です。
+Example1: 彼女は将来オリンピックの体操選手になりたいそうです。
+Example1_EN: She wants to become an Olympic gymnast in the future.
+Example2: あの体操選手の演技はとても美しかったです。
+Example2_EN: That gymnast's performance was very beautiful.
+Example3: 体操選手は体がとても柔らかいです。
+Example3_EN: Gymnasts have very flexible bodies.
+
+===word: ぺこぺこ===
+Nuance: 「ぺこぺこ」は、繰り返し頭を下げてへつらう様子や、お腹が空いてペコペコな状態を表すオノマトペです。人に対して低姿勢で接する意味と、空腹の意味の二つの用法があります。
+Example1: 彼は上司にぺこぺこしていて嫌です。
+Example1_EN: He is always bowing and scraping to his boss, and it's unpleasant.
+Example2: お腹がぺこぺこなので、早く食べに行きましょう。
+Example2_EN: I'm starving, so let's go eat quickly.
+Example3: ぺこぺこ謝れば許してもらえると思っているようです。
+Example3_EN: He seems to think that if he apologizes obsequiously, he'll be forgiven.
+
+===word: 店員===
+Nuance: 「店員」は、お店で働いている人のことで、商品の販売や接客、レジ打ちなどを行います。百貨店やコンビニ、スーパーなど様々な店舗で使われる一般的な言葉です。
+Example1: 店員にサイズを尋ねました。
+Example1_EN: I asked the store clerk about the size.
+Example2: あの店員はとても親切で丁寧です。
+Example2_EN: That store clerk is very kind and polite.
+Example3: 店員が商品の在庫を確認してくれました。
+Example3_EN: The store clerk checked the product inventory for me.
+
+===word: 酢===
+Nuance: 「酢」は、酸味のある調味料で、米や穀物から作られる発酵食品です。寿司飯や酢の物、ドレッシングなど、日本料理に幅広く使われます。
+Example1: このサラダには酢とオリーブオイルをかけます。
+Example1_EN: I put vinegar and olive oil on this salad.
+Example2: 酢は健康に良いと言われています。
+Example2_EN: Vinegar is said to be good for your health.
+Example3: 酢の物は食欲がないときでも食べやすいです。
+Example3_EN: Vinegar-based dishes are easy to eat even when you have no appetite.
+
+===word: 国王===
+Nuance: 「国王」は、王国の君主であり、国家元首としての立場を持つ男性の王を指します。世襲制で即位することが多く、儀礼的な役割や象徴的な存在としての意味合いが強いです。
+Example1: 国王が国民に向けてスピーチをしました。
+Example1_EN: The king gave a speech to the nation.
+Example2: その国では国王の誕生日が祝日になっています。
+Example2_EN: In that country, the king's birthday is a national holiday.
+Example3: 国王は議会で新しい法律に署名しました。
+Example3_EN: The king signed the new law in parliament.
+
+===word: 許容範囲===
+Nuance: 「許容範囲」は、ある基準やルールの中で許される限度や範囲を指します。品質や誤差、行動の限界など、様々な分野で使われる表現です。
+Example1: この誤差は許容範囲内です。
+Example1_EN: This margin of error is within the acceptable range.
+Example2: 価格の許容範囲を教えてください。
+Example2_EN: Please tell me your acceptable price range.
+Example3: 彼の態度はもう許容範囲を超えています。
+Example3_EN: His attitude has already exceeded the acceptable limit.
+
+===word: 同居===
+Nuance: 「同居」は、同じ家に一緒に住むことを意味します。家族や恋人、友達など、複数の人が一つの住居で生活する場合に使われます。
+Example1: 彼女と同居してからもう三年になります。
+Example1_EN: It's been three years since I started living with her.
+Example2: 高齢の親と同居している人は少なくありません。
+Example2_EN: There are not a few people living with their elderly parents.
+Example3: 同居を始める前に、ルールを決めておいた方がいいです。
+Example3_EN: It's better to set rules before starting to live together.
+
+===word: 震度===
+Nuance: 「震度」は、地震の揺れの強さを表す尺度で、日本では気象庁が定める震度階級（0から7まで）が使われます。マグニチュードが地震の規模を示すのに対し、震度はその場所の揺れの強さです。
+Example1: 昨夜の地震は震度五でした。
+Example1_EN: Last night's earthquake had a seismic intensity of 5.
+Example2: 震度七の地震が発生した場合、大きな被害が予想されます。
+Example2_EN: If a level 7 earthquake occurs, major damage is expected.
+Example3: 震度の情報はテレビやスマホで確認できます。
+Example3_EN: You can check seismic intensity information on TV or your smartphone.
+
+===word: 少年===
+Nuance: 「少年」は、年齢が低い男性の子どもを指します。一般的には小学生から中学生くらいの年齢の男の子を指し、法律や警察の文脈でも使われる正式な言葉です。
+Example1: あの少年はピアノがとても上手です。
+Example1_EN: That boy is very good at the piano.
+Example2: 少年の頃はよく川で泳いでいました。
+Example2_EN: When I was a boy, I often swam in the river.
+Example3: その少年は迷子になって泣いていました。
+Example3_EN: That boy was lost and crying.
+
+===word: 持ち込む===
+Nuance: 「持ち込む」は、物や話題などをある場所や状況の中に持って入ることを意味します。物理的な物だけでなく、問題やアイデアなど抽象的なものにも使われます。
+Example1: 食べ物や飲み物を教室に持ち込まないでください。
+Example1_EN: Please do not bring food or drinks into the classroom.
+Example2: 彼は新しいアイデアを会議に持ち込みました。
+Example2_EN: He brought a new idea to the meeting.
+Example3: 個人的な問題を仕事に持ち込むべきではありません。
+Example3_EN: You should not bring personal problems into work.
+
+===word: 馬力===
+Nuance: 「馬力」は、エンジンやモーターの出力を表す単位です。元々は一頭の馬が発揮する力をもとにした単位で、車やバイクの性能を示す際に使われます。
+Example1: この車は馬力が十分にあるので、坂道も楽に登ります。
+Example1_EN: This car has enough horsepower to climb hills easily.
+Example2: 馬力の高いエンジンを搭載した新モデルが出ました。
+Example2_EN: A new model with a high-horsepower engine has been released.
+Example3: 馬力が強すぎると燃費が悪くなります。
+Example3_EN: If the horsepower is too high, fuel efficiency gets worse.
+
+===word: あっさり===
+Nuance: 「あっさり」は、味付けが薄くてさっぱりしている様子や、物事を簡単に済ませる様子、または執着せずに諦める様子を表す副詞です。
+Example1: このラーメンはあっさりした味で食べやすいです。
+Example1_EN: This ramen has a light flavor and is easy to eat.
+Example2: 彼はあっさりとその提案を断りました。
+Example2_EN: He turned down the proposal without hesitation.
+Example3: あっさりした和食が食べたい気分です。
+Example3_EN: I feel like eating light Japanese food.
+
+===word: 賞金===
+Nuance: 「賞金」は、競技やコンテストで優勝したり良い成績を収めたりした人に与えられるお金のことです。スポーツやゲーム、学術的な賞など様々な分野で使われます。
+Example1: 優勝したチームに賞金が与えられました。
+Example1_EN: The winning team was awarded a prize purse.
+Example2: この大会の賞金は百万円です。
+Example2_EN: The prize money for this tournament is one million yen.
+Example3: 賞金で新しいパソコンを買うつもりです。
+Example3_EN: I plan to buy a new computer with the prize money.
+
+===word: 中旬===
+Nuance: 「中旬」は、月の11日から20日頃までの期間を指します。上旬（1日〜10日頃）、下旬（21日〜月末）と並んで、月を三つの期間に分ける際に使われます。
+Example1: この仕事は来月中旬までに終わらせる必要があります。
+Example1_EN: This work needs to be finished by the middle of next month.
+Example2: 七月の中旬に夏休みが始まります。
+Example2_EN: Summer vacation starts in the middle of July.
+Example3: 中旬になると気温がぐっと上がります。
+Example3_EN: Around the middle of the month, the temperature rises sharply.
+
+===word: 草木===
+Nuance: 「草木」は、草と木を合わせた総称で、植物全般を指すやや古風で詩的な表現です。自然や風景を描写するときによく使われます。
+Example1: 春になると草木が芽吹き始めます。
+Example1_EN: In spring, the plants and trees begin to sprout.
+Example2: この庭には様々な草木が植えられています。
+Example2_EN: Various plants and trees are planted in this garden.
+Example3: 雨の後は草木の緑が一層鮮やかに見えます。
+Example3_EN: After rain, the green of the plants and trees looks even more vivid.
+
+===word: 退場カード===
+Nuance: 「退場カード」は、サッカーなどのスポーツで退場を宣告する際に審判が提示するカードのことで、レッドカードとも呼ばれます。重大な反則を犯した選手に与えられます。
+Example1: あの選手は退場カードをもらってしまいました。
+Example1_EN: That player received a red card and was sent off.
+Example2: 退場カードが出ると試合の流れが変わります。
+Example2_EN: When a red card is shown, the flow of the game changes.
+Example3: 退場カードをもらわないように気をつけてプレーしましょう。
+Example3_EN: Let's play carefully so we don't get a red card.
+
+===word: 上流===
+Nuance: 「上流」は、川の水源に近い方の部分を指します。また、社会的な階級としての「上流階級」という意味もあり、富裕層や高い社会的地位にある人々を表すこともあります。
+Example1: この川の上流には美しい滝があります。
+Example1_EN: There is a beautiful waterfall upstream on this river.
+Example2: 上流の地域は水がとても綺麗です。
+Example2_EN: The water is very clean in the upstream area.
+Example3: 彼は上流社会の出身で、裕福な家庭で育ちました。
+Example3_EN: He comes from high society and grew up in a wealthy family.
+
+===word: 喜ばす===
+Nuance: 「喜ばす」は、誰かを喜ばせること、楽しませることを意味する動詞です。「喜ばせる」とほぼ同義ですが、やや古風または文語的な響きがあります。
+Example1: 彼は両親を喜ばすために良い成績を取りました。
+Example1_EN: He got good grades to make his parents happy.
+Example2: プレゼントは相手を喜ばすために選びました。
+Example2_EN: I chose the present to make the other person happy.
+Example3: その知らせは皆を大いに喜ばしました。
+Example3_EN: The news greatly delighted everyone.
+
+===word: 話し声===
+Nuance: 「話し声」は、人が話しているときに発する声のことを指します。話している内容よりも、声そのものの質や大きさに注目する場合に使われます。
+Example1: 隣の部屋から話し声が聞こえます。
+Example1_EN: I can hear voices talking from the next room.
+Example2: 静かな図書館で話し声が響いていました。
+Example2_EN: Voices were echoing in the quiet library.
+Example3: 話し声のトーンで相手の気分がわかります。
+Example3_EN: You can tell the other person's mood from the tone of their voice.
+
+===word: 出国===
+Nuance: 「出国」は、国境を越えて外の国へ出ていくことを意味します。パスポートを提示して出入国審査を受ける場面で使われる正式な言葉です。
+Example1: 出国の前にパスポートの有効期限を確認してください。
+Example1_EN: Please check your passport's expiration date before leaving the country.
+Example2: 成田空港から出国しました。
+Example2_EN: I departed from Narita Airport.
+Example3: 出国の際には税関で申告が必要です。
+Example3_EN: When leaving the country, you need to declare items at customs.
+
+===word: 落選する===
+Nuance: 「落選する」は、選挙やコンテスト、オーディションなどで選ばれないことを意味します。立候補や応募をしたものの、選に漏れるというニュアンスです。
+Example1: 彼は市長選挙で落選しました。
+Example1_EN: He lost the mayoral election.
+Example2: オーディションに落選してとても残念でした。
+Example2_EN: It was very disappointing that I failed the audition.
+Example3: 落選してもまた挑戦するつもりです。
+Example3_EN: Even if I'm not selected, I plan to try again.
+
+===word: 死角===
+Nuance: 「死角」は、視界に入らない範囲や見えない場所を指します。車の運転や監視カメラなど、物理的な見えない場所のほか、注意が行き届かない部分という比喩的な意味でも使われます。
+Example1: 車の死角に子どもがいたので注意が必要です。
+Example1_EN: There was a child in the car's blind spot, so caution is needed.
+Example2: この監視カメラには死角があります。
+Example2_EN: This surveillance camera has a blind spot.
+Example3: 死角に入らないように運転するときは常に確認します。
+Example3_EN: I always check to avoid blind spots when driving.
+
+===word: 戦闘===
+Nuance: 「戦闘」は、軍隊や武装した集団同士が武器を使って戦うことを意味します。戦争の中の個々の戦いや軍事行動を指し、非常にフォーマルで重い響きのある言葉です。
+Example1: 戦闘は三日間続きました。
+Example1_EN: The battle continued for three days.
+Example2: 戦闘機が空を飛んでいるのが見えました。
+Example2_EN: I saw a fighter jet flying in the sky.
+Example3: 戦闘地域には近づかないでください。
+Example3_EN: Please do not approach the combat zone.
+
+===word: 汎用レジスタ===
+Nuance: 「汎用レジスタ」は、コンピュータの中央処理装置内部にある記憶領域で、様々な用途に使えるレジスタを指します。プログラムの計算やデータの一時保存に使われ、コンピュータアーキテクチャの専門用語です。
+Example1: このプロセッサには十六個の汎用レジスタがあります。
+Example1_EN: This processor has sixteen general-purpose registers.
+Example2: 汎用レジスタの値をデバッグで確認しました。
+Example2_EN: I checked the general-purpose register values during debugging.
+Example3: 汎用レジスタの数が多いほど処理が効率的になります。
+Example3_EN: The more general-purpose registers there are, the more efficient processing becomes.
+
+===word: 金額===
+Nuance: 「金額」は、お金の数量や価格を表す数値のことです。買い物の代金や給料、予算など、お金に関する様々な場面で使われる基本的なビジネス用語です。
+Example1: 正確な金額を教えてください。
+Example1_EN: Please tell me the exact amount.
+Example2: この商品の金額は税込みで千円です。
+Example2_EN: The price of this product is 1,000 yen including tax.
+Example3: 金額が大きいので、分割払いにしました。
+Example3_EN: Since the amount was large, I chose to pay in installments.
+
+===word: 権力===
+Nuance: 「権力」は、他人を支配したり強制したりする力や、政治的な支配力を指します。政府や組織のトップなどが持つ影響力や決定権を表すことが多く、ややネガティブな響きがあります。
+Example1: 権力を持つ人は責任も重くなります。
+Example1_EN: People with power also bear heavy responsibilities.
+Example2: 彼は会社で権力を握っています。
+Example2_EN: He holds power in the company.
+Example3: 権力を乱用すると信頼を失います。
+Example3_EN: If you abuse your power, you lose trust.
+
+===word: 家事===
+Nuance: 「家事」は、家庭生活を維持するために必要な日々の仕事の総称です。料理、洗濯、掃除、買い物など、家庭内の様々な作業を含みます。
+Example1: 毎日家事をする時間を決めています。
+Example1_EN: I set aside time for housework every day.
+Example2: 夫婦で家事を分担するのが理想的です。
+Example2_EN: It's ideal for couples to share household chores.
+Example3: 最近は家事を効率化する便利な家電が増えています。
+Example3_EN: Recently, convenient appliances that streamline housework have increased.
+
+===word: 超人===
+Nuance: 「超人」は、普通の人間を超えた能力や力を持つ存在を指します。漫画やアニメのヒーローのような超人的な力を持つキャラクターや、並外れた才能を持つ人に対して使われます。
+Example1: 彼は超人のような体力を持っています。
+Example1_EN: He has superhuman physical strength.
+Example2: あの選手は超人みたいなプレーをしますね。
+Example2_EN: That player makes superhuman plays.
+Example3: 漫画に出てくる超人みたいな能力が欲しいです。
+Example3_EN: I wish I had superhuman abilities like in manga.
+
+===word: 緊急===
+Nuance: 「緊急」は、すぐに対処しなければならない差し迫った状況や事態を表します。救急医療や災害時など、時間的な余裕がない重要な場面で使われます。
+Example1: 緊急の場合はこのボタンを押してください。
+Example1_EN: In case of emergency, please press this button.
+Example2: 緊急の用事があって会社を早退しました。
+Example2_EN: I left work early due to an urgent matter.
+Example3: 緊急の連絡がある場合は電話してください。
+Example3_EN: If there is an urgent message, please call me.
+
+===word: 黄色===
+Nuance: 「黄色」は、色の一つで、レモンや卵の黄身のような明るい色を指します。信号の黄色や注意を促す標識など、警告の色としてもよく使われます。
+Example1: 黄色い花が庭にたくさん咲いています。
+Example1_EN: Many yellow flowers are blooming in the garden.
+Example2: 秋になるとイチョウの葉が黄色に変わります。
+Example2_EN: In autumn, the ginkgo leaves turn yellow.
+Example3: 黄色い服を着ると気分が明るくなります。
+Example3_EN: Wearing yellow clothes makes me feel brighter.
+
+===word: うっとり===
+Nuance: 「うっとり」は、美しいものや素晴らしいものに心を奪われて、夢中になる様子を表す副詞です。音楽や景色、芸術作品などに感動した状態を表します。
+Example1: 彼女のピアノの演奏にうっとりしました。
+Example1_EN: I was enchanted by her piano performance.
+Example2: 夕日の美しさにうっとりと見入ってしまいました。
+Example2_EN: I was mesmerized by the beauty of the sunset.
+Example3: この香水の香りにうっとりしますね。
+Example3_EN: The scent of this perfume is intoxicating, isn't it?
+
+===word: めちゃくちゃ===
+Nuance: 「めちゃくちゃ」は、物事が乱れていてひどい状態であることを表す非常にカジュアルな形容動詞です。台無しになった状態や、度を超えている様子を強調して言いたい時に使われます。
+Example1: 昨日のパーティーはめちゃくちゃ楽しかったです。
+Example1_EN: Yesterday's party was incredibly fun.
+Example2: 彼の部屋はめちゃくちゃに散らかっています。
+Example2_EN: His room is a complete mess.
+Example3: スケジュールがめちゃくちゃになってしまいました。
+Example3_EN: My schedule has become completely chaotic.
+
+===word: 校門===
+Nuance: 「校門」は、学校の敷地の入り口にある門のことです。小学校から大学まで、学校の象徴的な場所の一つで、登下校時に多くの生徒が通ります。
+Example1: 校門の前に八時に集合しましょう。
+Example1_EN: Let's gather at the school gate at eight o'clock.
+Example2: 校門で先生が生徒たちを出迎えています。
+Example2_EN: The teacher is greeting the students at the school gate.
+Example3: 校門を入るとすぐに体育館があります。
+Example3_EN: Right after entering the school gate, there is a gymnasium.
+
+===word: 本能===
+Nuance: 「本能」は、動物や人間が生まれつき持っている、学習や経験なしに現れる行動や反応の仕組みを指します。食欲や睡眠欲、自己保存の欲求などが本能の例です。
+Example1: 人間には自己保存の本能があります。
+Example1_EN: Humans have a self-preservation instinct.
+Example2: 母親が子どもを守るのは本能です。
+Example2_EN: It is instinct for a mother to protect her child.
+Example3: 危険を感じると、本能的に身を守ろうとします。
+Example3_EN: When we sense danger, we instinctively try to protect ourselves.
+
+===word: おやつ===
+Nuance: 「おやつ」は、食事と食事の間に食べる軽い食べ物や間食のことを指します。特に子どもの午後のお菓子の時間を指すことが多く、親しみのある言葉です。
+Example1: 子どものおやつに果物を用意しました。
+Example1_EN: I prepared fruit as a snack for the children.
+Example2: おやつを食べ過ぎると夕飯が食べられなくなります。
+Example2_EN: If you eat too many snacks, you won't be able to eat dinner.
+Example3: 三時のおやつの時間が楽しみです。
+Example3_EN: I'm looking forward to snack time at three o'clock.
+
+===word: 無理やり===
+Nuance: 「無理やり」は、相手の意思や状況に関係なく、強引に何かを行う様子を表す副詞です。本人の気持ちや自然な流れを無視して無理に進めるニュアンスがあります。
+Example1: 彼は無理やりパーティーに連れて行かれました。
+Example1_EN: He was forced to go to the party.
+Example2: 無理やり食べさせようとするのはやめてください。
+Example2_EN: Please stop trying to force-feed me.
+Example3: 無理やり早起きするのは辛いです。
+Example3_EN: Forcing myself to wake up early is tough.
+
+===word: 頭痛===
+Nuance: 「頭痛」は、頭に痛みを感じる症状を指します。風邪や疲れ、ストレスなど様々な原因で起こり、日常的に使われる一般的な医療用語です。
+Example1: 昨日から頭痛が続いています。
+Example1_EN: I've had a headache since yesterday.
+Example2: 頭痛がするので薬を飲みました。
+Example2_EN: I had a headache, so I took some medicine.
+Example3: 頭痛の原因はストレスかもしれません。
+Example3_EN: The cause of the headache might be stress.
+
+===word: 顔付き===
+Nuance: 「顔付き」は、顔の表情や様子、顔立ちのことを指します。「表情」が感情を表す顔の様子を重視するのに対し、「顔付き」はその人の普段の顔の印象や、その時の状態を含みます。
+Example1: 彼は真剣な顔付きで話を聞いていました。
+Example1_EN: He was listening with a serious expression on his face.
+Example2: あの人の顔付きはどこか外国人っぽいです。
+Example2_EN: That person's facial features look somewhat foreign.
+Example3: 疲れた顔付きをしているけど、大丈夫ですか？
+Example3_EN: You look tired — are you okay?
+
+===word: 騒音公害===
+Nuance: 「騒音公害」は、工場や建設現場、交通機関などから発生する大きな音が原因で、周辺の住民の生活環境が悪影響を受けることを指します。環境問題の一つです。
+Example1: この地域では騒音公害が深刻な問題になっています。
+Example1_EN: Noise pollution has become a serious problem in this area.
+Example2: 騒音公害を減らすために、防音壁が設置されました。
+Example2_EN: Soundproof walls were installed to reduce noise pollution.
+Example3: 騒音公害についての住民説明会が開かれます。
+Example3_EN: A public meeting about noise pollution will be held.
+
+===word: たどり着く===
+Nuance: 「たどり着く」は、困難や苦労を経て最終的に目的地や目標に到達することを意味します。道に迷いながらも何とか着くというニュアンスや、長い努力の末に目標を達成するという意味で使われます。
+Example1: 山道を三時間歩いてようやく頂上にたどり着きました。
+Example1_EN: After walking the mountain path for three hours, I finally reached the summit.
+Example2: 長い議論の末に結論にたどり着きました。
+Example2_EN: After a long discussion, we arrived at a conclusion.
+Example3: 住所を頼りに何とか彼の家にたどり着きました。
+Example3_EN: I managed to find his house using the address.
+
+===word: ワクチン===
+Nuance: 「ワクチン」は、ウイルスや細菌に対する免疫をつけるために接種する医薬品です。体内に弱めた病原体やその一部を入れることで、抗体を作り病気を予防します。
+Example1: インフルエンザのワクチンを毎年接種しています。
+Example1_EN: I get a flu vaccine every year.
+Example2: ワクチンの効果は人によって異なります。
+Example2_EN: The effectiveness of the vaccine varies from person to person.
+Example3: ワクチン接種の予約を取りました。
+Example3_EN: I made an appointment for a vaccination.
+
+===word: 創立===
+Nuance: 「創立」は、学校や会社、団体などを新しく作り始めることを意味します。「設立」と似ていますが、「創立」は創設してから長い歴史を感じさせるニュアンスがあり、記念行事などでよく使われます。
+Example1: この学校は明治時代に創立されました。
+Example1_EN: This school was founded in the Meiji era.
+Example2: 今年は会社の創立五十周年です。
+Example2_EN: This year is the company's 50th anniversary of its founding.
+Example3: 創立者の理念が今も大切に受け継がれています。
+Example3_EN: The founder's philosophy is still carefully passed down to this day.
+
+===word: 芝生===
+Nuance: 「芝生」は、地面を覆うように植えられた短い草のことで、公園や庭、ゴルフ場などで見られます。緑のじゅうたんのような美しい景観を作り出します。
+Example1: 公園の芝生で子どもが遊んでいます。
+Example1_EN: Children are playing on the grass in the park.
+Example2: 芝生の上でピクニックをしました。
+Example2_EN: We had a picnic on the lawn.
+Example3: この芝生はとても柔らかくて気持ちがいいです。
+Example3_EN: This grass is very soft and feels nice.
+
+===word: 博物館===
+Nuance: 「博物館」は、歴史や科学、芸術などの資料を集めて展示し、一般の人々に見せる施設です。教育的な目的で運営され、子どもから大人まで楽しめます。
+Example1: 昨日、科学博物館に行ってきました。
+Example1_EN: I went to the science museum yesterday.
+Example2: この博物館には恐竜の骨格標本が展示されています。
+Example2_EN: This museum has dinosaur skeleton specimens on display.
+Example3: 博物館の入場料は大人五百円です。
+Example3_EN: The museum admission fee is 500 yen for adults.
+
+===word: 分かち合う===
+Nuance: 「分かち合う」は、喜びや悲しみ、情報や資源などをお互いに共有することを意味します。物理的な物を分けるだけでなく、感情や経験を共有するという温かいニュアンスがあります。
+Example1: 友達と喜びを分かち合うことができて幸せです。
+Example1_EN: I'm happy to be able to share my joy with friends.
+Example2: 困ったときは悩みを分かち合うことが大切です。
+Example2_EN: When you're in trouble, it's important to share your worries.
+Example3: この経験を皆さんと分かち合いたいと思います。
+Example3_EN: I would like to share this experience with all of you.
+
+===word: 大手===
+Nuance: 「大手」は、規模が大きく影響力のある企業や組織を指します。特に「大手企業」「大手メーカー」などの形で使われ、中小企業と対比されることが多いビジネス用語です。
+Example1: 彼は大手企業に就職が決まりました。
+Example1_EN: He got a job at a major company.
+Example2: 大手のスーパーより地元の小さい店の方が好きです。
+Example2_EN: I prefer local small shops over large chain supermarkets.
+Example3: この業界は大手数社が市場を支配しています。
+Example3_EN: A few major companies dominate the market in this industry.

@@ -1,0 +1,557 @@
+===word: 単純===
+Nuance: 「単純」は、物事の仕組みや構造が複雑ではなく、わかりやすい状態を指します。良い意味でも悪い意味でも使われ、考え方が単純な人や、単純な作業などを表します。「簡単」よりもやや素朴で、裏表がないニュアンスを含むことがあります。
+Example1: この問題はとても単純です。
+Example1_EN: This problem is very simple.
+Example2: 彼は単純な人で、すぐに騙されてしまいます。
+Example2_EN: He is a simple person and gets tricked easily.
+Example3: 単純な作業ですが、丁寧に行う必要があります。
+Example3_EN: It's a simple task, but it needs to be done carefully.
+
+===word: 延長戦===
+Nuance: 「延長戦」は、スポーツやゲームなどで決着がつかなかった場合に、通常の時間を延ばして行う追加の試合や勝負を指します。サッカーやバスケットボールなどでよく使われる用語で、比喩的に仕事や交渉が長引くことを「延長戦に入る」と表現することもあります。
+Example1: サッカーの試合は延長戦に入りました。
+Example1_EN: The soccer match has gone into extra time.
+Example2: 延長戦でようやく勝敗が決まりました。
+Example2_EN: The outcome was finally decided in extra time.
+Example3: この交渉は延長戦に入ったようです。
+Example3_EN: It seems these negotiations have entered overtime.
+
+===word: 生番組===
+Nuance: 「生番組」は、テレビやラジオで録画や録音ではなく、放送と同時に収録・放送される番組を指します。「生放送」とも言います。出演者のアドリブやハプニングがそのまま放送されるため、臨場感がある反面、ミスが許されない緊張感があります。
+Example1: このニュース番組は生番組です。
+Example1_EN: This news program is a live broadcast.
+Example2: 生番組なので、司会者は原稿を見ながら話しています。
+Example2_EN: Because it's a live program, the host is speaking while looking at the script.
+Example3: 生番組でハプニングが起こりました。
+Example3_EN: A mishap occurred during the live program.
+
+===word: 代金===
+Nuance: 「代金」は、商品やサービスを購入した際に支払うお金のことを指します。「料金」が使用料や施設利用料など幅広い場面で使われるのに対し、「代金」は特に商品や役務の「対価」としてのニュアンスが強いです。
+Example1: 代金は現金でお支払いください。
+Example1_EN: Please pay the fee in cash.
+Example2: 商品の代金を銀行に振り込みました。
+Example2_EN: I transferred the payment for the product to the bank.
+Example3: 代金は消費税込みの金額です。
+Example3_EN: The price includes consumption tax.
+
+===word: 転送する===
+Nuance: 「転送する」は、受け取ったものやデータを別の場所や人に送り届けることを意味します。メールの転送、電話の転送、荷物の転送など、さまざまな場面で使われる汎用的な動詞です。受け取ったものをそのまま別の宛先に送るニュアンスがあります。
+Example1: メールを新しいアドレスに転送してください。
+Example1_EN: Please forward the email to the new address.
+Example2: 電話を営業部に転送します。
+Example2_EN: I will transfer the call to the sales department.
+Example3: 荷物は自宅に転送してもらえますか？
+Example3_EN: Can you have the package forwarded to my home?
+
+===word: 政府===
+Nuance: 「政府」は、国家の行政機関の総称で、内閣や各省庁を含む統治機構を指します。国内政治のニュースや公式発表で頻繁に登場する基本的な政治用語です。「政府の発表によりますと」「政府は対策を検討しています」のように、ややフォーマルな文脈で使われます。
+Example1: 政府は新しい経済政策を発表しました。
+Example1_EN: The government announced a new economic policy.
+Example2: 政府の発表は明日の午後に行われます。
+Example2_EN: The government announcement will be made tomorrow afternoon.
+Example3: 政府は災害対策に全力を挙げています。
+Example3_EN: The government is putting all its efforts into disaster countermeasures.
+
+===word: 魔法使い===
+Nuance: 「魔法使い」は、魔法を使う能力を持つ人を指します。童話やファンタジー作品に登場するキャラクターとしてよく知られています。男性の魔法使いは「魔法使い」、女性は「魔女」と呼び分けることもありますが、「魔法使い」は性別を問わず使われることもあります。
+Example1: 子どもは魔法使いの物語が大好きです。
+Example1_EN: Children love stories about wizards.
+Example2: あの映画の魔法使いはとても強力な力を持っています。
+Example2_EN: The wizard in that movie has very powerful magic.
+Example3: 魔法使いの衣装を自分で作りました。
+Example3_EN: I made the wizard costume myself.
+
+===word: 派手===
+Nuance: 「派手」は、色やデザイン、行動が華やかで人目を引く様子を表します。服装や化粧が派手、性格が派手、生活が派手など、外見にも内面にも使える形容動詞です。良い意味でも悪い意味でも使われ、控えめな「地味」の対義語です。
+Example1: 彼女はいつも派手な服を着ています。
+Example1_EN: She always wears flashy clothes.
+Example2: あのレストランの内装はとても派手です。
+Example2_EN: The interior of that restaurant is very flashy.
+Example3: 派手なメイクは仕事には向いていません。
+Example3_EN: Flashy makeup is not suitable for work.
+
+===word: 経歴===
+Nuance: 「経歴」は、これまでの学歴や職歴、経験した仕事や役職などをまとめたものを指します。履歴書や職務経歴書に記載する情報で、就職や転職の際に重要な要素です。単なる「経験」よりも、時系列に沿った正式な記録というニュアンスがあります。
+Example1: 彼の経歴は素晴らしいものです。
+Example1_EN: His career background is impressive.
+Example2: 経歴を詳しく履歴書に書いてください。
+Example2_EN: Please write your career history in detail on your resume.
+Example3: 面接で経歴について質問されました。
+Example3_EN: I was asked about my career history during the interview.
+
+===word: 二番目に大きい===
+Nuance: 「二番目に大きい」は、ある集団の中で最も大きいものの次に大きいことを表す比較表現です。ランキングや順位を示す際に使われます。形容詞「大きい」の比較級ではなく、順位を明確に示す表現です。
+Example1: 日本で二番目に大きい都市はどこですか？
+Example1_EN: What is the second largest city in Japan?
+Example2: この島はこの地域で二番目に大きい島です。
+Example2_EN: This island is the second largest in this region.
+Example3: 二番目に大きいサイズをください。
+Example3_EN: Please give me the second largest size.
+
+===word: 磁気カード===
+Nuance: 「磁気カード」は、表面に磁気テープが貼付されたカードで、情報を磁気的に記録・読み取りできるものです。クレジットカードやキャッシュカード、ホテルのキーカードなどに使われています。最近では集積回路カードに取って代わられつつあります。
+Example1: 磁気カードは磁気に弱いため、取り扱いに注意してください。
+Example1_EN: Magnetic cards are sensitive to magnetism, so please handle them with care.
+Example2: この磁気カードは読み取り不良になってしまいました。
+Example2_EN: This magnetic card has developed a read error.
+Example3: 磁気カードからICカードへの切り替えが進んでいます。
+Example3_EN: The switch from magnetic cards to IC cards is progressing.
+
+===word: 精子===
+Nuance: 「精子」は、男性の生殖細胞で、受精によって新しい生命の誕生に関わるものです。生物学や医学の分野で使われる専門用語で、日常生活で使われることはあまり多くありませんが、不妊治療や生殖に関する話題で登場します。
+Example1: 精子の数は健康状態によって変化します。
+Example1_EN: Sperm count changes depending on one's health condition.
+Example2: 医者が精子の検査を勧めました。
+Example2_EN: The doctor recommended a sperm test.
+Example3: 精子の品質を保つためには生活習慣が重要です。
+Example3_EN: Lifestyle habits are important for maintaining sperm quality.
+
+===word: くしゃみ（する）===
+Nuance: 「くしゃみ」は、鼻の粘膜への刺激によって反射的に起こる呼吸現象で、大きく息を吐き出す動作を指します。風邪やアレルギー、花粉症などの症状として現れます。「くしゃみをする」という動詞としても使われます。
+Example1: 花粉症の季節はくしゃみが止まりません。
+Example1_EN: I can't stop sneezing during hay fever season.
+Example2: くしゃみをするときは口を押さえてください。
+Example2_EN: Please cover your mouth when you sneeze.
+Example3: 大きな音でくしゃみをしてしまい、恥ずかしかったです。
+Example3_EN: I sneezed loudly and felt embarrassed.
+
+===word: 第三者===
+Nuance: 「第三者」は、ある出来事や関係に直接関わっていない別の人や団体を指します。法律やビジネスの場面でよく使われる言葉で、中立性や公平性が求められる立場を表します。「第三者機関」「第三者委員会」などの複合語でも使われます。
+Example1: 第三者を交えて話し合いを行います。
+Example1_EN: We will hold a discussion with a third party present.
+Example2: 第三者の立場から意見を聞きたいです。
+Example2_EN: I would like to hear opinions from a third-party perspective.
+Example3: この問題は第三者委員会が調査しています。
+Example3_EN: This matter is being investigated by a third-party committee.
+
+===word: 乗客===
+Nuance: 「乗客」は、電車やバス、飛行機、船などの交通機関に乗っている人を指します。駅や空港などのアナウンスで頻繁に使われる言葉です。「お客様」よりも事務的・中立的な表現で、乗り物の利用者を客観的に表します。
+Example1: 乗客の皆様、ご注意ください。
+Example1_EN: Attention all passengers, please be careful.
+Example2: この電車には多くの乗客が乗っていました。
+Example2_EN: There were many passengers on this train.
+Example3: 乗客の安全を第一に考えています。
+Example3_EN: We prioritize passenger safety above all.
+
+===word: 怪しい===
+Nuance: 「怪しい」は、何かが不自然で信頼できない、または危険な感じがする様子を表す形容詞です。人の行動や物の状態、天気など様々なものに対して使われます。良い意味で「不思議で魅力的」というニュアンスで使われることもあります。
+Example1: あの人の行動はとても怪しいです。
+Example1_EN: That person's behavior is very suspicious.
+Example2: 空模様が怪しくなってきました。
+Example2_EN: The sky is starting to look threatening.
+Example3: 怪しいメールには返信しないでください。
+Example3_EN: Please do not reply to suspicious emails.
+
+===word: 思わず===
+Nuance: 「思わず」は、無意識に、または反射的に何かをしてしまうことを表す副詞です。自分の意志に反して自然に体が動いたり、言葉が出てしまったりする状況で使われます。意識的に行った動作ではなく、衝動的・反射的な行動に焦点があります。
+Example1: その話を聞いて思わず笑ってしまいました。
+Example1_EN: I couldn't help but laugh when I heard that story.
+Example2: 驚いて思わず叫びました。
+Example2_EN: I was so surprised that I screamed involuntarily.
+Example3: 思わず涙が出てきました。
+Example3_EN: Tears welled up involuntarily.
+
+===word: 猛勉強===
+Nuance: 「猛勉強」は、非常に集中して勢いよく勉強することを指します。試験前や資格取得のために、普段以上に熱心に取り組む様子を表します。「猛」という漢字には「激しい」という意味があり、単なる「勉強」より強い意志と努力のニュアンスが含まれます。
+Example1: 試験前に猛勉強しました。
+Example1_EN: I studied very hard before the exam.
+Example2: 彼は資格取得のために猛勉強しています。
+Example2_EN: He is studying intensively to get a qualification.
+Example3: 猛勉強の結果、希望の大学に合格しました。
+Example3_EN: As a result of my intensive studying, I passed the exam for my desired university.
+
+===word: 脱落する===
+Nuance: 「脱落する」は、競争や進行中の過程から落ちこぼれたり、途中で離脱したりすることを意味します。試験や競技、選抜などの場面でよく使われます。能動的に辞めるというより、基準に達せずに結果的に外れるニュアンスが強いです。
+Example1: 予選で多くの選手が脱落しました。
+Example1_EN: Many players dropped out during the preliminaries.
+Example2: 最後の問題で脱落してしまいました。
+Example2_EN: I ended up dropping out at the last question.
+Example3: この厳しいコースでは半数が脱落します。
+Example3_EN: Half of the participants drop out of this rigorous course.
+
+===word: 尻===
+Nuance: 「尻」は、人体の腰から下の部分で、座ったときに体重を支える部位を指します。日常会話でよく使われる言葉ですが、やや直接的な表現です。比喩的に「物事の最後や後ろの方」という意味でも使われます。「尻を叩く」「尻拭いをする」などの慣用句でも登場します。
+Example1: 転んで尻を強く打ちました。
+Example1_EN: I fell and hit my bottom hard.
+Example2: 子どもの尻を軽く叩いて注意しました。
+Example2_EN: I lightly tapped the child's bottom to scold him.
+Example3: 座りすぎで尻が痛くなりました。
+Example3_EN: My bottom hurts from sitting too long.
+
+===word: 市有地===
+Nuance: 「市有地」は、市の行政が所有している土地を指します。公有地の一種で、公園や学校、市営住宅などの公共施設の敷地として利用されます。ニュースや行政の文書で使われるフォーマルな用語で、日常生活ではあまり頻繁に耳にしません。
+Example1: 市有地に新しい公園が作られます。
+Example1_EN: A new park will be built on city-owned land.
+Example2: 市有地の有効活用について議論しています。
+Example2_EN: We are discussing the effective use of city-owned land.
+Example3: あの空き地は市有地です。
+Example3_EN: That vacant lot is city-owned land.
+
+===word: 美化（する）===
+Nuance: 「美化」は、物事や場所を美しく見せること、または実際よりも良く見せることを意味します。公園や街並みを物理的に美しくする場合と、過去の出来事や人物を実際より良く評価する場合の両方で使われます。
+Example1: 町の美化活動に参加しています。
+Example1_EN: I participate in town beautification activities.
+Example2: 過去を美化しすぎるのはよくありません。
+Example2_EN: It's not good to romanticize the past too much.
+Example3: 駅前の花壇で地域の美化に貢献しています。
+Example3_EN: We are contributing to community beautification with flower beds in front of the station.
+
+===word: 偶然===
+Nuance: 「偶然」は、意図せずに起こった出来事や、予期しない出来事が重なることを指します。名詞としても副詞としても使われます。良いことにも悪いことにも使われますが、「偶然の一致」のようにポジティブな驚きを伴うことが多いです。
+Example1: 偶然、駅で昔の友人に会いました。
+Example1_EN: I happened to meet an old friend at the station.
+Example2: それは偶然の一致ですね。
+Example2_EN: That's a remarkable coincidence.
+Example3: 偶然かもしれませんが、彼の予言が当たりました。
+Example3_EN: It might be a coincidence, but his prediction came true.
+
+===word: 飲み屋===
+Nuance: 「飲み屋」は、お酒を飲むことができる店をカジュアルに指す言葉です。高級なバーやクラブよりも、居酒屋や小料理屋など、気軽に飲める庶民的な店を指すことが多いです。男性がよく使う、やや砕けた表現です。
+Example1: 飲み屋で同僚と一杯やりました。
+Example1_EN: I had a drink with my colleague at a bar.
+Example2: この通りには飲み屋がたくさんあります。
+Example2_EN: There are many bars along this street.
+Example3: 飲み屋のマスターは気さくな人です。
+Example3_EN: The bar master is a friendly person.
+
+===word: 出資する===
+Nuance: 「出資する」は、事業やプロジェクトに対して資金を提供することを意味します。投資よりも、長期的な支援や協力のニュアンスが強く、株主やパートナーとして関わる場合に使われます。ビジネスや金融の文脈で使われるややフォーマルな動詞です。
+Example1: 彼は新しいベンチャー企業に出資しました。
+Example1_EN: He invested in a new venture company.
+Example2: このプロジェクトに出資していただけませんか？
+Example2_EN: Would you consider investing in this project?
+Example3: 多くの投資家がその会社に出資しています。
+Example3_EN: Many investors are investing in that company.
+
+===word: ばらす===
+Nuance: 「ばらす」は、秘密や隠し事を他人に話してしまうこと、または物を分解してバラバラにすることを意味するカジュアルな動詞です。口語表現で、友達同士の会話でよく使われます。秘密を漏らす意味では「暴露する」よりも砕けた言い方です。
+Example1: 彼に秘密をばらされてしまいました。
+Example1_EN: My secret was given away by him.
+Example2: この機械をばらして掃除します。
+Example2_EN: I'll take this machine apart and clean it.
+Example3: 計画を誰にもばらさないでください。
+Example3_EN: Please don't give away the plan to anyone.
+
+===word: 神学===
+Nuance: 「神学」は、神の存在や性質、宗教的信仰について学術的に研究する学問分野です。キリスト教やイスラム教などの宗教において、教義や聖書の解釈を体系的に学ぶ学問として発展してきました。大学の学部や学科としても存在します。
+Example1: 彼は大学で神学を専攻しています。
+Example1_EN: He is majoring in theology at university.
+Example2: 神学の授業はとても興味深いです。
+Example2_EN: Theology classes are very interesting.
+Example3: 神学についてもっと学びたいと思っています。
+Example3_EN: I want to learn more about theology.
+
+===word: たっぷり===
+Nuance: 「たっぷり」は、量や時間が十分にある様子を表す副詞・形容動詞です。ポジティブなニュアンスが強く、満足できるだけの余裕があることを示します。時間的余裕、物理的な量、空間的な広がりなど、様々な場面で使われます。
+Example1: 時間はたっぷりありますので、ゆっくりしてください。
+Example1_EN: There is plenty of time, so please take your time.
+Example2: このケーキにはクリームがたっぷり使われています。
+Example2_EN: This cake uses plenty of cream.
+Example3: たっぷり寝たので、元気いっぱいです。
+Example3_EN: I got plenty of sleep, so I'm full of energy.
+
+===word: 都市国家===
+Nuance: 「都市国家」は、一つの都市とその周辺地域だけで構成される独立した国家を指します。古代ギリシャのポリスや、中世イタリアのヴェネツィア共和国などが代表例です。現代ではシンガポールのように一国全体が一つの都市である国を指すこともあります。
+Example1: 古代ギリシャには多くの都市国家がありました。
+Example1_EN: There were many city-states in ancient Greece.
+Example2: シンガポールは現代の都市国家の代表例です。
+Example2_EN: Singapore is a prime example of a modern city-state.
+Example3: 都市国家の仕組みについて調べています。
+Example3_EN: I am researching the structure of city-states.
+
+===word: 正道===
+Nuance: 「正道」は、正しい道や正しい生き方、道理にかなった方法を指します。道徳的・倫理的に正しい選択や行動を表す言葉で、やや硬い書面語的な響きがあります。「正道を歩む」「正道を行く」のように使われます。
+Example1: 彼は常に正道を歩んでいます。
+Example1_EN: He always walks the path of righteousness.
+Example2: 正道を外れた行動は避けるべきです。
+Example2_EN: You should avoid straying from the righteous path.
+Example3: この道が正道だと信じています。
+Example3_EN: I believe this is the right path.
+
+===word: 一面===
+Nuance: 「一面」は、ある物事の全体の表面や、一つの側面を指します。「一面の銀世界」のように全体を覆う様子を表すことも、「問題の一面しか見ていない」のように一部分という意味でも使われます。文脈によって意味が異なる多義語です。
+Example1: 外は一面の雪景色です。
+Example1_EN: Outside is a landscape of nothing but snow.
+Example2: 問題の一面だけを見て判断してはいけません。
+Example2_EN: You must not judge based on only one aspect of the problem.
+Example3: 一面のひまわり畑が広がっています。
+Example3_EN: A field of sunflowers stretches out as far as the eye can see.
+
+===word: 保管する===
+Nuance: 「保管する」は、物や書類を預かって安全に保存・管理することを意味します。「保存」よりも管理責任のニュアンスが強く、倉庫での荷物の保管や、重要な書類の保管などに使われます。ビジネスや法律の文脈でよく登場します。
+Example1: 重要な書類は金庫に保管してください。
+Example1_EN: Please keep important documents in the safe.
+Example2: この荷物は一週間保管できます。
+Example2_EN: We can store this luggage for one week.
+Example3: 温度管理をして食品を保管します。
+Example3_EN: We store food products with temperature control.
+
+===word: 衛星放送===
+Nuance: 「衛星放送」は、人工衛星を中継して行われるテレビやラジオの放送方式を指します。地上波放送と違い、広い範囲をカバーでき、山間部や離島でも受信しやすい特徴があります。衛星を使った放送サービスが代表例です。
+Example1: 衛星放送は天候の影響を受けることがあります。
+Example1_EN: Satellite broadcasting can be affected by weather conditions.
+Example2: 衛星放送のチャンネルを増やしました。
+Example2_EN: I increased the number of satellite broadcast channels.
+Example3: 衛星放送のおかげで世界中のニュースが見られます。
+Example3_EN: Thanks to satellite broadcasting, we can watch news from around the world.
+
+===word: 羊===
+Nuance: 「羊」は、家畜として飼育される動物で、羊毛や肉、乳などを人間に提供します。ヒツジの群れは「羊の群れ」と呼ばれ、おとなしい性格から「従順」の象徴とされることもあります。英語の「シープ」に相当します。
+Example1: 牧場で羊をたくさん見ました。
+Example1_EN: I saw many sheep at the ranch.
+Example2: 羊の毛でセーターを編みました。
+Example2_EN: I knitted a sweater from sheep's wool.
+Example3: 羊はとてもおとなしい動物です。
+Example3_EN: Sheep are very gentle animals.
+
+===word: 全快する===
+Nuance: 「全快する」は、病気や怪我が完全に治ることを意味します。「完治する」と似ていますが、「全快」は体調や体力が元の状態に戻ったことに焦点があり、「完治」は医学的に完全に治ったことに焦点があります。日常会話では「全快」の方がよく使われます。
+Example1: 父は病気から全快しました。
+Example1_EN: My father has fully recovered from his illness.
+Example2: 全快するまでにはあと一週間かかります。
+Example2_EN: It will take another week to fully recover.
+Example3: 全快しておらず、まだ通院しています。
+Example3_EN: I haven't fully recovered and am still visiting the doctor.
+
+===word: 建設会社===
+Nuance: 「建設会社」は、ビルや道路、橋などの建設工事を行う会社を指します。「ゼネコン」とも呼ばれる大手建設会社から、地元の小さな工務店まで規模は様々です。建築業界や不動産業界でよく使われる用語です。
+Example1: 彼は建設会社に勤めています。
+Example1_EN: He works for a construction company.
+Example2: このマンションは大手建設会社が建てました。
+Example2_EN: This apartment building was built by a major construction company.
+Example3: 建設会社の倒産が相次いでいます。
+Example3_EN: Construction companies are going bankrupt one after another.
+
+===word: 緑茶===
+Nuance: 「緑茶」は、茶葉を発酵させずに製造した日本茶の総称です。煎茶や抹茶、玉露などが含まれます。日本では最も一般的なお茶で、日常的に飲まれています。カフェインが含まれており、健康効果も注目されています。
+Example1: 毎朝緑茶を飲んでいます。
+Example1_EN: I drink green tea every morning.
+Example2: この緑茶はとても香りが良いです。
+Example2_EN: This green tea has a wonderful aroma.
+Example3: 緑茶には抗酸化作用があると言われています。
+Example3_EN: Green tea is said to have antioxidant effects.
+
+===word: 帝国===
+Nuance: 「帝国」は、皇帝または天皇が統治する国家形態を指します。歴史的にはローマ帝国、大英帝国、日本帝国などが有名です。領土の拡大や多民族の統治を特徴とする場合が多く、現代では共和制が主流のため、あまり使われない言葉です。
+Example1: ローマ帝国は広大な領土を持っていました。
+Example1_EN: The Roman Empire had vast territories.
+Example2: 帝国の歴史について勉強しています。
+Example2_EN: I am studying the history of empires.
+Example3: あの映画は銀河帝国を舞台にしています。
+Example3_EN: That movie is set in a galactic empire.
+
+===word: 暴風雨===
+Nuance: 「暴風雨」は、強い風と激しい雨を伴う荒れた天気を指します。台風や発達した低気圧などによって引き起こされ、交通機関の乱れや被害の原因となります。気象警報やニュースなどで使われる正式な気象用語です。
+Example1: 暴風雨のため、電車が運休しました。
+Example1_EN: Train services were suspended due to the storm.
+Example2: 昨夜の暴風雨で木が何本か倒れました。
+Example2_EN: Several trees fell down in last night's storm.
+Example3: 暴風雨に備えて準備をしましょう。
+Example3_EN: Let's prepare for the storm.
+
+===word: レントゲン===
+Nuance: 「レントゲン」は、エックス線を使って体内の状態を撮影する医療検査のことです。発見者であるレントゲン博士の名前に由来します。医療現場では「レントゲンを撮る」のように使われ、骨折や肺炎などの診断に欠かせない検査です。
+Example1: 病院でレントゲンを撮りました。
+Example1_EN: I had an X-ray taken at the hospital.
+Example2: レントゲンの結果は来週わかります。
+Example2_EN: We'll know the X-ray results next week.
+Example3: レントゲン写真を見せていただけますか？
+Example3_EN: Could you show me the X-ray image?
+
+===word: 留守番電話===
+Nuance: 「留守番電話」は、電話に出られないときに相手のメッセージを録音する機能や機器を指します。固定電話の機能として広く普及しましたが、スマートフォンの普及により、ボイスメールとして携帯電話でも同様の機能が使われています。
+Example1: 留守番電話にメッセージを残しました。
+Example1_EN: I left a message on the answering machine.
+Example2: 留守番電話の設定を確認してください。
+Example2_EN: Please check the answering machine settings.
+Example3: 留守番電話が鳴っていたので、再生しました。
+Example3_EN: The answering machine was beeping, so I played the messages.
+
+===word: 跡===
+Nuance: 「跡」は、何かが過ぎ去った後に残った痕跡や形跡を指します。足跡、傷跡、火事の跡など、物理的な痕跡から、亡くなった人の「跡を継ぐ」のように抽象的な意味でも使われます。非常に多義的な名詞です。
+Example1: 雪の上に足跡が残っていました。
+Example1_EN: Footprints were left in the snow.
+Example2: 事故の跡はもうほとんどありません。
+Example2_EN: There are almost no traces of the accident anymore.
+Example3: 彼は父の跡を継いで会社を経営しています。
+Example3_EN: He succeeded his father and runs the company.
+
+===word: 中指===
+Nuance: 「中指」は、手の指のうち中央にある一番長い指を指します。日常的には物を指すときや、指差しに使われることが多いです。文化によっては特定のジェスチャーとして使われることもありますが、医学的・解剖学的には単に指の名称です。
+Example1: 中指に指輪をはめています。
+Example1_EN: I'm wearing a ring on my middle finger.
+Example2: 中指を机にぶつけてしまいました。
+Example2_EN: I hit my middle finger against the desk.
+Example3: 中指は手の指の中で一番長いです。
+Example3_EN: The middle finger is the longest finger on the hand.
+
+===word: 割り当て===
+Nuance: 「割り当て」は、限られた資源や仕事、役割などを複数の人や部署に分けて配分することを指します。予算の割り当て、仕事の割り当て、席の割り当てなど、ビジネスや日常の様々な場面で使われます。
+Example1: 各部屋に予算の割り当てを決めました。
+Example1_EN: We decided on the budget allocation for each department.
+Example2: 仕事の割り当ては公平に行います。
+Example2_EN: Work assignments will be made fairly.
+Example3: 席の割り当ては抽選で決めました。
+Example3_EN: Seat assignments were decided by lottery.
+
+===word: 肥料===
+Nuance: 「肥料」は、植物の成長を促進するために土壌に与える物質の総称です。化学肥料と有機肥料があり、農業や園芸で使用されます。植物に栄養を供給し、収穫量や品質を向上させる役割があります。
+Example1: 庭の花に肥料をあげました。
+Example1_EN: I put fertilizer on the flowers in the garden.
+Example2: この肥料は有機栽培に適しています。
+Example2_EN: This fertilizer is suitable for organic farming.
+Example3: 肥料の量が多すぎると、植物が弱ります。
+Example3_EN: If you use too much fertilizer, the plants will weaken.
+
+===word: 風刺画===
+Nuance: 「風刺画」は、政治や社会の問題を皮肉やユーモアを交えて描いた絵のことです。新聞や雑誌の漫画コーナーなどで見られます。批判的な内容を含みながらも、笑いを誘う表現技法を用いるのが特徴です。
+Example1: 新聞に風刺画が載っていました。
+Example1_EN: A caricature was published in the newspaper.
+Example2: その風刺画は政治家を批判しています。
+Example2_EN: That caricature is criticizing politicians.
+Example3: 風刺画は表現の一つの形です。
+Example3_EN: Caricature is one form of expression.
+
+===word: 全会一致===
+Nuance: 「全会一致」は、会議や投票などで、参加者全員が同じ意見であることを指します。全員が賛成した状態で、反対や棄権が一人もいないことを意味します。会社の株主総会や国際会議などの公式な場で使われる表現です。
+Example1: その提案は全会一致で可決されました。
+Example1_EN: The proposal was passed unanimously.
+Example2: 全会一致の決定は簡単にはできません。
+Example2_EN: A unanimous decision is not easy to reach.
+Example3: 全会一致で彼を新しいリーダーに選びました。
+Example3_EN: We unanimously elected him as the new leader.
+
+===word: 旧型の===
+Nuance: 「旧型の」は、新しい型やモデルが出た後に、以前の型・モデルであることを示す形容詞的な表現です。製品や機械、車などに使われ、最新型と比較して古いバージョンであることを示します。必ずしも悪い意味ではなく、クラシックな価値を持つ場合もあります。
+Example1: 旧型の車ですが、まだ十分に使えます。
+Example1_EN: It's an old model car, but it's still perfectly usable.
+Example2: 旧型のパソコンは処理が遅いです。
+Example2_EN: Old model computers are slow in processing.
+Example3: このカメラは旧型ですが、味わいのある写真が撮れます。
+Example3_EN: This camera is an old model, but it takes photos with character.
+
+===word: 最年少の===
+Nuance: 「最年少の」は、ある集団の中で最も年齢が若いことを表す表現です。スポーツ選手の最年少記録、最年少社長、最年少メンバーなど、記録や称号として使われることが多いです。年功序列が重視される場面では特に注目される属性です。
+Example1: 彼はチームで最年少の選手です。
+Example1_EN: He is the youngest player on the team.
+Example2: 彼女はこの業界で最年少の社長になりました。
+Example2_EN: She became the youngest president in this industry.
+Example3: 最年少の参加者ですが、素晴らしい発表をしました。
+Example3_EN: He was the youngest participant, but he gave an excellent presentation.
+
+===word: 近眼===
+Nuance: 「近眼」は、遠くのものが見えにくく、近くのものがよく見える目の状態を指します。医学的には「近視」が正式な用語ですが、「近眼」は日常会話でよく使われる表現です。遺伝や長時間の近距離作業などが原因とされています。
+Example1: 近眼なので、遠くの看板が読めません。
+Example1_EN: I'm nearsighted, so I can't read distant signs.
+Example2: 最近、近眼がひどくなってきました。
+Example2_EN: Recently, my nearsightedness has gotten worse.
+Example3: 近眼の人はメガネかコンタクトが必要です。
+Example3_EN: Nearsighted people need glasses or contact lenses.
+
+===word: 慶賀状===
+Nuance: 「慶賀状」は、祝い事や喜ばしい出来事に対して送る手紙や文書を指します。年賀状や結婚祝いの手紙などが該当します。やや格式ばった表現で、ビジネスや公式の場での祝意表明に使われることが多いです。
+Example1: 新年に慶賀状を送りました。
+Example1_EN: I sent a New Year's greeting card.
+Example2: 慶賀状をいただき、ありがとうございます。
+Example2_EN: Thank you for the congratulatory letter.
+Example3: 取引先に慶賀状を送る準備をしています。
+Example3_EN: I am preparing to send congratulatory letters to our business partners.
+
+===word: 墓参り===
+Nuance: 「墓参り」は、故人の眠るお墓を訪れて拝むことを指します。お盆やお彼岸、命日などに行う日本の伝統的な習慣です。花や線香を供え、手を合わせて故人を偲びます。家族や親戚が集まる機会でもあります。
+Example1: お盆に墓参りに行きました。
+Example1_EN: I went to visit the grave during the Obon festival.
+Example2: 毎年、父の命日に墓参りをしています。
+Example2_EN: I visit my father's grave every year on the anniversary of his death.
+Example3: 墓参りの後、親戚と食事をしました。
+Example3_EN: After visiting the grave, I had a meal with relatives.
+
+===word: 雨量===
+Nuance: 「雨量」は、一定の時間に降った雨の量を数値化したものです。気象観測で使われる用語で、ミリメートル単位で表されます。ニュースの天気予報や防災情報で「一時間の雨量」などとしてよく登場します。
+Example1: 昨日の雨量は五十ミリでした。
+Example1_EN: Yesterday's rainfall was fifty millimeters.
+Example2: 雨量が多いと洪水の危険があります。
+Example2_EN: Heavy rainfall poses a risk of flooding.
+Example3: この地域の年間雨量を調べています。
+Example3_EN: I am researching the annual rainfall in this region.
+
+===word: 雀===
+Nuance: 「雀」は、日本で最も身近な小鳥の一種で、町中や田んぼなどでよく見られます。スズメ目スズメ科の鳥で、茶色と黒の模様が特徴です。チュンチュンという鳴き声で知られています。
+Example1: 庭に雀がたくさん来ています。
+Example1_EN: Many sparrows are coming to the garden.
+Example2: 雀の鳴き声で目が覚めました。
+Example2_EN: I woke up to the chirping of sparrows.
+Example3: 雀は人間の近くで暮らす鳥です。
+Example3_EN: Sparrows are birds that live close to humans.
+
+===word: チンプンカンプン===
+Nuance: 「チンプンカンプン」は、話や説明が全く理解できないことを表す口語表現です。専門用語が多すぎる、外国語で話されている、論理が飛躍しているなど、内容が全く頭に入ってこない状態を指します。ややユーモラスな響きがあります。
+Example1: 専門用語が多すぎて、チンプンカンプンでした。
+Example1_EN: There were too many technical terms, and it was all Greek to me.
+Example2: 英語の説明はチンプンカンプンです。
+Example2_EN: The English explanation is completely incomprehensible to me.
+Example3: 彼の話はいつもチンプンカンプンで困ります。
+Example3_EN: His explanations are always incomprehensible, and it's troublesome.
+
+===word: 高水準言語===
+Nuance: 「高水準言語」は、プログラミング言語の分類の一つで、人間が理解しやすい抽象度の高い言語を指します。シー言語やジャバ、パイソンなどが該当します。コンピュータが直接理解する機械語やアセンブリ言語と対比される概念で、プログラミングの学習や実務で使われます。
+Example1: Pythonは高水準言語の代表的なものです。
+Example1_EN: Python is a representative high-level language.
+Example2: 高水準言語を使うと、開発効率が上がります。
+Example2_EN: Using high-level languages improves development efficiency.
+Example3: この授業では高水準言語について学びます。
+Example3_EN: In this class, we will learn about high-level languages.
+
+===word: 禁書===
+Nuance: 「禁書」は、発行や所持、読書が法律や権力によって禁止された書物を指します。歴史的には、宗教や政治の理由で特定の本が禁止された事例が多くあります。思想や表現の自由に関する議論で言及されることが多い言葉です。
+Example1: その本は昔、禁書に指定されていました。
+Example1_EN: That book was once designated as a banned book.
+Example2: 禁書リストには多くの有名な作品が含まれています。
+Example2_EN: The list of banned books includes many famous works.
+Example3: 禁書についての研究をしています。
+Example3_EN: I am researching banned books.
+
+===word: 適する===
+Nuance: 「適する」は、ある条件や目的に合っていること、ふさわしいことを意味する動詞です。人材が仕事に適する、気候が作物に適する、方法が目的に適するなど、様々な場面で使われます。やや硬めの表現で、文章でよく使われます。
+Example1: この仕事には彼が最も適しています。
+Example1_EN: He is the most suitable person for this job.
+Example2: この気候は稲作に適しています。
+Example2_EN: This climate is suitable for rice cultivation.
+Example3: どの方法が目的に適するか考えましょう。
+Example3_EN: Let's consider which method is suitable for the purpose.
+
+===word: 受け止める===
+Nuance: 「受け止める」は、飛んできたものを手や体で受けて止める物理的な意味と、人の意見や気持ちを真摯に理解しようとする比喩的な意味の両方があります。後者の用法では、「批判を受け止める」「意見を受け止める」のように、相手の言葉をしっかりと聞いて向き合うニュアンスです。
+Example1: ボールをしっかり受け止めました。
+Example1_EN: I caught the ball firmly.
+Example2: 彼の批判を真摯に受け止めます。
+Example2_EN: I will take his criticism seriously.
+Example3: どんな意見でも受け止める姿勢が大切です。
+Example3_EN: It's important to have an attitude of accepting any opinion.
+
+===word: 肉体関係===
+Nuance: 「肉体関係」は、男女間の性的な関係を婉曲に指す表現です。公の場やフォーマルな文脈で使われることが多く、直接的な表現を避ける際に用いられます。恋愛や結婚の話題で登場することが多い言葉です。
+Example1: 彼らには肉体関係があると噂されています。
+Example1_EN: It is rumored that they have a physical relationship.
+Example2: 肉体関係の有無は問題ではありません。
+Example2_EN: Whether or not there is a physical relationship is not the issue.
+Example3: 肉体関係を持つ前に、しっかり話し合うべきです。
+Example3_EN: You should discuss things thoroughly before having a physical relationship.
+
+===word: 双子===
+Nuance: 「双子」は、同じ母親から同時に生まれた二人の子どもを指します。一卵性双生児と二卵性双生児があり、見た目がそっくりな場合とそうでない場合があります。兄弟姉妹の中でも特別な関係として扱われることが多いです。
+Example1: 彼女は双子の姉妹がいます。
+Example1_EN: She has a twin sister.
+Example2: 双子はとても仲が良いです。
+Example2_EN: The twins get along very well.
+Example3: 双子の兄弟は見分けがつきません。
+Example3_EN: The twin brothers are indistinguishable.
+
+===word: 予告なしに===
+Nuance: 「予告なしに」は、前もって知らせることなく、突然何かが行われることを表す副詞句です。事前の連絡や告知がない状態で、変更や出来事が発生する場合に使われます。「予告なしに休業する」「予告なしに変更する」など、やや否定的な文脈で使われることが多いです。
+Example1: その店は予告なしに休業しました。
+Example1_EN: That store closed without prior notice.
+Example2: 予告なしに価格が変更されることがあります。
+Example2_EN: Prices may be changed without prior notice.
+Example3: 予告なしにスケジュールを変更しないでください。
+Example3_EN: Please do not change the schedule without prior notice.

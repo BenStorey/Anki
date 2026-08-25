@@ -1,0 +1,188 @@
+===word: 答案用紙===
+Nuance: 試験などで答えを書くための用紙。「とうあんようし」と読む。答案と用紙の複合語。
+Example1: 試験の前に答案用紙に名前を書いてください。
+Example1_EN: Please write your name on the answer sheet before the exam.
+Example2: 答案用紙が足りなかったので、先生に追加をもらった。
+Example2_EN: There weren't enough answer sheets, so I got extras from the teacher.
+Example3: 答案用紙を回収する時間です。
+Example3_EN: It's time to collect the answer sheets.
+
+===word: 爆発===
+Nuance: 急激なエネルギー放出を伴う破壊現象。物理的な爆発だけでなく、感情や人口などが急増する比喩にも使う。
+Example1: 工場で爆発が起こり、大きな音がした。
+Example1_EN: An explosion occurred at the factory, making a loud noise.
+Example2: 彼の怒りがついに爆発した。
+Example2_EN: His anger finally exploded.
+Example3: この町は観光客で爆発的に増えている。
+Example3_EN: This town is explosively increasing with tourists.
+
+===word: 日本人自身===
+Nuance: 「日本人」に「自身」を付けて強調した表現。日本人そのもの、日本人自らのことを指す。
+Example1: 日本人自身も日本の文化をすべて知っているわけではない。
+Example1_EN: Japanese people themselves do not know everything about Japanese culture.
+Example2: この問題は日本人自身が考えなければならない。
+Example2_EN: The Japanese themselves must think about this issue.
+Example3: 外国人の視点は、日本人自身が気づかない特徴を教えてくれる。
+Example3_EN: A foreigner's perspective teaches us characteristics that Japanese people themselves do not notice.
+
+===word: 通路===
+Nuance: 建物や乗り物の中で人が通るための道。廊下や座席間の道など。
+Example1: 飛行機の通路側の席が好きです。
+Example1_EN: I like aisle seats on airplanes.
+Example2: この通路をまっすぐ行くと出口です。
+Example2_EN: If you go straight down this passage, you will reach the exit.
+Example3: 電車内の通路に荷物を置かないでください。
+Example3_EN: Please do not leave luggage in the train aisle.
+
+===word: 条件===
+Nuance: 何かを決定する際の前提となる事柄や取り決め。契約や取引でよく使う。
+Example1: この仕事の条件は、日本語が話せることです。
+Example1_EN: The condition for this job is being able to speak Japanese.
+Example2: 条件が合わなければ、契約しなくてもいいです。
+Example2_EN: If the conditions don't suit you, you don't have to sign the contract.
+Example3: 条件付きで彼の提案を承認した。
+Example3_EN: I approved his proposal with conditions.
+
+===word: 大通り===
+Nuance: 幅が広くて交通量の多い主要な道路。街の中心を通ることが多い。
+Example1: この大通りをまっすぐ進んでください。
+Example1_EN: Please go straight along this main street.
+Example2: 大通りに面したカフェで待ち合わせをした。
+Example2_EN: I arranged to meet at a cafe facing the main street.
+Example3: 祭りの日は大通りが歩行者天国になる。
+Example3_EN: On festival days, the main street becomes a pedestrian paradise.
+
+===word: 千葉県===
+Nuance: 関東地方にある県で、東京都の東側に位置する。成田空港やディズニーランドがある。
+Example1: 千葉県は東京から電車で一時間ほどです。
+Example1_EN: Chiba Prefecture is about an hour from Tokyo by train.
+Example2: 千葉県出身の友達がいます。
+Example2_EN: I have a friend from Chiba Prefecture.
+Example3: 千葉県の房総半島は海水浴場が有名です。
+Example3_EN: The Boso Peninsula in Chiba Prefecture is famous for its beaches.
+
+===word: 約２分===
+Nuance: 大体二分間という意味。「約」はおおよその数値を表す。「２分」は「にふん」と読むのが一般的だが、発話によっては「ふん」とも。
+Example1: 駅からここまで歩いて約２分です。
+Example1_EN: It's about two minutes on foot from the station.
+Example2: 電子レンジで約２分温めてください。
+Example2_EN: Please heat it in the microwave for about two minutes.
+Example3: 約２分で次の電車が来ます。
+Example3_EN: The next train will arrive in about two minutes.
+
+===word: いるわけないよ===
+Nuance: 強い否定の口語表現。「いるはずがない」という意味で、話し言葉でよく使う。「わけがない」の強調形。
+Example1: こんな時間に彼が会社にいるわけないよ。
+Example1_EN: There's no way he's at the office at this hour.
+Example2: あの人が嘘をつくわけないよ。
+Example2_EN: There's no way that person would lie.
+Example3: そんな安い値段で買えるわけないよ。
+Example3_EN: There's no way you can buy it at such a cheap price.
+
+===word: たとえ〜でも===
+Nuance: 仮定の逆説を表す。「もし〜でも」と同じ意味で、譲歩の条件を示す。「たとえ雨でも行く」のように使う。
+Example1: たとえ雨でも、試合は行われます。
+Example1_EN: Even if it rains, the game will be held.
+Example2: たとえ難しくても、最後まで頑張りたい。
+Example2_EN: Even if it's difficult, I want to do my best until the end.
+Example3: たとえ失敗しても、後悔しないように行動しよう。
+Example3_EN: Even if I fail, let's act so I won't regret it.
+
+===word: 営業===
+Nuance: 企業が利益を得るために商品やサービスを販売する活動。また、店舗が開いている状態を指すこともある。
+Example1: 営業時間は午前九時から午後八時までです。
+Example1_EN: Business hours are from 9 AM to 8 PM.
+Example2: 彼は自動車会社で営業をしている。
+Example2_EN: He works in sales at an automobile company.
+Example3: 今日は定休日で、お店は営業していません。
+Example3_EN: Today is a regular holiday, so the store is not open.
+
+===word: 歴史===
+Nuance: 過去の出来事の記録や研究。また、個人や組織の経歴を指すこともある。
+Example1: 日本史の歴史の授業が一番好きです。
+Example1_EN: I like Japanese history class the most.
+Example2: この城には長い歴史がある。
+Example2_EN: This castle has a long history.
+Example3: 歴史を学ぶことは未来を考えることだ。
+Example3_EN: Learning history is about thinking about the future.
+
+===word: 帰宅する===
+Nuance: 家に帰ることを丁寧に言う表現。「帰る」よりも「帰宅する」の方が改まった印象を与える。
+Example1: 毎日六時ごろに帰宅します。
+Example1_EN: I return home around six o'clock every day.
+Example2: 帰宅途中にスーパーで買い物をした。
+Example2_EN: I shopped at the supermarket on my way home.
+Example3: 子供たちが学校から帰宅するのは四時ごろです。
+Example3_EN: The children return home from school around four o'clock.
+
+===word: 語り合う===
+Nuance: お互いに話し合い、深いレベルで意見や気持ちを共有すること。単なる会話より深い交流を表す。
+Example1: 友人と将来について語り合った。
+Example1_EN: I had a deep talk with my friend about the future.
+Example2: 夜遅くまで夢について語り合った。
+Example2_EN: We talked deeply about our dreams until late at night.
+Example3: 彼らは文化の違いについて熱く語り合った。
+Example3_EN: They had an animated discussion about cultural differences.
+
+===word: 秘密===
+Nuance: 他人に知られたくない事柄。隠している情報や内緒のことを指す。
+Example1: これは二人だけの秘密だよ。
+Example1_EN: This is a secret between us.
+Example2: 彼女は秘密を一つも話さなかった。
+Example2_EN: She didn't tell a single secret.
+Example3: 秘密のレシピを母から教えてもらった。
+Example3_EN: I was taught the secret recipe by my mother.
+
+===word: 高知県===
+Nuance: 四国地方にある県。太平洋に面し、坂本龍馬やカツオのたたきで有名。
+Example1: 高知県は四国にあります。
+Example1_EN: Kochi Prefecture is in Shikoku.
+Example2: 高知県で有名な食べ物はカツオのたたきです。
+Example2_EN: The famous food in Kochi Prefecture is bonito tataki.
+Example3: 高知県のよさこい祭りを見に行きたい。
+Example3_EN: I want to go see the Yosakoi Festival in Kochi Prefecture.
+
+===word: 人手不足===
+Nuance: 仕事をする人の数が足りない状態。産業や職場でよく使われる問題を表す表現。
+Example1: この業界は深刻な人手不足に悩んでいる。
+Example1_EN: This industry is suffering from a serious labor shortage.
+Example2: 人手不足のため、残業が増えている。
+Example2_EN: Overtime is increasing due to a shortage of workers.
+Example3: 人手不足を解消するために外国人労働者を受け入れている。
+Example3_EN: Foreign workers are being accepted to resolve the labor shortage.
+
+===word: オカマ===
+Nuance: 男性で女性的な言動や性自認を持つ人を指す俗語。時に差別的意図を含むことがあるため注意が必要。文脈によってはゲイを指すこともある。
+Example1: 彼はよくオカマと呼ばれるが、本人は気にしていない。
+Example1_EN: He is often called okama, but he doesn't mind it.
+Example2: テレビでオカマの芸人が人気がある。
+Example2_EN: Okama comedians are popular on TV.
+Example3: この言葉は相手を傷つける可能性があるので使い方に注意しよう。
+Example3_EN: Be careful how you use this word as it may hurt others.
+
+===word: 年休===
+Nuance: 「年次有給休暇」の略。労働者に年に与えられる有給の休暇のこと。会社で使うビジネス用語。
+Example1: 年休を取って旅行に行きます。
+Example1_EN: I will take annual leave and go on a trip.
+Example2: 年休がまだ十日残っています。
+Example2_EN: I still have ten days of annual leave remaining.
+Example3: 年休の申請は一週間前までにお願いします。
+Example3_EN: Please submit annual leave requests at least one week in advance.
+
+===word: 狩にいく===
+Nuance: 「狩りに行く」のひらがな表記。動物を捕まえに行くという本来の意味のほか、ゲームなどでモンスターを倒しに行く比喩にも使う。
+Example1: 週末に友達と鹿狩りに行く予定だ。
+Example1_EN: I plan to go deer hunting with friends this weekend.
+Example2: このゲームではレベルが上がると新しいエリアに狩りに行ける。
+Example2_EN: In this game, when you level up, you can go hunting in new areas.
+Example3: きのこ狩りに行ってたくさん採れた。
+Example3_EN: I went mushroom picking and harvested a lot.
+
+===word: ネトゲ===
+Nuance: 「ネットゲーム」の略。インターネットを介して他のプレイヤーと一緒に遊ぶオンラインゲームのこと。若者言葉。
+Example1: 昨夜は遅くまでネトゲをしてしまった。
+Example1_EN: I ended up playing online games late into the night.
+Example2: ネトゲで知り合った人と実際に会った。
+Example2_EN: I actually met someone I got to know through an online game.
+Example3: ネトゲにはまると勉強の時間が減ってしまう。
+Example3_EN: If you get hooked on online games, your study time decreases.
