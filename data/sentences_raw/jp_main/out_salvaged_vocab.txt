@@ -1,0 +1,170 @@
+===word: 麩菓子===
+Nuance: 麩を砂糖蜜で揚げて作る、香川県などの郷土菓子です。軽くて甘く、ぽくぽくした食感が特徴で、お茶菓子としてよく食べられます。
+Example1: 香川を旅行したとき、麩菓子をお土産に買いました。
+Example1_EN: When I traveled to Kagawa, I bought fukashi rice crackers as a souvenir.
+Example2: 麩菓子は軽くて食べやすいので、お茶菓子にぴったりです。
+Example2_EN: Fukashi is light and easy to eat, so it is perfect as a tea snack.
+Example3: この店ではいろいろな味の麩菓子を売っています。
+Example3_EN: This shop sells fukashi rice crackers in various flavors.
+
+===word: ボソリ===
+Nuance: 小さな声で、ひとりごとのようにひそかに何かを言う様子を表す副詞です。ぼそりと話すと、聞き取りにくいニュアンスがあります。
+Example1: 彼は「よくわかりません」とボソリと言いました。
+Example1_EN: He muttered, "I do not really understand."
+Example2: 彼女は申し訳なさそうにボソリと謝りました。
+Example2_EN: She apologized in a soft, awkward voice.
+Example3: その男は何かをつぶやきながらボソリと通り過ぎました。
+Example3_EN: The man walked past while mumbling something under his breath.
+
+===word: 框===
+Nuance: 扉や窓、障子などの枠の部分に使われる細長い部材を指します。建具や木工の言葉で、取り付け部分の枠を表します。
+Example1: この窓の框はとてもしっかりした作りです。
+Example1_EN: The frame around this window is very solidly built.
+Example2: 框にほこりがたまっていたので、きれいに掃除しました。
+Example2_EN: Dust had collected on the door frame, so I cleaned it thoroughly.
+Example3: 大工さんに框の交換をお願いしました。
+Example3_EN: I asked the carpenter to replace the frame.
+
+===word: 嗚呼===
+Nuance: 嘆きや感動、驚きなどの感情を表す古風な感動詞です。文章や歌詞で多く使われ、口語の「ああ」より文語的な響きがあります。
+Example1: 嗚呼、なんと美しい風景でしょうか。
+Example1_EN: Ah, what a beautiful landscape this is.
+Example2: 嗚呼、この詩を読むと胸が熱くなります。
+Example2_EN: Ah, reading this poem makes my heart swell.
+Example3: 嗚呼、時が経つのは本当に速いものですね。
+Example3_EN: Alas, time really does pass so quickly.
+
+===word: 仰る===
+Nuance: 「言う」の尊敬語で、目上の人が何かを言うとき、その動作を敬意を込めて表す動詞です。会話や書き言葉で広く使われます。
+Example1: 先生は明日の会議に出席されると仰いました。
+Example1_EN: The teacher said that he will attend tomorrow's meeting.
+Example2: お客様がもう一度お会いしたいと仰っています。
+Example2_EN: The client says he would like to meet you once more.
+Example3: 部長は何と仰いましたか。
+Example3_EN: What did the department manager say?
+
+===word: およそ===
+Nuance: 「だいたい」「ほぼ」という意味を表す副詞です。数量や程度を大まかに推定するときに使われます。
+Example1: 駅まではおよそ十分かかります。
+Example1_EN: It takes about ten minutes to get to the station.
+Example2: この会の参加者はおよそ百人ほどでした。
+Example2_EN: The number of participants in this event was roughly a hundred.
+Example3: 完成にはおよそ一か月かかるでしょう。
+Example3_EN: It will probably take about a month to finish.
+
+===word: お寝小===
+Nuance: 睡眠中に無意識に尿を漏らすことを、特に子供のことばとして表す名詞です。かわいらしい響きのある言い方で、「おねしょ」とも書きます。
+Example1: 息子は昨夜、久しぶりにお寝小をしてしまいました。
+Example1_EN: My son wet the bed last night for the first time in a while.
+Example2: 子供のお寝小は成長とともに減っていきます。
+Example2_EN: Bed-wetting in children decreases as they grow older.
+Example3: お寝小をした後、息子は恥ずかしそうにしていました。
+Example3_EN: After wetting the bed, my son looked embarrassed.
+
+===word: 耳偏===
+Nuance: 漢字の部首の一つで、「耳」が漢字の左側につく偏を指します。「聞」「職」などの漢字に使われます。
+Example1: 「聞」という漢字は耳偏を持つ漢字の一つです。
+Example1_EN: The kanji for "to hear" is one of the characters that has the ear radical.
+Example2: 耳偏の漢字には「聞」や「聴」があります。
+Example2_EN: Kanji with the ear radical include those for "hear" and "listen".
+Example3: 耳偏は、耳に関係する意味を持つことが多いです。
+Example3_EN: The ear radical often carries meanings related to the ear.
+
+===word: 蝶々===
+Nuance: ひらひらと飛ぶ昆虫の蝶を親しみを込めて表す言葉です。特に子供の話し言葉でよく使われます。
+Example1: 庭で蝶々がきれいに舞っています。
+Example1_EN: Butterflies are fluttering beautifully in the garden.
+Example2: 娘は蝶々の絵を楽しそうに描きました。
+Example2_EN: My daughter happily drew a picture of a butterfly.
+Example3: 菜の花に蝶々がとまっていますね。
+Example3_EN: A butterfly is resting on the rapeseed flower, isn't it?
+
+===word: おまけに===
+Nuance: すでに述べたことに加えて、さらに何かを付け加えるときに使う接続詞です。特に好ましくないことが重なるときによく使われます。
+Example1: 雨が降っているおまけに、風も強くなってきました。
+Example1_EN: It is raining, and on top of that the wind is getting stronger.
+Example2: 電車に遅れたおまけに、財布も忘れてしまいました。
+Example2_EN: I missed the train, and to make matters worse I forgot my wallet too.
+Example3: 値段が高いおまけに、味も今ひとつでした。
+Example3_EN: It was expensive, and on top of that the taste was not great.
+
+===word: かち割る===
+Nuance: 固いものを力強く打って割ることを表す動詞です。氷や砂糖などをたたいて砕く動作を指します。
+Example1: 大きな氷をかち割って、冷たい飲み物に入れました。
+Example1_EN: I cracked the large piece of ice and put it into a cold drink.
+Example2: かち割った角砂糖をコーヒーに入れました。
+Example2_EN: I put some cracked sugar cubes into my coffee.
+Example3: 固いかりんとうをうまくかち割ることができました。
+Example3_EN: I managed to crack the hard rice-cracker snack properly.
+
+===word: 參===
+Nuance: 「参」の異体字で、主に法律文書や契約書などで数字の「三」を表すために使われる漢字です。改ざんを防ぐ目的で用いられます。
+Example1: 契約書には、数字の三が「參」と書かれていました。
+Example1_EN: In the contract, the number three was written using the old character form.
+Example2: この文書の第三条には參つの条件が記されています。
+Example2_EN: Article three of this document sets out three conditions.
+Example3: 古い文書では、数字の三に「參」が使われることがあります。
+Example3_EN: In old documents, the old character form for three is sometimes used.
+
+===word: はっと===
+Nuance: 急に気づいたり、強く驚いたりするときの様子を表す副詞です。「はっとする」という形でも使われます。
+Example1: 彼は忘れていた約束に、はっと気づきました。
+Example1_EN: He suddenly realized he had forgotten the appointment.
+Example2: その知らせを聞いて、私ははっとしました。
+Example2_EN: When I heard the news, I was taken aback.
+Example3: はっと気づくと、もう終電の時間でした。
+Example3_EN: When I suddenly realized it, it was already time for the last train.
+
+===word: 給水塔===
+Nuance: 高い場所に貯水槽を設けて、水を高い圧力で送り出す設備です。地域や工場などで使われます。
+Example1: この街には古い給水塔が今も残っています。
+Example1_EN: An old water tower still remains in this town.
+Example2: 給水塔の水を検査して、安全を確かめました。
+Example2_EN: We inspected the water in the water tower to confirm its safety.
+Example3: 工場の隣に大きな給水塔が見えます。
+Example3_EN: A large water tower is visible next to the factory.
+
+===word: 性交===
+Nuance: 生物学的・医学的な文脈で使われる、性的な交わりを表す名詞です。かたい表現で、生物の繁殖や人間の生殖について書くときに用いられます。
+Example1: その作品では、性交の場面が細かく描かれています。
+Example1_EN: In that work, the sexual intercourse scene is depicted in detail.
+Example2: 性交についての正しい知識を持つことは大切です。
+Example2_EN: It is important to have accurate knowledge about sexual intercourse.
+Example3: この本では夫婦の性交について丁寧に説明しています。
+Example3_EN: This book carefully explains sexual intercourse between married couples.
+
+===word: ハシゴする===
+Nuance: 複数の店を次々と渡り歩いて飲むことを表すサ変動詞です。「はしご酒」と同じく、飲み会でよく使われます。
+Example1: 昨夜は友人と三軒飲み歩いて、はしごしました。
+Example1_EN: Last night I went bar hopping with a friend and visited three places.
+Example2: 今日はもう一軒寄ってから帰るので、はしごします。
+Example2_EN: I will stop at one more place before heading home, so we will be bar hopping.
+Example3: 週末に、はしごをして楽しい夜を過ごしました。
+Example3_EN: I had a fun evening out bar hopping over the weekend.
+
+===word: 通称===
+Nuance: 正式な名前とは別に、一般に広く使われている呼び名を指す名詞です。「通称〜」のように使われます。
+Example1: この建物は、通称「白い塔」と呼ばれています。
+Example1_EN: This building is commonly called the "White Tower."
+Example2: 彼は通称の名前でみんなに呼ばれています。
+Example2_EN: He is known to everyone by his nickname.
+Example3: この地域は、通称で「市場町」として知られています。
+Example3_EN: This area is commonly known as "Market Town."
+
+===word: 創造===
+Nuance: 新しいものや価値を初めて作り出すことを表す名詞・サ変動詞です。芸術や技術、思想など幅広い分野で使われます。
+Example1: この職人は、独創的な作品を創造しています。
+Example1_EN: This artisan creates highly original works.
+Example2: 創造的なアイデアが求められています。
+Example2_EN: Creative ideas are being sought.
+Example3: 彼女は新しい仕組みの創造に力を注いでいます。
+Example3_EN: She is putting great effort into creating a new system.
+
+===word: 洋式===
+Nuance: 西洋式のさま、欧米の様式を表す名詞です。建築や家具、トイレなどの設備について「洋式」と使われます。
+Example1: この旅館の客室には洋式のトイレがあります。
+Example1_EN: The guest rooms of this inn have western-style toilets.
+Example2: 庭に洋式の花壇を作りました。
+Example2_EN: I made a western-style flower bed in the garden.
+Example3: その家は洋式の外観をしていて、とてもきれいです。
+Example3_EN: That house has a western-style appearance and looks very clean.
