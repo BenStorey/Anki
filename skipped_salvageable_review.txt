@@ -1,0 +1,5136 @@
+# Potentially salvageable skipped entries — 1283 total
+# These are words/phrases from the main deck that were in prompts but NOT in output files.
+# Categories: VOCAB (short word), PHRASE (longer), CLEANABLE (needs suffix stripped)
+#
+
+[VOCAB] 酒は百薬の長
+  Reading: さけは ひゃくやくの ちょう
+  Meaning: Sake (alcohol) is the best of all medicines.Nuance酒は百薬の長 (sake wa hyakuyaku no chō)  is a well-known Japanese proverb. I
+
+[VOCAB] 宜なるかな
+  Reading: むべなるかな
+  Meaning: “Indeed it is so”; “No wonder”; “How reasonable (it is).” Nuance: A classical/literary expression, often used in writing
+
+[VOCAB] なすがまま
+  Reading: なすがまま
+  Meaning: as one pleases; letting things take their course; passive; without resistance Nuance: なすがまま conveys the idea of yielding
+
+[VOCAB] 麩菓子
+  Reading: ふ がし
+  Meaning: 
+
+[VOCAB] 可もなく不可もなし
+  Reading: かもなく ふかもなし
+  Meaning: neither good nor bad
+
+[VOCAB] 花も恥らう
+  Reading: はなも はじらう
+  Meaning: 花も恥らう（はなもはじらう） Translation: As beautiful (and modest) as even the flowers would blush; so lovely that even flowers would
+
+[VOCAB] 遍く　・　普く
+  Reading: あまねく あまねく
+  Meaning: "widely," "throughout," or "universally"—covering a broad scope without exception.Nuances:This literary adverb emphasize
+
+[VOCAB] 映える / 栄える
+  Reading: はえる   さかえる
+  Meaning: To shine / glow / look beautiful
+
+[PHRASE] 腹が据わる　・　肝が据わる　・　度胸が据わる
+  Reading: はらが すわる きもが すわる どきょうが すわる
+  Meaning: 腹が据わる（はらがすわる）means "to become  resolute," "to steel oneself," or "to develop unshakable courage." It  describes reaching
+
+[CLEANABLE] 取り付ける
+  Reading: りとりつける  (was: 取り付ける　again)
+  Meaning: Also means "to install" (a gun on Barrets arm!)
+
+[VOCAB] マザマザと想像する
+  Reading: と そうぞうする
+  Meaning: to have a vivid imagination
+
+[VOCAB] のももっともだ grammar
+  Reading: のももっともだ
+  Meaning: no wonder; …is only natural - really its just のも followed by もっともだ which we already know
+
+[VOCAB] 使役形
+  Reading: しえき けい
+  Meaning: causative form - ie. make/let させる
+
+[VOCAB] ~ 尽く
+  Reading: ずく
+  Meaning: The suffix 「〜尽くす」 (〜つくす) means "to do something completely," "to exhaust," or "to use up all of." It attaches to the mas
+
+[VOCAB] ボソリ
+  Reading: 
+  Meaning: Muttering; murmuring; speaking softlyNuances:This  onomatopoeic term describes speaking in a low, barely audible voice, 
+
+[VOCAB] 君は懲りないやつだなあ
+  Reading: きみは こりないやつだなあ
+  Meaning: You never learn, do you?
+
+[PHRASE] Verb-casual + とみるや
+  Reading: とみるや
+  Meaning: at the sight of; upon seeing
+
+[VOCAB] 馬鹿も休み休み言え
+  Reading: ばかも やすみ やすみ いえ
+  Meaning: stop talking nonsense, don't be ridiculous, give me a break
+
+[VOCAB] 広報係り
+  Reading: こうほう かかり
+  Meaning: Publicist / Press agent
+
+[VOCAB] その製品はこの特性を踏襲する
+  Reading: その せいひんはこの とくせいを とうしゅうする
+  Meaning: Those products follow these characteristics
+
+[VOCAB] Nを + おいて
+  Reading: をおいて
+  Meaning: The structure 「N + をおいて」 is used to mean "except for N," "besides N," or "none other than N," emphasizing that N is the 
+
+[VOCAB] どうか思いとどまってください
+  Reading: どうか おもいとどまってください
+  Meaning: Please give it up
+
+[VOCAB] 郷里に先祖代代の墓がある
+  Reading: きょうりに せんぞだいだいの はかがある
+  Meaning: In my hometown there are graves going back many generations
+
+[PHRASE] その写真には空飛ぶ円盤が写っている
+  Reading: その しゃしんには ぶそらとぶえんばんが うつっている
+  Meaning: The photograph shows a flying saucer
+
+[VOCAB] 横付け　する
+  Reading: よこづけする
+  Meaning: Lay aboard / Pull up alongside
+
+[VOCAB] ~かいもなく grammar
+  Reading: かいもなく
+  Meaning: the sense of **futility or wasted effort**.  ---### **Meaning & Usage:**  **～かいもなく** is used to express that **an action
+
+[PHRASE] 架空（の）　(2nd meaning)
+  Reading: かくうの
+  Meaning: Imaginary / Fictitious / Romantic / Make believe
+
+[PHRASE] 今は心を改めてまともな生活をしている
+  Reading: いまは こころを あらためてまともな せいかつをしている
+  Meaning: He's returned to the straight and narrow and is making an honest living
+
+[PHRASE] 締切の明くる日はいつも疲れている
+  Reading: しめきりの くるあくるひはいつも つかれている
+  Meaning: I always feel tired on the day following a deadline
+
+[PHRASE] 赤十字は災害の被害者を直ちに救援する
+  Reading: せきじゅうじは さいがいの ひがいしゃを ただちに きゅうえんする
+  Meaning: The Red Cross gets help to disaster victims without delay
+
+[VOCAB] あまつさえ彼は我等を侮辱したり
+  Reading: あまつさえ かれは われらを ぶじょくしたり
+  Meaning: And, what is more, he has insulted us
+
+[PHRASE] 彼は調査の名目でイギリスに行っている
+  Reading: かれは ちょうさの めいもくでに いっている
+  Meaning: He is going to Britain under the pretext of the research
+
+[VOCAB] 安静する
+  Reading: あんせいする
+  Meaning: To rest / quiet / take it easy? (結婚できない男ー病院で)
+
+[VOCAB] はたから (みると)
+  Reading: はたからみると
+  Meaning: (exp) from outside; from the side;
+
+[PHRASE] 食品会社による擬装が問題になっている
+  Reading: しょくひんがいしゃによる ぎそうが もんだいになっている
+  Meaning: deception by food companies is becoming a problem
+
+[VOCAB] 容貌がのっぺりと間延びする
+  Reading: ようぼうがのっぺりと まのびする
+  Meaning: of one's facial expression, to become lax
+
+[VOCAB] 框
+  Reading: かまち
+  Meaning: door frame, window frame, frame sections of the door or window that provide most of its structural integrity
+
+[VOCAB] 山頂に霞がかかっている
+  Reading: さんちょうに かすみがかかっている
+  Meaning: There is mist on top of the mountain
+
+[VOCAB] 珍妙な模様
+  Reading: ちんみょうな もよう
+  Meaning: grotesque design
+
+[VOCAB] 婚姻を届け出る書類
+  Reading: こんいんを けとどけでる しょるい
+  Meaning: a form for registering one's marriage
+
+[VOCAB] 抜粋する
+  Reading: ばっすいする
+  Meaning: Another word for &quot;extract&quot;
+
+[VOCAB] ないし　（Grammar)
+  Reading: ないし
+  Meaning: From ..... To &nbsp; &nbsp; &nbsp; &nbsp;・ Between ............... and
+
+[VOCAB] ~ではすまない grammar
+  Reading: ではすまない
+  Meaning: it doesn’t end with just…
+
+[CLEANABLE] 打ち明ける
+  Reading: ちうちあける  (was: 打ち明ける　again)
+  Meaning: To open ones heart / to speak ones mind
+
+[PHRASE] そういうことではやがて行き詰まるにきまっている
+  Reading: そういうことではやがて きいきづまるにきまっている
+  Meaning: &nbsp;If things [you] go on like this, you're bound to reach a dead end [you're on a hiding to nothing]
+
+[PHRASE] 自分では若いつもりだが、年には勝てません
+  Reading: じぶんでは わかいつもりだが としには かてません
+  Meaning: I think I'm young at heart but I really can't fight my age (若いという気持ちで)
+
+[VOCAB] 冬はまめに嗽をする
+  Reading: ふゆはまめに うがいをする
+  Meaning: I often gargle in winter
+
+[VOCAB] 二人の話は辻褄があわない
+  Reading: にんの はなしは つじつまがあわない
+  Meaning: The two peoples stories don't add up
+
+[VOCAB] とはいうものの
+  Reading: とはいうものの
+  Meaning: That being said, however, having said that, even soNuanceとはいうものの  is a conjunctive phrase used to concede a preceding po
+
+[VOCAB] と思しい
+  Reading: と おぼしい
+  Meaning: thought to be, seen as
+
+[VOCAB] 嗚呼
+  Reading: ああ
+  Meaning: Ah!, Oh!, Alas!
+
+[VOCAB] 説得に骨が折れそうね
+  Reading: せっとくに ほねが おれそうね
+  Meaning: To be hard to persuade / To require a lot of effort to persuade
+
+[VOCAB] ドッキリ 2
+  Reading: 
+  Meaning: also means "prank, practical joke"
+
+[VOCAB] 彼は世界の名著を読み続けている
+  Reading: かれは せかいの めいちょを よみ つづけている
+  Meaning: He always reads the classic books from around the world
+
+[VOCAB] 遺失品は三日以内に届け出るべし
+  Reading: いしつひんは にち いないに けとどけでるべし
+  Meaning: Lost property must be claimed within three days
+
+[VOCAB] それは収束する
+  Reading: それは しゅうそくする
+  Meaning: That ties up
+
+[VOCAB] さじを投げる
+  Reading: さじを なげる
+  Meaning: To give up on, to throw in the towelNuanceさじを投げる  is an idiomatic expression that literally means "to throw the spoon." 
+
+[VOCAB] 仰る
+  Reading: おっしゃる
+  Meaning: Kanji learning!
+
+[VOCAB] 何を隠そう
+  Reading: なにを かくそう
+  Meaning: Translation:何を隠そう（なにをかくそう）means  "to tell the truth" or "frankly speaking," often used to introduce a  confession or sur
+
+[VOCAB] およす
+  Reading: およす
+  Meaning: Just about (..5km)
+
+[VOCAB] 鮭には回帰本能がある
+  Reading: さけには かいき ほんのうがある
+  Meaning: Salmon instinctively return to their breeding ground
+
+[VOCAB] 卑下してはいけない
+  Reading: ひげしてはいけない
+  Meaning: Don't belittle yourself
+
+[PHRASE] たりとも　～　ない　Grammar
+  Reading: たりともない
+  Meaning: Not even 1
+
+[VOCAB] 彼は悠々と人生を楽しんでいる
+  Reading: かれは ゆうゆうと じんせいを たのしんでいる
+  Meaning: Hes enjoying an easy life
+
+[VOCAB] この製品は付加価値が高い
+  Reading: この せいひんは ふかかちが たかい
+  Meaning: This is a high value-added product
+
+[PHRASE] テレビの役割は端的に言うと娯楽だと思う
+  Reading: の やくわりは たんてきに いうと ごらくだと おもう
+  Meaning: To be frank, I think that the role of TV is for entertainment
+
+[VOCAB] お寝小
+  Reading: お ねしょ
+  Meaning: bed-wetting
+
+[CLEANABLE] 要件
+  Reading: ようけん  (was: 要件　again)
+  Meaning: Requirement - as in business requirement, user requirement
+
+[VOCAB] この問題は軽視できない
+  Reading: この もんだいは けいしできない
+  Meaning: This problem cannot be disregarded
+
+[VOCAB] 明かりがちらちらする
+  Reading: あかりがちらちらする
+  Meaning: The light flickers
+
+[VOCAB] 鯔背だね
+  Reading: いなせだね
+  Meaning: He's looking good
+
+[VOCAB] 風が吹けば桶屋が儲かる
+  Reading: かぜが ふけば おけ やが もうかる
+  Meaning: any event can bring about an effect in an unexpected way, if the wind blows the bucket makers prosper
+
+[PHRASE] 彼はいつもサンダルを突っ掛けている
+  Reading: かれはいつもを つっ かけている
+  Meaning: He always slips on sandals
+
+[VOCAB] 自問　２
+  Reading: じもん
+  Meaning: Self doubt
+
+[PHRASE] 机に貼ってあるツールを剥がしてください
+  Reading: つくえに はってあるを はがしてください
+  Meaning: Please remove the stickers that are stuck to the desk
+
+[VOCAB] もっと範囲を狭めて探しましょう
+  Reading: もっと はんいを せばめて さがしましょう
+  Meaning: Let's narrow the range and search.
+
+[CLEANABLE] 打ち上げる
+  Reading: ちうちあげる  (was: 打ち上げる again)
+  Meaning: Can also mean "to wash up ashore" (Cloud!)
+
+[PHRASE] 張子 / 張り抜き / 張りぼて
+  Reading: はりこ  はり ぬき  はりぼて
+  Meaning: papier mâché
+
+[PHRASE] あの選手はばねのある体をしている
+  Reading: あの せんしゅはばねのある からだをしている
+  Meaning: That player has a physique like a power spring
+
+[VOCAB] 彼女は昔からそそっかしい
+  Reading: かのじょは むかしからそそっかしい
+  Meaning: She has always been careless
+
+[VOCAB] 首を横に降る
+  Reading: くびを よこに ふる
+  Meaning: To shake ones head
+
+[PHRASE] 友達は服飾関係の仕事を希望している
+  Reading: ともだちは ふくしょく かんけいの しごとを きぼうしている
+  Meaning: My friend would like a job related to accessories
+
+[PHRASE] その計画は数々の危険を孕んでいる
+  Reading: その けいかくは かずかずの きけんを はらんでいる
+  Meaning: The plan is full of pitfalls
+
+[VOCAB] 彼女の体は癌に蝕まれている
+  Reading: かのじょの からだは がんに むしばまれている
+  Meaning: Her body is being eaten away by cancer
+
+[VOCAB] 焦げ臭いにおいがする
+  Reading: げこげくさいにおいがする
+  Meaning: I smell something burning
+
+[VOCAB] 要綱を定めて行政指導をすること
+  Reading: ようこうを さだめて ぎょうせいしどうをすること
+  Meaning: the act of giving administrative guidance after providing a general plan
+
+[VOCAB] 嘘をつくことを不本意とすること
+  Reading: うそをつくことを ふほんいとすること
+  Meaning: unwillingness to tell lies
+
+[VOCAB] 耳偏
+  Reading: みみへん
+  Meaning: Kanji "ear" radical at left
+
+[PHRASE] その川にはいつもメダカが群れている
+  Reading: その かわにはいつもが むれている
+  Meaning: There are always hundreds of killifish in the river
+
+[VOCAB] 彼女は美しい高音で歌う
+  Reading: かのじょは うつくしい たかねで うたう
+  Meaning: She is a beautiful soprano singer
+
+[VOCAB] 偏った考え
+  Reading: ったかたよったかんがえ
+  Meaning: A biased idea
+
+[VOCAB] 坊主憎けりゃ袈裟まで憎い
+  Reading: ぼうず にくけりゃ けさまで にくい
+  Meaning: if you dislike someone, you will end up hating everything he stands for, hate a priest, and you will hate his very vestm
+
+[VOCAB] その言葉は中国の故事に由来する
+  Reading: その ことばは ちゅうごくの こじに ゆらいする
+  Meaning: The word is of Chinese origin
+
+[VOCAB] 卑下も自慢の中
+  Reading: ものひげもじまんのうち
+  Meaning: Too much humility is a sort of pride
+
+[PHRASE] 父は歌謡曲のレコードをたくさん持っている
+  Reading: ちちは かようきょくのをたくさん もっている
+  Meaning: My father has a lot of pop records
+
+[VOCAB] 蛙の面にしょんべんで
+  Reading: かえるの めんにしょんべんで
+  Meaning: Like water off a ducks back
+
+[VOCAB] 蝶著
+  Reading: ちょう ちょ
+  Meaning: Butterfly
+
+[VOCAB] 郷に入っては郷に従え
+  Reading: さとに はいっては さとに したがえ
+  Meaning: When in Rome, do as the Romans do
+
+[PHRASE] 彼は将来のためにお金を蓄えている
+  Reading: かれは しょうらいのためにお かねを たくわえている
+  Meaning: He has saved money for the future
+
+[PHRASE] あの男、ポーカーにかけては紳士にあるまじき凄腕だぞ
+  Reading: あの おとこにかけては しんしにあるまじき すごうでだぞ
+  Meaning: The man is too clever with cards to be a gentleman
+
+[PHRASE] ダイエット中脱力感がでます、どうすればよい？
+  Reading: ちゅう だつりょくかんがでますどうすればよい
+  Meaning: I feel lethargic when I diet, what should I do?
+
+[VOCAB] お負けに
+  Reading: お まけに
+  Meaning: To make matters worse (it has sephiroth!) / besides / whats more / in addition / on top of that
+
+[VOCAB] 負け組み
+  Reading: けまけぐみ
+  Meaning: Losers (those who have 'failed' socially, economically etc)
+
+[PHRASE] 彼は繊細さと図太い神経を兼ね備えている
+  Reading: かれは せんさいさと ずぶとい しんけいを ねかねそなえている
+  Meaning: He combines sensitivity and a daring spirit
+
+[PHRASE] 私は販売促進の予算を組まなければなりません
+  Reading: わたしは はんばいそくしんの よさんを くまなければなりません
+  Meaning: I have to set up a budget for sales promotion
+
+[PHRASE] あなたには感謝こそすれ、恨んでなどいません
+  Reading: あなたには かんしゃこそすれ うらんでなどいません
+  Meaning: Despite what happened, I appreciate your kindness and I have no ill feeling (感謝はしているけれど、絶対に)
+
+[VOCAB] 需要 2
+  Reading: じゅよう
+  Meaning: Supply
+
+[VOCAB] 原因をとことん追究しましょう
+  Reading: げんいんをとことん ついきゅうしましょう
+  Meaning: I will thoroughly inquire into the cause
+
+[VOCAB] 腹の虫が鳴く
+  Reading: のはらのむしが なく
+  Meaning: for one's stomach to rumble
+
+[VOCAB] 彼は避暑に出かけている
+  Reading: かれは ひしょに でかけている
+  Meaning: He has gone away for the summer
+
+[VOCAB] 夏至は１年で最も昼が長い
+  Reading: げしは ねんで もっとも ひるが ながい
+  Meaning: The summer solstice is the longest day of the year
+
+[VOCAB] この襟巻きはとても暖かい
+  Reading: この えりまきはとても あたたかい
+  Meaning: This scarf is very warm
+
+[PHRASE] このゲームは人気のため売り切れが続出している
+  Reading: このは にんきのため りうりきれが ぞくしゅつしている
+  Meaning: The game keeps selling out because it is popular
+
+[VOCAB] 宅配便の荷札を書いてください
+  Reading: たくはいびんの にふだを かいてください
+  Meaning: Please fill in the label for the courier service
+
+[VOCAB] 彼の手相を見る
+  Reading: かれの てそうを みる
+  Meaning: Read hand / palm
+
+[VOCAB] べくして　Grammar
+  Reading: べくして
+  Meaning: As it is bound to happen / Following the natural course
+
+[PHRASE] 人を愚弄するのもいい加減にしろ.
+  Reading: ひとを ぐろうするのもいい かげんにしろ
+  Meaning: No more of your ridicule
+
+[VOCAB] しんどいこととか全然ない？
+  Reading: しんどいこととか ぜんぜんない
+  Meaning: Isn’t it tough at all?
+
+[PHRASE] をものともせずに　（Grammar)
+  Reading: をものともせずに
+  Meaning: In the face of, in defiance of, in spite of にもかかわらず
+
+[VOCAB] 卍 / 万字
+  Reading: まんじ   まん じ
+  Meaning: Swastika
+
+[VOCAB] どういう風の吹き回しか
+  Reading: どういう のきかぜのふきまわしか
+  Meaning: For some reason (or other)
+
+[PHRASE] この会社は独自の方法で商売をしている
+  Reading: この かいしゃは どくじの ほうほうで しょうばいをしている
+  Meaning: This company does business by a unique method
+
+[PHRASE] 物事を説明するには総論から入ると分かりやすい
+  Reading: ものごとを せつめいするには そうろんから はいると わかりやすい
+  Meaning: When explaining things, it is easy to understand if you start from the basics
+
+[PHRASE] 彼の実力をもってすれば、成功するだろう
+  Reading: かれの じつりょくをもってすれば せいこうするだろう
+  Meaning: He is sure to succeed because he is very capable (彼の実力でやってみれば)
+
+[VOCAB] なんてざまだ！
+  Reading: なんてざまだ
+  Meaning: What a sight you are!
+
+[PHRASE] その農家ではトマトの促成栽培をしている
+  Reading: その のうかではの そくせいさいばいをしている
+  Meaning: Tomatoes are grown intensively on that farm
+
+[VOCAB] かち割る
+  Reading: かち わる
+  Meaning: to hit and break open, to crush, to smash
+
+[VOCAB] 責任を転嫁するのはやめましょう
+  Reading: せきにんを てんかするのはやめましょう
+  Meaning: Lets stop passing the buck
+
+[VOCAB] 成敗 2
+  Reading: せいばい
+  Meaning: punishment; judgement; judgment for "seibai not seihai"
+
+[VOCAB] ともなると　Grammar
+  Reading: ともなると
+  Meaning: When it comes to (special situation) ・　Naturally
+
+[VOCAB] 彼は大学を一年留年したらしい
+  Reading: かれは だいがくを ねん りゅうねんしたらしい
+  Meaning: He has repeated a year at university apparently
+
+[PHRASE] 日本語は他の言語と比べると抑揚がない
+  Reading: にほんごは たの げんごと くらべると よくようがない
+  Meaning: In contrast to other languages, Japanese doesnt have intonation
+
+[VOCAB] 願わくは来週中には帰りたい
+  Reading: ねがわくは らいしゅう なかには かえりたい
+  Meaning: Hopefully, I shall be able to return next week
+
+[VOCAB] この辺りは夜になるとおっかない
+  Reading: この あたりは よるになるとおっかない
+  Meaning: It gets dangerous around here at night
+
+[VOCAB] この矛盾を打破するために～
+  Reading: この むじゅんを だはするために
+  Meaning: In order to breakdown / abolish this contradiction ~
+
+[VOCAB] 損得抜きで一緒に仕事しよう
+  Reading: そんとく ぬきで いっしょに しごとしよう
+  Meaning: Lets work together without thinking about profits or losses
+
+[VOCAB] 二人は師弟関係にある
+  Reading: にんは してい かんけいにある
+  Meaning: They have a good teacher/student relationship
+
+[VOCAB] 研究班が川の地質を調査している
+  Reading: けんきゅう はんが かわの ちしつを ちょうさしている
+  Meaning: The research group is investigating geological features of the river
+
+[VOCAB] その家族は公的扶助を受けている
+  Reading: その かぞくは こうてきふじょを うけている
+  Meaning: That family receives public assistance
+
+[VOCAB] 所謂 ～
+  Reading: ところ いい
+  Meaning: a so-called ～ / what is called X ～
+
+[VOCAB] 彼の成功は難色あり
+  Reading: かれの せいこうは なんしょくあり
+  Meaning: His success looks doubtful
+
+[VOCAB] 有意義に過ごしてください
+  Reading: ゆういぎに すごしてください
+  Meaning: have a good time!
+
+[VOCAB] に至って　Grammar
+  Reading: に いたって
+  Meaning: Shows an extreme example X
+
+[PHRASE] 天ぷらを作るにも作り方がわからない
+  Reading: てんぷらを つくるにも りつくりかたがわからない
+  Meaning: I want to make tempura but have no clue how to make it (作りたいが)
+
+[VOCAB] どちらが眉唾ものですか
+  Reading: どちらが まゆつばものですか
+  Meaning: Which is not too good to be true?
+
+[VOCAB] masu stem ～やしない
+  Reading: やしない
+  Meaning: Emphatic negative (verb)
+
+[VOCAB] 甘酸っぱい初恋の思い出
+  Reading: あまずっぱい はつこいの いおもいで
+  Meaning: Bittersweet memories of ones first love
+
+[VOCAB] がちゃがちゃ
+  Reading: がちゃがちゃ
+  Meaning: capsule toy vending machine
+
+[PHRASE] 口先だけの約束で人をうまくはぐらかす
+  Reading: くちさきだけの やくそくで ひとをうまくはぐらかす
+  Meaning: fob a person off with empty promises
+
+[PHRASE] 水分子は、２個の水素原子と１個の酸素原子からなる
+  Reading: すいぶん こは この すいそ げんしと この さんそ げんしからなる
+  Meaning: A water molecule has two hydrogen atoms and one oxygen atom
+
+[PHRASE] 彼は猫背なので実際より小さく見える
+  Reading: かれは ねこぜなので じっさいより ちいさく みえる
+  Meaning: Because he stoops, he looks smaller than he actually is
+
+[VOCAB] 彼はいつも尤もらしい話をする
+  Reading: かれはいつも もっともらしい はなしをする
+  Meaning: He always tells convincing stories
+
+[VOCAB] 追試を受ける
+  Reading: ついしを うける
+  Meaning: to Resit an exam
+
+[PHRASE] 長引く不況は国民を苦しめずにおかない
+  Reading: ながびく ふきょうは こくみんを くるしめずにおかない
+  Meaning: A long lasting economic slump is definitely causing difficulties for the entire population.
+
+[VOCAB] 彼女の家は海辺にある
+  Reading: かのじょの いえは うみべにある
+  Meaning: Her house is on the beach
+
+[VOCAB] までもない　Grammar
+  Reading: までもない
+  Meaning: Its not necessary for X (to be done)
+
+[VOCAB] 彼は貸間を探している
+  Reading: かれは かしまを さがしている
+  Meaning: He is looking for a room to rent
+
+[PHRASE] あの国はいまだに外国語を排斥しようとしている
+  Reading: あの くにはいまだに がいこくごを はいせきしようとしている
+  Meaning: That country tries to exclude foreign languages even now
+
+[VOCAB] まごまごするな
+  Reading: まごまごするな
+  Meaning: Look alive!
+
+[VOCAB] 彼は酔って舌が縺れている
+  Reading: かれは よって したが もつれている
+  Meaning: He is drunk and slurring his words
+
+[VOCAB] 標準偏差と平均値との比
+  Reading: ひょうじゅんへんさと へいきんちとの ひ
+  Meaning: the ratio between the standard deviation and the mean value
+
+[VOCAB] 石橋を叩いて渡る
+  Reading: いしばしを たたいて わたる
+  Meaning: Being excessively cautious (lit knocking on a strong stone bridge before crossing it)
+
+[VOCAB] 泣き寝入り 2
+  Reading: きなきねいり
+  Meaning: giving up in frustration; accepting meekly; being compelled to accept a situation
+
+[VOCAB] 今日の世相を反映した事件だね
+  Reading: きょうの せそうを はんえいした じけんだね
+  Meaning: This event reflects the current social conditions
+
+[VOCAB] 籍をおく
+  Reading: せきをおく
+  Meaning: To become a member (of the guild)
+
+[VOCAB] 猫は縁側で寝ていますよ
+  Reading: ねこは えんがわで ねていますよ
+  Meaning: The cat is sleeping on the veranda
+
+[VOCAB] 無垢である程度
+  Reading: むくである ていど
+  Meaning: the degree of spotlessness
+
+[VOCAB] 雨降って地固まる
+  Reading: あめ くだって ち かたまる
+  Meaning: What doesn’t kill you makes you stronger /&nbsp;Adversity&nbsp;strengthens&nbsp;the foundations
+
+[VOCAB] 人生一度切り
+  Reading: じんせい ど ぎり
+  Meaning: (exp) you only live once; you only have one life
+
+[VOCAB] 二兎を追う者は一兎をも得ず
+  Reading: にとを おう ものは いっとをも えず
+  Meaning: if you run after two hares you will catch neither
+
+[PHRASE] 全員に行きわたるだけのビールはあるかい
+  Reading: ぜんいんに いきわたるだけのはあるかい
+  Meaning: Is there enough beer to go around?
+
+[VOCAB] より好みをしてはいけません
+  Reading: より このみをしてはいけません
+  Meaning: Don't be too particular
+
+[PHRASE] その情報は彼らに筒抜けになるでしょう
+  Reading: その じょうほうは かれらに つつぬけになるでしょう
+  Meaning: That information will probably get leaked to them
+
+[VOCAB] 嘘と真実が入り混じる
+  Reading: うそと しんじつが はいり こんじる
+  Meaning: truth mingled with falsehood
+
+[PHRASE] 彼女はわがままなので敬遠されている
+  Reading: かのじょはわがままなので けいえんされている
+  Meaning: She is shunned because she is selfish
+
+[VOCAB] 彼は陳腐な言い訳ばかりしている
+  Reading: かれは ちんぷな いいいわけばかりしている
+  Meaning: He is always giving worn-out excuses
+
+[VOCAB] 彼女はえくぼが可愛い
+  Reading: かのじょはえくぼが かわいい
+  Meaning: Her dimples are cute
+
+[VOCAB] 受け止める　２
+  Reading: けうけとめる
+  Meaning: also "to accept / to come to grips with, to react to, take take (advice)" in addition for "to catch"
+
+[VOCAB] うんと頑張ろう
+  Reading: うんと がんばろう
+  Meaning: Lets give it all we've got
+
+[VOCAB] 履歴書には賞罰記入の欄がある
+  Reading: りれきしょには しょうばつ きにゅうの らんがある
+  Meaning: On the resume form, htere is a column to fill in the rewards and penalties
+
+[VOCAB] 彼は心が歪んでいる
+  Reading: かれは こころが いがんでいる
+  Meaning: His mind is twisted
+
+[VOCAB] 衣食足りて礼節を知る
+  Reading: いしょく たりて れいせつを しる
+  Meaning: (proverb) the poor can't afford manners; only when basic needs for living are met can people spare the effort to be poli
+
+[VOCAB] 最近いじめが社会に蔓延っている
+  Reading: さいきんいじめが しゃかいに はびこっている
+  Meaning: Recently, bullying is rampant in society
+
+[VOCAB] クッションを枕に代用する
+  Reading: を まくらに だいようする
+  Meaning: Substitute a cushion for a pillow
+
+[PHRASE] 彼女は自然と調和した暮らし方をしている
+  Reading: かのじょは しぜんと ちょうわした らしくらしかたをしている
+  Meaning: She lives her life in harmony with nature.
+
+[VOCAB] ~てかなわない
+  Reading: てかなわない
+  Meaning: can’t stand; unable to
+
+[PHRASE] 最近空気が乾燥しているので肌が突っ張っている
+  Reading: さいきん くうきが かんそうしているので はだが っつっぱっている
+  Meaning: Recently, my skin is taut because the air is dry
+
+[VOCAB] いずれにせよ、
+  Reading: いずれにせよ
+  Meaning: In any event / At any rate
+
+[PHRASE] 生活費を自分で稼いでこそ、自立していると言える
+  Reading: せいかつひを じぶんで かせいでこそ じりつしていると いえる
+  Meaning: You can say that you are independent only after you begin to earn a living
+
+[VOCAB] 彼には理屈が通じない
+  Reading: かれには りくつが つうじない
+  Meaning: He doesn't understand logics.
+
+[VOCAB] 協定 NOT 仮定
+  Reading: きょうてい
+  Meaning: 紛争・競争などを避けるため、協議して取り決めをすること国家間の文書による合意。条約の一種であるが、条約ほど厳格な形式をとらないarrangement; pact; agreement
+
+[PHRASE] 白髪は普通増えこそすれ、減ることはない
+  Reading: はくはつは ふつう ふえこそすれ へることはない
+  Meaning: Normally gray hair never decreases, it only increases (増えることはあるが、絶対に)
+
+[PHRASE] タンポポが風にふわりと漂っている
+  Reading: が かぜにふわりと ただよっている
+  Meaning: The dandelion seeds float on the wind
+
+[VOCAB] 締切時間が刻一刻と追ってくる
+  Reading: しめきり じかんが こくいっこくと おってくる
+  Meaning: The deadline time approaches minute by minute
+
+[PHRASE] この家から一ヶ月以内に立ち退いてください
+  Reading: この いえから かげつ いないに ちたちのいてください
+  Meaning: Please clear out of this house within one month
+
+[VOCAB] その問題はうやむやになっている
+  Reading: その もんだいはうやむやになっている
+  Meaning: The issue is still up in the air
+
+[VOCAB] 貿易収支の概括
+  Reading: ぼうえきしゅうしの がいかつ
+  Meaning: Overview of trade balance
+
+[VOCAB] 二つに一つ
+  Reading: ふたつに ひとつ
+  Meaning: One of two (possibilities, alternatives, etc)
+
+[VOCAB] 目覚まし時計は今やわき役?
+  Reading: ましめざましどけいは いまやわき やく
+  Meaning: Are normal alarm clocks now playing second fiddle?
+
+[VOCAB] 意を決する
+  Reading: いを けっする
+  Meaning: To ready oneself / to resolve
+
+[VOCAB] 雪がちらちら降っている
+  Reading: ゆきがちらちら ふっている
+  Meaning: A light snow is falling
+
+[VOCAB] 用を足す
+  Reading: ようを たす
+  Meaning: (1) to take care of some business; to go on an errand; (2) to relieve oneself; to do one's business; to go to the toilet
+
+[VOCAB] 楽天的な人生観
+  Reading: らくてんてきな じんせいかん
+  Meaning: A cheerful outlook on liife
+
+[VOCAB] 存在感を感じる
+  Reading: そんざいかんを かんじる
+  Meaning: To feel ones presence (literally, shes talking aobut not being able to feel him at all during sex)
+
+[VOCAB] さもないと (Grammar)
+  Reading: さもないと
+  Meaning: Or else / Otherwise
+
+[VOCAB] 夜の帳
+  Reading: のよるのとばり
+  Meaning: Veil of darkness
+
+[VOCAB] 彼女の名を騙る
+  Reading: かのじょの なを かたる
+  Meaning: Assume her name / personate
+
+[PHRASE] 彼は均整がとれた顔立ちをしている
+  Reading: かれは きんせいがとれた かおだちをしている
+  Meaning: He has symmetrical facial features
+
+[VOCAB] 万人に受け入れられている考え
+  Reading: まん にんに けうけいれられている かんがえ
+  Meaning: A universally accepted idea
+
+[VOCAB] つじつまが合う
+  Reading: つじつまが あう
+  Meaning: to be consistent; to be coherent
+
+[PHRASE] 彼の容態は日増しに良くなっている
+  Reading: かれの ようだいは ひましに よくなっている
+  Meaning: His condition is improving day by day
+
+[VOCAB] 道程 - 道のり
+  Reading: どうてい   みちのり
+  Meaning: 1. distance, journey, itinerary2. path (e.g. to one's goal), way, process, route, road
+
+[VOCAB] 備考欄もよく読んでください
+  Reading: びこうらんもよく よんでください
+  Meaning: Please read the remarks column carefully
+
+[VOCAB] 大洪水に備えて擁壁を造る
+  Reading: だいこうずいに そなえて ようへきを つくる
+  Meaning: To build a retaining wall to prevent a big flood
+
+[VOCAB] 唇を引き結ぶ
+  Reading: くちびるを ひき むすぶ
+  Meaning: to purse one's lips
+
+[PHRASE] 人を侮蔑する態度はよくありません
+  Reading: ひとを ぶべつする たいどはよくありません
+  Meaning: A scornful attitude to people is not good
+
+[VOCAB] 所得税は収入に応じて課税される
+  Reading: しょとくぜいは しゅうにゅうに おうじて かぜいされる
+  Meaning: The amount of tax we must pay is dependent on our income
+
+[VOCAB] 血の痕跡を残してはならない
+  Reading: ちの こんせきを のこしてはならない
+  Meaning: I must not leave even the slightest trace of blood
+
+[VOCAB] 彼は克明に働く
+  Reading: かれは こくめいに はたらく
+  Meaning: He is faithful to his duties
+
+[VOCAB] 彼の服装は一風変わっている
+  Reading: かれの ふくそうは いっぷう かわっている
+  Meaning: His clothes are eccentric
+
+[CLEANABLE] 対決
+  Reading: たいけつする  (was: 対決（する）)
+  Meaning: Confront
+
+[VOCAB] 彼の人生は波乱に満ちている
+  Reading: のあのひと せいは はらんに みちている
+  Meaning: His life is full of trouble
+
+[VOCAB] 參
+  Reading: 
+  Meaning: Three (legal documents)
+
+[VOCAB] 彼は粋な格好をしてる
+  Reading: かれは いきな かっこうをしてる
+  Meaning: He looks smart
+
+[VOCAB] 社長の話はいつも前置きが長い
+  Reading: しゃちょうの はなしはいつも まえおきが ながい
+  Meaning: The introductory remarks to the presidents speech are always long winded
+
+[VOCAB] はっと
+  Reading: はっと
+  Meaning: taken aback
+
+[VOCAB] どないしたん
+  Reading: どないしたん
+  Meaning: Whats the matter?
+
+[PHRASE] 生物ですのでお早めにお召し上がりください
+  Reading: せいぶつですのでお はやめにお めし あがりください
+  Meaning: This item is perishable so please eat it as soon as possible
+
+[VOCAB] 役員は公明な選挙で決めましょう
+  Reading: やくいんは こうめいな せんきょで きめましょう
+  Meaning: Lets select the committee members by a fair election
+
+[VOCAB] 然るに第一の疵あり
+  Reading: しかるに だいの きずあり
+  Meaning: However, he had one flaw
+
+[VOCAB] 丘の上から草原を見渡したの
+  Reading: おかの うえから そうげんを みわたしたの
+  Meaning: I looked over the meadow from the top of the hill.
+
+[VOCAB] 礼を出しても彼は固辞して取らぬ
+  Reading: れいを だしても かれは こじして とらぬ
+  Meaning: I offered him money, but he positively refused to take it―would not take it
+
+[VOCAB] 親に言い付けたりしないで
+  Reading: おやに いいいつけたりしないで
+  Meaning: Don't give orders to your parents
+
+[VOCAB] 布団をかけないと寝冷えしますよ
+  Reading: ふとんをかけないと ねびえしますよ
+  Meaning: If you sleep without a futon you might catch a cold
+
+[PHRASE] 病気を未然に防ぐのは簡単ではない
+  Reading: びょうきを みぜんに ふせぐのは かんたんではない
+  Meaning: It is not easy to prevent sickness beforehand
+
+[VOCAB] あたかも　Grammar
+  Reading: あたかも
+  Meaning: Same as まるで　。　For the part of "as if"
+
+[PHRASE] 黒のドレスに赤いスカーフが映えますね
+  Reading: くろのに あかいが はえますね
+  Meaning: A red scarf looks especially attractive with a black dress
+
+[VOCAB] 本懐を遂げる、宿志を遂げる
+  Reading: ほんかいを とげる しゅくしを とげる
+  Meaning: to attain one's cherished object
+
+[VOCAB] 道徳的に正当化される
+  Reading: どうとくてきに せいとう かされる
+  Meaning: morally justified
+
+[PHRASE] 暑さでばてないように気をつけてください
+  Reading: あつさでばてないように きをつけてください
+  Meaning: Please be careful of heat exhaustion
+
+[VOCAB] 彼の手口を見抜く
+  Reading: かれの てぐちを みぬく
+  Meaning: See through his game
+
+[VOCAB] 口の中でチーズが蕩ける
+  Reading: くちの なかでが とろける
+  Meaning: Cheese melts in ones mouth
+
+[VOCAB] 彼は社会から疎外されている
+  Reading: かれは しゃかいから そがいされている
+  Meaning: He has been alienated by society
+
+[VOCAB] 牽制運動をする
+  Reading: けんせい うんどうをする
+  Meaning: to make a diversion―make a feint
+
+[PHRASE] この写真はピントがぼけていますね
+  Reading: この しゃしんはがぼけていますね
+  Meaning: The photograph was out of focus
+
+[VOCAB] 言うまでの事だが
+  Reading: いうまでの ことだが
+  Meaning: Needless to say ...
+
+[VOCAB] とのことだ (Grammar)
+  Reading: とのことだ
+  Meaning: It is said that / Apparently
+
+[PHRASE] 数分ならまだしも、30分も待ってません
+  Reading: すう ふんならまだしも  ふんも まってません
+  Meaning: I'm alright waiting a few minutes, but 30 minutes is unacceptable
+
+[VOCAB] 取得物の生成年代は特定不能
+  Reading: しゅとく ぶつの せいせい ねんだいは とくてい ふのう
+  Meaning: Impossible to determine when acquired thing was produced
+
+[PHRASE] 食生活はホルモンの分泌に影響する
+  Reading: しょくせいかつはの ぶんぴつに えいきょうする
+  Meaning: Eating habits influence the secretion of hormones
+
+[VOCAB] この建物は規準に達していない
+  Reading: この たてものは きじゅんに たっしていない
+  Meaning: This building doesnt meet the construction standards
+
+[VOCAB] 労働の搾取を許すべきではない
+  Reading: ろうどうの さくしゅを ゆるすべきではない
+  Meaning: The exploitation of labour should not be permitted
+
+[VOCAB] (群衆を)ざわざわ騒がす
+  Reading: ぐんしゅうをざわざわ さわがす
+  Meaning: to cause a crowd to make a lot of noise
+
+[VOCAB] グレッグはつかさによく笑われる
+  Reading: はつかさによく わらわれる
+  Meaning: Greg is often laughed at by Tsukasa
+
+[VOCAB] 彼らに血縁関係はない
+  Reading: かれらに けつえんかんけいはない
+  Meaning: They are not related by blood
+
+[PHRASE] 研究者は頭脳の新しい受容器の複合体を識別する
+  Reading: けんきゅうしゃは ずのうの あたらしい じゅようきの ふくごうたいを しきべつする
+  Meaning: Researchers Identify New Receptor Complex in Brain
+
+[VOCAB] 沈没する
+  Reading: ちんぼつする
+  Meaning: Sinking / Going down / Submersion
+
+[PHRASE] 雨が降ろうと降るまいと試合は行われる
+  Reading: あめが くだろうと ふるまいと しあいは おこなわれる
+  Meaning: There will be a game regardless of the weather (雨が降っても降らなくても)
+
+[VOCAB] 商品の仕入れが遅れている
+  Reading: しょうひんの しいれが おくれている
+  Meaning: The stocking up of products is behind schedule
+
+[VOCAB] 腹を割りって話をする
+  Reading: はらを わりって はなしをする
+  Meaning: To have a heart to heart talk
+
+[PHRASE] をおいてほかにない　Grammar
+  Reading: をおいてほかにない
+  Meaning: 以外には, other than X
+
+[VOCAB] この字の字画は何画ですか？
+  Reading: この じの じかくは なん かくですか
+  Meaning: How many strokes are there in this chinese character?
+
+[PHRASE] 東京都内及びその周辺の桜の名所はだんだん寂れてゆく
+  Reading: とうきょう とない およびその しゅうへんの さくらの めいしょはだんだん さびれてゆく
+  Meaning: Many of the famous cherry‐blossom resorts in and around Tokyo are losing popularity
+
+[VOCAB] みなさんどしどしご応募ください
+  Reading: みなさんどしどしご おうぼください
+  Meaning: Everybody hurry up and apply
+
+[VOCAB] 道に人だかりができている
+  Reading: みちに ひとだかりができている
+  Meaning: There is a crowd gathering on the street
+
+[VOCAB] 私の考えはころころ変わる
+  Reading: わたしの かんがえはころころ かわる
+  Meaning: My ideas change with the wind
+
+[PHRASE] 師匠のやり方をただ踏襲しているだけでいいのだろうか
+  Reading: ししょうのやり かたをただ とうしゅうしているだけでいいのだろうか
+  Meaning: I wonder if it is really satisfactory simply to follow [stick to] the way one's teacher did things
+
+[PHRASE] 家の中をどたどた走り回ってはいけません
+  Reading: いえの なかをどたどた りはしりまわってはいけません
+  Meaning: Dont run noisily inside the house
+
+[PHRASE] 課長にここに認印を押してください
+  Reading: かちょうにここに みとめいんを おしてください
+  Meaning: Section manager, please put your seal here
+
+[VOCAB] あの双子は見分けがつかない
+  Reading: あの ふたごは みわけがつかない
+  Meaning: I cannot tell the difference between the twins
+
+[VOCAB] 彼は気ままな生活を送っている
+  Reading: かれは きままな せいかつを おくっている
+  Meaning: He lives a selfish lifestyle
+
+[VOCAB] 人の大脳は非常に発達している
+  Reading: ひとの だいのうは ひじょうに はったつしている
+  Meaning: The large human brain is highly developed
+
+[VOCAB] 彼はまだ動きがぎこちない
+  Reading: かれはまだ うごきがぎこちない
+  Meaning: His movements are still awkward
+
+[VOCAB] 彼はいつも穏健な意見を述べる
+  Reading: かれはいつも おんけんな いけんを のべる
+  Meaning: He always expresses moderate opinions
+
+[VOCAB] その事実を心の銘記せよ
+  Reading: その じじつを こころの めいきせよ
+  Meaning: Fix the fact in your mind
+
+[VOCAB] 今彼は人生の過渡期にいる
+  Reading: いまかれは じんせいの かときにいる
+  Meaning: Hes undergoing one of lifes transitions now
+
+[VOCAB] 若い娘には慎みが似つかわしい
+  Reading: わかい むすめには つつしみが につかわしい
+  Meaning: Modesty is befitting to a young girl
+
+[VOCAB] 交通費は銘々払ってください
+  Reading: こうつうひは めいめい はらってください
+  Meaning: Please pay the fare individually
+
+[VOCAB] 襖を閉めてください
+  Reading: ふすまを しめてください
+  Meaning: Please close the sliding door
+
+[VOCAB] のなんのって　Grammar
+  Reading: のなんのって
+  Meaning: Very X, Extremely X, It was so X that ...
+
+[VOCAB] 肩で息をする
+  Reading: かたで いきをする
+  Meaning: to breathe heavily (e.g. with much movement of the shoulders)
+
+[VOCAB] 道なき道
+  Reading: みちなき みち
+  Meaning: trackless path
+
+[PHRASE] この法令は高齢者の視点に立脚している
+  Reading: この ほうれいは こうれいしゃの してんに りっきゃくしている
+  Meaning: This law is based on the viewpoint of senior citizens
+
+[VOCAB] 御用だ、神妙にしろ
+  Reading: ごようだ しんみょうにしろ
+  Meaning: You are my prisoner
+
+[PHRASE] 試験に落ちたからといって、嘆くにはあたらない
+  Reading: しけんに おちたからといって なげくにはあたらない
+  Meaning: Its not worth crying over failing the examination
+
+[VOCAB] 大詰を迎える
+  Reading: おおづめを むかえる
+  Meaning: to approach the finale; to come to a close
+
+[VOCAB] 犬が涎をたらしている
+  Reading: いぬが よだれをたらしている
+  Meaning: The dog is drooling
+
+[VOCAB] 節操が無い
+  Reading: せっそうが ない
+  Meaning: He has no principles
+
+[PHRASE] 今彼はちょっぴり不安になっている
+  Reading: いまかれはちょっぴり ふあんになっている
+  Meaning: At the moment hes a bit uptight
+
+[VOCAB] 顔が火照る
+  Reading: かおが ほてる
+  Meaning: Face feels hot / burns
+
+[PHRASE] 比喩的な感覚においても、いっぱいにする
+  Reading: ひゆてきな かんかくにおいてもいっぱいにする
+  Meaning: For&nbsp;湛える, "make full, also in a metaphorical sense"
+
+[VOCAB] 長蛇の列
+  Reading: のちょうだのれつ
+  Meaning: Long line / Long queue
+
+[VOCAB] 旗が風に靡いている
+  Reading: はたが かぜに なびいている
+  Meaning: The flag is fluttering in the breeze
+
+[VOCAB] 私はちょっぴり悲しい
+  Reading: わたしはちょっぴり かなしい
+  Meaning: I am a trifle sad
+
+[PHRASE] 日本においても、青少年の犯罪が増えている
+  Reading: にっぽんにおいても せいしょうねんの はんざいが ふえている
+  Meaning: Even in Japan youth crime is rising ( において )
+
+[PHRASE] 会社に従属するのがいいとは限らない
+  Reading: かいしゃに じゅうぞくするのがいいとは かぎらない
+  Meaning: It is not necessarily a good thing to depend on the company
+
+[VOCAB] いいようにする
+  Reading: いいようにする
+  Meaning: to do as one wishes, to act as one wills
+
+[VOCAB] 彼女はとても伸びやかに歌う
+  Reading: かのじょはとても のびやかに うたう
+  Meaning: She sings in a relaxed manner
+
+[VOCAB] 良薬は口に苦し
+  Reading: りょうやくは くちに にがし
+  Meaning: the most helpful advice may be difficult to listen to, good medicine tastes bitter
+
+[PHRASE] いっそ何もかも話してみたらどうですか？
+  Reading: いっそ なにもかも はなしてみたらどうですか
+  Meaning: Wouldn't it be better to talk about everything?
+
+[VOCAB] 彼の作品は悉くヒットする
+  Reading: かれの さくひんは ことごとくする
+  Meaning: All his works have been popular
+
+[VOCAB] 満は損を招く
+  Reading: まんは そんを まねく
+  Meaning: 1. every flow has its ebb2. arrogance leads to downfall
+
+[VOCAB] 残りいくばく
+  Reading: のこりいくばく
+  Meaning: How much is left?
+
+[VOCAB] 帰路 (に つく)
+  Reading: きろにつく
+  Meaning: Ones way back
+
+[PHRASE] 彼女はソファーでうとうとしている
+  Reading: かのじょはでうとうとしている
+  Meaning: She is dozing on the sofa
+
+[VOCAB] 手をこまぬく
+  Reading: てをこまぬく
+  Meaning: To stand and watch (without interfering) / to fold ones arms / to look on passively
+
+[VOCAB] 花を摘む
+  Reading: はなを つまむ
+  Meaning: To pick flowers
+
+[VOCAB] 隅に置けない
+  Reading: すみに おけない
+  Meaning: Someone you shouldn't underestimate / A smooth operator (idiom)
+
+[VOCAB] 声はすれども姿は見えず
+  Reading: こえはすれども すがたは みえず
+  Meaning: I hear someone, but don't see him
+
+[VOCAB] 常習しないよう注意してね
+  Reading: じょうしゅうしないよう ちゅういしてね
+  Meaning: Be careful not to let that become common practice/normal/habit
+
+[VOCAB] 餅は餅屋
+  Reading: もちは もちや
+  Meaning: every man knows his own business best, one should go to specialists for the best results, for rice cakes, (go to) the ri
+
+[PHRASE] 石油を２、３リッターばかり融通してもらえますか
+  Reading: せきゆをばかり ゆうずうしてもらえますか
+  Meaning: Can you spare me a few liters of petrol?
+
+[VOCAB] 文法：　あればこそ
+  Reading: ぶんぽうあればこそ
+  Meaning: Particularly thanks to (文法)
+
+[VOCAB] 波長が合う人
+  Reading: はちょうが あう ひと
+  Meaning: Someone on the same wavelength
+
+[PHRASE] こまめに保存することをお忘れなく！
+  Reading: こまめに ほぞんすることをお わすれなく
+  Meaning: （Taking care, working well, frequently) don't forget to save!
+
+[VOCAB] ドキュン　/　DQN
+  Reading: 
+  Meaning: Dumb-ass
+
+[VOCAB] 然るべき時間より遅くなること
+  Reading: しかるべき じかんより おそくなること
+  Meaning: to be late
+
+[VOCAB] 決断を延期してはならない
+  Reading: けつだんを えんきしてはならない
+  Meaning: Don’t keep putting off decisions
+
+[PHRASE] 私は数学ではとても彼にかなわない
+  Reading: わたしは すうがくではとても かれにかなわない
+  Meaning: I cannot possibly beat him in mathematics
+
+[VOCAB] 五ポイント先取で
+  Reading: せんしゅで
+  Meaning: First to five points
+
+[VOCAB] の専属になる
+  Reading: の せんぞくになる
+  Meaning: Belong exclusively to
+
+[PHRASE] 子供達が凧上げしている情景はお正月に似つかわしい.
+  Reading: こどもたちが たこあげしている じょうけいはお しょうがつに につかわしい
+  Meaning: The scene of children flying kites is in keeping [tune] with the New Year festivities
+
+[PHRASE] 秘密保持契約を結んでいるから詳細は書けない
+  Reading: ひみつほじけいやくを むすんでいるから しょうさいは かけない
+  Meaning: because signed NDA cannot write more details
+
+[VOCAB] 彼は子供を脇に抱えている
+  Reading: かれは こどもを わきに かかえている
+  Meaning: He is carrying the child under his arm
+
+[VOCAB] 木の葉がそよ風にゆれている
+  Reading: のこのはがそよ かぜにゆれている
+  Meaning: The leaves flutter in the breeze
+
+[VOCAB] だけあって　Grammar
+  Reading: だけあって
+  Meaning: Because / As expected
+
+[VOCAB] この高校は偏差値がとても高い
+  Reading: この こうこうは へんさちがとても たかい
+  Meaning: The deviation score at this high school is very high
+
+[VOCAB] 気兼ねなく何でも言って下さい
+  Reading: きがねなく なにでも いって ください
+  Meaning: Please talk about anything you want without reservation
+
+[VOCAB] ここに土足で入らないでください
+  Reading: ここに どそくで はいらないでください
+  Meaning: Please do not enter wearing shoes
+
+[VOCAB] グイグイ
+  Reading: 
+  Meaning: Doing something forcefully and continuously (pulling hard etc)
+
+[VOCAB] ここにうつぶせになってください
+  Reading: ここにうつぶせになってください
+  Meaning: Please lie face down here
+
+[PHRASE] 忙しくても寝ないわけにはいきません
+  Reading: いそがしくても ねないわけにはいきません
+  Meaning: Even though I am busy, I dont have any choice but to sleep
+
+[VOCAB] その業者はデパートに卸している
+  Reading: その ぎょうしゃはに おろしている
+  Meaning: The trader sells wholesale to the department store
+
+[VOCAB] 彼の腕は私のとは次元が違う
+  Reading: かれの うでは わたしのとは じげんが ちがう
+  Meaning: His skill is in a different dimension to mine (on a different level to mine)
+
+[VOCAB] 他人を嘲るのはよくない
+  Reading: たにんを あざけるのはよくない
+  Meaning: You should not sneer at others
+
+[VOCAB] あの会社は水増し請求をしている
+  Reading: あの かいしゃは みずまし せいきゅうをしている
+  Meaning: That company is padding their bills
+
+[PHRASE] 彼は穏やかだが他面厳しいところもある
+  Reading: かれは おだやかだが ためん きびしいところもある
+  Meaning: He is easy going but one the other hand he also has a strict side
+
+[VOCAB] あの政治家は堕落している
+  Reading: あの せいじかは だらくしている
+  Meaning: That politician is corrupt
+
+[VOCAB] まだ少しフラフラする
+  Reading: まだ すこしする
+  Meaning: I have a slight dizziness still
+
+[PHRASE] その規模は壮大で、豪華絢爛な催しであったとされる
+  Reading: その きぼは そうだいで ごうかけんらんな もよおしであったとされる
+  Meaning: It is thought that those events were held on a large scale and were very large-scale ceremonies
+
+[VOCAB] 教師に従順にせよ
+  Reading: きょうしに じゅうじゅんにせよ
+  Meaning: Be obedient to your teacher.
+
+[PHRASE] 全額でないまでも、せめて利子ぐらいは払ってくれ
+  Reading: ぜんがくでないまでもせめて りしぐらいは はらってくれ
+  Meaning: Even if you can’t pay the full amount, at least pay the interest
+
+[VOCAB] 犬が縄張り争いをしている
+  Reading: いぬが りなわばりあらそいをしている
+  Meaning: Dogs are fighting over their territory
+
+[PHRASE] 彼は両親から仕送りしてもらっている
+  Reading: かれは りょうしんから しおくりしてもらっている
+  Meaning: He receives a monthly allowance from his parents
+
+[PHRASE] 大豆は日本人の食生活に欠かせません
+  Reading: だいずは にっぽんじんの しょくせいかつに かかせません
+  Meaning: Soybeans are an essential part of the Japanese diet
+
+[VOCAB] よもや本当であるまい
+  Reading: よもや ほんとうであるまい
+  Meaning: Surely it can not be true
+
+[VOCAB] 無数の細胞が人の体を形作る
+  Reading: むすうの さいぼうが ひとの からだを かたちづくる
+  Meaning: Innumerable cells form a persons body
+
+[VOCAB] 子供と大人を同列には扱えない
+  Reading: こどもと おとなを どうれつには あつかえない
+  Meaning: Children and adults cannot be treated the same way
+
+[VOCAB] 一か八かやってみよう
+  Reading: かいちかばちかやってみよう
+  Meaning: I'll give it a try, sink or swim
+
+[VOCAB] 挙げ句の果て
+  Reading: げのあげくのはて
+  Meaning: finally; in the end; on top of all that
+
+[PHRASE] この分では、締切りの期限に間に合いそうもない
+  Reading: この ぶんでは しめきりの きげんに にまにあいそうもない
+  Meaning: At the pace we are going, it doesnt look like we'll make the deadline
+
+[VOCAB] 町はひっそりしている
+  Reading: まちはひっそりしている
+  Meaning: All is still [hushed] in the streets
+
+[PHRASE] ~てはいられない grammar
+  Reading: てはいられない
+  Meaning: can’t afford to; unable to
+
+[VOCAB] この病気は伝染の恐れはない
+  Reading: この びょうきは でんせんの おそれはない
+  Meaning: There is no danger of the illness spreading
+
+[VOCAB] 巻頭 「言」
+  Reading: かんとう げん
+  Meaning: The opening page　「 Word」
+
+[PHRASE] 相対的に見るとこの国の景気は悪くはない
+  Reading: そうたいてきに みるとこの くにの けいきは わるくはない
+  Meaning: The business climate of this country is not bad, relatively speaking
+
+[VOCAB] 彼は専ら読書に日を暮らしている
+  Reading: かれは もっぱら どくしょに ひを くらしている
+  Meaning: Reading is his exclusive occupation
+
+[VOCAB] 塵紙を取ってください
+  Reading: ちりがみを とってください
+  Meaning: Please take the tissue paper
+
+[VOCAB] 給水等
+  Reading: きゅうすい とう
+  Meaning: Water tower
+
+[CLEANABLE] 入門
+  Reading: にゅうもん  (was: 入門　Again)
+  Meaning: Can also mean "Primer, Manual"
+
+[VOCAB] 彼は体格ががっしりしている
+  Reading: かれは たいかくががっしりしている
+  Meaning: He has a stocky physique
+
+[PHRASE] フクロウは縁起がいい鳥と言われている
+  Reading: は えんぎがいい とりと いわれている
+  Meaning: It is said that an owl is a good omen
+
+[VOCAB] 彼は驚いてぽかんとしている
+  Reading: かれは おどろいてぽかんとしている
+  Meaning: He was flabbergasted
+
+[VOCAB] なりとも　Grammar
+  Reading: なりとも
+  Meaning: At least (a little bit) of A (usually a small amount)Implies that more would be preferred/ideal, but hopes for at least 
+
+[VOCAB] に限らず　＝　だけではなく
+  Reading: に かぎらずだけではなく
+  Meaning: に限らず　＝　だけではなく
+
+[VOCAB] この頃から、海外旅行を希求する
+  Reading: この ころから かいがいりょこうを ききゅうする
+  Meaning: Around this time, he started aspiring to travel abroad
+
+[VOCAB] 彼は通俗的な作家と言われている
+  Reading: かれは つうぞくてきな さっかと いわれている
+  Meaning: It is said that he is a popular writer
+
+[VOCAB] ドシドシ読め
+  Reading: よめ
+  Meaning: Read away!
+
+[VOCAB] 縁組は天でなされる
+  Reading: えんぐみは てんでなされる
+  Meaning: Marriage is made in heaven
+
+[PHRASE] その女性は、事故か何かにあったのか？
+  Reading: その じょせいは じこか なにかにあったのか
+  Meaning: Did she have an accident or something?
+
+[VOCAB] よもやうそではあるまい.
+  Reading: よもやうそではあるまい
+  Meaning: Surely it cannot be false
+
+[VOCAB] 彼女は彼のことを思い煩っている
+  Reading: かのじょは かれのことを いおもいわずらっている
+  Meaning: She is worrying about him
+
+[VOCAB] まだ時差ボケが取れません
+  Reading: まだ じさが とれません
+  Meaning: I have no recovered from jet lag
+
+[PHRASE] そんな恥知らずな行いはやめなさい
+  Reading: そんな はじしらずな おこないはやめなさい
+  Meaning: Stop doing such brazen things
+
+[VOCAB] 彼は痛烈な批判を浴びている
+  Reading: かれは つうれつな ひはんを あびている
+  Meaning: He is being battered with scathing criticism
+
+[VOCAB] なかなか良い思い付きですね
+  Reading: なかなか よい いおもいつきですね
+  Meaning: Its quite a good idea don't you think?
+
+[VOCAB] 冷やした果実のゼリーは美味しい
+  Reading: ひやした かじつのは おいしい
+  Meaning: Chilled fruit jelly is delicious
+
+[PHRASE] 会議中につき中に入ってはいけない
+  Reading: かいぎ ちゅうにつき なかに はいってはいけない
+  Meaning: Since they’re having a meeting, you can’t come in
+
+[VOCAB] 全快の見込みが少ない
+  Reading: ぜんかいの みこみが すくない
+  Meaning: Have a poor chance of recovery
+
+[VOCAB] 架空ではなく現実の話をしようよ
+  Reading: かくうではなく げんじつの はなしをしようよ
+  Meaning: Lets talk about reality, not fiction
+
+[PHRASE] 君にそうされりゃ僕は破れかぶれになる
+  Reading: きみにそうされりゃ ぼくは やぶれかぶれになる
+  Meaning: You drive me to desperation
+
+[PHRASE] そんなこと、子供でさえ知っている
+  Reading: そんなこと こどもでさえ しっている
+  Meaning: Even children know that
+
+[PHRASE] ガードレールに車の塗料が付着している
+  Reading: に くるまの とりょうが ふちゃくしている
+  Meaning: There is some paint from a car on the guard rail
+
+[VOCAB] 彼女はよく寝床で本を読む
+  Reading: かのじょはよく ねどこで ほんを よむ
+  Meaning: She often reads books in bed
+
+[VOCAB] 事件の発端は何だったのですか？
+  Reading: じけんの ほったんは なにだったのですか
+  Meaning: What was the origin of the event?
+
+[VOCAB] 近くで小火があったらしい
+  Reading: ちかくで ぼやがあったらしい
+  Meaning: Apparently there was a small fire in the vicinity
+
+[PHRASE] 夜更かしすると明日の仕事に差し支えるよ
+  Reading: よふかしすると あしたの しごとに しさしつかえるよ
+  Meaning: If you burn the midnight oil, it will affect your work tomorrow
+
+[PHRASE] 子供たちが苦しむのを、見てはいられません
+  Reading: こどもたちが くるしむのを みてはいられません
+  Meaning: I couldn’t see the children suffer
+
+[PHRASE] 偽者のブランド品が公然と売られている
+  Reading: にせものの ぶらんどひんが こうぜんと うられている
+  Meaning: Fake brand name goods are sold publicly
+
+[VOCAB] 蛙の子は蛙
+  Reading: かえるの こは かえる
+  Meaning: like father, like son, the apple doesn't fall far from the tree, the child of a frog is a frog
+
+[VOCAB] 祖父は少しだけぼけている
+  Reading: そふは すこしだけぼけている
+  Meaning: My grandfather has become just a little senile
+
+[PHRASE] 電話で済むことだから、わざわざ行くには及ばない
+  Reading: でんわで すむことだからわざわざ いくには およばない
+  Meaning: You wont need to trouble yourself to go since you can do it over the phone
+
+[VOCAB] 赤ちゃんをバスタオルでくるむ
+  Reading: あかちゃんをでくるむ
+  Meaning: Wrap a baby in a bath towel
+
+[VOCAB] 彼は時々不可解な行動をする
+  Reading: かれは ときどき ふかかいな こうどうをする
+  Meaning: He sometimes behaves mysteriously
+
+[PHRASE] 大人になりたくないが、いつまでも子供ではいられない
+  Reading: おとなになりたくないがいつまでも こどもではいられない
+  Meaning: I don’t want to grow up, but I can’t stay a child forever
+
+[PHRASE] その町はすっかり変わり昔の面影はない
+  Reading: その まちはすっかり かわり むかしの おもかげはない
+  Meaning: The town has changed completely and there is nothing left of how it used to look
+
+[PHRASE] おまえもいい加減ウジウジしてないで、決断しなさい！
+  Reading: おまえもいい かげんしてないで けつだんしなさい
+  Meaning: Quit sitting on the fence and make a decision!
+
+[PHRASE] 彼女の生い立ちについては誰も知らない
+  Reading: かのじょの いおいたちについては だれも しらない
+  Meaning: No one knows her personal history
+
+[VOCAB] 私たちを見捨てないでください
+  Reading: わたしたちを みすてないでください
+  Meaning: Please do not desert us
+
+[PHRASE] 彼女はクラスの人気を独り占めしている
+  Reading: かのじょはの にんきを りひとりじめしている
+  Meaning: She is getting all the attention in class
+
+[VOCAB] この素材は持ちがよい
+  Reading: この そざいは もちがよい
+  Meaning: This material is long lasting
+
+[PHRASE] 毎日そんなに遅くまで残業をしていては体を壊しますよ
+  Reading: まいにちそんなに おそくまで ざんぎょうをしていては からだを こわしますよ
+  Meaning: If you keep working overtime every day like that, you’ll collapse
+
+[PHRASE] あなたがどんなに謝ろうとも、今回は許さない
+  Reading: あなたがどんなに あやまろうとも こんかいは ゆるさない
+  Meaning: I wont forgive you this time no matter how much you apologise
+
+[VOCAB] か何か grammar
+  Reading: か なにか
+  Meaning: "or something" - ie "lets eat ice cream or something"
+
+[PHRASE] 切れ味のよい議論はともすると言葉の暴力となる
+  Reading: れきれあじのよい ぎろんはともすると ことばの ぼうりょくとなる
+  Meaning: A sharp debate is apt to lead to a violent argument.
+
+[VOCAB] 量が少ないだの不味いだの
+  Reading: りょうが すくないだの まずいだの
+  Meaning: Portions are small, it tastes bad
+
+[PHRASE] 最近のミシンは自動で刺繍もできる
+  Reading: さいきんのは じどうで ししゅうもできる
+  Meaning: Modern sewing machines can embroider automatically
+
+[VOCAB] 彼の弁明も聞いてみましょう
+  Reading: かれの べんめいも きいてみましょう
+  Meaning: Lets hear his excuse
+
+[PHRASE] 空の青と相まって、紅葉がより美しく見える
+  Reading: そらの あおと あいまって こうようがより うつくしく みえる
+  Meaning: The fall colours look more beautiful with the blue sky
+
+[VOCAB] 落ち着きがなく,そそくさ動く
+  Reading: ちおちつきがなくそそくさ うごく
+  Meaning: to do something hurriedly
+
+[VOCAB] 女心と秋の空
+  Reading: おんなごころと のあきのそら
+  Meaning: (proverb) a woman is as fickle as autumn weather
+
+[VOCAB] ローマは一日にして成らず
+  Reading: は にちにして ならず
+  Meaning: Rome was not built in a day
+
+[VOCAB] 終わりよければ全てよし
+  Reading: わりよければおわりよければすべてよし
+  Meaning: All's well that ends well
+
+[PHRASE] 彼との仕事だけの関係と割り切っている
+  Reading: かれとの しごとだけの かんけいと りわりきっている
+  Meaning: My relationship with him is purely professional
+
+[PHRASE] 彼は百姓仕事をしてみたいと思っている
+  Reading: かれは ひゃくしょう しごとをしてみたいと おもっている
+  Meaning: He thinks hed like to try farm work
+
+[VOCAB] 水割りウイスキー
+  Reading: みずわり
+  Meaning: Whiskey and water
+
+[VOCAB] 水中で　もがく・あがく
+  Reading: すいちゅうでもがくあがく
+  Meaning: Struggle in the water
+
+[VOCAB] お体をいたわってください
+  Reading: お からだをいたわってください
+  Meaning: Please take care of yourself
+
+[VOCAB] それで君も思い知るだろう
+  Reading: それで きみも いおもいしるだろう
+  Meaning: That'll teach you!
+
+[VOCAB] 祭りでお神輿が出ている
+  Reading: まつりでお みこしが でている
+  Meaning: The portable shrine is brought out at the festival
+
+[VOCAB] しめやかに暮らす
+  Reading: しめやかに くらす
+  Meaning: to lead a quiet life―live a lonely life
+
+[PHRASE] 10円貸したくらいで、感謝されるにはあたらない
+  Reading: えん かしたくらいで かんしゃされるにはあたらない
+  Meaning: Its not worth thanking me for lending you 10 yen
+
+[PHRASE] 彼女とうまくいかない（分かれる瀬戸際）時に妊娠発覚
+  Reading: かのじょとうまくいかない わかれる せとぎわ じに にんしん はっかく
+  Meaning: To discover shes pregnant when was on the brink of splitting up!
+
+[VOCAB] 君の思いどおりにはなるまい
+  Reading: きみの おもいどおりにはなるまい
+  Meaning: Things are unlikely to turn out as you wish.
+
+[VOCAB] 彼は英語研究に腐心している
+  Reading: かれは えいご けんきゅうに ふしんしている
+  Meaning: He is bent on mastering English
+
+[PHRASE] この物質は植物の成長を促進するとされる
+  Reading: この ぶっしつは しょくぶつの せいちょうを そくしんするとされる
+  Meaning: This substance is believed to promote plant growth (促進すると言われる)
+
+[VOCAB] 噴火　する
+  Reading: ふんかする
+  Meaning: Eruption, to erupt
+
+[VOCAB] 失明する
+  Reading: しつめいする
+  Meaning: To lose ones sight / go blind
+
+[VOCAB] ~てはならない grammar
+  Reading: てはならない
+  Meaning: must not; cannot; should not
+
+[PHRASE] 父は、いったん寝たら最後、朝まで起きない
+  Reading: ちちはいったん ねたら さいご あさまで おきない
+  Meaning: Once in bed, my father never wakes up until morning (寝たらそのあとずっと)
+
+[VOCAB] そんな箆棒な話があるものか
+  Reading: そんな べらぼうな はなしがあるものか
+  Meaning: That's quite absurd
+
+[VOCAB] 隣の工事がうるさくてかなわない
+  Reading: となりの こうじがうるさくてかなわない
+  Meaning: I can’t stand the noise from the construction going on next door
+
+[VOCAB] 話を振る
+  Reading: はなしを ふる
+  Meaning: To bring up a subject / To touch on a matter
+
+[VOCAB] 遠方ご足労をかけて済みません
+  Reading: えんぽうご そくろうをかけて すみません
+  Meaning: Thank you for coming so far!
+
+[VOCAB] 理に勝って非に落ちる
+  Reading: りに かって ひに おちる
+  Meaning: to lose an argument despite being in the right, to have the right on one's side, yet succumb to another
+
+[PHRASE] 来年こそ、日本へ行きたいと思っている
+  Reading: らいねんこそ にっぽんへ いきたいと おもっている
+  Meaning: I do want to go to Japan next year for sure
+
+[VOCAB] 弟には一人として敵はいません
+  Reading: おとうとには にんとして てきはいません
+  Meaning: My little brother doesn’t have an enemy in the world
+
+[PHRASE] ともすれば + Noun/Adj
+  Reading: ともすれば
+  Meaning: apt to; prone to
+
+[VOCAB] 後学の為に
+  Reading: こうがくの ために
+  Meaning: For future reference
+
+[VOCAB] 会話を教えるのは気骨が折れる
+  Reading: かいわを おしえるのは きこつが おれる
+  Meaning: Teaching conversation is a strain on the nerves
+
+[VOCAB] 今夜は凍えるほど寒い
+  Reading: こんやは こごえるほど さむい
+  Meaning: It is cold enough to freeze tonight
+
+[VOCAB] 偶然符合したに過ぎぬ
+  Reading: ぐうぜん ふごうしたに すぎぬ
+  Meaning: It is a mere coincidence
+
+[PHRASE] そのしわ寄せが、不法就労の外国人労働者に及んでいる
+  Reading: そのしわ よせが ふほうしゅうろうの がいこくじんろうどうしゃに およんでいる
+  Meaning: The serious job shortage is also affecting those illegal foreign workers
+
+[PHRASE] 今年のインフルエンザは高熱が出るうえ、せきもひどい
+  Reading: ことしのは こうねつが でるうえせきもひどい
+  Meaning: This years influenza not only brings out a high temperature, in addition the cough is really bad
+
+[PHRASE] 子供が親におもちゃをねだっている
+  Reading: こどもが おやにおもちゃをねだっている
+  Meaning: The child is pestering the parents for the toy
+
+[PHRASE] そんな軽はずみなことを言ってはいけないよ
+  Reading: そんな かるはずみなことを いってはいけないよ
+  Meaning: You shouldn't say such a thoughtless thing
+
+[VOCAB] 治療 『する』
+  Reading: ちりょうする
+  Meaning: Cure / Remedy / Treatment
+
+[PHRASE] 子供は力加減を知らないことが多い
+  Reading: こどもは ちから かげんを しらないことが おおい
+  Meaning: Children often don't know their own strength
+
+[VOCAB] 彼は芝居もどきのせりふを言う
+  Reading: かれは しばいもどきのせりふを いう
+  Meaning: He speaks as if he were acting on the stage
+
+[PHRASE] 信号が点滅している時は停止してください
+  Reading: しんごうが てんめつしている ときは ていししてください
+  Meaning: Please stop when the signal is flashing
+
+[CLEANABLE] 上申
+  Reading: じょうしんする  (was: 上申（する）)
+  Meaning: Report
+
+[PHRASE] レンタカーの乗り捨て料金はいくらだろう？
+  Reading: の りてのりすてりょうきんはいくらだろう
+  Meaning: How much more does it cost to return the rental car to another location?
+
+[VOCAB] 誰が店番をしているですか？
+  Reading: だれが みせばんをしているですか
+  Meaning: Who's minding the store?
+
+[VOCAB] 重い荷物をずるずる引くずる
+  Reading: おもい にもつをずるずる ひくずる
+  Meaning: To drag heavy luggage
+
+[PHRASE] 総理大臣の適任者は彼をおいては考えられない
+  Reading: そうりだいじんの てきにんしゃは かれをおいては かんがえられない
+  Meaning: I think he is the only person who is qualified to be the president
+
+[PHRASE] 人に会ったら、挨拶ぐらいしてほしい
+  Reading: ひとに あったら あいさつぐらいしてほしい
+  Meaning: If you meet someone, I want you to at least greet them
+
+[PHRASE] 父は農業のかたわら、小さい店を経営している
+  Reading: ちちは のうぎょうのかたわら ちいさい みせを けいえいしている
+  Meaning: My father is a farmer and at the same time runs a small shop (farmer would be main business though) / 農業をしながら
+
+[PHRASE] この匂い、なんとかならないものか！
+  Reading: この においなんとかならないものか
+  Meaning: Cant we do anything about this smell?
+
+[PHRASE] ここに千円の印紙を貼ってください
+  Reading: ここに せん えんの いんしを はってください
+  Meaning: Please stick a thousand yen stamp here
+
+[VOCAB] 彼女の話には脈絡がない
+  Reading: かのじょの はなしには みゃくらくがない
+  Meaning: Her story makes no sense
+
+[VOCAB] それは不正だと見なされている
+  Reading: それは ふせいだと みなされている
+  Meaning: That is considered being dishonest
+
+[VOCAB] その事件の発端は何ですか
+  Reading: その じけんの ほったんは なにですか
+  Meaning: How did the case start?
+
+[PHRASE] 買うチャンスは明日をおいてないかもしれない
+  Reading: かうは あしたをおいてないかもしれない
+  Meaning: Tomorrow may be the last chance to buy their stuff
+
+[VOCAB] かりそめにも偽りを言うな
+  Reading: かりそめにも いつわりを いうな
+  Meaning: Never tell a lie!
+
+[PHRASE] 風邪がひどくて、遊びに行くどころじゃない
+  Reading: かぜがひどくて あそびに いくどころじゃない
+  Meaning: I have a bad cold so I can’t think about going out
+
+[VOCAB] 彼らは密入国してきたらしい
+  Reading: かれらは みつにゅうこくしてきたらしい
+  Meaning: They seem to have entered the country illegally
+
+[PHRASE] そのお祭りには毎年警官が動員される
+  Reading: そのお まつりには まいとし けいかんが どういんされる
+  Meaning: The police are mobilized at the festival every year
+
+[VOCAB] 問うに落ちず語るに落ちる
+  Reading: とうに おちず かたるに おちる
+  Meaning: to keep a secret when asked about it, but let it slip inadvertently when chatting on another occasion
+
+[VOCAB] 今日を限りにタバコをやめるぞ
+  Reading: きょうを かぎりにをやめるぞ
+  Meaning: Starting today, I'm going to stop smoking
+
+[VOCAB] 彼は今日はいやに馴れ馴れしい
+  Reading: かれは きょうはいやに れなれなれしい
+  Meaning: He is uncomfortably over friendly today
+
+[VOCAB] 中央線沿線に住む
+  Reading: ちゅうおうせん えんせんに すむ
+  Meaning: People living along the Chuo line
+
+[VOCAB] 画の間隔が等しくなるように書く
+  Reading: がの かんかくが ひとしくなるように かく
+  Meaning: The beginning of all strokes should be arranged at almost equal intervals
+
+[VOCAB] 赤心をもって国家に尽くす
+  Reading: せきしんをもって こっかに つくす
+  Meaning: to serve one's country with all one's heart
+
+[PHRASE] あの小屋にはトカゲや虫がうようよしている
+  Reading: あの こやにはや むしがうようよしている
+  Meaning: That hut is crawling with lizards and insects
+
+[PHRASE] この報告書は字が汚いばかりか間違いがたくさんある
+  Reading: この ほうこくしょは じが きたないばかりか まちがいがたくさんある
+  Meaning: Not only is the writing terrible in this report, but it contains too many mistakes.
+
+[VOCAB] 朝から悪寒がする
+  Reading: あさから おかんがする
+  Meaning: I have been feeling chilly since this morning
+
+[VOCAB] 行く手を遮る
+  Reading: くゆくてを さえぎる
+  Meaning: to bar one's way―obstruct one's path
+
+[PHRASE] ともすると自分の苦労は誇張したくなる
+  Reading: ともすると じぶんの くろうは こちょうしたくなる
+  Meaning: We are inclined to exaggerate our troubles
+
+[VOCAB] 性交 ／ 性行為
+  Reading: せいこう せいこうい
+  Meaning: Sexual intercourse
+
+[PHRASE] まじめどころではない、堅物です！
+  Reading: まじめどころではない かたぶつです
+  Meaning: serious is not the word, she's totally uptight!
+
+[PHRASE] 喫煙の弊害について考えてみましょう
+  Reading: きつえんの へいがいについて かんがえてみましょう
+  Meaning: Lets consider the evils of smoking
+
+[PHRASE] 彼は事業に失敗してやけになっている
+  Reading: かれは じぎょうに しっぱいしてやけになっている
+  Meaning: He failed in business and is suicidal
+
+[PHRASE] この神社は有名な将軍を祭っている
+  Reading: この じんじゃは ゆうめいな しょうぐんを まつっている
+  Meaning: A famous general is enshrined at this Shinto shrine
+
+[PHRASE] 海外出張中は会社との連絡は主としてEメールを使う
+  Reading: かいがいしゅっちょう ちゅうは かいしゃとの れんらくは しゅとして を つかう
+  Meaning: I usually use email to contact the company when I am on a business trip
+
+[VOCAB] 君は目の付け所がいい.
+  Reading: きみは めの けつけどころがいい
+  Meaning: I admire your taste
+
+[VOCAB] 何世帯？
+  Reading: なに せたい
+  Meaning: How many families? (in the apartment block, say. How many rooms)
+
+[PHRASE] 神が人類を創造したと信じる人もいる
+  Reading: かみが じんるいを そうぞうしたと しんじる ひともいる
+  Meaning: There are some who believe that god created the human race too
+
+[VOCAB] 大なり小なり
+  Reading: だいなり しょうなり
+  Meaning: More or less / To a greater or lesser extent
+
+[PHRASE] 甚だ不本意ながらこの処置を取らざるを得ません.
+  Reading: はなはだ ふほんいながらこの しょちを とらざるを えません
+  Meaning: We have been obliged to take this step (though it is) very much against our will.
+
+[VOCAB] 彼は腕力が強い
+  Reading: かれは わんりょくが つよい
+  Meaning: He has a lot of physical strength
+
+[VOCAB] 合縁奇縁
+  Reading: あいえんきえん
+  Meaning: &nbsp;a couple strangely but happily united; uncanny relationship formed by a quirk of fate
+
+[VOCAB] ピーと鳴いたらご用件をどうぞ
+  Reading: と ないたらご ようけんをどうぞ
+  Meaning: At the tone, please leave your message / business
+
+[VOCAB] 字がぼやけてよく見えない
+  Reading: じがぼやけてよく みえない
+  Meaning: The letters are not clear
+
+[VOCAB] 彼が全快する見込みは十分ある
+  Reading: かれが ぜんかいする みこみは じゅうぶんある
+  Meaning: There is a good prospect of his getting well (from sickness)
+
+[VOCAB] さりとてほかに思案も無い
+  Reading: さりとてほかに しあんも ない
+  Meaning: And yet there is no other way
+
+[PHRASE] 話し合いの時間を割いてくれてありがとう
+  Reading: しはなしあいの じかんを さいてくれてありがとう
+  Meaning: Thank you for taking the time to discuss this with me
+
+[VOCAB] 事実は小説より奇なり
+  Reading: じじつは しょうせつより きなり
+  Meaning: truth is stranger than fiction
+
+[VOCAB] 彼は握力が強い
+  Reading: かれは あくりょくが つよい
+  Meaning: He has a strong grip
+
+[PHRASE] 余りお酒を飲むと身体に障りますよ
+  Reading: あまりお さけを のむと しんたいに さわりますよ
+  Meaning: It is not good for you if you drink too much
+
+[VOCAB] 検察側の証人を呼んでください
+  Reading: けんさつがわの しょうにんを よんでください
+  Meaning: Please call the witness for the prosecution
+
+[VOCAB] 壁にぶち当たる
+  Reading: かべにぶち あたる
+  Meaning: To slam into a wall
+
+[VOCAB] 葛藤が解けたか
+  Reading: かっとうが とけたか
+  Meaning: Is the trouble over?
+
+[PHRASE] その問題に関する君の情報は時代遅れだね
+  Reading: その もんだいに かんする きみの じょうほうは じだいおくれだね
+  Meaning: Your information on that subject is out of date
+
+[VOCAB] 規則を施行する
+  Reading: きそくを しこうする
+  Meaning: To enforce the rules
+
+[VOCAB] 田舎の祖父は鶏の飼育をしている
+  Reading: いなかの そふは にわとりの しいくをしている
+  Meaning: My uncle in the country breeds chickens
+
+[VOCAB] 一般社会の枠外にいる人
+  Reading: いっぱんしゃかいの わくがいにいる ひと
+  Meaning: a person who is rejected by society
+
+[VOCAB] チョコレートを無性に食べたい
+  Reading: を むしょうに たべたい
+  Meaning: I want to eat chocolate very much
+
+[VOCAB] ~めく
+  Reading: めく
+  Meaning: To indicate an atmosphere of a state. Only used with Nouns! がる is for adjectives, ばかりに for verbs
+
+[VOCAB] 今は無造作な髪型が流行っている
+  Reading: いまは むぞうさな かみがたが はやっている
+  Meaning: Casual hairstyles are all the rage now
+
+[VOCAB] 説明は簡単であればあるほどいい
+  Reading: せつめいは かんたんであればあるほどいい
+  Meaning: Simpler explanations are better
+
+[VOCAB] 両手 ／ 諸手
+  Reading: りょうて もろて
+  Meaning: Both hands
+
+[PHRASE] 日本的なおみやげと言うと、着物とか扇子などだろう
+  Reading: にほんてきなおみやげと いうと きものとか せんすなどだろう
+  Meaning: A typical Japanese souvenir might be a kimono or a fan
+
+[VOCAB] 運動さえすれば病気にならない
+  Reading: うんどうさえすれば びょうきにならない
+  Meaning: If you dont want to get sick, all you have to do is exercise
+
+[VOCAB] 専門に汲々としている
+  Reading: せんもんに きゅうきゅうとしている
+  Meaning: He is engrossed in his profession
+
+[PHRASE] 世間体を繕う心配をするより他にやることがある
+  Reading: せけんていを つくろう しんぱいをするより たにやることがある
+  Meaning: We have other things to do than worry about keeping up appearances
+
+[PHRASE] あの店の料理ときたら、高いだけで全然おいしくない
+  Reading: あの みせの りょうりときたら たかいだけで ぜんぜんおいしくない
+  Meaning: The food at that shop is only expensive and doesnt taste good
+
+[PHRASE] あの人はあまりにも内気でどうにも好きになれない
+  Reading: あの ひとはあまりにも うちきでどうにも すきになれない
+  Meaning: He is so introverted, I don't think I'll ever grow to like him
+
+[VOCAB] あの国には徴兵制度がある
+  Reading: あの くにには ちょうへいせいどがある
+  Meaning: That country has conscription
+
+[VOCAB] 西部劇もどきの撃ち合いだ.
+  Reading: せいぶげきもどきの ちうちあいだ
+  Meaning: The shooting is just like what you find in Westerns
+
+[VOCAB] 死んで花実が咲くものか
+  Reading: しんで はなみが さくものか
+  Meaning: once you're dead, that's it
+
+[PHRASE] なんて洒落込んでる場合じゃねえッ
+  Reading: なんて しゃれ こんでる ばあいじゃねえ っ
+  Meaning: This is not the time to be dressing up!
+
+[PHRASE] 男の人がこちらをちらちらと見ている
+  Reading: のおとこのひとがこちらをちらちらと みている
+  Meaning: The man keeps glancing over here
+
+[VOCAB] 本人にじかに聞いてください
+  Reading: ほんにんにじかに きいてください
+  Meaning: Please ask the person concerned directly
+
+[VOCAB] 私の妹は染色を習っている
+  Reading: わたしの いもうとは せんしょくを ならっている
+  Meaning: My younger sister is learning to dye
+
+[PHRASE] 店までの道中も彼女と話したけど…
+  Reading: みせまでの どうちゅうも かのじょと はなしたけど
+  Meaning: although we spoke on the way to the shop
+
+[PHRASE] ニューヨークは、面白い代わりお金がかかる
+  Reading: は おもしろい かわりお かねがかかる
+  Meaning: New York is interesting but expensive
+
+[PHRASE] 外国製を凌駕する品質の日本製品はたくさんある
+  Reading: がいこくせいを りょうがする ひんしつの にっぽん せいひんはたくさんある
+  Meaning: There are plenty of Japanese goods which are better in quality than those made abroad
+
+[VOCAB] 百聞は一見に如かず
+  Reading: ひゃくぶんは いっけんに しかず
+  Meaning: Seeing is believing / One eye-witness is better than many hearsays / A picture is worth a thousand words
+
+[PHRASE] 話は退屈で, あまつさえ少々長過ぎた.
+  Reading: はなしは たいくつであまつさえ しょうしょう ながすぎた
+  Meaning: His speech was boring [dull], besides being a little too long
+
+[VOCAB] 谷間　- again!
+  Reading: たにま
+  Meaning: Apparently this valley also means "cleavage"
+
+[VOCAB] 彼女はそわそわしていた.
+  Reading: かのじょはそわそわしていた
+  Meaning: She was in a fidget
+
+[PHRASE] 彼が誰であれ、特別扱いするのはおかしい
+  Reading: かれが だれであれ とくべつあつかいするのはおかしい
+  Meaning: It is wrong to give him special treatment even if he is someone important
+
+[PHRASE] 貧しいなら貧しいならの生活をしなければならない
+  Reading: まずしいなら まずしいならの せいかつをしなければならない
+  Meaning: If you are poor, you must live within your means
+
+[PHRASE] 部長には年頃のお嬢さんがいるらしい
+  Reading: ぶちょうには としごろのお じょうさんがいるらしい
+  Meaning: Apparently the director has a daughter of marriageable age
+
+[VOCAB] 親の顔が見たい
+  Reading: おやの かおが みたい
+  Meaning: what parents would bring up a kid like this?, I'd like to see his (her) parents' facesExpression, expressing shock at a 
+
+[VOCAB] 今日は中庭で昼食を食べましょう
+  Reading: きょうは なかにわで ちゅうしょくを たべましょう
+  Meaning: Shall we eat lunch in the courtyard today?
+
+[VOCAB] 洞察(力)
+  Reading: どうさつ りょく
+  Meaning: Insight / Perception / Acumen
+
+[VOCAB] 生活になくてはならない
+  Reading: せいかつになくてはならない
+  Meaning: Can't live without it
+
+[VOCAB] 免税店にでも寄りましょう
+  Reading: めんぜいてんにでも よりましょう
+  Meaning: Lets stop by the tax free store
+
+[VOCAB] テーブルを挟んで座る
+  Reading: を はさんで すわる
+  Meaning: Sit across from each other at the table
+
+[PHRASE] 地震のため住民は体育館に退避している
+  Reading: じしんのため じゅうみんは たいいくかんに たいひしている
+  Meaning: The residents took refuge in the gym because of the earthquake
+
+[VOCAB] 然るにこれに反して
+  Reading: しかるにこれに はんして
+  Meaning: However, on the contrary,..
+
+[PHRASE] その子は大粒の涙を浮かべていたの
+  Reading: その こは おおつぶの なみだを うかべていたの
+  Meaning: The child's eyes were brimming with big tears.
+
+[VOCAB] 講〜
+  Reading: こう
+  Meaning: Construction / Structure / Constitution / Build..
+
+[PHRASE] 日本語の授業が難しくても、取ったでしょう
+  Reading: にほんごの じゅぎょうが むずかしくても とったでしょう
+  Meaning: I would have taken the Japanese class, even if it would have been difficult
+
+[VOCAB] この服の在庫ありますか？
+  Reading: この ふくの ざいこありますか
+  Meaning: Do you have this in stock?
+
+[PHRASE] この規則は貴方には当てはめることはできない
+  Reading: この きそくは あなたには あてはめることはできない
+  Meaning: This rule cannot be applied to you
+
+[VOCAB] 第六感にぴんと来る
+  Reading: だいろっかんにぴんと くる
+  Meaning: to know immediately through one's intuition
+
+[VOCAB] 年相応に振舞え
+  Reading: としそうおうに ふるまえ
+  Meaning: Act your age
+
+[VOCAB] 興味をそそる
+  Reading: きょうみをそそる
+  Meaning: to arouse someone's interest; to whet (appetite); to be appealing; to be intriguing; to be fascinating
+
+[VOCAB] 身体のやり場に困っている
+  Reading: しんたいのやり ばに こまっている
+  Meaning: I do not know what to do with myself
+
+[VOCAB] 借金で首が回らない
+  Reading: しゃっきんで くびが まわらない
+  Meaning: To be eaten up with debt
+
+[VOCAB] いろんな問題を抱えてる
+  Reading: いろんな もんだいを かかえてる
+  Meaning: To have various problems
+
+[VOCAB] 彼の態度は失礼極まる
+  Reading: かれの たいどは しつれい きわまる
+  Meaning: His attitude is rude in the extreme (これ以上ないほど失礼だ)
+
+[VOCAB] 戦争ほど悲惨なものはない
+  Reading: せんそうほど ひさんなものはない
+  Meaning: There is nothing more miserable than war
+
+[PHRASE] 手がしなやかでないとこの仕事はできない
+  Reading: てがしなやかでないとこの しごとはできない
+  Meaning: One must have supple hands―flexible hands―to do this work
+
+[PHRASE] できるからといってやるべきだということにはならない
+  Reading: できるからといってやるべきだということにはならない
+  Meaning: Just because you can doesn’t mean you should
+
+[VOCAB] 遅きに失する
+  Reading: おそきに しっする
+  Meaning: To be too late (to be of use)
+
+[PHRASE] やつは時間どおりに来たためしがないんだよ
+  Reading: やつは じかんどおりに きたためしがないんだよ
+  Meaning: He has never been on time
+
+[VOCAB] 丁寧な物腰で
+  Reading: ていねいな ものごしで
+  Meaning: in a polite manner
+
+[VOCAB] 記銘段階での失敗
+  Reading: きめい だんかいでの しっぱい
+  Meaning: Failure at the stage of memorization
+
+[VOCAB] 芸をする犬
+  Reading: げいをする いぬ
+  Meaning: dog that knows (does) tricks
+
+[VOCAB] 彼の病気は末期的症状にある
+  Reading: かれの びょうきは まっきてき しょうじょうにある
+  Meaning: His sickness has terminal symptoms
+
+[PHRASE] 著作権の侵害に決まってるだろーが
+  Reading: ちょさくけんの しんがいに きまってるだろが
+  Meaning: Guess this has gotta be copyright violation but ...
+
+[VOCAB] 大敗北を喫する
+  Reading: だい はいぼくを きっする
+  Meaning: take [get] a terrible beating
+
+[VOCAB] 紆余曲折を経て
+  Reading: うよきょくせつを へて
+  Meaning: After many twists and turns / after much trouble
+
+[PHRASE] 世界中の言語はいくつかの類型に分類される
+  Reading: せかいじゅうの げんごはいくつかの るいけいに ぶんるいされる
+  Meaning: The languages of the world can be classified into a number of groups
+
+[CLEANABLE] 改善
+  Reading: かいぜん  (was: 改善　AGAIN)
+  Meaning: Kaizen is "Japanese business philosophy of continuous improvement"
+
+[PHRASE] こんなに赤字が続くと、この会社は倒産のおそれがある
+  Reading: こんなに あかじが つづくとこの かいしゃは とうさんのおそれがある
+  Meaning: If the deficit continues, there is a fear the company might go bankrupt
+
+[PHRASE] 割に　＝　Concerning that/for
+  Reading: わりに
+  Meaning: 割に　＝　Concerning that/for
+
+[PHRASE] 彼は金輪際君を助けてくれないだろう
+  Reading: かれは こんりんざい きみを たすけてくれないだろう
+  Meaning: You can make book on it that he won't help you
+
+[PHRASE] 輸入品に対しては、関税がかけられている
+  Reading: ゆにゅうひんに たいしては かんぜいがかけられている
+  Meaning: There are taxes placed on imports ( に対して )
+
+[PHRASE] 以上は　ー＞　からには　＝　同じ
+  Reading: いじょうはからには おなじ
+  Meaning: 以上は　ー＞　からには　＝　同じ
+
+[PHRASE] その２色を互い違いに並べてみよう
+  Reading: その しょくを いたがいちがいに ならべてみよう
+  Meaning: Lets arrange the two colors alternately
+
+[VOCAB] 子供でも善悪は区別できる
+  Reading: こどもでも ぜんあくは くべつできる
+  Meaning: Even children can distinguish good from evil
+
+[VOCAB] 彼女は華やかな女性ですね
+  Reading: かのじょは はなやかな じょせいですね
+  Meaning: She's a gorgeous woman.
+
+[VOCAB] みっしり鍛えれたのかな
+  Reading: みっしり きたえれたのかな
+  Meaning: I wonder if he was fully trained?
+
+[VOCAB] いろいろ聞いたら野暮ですよ
+  Reading: いろいろ きいたら やぼですよ
+  Meaning: Its rude to ask so many questions
+
+[PHRASE] 結婚を取るか仕事を取るか彼女の心は揺らいでいる
+  Reading: けっこんを とるか しごとを とるか かのじょの こころは ゆらいでいる
+  Meaning: Her mind swings between choosing work or choosing marriage
+
+[VOCAB] お返事は明日でも差し支えない
+  Reading: お へんじは あしたでも しさしつかえない
+  Meaning: It will be fine if you can give me your answer tomorrow
+
+[PHRASE] Noun + を顧みず/も顧みず
+  Reading: を かえりみずも かえりみず
+  Meaning: despite; regardless of
+
+[VOCAB] 猫を追うより皿を引け
+  Reading: ねこを おうより さらを ひけ
+  Meaning: Attack the root of a problem
+
+[PHRASE] スパイーンへは何度も行ったことがある
+  Reading: へは なんども いったことがある
+  Meaning: I have been to Spain many times
+
+[VOCAB] その本は文語体で書かれている
+  Reading: その ほんは ぶんごたいで かかれている
+  Meaning: The book is written in a literary style
+
+[VOCAB] 彼との結婚は断じて許さない
+  Reading: かれとの けっこんは だんじて ゆるさない
+  Meaning: I simply cannot permit your marriage to him
+
+[VOCAB] まぐれですよ
+  Reading: まぐれですよ
+  Meaning: It was a fluke
+
+[VOCAB] 私に二言がない
+  Reading: わたしに にごんがない
+  Meaning: I mean what I say
+
+[PHRASE] 今週中に授業料を入金してください
+  Reading: こんしゅうじゅうに じゅぎょうりょうを にゅうきんしてください
+  Meaning: Please pay the tuition fees this week
+
+[VOCAB] 銀行の落ち度だと思うのですが
+  Reading: ぎんこうの ちおちどだと おもうのですが
+  Meaning: although I think it's the bank's fault
+
+[VOCAB] 同じ場所に居座ることができる
+  Reading: おなじ ばしょに いすわることができる
+  Meaning: of a person, to have a choice of sitting continuously in the same place
+
+[PHRASE] 私は猫舌で熱いスープが飲めません
+  Reading: わたしは ねこじたで あついが のめません
+  Meaning: I can't eat the hot soup as I am sensitive to heat
+
+[VOCAB] 身分をわきまえなっさい
+  Reading: みぶんをわきまえなっさい
+  Meaning: Remember your station in life
+
+[VOCAB] あの人は虚栄心が強い
+  Reading: あの ひとは きょえいしんが つよい
+  Meaning: That person is vain
+
+[VOCAB] 気兼ねなく私に連絡してください
+  Reading: きがねなく わたしに れんらくしてください
+  Meaning: Please feel free to reach me
+
+[VOCAB] 今は好きでもじきに飽きるよ
+  Reading: いまは すきでもじきに あきるよ
+  Meaning: Even if you like it now, you'll tire of it soon
+
+[PHRASE] 科学技術は目覚しく進歩しているの
+  Reading: かがくぎじゅつは めざましく しんぽしているの
+  Meaning: Science and technology have advanced remarkably.
+
+[PHRASE] 長女であるばかりに、弟や妹の世話をさせられる
+  Reading: ちょうじょであるばかりに おとうとや いもうとの せわをさせられる
+  Meaning: Because Im the oldest sister, I have to take care of my younger brother and sister
+
+[VOCAB] ところから grammar
+  Reading: ところから
+  Meaning: because / from the fact that (he wore a hat, they called him mr Hat etc)
+
+[PHRASE] 最近太って上着のボタンが嵌りません
+  Reading: さいきん ふとって うわぎのが はまりません
+  Meaning: Recently, I have gotten fat and can't do up the button on my jacket
+
+[VOCAB] 既定値に戻す
+  Reading: きていちに もどす
+  Meaning: Restore Defaults
+
+[PHRASE] 現在の教育制度の無理が高等学校にしわ寄せされている
+  Reading: げんざいの きょういくせいどの むりが こうとうがっこうにしわ よせされている
+  Meaning: The high schools have to carry all the stresses [strain] of today's system of education
+
+[PHRASE] 今日彼女は着物を着るので髪の毛を結っている
+  Reading: きょう かのじょは きものを きるので のかみのけを ゆっている
+  Meaning: She tied up her hair as she is wearing a kimono today
+
+[PHRASE] 彼は君に対して怒っているわけではない
+  Reading: かれは きみに たいして おこっているわけではない
+  Meaning: Its not that hes angry with you (&nbsp;&nbsp;に対して )
+
+[VOCAB] この劇場の音響は素晴らしい
+  Reading: この げきじょうの おんきょうは すばらしい
+  Meaning: The acoustics (sound) in this theater are wonderful
+
+[PHRASE] 実現から逃避していては何も解決しません
+  Reading: じつげんから とうひしていては なにも かいけつしません
+  Meaning: Nothing is solved if you run away from reality
+
+[VOCAB] ざま見ろ
+  Reading: ざま みろ
+  Meaning: ”Serves you right" / ”Good for you" / Lit "look at this sorry situation of which you deserve"
+
+[VOCAB] なれない仕事に戸惑う
+  Reading: なれない しごとに とまどう
+  Meaning: Be at a loss on a new job
+
+[VOCAB] 高性能なコンピューター
+  Reading: こうせいのうな
+  Meaning: High powered / High efficiency PC
+
+[PHRASE] われわれは権力を憎むが法と秩序の必要は認める
+  Reading: われわれは けんりょくを にくむが ほうと ちつじょの ひつようは みとめる
+  Meaning: While we hate force, we recognize the need for law and order
+
+[VOCAB] 言わずもがな
+  Reading: いわずもがな
+  Meaning: It goes without saying,
+
+[VOCAB] ではあるまいか
+  Reading: ではあるまいか
+  Meaning: I wonder if it’s not…
+
+[VOCAB] 論より証拠
+  Reading: ろんより しょうこ
+  Meaning: The proof of the pudding is in the eating (lit: evidence is better than debate)
+
+[VOCAB] 禁断の木の実
+  Reading: きんだんの この み
+  Meaning: The forbidden fruit
+
+[PHRASE] Verb-casual, past + 拍子に
+  Reading: ひょうしに
+  Meaning: the moment; the instance
+
+[VOCAB] X　を理由に　Y
+  Reading: を りゆうに
+  Meaning: Using X as a reason, did Y
+
+[VOCAB] ラジオの乾電池を交換しなきゃ
+  Reading: の かんでんちを こうかんしなきゃ
+  Meaning: I must change the batteries in the radio
+
+[VOCAB] 謙虚な物腰で
+  Reading: けんきょな ものごしで
+  Meaning: in a humble manner
+
+[VOCAB] びっしり並んだ家々
+  Reading: びっしり ならんだ いえいえ
+  Meaning: close‐set houses
+
+[VOCAB] 分裂症 / 分裂症患者
+  Reading: ぶんれつしょう ぶんれつしょうかんじゃ
+  Meaning: Schizophrenia　/ Schizophrenic
+
+[VOCAB] この靴は爪先が細い
+  Reading: この くつは つまさきが ほそい
+  Meaning: The toes of these shoes are very thin
+
+[VOCAB] 忠義な
+  Reading: ちゅうぎな
+  Meaning: Loyal
+
+[VOCAB] 助け船を出す
+  Reading: けたすけぶねを だす
+  Meaning: To send out a lifeboat
+
+[VOCAB] 悲観的（な）
+  Reading: ひかんてきな
+  Meaning: Pessimistic
+
+[PHRASE] 最近忙しくて友達づきあいが等閑になっている
+  Reading: さいきん いそがしくて ともだちづきあいが とうかんになっている
+  Meaning: I have been busy recently and let my friendships slide
+
+[VOCAB] ハシゴする
+  Reading: する
+  Meaning: To go bar hopping
+
+[VOCAB] 従順な兵士
+  Reading: じゅうじゅんな へいし
+  Meaning: an obedient soldier
+
+[VOCAB] 金輪際承知はできぬ
+  Reading: こんりんざい しょうちはできぬ
+  Meaning: I will never agree to it on any account
+
+[PHRASE] シャツがズボンから食み出していますよ
+  Reading: がから みはみだしていますよ
+  Meaning: Your shirt is coming out of your pants
+
+[PHRASE] うちの子供はプールに入るのを理由もなく怖がる
+  Reading: うちの こどもはに はいるのを りゆうもなく こわがる
+  Meaning: Our child acts afraid about entering a pool without any reason
+
+[VOCAB] 実家が思い出されてならない
+  Reading: じっかが いおもいだされてならない
+  Meaning: Can't help but being reminded of hometown
+
+[PHRASE] パーティーの出欠の返事をしなければならない
+  Reading: の しゅっけつの へんじをしなければならない
+  Meaning: I must answer the RSVP for the party
+
+[VOCAB] 必須スキル
+  Reading: ひっす
+  Meaning: Indispensable / Required (skill)
+
+[VOCAB] 行く手には多くの困難がある
+  Reading: くゆくてには おおくの こんなんがある
+  Meaning: There are lots of difficulties lying ahead
+
+[PHRASE] そんな陰気な話はもうやめましょう
+  Reading: そんな いんきな はなしはもうやめましょう
+  Meaning: Let's stop talking about such gloomy subjects
+
+[VOCAB] 館内で〜
+  Reading: かんないで
+  Meaning: Inside the building .. ~
+
+[PHRASE] お子さんが健やかに育ちますように
+  Reading: お こさんが すこやかに そだちますように
+  Meaning: I pray that the child will grow up healthily
+
+[PHRASE] その子はお化けを見たと言っている
+  Reading: その こはお ばけを みたと いっている
+  Meaning: The child says she saw a ghost
+
+[VOCAB] やり残したことはない
+  Reading: やり のこしたことはない
+  Meaning: There was nothing left undone (in trip to Manchester?)
+
+[VOCAB] 結婚しようにも相手がない
+  Reading: けっこんしようにも あいてがない
+  Meaning: I like to get married but I cant find anyone (結婚したいが)
+
+[PHRASE] 鰯の刺身を食べたことありますか？
+  Reading: いわしの さしみを たべたことありますか
+  Meaning: Did you ever eat sardine sashimi?
+
+[VOCAB] 給料を前借する
+  Reading: きゅうりょうを ぜんしゃくする
+  Meaning: To get an advance against ones next month salary
+
+[VOCAB] 車輪の再発明
+  Reading: しゃりんの さい はつめい
+  Meaning: reinventing the wheel
+
+[VOCAB] 私の方に落ち度はない
+  Reading: わたしの ほうに ちおちどはない
+  Meaning: There is no fault on my part
+
+[VOCAB] ウイスキーの水割りを作る
+  Reading: の みずわりを つくる
+  Meaning: Dilute whiskey with water
+
+[VOCAB] 彼は生え抜きのロンドン子ですよ
+  Reading: かれは えはえぬきの こですよ
+  Meaning: He's a Londoner born and bred
+
+[VOCAB] 俺は照れる事しかできない
+  Reading: おれは てれる ことしかできない
+  Meaning: I can't do anything but be shy / feel awkward
+
+[VOCAB] パリの陥落
+  Reading: の かんらく
+  Meaning: the fall of Paris
+
+[VOCAB] あらを探す
+  Reading: あらを さがす
+  Meaning: to find fault (with)
+
+[PHRASE] その店は、一円たりともまけてくれませんよ
+  Reading: その みせは えんたりともまけてくれませんよ
+  Meaning: The shop will not knock off even one yen
+
+[PHRASE] 宅地開発指導要綱という,地方自治体が定める要綱
+  Reading: たくち かいはつ しどう ようこうという ちほうじちたいが さだめる ようこう
+  Meaning: the general construction plan for developing residential land specified by the local government
+
+[VOCAB] 君が固執していると
+  Reading: きみが こしつしていると
+  Meaning: if you persist
+
+[VOCAB] 危険を脱する
+  Reading: きけんを だっする
+  Meaning: To escape from danger
+
+[VOCAB] やさしい口調で
+  Reading: やさしい くちょうで
+  Meaning: in a soft tone
+
+[PHRASE] このキュウリはよく漬かっているね
+  Reading: このはよく つかっているね
+  Meaning: This cucumber is well soaked
+
+[VOCAB] 欲求を満たす
+  Reading: よっきゅうを みたす
+  Meaning: To satisfy ones desires
+
+[VOCAB] 紙を丸める
+  Reading: かみを まるめる
+  Meaning: To crumple a piece of paper into a ball
+
+[VOCAB] 既定に設定
+  Reading: きていに せってい
+  Meaning: Set Default
+
+[VOCAB] 残念無念
+  Reading: ざんねんむねん
+  Meaning: deep regret; bitter disappointment; chagrin; vexation
+
+[VOCAB] Noun + に照らして
+  Reading: に てらして
+  Meaning: in comparison with, according to, in light of, in view of
+
+[VOCAB] 風で電線が揺れていますね
+  Reading: かぜで でんせんが ゆれていますね
+  Meaning: The electric wires are shaking in the wind.
+
+[PHRASE] 今日の遠足はよほど楽しかったらしい
+  Reading: きょうの えんそくはよほど たのしかったらしい
+  Meaning: Today's excursion seems to have been really good fun
+
+[VOCAB] 公明正大に戦う
+  Reading: こうめいせいだいに たたかう
+  Meaning: fight fairly
+
+[VOCAB] 時間を引き延ばす
+  Reading: じかんを きひきのばす
+  Meaning: To stretch out time / to delay
+
+[PHRASE] 彼、最近、私に冷たくなったような気がする
+  Reading: かれ さいきん わたしに つめたくなったような きがする
+  Meaning: I feel like he's grown cold toward me lately
+
+[VOCAB] 更々ない
+  Reading: さらさらない
+  Meaning: Not in the least&nbsp;
+
+[VOCAB] 写真がぶれている
+  Reading: しゃしんがぶれている
+  Meaning: The picture is blurred
+
+[VOCAB] 私見では
+  Reading: しけんでは
+  Meaning: In my humble opinion
+
+[VOCAB] 拡充　／　拡大　／　拡張
+  Reading: かくじゅう かくだい かくちょう
+  Meaning: Englargement / Expansion
+
+[PHRASE] あなたはどうか気兼ねなく私にメールしてください
+  Reading: あなたはどうか きがねなく わたしにしてください
+  Meaning: Please do not hesitate to email me
+
+[PHRASE] 来週以降にご足労いただいてもよろしいでしょうか？
+  Reading: らいしゅう いこうにご そくろういただいてもよろしいでしょうか
+  Meaning: Would it be alright if I had you visit after next week?
+
+[VOCAB] 聖霊が降臨する
+  Reading: せいれいが こうりんする
+  Meaning: The Holy Ghost descends on one
+
+[VOCAB] ことの始まりは２００年前に遡る
+  Reading: ことの はじまりは ねん まえに さかのぼる
+  Meaning: The beginning of the story goes back 200 years
+
+[VOCAB] 半殺しになるまで
+  Reading: はんごろしになるまで
+  Meaning: Within an inch of ones life
+
+[VOCAB] 引き金を引く
+  Reading: きひきがねを ひく
+  Meaning: To pull the trigger
+
+[VOCAB] 名を馳せる
+  Reading: なを はせる
+  Meaning: to make a name for oneself
+
+[VOCAB] これは思いがけない邂逅
+  Reading: これは おもいがけない かいこう
+  Meaning: This is an accidental meeting―a chance encounter
+
+[PHRASE] 東京は、びっくりするほど人が多い
+  Reading: とうきょうはびっくりするほど ひとが おおい
+  Meaning: Tokyo has an amazingly large number of people
+
+[PHRASE] お客さんが続々とやって来ましたよ
+  Reading: お きゃくさんが ぞくぞくとやって きましたよ
+  Meaning: The guests came one after another
+
+[PHRASE] 彼は学力において全級を凌駕している
+  Reading: かれは がくりょくにおいて ぜんきゅうを りょうがしている
+  Meaning: He is ahead of his class in scholarship
+
+[VOCAB] 誓いを立てる
+  Reading: ちかいを たてる
+  Meaning: to make a vow; to take an oath
+
+[PHRASE] 忘れないように書いておいてください
+  Reading: わすれないように かいておいてください
+  Meaning: Please write it down so that you wont forget
+
+[PHRASE] どんな人からでも手紙をもらうとうれしい
+  Reading: どんな ひとからでも てがみをもらうとうれしい
+  Meaning: Its nice to receive a letter no matter who it is from
+
+[VOCAB] 寝込みを襲われる
+  Reading: ねこみを おそわれる
+  Meaning: To be attacked in ones sleep
+
+[VOCAB] 順当に行けば
+  Reading: じゅんとうに いけば
+  Meaning: If everything goes smoothly..
+
+[PHRASE] 君が今言った事は私が昨日聞いた事と符合する
+  Reading: きみが いま いった ことは わたしが きのう きいた ことと ふごうする
+  Meaning: What you've just told me chimes in with what I heard yesterday
+
+[VOCAB] 虚しい　・　空しい
+  Reading: むなしい むなしい
+  Meaning: Empty / Hollow / Useless
+
+[PHRASE] この暑さに１０マイルもてくてく歩くのはたまらない
+  Reading: この あつさにもてくてく あるくのはたまらない
+  Meaning: I can't bear to tramp ten miles in this heat
+
+[VOCAB] 命令に背く
+  Reading: めいれいに そむく
+  Meaning: To disobey an order
+
+[VOCAB] 自由には、それに伴う責任がある
+  Reading: じゆうにはそれに ともなう せきにんがある
+  Meaning: Freedom is accompanied by responsibility
+
+[VOCAB] 想定上の原因
+  Reading: そうてい じょうの げんいん
+  Meaning: an assumed cause
+
+[VOCAB] 中心的役割
+  Reading: ちゅうしんてきやくわり
+  Meaning: Central role (in the price fixing scandal, did Apple)
+
+[VOCAB] 彼は名声に固執する
+  Reading: かれは めいせいに こしつする
+  Meaning: He clings to his fame
+
+[VOCAB] 感傷的になってもはじまらないわ
+  Reading: かんしょうてきになってもはじまらないわ
+  Meaning: It’s no use being sentimental
+
+[VOCAB] 短期〜
+  Reading: たんき
+  Meaning: Short term ~
+
+[VOCAB] 一難去ってまた一難
+  Reading: いちなん さってまた いちなん
+  Meaning: one thing after another; out of the frying pan and into the fire
+
+[PHRASE] 彼女ほど頭のいい人には会ったことがない
+  Reading: かのじょほど あたまのいい ひとには あったことがない
+  Meaning: I've never met anyone smarter than her
+
+[VOCAB] 文は武に勝る
+  Reading: ぶんは ぶに まさる
+  Meaning: The pen is mightier than the sword
+
+[VOCAB] 奇妙　／　妙
+  Reading: きみょう みょう
+  Meaning: Strange / Curious
+
+[CLEANABLE] 行列
+  Reading: ぎょうれつ  (was: 行列　Again)
+  Meaning: Also used for matrix, like a 4x4 matrix
+
+[VOCAB] 人の目をまともに打つ
+  Reading: ひとの めをまともに うつ
+  Meaning: hit a person clean in the eye
+
+[VOCAB] 暑いせいか、食欲が無い
+  Reading: あついせいか しょくよくが ない
+  Meaning: Probably due to the heat, I have no apetite
+
+[VOCAB] 彼は医者のような気がする
+  Reading: かれは いしゃのような きがする
+  Meaning: I fancy he is a doctor
+
+[PHRASE] やっぱりこの人生には、人脈が物言う
+  Reading: やっぱりこの じんせいには じんみゃくが ものゆう
+  Meaning: As we thought in life, personal connections do the talking
+
+[VOCAB] にとどまらず　Grammar
+  Reading: にとどまらず
+  Meaning: Not only X (but also ...)
+
+[VOCAB] 痛快痛快、実に痛快
+  Reading: つうかい つうかい じつに つうかい
+  Meaning: It does my heart good
+
+[PHRASE] 彼の言葉は空虚なものに感じられる
+  Reading: かれの ことばは くうきょなものに かんじられる
+  Meaning: His words seemed to be empty
+
+[VOCAB] もうこの会社に未練はない
+  Reading: もうこの かいしゃに みれんはない
+  Meaning: I no longer feel devoted to this company
+
+[VOCAB] 死後に功績を称える
+  Reading: しごに こうせきを たたえる
+  Meaning: to praise one's merits after one's death
+
+[PHRASE] わけだ　ー　 No Wonder
+  Reading: わけだ
+  Meaning: わけだ　ー　 No Wonder
+
+[VOCAB] アクセス例外
+  Reading: れいがい
+  Meaning: access exception
+
+[VOCAB] 彼は貨殖に汲々としている
+  Reading: かれは かしょくに きゅうきゅうとしている
+  Meaning: He is bent on money-making
+
+[VOCAB] 生徒を見くびるな
+  Reading: せいとを みくびるな
+  Meaning: Dont underestimate the students!
+
+[VOCAB] ギリシャなどの債務問題
+  Reading: などの さいむもんだい
+  Meaning: The debt problems of countries like Greece
+
+[PHRASE] 学校でいくら注意しても子供を守りきれないんだよ
+  Reading: がっこうでいくら ちゅういしても こどもを まもりきれないんだよ
+  Meaning: No matter how much we warn them at school, we cannot completely (!) protect the kids
+
+[PHRASE] 忙しすぎて、ご飯を食べる時間さえない
+  Reading: いそがしすぎてご はんを たべる じかんさえない
+  Meaning: I'm so busy I don't even have time to eat
+
+[PHRASE] どうせ間に合わないならゆっくり行こう
+  Reading: どうせ にまにあわないならゆっくり いこう
+  Meaning: Let's go slowly as we won't be on time anyway.
+
+[VOCAB] 当たらずといえども遠からず
+  Reading: あたらずといえども とおからず
+  Meaning: Thats pretty close
+
+[VOCAB] 熱は大気に霧散する
+  Reading: ねつは たいきに むさんする
+  Meaning: Heat is dissipated to the atmosphere
+
+[VOCAB] 自分の落ち度を認める
+  Reading: じぶんの ちおちどを みとめる
+  Meaning: acknowledge one's fault
+
+[PHRASE] 忙しくても電話をかけるくらいはできたでしょう
+  Reading: いそがしくても でんわをかけるくらいはできたでしょう
+  Meaning: Even if you were busy you could have at least called
+
+[VOCAB] 男からして
+  Reading: おとこからして
+  Meaning: Even for men ~
+
+[VOCAB] 金は人生を狂わすことがある
+  Reading: きんは じんせいを くるわすことがある
+  Meaning: Money can make people crazy
+
+[VOCAB] 波が打ち寄せる
+  Reading: なみが ちうちよせる
+  Meaning: Waves wash up [to the shore]
+
+[VOCAB] 勝利を手中にする
+  Reading: しょうりを しゅちゅうにする
+  Meaning: Have victory in ones grasp
+
+[PHRASE] 彼らはその会社の株を買い占めようとしている
+  Reading: かれらはその かいしゃの かぶを いかいしめようとしている
+  Meaning: They are trying to buy up the company's shares
+
+[PHRASE] 警察は川を浚って遺体を捜している
+  Reading: けいさつは かわを さらって いたいを さがしている
+  Meaning: The police are dredging the river looking for remains
+
+[PHRASE] 保険金は被害状況に応じて、払われる
+  Reading: ほけんきんは ひがい じょうきょうに おうじて はらわれる
+  Meaning: Depending on how much damage there is, the insurance money will pay it ( 応じて )
+
+[PHRASE] 私はドイツ語が丸っきり分からない
+  Reading: わたしは どいつごが まるっきり わからない
+  Meaning: I don't understand German at all
+
+[VOCAB] 口にするな
+  Reading: くちにするな
+  Meaning: Dont talk about it
+
+[VOCAB] 富を生み出す
+  Reading: とみを みうみだす
+  Meaning: To produce wealth (in economics say)
+
+[PHRASE] それはさまざまな問題を内包している.
+  Reading: それはさまざまな もんだいを ないほうしている
+  Meaning: It involves various problems
+
+[VOCAB] 道が込んでいると時間がかかる
+  Reading: みちが こんでいると じかんがかかる
+  Meaning: Whenever the streets are crowded it takes longer to get there
+
+[VOCAB] べらぼうに寒い
+  Reading: べらぼうに さむい
+  Meaning: be terribly [《英俗》 bloody] cold
+
+[PHRASE] 肉をとろとろと煮込んだその料理はとても美味しい
+  Reading: にくをとろとろと にこんだその りょうりはとても おいしい
+  Meaning: If you simmer the meat slowly, that dish is absolutely delicious
+
+[VOCAB] 鋼鉄 ／　鋼鉄製品
+  Reading: こうてつ こうてつせい ひん
+  Meaning: Steel / Steel work
+
+[VOCAB] 癌のように蝕む静寂
+  Reading: がんのように むしばむ せいじゃく
+  Meaning: Silence grows like cancer
+
+[PHRASE] 山下先生は昨日何を食べたか覚えていません
+  Reading: やました せんせいは きのう なにを たべたか おぼえていません
+  Meaning: Professor Yamashita doesn't remember what he ate yesterday
+
+[VOCAB] 書類の余白に補足説明を加える
+  Reading: しょるいの よはくに ほそくせつめいを くわえる
+  Meaning: Add supplementary explanation to documents white margin
+
+[PHRASE] いいにつけ悪いにつけ、子は親に似る
+  Reading: いいにつけ わるいにつけ こは おやに にる
+  Meaning: Children learn good and bad things from their parents
+
+[VOCAB] 彼女からは依然として連絡がない
+  Reading: かのじょからは いぜんとして れんらくがない
+  Meaning: There is still no contact from her (as before)
+
+[VOCAB] お前は酪農家のように戦うんだ！
+  Reading: お まえは らくのうかのように たたかうんだ
+  Meaning: You fight like a dairy farmer!
+
+[VOCAB] 雲は水滴が集まってできる
+  Reading: くもは すいてきが あつまってできる
+  Meaning: Clouds are formed by accumulation of water vapour
+
+[VOCAB] ｢もうダメだ｣とばかりに
+  Reading: もうだとばかりに
+  Meaning: as if saying 'it's no use'
+
+[PHRASE] このデパートは曜日にかかわらずいつも込んでいる
+  Reading: このは ようびにかかわらずいつも こんでいる
+  Meaning: That department store regardless which day it is, is always busy
+
+[VOCAB] 持久〜　(戦、走、力）
+  Reading: じきゅう せん はし ちから
+  Meaning: War of attrition&nbsp;&nbsp;/ long distance running / staying power
+
+[PHRASE] あのおいしくざるご飯はいったい誰が食べられるか？
+  Reading: あのおいしくざるご はんはいったい だれが たべられるか
+  Meaning: Who could eat that tasteless meal?
+
+[VOCAB] 彼女の家は丘の中腹にある
+  Reading: かのじょの いえは おかの ちゅうふくにある
+  Meaning: Her house is on the side of a hill
+
+[VOCAB] 土地が肥えると野菜が大きく育つ
+  Reading: とちが こえると やさいが おおきく そだつ
+  Meaning: The vegetables grow big when the land is fertile
+
+[VOCAB] 彼は急に立ち上がったの
+  Reading: かれは きゅうに ちたちあがったの
+  Meaning: He suddenly stood up.
+
+[PHRASE] 東京の町は、どこへ行っても人で込んでいる
+  Reading: とうきょうの まちはどこへ いっても ひとで こんでいる
+  Meaning: Tokyo is crowded with people no matter where you go
+
+[VOCAB] 鍵が鍵穴にはまらない
+  Reading: かぎが かぎ あなにはまらない
+  Meaning: The key will not fit the keyhole
+
+[PHRASE] うちの事に口出ししないでください
+  Reading: うちの ことに くちだししないでください
+  Meaning: Please dont stick your nose in my business
+
+[VOCAB] （ご）名答
+  Reading: ご めいとう
+  Meaning: はっきりした、りっぱな答
+
+[PHRASE] その国は公然と核武装するとおどしている
+  Reading: その くには こうぜんと かくぶそうするとおどしている
+  Meaning: That country has openly threatened to go nuclear
+
+[VOCAB] 百獣の王たるライオン
+  Reading: のひゃくじゅうのおうたる
+  Meaning: Lion, the king of the jungle
+
+[PHRASE] ないことには　ー＞　なければ　＝　同じ
+  Reading: ないことにはなければ おなじ
+  Meaning: ないことには　ー＞　なければ　＝　同じ
+
+[PHRASE] あの人の言ったとおりにすれば、大丈夫だよ
+  Reading: あの ひとの いったとおりにすれば だいじょうぶだよ
+  Meaning: If you do it how that persons says, it will be fine
+
+[VOCAB] そのレストランは奥行きがある
+  Reading: そのは おくゆきがある
+  Meaning: The restaurant extends far back
+
+[VOCAB] 日本人は年より若く見える
+  Reading: にっぽんじんは としより わかく みえる
+  Meaning: Japanese look younger than their age
+
+[VOCAB] ものの　＝　Although
+  Reading: ものの
+  Meaning: ものの　＝　Although
+
+[VOCAB] 永きに亘って
+  Reading: ながきに わたって
+  Meaning: Over a long time ..
+
+[PHRASE] ３月５日必着で履歴書を送ってください
+  Reading: さんがつ にち ひっちゃくで りれきしょを おくってください
+  Meaning: Please send your resume to arrive no later than March 5th
+
+[PHRASE] 暑い日には冷たいビールを飲むに限る
+  Reading: あつい ひには つめたいを のむに かぎる
+  Meaning: Drinking cold beer is the best thing to do on a hot day
+
+[PHRASE] ジャスティン班長、亜空間レーダーに反応出ました！
+  Reading: はんちょう あくうかんに はんのう でました
+  Meaning: Squad Leader Justin, a blip's appeared on the hyperspace radar
+
+[VOCAB] げろを吐く
+  Reading: げろを はく
+  Meaning: to throw up; to vomit; to spew
+
+[VOCAB] 今日はばかに神妙じゃないか
+  Reading: きょうはばかに しんみょうじゃないか
+  Meaning: You're unusually meek [You are behaving yourself] today, aren't you?
+
+[PHRASE] 働く時間は短いに越したことはないんじゃないの？
+  Reading: はたらく じかんは みじかいに こしたことはないんじゃないの
+  Meaning: Regarding working hours, the shorter the better, right?
+
+[VOCAB] その人は皆に尊敬されている
+  Reading: その ひとは みなに そんけいされている
+  Meaning: That person is looked up to by most everyone&nbsp;&nbsp;(neutral)
+
+[VOCAB] 徒労に終わる
+  Reading: とろうに おわる
+  Meaning: to end in vain; to be wasted effort
+
+[VOCAB] 当てにならない
+  Reading: あてにならない
+  Meaning: Not to be relied upon / not to be counted on
+
+[VOCAB] 煙にむせる
+  Reading: けむりにむせる
+  Meaning: Choke on the smoke
+
+[VOCAB] ズボンのチャックが開いているよ
+  Reading: のが ひらいているよ
+  Meaning: Your fly is open
+
+[VOCAB] 単価７５円で
+  Reading: たんか えんで
+  Meaning: At 75 yen per unit
+
+[VOCAB] 百害あって一利なし
+  Reading: ひゃくがいあって いちりなし
+  Meaning: all pain, no gain, doing no good and a lot of harm, having no redeeming features, being a complete disadvantage, a hundr
+
+[PHRASE] 自分の考えを人に押し付けてはいけません
+  Reading: じぶんの かんがえを ひとに しおしつけてはいけません
+  Meaning: Do not force your own ideas on other people
+
+[PHRASE] ストレスはいろいろな病気の引き金になる
+  Reading: はいろいろな びょうきの きひきがねになる
+  Meaning: Stress can be a trigger for various illnesses
+
+[PHRASE] どんなことがあっても、彼に宝石を渡してはなりません
+  Reading: どんなことがあっても かれに ほうせきを わたしてはなりません
+  Meaning: Whatever happens, he must not get the jewels
+
+[PHRASE] やればできるものを、どうしてやらないんですか？
+  Reading: やればできるものをどうしてやらないんですか
+  Meaning: You know you can do it, why don't you? (できるのに)
+
+[VOCAB] 君とは金輪際口なんかきかないぞ
+  Reading: きみとは こんりんざい くちなんかきかないぞ
+  Meaning: I'll never, ever speak to you again
+
+[VOCAB] もし差し支えないようでしたら
+  Reading: もし しさしつかえないようでしたら
+  Meaning: If its alright with you
+
+[VOCAB] 子供が拗ねてる
+  Reading: こどもが すねてる
+  Meaning: There is a child sulking
+
+[VOCAB] 喫煙はがん発病の原因になる
+  Reading: きつえんはがん はつびょうの げんいんになる
+  Meaning: Smoking causes cancer to develop
+
+[PHRASE] いいレストランであればあるほど高い
+  Reading: いいであればあるほど たかい
+  Meaning: Better restaurants are more expensive
+
+[VOCAB] 子供だからといって許せない
+  Reading: こどもだからといって ゆるせない
+  Meaning: Because hes a kid, doesnt mean i can forgive him
+
+[VOCAB] 先生の影響を受ける
+  Reading: せんせいの えいきょうを うける
+  Meaning: To be influenced by a teacher
+
+[PHRASE] 熱意と努力をもって、仕事をしてください
+  Reading: ねついと どりょくをもって しごとをしてください
+  Meaning: Please work hard and enthusiastically (熱意と努力で)
+
+[PHRASE] 早くきてよ！何を恥ずかしがっているの？
+  Reading: はやくきてよ なにを はずかしがっているの
+  Meaning: Hurry up and come here. What are you acting all embarrassed for?
+
+[VOCAB] 君も同罪だよ
+  Reading: きみも どうざいだよ
+  Meaning: You're to blame too!
+
+[VOCAB] 水溜りをよける
+  Reading: みずたまりをよける
+  Meaning: To avoid a puddle of water
+
+[VOCAB] 百獣の王
+  Reading: のひゃくじゅうのおう
+  Meaning: King of beasts / Lion!
+
+[VOCAB] 陰鬱な話
+  Reading: いんうつな はなし
+  Meaning: dismal talk
+
+[VOCAB] 樹木に宿る精霊
+  Reading: じゅもくに やどる せいれい
+  Meaning: a spirit that dwells in trees
+
+[VOCAB] 聞くに値する
+  Reading: きくに あたいする
+  Meaning: Worth listening to
+
+[VOCAB] 現行の教科書
+  Reading: げんこうの きょうかしょ
+  Meaning: The textbook now in use
+
+[VOCAB] チャラチャラしたドレス
+  Reading: した
+  Meaning: A showy dress
+
+[PHRASE] なぜこの事業に出資を渋っているのか
+  Reading: なぜこの じぎょうに しゅっしを しぶっているのか
+  Meaning: What has caused them to hold back from investing in this project?｜Why do they grudge investing in this project?
+
+[VOCAB] ドシドシやれ
+  Reading: やれ
+  Meaning: Fire away!
+
+[PHRASE] これは先生の本だから、あなたに貸すわけにはいかない
+  Reading: これは せんせいの ほんだからあなたに かすわけにはいかない
+  Meaning: Since this is my teachers book, I can't very well lend it to you
+
+[PHRASE] 魚は新鮮ではない限り、さしみにはできない
+  Reading: さかなは しんせんではない かぎりさしみにはできない
+  Meaning: Unless fish is fresh, can't do sashimi
+
+[VOCAB] 彼は鋭利な頭脳をもっている
+  Reading: かれは えいりな ずのうをもっている
+  Meaning: He has a sharp mind
+
+[VOCAB] 彼には不思議な力が具わっている
+  Reading: かれには ふしぎな ちからが そなわっている
+  Meaning: He has magical powers
+
+[PHRASE] 日本語が上手になるまで、国に帰りません
+  Reading: にほんごが じょうずになるまで くにに かえりません
+  Meaning: I will not go back to my country until I am fluent in Japanese
+
+[VOCAB] この池には鯉がうようよいる
+  Reading: この いけには こいがうようよいる
+  Meaning: The pond abounds with carp
+
+[VOCAB] しょうゆを一滴加える
+  Reading: しょうゆを いってき くわえる
+  Meaning: Add a drop of soy sauce
+
+[PHRASE] 科学的な見地から考えてみましょう
+  Reading: かがくてきな けんちから かんがえてみましょう
+  Meaning: Lets think from a scientific viewpoint
+
+[VOCAB] 自分を名乗る場合
+  Reading: じぶんを なのる ばあい
+  Meaning: "When giving your own name"
+
+[VOCAB] コンピュータの内部詳細
+  Reading: の ないぶしょうさい
+  Meaning: Computer internals
+
+[PHRASE] 革張りのソファにするか？布張りのソファにするか？
+  Reading: かわばりのにするか ぬのばりのにするか
+  Meaning: Shall we go for a leather-covered sofa? A cloth-covered sofa?
+
+[VOCAB] 木を見て森を見ず
+  Reading: きを みて もりを みず
+  Meaning: To not see the woods for the trees (meaning, missing the big picture, getting caught up in trivial matters)
+
+[VOCAB] 木を揺する
+  Reading: きを ゆする
+  Meaning: To shake a tree
+
+[PHRASE] ケーキは買うまいと思っても、見るとつい買ってしまう
+  Reading: は かうまいと おもっても みるとつい かってしまう
+  Meaning: Even if I think I wont buy a cake, as soon as I see it I will
+
+[VOCAB] まともに風に向かって
+  Reading: まともに かぜに むかって
+  Meaning: right in the wind
+
+[PHRASE] 彼に対するやつらのむごい仕打ちには本当に涙が出たよ
+  Reading: かれに たいするやつらのむごい しうちには ほんとうに なみだが でたよ
+  Meaning: Their cruel treatment of him really made me weep
+
+[VOCAB] ずくめ - grammar
+  Reading: ずくめ
+  Meaning: 「ずくめ」 describes something that applies to the whole thing. For instance, if we were talking about the human body, the ex
+
+[VOCAB] 即座の否定
+  Reading: そくざの ひてい
+  Meaning: a straightaway denial
+
+[VOCAB] 文法：　ではあるまいし
+  Reading: ぶんぽうではあるまいし
+  Meaning: &quot;Its not as if&quot;&nbsp;&nbsp;giving a reason why something should not be how it is
+
+[VOCAB] 落ち目の政治家
+  Reading: ちおちめの せいじか
+  Meaning: a politician who is down on his luck
+
+[VOCAB] 頭から～が離れない
+  Reading: あたまからが はなれない
+  Meaning: Can't get ~ out of my head (a song?)
+
+[VOCAB] テーブルの上に本が置いてある
+  Reading: の うえに ほんが おいてある
+  Meaning: A book is on the table( The book was put on the table and has been there ever since )
+
+[PHRASE] 私でさえ出来れば、あんたには楽ちんでしょう
+  Reading: わたしでさえ できればあんたには らくちんでしょう
+  Meaning: If even I can do it, it should be a breeze for you
+
+[PHRASE] 彼女はい週間前から床についている
+  Reading: かのじょはい しゅうかん まえから ゆかについている
+  Meaning: She has been in bed for a week
+
+[PHRASE] この恩知らずめ！もう一度言ってみろ
+  Reading: この おんしらずめもう いちど いってみろ
+  Meaning: You ungrateful git! Just try and say that again!
+
+[VOCAB] 話がこじれる
+  Reading: はなしがこじれる
+  Meaning: A matter gets complicated
+
+[VOCAB] 冗談をかわきりに話を始める
+  Reading: じょうだんをかわきりに はなしを はじめる
+  Meaning: introduce the speech with a joke.&nbsp;&nbsp;
+
+[VOCAB] 台風の目
+  Reading: のたいふうのめ
+  Meaning: The eye of a typhoon
+
+[PHRASE] 彼女の言う事を真に受けてはいけません
+  Reading: かのじょの いう ことを しんに うけてはいけません
+  Meaning: Don't take her too seriously
+
+[PHRASE] 最近、息子は私の言うことなど、聞きやしない
+  Reading: さいきん むすこは わたしの いうことなど ききやしない
+  Meaning: Recently my son never listens to what I say (全然聞かない)
+
+[VOCAB] 彼女に過大な要求をする
+  Reading: かのじょに かだいな ようきゅうをする
+  Meaning: To ask too much of her
+
+[VOCAB] 車中では
+  Reading: しゃちゅうでは
+  Meaning: In a train or vehicle (not 車内)
+
+[PHRASE] こつこつやれば受験に受かるだろう
+  Reading: こつこつやれば じゅけんに うかるだろう
+  Meaning: Stick at it, and you'll pass the exam
+
+[VOCAB] 陰鬱の顔付
+  Reading: いんうつの かお づけ
+  Meaning: a glum face
+
+[PHRASE] 日本語を勉強している学生が皆日本へ行くとは限らない
+  Reading: にほんごを べんきょうしている がくせいが かい にっぽんへ いくとは かぎらない
+  Meaning: Its not necessarily the case that students who are studying Japanese will all be going to Japan (限)
+
+[PHRASE] 俺を洗い清めろ！俺を解放しろ！俺を自由にしろ！
+  Reading: おれを あらい きよめろ おれを かいほうしろ おれを じゆうにしろ
+  Meaning: Cleanse me! Release me! Set me free!
+
+[VOCAB] 構うものか
+  Reading: かまうものか
+  Meaning: who cares? I don't give a damn, what does it matter?
+
+[PHRASE] 米国が凋落すれば、自由世界も凋落するだろう
+  Reading: べいこくが ちょうらくすれば じゆうせかいも ちょうらくするだろう
+  Meaning: If America goes down, the free world will go down, too
+
+[VOCAB] 体を丸める
+  Reading: からだを まるめる
+  Meaning: To curl up (body)
+
+[VOCAB] ワクチンを打つ
+  Reading: を うつ
+  Meaning: to vaccinate; to get vaccinated; to get a vaccination
+
+[VOCAB] 隙間 ／ 透き間
+  Reading: すきま きすきま
+  Meaning: Opening / Gap / Clearance
+
+[VOCAB] 面白いことに〜
+  Reading: おもしろいことに
+  Meaning: Interestingly..
+
+[VOCAB] 読みさす嫌いがある
+  Reading: よみさす きらいがある
+  Meaning: I have a habit of leaving books half-read
+
+[VOCAB] 得る　＝　することができる
+  Reading: えるすることができる
+  Meaning: 得る　＝　することができる
+
+[VOCAB] 金が物を言う
+  Reading: かねが ものを いう
+  Meaning: money talks
+
+[VOCAB] 使い切る / 使い果たす
+  Reading: いつかいきる いつかいはたす
+  Meaning: To use up / exhaust / Run through
+
+[VOCAB] 推理小説は複雑なほど面白い
+  Reading: すいりしょうせつは ふくざつなほど おもしろい
+  Meaning: For detective novels, complicated is more interested
+
+[VOCAB] 遺恨十年
+  Reading: いこんじゅうねん
+  Meaning: grudge of ten years' standing; harbouring a grudge for many years
+
+[PHRASE] 数えきれないほどたくさんの星が光っている
+  Reading: かぞえきれないほどたくさんの ほしが ひかっている
+  Meaning: Seemingly an accountable number of stars are shining (cant fully count)
+
+[PHRASE] 説明書にかいてあるとうりにやってみてください
+  Reading: せつめいしょにかいてあるとうりにやってみてください
+  Meaning: Please try and do it as its written on the explanation paper
+
+[VOCAB] 固辞して受けず
+  Reading: こじして うけず
+  Meaning: He positively declines the offer
+
+[PHRASE] 国民の声に答えた政策が期待されている
+  Reading: こくみんの こえに こたえた せいさくが きたいされている
+  Meaning: Expecting a policy in response to the voice of the people
+
+[VOCAB] 彼氏有無をわかった？
+  Reading: かれし うむをわかった
+  Meaning: Whether she has a boyfriend or not わかった？
+
+[PHRASE] ジョンはジェーンに翻弄されている
+  Reading: はに ほんろうされている
+  Meaning: John is messed with by Jane
+
+[PHRASE] 値段が高いほど品物がいいと限らない
+  Reading: ねだんが たかいほど しなものがいいと かぎらない
+  Meaning: Its not necessarily the case that more expensive things are better
+
+[VOCAB] 「〜を」専攻する
+  Reading: を せんこうする
+  Meaning: To Major in　〜
+
+[PHRASE] 感じるからといって、本当にある訳じゃない
+  Reading: かんじるからといって ほんとうにある わけじゃない
+  Meaning: Just because you feel it doesnt mean that its there
+
+[VOCAB] 領収「書」
+  Reading: りょうしゅう しょ
+  Meaning: Receipt / Voucher
+
+[PHRASE] たとえ難しくてもやりがいのある仕事をしたい
+  Reading: たとえ むずかしくてもやりがいのある しごとをしたい
+  Meaning: Even if its difficult, I want to do a worthwhile job
+
+[VOCAB] まんざら夢ではない
+  Reading: まんざら ゆめではない
+  Meaning: Not altogether a dream
+
+[VOCAB] 酸素と水素が化合すると水になる
+  Reading: さんそと すいそが かごうすると みずになる
+  Meaning: When oxygen combined with hydrogen, it becomes water
+
+[VOCAB] 意向形
+  Reading: いこうけい
+  Meaning: (しよう、だろう etc.) volitional form
+
+[PHRASE] このまま死んでしまうなんてやり切れない
+  Reading: このまま しんでしまうなんてやり きれない
+  Meaning: I couldn't bear it if he died like this
+
+[VOCAB] お金を持ってる限り働かない
+  Reading: お かねを もってる かぎり はたらかない
+  Meaning: As long as i have money, I won't work
+
+[VOCAB] 土地によって
+  Reading: とちによって
+  Meaning: Depending on the soil....
+
+[PHRASE] 駅を中心にたくさんの商店が集まっている
+  Reading: えきを ちゅうしんにたくさんの しょうてんが あつまっている
+  Meaning: There are many commericial shops centered around the station
+
+[VOCAB] それは変な習性を持つ
+  Reading: それは へんな しゅうせいを もつ
+  Meaning: It has strange behaviors
+
+[VOCAB] 母親は娘の髪をそっとなでたの
+  Reading: ははおやは むすめの かみをそっとなでたの
+  Meaning: The mother quietly patted her daughter's hair.
+
+[VOCAB] 三分の二
+  Reading: のさんぶんのに
+  Meaning: ２／３
+
+[PHRASE] 風邪引いたが仕事を休むほどのことではない
+  Reading: かぜ ひいたが しごとを やすむほどのことではない
+  Meaning: I caught a cold but it's not so bad as to take a day off
+
+[VOCAB] 現金掛け値なし
+  Reading: げんきん かけ ねなし
+  Meaning: cash only, prices as advertised
+
+[VOCAB] 通称 L
+  Reading: つうしょう
+  Meaning: Also known as L / Alias
+
+[VOCAB] 一刻も早く
+  Reading: もいっこくもはやく
+  Meaning: As quickly as possible / immediately
+
+[VOCAB] 今、何よりも車が欲しいですね
+  Reading: いま なによりも くるまが ほしいですね
+  Meaning: Right now, I want a car more than anything
+
+[VOCAB] 毎日こう寒くてはかなわない
+  Reading: まいにちこう さむくてはかなわない
+  Meaning: I can’t stand this cold weather every day
+
+[VOCAB] 試合に出るからには、勝ちたい
+  Reading: しあいに でるからには かちたい
+  Meaning: As long as im going to the match, I want to win
+
+[VOCAB] 何が何だか分からない
+  Reading: なにが なんだか わからない
+  Meaning: Dont know whats what
+
+[PHRASE] 日本の会社で仕事をすることになる
+  Reading: にっぽんの かいしゃで しごとをすることになる
+  Meaning: It has been arranged that I will be working at a Japanese company
+
+[PHRASE] 記者たちは彼が現れるのを待ち構えている
+  Reading: きしゃたちは かれが あらわれるのを ちまちかまえている
+  Meaning: Journalists are waiting eagerly for him to show up
+
+[PHRASE] 宿題やらレポートやらで、のんびりする暇もない
+  Reading: しゅくだいやらやらでのんびりする ひまもない
+  Meaning: With all the homework and reports, I dont have free leisure time
+
+[VOCAB] 会社は資本なしには成長できない
+  Reading: かいしゃは しほんなしには せいちょうできない
+  Meaning: The company cannot grow without capital
+
+[PHRASE] 問題は話し合いによって解決した方がいい
+  Reading: もんだいは しはなしあいによって かいけつした ほうがいい
+  Meaning: Its better to come to a settlement by having a discussion
+
+[VOCAB] 田舎は空気からして違う
+  Reading: いなかは くうきからして ちがう
+  Meaning: In the inaka even the atmosphere is different
+
+[VOCAB] 海外旅行中は言動に注意しなさい
+  Reading: かいがいりょこう ちゅうは げんどうに ちゅういしなさい
+  Meaning: Be careful about what you say and do whilst traveling abroad
+
+[VOCAB] 革命で騒然としている国
+  Reading: かくめいで そうぜんとしている くに
+  Meaning: a country seething with revolution
+
+[VOCAB] 私は友達に恵まれている
+  Reading: わたしは ともだちに めぐまれている
+  Meaning: Im blessed with my friends
+
+[PHRASE] ミステリーは、読み始めると止められません
+  Reading: は よみ はじめると とめられません
+  Meaning: You cant stop reading a mystery novel once you start reading it
+
+[VOCAB] この大学は偏差値が高い
+  Reading: この だいがくは へんさちが たかい
+  Meaning: This university is high-ranking
+
+[PHRASE] 品質が良くなるにつれて、値段が高くなる
+  Reading: ひんしつが よくなるにつれて ねだんが たかくなる
+  Meaning: As products quality gets better the price also goes up
+
+[VOCAB] 彼女はまだ仕事の経験が乏しい
+  Reading: かのじょはまだ しごとの けいけんが とぼしい
+  Meaning: She still lacks work experience.
+
+[VOCAB] 頭がガンガンする
+  Reading: あたまがする
+  Meaning: My head is throbbing
+
+[CLEANABLE] 調整
+  Reading: ちょうせいする  (was: 調整（する）)
+  Meaning: To adjust / To regulate
+
+[VOCAB] 止めを刺す
+  Reading: とめを さす
+  Meaning: Finish / Move in for the kill (bleach, literal)
+
+[PHRASE] その会社の再建は難しいとみられる
+  Reading: その かいしゃの さいけんは むずかしいとみられる
+  Meaning: It looks very difficult to rebuild the company (難しいと思われる)
+
+[VOCAB] 円周の長さを求めなさい
+  Reading: えんしゅうの ながさを もとめなさい
+  Meaning: Find the length of the circumference
+
+[VOCAB] 臓器 / 内蔵
+  Reading: ぞうき ないぞう
+  Meaning: Ones internal organs
+
+[PHRASE] 戦争のニュースを聞くにつけ、心が痛む
+  Reading: せんそうのを きくにつけ こころが いたむ
+  Meaning: Every team I hear the news of the war, heart aches
+
+[VOCAB] 陰気な部屋
+  Reading: いんきな へや
+  Meaning: a gloomy room
+
+[PHRASE] 学生が多ければ多いほど、選ばれるのが難しい
+  Reading: がくせいが おおければ おおいほど えらばれるのが むずかしい
+  Meaning: The more students there are, the more difficult it is to be selected
+
+[VOCAB] 経口の
+  Reading: けいこうの
+  Meaning: Oral (medicine etc)
+
+[VOCAB] 二つのコツ
+  Reading: ふたつの
+  Meaning: Two tricks / secrets / know how (from lifehacker)
+
+[VOCAB] 事故の状況を再現する
+  Reading: じこの じょうきょうを さいげんする
+  Meaning: Reenact the accident
+
+[PHRASE] 友達が面白いと言っていたから、この映画を見ようか？
+  Reading: ともだちが おもしろいと いっていたからこの えいがを みようか
+  Meaning: Shall we see this film? My friend says its good
+
+[PHRASE] 日本語は、勉強すれば勉強するほど面白くなると思う
+  Reading: にほんごは べんきょうすれば べんきょうするほど おもしろくなると おもう
+  Meaning: I think that the more you study Japanese the more interesting you will find it
+
+[PHRASE] 彼は、毎日国境を越えて通勤している
+  Reading: かれは まいにち こっきょうを こえて つうきんしている
+  Meaning: Every day he goes over the country border for work
+
+[VOCAB] 鋭利な武器
+  Reading: えいりな ぶき
+  Meaning: an incisive weapon
+
+[PHRASE] 自分の誕生日を忘れるなんていかにも彼らしい
+  Reading: じぶんの たんじょうびを わすれるなんていかにも かれらしい
+  Meaning: Its just like him to forget his own birthday
+
+[PHRASE] テレビを見てばかりいると勉強出来ない
+  Reading: を みてばかりいると べんきょう できない
+  Meaning: If you watch TV all the time you can't study
+
+[VOCAB] げろ(でる)
+  Reading: げろでる
+  Meaning: Vomit / Puke / Spew
+
+[PHRASE] その企業は経営を立て直す必要がある
+  Reading: その きぎょうは けいえいを てたてなおす ひつようがある
+  Meaning: The company needs a management reorganize (or rally!)
+
+[PHRASE] こつこつ練習すれば必ず上達しますよ
+  Reading: こつこつ れんしゅうすれば かならず じょうたつしますよ
+  Meaning: If you study bit by bit you will surely make progress
+
+[VOCAB] 元々先生のものだったから
+  Reading: もともと せんせいのものだったから
+  Meaning: Because it was originally the teachers thing
+
+[VOCAB] いいところへ来ましたね
+  Reading: いいところへ きましたね
+  Meaning: Ah, you came at the right time
+
+[VOCAB] 多重(な)
+  Reading: たじゅうな
+  Meaning: Multiple (X)
+
+[VOCAB] 夏場は食中毒の発生が増える
+  Reading: なつばは しょくちゅうどくの はっせいが ふえる
+  Meaning: Cases of food poisoning increase in the summer
+
+[PHRASE] 明日は授業がないから、今夜、どこかに食べに行こう
+  Reading: あしたは じゅぎょうがないから こんやどこかに たべに いこう
+  Meaning: We dont have any classes tomorrow, so lets go some place for dinner tonight
+
+[VOCAB] 創造する ／　創造的に
+  Reading: そうぞうする そうぞうてきに
+  Meaning: To Create / Creatively
+
+[VOCAB] 本の虫
+  Reading: のほんのむし
+  Meaning: Bookworm
+
+[VOCAB] 洋式　/ 　洋風
+  Reading: ようしき ようふう
+  Meaning: Western Style
+
+[VOCAB] 部下が疲労で倒れたの
+  Reading: ぶかが ひろうで たおれたの
+  Meaning: My subordinate collapsed from fatigue.
+
+[PHRASE] 彼女の過激な発言にぎょっとしたよ
+  Reading: かのじょの かげきな はつげんにぎょっとしたよ
+  Meaning: I was startled by her extreme remarks
+
+[VOCAB] を機に　Grammar
+  Reading: を きに
+  Meaning: を機会として / To use as an opportunity to do X
+
+[VOCAB] 過密なスケジュール
+  Reading: かみつな
+  Meaning: A very tight schedule
+
+[VOCAB] イカサマをする
+  Reading: をする
+  Meaning: Another word to cheat (not カンニング、騙す、ごまかす), from liar game. Also means "quack" or "funny business"
+
+[PHRASE] このソフトで画像を補正することができる
+  Reading: こので がぞうを ほせいすることができる
+  Meaning: You can correct images with this software
+
+[VOCAB] 童顔の人
+  Reading: どうがんの ひと
+  Meaning: Baby faced person
+
+[VOCAB] この漢字の筆順は分かりますか？
+  Reading: この かんじの ひつじゅんは わかりますか
+  Meaning: Do you know the correct stroke order of this kanji?
+
+[VOCAB] 気にされないほうがいいよ
+  Reading: きにされないほうがいいよ
+  Meaning: Its best not to be bothered by it
+
+[VOCAB] 彼女の猫は首に鈴を付けている
+  Reading: かのじょの ねこは くびに すずを つけている
+  Meaning: Her cat has a bell on its neck
+
+[PHRASE] イギリスは、冬寒い代わり、夏が涼しい
+  Reading: は ふゆ さむい かわり なつが すずしい
+  Meaning: England is cold in winter, but cool in summer
+
+[VOCAB] 居心地の「良い／悪い」
+  Reading: いごこちの よい わるい
+  Meaning: Comfortable / Uncomfortable
+
+[PHRASE] 向こうに着き次第、電話してください
+  Reading: むこうに つき しだい でんわしてください
+  Meaning: As soon as you have arrived over there, please call me
+
+[VOCAB] 習慣は国によって違う
+  Reading: しゅうかんは くにによって ちがう
+  Meaning: Customs are different depending on the country
+
+[PHRASE] インドのカレーは、涙が出るほど辛いことがある
+  Reading: のは なみだが でるほど つらいことがある
+  Meaning: Sometimes, Indian is so hot that it brings tears to your eyes
+
+[PHRASE] 仲のいい友達と旅行するほど楽しい事は無い
+  Reading: なかのいい ともだちと りょこうするほど たのしい ことは ない
+  Meaning: There is nothing more fun than taking a trip with good friends
+
+[PHRASE] せめて一度は日本へ行ってみたいと思う人が多いだろう
+  Reading: せめて どは にっぽんへ いってみたいと おもう ひとが おおいだろう
+  Meaning: There must be a lot of people who would like to visit Japan at least once
+
+[VOCAB] 動物は自在に動く
+  Reading: どうぶつは じざいに うごく
+  Meaning: Animals can move at will
+
+[PHRASE] 僕とサミー以外は誰一人として知らない
+  Reading: ぼくと いがいは だれひとりとして しらない
+  Meaning: Not a soul knows except me and Sammy
+
+[PHRASE] この薬はよくきく反面、副作用がある
+  Reading: この くすりはよくきく はんめん ふくさようがある
+  Meaning: This medicine is effective, but on the other hand there are side effects
+
+[PHRASE] 試験が近づくにしたがって、緊張が高まる
+  Reading: しけんが ちかづくにしたがって きんちょうが たかまる
+  Meaning: As the exam gets closer, feel more nervous
+
+[PHRASE] 全ての惑星が直列することはめったにない
+  Reading: すべての わくせいが ちょくれつすることはめったにない
+  Meaning: It is very rare that all the planets are in line
+
+[PHRASE] 私は彼女に英語で話さないでほしい
+  Reading: わたしは かのじょに えいごで はなさないでほしい
+  Meaning: I dont want my girlfriend to speak in English
+
+[PHRASE] この地域では、今度も大きい地震が来るとみられている
+  Reading: この ちいきでは こんども おおきい じしんが くるとみられている
+  Meaning: This area is expected to have a major earthquake again in the future (来ると考えられている)
+
+[PHRASE] 私達の生活は、どんどん変わっていくでしょう
+  Reading: わたし たちの せいかつはどんどん かわっていくでしょう
+  Meaning: Our lifestyle will continue to change rapidly
+
+[PHRASE] 後任者が決まらないので辞めるに辞められない
+  Reading: こうにん しゃが きまらないので やめるに やめられない
+  Meaning: Because my successor hasn't been chosen yet, I haven't been able to resign
+
+[VOCAB] その国の政治は退廃している
+  Reading: その くにの せいじは たいはいしている
+  Meaning: Politics in that country are corrupt
+
+[PHRASE] 日本語は下手ばかりに、いいアルバイトが探せません
+  Reading: にほんごは へたばかりにいいが さがせません
+  Meaning: Because I'm bad at Japanese, I can't look for a good part time job
+
+[VOCAB] 泡を立てないでください
+  Reading: あわを たてないでください
+  Meaning: No head on my beer please
+
+[PHRASE] 年を取るにつれて、昔のことがなつかしく思い出される
+  Reading: としを とるにつれて むかしのことがなつかしく いおもいだされる
+  Meaning: As one gets older, one recalls things from the past nostalgically
+
+[PHRASE] いまさら担当者を責めてもはじまらない
+  Reading: いまさら たんとうしゃを せめてもはじまらない
+  Meaning: It’s no use blaming the person in charge now
+
+[CLEANABLE] 返品
+  Reading: へんぴんする  (was: 返品（する）)
+  Meaning: To return (merchandise)
+
+[CLEANABLE] 満足
+  Reading: まんぞくする  (was: 満足（する）)
+  Meaning: To Satisfy / be content
+
+[VOCAB] この土地は傾斜が大きい
+  Reading: この とちは けいしゃが おおきい
+  Meaning: The slope on this land is steep
+
+[PHRASE] パスポートを申請する際に必要なものを教えてください
+  Reading: を しんせいする さいに ひつようなものを おしえてください
+  Meaning: When applying for a passport please tell me what I need
+
+[VOCAB] 陰鬱な空
+  Reading: いんうつな そら
+  Meaning: a gloomy sky
+
+[VOCAB] けんさんが来てから、食べよう
+  Reading: けんさんが きてから たべよう
+  Meaning: Lets start eating after Ken has arrived
+
+[PHRASE] 彼のヘッドフォンから音が漏れているね
+  Reading: かれのから おとが もれているね
+  Meaning: Sound is leaking from his headphones.
+
+[PHRASE] 私はいつも音楽を聞きながら日本語を勉強する
+  Reading: わたしはいつも おんがくを ききながら にほんごを べんきょうする
+  Meaning: I always study Japanese while listening to music
+
+[VOCAB] この仕事、死ぬほどしんどい
+  Reading: この しごと しぬほどしんどい
+  Meaning: This job is killing me
+
+[PHRASE] 日本語は、勉強しなければしないほど分からなくなる
+  Reading: にほんごは べんきょうしなければしないほど わからなくなる
+  Meaning: The less you study Japanese, the less you will begin to understand it
+
+[PHRASE] ど忘れする 「彼女の名前をど忘れした」
+  Reading: ど わすれする かのじょの なまえをど わすれした
+  Meaning: Make a fluff [ Forgot her name for a moment ]
+
+[PHRASE] お金は無い時は、アルバイトをするより仕方がない
+  Reading: お かねは ない ときはをするより しかたがない
+  Meaning: When one doesnt have any money, one doesnt have any choice but to work part time
+
+[PHRASE] 季節に応じ、体の色を変えるウサギがいる
+  Reading: きせつに おうじ からだの いろを かえるがいる
+  Meaning: Depending on the season, there are rabbits that can change their colour ( に応じて )
+
+[PHRASE] 寒いと言っても、湖が凍ることはない
+  Reading: さむいと いっても みずうみが こおることはない
+  Meaning: Although I said its cold, the lakes never freeze
+
+[PHRASE] いつ起こるか分からない災害に備えておきましょう
+  Reading: いつ おこるか わからない さいがいに そなえておきましょう
+  Meaning: Let's prepare for the disasters we can't see predict
+
+[PHRASE] このあたりでは暴走族がのさばっている
+  Reading: このあたりでは ぼうそうぞくがのさばっている
+  Meaning: A gang of hotrodders have everything their own way in this neighborhood
+
+[VOCAB] 数千年前のものと判別
+  Reading: すう せん ねん まえのものと はんべつ
+  Meaning: Determined its a few thousand years old
+
+[VOCAB] この服は上下セットで買いま
+  Reading: この ふくは じょうげで かいま
+  Meaning: I bought these clothes as a top and bottoms set.
+
+[VOCAB] 万歳三唱
+  Reading: ばんざいさんしょう
+  Meaning: Three cheers
+
+[VOCAB] 中央改札に九千七百六人がいる
+  Reading: ちゅうおう かいさつに せん ひゃく にんがいる
+  Meaning: At the central gate there are 9706 people
+
+[VOCAB] か弱い男性はあまりもてない
+  Reading: か よわい だんせいはあまりもてない
+  Meaning: Weak men are not so popular
+
+[VOCAB] 度胸のないやつだな
+  Reading: どきょうのないやつだな
+  Meaning: Your a coward huh, chicken hearted
+
+[PHRASE] こんなまずいレストランへは二度と来るまい！
+  Reading: こんなまずいへは にどと くるまい
+  Meaning: I wont be coming to this bad restaurant a second time!
+
+[VOCAB] 宝くじなんて当たりっこないよ
+  Reading: たからくじなんて あたりっこないよ
+  Meaning: Theres no way I can win the lottery!
+
+[VOCAB] うんうんと
+  Reading: うんうんと
+  Meaning: Sound indicating agreement / Grunting or groaning sound
+
+[PHRASE] 急ぐ必要はない. 時間はふんだんにある
+  Reading: いそぐ ひつようはない じかんはふんだんにある
+  Meaning: There's no rush. We have plenty of time
+
+[PHRASE] もし水がなければ、人間は存続できないだろう
+  Reading: もし みずがなければ にんげんは そんぞくできないだろう
+  Meaning: If it were not for water, humans could not survive
+
+[PHRASE] というと　ー＞　 Speaking of
+  Reading: というと
+  Meaning: というと　ー＞　 Speaking of
+
+[VOCAB] オナにをする
+  Reading: にをする
+  Meaning: To masturbate
+
+[PHRASE] いまさら、後悔してもはじまらない
+  Reading: いまさら こうかいしてもはじまらない
+  Meaning: It is too late to regret now
+
+[VOCAB] 路面の凍結に注意してください
+  Reading: ろめんの とうけつに ちゅういしてください
+  Meaning: Please be careful of ice on the road
+
+[VOCAB] 閉会　／　閉会式
+  Reading: へいかい へいかいしき
+  Meaning: Closure / Closing Ceremony
+
+[PHRASE] その子供はまるで大人であるかのような話し方をする
+  Reading: その こどもはまるで おとなであるかのような しはなしかたをする
+  Meaning: The child talks as if he were an adult
+
+[PHRASE] 毎日ご飯を作らないで済むといいですね
+  Reading: まいにちご はんを つくらないで すむといいですね
+  Meaning: It will be nice if we dont have to cook every day, dont you think?
+
+[PHRASE] 彼が無口で、一緒にいると退屈でかなわない
+  Reading: かれが むくちで いっしょにいると たいくつでかなわない
+  Meaning: He’s a man of few words. I can’t stand being with him because it’s so boring
+
+[CLEANABLE] 待機
+  Reading: たいきする  (was: 待機（する）)
+  Meaning: Be on call / standby
+
+[VOCAB] べからざる　Grammar
+  Reading: べからざる
+  Meaning: Must not / Cannot
+
+[PHRASE] やると決めたからには最後までやれ
+  Reading: やると きめたからには さいごまでやれ
+  Meaning: As long as you commit yourself to do it, stick with it to the very end.
+
+[VOCAB] 決勝〜
+  Reading: けっしょう
+  Meaning: Final (line/point/etc)
+
+[PHRASE] 日本語は毎日勉強するようにしてください
+  Reading: にほんごは まいにち べんきょうするようにしてください
+  Meaning: Please try to study Japanese every day
+
+[VOCAB] UNIXの中核
+  Reading: の ちゅうかく
+  Meaning: Unix Kernel / Core
+
+[VOCAB] まだ首がつながっている
+  Reading: まだ くびがつながっている
+  Meaning: One has managed to keep ones job (bit of an idiom this)
+
+[VOCAB] (演)劇
+  Reading: げき
+  Meaning: Play (theatrical)
+
+[PHRASE] 総理大臣の今後の動静が注目されている
+  Reading: そうりだいじんの こんごの どうせいが ちゅうもくされている
+  Meaning: Prime Ministers future status is the focus of attention
+
+[VOCAB] 強制的に参加させる
+  Reading: きょうせいてきに さんかさせる
+  Meaning: Force someone to participate
+
+[VOCAB] に限ったことではない
+  Reading: に かぎったことではない
+  Meaning: Basically "not only" , "not limited to"
+
+[VOCAB] 明日から来なくていい
+  Reading: あしたから こなくていい
+  Meaning: From tomorrow dont bother coming back
+
+[VOCAB] 身なりを正しなさい
+  Reading: みなりを ただしなさい
+  Meaning: Fix yourself up
+
+[PHRASE] 役者の豪華絢爛な衣装をよくご覧になってください
+  Reading: やくしゃの ごうかけんらんな いしょうをよくご らんになってください
+  Meaning: Please take a good look at the gorgeous costumes of the actors
+
+[VOCAB] 四面楚歌
+  Reading: しめんそか
+  Meaning: Being surrounded by enemies on all sides / being betrayed by everybody
+
+[PHRASE] この争いには僕はどちらにも加担したくない
+  Reading: この あらそいには ぼくはどちらにも かたんしたくない
+  Meaning: I'll be neutral in this dispute
+
+[PHRASE] 毎日三時間日本語を勉強しようと思っています！
+  Reading: まいにち じかん にほんごを べんきょうしようと おもっています
+  Meaning: I`ve decided Im going to study Japanese for three hours a day
+
+[VOCAB] 闇取引 ／ 闇金融
+  Reading: やみとりひき やみきんゆう
+  Meaning: Black market
+
+[VOCAB] のろ猫がゴミ箱を漁っている
+  Reading: のろ ねこが ごみばこを あさっている
+  Meaning: A stray cat is going through the garbage bin (fishing, hunting, searching)
+
+[PHRASE] イギリスの警察官は丸腰で巡回する
+  Reading: の けいさつかんは まるごしで じゅんかいする
+  Meaning: The police officials do their rounds unarmed in Britain
+
+[VOCAB] 明日来ないみたいですね
+  Reading: あした こないみたいですね
+  Meaning: Looks like he wont be coming tomorrow
+
+[VOCAB] 靴を脱がなくてもいい
+  Reading: くつを ぬがなくてもいい
+  Meaning: You don't need to take your shoes off
+
+[VOCAB] 一顧だにしない
+  Reading: いっこだにしない
+  Meaning: Pay no attention / Ignore
+
+[VOCAB] この靴下を繕ってください
+  Reading: この くつしたを つくろってください
+  Meaning: Please mend these socks
+
+[PHRASE] ３時きっかりにここに来てください
+  Reading: じきっかりにここに きてください
+  Meaning: Please come here at 3 o'clock precisely.
+
+[PHRASE] 彼女は、黒ずくめのめだたない服装をしている
+  Reading: かのじょは くろずくめのめだたない ふくそうをしている
+  Meaning: She is dressed very inconspicuously in black
+
+[VOCAB] パンが買ってある
+  Reading: が かってある
+  Meaning: Bread has been bought and is ready
+
+[PHRASE] がちだ - refers to FREQUENCY
+  Reading: がちだ
+  Meaning: がちだ - refers to FREQUENCY
+
+[VOCAB] 重点のみを話してください
+  Reading: じゅうてんのみを はなしてください
+  Meaning: Please tell me just the main point
+
+[PHRASE] この挽肉でハンバーグを作りましょう
+  Reading: この ひきにくでを つくりましょう
+  Meaning: Lets make hamburgers from this mince meat
+
+[PHRASE] この仕事は訓練を受けてからでないと無理でしょう
+  Reading: この しごとは くんれんを うけてからでないと むりでしょう
+  Meaning: For this job, without training first its impossible deshou!
+
+[PHRASE] 私がいくら腹を立ててもはじまらない
+  Reading: わたしがいくら はらを たててもはじまらない
+  Meaning: I can be irritated all I want and it won’t do any good
+
+[VOCAB] 彼はいまに先生を凌駕する
+  Reading: かれはいまに せんせいを りょうがする
+  Meaning: He will soon outdo his teacher
+
+[VOCAB] 暑苦しい部屋
+  Reading: あつくるしい へや
+  Meaning: A stuffy room
+
+[PHRASE] 傘を持っていない日に限って、雨が降る
+  Reading: かさを もっていない ひに かぎって あめが ふる
+  Meaning: Especially on days when I dont have an umbrella, it rains
+
+[VOCAB] ゆったりとしたスカートを履く
+  Reading: ゆったりとしたを はく
+  Meaning: To put on a loose skirt
+
+[PHRASE] 今日は平日なのに、いつにもましてお客さんが多い
+  Reading: きょうは へいじつなのにいつにもましてお きゃくさんが おおい
+  Meaning: There are more customers today even though its a weekday (いつも多いが、いつもよりもっと)
+
+[VOCAB] 彼は無難な意見しか言わない
+  Reading: かれは ぶなんな いけんしか いわない
+  Meaning: He only gives safe opinions
+
+[VOCAB] 双方とも 平和を希求している
+  Reading: そうほうとも へいわを ききゅうしている
+  Meaning: Both sides are longing for peace
+
+[VOCAB] 彼女は失敗から立ち直ったよ
+  Reading: かのじょは しっぱいから ちたちなおったよ
+  Meaning: She recovered from the failure.
+
+[VOCAB] さっぱり〜ない
+  Reading: さっぱりない
+  Meaning: Not at all
+
+[VOCAB] 私は空を見上げたの
+  Reading: わたしは そらを みあげたの
+  Meaning: I looked up at the sky
+
+[VOCAB] 真のマンチェスター市民のクラブ
+  Reading: しんの しみんの
+  Meaning: Club for proper / genuine citizens of Manchester
+
+[VOCAB] 点線を書く
+  Reading: てんせんを かく
+  Meaning: To draw a dotted line
+
+[VOCAB] 克明に規則を守っている
+  Reading: こくめいに きそくを まもっている
+  Meaning: He observes the rules conscientiously―scrupulously―religiously
+
+[PHRASE] 今日だけは悲しいままでいさせてほしい
+  Reading: きょうだけは かなしいままでいさせてほしい
+  Meaning: For only today, I want you to let me stay in this sad condition
+
+[VOCAB] 真のマリオ
+  Reading: しんの
+  Meaning: The proper / genuine / real / true Mario! (Balotelli)
+
+[PHRASE] 家が海に近いおかげで、新鮮な魚が食べられる
+  Reading: いえが うみに ちかいおかげで しんせんな さかなが たべられる
+  Meaning: Thanks to the house being close to the sea, we can eat fresh fish
+
+[PHRASE] 弟は家族の心配もかまわず、危険な冬山へ行こうとする
+  Reading: おとうとは かぞくの しんぱいもかまわず きけんな ふゆやまへ いこうとする
+  Meaning: Without caring about his families worries, the younger brother wants to try and do the dangerous winter mountain (?)
+
+[PHRASE] 台風がこのまま北上すると、日本に上陸する恐れがある
+  Reading: たいふうがこのまま ほくじょうすると にっぽんに じょうりくする おそれがある
+  Meaning: If the typhoon keeps moving north this way, I fear that it may make landfall in Japan
+
+[VOCAB] このコンピューターは壊れている
+  Reading: このは こわれている
+  Meaning: This computer is broken
+
+[PHRASE] この会社はお金があるのに、給料は低い
+  Reading: この かいしゃはお かねがあるのに きゅうりょうは ひくい
+  Meaning: This company is rich, but its workers salaries are low
+
+[PHRASE] だれかご用を承っておりましょうか？
+  Reading: だれかご ようを うけたまわっておりましょうか
+  Meaning: Are you being attended to? (being served)
+
+[PHRASE] 新聞を読めないことはないんですが...
+  Reading: しんぶんを よめないことはないんですが
+  Meaning: It's not that I don't read newspapers, but ...
+
+[VOCAB] 彼は私よりちょっぴり背が高い
+  Reading: かれは わたしよりちょっぴり せが たかい
+  Meaning: He is a mite taller than I am
+
+[PHRASE] 試験では一秒たりとも時間を無駄に使ってはいけません
+  Reading: しけんでは びょうたりとも じかんを むだに つかってはいけません
+  Meaning: You should not waste even one second during the exam
+
+[PHRASE] いったん日本へ行けば、会話は上手になる
+  Reading: いったん にっぽんへ いけば かいわは じょうずになる
+  Meaning: Once you go to Japan, your speaking will improve
+
+[PHRASE] 台風は毎日、夏から秋にかけて日本を襲う
+  Reading: たいふうは まいにち なつから あきにかけて にっぽんを おそう
+  Meaning: Typhoons every year, from summer to autumn will be hitting Japan (intermittently)
+
+[PHRASE] 彼くらい日本語が話せば、通訳ができるだろう
+  Reading: かれくらい にほんごが はなせば つうやくができるだろう
+  Meaning: If you can speak Japanese like him, you can be a translator right?
+
+[PHRASE] スイスというと何をイメージしますか？
+  Reading: というと なにをしますか
+  Meaning: When you hear 'Switzerland' what does it invoke in your mind?
+
+[PHRASE] 赤ちゃんは、ペンギンのように歩く
+  Reading: あかちゃんはのように あるく
+  Meaning: Babies walk like penguins
+
+[VOCAB] 不可能を可能にする
+  Reading: ふかのうを かのうにする
+  Meaning: Make the impossible, possible
+
+[PHRASE] 必要な８０円切手の枚数を教えてください
+  Reading: ひつような えん きっての まいすうを おしえてください
+  Meaning: Please tell me how many eighty-yen stamps you want
+
+[VOCAB] あの子供は楽しげだね？
+  Reading: あの こどもは たのしげだね
+  Meaning: Those kids seem happy don't they?
+
+[VOCAB] じゃあ、家に帰ったらどう？
+  Reading: じゃあ いえに かえったらどう
+  Meaning: Then, how about going home?
+
+[VOCAB] ３かける３メートル
+  Reading: かける
+  Meaning: 3x3 metres
+
+[VOCAB] 気のせいですね
+  Reading: きのせいですね
+  Meaning: You are imagining things / It must be your imagination eh
+
+[PHRASE] 早く手術しないと、手遅れになる恐れがある
+  Reading: はやく しゅじゅつしないと ておくれになる おそれがある
+  Meaning: If you dont get surgery quickly, I fear that it will become too late
+
+[CLEANABLE] 急転
+  Reading: きゅうてんする  (was: 急転（する）)
+  Meaning: To change suddenly / take a sudden turn
+
+[PHRASE] お客様に対して、失礼な事言ってはいけません
+  Reading: お きゃくさまに たいして しつれいな こと いってはいけません
+  Meaning: In response to customers, it is not good to say rude things ( に対して )
+
+[PHRASE] でなくてなんだろう　Grammar
+  Reading: でなくてなんだろう
+  Meaning: If thats not ..... I don't know what is
+
+[VOCAB] 彼は逆玉を狙っている
+  Reading: かれは ぎゃく たまを ねらっている
+  Meaning: He is aiming to marry a wealthy woman
+
+[VOCAB] 宇宙には不変の法則がある
+  Reading: うちゅうには ふへんの ほうそくがある
+  Meaning: There are immutable laws in space
+
+[PHRASE] 必要に応じて気兼ねなく編集を行ってください
+  Reading: にひつようにおうじて きがねなく へんしゅうを おこなってください
+  Meaning: Please feel free to edit as needed
+
+[VOCAB] 食べ物をがっつく人
+  Reading: べたべものをがっつく ひと
+  Meaning: someone who eats food rapidly and greedily
+
+[PHRASE] その３色の絵の具を混ぜてください
+  Reading: その しょくの のえのぐを まぜてください
+  Meaning: Please mix the three colours of paint
+
+[VOCAB] 罰金を3万円もとられたよ
+  Reading: ばっきんを  まん えんもとられたよ
+  Meaning: I was fined no less than 30,000 yen.
+
+[VOCAB] ドシドシ働け
+  Reading: はたらけ
+  Meaning: Work away!
+
+[PHRASE] たくさんあって、とても食べ切れません
+  Reading: たくさんあってとても たべ きれません
+  Meaning: There is so much that I can't possibly eat it all
+
+[VOCAB] ストーブの灯油がなくなったわよ
+  Reading: の とうゆがなくなったわよ
+  Meaning: The kerosene for the stove has run out.
+
+[PHRASE] 父の料理は見た目こそ悪いが、とてもいい味をしている
+  Reading: ちちの りょうりは たみためこそ わるいがとてもいい あじをしている
+  Meaning: My fathers dishes dont look nice but they are delicious (悪いのは見た目だけで)
+
+[VOCAB] 戦争は国の財産を枯渇させる
+  Reading: せんそうは くにの ざいさんを こかつさせる
+  Meaning: War is a great drain upon a country's resources
+
+[VOCAB] 印刷機が安いほど、インクが高い
+  Reading: いんさつきが やすいほどが たかい
+  Meaning: The cheaper the printer the more expensive the ink
+
+[VOCAB] 皆が恒久平和を望んでいる
+  Reading: みなが こうきゅう へいわを のぞんでいる
+  Meaning: Everyone hopes for permanent peace
+
+[VOCAB] お医者さんごっこをする
+  Reading: お いしゃさんごっこをする
+  Meaning: To play doctor
+
+[VOCAB] 退屈といったらない
+  Reading: たいくつといったらない
+  Meaning: extremely boring
+
+[VOCAB] そんな悪徳業者には賛成しかねる
+  Reading: そんな あくとく ぎょうしゃには さんせいしかねる
+  Meaning: I cannot agree with such an unscrupulous businessman
+
+[VOCAB] ~てもはじまらない
+  Reading: てもはじまらない
+  Meaning: it’s no use…
+
+[PHRASE] こんなに雪が降っては、どこにも出かけられない
+  Reading: こんなに ゆきが ふってはどこにも でかけられない
+  Meaning: I can't go out when it snows this much
+
+[PHRASE] その会社の製品の真価は長期間使うと良く分かる
+  Reading: その かいしゃの せいひんの しんかは ちょうきかん つかうと よく わかる
+  Meaning: You can understand the true value of that company's products after using them for a long time
+
+[PHRASE] パスワードを尋ねる不審なメールに注意してください
+  Reading: を たずねる ふしんなに ちゅういしてください
+  Meaning: Be careful of suspicious emails that ask for your password
+
+[VOCAB] シェアを獲得する
+  Reading: を かくとくする
+  Meaning: To gain market share
+
+[VOCAB] ちょっと危ない気がする
+  Reading: ちょっと あぶない きがする
+  Meaning: I have a feeling&nbsp;&nbsp;its a little dangerous
+
+[VOCAB] 昼飯ぬきで仕事をした.
+  Reading: ひるめしぬきで しごとをした
+  Meaning: I continued work without having lunch.
+
+[PHRASE] 先生の論文を読ませていただけないでしょうか？
+  Reading: せんせいの ろんぶんを よませていただけないでしょうか
+  Meaning: Would you mind letting me read your paper? (super polite)
+
+[VOCAB] その話は本当のような気がする
+  Reading: その はなしは ほんとうのような きがする
+  Meaning: Something tells me that this story is true
+
+[VOCAB] 有りの侭
+  Reading: りのありのまま
+  Meaning: As it is / unchanged
+
+[VOCAB] 大敗北を喫す
+  Reading: だい はいぼくを きっす
+  Meaning: To suffer a huge defeat
+
+[VOCAB] 誰が一番上手か分からない
+  Reading: だれが いちばん じょうずか わからない
+  Meaning: I don't know who is the best
+
+[VOCAB] ぐっすり眠ている
+  Reading: ぐっすり ねむている
+  Meaning: Sleeping soundly
+
+[PHRASE] 手紙を書かないまでも電話くらいしろ
+  Reading: てがみを かかないまでも でんわくらいしろ
+  Meaning: If you cant be bothered to write to me, at least call
+
+[PHRASE] 必ずしも高いものがいいというわけではない
+  Reading: かならずしも たかいものがいいというわけではない
+  Meaning: It is not necessarily the case that expensive things are good
+
+[PHRASE] 山下先生に会ったら、そのことを聞こうと思う
+  Reading: やました せんせいに あったらそのことを きこうと おもう
+  Meaning: I will ask about it if I see professor Yamashita
+
+[PHRASE] 両親が日本にいる間に京都に連れていきたい
+  Reading: りょうしんが にっぽんにいる まに きょうとに つれていきたい
+  Meaning: I want to take my parents to Kyoto while they are in Japan
+
+[VOCAB] この笛は竹でできている
+  Reading: この ふえは たけでできている
+  Meaning: This flute is made of bamboo.
+
+[PHRASE] ステーキは、おはしでは食べにくい
+  Reading: はおはしでは たべにくい
+  Meaning: Steaks are difficult to eat with chopsticks
+
+[VOCAB] 月並みですがお幸せに
+  Reading: つきなみですがお しあわせに
+  Meaning: This may sound trite, but I sincerely wish you much happiness
+
+[VOCAB] 水に浸す
+  Reading: みずに ひたす
+  Meaning: To immerse into water
+
+[PHRASE] 性格は絶対に変えられないというものではない
+  Reading: せいかくは ぜったいに かえられないというものではない
+  Meaning: Cant fully say that ones personality will never change
+
+[VOCAB] 一石二鳥
+  Reading: いっせきにちょう
+  Meaning: Two birds with one stone
+
+[VOCAB] 美女　・　美人
+  Reading: びじょ びじん
+  Meaning: 美しい女の人
+
+[PHRASE] 田中さんは忙しいとみえて、このごろ電話もしてこない
+  Reading: たなかさんは いそがしいとみえてこのごろ でんわもしてこない
+  Meaning: Tanaka-san seems to be very busy, that is maybe why he has not called
+
+[PHRASE] コンピューターの使い方についての本が欲しい
+  Reading: の いつかいかたについての ほんが ほしい
+  Meaning: I want a book about how to use a computer ( について )
+
+[VOCAB] とっくに帰ったよ
+  Reading: とっくに かえったよ
+  Meaning: Already gone home
+
+[VOCAB] その事件は明日時効になる
+  Reading: その じけんは あした じこうになる
+  Meaning: The statute of limitations on the case runs out tomorrow
+
+[VOCAB] 湖を眺める
+  Reading: みずうみを ながめる
+  Meaning: Gaze [look upon] the lake
+
+[PHRASE] 彼を見るにつけ、私の兄を思い出す
+  Reading: かれを みるにつけ わたしの あにを いおもいだす
+  Meaning: each time I see him, I’m reminded of my brother
+
+[VOCAB] Ｆ東京、来季のＪ１復帰が決定
+  Reading: えふ とうきょう らいきの じぇい ふっきが けってい
+  Meaning: FC Tokyo return to J1 next season confirmed
+
+[VOCAB] 事件の背景を説明してください
+  Reading: じけんの はいけいを せつめいしてください
+  Meaning: Please explain the background of this case
+
+[VOCAB] もっと勉強したらどう？
+  Reading: もっと べんきょうしたらどう
+  Meaning: Why dont you study harder?
+
+[PHRASE] この二つは別個の問題として扱いましょう
+  Reading: この ふたつは べっこの もんだいとして あつかいましょう
+  Meaning: Lets treat these two as distinct problems
+
+[VOCAB] それは想定されている
+  Reading: それは そうていされている
+  Meaning: That is being assumed
+
+[VOCAB] 同時（に）
+  Reading: どうじに
+  Meaning: Same time / At the same time
+
+[VOCAB] お坊さんが鐘を鳴らしていますね
+  Reading: お ぼうさんが かねを ならしていますね
+  Meaning: The priest is ringing the gong.
+
+[PHRASE] その話はぬきにして飲みましょう.
+  Reading: その はなしはぬきにして のみましょう
+  Meaning: Let's drink without getting into that topic.
+
+[VOCAB] 映画化された小説は多い
+  Reading: えいが かされた しょうせつは おおい
+  Meaning: There are many books which have been made into movies
+
+[VOCAB] 私にこの仕事をやらせてください
+  Reading: わたしにこの しごとをやらせてください
+  Meaning: Please let me do this job
+
+[VOCAB] 災難だったな
+  Reading: さいなんだったな
+  Meaning: That was a disaster / a calamity
+
+[VOCAB] 元日は休み
+  Reading: がんじつは やすみ
+  Meaning: New years day is a holiday
+
+[PHRASE] イギリス人かと思ったらアメリカ人だって
+  Reading: いぎりすじんかと おもったら あめりかじんだって
+  Meaning: Just when I was thinking he was English, he said he was American
+
+[PHRASE] パリへ行くついでにロンドンに寄る
+  Reading: へ いくついでにに よる
+  Meaning: Since I am going to go to Paris, anyway, I will also drop by London
+
+[VOCAB] X 乗
+  Reading: じょう
+  Meaning: (nth) power
+
+[VOCAB] 彼女に気があるのかい？
+  Reading: かのじょに きがあるのかい
+  Meaning: Do you fancy her?
+
+[PHRASE] 約束したからには、守らなければいけない
+  Reading: やくそくしたからには まもらなければいけない
+  Meaning: As long as is promised, have to keep it
+
+[PHRASE] いつにするかはともかく、どこにしましょうか？
+  Reading: いつにするかはともかくどこにしましょうか
+  Meaning: Leaving aside the date, where shall we do it?
+
+[VOCAB] 未定義(動作)
+  Reading: みていぎ どうさ
+  Meaning: Undefined (behaviour)
+
+[VOCAB] 兄に比べて、弟はよく勉強する
+  Reading: あにに くらべて おとうとはよく べんきょうする
+  Meaning: Compared to his old brother, the younger brother studies well
+
+[PHRASE] 自分で決めた道だから、たとえ失敗しても後悔しない
+  Reading: じぶんで きめた みちだからたとえ しっぱいしても こうかいしない
+  Meaning: Because it was the path I decided by myself, even if I fail I wont regret
+
+[VOCAB] このカメラはどこの製品ですか？
+  Reading: このはどこの せいひんですか
+  Meaning: What make is this camera?
+
+[PHRASE] 今回の地震による被害は数兆円に登ると言われている
+  Reading: こんかいの じしんによる ひがいは すう ちょう えんに のぼると いわれている
+  Meaning: It is said that the damage due to the earthquake is likely to climb up to many 兆s of yen
+
+[VOCAB] 昨日はこの冬一番寒さだったとか
+  Reading: きのうはこの ふゆ いちばん さむさだったとか
+  Meaning: Apparently, yesterday was this winters coldest
+
+[VOCAB] ~式
+  Reading: しき
+  Meaning: ~　Ceremony
+
+[VOCAB] もっこり パワー
+  Reading: もっこり
+  Meaning: boner power
+
+[VOCAB] 自分を責めないでください
+  Reading: じぶんを せめないでください
+  Meaning: Please don't blame yourself
+
+[VOCAB] 書類の枚数を数える
+  Reading: しょるいの まいすうを かぞえる
+  Meaning: Count the number of the document (papers)
+
+[PHRASE] かいがあって (Grammar)
+  Reading: かいがあって
+  Meaning: There is/was value in doing X, Doing X has its rewards
+
+[PHRASE] 社員にとっては、給料は高い方がいい
+  Reading: しゃいんにとっては きゅうりょうは たかい ほうがいい
+  Meaning: As far as company employees are concerned, a higher salary is better ( にとって )
+
+[PHRASE] 彼女がそんなことをするとは、信じがたい
+  Reading: かのじょがそんなことをするとは しんじがたい
+  Meaning: That she would do that sort of thing, is so so difficult to believe
+
+[VOCAB] 辞書を使わないで、新聞を読む
+  Reading: じしょを つかわないで しんぶんを よむ
+  Meaning: I read a newspaper without using dictionaries
+
+[PHRASE] 仲間と地球の未来について論じたの
+  Reading: なかまと ちきゅうの みらいについて ろんじたの
+  Meaning: I discussed the future of the earth with my friends.
+
+[VOCAB] 1 足す 2
+  Reading: たす
+  Meaning: 1 plus 2
+
+[VOCAB] くそ食らえ
+  Reading: くそ くらえ
+  Meaning: Fuck off / Eat shit!
+
+[VOCAB] かたきを討つ
+  Reading: かたきを うつ
+  Meaning: Avenge
+
+[PHRASE] 学期の初めは、教科書以外にいろいろ買うものがある
+  Reading: がっきの はじめは きょうかしょ いがいにいろいろ かうものがある
+  Meaning: At the beginning of the semester, there are so many things to buy besides textbooks
+
+[VOCAB] 驚いたことに〜
+  Reading: おどろいたことに
+  Meaning: To my suprise..
+
+[PHRASE] この名前に心当たりはないですか？
+  Reading: この なまえに こころあたりはないですか
+  Meaning: Does this name mean anything to you?
+
+[PHRASE] この映画は怖いそうですね、題名からして怖そうですね
+  Reading: この えいがは こわいそうですね だいめいからして こわそうですね
+  Meaning: This film seems scary. Even the title sounds scary huh
+
+[VOCAB] 国立〜
+  Reading: こくりつ
+  Meaning: National ~
+
+[PHRASE] 大きい問題なのに、あの人は誰にも相談しない
+  Reading: おおきい もんだいなのにあの ひとは だれにも そうだんしない
+  Meaning: It is a big issue, but he does not consult with anybody
+
+[PHRASE] 雨や雪が降らない限り、毎日ジョッギングを欠かさない
+  Reading: あめや ゆきが ふらない かぎり まいにちを かかさない
+  Meaning: Unless its raining or snowing, I don't miss a days jogging
+
+[VOCAB] くたばれ！！
+  Reading: くたばれ
+  Meaning: Go to hell!
+
+[VOCAB] 彼の援助に依存しないでください
+  Reading: かれの えんじょに いぞんしないでください
+  Meaning: Don't depend on his help
+
+[PHRASE] 鍵をかけたから安心というものではない
+  Reading: かぎをかけたから あんしんというものではない
+  Meaning: Just because locked it, cant fully be sure that its safe
+
+[VOCAB] 嬉しくてならない
+  Reading: うれしくてならない
+  Meaning: Cant help being happy
+
+[PHRASE] どんなに頑張っても、彼の成績には及ばない
+  Reading: どんなに がんばっても かれの せいせきには およばない
+  Meaning: No matter how hard I study, I cant compete with him
+
+[VOCAB] っこない　＝　わけがない
+  Reading: っこないわけがない
+  Meaning: っこない　＝　わけがない
+
+[PHRASE] ビデオカメラが欲しくてしょうがない
+  Reading: が ほしくてしょうがない
+  Meaning: Want a video camera so much cant stand it
+
+[VOCAB] ぐずぐずするな！
+  Reading: ぐずぐずするな
+  Meaning: Hurry Up!
+
+[PHRASE] 無理をしないで体力に応じた運動をしてください
+  Reading: むりをしないで たいりょくに おうじた うんどうをしてください
+  Meaning: Dont over exert yourself, exercise accordingly to your strength ( 二応じて )
+
+[VOCAB] 手術する
+  Reading: しゅじゅつする
+  Meaning: To have surgery
+
+[VOCAB] 直接に
+  Reading: ちょくせつに
+  Meaning: Directly / Immediately
+
+[VOCAB] 食券ですか？
+  Reading: しょっけんですか
+  Meaning: Meal ticket (is it here?)
+
+[VOCAB] 力の限り頑張ろう
+  Reading: ちからの かぎり がんばろう
+  Meaning: Lets do to the limit of our strength
+
+[PHRASE] 時間は十分あるから、急ぐことはない
+  Reading: じかんは じゅうぶんあるから いそぐことはない
+  Meaning: Because we have 10 minutes, there is no need to hurry
+
+[PHRASE] 今度の日曜日には、友達と会うことになっている
+  Reading: こんどの にちようびには ともだちと あうことになっている
+  Meaning: This coming sunday I'm supposed to be meeting my friends
+
+[VOCAB] 書面で．．．
+  Reading: しょめんで
+  Meaning: In writing...
+
+[PHRASE] 彼が金持ちだからって、別に嫌な奴って訳じゃない
+  Reading: かれが かねもちだからって べつに いやな やつって わけじゃない
+  Meaning: Just because hes rich, doesn't mean hes a jerk
+
+[VOCAB] 全ての道はローマに通ずる
+  Reading: すべての みちはに つうずる
+  Meaning: All roads lead to Rome
+
+[VOCAB] まい　ー＞　 NOT
+  Reading: まい
+  Meaning: まい　ー＞　 NOT
+
+[PHRASE] 漫画しか読まない子供が多いのは困る
+  Reading: まんがしか よまない こどもが おおいのは こまる
+  Meaning: Its too bad that there are so many children who only read comic books
+
+[VOCAB] そういうことか？
+  Reading: そういうことか
+  Meaning: Is that how it is?
+
+[VOCAB] お金さえあれば、何でも出来るよ
+  Reading: お かねさえあれば なんでも できるよ
+  Meaning: The least you need is money and you can do anything
+
+[PHRASE] お金さえあれば幸せに暮らせるというものではない
+  Reading: お かねさえあれば しあわせに くらせるというものではない
+  Meaning: Cant fully say that just having money means one can live happily
+
+[VOCAB] 彼は英語をうまく使いこなす
+  Reading: かれは えいごをうまく つかいこなす
+  Meaning: He has a great command of English
+
+[PHRASE] 日本に長く住んでいるわりに日本のことを知らない
+  Reading: にっぽんに ながく すんでいるわりに にっぽんのことを しらない
+  Meaning: For someone who has lived in Japan for such a long time, he sure doesn't know much about Japan
+
+[VOCAB] 知っている側からすると ..
+  Reading: しっている そばからすると
+  Meaning: From the point of view of those who know ...
+
+[VOCAB] 私はその人と話すと元気になる
+  Reading: わたしはその ひとと はなすと げんきになる
+  Meaning: Whenever I talk with that person I feel uplifted
+
+[PHRASE] この店のラーメンは味はともかくとして、値段は安い
+  Reading: この みせのは あじはともかくとして ねだんは やすい
+  Meaning: Leaving the taste of the shops ramen aside, the price is cheap
+
+[PHRASE] 彼らは責任をはぐらかす傾向がある
+  Reading: かれらは せきにんをはぐらかす けいこうがある
+  Meaning: They tend to evade their responsibilities
+
+[VOCAB] 暑くても、エアコンをつけない
+  Reading: あつくてもをつけない
+  Meaning: I will not turn on the air conditioner even if it is hot
+
+[PHRASE] 実力から見て、勝つに決まっている
+  Reading: じつりょくから みて かつに きまっている
+  Meaning: Judging from actual strength, will definitely win
+
+[PHRASE] 母は病気がちなので、あまり働けない
+  Reading: ははは びょうきがちなのであまり はたらけない
+  Meaning: Mother tends to be ill often, so cant work often
+
+[PHRASE] 給与だけで仕事を決めるべきではない
+  Reading: きゅうよだけで しごとを きめるべきではない
+  Meaning: Work should not be selected based on salary alone
+
+[PHRASE] ご意見はないということは賛成ということですね
+  Reading: ご いけんはないということは さんせいということですね
+  Meaning: If have no opinion, that means you agree right
+
+[PHRASE] ともこさんはテニスが上手じゃなさそうですね
+  Reading: ともこさんはが じょうずじゃなさそうですね
+  Meaning: It does not look like Tomoko is good at tennis
+
+[VOCAB] 謎が深まる
+  Reading: なぞが ふかまる
+  Meaning: The mystery deepens
+
+[VOCAB] 何の話をしていたっけ？
+  Reading: なにの はなしをしていたっけ
+  Meaning: What were we taking about again?
+
+[VOCAB] 練習あっての上達！
+  Reading: れんしゅうあっての じょうたつ
+  Meaning: Because I studied I progressed
+
+[VOCAB] 目の届く限り
+  Reading: のくめのとどくかぎり
+  Meaning: as far as the eye can reach; as far as the eye can see
+
+[VOCAB] Liar game を見逃す
+  Reading: を みのがす
+  Meaning: To miss liar game on tv!
+
+[VOCAB] に相当する（Grammar)
+  Reading: に そうとうする
+  Meaning: Equivalent
+
+[PHRASE] 大学に合格して、うれしくてたまらない
+  Reading: だいがくに ごうかくしてうれしくてたまらない
+  Meaning: So happy to get accepted into university i cant stand it
+
+[VOCAB] テレビは消えている
+  Reading: は きえている
+  Meaning: The TV set is off
+
+[PHRASE] 神の意向に反して、人間は自然を破壊している
+  Reading: かみの いこうに はんして にんげんは しぜんを はかいしている
+  Meaning: Contrary to gods intention, humans are destroying nature
+
+[VOCAB] ３点差で勝つ
+  Reading: てん さで かつ
+  Meaning: Win the game by 3 points
+
+[VOCAB] ことか　ー＞　 Wow!
+  Reading: ことか
+  Meaning: ことか　ー＞　 Wow!
+
+[PHRASE] 社長は忙しいから、秘書を通じて頼んだ方がいい
+  Reading: しゃちょうは いそがしいから ひしょを つうじて たのんだ ほうがいい
+  Meaning: As the shacho is busy, its better to ask via the secretary (through the secretary..)
+
+[VOCAB] 雨がやみ次第、出発しましょう
+  Reading: あめがやみ しだい しゅっぱつしましょう
+  Meaning: Lets leave as soon as the rain has stopped
+
+[PHRASE] 私が小学生だと思って説明できますか？
+  Reading: わたしが しょうがくせいだと おもって せつめいできますか
+  Meaning: Can you explain as if I was a 小学生？
+
+[PHRASE] 他の人のせいにしないでくれない？
+  Reading: たの ひとのせいにしないでくれない
+  Meaning: Would you stop blaming other people?&nbsp;&nbsp;
+
+[VOCAB] 痛いのなんのって涙が出る
+  Reading: いたいのなんのって なみだが でる
+  Meaning: It hurt so badly I cried
+
+[VOCAB] 行くかいがある
+  Reading: いくかいがある
+  Meaning: Worth going
+
+[VOCAB] 彼は頭数に入ってない
+  Reading: かれは とうすうに はいってない
+  Meaning: He doesnt count
+
+[VOCAB] 怒りを込めて〜
+  Reading: いかりを こめて
+  Meaning: With all your anger...
+
+[PHRASE] 日本は物価が高いと言っても、安いものもあるよ
+  Reading: にっぽんは ぶっかが たかいと いっても やすいものもあるよ
+  Meaning: Even if I say Tokyos expensive, there are still cheap things
+
+[VOCAB] それはいかにもトムらしい
+  Reading: それはいかにもらしい
+  Meaning: Thats Tom down to the ground
+
+[PHRASE] どころか　ー＞　Far from!
+  Reading: どころか
+  Meaning: どころか　ー＞　Far from!
+
+[VOCAB] なんということか！
+  Reading: なんということか
+  Meaning: What the hell (is this) !
+
+[PHRASE] 車がないから、歩いて行くより仕方が無い
+  Reading: くるまがないから あるいて いくより しかたが ない
+  Meaning: Since I dont have a car, I have no choice but to walk
+
+[PHRASE] 何を食べても太らない人がうらやましい
+  Reading: なにを たべても ふとらない ひとがうらやましい
+  Meaning: I envy people who never get fat no matter what they eat
+
+[VOCAB] 残念なことに..
+  Reading: ざんねんなことに
+  Meaning: Unfortunately ...
+
+[PHRASE] ホテルを予約しておかなくちゃいけない
+  Reading: を よやくしておかなくちゃいけない
+  Meaning: I must make a hotel reservation in advance
+
+[PHRASE] 手ぶらでデートに来る人は少ないでしょう
+  Reading: てぶらでに くる ひとは すくないでしょう
+  Meaning: There arent many people who come on a date without carrying anything
+
+[PHRASE] この病気の原因については、いくつかの説がある
+  Reading: この びょうきの げんいんについてはいくつかの せつがある
+  Meaning: There are a few theories about the cause of this illness
+
+[VOCAB] 携帯の電池が消耗しているみたい
+  Reading: けいたいの でんちが しょうもうしているみたい
+  Meaning: It seems that my phone battery is running out
+
+[VOCAB] 4隻
+  Reading: せき
+  Meaning: Four Ships
+
+[VOCAB] 道が分かれている
+  Reading: みちが わかれている
+  Meaning: The path branches / forks / diverges / separates / splits / divides
+
+[VOCAB] まみれ grammar
+  Reading: まみれ
+  Meaning: Describes a covering, similar to だらけ
+
+[VOCAB] 彼はテレビゲームにはまっている
+  Reading: かれはにはまっている
+  Meaning: He is addicted (hooked on) video games
+
+[PHRASE] 八時の電車に乗れるといいんですが
+  Reading: じの でんしゃに のれるといいんですが
+  Meaning: I hope I can catch the eight o'clock train
+
+[VOCAB] ふと　Grammar
+  Reading: ふと
+  Meaning: Suddenly  / By coincidence
+
+[PHRASE] 会議は第一会議室において行われる
+  Reading: かいぎは だい かいぎ しつにおいて おこなわれる
+  Meaning: There will be a meeting held in the first meeting room ( において )
+
+[VOCAB] きらいがある　Grammar
+  Reading: きらいがある
+  Meaning: There is a tendency for X to happen (and it is somewhat bad or a cause for concern)
+
+[PHRASE] 彼女は頭がいいうえに、性格もよい
+  Reading: かのじょは あたまがいいうえに せいかくもよい
+  Meaning: She is not only smart, in addition she has a good personality
+
+[VOCAB] レストランの予約がしてある
+  Reading: の よやくがしてある
+  Meaning: A restaurant reservation has been made
+
+[PHRASE] できそうもないことを、簡単に引き受けるな！
+  Reading: できそうもないことを かんたんに きひきうけるな
+  Meaning: Don't undertake a job which you cant do!
+
+[VOCAB] 食べつつパソコンも使う
+  Reading: たべつつも つかう
+  Meaning: While eating, I also use the PC （つつ）
+
+[PHRASE] 漢字はおろか、ひらがなさえ読めないよ！
+  Reading: かんじはおろかひらがなさえ よめないよ
+  Meaning: Forget about kanji, I can't even read hiragana!
+
+[PHRASE] 昨日の晩は、五時間しか寝なかったから、今日は眠い
+  Reading: きのうの ばんは じかんしか ねなかったから きょうは ねむい
+  Meaning: I only slept for five hours last night, so I am sleepy today
+
+[PHRASE] 東京は、物価が高くて、住みにくいらしい
+  Reading: とうきょうは ぶっかが たかくて すみにくいらしい
+  Meaning: It seems that Tokyo is a difficult place to live because everything is expensive
+
+[PHRASE] テニスコートの半面を使って試合をしたの
+  Reading: の はんめんを つかって しあいをしたの
+  Meaning: We played tennis using one side of the court.
+
+[VOCAB] 美樹は何て言ってたの？
+  Reading: みきは なにて いってたの
+  Meaning: What did Miki say?
+
+[VOCAB] 昨日から風邪気味で、頭が痛い
+  Reading: きのうから かぜぎみで あたまが いたい
+  Meaning: Since yesterday I've had a bit of a cold, so my head hurts
+
+[VOCAB] ぐずぐずしないで服を着なさい！
+  Reading: ぐずぐずしないで ふくを きなさい
+  Meaning: Hurry up and get dressed
+
+[PHRASE] お金をいただいてからでないと、商品はお届けません
+  Reading: お かねをいただいてからでないと しょうひんはお とどけません
+  Meaning: Without receiving the money first, we cant send the product
+
+[PHRASE] 半分しか食べてないままで捨てちゃダメ！
+  Reading: はんぶんしか たべてないままで すてちゃ
+  Meaning: You can't throw it out leaving it in that half-eaten condition!
+
+[CLEANABLE] 発明
+  Reading: はつめいする  (was: 発明 （する）)
+  Meaning: Invention
+
+[PHRASE] ここでは、人間にかわってロボットが作業をしている
+  Reading: ここでは にんげんにかわってが さぎょうをしている
+  Meaning: Here, in place of humans robots are doing the work ( にかわって )
+
+[PHRASE] テーブルの上に飲みかけのコーヒーが置いてある
+  Reading: の うえに のみかけのが おいてある
+  Meaning: The drink Im still drinking is on the table
+
+[PHRASE] 今はタイプライターにかわり、ワープロが使われている
+  Reading: いまはにかわりが つかわれている
+  Meaning: Now, in place of typewriters word processors are used (&nbsp;&nbsp;にかわって )
+
+[PHRASE] 私はトムがしたことに対して責任はない
+  Reading: わたしはがしたことに たいして せきにんはない
+  Meaning: I am not responsible for what Tom did (&nbsp;&nbsp;に対して )
+
+[VOCAB] やっぱり、王女様か
+  Reading: やっぱり おうじょ さまか
+  Meaning: Your a princess after all eh..
+
+[VOCAB] ビールは体質に合わない
+  Reading: は たいしつに あわない
+  Meaning: Beer disagrees with me
+
+[VOCAB] 信じられないことに
+  Reading: しんじられないことに
+  Meaning: Unbelievably...
+
+[VOCAB] もっと早く寝ればいいのに
+  Reading: もっと はやく ねればいいのに
+  Meaning: You should go to bed earlier
+
+[PHRASE] 人は新しい経験をするたびに、何かを学ぶ
+  Reading: ひとは あたらしい けいけんをするたびに なにかを まなぶ
+  Meaning: Everytime a person has a new experience, they learn something
+
+[VOCAB] 今年は去年に比べ、雨の量が多い
+  Reading: ことしは きょねんに くらべ あめの りょうが おおい
+  Meaning: Compared to last year, there is a lot more rain this year ( 比べ )
+
+[PHRASE] 分からないところは先生に聞けばいいのに
+  Reading: わからないところは せんせいに きけばいいのに
+  Meaning: You should ask your teacher about things that you dont understand..
+
+[VOCAB] 彼は彼女を列車から突き落とす
+  Reading: かれは かのじょを れっしゃから きつきおとす
+  Meaning: He pushed her off the train
+
+[VOCAB] 雨が降っても、ピクニックに行く
+  Reading: あめが ふってもに いく
+  Meaning: I will go on a picnic even if it rains
+
+[VOCAB] 「〜に」移る
+  Reading: に うつる
+  Meaning: To move to ~
+
+[VOCAB] 脳〜
+  Reading: のう
+  Meaning: Brain ~
+
+[VOCAB] 挨拶を交わす
+  Reading: あいさつを かわす
+  Meaning: Exchange greetings
+
+[PHRASE] 私が 理解する限りでは、こんな風に使う
+  Reading: わたしが りかいする かぎりではこんな ふうに つかう
+  Meaning: As far as I understood, you use it like this
+
+[VOCAB] ご乗車ありがとうございます！
+  Reading: ご じょうしゃありがとうございます
+  Meaning: Welcome Aboard!
+
+[VOCAB] 明日こそ、勉強するぞ！
+  Reading: あしたこそ べんきょうするぞ
+  Meaning: I will definitely study tomorrow!
+
+[VOCAB] 印象に残る
+  Reading: いんしょうに のこる
+  Meaning: To leave an impression
+
+[VOCAB] 寝ぼけ（る）
+  Reading: ねぼける
+  Meaning: Sleepy / be half asleep
+
+[VOCAB] 心を込めて祈りなさい
+  Reading: こころを こめて いのりなさい
+  Meaning: Pray with all your heart.
+
+[VOCAB] いつも元気に見える
+  Reading: いつも げんきに みえる
+  Meaning: He always seems to be cheeful
+
+[PHRASE] 美樹がどこに住んでいるか知っている？
+  Reading: みきがどこに すんでいるか しっている
+  Meaning: Do you know where Miki lives?
+
+[VOCAB] お正月は家族とともに過ごしたい
+  Reading: お しょうがつは かぞくとともに すごしたい
+  Meaning: I want to spend new years with my family ( とともに )
+
+[PHRASE] 明日試験があるから、今晩勉強しないわけにはいかない
+  Reading: あした しけんがあるから こんばん べんきょうしないわけにはいかない
+  Meaning: Since I have an exam tommorrow, I cant help but study tonight
+
+[VOCAB] 誰だっけ？
+  Reading: だれだっけ
+  Meaning: Who is it again?
+
+[VOCAB] 目標に向かって行動する
+  Reading: もくひょうに むかって こうどうする
+  Meaning: To take actions towards your goal
+
+[VOCAB] 噂にすぎない!
+  Reading: うわさにすぎない
+  Meaning: Nothing more than a rumour!
+
+[PHRASE] そのプランでは、失敗する恐れがあるよ
+  Reading: そのでは しっぱいする おそれがあるよ
+  Meaning: I fear that that plan may fail
+
+[PHRASE] そんなにたくさん食べ切れますか？
+  Reading: そんなにたくさん たべ きれますか
+  Meaning: Can you really eat it all that like?
+
+[PHRASE] 宿題をしないで学校へ来るのはよくない
+  Reading: しゅくだいをしないで がっこうへ くるのはよくない
+  Meaning: Its not good to come to school without having done ones homework
+
+[PHRASE] ひらがな、かたかなの形は漢字に基づいている
+  Reading: ひらがなかたかなの かたちは かんじに もとづいている
+  Meaning: hiragana and katakana shapes are based on kanji.
+
+[VOCAB] 最後まで走りぬく
+  Reading: さいごまで はしりぬく
+  Meaning: Run to the end (with great effort).
+
+[VOCAB] 雨が降らないといいですね
+  Reading: あめが ふらないといいですね
+  Meaning: I hope it doesn't rain
+
+[VOCAB] 不安でならない
+  Reading: ふあんでならない
+  Meaning: Cant help worrying
+
+[VOCAB] それは夢に過ぎない
+  Reading: それは ゆめに すぎない
+  Meaning: thats nothing more than a dream
+
+[VOCAB] 家にいるのに、電話に出ない
+  Reading: いえにいるのに でんわに でない
+  Meaning: She is home but she does not answer the phone
+
+[PHRASE] 大学に入ったばかりだから、十八歳でしょう
+  Reading: だいがくに はいったばかりだから さいでしょう
+  Meaning: Since she has just entered college, she is probably 18
+
+[VOCAB] いい友達でいてくれてありがとう
+  Reading: いい ともだちでいてくれてありがとう
+  Meaning: Thank you for being a good friend
+
+[VOCAB] 適度な運動が体にいい
+  Reading: てきどな うんどうが からだにいい
+  Meaning: Moderate exercise is good for the body
+
+[PHRASE] 幼い子供に対する犯罪は許しがたい
+  Reading: おさない こどもに たいする はんざいは ゆるしがたい
+  Meaning: Crimes towards naive children is something I cant ever forgive (so so hard to forgive)
+
+[VOCAB] 疲れた時、ゆっくりお風呂に入る
+  Reading: つかれた ときゆっくりお ふろに はいる
+  Meaning: I take a long bath when I have gotten tired
+
+[VOCAB] 横目で見ながら
+  Reading: よこめで みながら
+  Meaning: Whilst looking out the side of your eye...
+
+[PHRASE] 食べたばかりだから、おなかがいっぱい
+  Reading: たべたばかりだからおなかがいっぱい
+  Meaning: I have just eaten, so I'm full
+
+[VOCAB] 毎日十一時に寝ることにしている
+  Reading: まいにち じに ねることにしている
+  Meaning: I make it a rule to go to bed at eleven every night
+
+[PHRASE] 日本の家に上がる時は、靴を脱ぐことになっている
+  Reading: にっぽんの いえに あがる ときは くつを ぬぐことになっている
+  Meaning: When you enter a Japanese house, you are supposed to take off your shoes
+
+[VOCAB] 大学に行けるといいんですが
+  Reading: だいがくに いけるといいんですが
+  Meaning: I am hoping I can go to college
+
+[VOCAB] 薬を飲んだらどうですか？
+  Reading: くすりを のんだらどうですか
+  Meaning: How about taking some medicine?
+
+[PHRASE] 図書館へ行かないで家で勉強する学生もいる
+  Reading: としょかんへ いかないで いえで べんきょうする がくせいもいる
+  Meaning: There are students who study at home instead of going to the library
+
+[VOCAB] 晩ご飯を作っとく
+  Reading: ごばんごはんを つくっとく
+  Meaning: To make dinner for later (abbv)
+
+[VOCAB] 手伝おうか？
+  Reading: てつだおうか
+  Meaning: Shall I lend you a hand?
+
+[VOCAB] たとえ〜でも　ー＞　もし〜でも
+  Reading: たとえでももしでも
+  Meaning: たとえ〜でも　ー＞　もし〜でも
+
+[VOCAB] 彼は負けるに決まっている
+  Reading: かれは まけるに きまっている
+  Meaning: He will definitely lose.
