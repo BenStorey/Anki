@@ -1,0 +1,2199 @@
+===word: 泛红===
+Meaning: to blush; to redden
+Nuance_EN: Used for skin turning red due to emotion (embarrassment, anger) or physical causes like cold or alcohol.
+Nuance_CN: 指皮肤因情绪或外部刺激（如寒冷、酒精）而变红。
+Example1: 她听到夸奖后脸颊泛红。
+Example1_EN: Her cheeks flushed after hearing the compliment.
+Example2: 冬天冷风吹得他鼻子泛红。
+Example2_EN: The cold winter wind made his nose turn red.
+Example3: 他喝了几杯酒，脸就开始泛红。
+Example3_EN: After a few drinks, his face began to redden.
+
+===word: 索取===
+Meaning: to demand; to extort
+Nuance_EN: Implies demanding something that is owed or wanted, often with a sense of force or entitlement.
+Nuance_CN: 带有强制或理所当然地要求获得某物的含义。
+Example1: 他向对方索取赔偿金。
+Example1_EN: He demanded compensation from the other party.
+Example2: 这些文件是员工向公司索取福利的依据。
+Example2_EN: These documents are the basis for employees to demand benefits from the company.
+Example3: 不法分子向商户索取保护费。
+Example3_EN: Criminals extorted protection money from shop owners.
+
+===word: 业务员===
+Meaning: salesperson
+Nuance_EN: Refers to a business representative or sales agent who handles client-facing commercial activities.
+Nuance_CN: 指负责对外销售和业务洽谈的公司职员。
+Example1: 这位业务员每月都能完成销售指标。
+Example1_EN: This salesperson meets his sales targets every month.
+Example2: 公司招聘了五名新业务员开拓市场。
+Example2_EN: The company hired five new salespeople to expand the market.
+Example3: 业务员正在向客户介绍新产品。
+Example3_EN: The salesperson is introducing the new product to the client.
+
+===word: 说教===
+Meaning: to sermonize; to preach
+Nuance_EN: Has a negative connotation — lecturing someone in a moralizing or tedious way, not genuine teaching.
+Nuance_CN: 含贬义，指用枯燥或居高临下的方式讲道理，让人反感。
+Example1: 他总喜欢对年轻人说教。
+Example1_EN: He always likes to lecture young people.
+Example2: 我不需要你来对我说教。
+Example2_EN: I don't need you to preach to me.
+Example3: 这篇文章充满了说教的味道。
+Example3_EN: This article is full of a preachy tone.
+
+===word: 兑现===
+Meaning: to cash; to fulfill
+Nuance_EN: Literally means to cash a cheque, but is widely used figuratively for keeping promises or fulfilling commitments.
+Nuance_CN: 本义是兑换现金，常引申为履行承诺或实现诺言。
+Example1: 公司承诺年底兑现奖金。
+Example1_EN: The company promised to pay out the bonus at the end of the year.
+Example2: 他说的话从来都不兑现。
+Example2_EN: He never follows through on what he says.
+Example3: 这张支票可以去银行兑现。
+Example3_EN: This cheque can be cashed at the bank.
+
+===word: 喜怒无常===
+Meaning: moody; capricious
+Nuance_EN: Describes someone whose moods shift unpredictably between happiness and anger, often used in interpersonal contexts.
+Nuance_CN: 形容人的情绪忽好忽坏，变化无常。
+Example1: 他这个人喜怒无常，很难相处。
+Example1_EN: He is moody and hard to get along with.
+Example2: 老板喜怒无常，员工们都提心吊胆。
+Example2_EN: The boss is unpredictable, and the employees are on edge.
+Example3: 最近她的情绪喜怒无常，可能压力太大了。
+Example3_EN: Her mood has been erratic lately; she might be under too much pressure.
+
+===word: 绝情===
+Meaning: heartless; ruthless
+Nuance_EN: Describes someone who cuts off emotional ties completely, often in romantic or family contexts.
+Nuance_CN: 指毫不留情地断绝感情关系，常用于感情或人际关系中。
+Example1: 他分手时说得非常绝情。
+Example1_EN: He was very heartless when he broke up.
+Example2: 她没想到对方这么绝情。
+Example2_EN: She didn't expect the other person to be so ruthless.
+Example3: 再绝情的话他也说得出口。
+Example3_EN: He can even say the most heartless things.
+
+===word: 如胶似漆===
+Meaning: deeply attached; inseparable
+Nuance_EN: Vivid idiom describing two people who are inseparable and emotionally glued together, like glue and lacquer.
+Nuance_CN: 形容两人感情深厚、形影不离，像胶和漆一样黏在一起。
+Example1: 新婚夫妇如胶似漆，天天在一起。
+Example1_EN: The newlyweds are deeply attached, together every day.
+Example2: 他们俩如胶似漆，谁也离不开谁。
+Example2_EN: The two of them are inseparable.
+Example3: 热恋中的情侣总是如胶似漆。
+Example3_EN: Couples in love are always glued to each other.
+
+===word: 失主===
+Meaning: owner of lost property
+Nuance_EN: Specifically refers to the person who has lost something, not just any owner. Used in lost-and-found contexts.
+Nuance_CN: 特指丢失物品的主人，常用于失物招领的场合。
+Example1: 失主正在服务台认领物品。
+Example1_EN: The owner is at the service desk claiming the item.
+Example2: 请失主到失物招领处领取。
+Example2_EN: Please go to the lost and found to claim your item.
+Example3: 警察找到了失主并归还了钱包。
+Example3_EN: The police found the owner and returned the wallet.
+
+===word: 散列===
+Meaning: hash; hashing
+Nuance_EN: Technical computing term, used primarily in data structures and cryptography contexts.
+Nuance_CN: 计算机术语，指将数据映射为固定长度值的散列算法。
+Example1: 散列表是一种高效的数据结构。
+Example1_EN: A hash table is an efficient data structure.
+Example2: 这段代码实现了散列函数。
+Example2_EN: This code implements a hash function.
+Example3: 文件经过散列处理以验证完整性。
+Example3_EN: The file is hashed to verify its integrity.
+
+===word: 检出===
+Meaning: to detect; to identify
+Nuance_EN: Used in medical, laboratory, or quality-control contexts for detecting or identifying something through examination.
+Nuance_CN: 用于医学检测、实验室分析或质量检查中发现某物。
+Example1: 血液样本中检出了病毒抗体。
+Example1_EN: Viral antibodies were detected in the blood sample.
+Example2: 质检员从这批产品中检出了瑕疵。
+Example2_EN: The quality inspector identified defects in this batch.
+Example3: 早期检出的疾病更容易治疗。
+Example3_EN: Diseases detected early are easier to treat.
+
+===word: 插件===
+Meaning: plug-in; add-on
+Nuance_EN: Computing term for software components that add specific features to an existing program.
+Nuance_CN: 计算机术语，指为软件添加特定功能的扩展组件。
+Example1: 这个浏览器插件可以屏蔽广告。
+Example1_EN: This browser plug-in can block ads.
+Example2: 我们需要安装一个视频编辑插件。
+Example2_EN: We need to install a video editing plug-in.
+Example3: 这个软件支持第三方插件扩展功能。
+Example3_EN: This software supports third-party plug-ins to extend functionality.
+
+===word: 第三方===
+Meaning: third party
+Nuance_EN: Legal and business term referring to an entity not directly involved in an agreement but affected by it.
+Nuance_CN: 指与协议双方无关的独立方，常用于法律和商业语境。
+Example1: 合同需要第三方见证才有效。
+Example1_EN: The contract requires a third-party witness to be valid.
+Example2: 这笔交易由第三方平台担保。
+Example2_EN: This transaction is guaranteed by a third-party platform.
+Example3: 我们不能把客户信息透露给第三方。
+Example3_EN: We cannot disclose client information to third parties.
+
+===word: 遇上===
+Meaning: to come across; to encounter
+Nuance_EN: Colloquial term for unexpectedly meeting someone or encountering a situation, often by chance.
+Nuance_CN: 口语常用，指偶然碰到某人或遇到某种情况。
+Example1: 我在超市遇上了老朋友。
+Example1_EN: I ran into an old friend at the supermarket.
+Example2: 路上遇上了堵车，迟到了半小时。
+Example2_EN: I got stuck in traffic on the way and was half an hour late.
+Example3: 他最近遇上了不少麻烦。
+Example3_EN: He has run into quite a bit of trouble lately.
+
+===word: 图鉴===
+Meaning: illustrated handbook
+Nuance_EN: A book or guide that identifies things (plants, animals, etc.) primarily through pictures/drawings.
+Nuance_CN: 以图片为主来识别物品（如动植物、矿物）的参考书籍。
+Example1: 这本鸟类图鉴收录了五百多种鸟。
+Example1_EN: This bird guide covers over 500 species.
+Example2: 他用植物图鉴确认了这朵花的名字。
+Example2_EN: He used a plant guide to confirm the name of this flower.
+Example3: 这本恐龙图鉴是孩子的最爱。
+Example3_EN: This dinosaur guidebook is the child's favorite.
+
+===word: 回礼===
+Meaning: return gift; to return a salute
+Nuance_EN: Can mean returning a gift in social etiquette or returning a military/courtesy salute.
+Nuance_CN: 既指社交中回赠礼物，也指回应敬礼或礼节。
+Example1: 收到礼物后，她也准备了回礼。
+Example1_EN: After receiving the gift, she also prepared a return gift.
+Example2: 士兵向长官回礼。
+Example2_EN: The soldier returned the salute to the officer.
+Example3: 过年时客人带了礼品，主人也要准备回礼。
+Example3_EN: During the New Year, guests bring gifts, and the host should prepare return gifts.
+
+===word: 没辙===
+Meaning: no way out; at wits' end
+Nuance_EN: Colloquial expression meaning completely out of ideas or solutions for a problem.
+Nuance_CN: 口语表达，指对某件事毫无办法、束手无策。
+Example1: 这件事我真的没辙了。
+Example1_EN: I really have no idea what to do about this.
+Example2: 手机坏了修不好，我也没辙。
+Example2_EN: My phone is broken and can't be fixed—I'm at my wits' end.
+Example3: 面对这种情况，谁都沒辙。
+Example3_EN: Faced with this situation, nobody knows what to do.
+
+===word: 照看===
+Meaning: to look after; to attend to
+Nuance_EN: Implies keeping an eye on someone or something, often used for childcare or property.
+Nuance_CN: 指照管、看护某人或某物，常用于照看孩子或财物。
+Example1: 麻烦您帮我照看一下行李。
+Example1_EN: Could you please keep an eye on my luggage?
+Example2: 她在家照看生病的母亲。
+Example2_EN: She is at home looking after her sick mother.
+Example3: 邻居帮我照看了一下午孩子。
+Example3_EN: The neighbor watched my child for the afternoon.
+
+===word: 把风===
+Meaning: to keep watch; to be on the lookout
+Nuance_EN: Used in clandestine or illicit contexts — someone stands guard while others do something secret.
+Nuance_CN: 多用于暗中活动时放哨警戒，防止被人发现。
+Example1: 他们在仓库外面把风。
+Example1_EN: They were keeping watch outside the warehouse.
+Example2: 他负责把风，其他人翻墙进去。
+Example2_EN: He was on the lookout while the others climbed over the wall.
+Example3: 小偷让同伙在楼道里把风。
+Example3_EN: The thief had his accomplice keep watch in the hallway.
+
+===word: 传输===
+Meaning: to transmit
+Nuance_EN: Technical term for transmitting data, power, or signals. Used in engineering and computing contexts.
+Nuance_CN: 技术和工程术语，指电力、数据或信号的传送。
+Example1: 光纤可以高速传输数据。
+Example1_EN: Optical fibers can transmit data at high speed.
+Example2: 远程电力传输损耗很大。
+Example2_EN: Long-distance power transmission has significant losses.
+Example3: 信息通过卫星传输到世界各地。
+Example3_EN: Information is transmitted around the world via satellite.
+
+===word: 空旷===
+Meaning: open and spacious
+Nuance_EN: Describes a wide, open space with few or no objects, often giving a feeling of emptiness.
+Nuance_CN: 形容地方宽广且没有什么东西，给人一种空荡感。
+Example1: 这片空地非常空旷。
+Example1_EN: This open ground is very spacious.
+Example2: 深夜的街道空旷无人。
+Example2_EN: The streets are empty and deserted late at night.
+Example3: 站在空旷的原野上，心情格外舒畅。
+Example3_EN: Standing in the vast open field, my mood was especially pleasant.
+
+===word: 忽高忽低===
+Meaning: alternating high and low
+Nuance_EN: Describes something that keeps changing between high and low levels — stock prices, mood, temperature, etc.
+Nuance_CN: 形容水平或状态时高时低，起伏不定，如价格、情绪、温度等。
+Example1: 最近他的成绩忽高忽低。
+Example1_EN: His grades have been fluctuating lately.
+Example2: 股票行情忽高忽低，让人难以把握。
+Example2_EN: The stock market keeps going up and down, making it hard to predict.
+Example3: 他的体温忽高忽低，可能感染了。
+Example3_EN: His temperature keeps fluctuating; he might have an infection.
+
+===word: 觉悟===
+Meaning: consciousness; awareness
+Nuance_EN: Describes a person's level of political or moral understanding; also means to come to realize something.
+Nuance_CN: 指思想上的认识水平，也可动词用，表示醒悟或意识到。
+Example1: 他的政治觉悟很高。
+Example1_EN: He has a high level of political awareness.
+Example2: 经过这次教训，他终于觉悟了。
+Example2_EN: After this lesson, he finally came to his senses.
+Example3: 群众的觉悟在不断提高。
+Example3_EN: The public's awareness is constantly improving.
+
+===word: 摆出===
+Meaning: to put forth; to assume
+Nuance_EN: Means to deliberately display or assume a certain posture, expression, or attitude, sometimes insincerely.
+Nuance_CN: 指有意展示出某种姿态、表情或态度，有时含做作的意味。
+Example1: 他摆出一副专家的样子。
+Example1_EN: He put on an expert's air.
+Example2: 谈判时她摆出了充分的证据。
+Example2_EN: She presented ample evidence during the negotiation.
+Example3: 不要总摆出高高在上的姿态。
+Example3_EN: Don't always put on a superior attitude.
+
+===word: 识破===
+Meaning: to see through; to penetrate
+Nuance_EN: Means to detect a lie, trick, or hidden intention — to see through someone's scheme.
+Nuance_CN: 指看穿别人的谎言、骗局或隐藏的意图。
+Example1: 警察识破了犯罪嫌疑人的谎言。
+Example1_EN: The police saw through the suspect's lies.
+Example2: 他的阴谋很快就被识破了。
+Example2_EN: His plot was quickly seen through.
+Example3: 她一眼就识破了这个骗局。
+Example3_EN: She saw through the scam at a glance.
+
+===word: 助人为乐===
+Meaning: taking pleasure in helping others
+Nuance_EN: Describes a person who finds joy in helping others; a commendable character trait.
+Nuance_CN: 形容把帮助别人当作快乐，是一种美德。
+Example1: 他向来助人为乐，从不计较回报。
+Example1_EN: He has always taken pleasure in helping others without expecting anything in return.
+Example2: 助人为乐是中华民族的传统美德。
+Example2_EN: Taking pleasure in helping others is a traditional Chinese virtue.
+Example3: 这位志愿者助人为乐的精神值得学习。
+Example3_EN: This volunteer's spirit of helping others is worth emulating.
+
+===word: 大致===
+Meaning: roughly; approximately
+Nuance_EN: Used as an adverb to indicate an approximate extent, amount, or description of a situation.
+Nuance_CN: 副词，表示大体上、差不多，用于粗略的估计或描述。
+Example1: 两地的物价大致相同。
+Example1_EN: The prices in the two places are roughly the same.
+Example2: 会议大致在下午三点结束。
+Example2_EN: The meeting will roughly end at 3 PM.
+Example3: 情况大致可以分成三类。
+Example3_EN: The situation can be roughly divided into three categories.
+
+===word: 挨打===
+Meaning: to get beaten; to take a beating
+Nuance_EN: Used in both literal (physical beating) and figurative (being attacked/criticized) senses.
+Nuance_CN: 既指身体上被打，也比喻在舆论或争斗中处于劣势。
+Example1: 小时候犯错，他经常挨打。
+Example1_EN: When he made mistakes as a child, he often got beaten.
+Example2: 这支球队在比赛中一直处于挨打状态。
+Example2_EN: This team has been on the defensive throughout the match.
+Example3: 他说错话后在网上挨骂又挨打。
+Example3_EN: After saying the wrong thing, he was both cursed and attacked online.
+
+===word: 检视===
+Meaning: to inspect; to examine
+Nuance_EN: A more literary/formal word for closely inspecting or examining something in detail.
+Nuance_CN: 书面语，指仔细查看或检查某物。
+Example1: 技术员正在检视机器故障。
+Example1_EN: The technician is inspecting the machine for faults.
+Example2: 我们需要检视整个项目的流程。
+Example2_EN: We need to examine the entire project workflow.
+Example3: 检视数据后发现了一些异常。
+Example3_EN: After inspecting the data, some anomalies were found.
+
+===word: 劳烦===
+Meaning: to trouble; please
+Nuance_EN: Polite, dialectal expression used when asking someone for a favor, similar to 'may I trouble you to...'.
+Nuance_CN: 方言中的礼貌用语，用于请求别人帮忙时，相当于「麻烦您」。
+Example1: 劳烦您帮我开一下门。
+Example1_EN: May I trouble you to open the door?
+Example2: 劳烦您把这份文件转交给经理。
+Example2_EN: Could I trouble you to pass this document to the manager?
+Example3: 劳烦您在这里签个字。
+Example3_EN: May I trouble you to sign here?
+
+===word: 泡汤===
+Meaning: to fall through; to come to nothing
+Nuance_EN: Colloquial expression for plans or expectations that completely fail or don't materialize.
+Nuance_CN: 口语表达，指计划或希望落空、没能实现。
+Example1: 因为下雨，今天的野餐计划泡汤了。
+Example1_EN: Because of the rain, today's picnic plans fell through.
+Example2: 他出国留学的梦想泡汤了。
+Example2_EN: His dream of studying abroad fell through.
+Example3: 项目资金没到位，一切计划都泡汤了。
+Example3_EN: The project funding didn't come through, and all plans fell apart.
+
+===word: 降临===
+Meaning: to befall; to arrive
+Nuance_EN: Literary term for when something (night, disaster, luck) arrives or descends upon someone or a place.
+Nuance_CN: 书面语，表示某种事物（如夜晚、灾难、幸运）到来或降临。
+Example1: 夜幕降临，城市华灯初上。
+Example1_EN: As night fell, the city's lights began to shine.
+Example2: 好运终于降临到了他头上。
+Example2_EN: Good luck finally came his way.
+Example3: 灾难降临的时候，他们团结一心。
+Example3_EN: When disaster struck, they united as one.
+
+===word: 贪腐===
+Meaning: corruption; graft
+Nuance_EN: Compound of 'greedy' and 'rotten', specifically referring to political or corporate corruption.
+Nuance_CN: 指利用职权谋取私利的腐败行为，常用于政治或企业语境。
+Example1: 政府严厉打击贪腐行为。
+Example1_EN: The government is cracking down hard on corruption.
+Example2: 多名官员因贪腐被调查。
+Example2_EN: Several officials are under investigation for corruption.
+Example3: 贪腐问题严重损害了社会公平。
+Example3_EN: Corruption seriously undermines social fairness.
+
+===word: 请君入瓮===
+Meaning: a taste of one's own medicine
+Nuance_EN: Historical idiom from Tang dynasty — making someone experience the punishment they devised for others.
+Nuance_CN: 唐代典故，比喻用某人整治别人的办法来整治他自己。
+Example1: 他这次是中了请君入瓮之计。
+Example1_EN: This time he fell into a trap of his own making.
+Example2: 谈判中对方被请君入瓮，只好接受条件。
+Example2_EN: During the negotiations, the other side was given a dose of their own medicine and had to accept the terms.
+Example3: 这个计谋就是请君入瓮，让他自食其果。
+Example3_EN: This scheme was to give him a taste of his own medicine.
+
+===word: 不翼而飞===
+Meaning: to vanish into thin air
+Nuance_EN: Describes an object that disappears mysteriously without explanation, as if it grew wings.
+Nuance_CN: 形容东西莫名其妙地丢失，好像长了翅膀飞走了一样。
+Example1: 我放在桌上的钱包不翼而飞了。
+Example1_EN: The wallet I left on the table vanished into thin air.
+Example2: 图书馆那本珍本书不翼而飞了。
+Example2_EN: That rare book from the library disappeared without a trace.
+Example3: 刚买的自行车停在楼下就不翼而飞了。
+Example3_EN: The newly bought bike vanished after being parked downstairs.
+
+===word: 中产阶级===
+Meaning: middle class
+Nuance_EN: Social class term referring to people with moderate wealth, stable income, and professional occupations.
+Nuance_CN: 社会学概念，指经济地位中等、收入稳定、从事专业工作的社会群体。
+Example1: 中产阶级是社会的稳定力量。
+Example1_EN: The middle class is a stabilizing force in society.
+Example2: 房价上涨让许多中产阶级倍感压力。
+Example2_EN: Rising housing prices are putting a lot of pressure on the middle class.
+Example3: 中国的中产阶级正在不断壮大。
+Example3_EN: China's middle class is continuously growing.
+
+===word: 不知所措===
+Meaning: at a loss; bewildered
+Nuance_EN: Describes being so shocked or confused that one doesn't know how to react or what to do.
+Nuance_CN: 形容因为震惊或困惑而不知该如何应对。
+Example1: 听到这个消息，他一时不知所措。
+Example1_EN: Upon hearing the news, he was at a loss for a moment.
+Example2: 她站在台上不知所措，忘了台词。
+Example2_EN: She stood on stage at a loss, forgetting her lines.
+Example3: 面对突如其来的问题，他不知所措。
+Example3_EN: Faced with the sudden question, he was bewildered.
+
+===word: 脏字===
+Meaning: swear word; obscenity
+Nuance_EN: Refers to vulgar or dirty words in speech, especially cursing or profanity.
+Nuance_CN: 指说话时带有的粗俗、不文明的词语，如骂人的脏话。
+Example1: 他说话总带脏字，很不礼貌。
+Example1_EN: He always uses swear words — it's very impolite.
+Example2: 这部电影里没有脏字，适合孩子看。
+Example2_EN: There are no swear words in this movie; it's suitable for children.
+Example3: 请你说话不要带脏字。
+Example3_EN: Please don't use foul language.
+
+===word: 董事长===
+Meaning: chairman of the board
+Nuance_EN: The highest-ranking executive in a company or organization, presiding over the board of directors.
+Nuance_CN: 公司或组织中董事会最高负责人，领导董事会工作。
+Example1: 董事长在年会上发表了重要讲话。
+Example1_EN: The chairman gave an important speech at the annual meeting.
+Example2: 他被任命为新公司的董事长。
+Example2_EN: He was appointed chairman of the new company.
+Example3: 董事长正在会议室召开董事会。
+Example3_EN: The chairman is holding a board meeting in the conference room.
+
+===word: 瘦削===
+Meaning: gaunt; bony
+Nuance_EN: Describes a person who is very thin, often in an unhealthy or worn-looking way.
+Nuance_CN: 形容人非常瘦，常带有不健康或憔悴的意味。
+Example1: 他病后变得瘦削了许多。
+Example1_EN: He became very gaunt after his illness.
+Example2: 那张瘦削的脸上满是沧桑。
+Example2_EN: That gaunt face was full of the marks of time.
+Example3: 老人的手指瘦削而有力。
+Example3_EN: The old man's fingers were bony yet strong.
+
+===word: 插不上手===
+Meaning: unable to intervene
+Nuance_EN: Colloquial expression for being unable to participate or help in a situation because others are already handling it or because of lack of expertise.
+Nuance_CN: 口语，表示无法参与或帮忙，因为插不进去或不擅长。
+Example1: 厨房里大家都在忙，我插不上手。
+Example1_EN: Everyone is busy in the kitchen — I can't help.
+Example2: 这个话题太专业，我插不上手。
+Example2_EN: This topic is too specialized — I can't contribute.
+Example3: 他们都已经安排好了，我完全插不上手。
+Example3_EN: They've already arranged everything — I can't get involved at all.
+
+===word: 望风===
+Meaning: to keep watch; to be on the lookout
+Nuance_EN: Similar to 把风, but slightly more formal. Used in contexts of secret or illegal activities.
+Nuance_CN: 与「把风」类似，指在秘密或非法活动时放哨警戒。
+Example1: 小偷让他在门口望风。
+Example1_EN: The thief had him keep watch at the door.
+Example2: 他负责望风，一有动静就发信号。
+Example2_EN: He was on the lookout, ready to signal at the slightest movement.
+Example3: 抢劫案中有人开车望风。
+Example3_EN: In the robbery case, someone was keeping watch from the car.
+
+===word: 驻守===
+Meaning: to garrison; to defend
+Nuance_EN: Military term for stationing troops at a location to guard or defend it.
+Nuance_CN: 军事术语，指军队驻扎在某个地方进行防守。
+Example1: 部队驻守在边疆地区。
+Example1_EN: The troops are garrisoned in the border region.
+Example2: 这座城堡曾经驻守着五百名士兵。
+Example2_EN: This castle was once garrisoned by five hundred soldiers.
+Example3: 他们驻守在这个哨所已经三年了。
+Example3_EN: They have been stationed at this outpost for three years.
+
+===word: 凶神恶煞===
+Meaning: fiends; terrifying look
+Nuance_EN: Describes someone with a fierce, terrifying appearance, like an evil deity or demon.
+Nuance_CN: 形容人凶狠可怕的样子，像凶恶的神怪一样。
+Example1: 他发起火来像凶神恶煞一样。
+Example1_EN: When he gets angry, he looks like a fiend.
+Example2: 门口站着两个凶神恶煞的保镖。
+Example2_EN: Two fierce-looking bodyguards stood at the door.
+Example3: 别摆出那副凶神恶煞的样子。
+Example3_EN: Don't put on that terrifying look.
+
+===word: 小鬼===
+Meaning: little devil; kid
+Nuance_EN: Can literally mean a demon servant in hell, but more often used affectionately for a clever or mischievous child.
+Nuance_CN: 本义是小鬼怪，但常用于对小孩子的爱称或昵称。
+Example1: 这个小鬼真机灵！
+Example1_EN: This little kid is really clever!
+Example2: 小鬼，你几岁啦？
+Example2_EN: Little one, how old are you?
+Example3: 动画片里的小鬼形象很可爱。
+Example3_EN: The little devil character in the cartoon is very cute.
+
+===word: 牛逼===
+Meaning: awesome; badass
+Nuance_EN: Very common slang, originally vulgar (literally 'cow vagina'), meaning impressive, capable, or arrogant depending on context.
+Nuance_CN: 非常流行的粗俗俚语，表示厉害、了不起，也可表示傲慢。
+Example1: 他的技术真是太牛逼了！
+Example1_EN: His skills are really awesome!
+Example2: 别吹牛逼了，你根本做不到。
+Example2_EN: Stop boasting — there's no way you can do it.
+Example3: 这场比赛他打得真牛逼。
+Example3_EN: He played an amazing game.
+
+===word: 突如其来===
+Meaning: sudden; out of nowhere
+Nuance_EN: Used to describe events that happen abruptly and unexpectedly, often with significant impact.
+Nuance_CN: 形容事情突然发生，让人毫无防备。
+Example1: 一场突如其来的暴雨把大家都淋湿了。
+Example1_EN: A sudden rainstorm drenched everyone.
+Example2: 他突如其来的辞职让公司措手不及。
+Example2_EN: His sudden resignation caught the company off guard.
+Example3: 突如其来的好消息让她喜极而泣。
+Example3_EN: The unexpected good news made her cry with joy.
+
+===word: 轻浮===
+Meaning: frivolous; flighty
+Nuance_EN: Describes a person who is unserious, lacks depth, and behaves in a shallow or flirtatious manner.
+Nuance_CN: 形容人言行轻佻、不庄重、不严肃。
+Example1: 他这种轻浮的态度让人很不舒服。
+Example1_EN: His frivolous attitude makes people very uncomfortable.
+Example2: 她认为那个男生太轻浮了。
+Example2_EN: She thinks that guy is too flighty.
+Example3: 轻浮的言行会影响别人对你的信任。
+Example3_EN: Frivolous words and actions can affect people's trust in you.
+
+===word: 录取===
+Meaning: to enroll; to admit
+Nuance_EN: Used in academic or employment contexts — being accepted by a school or hired by a company.
+Nuance_CN: 用于学校招生或单位招聘，表示通过选拔被接收。
+Example1: 她被北京大学录取了。
+Example1_EN: She was admitted to Peking University.
+Example2: 公司今年录取了二十名新员工。
+Example2_EN: The company hired twenty new employees this year.
+Example3: 录取通知书已经寄出了。
+Example3_EN: The admission letters have been sent out.
+
+===word: 隐姓埋名===
+Meaning: to live incognito
+Nuance_EN: Describes someone who conceals their identity or name, often to hide from trouble or live a quiet life.
+Nuance_CN: 指隐瞒真实姓名和身份，多为了躲避麻烦或过平静生活。
+Example1: 他隐姓埋名在一个小镇上生活了二十年。
+Example1_EN: He lived incognito in a small town for twenty years.
+Example2: 为了保护家人，他决定隐姓埋名。
+Example2_EN: To protect his family, he decided to conceal his identity.
+Example3: 这位作家隐姓埋名发表了不少作品。
+Example3_EN: This writer published many works under a pseudonym.
+
+===word: 明快===
+Meaning: lucid and lively; sprightly
+Nuance_EN: Describes a style of writing, music, or color that is bright, clear, and pleasant.
+Nuance_CN: 形容风格（文字、音乐、色彩等）清新明丽、节奏流畅。
+Example1: 这篇文章的节奏明快，让人爱读。
+Example1_EN: The rhythm of this article is sprightly and engaging.
+Example2: 这首歌曲旋律明快，非常适合跳舞。
+Example2_EN: This song has a bright, lively melody, perfect for dancing.
+Example3: 房间采用了明快的色调。
+Example3_EN: The room uses bright, cheerful colors.
+
+===word: 鱿鱼===
+Meaning: squid
+Nuance_EN: Common food ingredient. Also appears in the idiom '炒鱿鱼' meaning 'to get fired'.
+Nuance_CN: 常见的海鲜食材。习语「炒鱿鱼」比喻被解雇。
+Example1: 铁板鱿鱼是夜市上的热门小吃。
+Example1_EN: Grilled squid is a popular street food at night markets.
+Example2: 他因为工作失误被老板炒鱿鱼了。
+Example2_EN: He was fired by the boss for a work mistake.
+Example3: 这道菜是用新鲜鱿鱼做的。
+Example3_EN: This dish is made with fresh squid.
+
+===word: 萤火虫===
+Meaning: firefly; lightning bug
+Nuance_EN: A small bioluminescent insect often associated with summer nights and romantic imagery in literature.
+Nuance_CN: 能发光的昆虫，常在夏季夜晚出现，文学中象征浪漫和美好。
+Example1: 夏夜的河边可以看到很多萤火虫。
+Example1_EN: You can see many fireflies by the river on summer nights.
+Example2: 孩子们在追逐萤火虫。
+Example2_EN: The children are chasing fireflies.
+Example3: 萤火虫的光在夜空中一闪一闪的。
+Example3_EN: The fireflies' lights twinkle in the night sky.
+
+===word: 接头===
+Meaning: to connect; to contact
+Nuance_EN: Can mean physically joining things together, or colloquially meeting/contacting someone, often secretly.
+Nuance_CN: 既可指物体连接，也可指与人秘密联系或碰头。
+Example1: 这些管道需要接头才能通水。
+Example1_EN: These pipes need to be joined for water to flow.
+Example2: 特工在咖啡馆接头交换情报。
+Example2_EN: The agents met at a café to exchange information.
+Example3: 你去跟对方接头，确认交货时间。
+Example3_EN: Go contact the other party and confirm the delivery time.
+
+===word: 火烈鸟===
+Meaning: flamingo
+Nuance_EN: A large wading bird known for its pink/red feathers and long legs, often seen in zoos and tropical areas.
+Nuance_CN: 大型涉禽，羽毛呈粉红色，以其优雅的姿态和鲜艳的颜色著称。
+Example1: 动物园里的火烈鸟非常漂亮。
+Example1_EN: The flamingos at the zoo are very beautiful.
+Example2: 火烈鸟经常单腿站立休息。
+Example2_EN: Flamingos often stand on one leg to rest.
+Example3: 一群火烈鸟在湖边觅食。
+Example3_EN: A flock of flamingos is foraging by the lake.
+
+===word: 海象===
+Meaning: walrus; elephant seal
+Nuance_EN: Large marine mammal with prominent tusks, found in Arctic regions. The name literally means 'sea elephant'.
+Nuance_CN: 大型海洋哺乳动物，有长长的獠牙，生活在北极地区。
+Example1: 海象在冰面上晒太阳。
+Example1_EN: The walrus is basking on the ice.
+Example2: 海象的獠牙可以用来防御敌人。
+Example2_EN: Walruses use their tusks to defend against enemies.
+Example3: 这只海象重达一吨以上。
+Example3_EN: This walrus weighs over a ton.
+
+===word: 海豹===
+Meaning: seal
+Nuance_EN: Common marine mammal known for its playful behavior and presence in cold waters.
+Nuance_CN: 常见的海洋哺乳动物，体型圆润，善于游泳，常出现在寒冷水域。
+Example1: 海豹在岸边懒洋洋地躺着。
+Example1_EN: The seals are lazing on the shore.
+Example2: 这只海豹正在水里捕鱼。
+Example2_EN: This seal is catching fish in the water.
+Example3: 海洋馆里的海豹表演很受欢迎。
+Example3_EN: The seal show at the aquarium is very popular.
+
+===word: 辅具===
+Meaning: assistive device
+Nuance_EN: Refers to tools or equipment that assist people with disabilities or injuries in daily activities.
+Nuance_CN: 辅助器具，帮助残疾或受伤人士进行日常活动的工具。
+Example1: 老年人需要使用辅具来辅助行走。
+Example1_EN: Elderly people need assistive devices to help them walk.
+Example2: 这家公司专门生产康复辅具。
+Example2_EN: This company specializes in producing rehabilitation assistive devices.
+Example3: 现代辅具大大提高了残疾人的生活质量。
+Example3_EN: Modern assistive devices have greatly improved the quality of life for people with disabilities.
+
+===word: 库存===
+Meaning: stock; inventory
+Nuance_EN: Business term for goods or materials stored for future use or sale.
+Nuance_CN: 商业术语，指仓库中储存以备销售或使用的货物。
+Example1: 我们的库存已经不多了。
+Example1_EN: Our inventory is running low.
+Example2: 年底公司需要盘点库存。
+Example2_EN: The company needs to take inventory at the end of the year.
+Example3: 库存积压导致资金周转困难。
+Example3_EN: Excess inventory is causing cash flow problems.
+
+===word: 怒吼===
+Meaning: to roar; to howl
+Nuance_EN: Describes a powerful, angry roar from an animal or a loud natural sound like wind or waves.
+Nuance_CN: 猛兽愤怒的吼叫声，也形容风声、海浪等巨大的声响。
+Example1: 狮子发出一声怒吼。
+Example1_EN: The lion let out a roar.
+Example2: 狂风怒吼，海浪滔天。
+Example2_EN: The wind howled and the waves soared.
+Example3: 人群发出愤怒的怒吼声。
+Example3_EN: The crowd let out an angry roar.
+
+===word: 开采===
+Meaning: to mine; to extract
+Nuance_EN: Used for extracting natural resources like coal, oil, minerals from the earth.
+Nuance_CN: 指从地下开采或提取煤炭、石油、矿产等自然资源。
+Example1: 这个矿区正在开采稀土。
+Example1_EN: This mining area is extracting rare earth minerals.
+Example2: 过度开采石油会导致资源枯竭。
+Example2_EN: Over-extraction of oil will lead to resource depletion.
+Example3: 开采煤矿需要严格的安全措施。
+Example3_EN: Coal mining requires strict safety measures.
+
+===word: 首要===
+Meaning: primary; foremost
+Nuance_EN: Describes the most important or highest-priority task, goal, or element.
+Nuance_CN: 形容最重要或放在首位的事情、目标或因素。
+Example1: 安全是工程建设的首要问题。
+Example1_EN: Safety is the foremost concern in engineering construction.
+Example2: 当前的首要任务是恢复秩序。
+Example2_EN: The primary task now is to restore order.
+Example3: 教育是国家的首要大事。
+Example3_EN: Education is the nation's top priority.
+
+===word: 拉扯===
+Meaning: to drag; to raise with difficulty
+Nuance_EN: Colloquial word with two main senses: physically pulling someone, or struggling to raise a child.
+Nuance_CN: 口语词，可指用力拉拽，也可比喻辛苦地抚养孩子。
+Example1: 别拉扯我的袖子。
+Example1_EN: Don't pull my sleeve.
+Example2: 母亲一个人把他拉扯大。
+Example2_EN: His mother raised him all by herself with great difficulty.
+Example3: 他们拉扯了半天也没达成一致。
+Example3_EN: They argued back and forth for a long time without reaching an agreement.
+
+===word: 生路===
+Meaning: means of livelihood; way out
+Nuance_EN: Refers to a path to survival — a way to make a living or escape from a difficult situation.
+Nuance_CN: 指生存的方法或摆脱困境的出路。
+Example1: 公司倒闭后他不得不另谋生路。
+Example1_EN: After the company went bankrupt, he had to find another way to make a living.
+Example2: 在绝境中，他杀出了一条生路。
+Example2_EN: In desperate circumstances, he fought his way out.
+Example3: 改革开放给许多人带来了新的生路。
+Example3_EN: Reform and opening up brought new opportunities to many people.
+
+===word: 大意===
+Meaning: gist; main idea; careless
+Nuance_EN: Two distinct meanings: as a noun it means the general idea/gist; as an adjective it means careless.
+Nuance_CN: 有两个含义：名词指主要内容或大意；形容词指粗心大意。
+Example1: 请用一句话概括文章的大意。
+Example1_EN: Please summarize the gist of the article in one sentence.
+Example2: 他太大意了，竟然忘了锁门。
+Example2_EN: He was so careless that he forgot to lock the door.
+Example3: 段落大意写在笔记本上。
+Example3_EN: The main idea of the paragraph is written in the notebook.
+
+===word: 灭掉===
+Meaning: to eliminate; to extinguish
+Nuance_EN: Means to completely eliminate or put an end to something — fire, enemy, hope, etc.
+Nuance_CN: 表示彻底消灭或终止某事物，如火、敌人、希望等。
+Example1: 消防员很快灭掉了大火。
+Example1_EN: The firefighters quickly extinguished the blaze.
+Example2: 敌人被全部灭掉了。
+Example2_EN: The enemy was completely eliminated.
+Example3: 这个好消息灭掉了他所有的顾虑。
+Example3_EN: This good news dispelled all his concerns.
+
+===word: 忍饥挨饿===
+Meaning: to endure starvation
+Nuance_EN: Describes the suffering of going hungry over a period of time, often due to poverty or hardship.
+Nuance_CN: 形容因贫穷或困难而忍受饥饿的苦日子。
+Example1: 战争年代百姓忍饥挨饿。
+Example1_EN: During the war, the people endured starvation.
+Example2: 他小时候经常忍饥挨饿。
+Example2_EN: He often went hungry as a child.
+Example3: 我们不能让灾区人民忍饥挨饿。
+Example3_EN: We cannot let the disaster victims suffer from hunger.
+
+===word: 内应===
+Meaning: inside accomplice; plant
+Nuance_EN: A person operating from within an organization to assist outside forces, often in espionage or criminal contexts.
+Nuance_CN: 指潜伏在组织内部，与外部势力配合行动的人。
+Example1: 警方在犯罪团伙中安插了内应。
+Example1_EN: The police planted an informant inside the criminal gang.
+Example2: 没有内应，这起盗窃案不可能成功。
+Example2_EN: Without an inside accomplice, this theft couldn't have succeeded.
+Example3: 他被查出是敌对势力的内应。
+Example3_EN: He was discovered to be an agent for the opposing forces.
+
+===word: 邦交===
+Meaning: diplomatic relations
+Nuance_EN: Formal term for relationships between countries, especially in the context of establishing or severing ties.
+Nuance_CN: 指国与国之间的正式外交关系。
+Example1: 两国正式建立了邦交关系。
+Example1_EN: The two countries formally established diplomatic relations.
+Example2: 断交后两国的邦交关系一度中断。
+Example2_EN: After the severance, diplomatic relations between the two countries were cut off.
+Example3: 加强邦交有助于促进双边贸易。
+Example3_EN: Strengthening diplomatic relations helps promote bilateral trade.
+
+===word: 放哨===
+Meaning: to stand sentry; to patrol
+Nuance_EN: Military or security term for standing guard or patrolling a designated area.
+Nuance_CN: 军事或安保术语，指站岗或巡逻以警戒。
+Example1: 士兵们在营地周围放哨。
+Example1_EN: The soldiers are standing sentry around the camp.
+Example2: 晚上轮流放哨，每人两小时。
+Example2_EN: They take turns standing guard at night, two hours each.
+Example3: 放哨的士兵发现了可疑情况。
+Example3_EN: The sentry spotted something suspicious.
+
+===word: 沉稳===
+Meaning: steady; composed
+Nuance_EN: Describes a person who is calm, steady, and deliberate in their actions and decisions.
+Nuance_CN: 形容人处事稳重、冷静沉着，不浮躁。
+Example1: 他做事非常沉稳可靠。
+Example1_EN: He is very steady and reliable in his work.
+Example2: 面对危机，她表现得十分沉稳。
+Example2_EN: She remained very composed in the face of the crisis.
+Example3: 这位领导性格沉稳，深受员工信任。
+Example3_EN: This leader has a steady personality and is deeply trusted by employees.
+
+===word: 正统===
+Meaning: orthodox; legitimate
+Nuance_EN: Refers to the recognized, traditional, or mainstream form of a belief, institution, or dynasty.
+Nuance_CN: 指公认的正宗、传统或主流的派别、思想或政权。
+Example1: 这是最正统的儒家学说。
+Example1_EN: This is the most orthodox Confucian doctrine.
+Example2: 正统观念有时会阻碍创新。
+Example2_EN: Orthodox thinking can sometimes hinder innovation.
+Example3: 他是王位的正统继承人。
+Example3_EN: He is the legitimate heir to the throne.
+
+===word: 本行===
+Meaning: one's own profession
+Nuance_EN: Refers to the line of work or profession that a person is trained in or specializes in.
+Nuance_CN: 指一个人所从事或擅长的那一行、本专业。
+Example1: 教书才是他的本行。
+Example1_EN: Teaching is his real profession.
+Example2: 虽然做了管理，但他还是不忘本行。
+Example2_EN: Although he went into management, he never forgets his original profession.
+Example3: 三句话不离本行。
+Example3_EN: He can't talk for three sentences without mentioning his own line of work.
+
+===word: 炙===
+Meaning: to broil; to roast
+Nuance_EN: Literary character meaning to roast or scorch. Also used metaphorically for being scorched by the sun.
+Nuance_CN: 文言词，指烧烤或烤炙，也比喻烈日暴晒。
+Example1: 烈日炙烤着大地。
+Example1_EN: The blazing sun scorched the earth.
+Example2: 古人用火炙肉。
+Example2_EN: Ancient people roasted meat over fire.
+Example3: 炙热的阳光让人睁不开眼。
+Example3_EN: The scorching sun makes it hard to open one's eyes.
+
+===word: 运钞车===
+Meaning: armored cash transport vehicle
+Nuance_EN: A specially secured vehicle used to transport large amounts of cash between banks and businesses.
+Nuance_CN: 用于运输大量现金的专用装甲车辆。
+Example1: 运钞车停在银行门口。
+Example1_EN: The armored cash truck stopped at the bank entrance.
+Example2: 运钞车每天运送巨额现金。
+Example2_EN: The cash transport vehicle moves huge sums of money every day.
+Example3: 劫匪试图拦截运钞车。
+Example3_EN: The robbers tried to intercept the cash transport truck.
+
+===word: 火葬===
+Meaning: cremation
+Nuance_EN: The practice of disposing of a dead body by burning, as opposed to burial.
+Nuance_CN: 将死者遗体火化的殡葬方式，与土葬相对。
+Example1: 现在越来越多的人选择火葬。
+Example1_EN: More and more people now choose cremation.
+Example2: 火葬场在城市的郊区。
+Example2_EN: The crematorium is in the outskirts of the city.
+Example3: 他的骨灰在火葬后撒入了大海。
+Example3_EN: After cremation, his ashes were scattered into the sea.
+
+===word: 渎职===
+Meaning: dereliction of duty
+Nuance_EN: Formal/legal term for failing to perform one's official duties properly, often involving negligence or misconduct.
+Nuance_CN: 法律和正式用语，指公职人员未能履行应尽职责，含有失职、玩忽职守之意。
+Example1: 该官员因渎职被免职。
+Example1_EN: The official was dismissed for dereliction of duty.
+Example2: 渎职行为损害了政府的公信力。
+Example2_EN: Dereliction of duty undermines the government's credibility.
+Example3: 检察院对他提起渎职诉讼。
+Example3_EN: The procuratorate filed a malfeasance lawsuit against him.
+
+===word: 无暇===
+Meaning: to have no time; too busy
+Nuance_EN: Literary term for being so occupied that one has no spare time for other things.
+Nuance_CN: 书面语，指没有空闲时间去做某事。
+Example1: 最近工作太忙，无暇顾及爱好。
+Example1_EN: I've been too busy with work lately to attend to my hobbies.
+Example2: 他埋头写作，无暇他顾。
+Example2_EN: He was buried in his writing with no time for anything else.
+Example3: 无暇思考，他只能凭直觉行动。
+Example3_EN: With no time to think, he had to act on instinct.
+
+===word: 心知肚明===
+Meaning: to know full well
+Nuance_EN: Describes knowing something very clearly in one's heart without needing it to be said out loud.
+Nuance_CN: 心里非常清楚明白，但不必说出口。
+Example1: 这件事大家心知肚明，不必说出来。
+Example1_EN: Everyone knows full well about this — no need to say it out loud.
+Example2: 他心知肚明自己错了。
+Example2_EN: He knows full well that he was wrong.
+Example3: 老板不说，但员工们都心知肚明。
+Example3_EN: The boss didn't say it, but the employees all knew it clearly.
+
+===word: 游走===
+Meaning: to wander; to roam
+Nuance_EN: Describes moving about without a fixed destination or purpose.
+Nuance_CN: 指没有固定目标地四处走动或徘徊。
+Example1: 他在公园里漫无目的地游走。
+Example1_EN: He wandered aimlessly in the park.
+Example2: 病毒在人群中游走传播。
+Example2_EN: The virus moves through the population spreading.
+Example3: 游走江湖多年，他看尽了人间冷暖。
+Example3_EN: After years of wandering, he has seen all the ups and downs of life.
+
+===word: 避风头===
+Meaning: to lie low; to avoid trouble
+Nuance_EN: Colloquial expression for temporarily hiding or staying away from a dangerous or controversial situation until it passes.
+Nuance_CN: 口语表达，指暂时躲起来，等风头过去再出来。
+Example1: 他犯了事后决定出去避风头。
+Example1_EN: After committing the offense, he decided to lie low elsewhere.
+Example2: 先在乡下避避风头，等事情平息了再说。
+Example2_EN: First lie low in the countryside and wait for things to calm down.
+Example3: 最近风声紧，他只好在家避风头。
+Example3_EN: Things are too hot lately, so he has to stay home and lie low.
+
+===word: 炮塔===
+Meaning: gun turret
+Nuance_EN: Military term for a rotating armored structure housing a gun on a tank, ship, or fortification.
+Nuance_CN: 军事术语，坦克、军舰或堡垒上装有火炮的可旋转装甲结构。
+Example1: 坦克的炮塔可以360度旋转。
+Example1_EN: The tank's turret can rotate 360 degrees.
+Example2: 战舰上的炮塔被炸毁了。
+Example2_EN: The gun turret on the warship was destroyed.
+Example3: 炮塔里有两名士兵操作。
+Example3_EN: Two soldiers operate inside the turret.
+
+===word: 忙里忙外===
+Meaning: to bustle about
+Nuance_EN: Describes someone who is very busy both inside and outside the house, dealing with various tasks.
+Nuance_CN: 形容里里外外、忙个不停的样子。
+Example1: 母亲一天到晚忙里忙外。
+Example1_EN: My mother bustles about all day long.
+Example2: 为准备宴会，她忙里忙外一整天。
+Example2_EN: To prepare for the banquet, she was busy bustling about all day.
+Example3: 他一个人忙里忙外，非常辛苦。
+Example3_EN: He bustles about all by himself — it's very hard work.
+
+===word: 说来===
+Meaning: to speak of; come to mention it
+Nuance_EN: Used at the start of a statement to introduce a topic, like 'come to think of it' or 'speaking of which'.
+Nuance_CN: 用于引出话题，相当于「说起来」或「提到这个」。
+Example1: 说来话长，我们慢慢聊。
+Example1_EN: It's a long story — let's talk slowly.
+Example2: 说来也奇怪，他今天居然迟到了。
+Example2_EN: Come to think of it, it's strange that he was late today.
+Example3: 说来惭愧，我还没看完那本书。
+Example3_EN: I'm embarrassed to say, I still haven't finished that book.
+
+===word: 瞻前顾后===
+Meaning: overcautious; indecisive
+Nuance_EN: Literal meaning is 'look ahead and behind', but idiomatically describes someone overly cautious and hesitant.
+Nuance_CN: 字面是向前看又向后看，比喻做事顾虑太多、犹豫不决。
+Example1: 做决定时要果断，不要瞻前顾后。
+Example1_EN: Be decisive when making decisions; don't be overcautious.
+Example2: 他瞻前顾后，错过了最佳时机。
+Example2_EN: His indecisiveness made him miss the best opportunity.
+Example3: 创业需要勇气，瞻前顾后成不了大事。
+Example3_EN: Starting a business requires courage — being overcautious won't achieve great things.
+
+===word: 自导自演===
+Meaning: to direct and act oneself; self-staged
+Nuance_EN: Literally 'direct and act oneself' — used for someone who both plans and executes something, often a scheme.
+Nuance_CN: 本义指自己导演自己表演，常比喻一个人策划并执行某事，常有负面含义。
+Example1: 整件事都是他自导自演的骗局。
+Example1_EN: The whole thing was a scam he staged himself.
+Example2: 这部电影他自导自演，非常成功。
+Example2_EN: He both directed and starred in this film, and it was very successful.
+Example3: 别演戏了，这分明是你自导自演的。
+Example3_EN: Stop acting — this is clearly something you staged yourself.
+
+===word: 暴徒===
+Meaning: thug; rioter
+Nuance_EN: Refers to violent individuals who engage in destructive or lawless behavior, especially in groups.
+Nuance_CN: 指参与暴力破坏活动的凶徒、歹徒。
+Example1: 暴徒在街上打砸抢烧。
+Example1_EN: The rioters were smashing, looting, and burning on the streets.
+Example2: 警方逮捕了多名暴徒。
+Example2_EN: The police arrested several thugs.
+Example3: 暴徒的行为严重危害了公共安全。
+Example3_EN: The thugs' actions seriously endangered public safety.
+
+===word: 并排===
+Meaning: side by side; abreast
+Nuance_EN: Describes two or more people or things arranged in a line, side by side.
+Nuance_CN: 指人或物排成一条横线，肩并肩地排列。
+Example1: 两个人并排走在路上。
+Example1_EN: The two of them walked side by side on the road.
+Example2: 自行车不要并排骑行。
+Example2_EN: Don't ride bicycles side by side.
+Example3: 两辆车并排停在停车场上。
+Example3_EN: Two cars are parked side by side in the parking lot.
+
+===word: 收手===
+Meaning: to stop; to give up
+Nuance_EN: Dialectal term for stopping an activity, especially when realizing continuing is unwise or harmful.
+Nuance_CN: 方言用语，指停止做某件事，尤其是意识到继续下去不利时。
+Example1: 劝你还是早点收手吧。
+Example1_EN: I suggest you stop while you still can.
+Example2: 他赚了一笔后就收手不干了。
+Example2_EN: After making a profit, he stopped and quit.
+Example3: 警方劝告犯罪团伙尽快收手自首。
+Example3_EN: The police urged the criminal gang to stop and turn themselves in.
+
+===word: 明面===
+Meaning: on the surface; overtly
+Nuance_EN: Refers to the visible or public aspect of something, as opposed to hidden or behind-the-scenes.
+Nuance_CN: 指公开的、表面上的方面，与暗地里相对。
+Example1: 他把所有问题都摆到了明面上。
+Example1_EN: He put all the issues on the table.
+Example2: 这件事明面上是合作，暗地里却是竞争。
+Example2_EN: On the surface, it's cooperation, but behind the scenes, it's competition.
+Example3: 明面上的规则大家都遵守。
+Example3_EN: Everyone follows the overt rules.
+
+===word: 吞云吐雾===
+Meaning: to smoke (opium/cigarettes)
+Nuance_EN: Vivid idiom literally meaning 'swallow clouds and blow out fog', used to describe smoking.
+Nuance_CN: 生动的习语，字面意为吞云吐雾，形容吸烟的样子。
+Example1: 他坐在角落里吞云吐雾。
+Example1_EN: He sat in the corner smoking.
+Example2: 房间里有人在吞云吐雾，空气很差。
+Example2_EN: Someone was smoking in the room, and the air was terrible.
+Example3: 戒烟之后，他不再吞云吐雾了。
+Example3_EN: After quitting smoking, he no longer puffs away.
+
+===word: 眼福===
+Meaning: good fortune of seeing something rare
+Nuance_EN: Refers to the luck or pleasure of getting to see something beautiful or rare.
+Nuance_CN: 指有幸看到美好或稀有事物的福气。
+Example1: 今天真是大饱眼福。
+Example1_EN: Today I really feasted my eyes.
+Example2: 这场演出让观众大饱眼福。
+Example2_EN: This performance was a real treat for the audience.
+Example3: 能亲眼看到极光，真是眼福不浅。
+Example3_EN: Being able to see the aurora with my own eyes was truly a stroke of good fortune.
+
+===word: 怀表===
+Meaning: pocket watch
+Nuance_EN: A traditional timepiece designed to be carried in a pocket, as opposed to a wristwatch.
+Nuance_CN: 一种传统钟表，可以放在口袋里携带，与手表相对。
+Example1: 爷爷有一块祖传的怀表。
+Example1_EN: Grandfather has a pocket watch passed down through generations.
+Example2: 怀表链子上挂着一枚吊坠。
+Example2_EN: A pendant hangs from the pocket watch chain.
+Example3: 现在戴怀表的人越来越少了。
+Example3_EN: Fewer and fewer people wear pocket watches nowadays.
+
+===word: 混蛋===
+Meaning: bastard; scoundrel
+Nuance_EN: A strong vulgar insult, literally 'muddled egg', meaning a despicable or contemptible person.
+Nuance_CN: 粗俗的骂人话，字面意思是「混浊的蛋」，指可恶的人。
+Example1: 你这个混蛋，竟敢骗我！
+Example1_EN: You bastard, how dare you lie to me!
+Example2: 那个混蛋偷走了我的钱包。
+Example2_EN: That scoundrel stole my wallet.
+Example3: 他真是个混蛋，做了那么过分的事。
+Example3_EN: He's such a bastard for doing something so outrageous.
+
+===word: 抽调===
+Meaning: to transfer (personnel/material)
+Nuance_EN: Refers to reassigning people or resources from one place to another, typically for a specific task.
+Nuance_CN: 指将人员或物资从一个地方调往另一个地方以完成特定任务。
+Example1: 公司从各部门抽调人手支援新项目。
+Example1_EN: The company transferred personnel from various departments to support the new project.
+Example2: 政府抽调了大批物资支援灾区。
+Example2_EN: The government transferred large quantities of supplies to support the disaster area.
+Example3: 他被抽调去参加紧急救援行动。
+Example3_EN: He was temporarily transferred to participate in the emergency rescue operation.
+
+===word: 巡游===
+Meaning: to patrol; to stroll about
+Nuance_EN: Can mean either patrolling an area or strolling about leisurely.
+Nuance_CN: 既可指巡逻执勤，也可指悠闲地四处走动。
+Example1: 士兵在边界线上巡游。
+Example1_EN: The soldiers are patrolling the border.
+Example2: 节日期间花车在街上巡游。
+Example2_EN: During the festival, parade floats cruise through the streets.
+Example3: 他们乘船在湖上巡游。
+Example3_EN: They took a boat and cruised around the lake.
+
+===word: 大伙儿===
+Meaning: everybody; everyone
+Nuance_EN: Colloquial term (with erhua) meaning 'everyone' or 'all of us'.
+Nuance_CN: 带儿化音的口语词，指大家、所有人。
+Example1: 大伙儿一起去吃饭吧。
+Example1_EN: Let's all go eat together.
+Example2: 这事儿大伙儿都知道了。
+Example2_EN: Everyone already knows about this.
+Example3: 今天大伙儿都辛苦了。
+Example3_EN: Everyone worked hard today.
+
+===word: 跟丢===
+Meaning: to lose track of
+Nuance_EN: Means losing sight of someone you were following or tracking.
+Nuance_CN: 指跟踪或跟随某人时跟丢了、失去了目标。
+Example1: 我在人群里跟丢了他。
+Example1_EN: I lost track of him in the crowd.
+Example2: 警察在追捕中跟丢了嫌疑人。
+Example2_EN: The police lost the suspect during the chase.
+Example3: 信号太弱，无人机跟丢了目标。
+Example3_EN: The signal was too weak, and the drone lost track of the target.
+
+===word: 窃取===
+Meaning: to steal; to usurp
+Nuance_EN: Implies stealing through cunning or underhanded means, often intellectual property or secrets.
+Nuance_CN: 指通过狡猾或卑鄙的手段窃取，常指窃取情报、成果等。
+Example1: 有人窃取了公司的商业秘密。
+Example1_EN: Someone stole the company's trade secrets.
+Example2: 他窃取别人的研究成果据为己有。
+Example2_EN: He stole someone else's research results and claimed them as his own.
+Example3: 窃取国家机密是重罪。
+Example3_EN: Stealing state secrets is a serious crime.
+
+===word: 随机应变===
+Meaning: to adapt to circumstances
+Nuance_EN: Describes the ability to adjust one's actions according to changing situations, being resourceful.
+Nuance_CN: 形容根据情况的变化灵活应对，善于变通。
+Example1: 做销售需要学会随机应变。
+Example1_EN: In sales, you need to learn to adapt to changing circumstances.
+Example2: 他随机应变的能力很强。
+Example2_EN: He is very resourceful and quick to adapt.
+Example3: 面试时如果遇到意外问题，要随机应变。
+Example3_EN: If you encounter unexpected questions in an interview, you need to adapt on the spot.
+
+===word: 蹊跷===
+Meaning: odd; fishy; suspicious
+Nuance_EN: Describes something that seems strange or suspicious, implying there's more to it than meets the eye.
+Nuance_CN: 形容事情奇怪、可疑，让人感觉不对劲。
+Example1: 这件事有点蹊跷。
+Example1_EN: There's something fishy about this.
+Example2: 警察发现了很多蹊跷的地方。
+Example2_EN: The police found many suspicious details.
+Example3: 这封信来得蹊跷，不像是普通的邮件。
+Example3_EN: The arrival of this letter was odd — it didn't seem like ordinary mail.
+
+===word: 血本===
+Meaning: principal; life's savings
+Nuance_EN: Literally 'blood capital', referring to one's hard-earned money or life savings invested in something.
+Nuance_CN: 字面「血」+「本」，指辛辛苦苦攒下的本金或血汗钱。
+Example1: 他投进去的血本全都赔光了。
+Example1_EN: He lost all the capital he invested.
+Example2: 小本生意经不起血本无归。
+Example2_EN: A small business can't afford to lose everything invested.
+Example3: 为了这个项目，他几乎把血本都押上了。
+Example3_EN: He staked almost all his savings on this project.
+
+===word: 护栏===
+Meaning: guardrail; railing
+Nuance_EN: Protective barrier installed along roads, bridges, or staircases to prevent falls.
+Nuance_CN: 安装在道路、桥梁或楼梯边缘用于防止坠落的保护性栏杆。
+Example1: 高速公路两侧都安装了护栏。
+Example1_EN: Guardrails are installed on both sides of the highway.
+Example2: 他扶着护栏慢慢走下楼梯。
+Example2_EN: He held onto the railing and slowly walked down the stairs.
+Example3: 阳台的护栏需要定期检查。
+Example3_EN: The balcony railing needs regular inspection.
+
+===word: 弩===
+Meaning: crossbow
+Nuance_EN: An ancient Chinese weapon that shoots arrows mechanically, more powerful than a regular bow.
+Nuance_CN: 古代的一种机械弓，威力比普通弓更大。
+Example1: 博物馆里陈列着古代的弩。
+Example1_EN: Ancient crossbows are displayed in the museum.
+Example2: 弩在战场上是一种强大的武器。
+Example2_EN: The crossbow was a powerful weapon on the battlefield.
+Example3: 他用弩射中了靶心。
+Example3_EN: He hit the bullseye with a crossbow.
+
+===word: 额度===
+Meaning: limit; quota
+Nuance_EN: Refers to a prescribed limit or quota, commonly used for credit, spending, or consumption.
+Nuance_CN: 规定或分配的限额，常用于信用卡额度、贷款额度等。
+Example1: 这张信用卡的额度是五万元。
+Example1_EN: The credit limit on this card is fifty thousand yuan.
+Example2: 今年的进口额度已经用完了。
+Example2_EN: This year's import quota has already been used up.
+Example3: 我需要提高我的借款额度。
+Example3_EN: I need to increase my loan limit.
+
+===word: 上瘾===
+Meaning: to become addicted
+Nuance_EN: Describes developing a dependency on a substance (drugs, alcohol) or an activity (gaming, social media).
+Nuance_CN: 对某物（毒品、酒精、游戏等）产生依赖，难以戒除。
+Example1: 他玩网络游戏上瘾了。
+Example1_EN: He became addicted to online gaming.
+Example2: 吸烟容易上瘾，戒烟很难。
+Example2_EN: Smoking is addictive, and quitting is very hard.
+Example3: 刷短视频容易上瘾，浪费时间。
+Example3_EN: Scrolling through short videos can be addictive and wastes time.
+
+===word: 师出有名===
+Meaning: to have just cause
+Nuance_EN: Literal meaning is 'send troops with a good name' — acting with a proper reason or justification.
+Nuance_CN: 字面意思是出兵有正当理由，比喻做事有充分的根据或正当理由。
+Example1: 我们这样做，也算是师出有名。
+Example1_EN: By doing this, we have just cause on our side.
+Example2: 抗议者要求政府师出有名。
+Example2_EN: The protesters demanded that the government have a legitimate reason.
+Example3: 任何军事行动都必须师出有名。
+Example3_EN: Any military action must have a justifiable cause.
+
+===word: 打爆===
+Meaning: to blow up; to max out
+Nuance_EN: Can mean to blow out/tire, computer game to zap, phone to ring off the hook, or credit card to max out.
+Nuance_CN: 多个含义：打爆轮胎、打爆游戏、打爆电话、刷爆信用卡等。
+Example1: 他的手机昨天被人打爆了。
+Example1_EN: His phone was ringing off the hook yesterday.
+Example2: 他把信用卡打爆了。
+Example2_EN: He maxed out his credit card.
+Example3: 游戏里他打爆了所有敌人。
+Example3_EN: In the game, he wiped out all the enemies.
+
+===word: 速战速决===
+Meaning: quick battle; prompt action
+Nuance_EN: Strategy of fighting a short battle for a quick resolution; used in both military and everyday contexts.
+Nuance_CN: 军事策略——快速作战、迅速解决；也用于日常事务中。
+Example1: 我们没有太多时间，必须速战速决。
+Example1_EN: We don't have much time — we must act quickly and decisively.
+Example2: 这次行动要速战速决。
+Example2_EN: This operation needs to be quick and decisive.
+Example3: 谈判进行得很快，做到了速战速决。
+Example3_EN: The negotiation was fast and achieved a quick resolution.
+
+===word: 瞟===
+Meaning: to glance sideways
+Nuance_EN: Describes a quick sidelong glance, often implying secrecy, disdain, or flirting.
+Nuance_CN: 眼角快速地斜看一下，常带有秘密、轻蔑或调情的意味。
+Example1: 他瞟了一眼旁边的女生。
+Example1_EN: He glanced sideways at the girl next to him.
+Example2: 她瞟了他一眼，没有说话。
+Example2_EN: She shot him a sidelong glance without saying a word.
+Example3: 我瞟了一眼窗外，发现下雨了。
+Example3_EN: I glanced sideways out the window and saw it was raining.
+
+===word: 鬣狗===
+Meaning: hyena
+Nuance_EN: A wild African carnivorous mammal known for its laugh-like call and scavenging habits.
+Nuance_CN: 非洲的一种野生食肉动物，以其像笑声般的叫声和食腐习性著称。
+Example1: 鬣狗在草原上成群活动。
+Example1_EN: Hyenas move in packs across the grassland.
+Example2: 鬣狗的咬合力非常惊人。
+Example2_EN: The hyena's bite force is astonishing.
+Example3: 在动物园里我第一次见到了鬣狗。
+Example3_EN: I saw a hyena for the first time at the zoo.
+
+===word: 预计===
+Meaning: to estimate; to predict
+Nuance_EN: Used for estimating future outcomes, timelines, or costs based on current information.
+Nuance_CN: 根据现有信息对未来的结果、时间或成本进行估算或预测。
+Example1: 工程预计明年年底完工。
+Example1_EN: The project is estimated to be completed by the end of next year.
+Example2: 预计今天下午会有大雨。
+Example2_EN: Heavy rain is forecast for this afternoon.
+Example3: 今年的经济增长率预计在百分之五左右。
+Example3_EN: This year's economic growth rate is estimated at around 5%.
+
+===word: 瞎说===
+Meaning: to talk nonsense
+Nuance_EN: Colloquial, literally 'blind talk', meaning to speak without basis or to say things that aren't true.
+Nuance_CN: 口语词，字面「瞎」+「说」，指没有根据地乱说。
+Example1: 你别听他瞎说。
+Example1_EN: Don't listen to his nonsense.
+Example2: 他根本不懂，就是在瞎说。
+Example2_EN: He doesn't understand at all — he's just talking nonsense.
+Example3: 瞎说也要有个限度。
+Example3_EN: There's a limit to how much nonsense one can spout.
+
+===word: 反超===
+Meaning: to overtake; to turn the tide
+Nuance_EN: Used in sports or competition contexts for overtaking the opponent after being behind.
+Nuance_CN: 体育或竞争用语，指在落后情况下反超对手。
+Example1: 最后一分钟，他反超了对手。
+Example1_EN: In the last minute, he overtook his opponent.
+Example2: 该队在最后阶段实现了反超。
+Example2_EN: The team staged a comeback in the final stage.
+Example3: 股票价格反超了历史最高点。
+Example3_EN: The stock price surpassed its historical high.
+
+===word: 打掉===
+Meaning: to destroy; to knock out; to abort
+Nuance_EN: Colloquial with multiple senses: destroy physically, abort a fetus, or eliminate a threat.
+Nuance_CN: 口语词，可指打掉物体、打掉胎儿或消灭敌人。
+Example1: 警方打掉了一个犯罪团伙。
+Example1_EN: The police busted a criminal gang.
+Example2: 他不小心打掉了桌上的杯子。
+Example2_EN: He accidentally knocked the cup off the table.
+Example3: 敌军的一个据点被成功打掉。
+Example3_EN: An enemy stronghold was successfully taken out.
+
+===word: 后生可畏===
+Meaning: the younger generation is formidable
+Nuance_EN: Expression of praise acknowledging that young people are impressive and should be taken seriously.
+Nuance_CN: 称赞年轻人有出息，让人敬畏其才华和潜力。
+Example1: 这位年轻选手的表现真是后生可畏。
+Example1_EN: This young competitor's performance is truly formidable.
+Example2: 看着这些年轻人的成就，不禁感叹后生可畏。
+Example2_EN: Seeing these young people's achievements, one can't help but marvel at the younger generation.
+Example3: 后生可畏，我们这些老一辈也得多学习。
+Example3_EN: The young are formidable — we older folks need to keep learning too.
+
+===word: 赴约===
+Meaning: to keep an appointment
+Nuance_EN: Formal term for going to a pre-arranged meeting or appointment on time.
+Nuance_CN: 按时前往约定的地点与某人见面。
+Example1: 她准时赴约，没有迟到。
+Example1_EN: She kept the appointment on time without being late.
+Example2: 他因为堵车没能赴约。
+Example2_EN: He couldn't make the appointment because of traffic.
+Example3: 赴约之前最好先确认时间和地点。
+Example3_EN: It's best to confirm the time and place before going to an appointment.
+
+===word: 忌惮===
+Meaning: to dread; to have scruples
+Nuance_EN: Literary term meaning to fear or be wary of someone/something due to potential consequences.
+Nuance_CN: 书面语，指因害怕后果而有所顾忌或畏惧。
+Example1: 他无所忌惮地说了实话。
+Example1_EN: He spoke the truth without any scruples.
+Example2: 对于这个对手，他心存忌惮。
+Example2_EN: He has some trepidation about this opponent.
+Example3: 她毫无忌惮地批评了公司政策。
+Example3_EN: She criticized the company policy without any fear.
+
+===word: 炮灰===
+Meaning: cannon fodder
+Nuance_EN: Metaphor for soldiers or people who are sacrificed in a war or conflict for a cause they may not believe in.
+Nuance_CN: 比喻战争中被迫送死或被牺牲的人，如同炮弹的灰烬。
+Example1: 普通士兵在战争中不过是炮灰。
+Example1_EN: Ordinary soldiers are nothing but cannon fodder in war.
+Example2: 他不愿意做别人利益的炮灰。
+Example2_EN: He is unwilling to be cannon fodder for others' interests.
+Example3: 战争贩子视士兵为炮灰。
+Example3_EN: War mongers see soldiers as cannon fodder.
+
+===word: 兴盛===
+Meaning: prosperous; flourishing
+Nuance_EN: Describes a nation, business, or culture that is thriving and growing strongly.
+Nuance_CN: 形容国家、事业或文化蓬勃发展、蒸蒸日上。
+Example1: 唐朝是中国历史上最兴盛的朝代之一。
+Example1_EN: The Tang Dynasty was one of the most prosperous periods in Chinese history.
+Example2: 这家公司越来越兴盛。
+Example2_EN: This company is becoming more and more prosperous.
+Example3: 经济兴盛带来了文化繁荣。
+Example3_EN: Economic prosperity brings cultural flourishing.
+
+===word: 掀翻===
+Meaning: to overturn; to turn over
+Nuance_EN: Means to physically flip something over or to overcome/defeat someone dramatically.
+Nuance_CN: 指把物体翻转过来，也比喻彻底打败对手。
+Example1: 大风把渔船掀翻了。
+Example1_EN: The strong wind capsized the fishing boat.
+Example2: 他一把掀翻了桌子。
+Example2_EN: He flipped the table over in one go.
+Example3: 这场比赛他们掀翻了卫冕冠军。
+Example3_EN: In this match, they overturned the defending champions.
+
+===word: 嘘声===
+Meaning: hissing; booing
+Nuance_EN: The sound made by an audience to show displeasure or disapproval, like booing or hissing.
+Nuance_CN: 观众发出的表示不满或反对的声音，如嘘声或喝倒彩。
+Example1: 观众对裁判的判决发出嘘声。
+Example1_EN: The audience booed at the referee's decision.
+Example2: 演讲者在嘘声中走下舞台。
+Example2_EN: The speaker walked off stage amid boos.
+Example3: 球场上嘘声四起。
+Example3_EN: The stadium erupted in boos.
+
+===word: 忍无可忍===
+Meaning: to reach the end of one's patience
+Nuance_EN: Describes reaching a point where one's patience or tolerance is completely exhausted.
+Nuance_CN: 形容忍耐到了极限，再也无法忍受下去。
+Example1: 他对邻居的噪音忍无可忍。
+Example1_EN: He reached the end of his patience with the neighbor's noise.
+Example2: 终于她忍无可忍地发火了。
+Example2_EN: Finally, she lost her temper, unable to take it anymore.
+Example3: 客户的投诉让客服忍无可忍。
+Example3_EN: The customer's complaints pushed the service agent beyond endurance.
+
+===word: 躯干===
+Meaning: trunk; torso
+Nuance_EN: Anatomical term for the main part of the human body, excluding the head, arms, and legs.
+Nuance_CN: 人体解剖学名词，指除头部、四肢以外的身体主干部分。
+Example1: 这项运动能有效锻炼躯干肌肉。
+Example1_EN: This exercise effectively trains the core muscles.
+Example2: 他的躯干上有多处伤痕。
+Example2_EN: There were multiple scars on his torso.
+Example3: 游泳有助于增强躯干力量。
+Example3_EN: Swimming helps strengthen the torso.
+
+===word: 哀嚎===
+Meaning: to wail; to howl piteously
+Nuance_EN: Describes a mournful cry or howl, from either humans in grief or animals in pain.
+Nuance_CN: 形容人悲痛或动物痛苦时发出的哀叫声。
+Example1: 受伤的狼在深夜哀嚎。
+Example1_EN: The injured wolf howled piteously in the dead of night.
+Example2: 家属在遗体前哀嚎痛哭。
+Example2_EN: The family members wailed bitterly before the body.
+Example3: 寒风穿过裂缝发出哀嚎般的声音。
+Example3_EN: The cold wind made a wailing sound as it passed through the cracks.
+
+===word: 弥补===
+Meaning: to make up for; to remedy
+Nuance_EN: Used for compensating for a loss, deficiency, or mistake to restore balance or fix the issue.
+Nuance_CN: 补偿损失、弥补不足或改正错误，使恢复平衡。
+Example1: 他努力工作以弥补之前的失误。
+Example1_EN: He worked hard to make up for his previous mistake.
+Example2: 公司决定加薪来弥补员工的损失。
+Example2_EN: The company decided to raise salaries to compensate for the employees' losses.
+Example3: 没有什么能弥补失去的时间。
+Example3_EN: Nothing can make up for lost time.
+
+===word: 发际线===
+Meaning: hairline
+Nuance_EN: The line where hair grows on the forehead, often mentioned in the context of balding.
+Nuance_CN: 额头与头发交界处的线条，常提及在脱发或发际线后移的情况下。
+Example1: 他的发际线越来越高。
+Example1_EN: His hairline is receding.
+Example2: 发际线后移是很多人担心的一个问题。
+Example2_EN: A receding hairline is a concern for many people.
+Example3: 她的发际线很整齐漂亮。
+Example3_EN: Her hairline is neat and beautiful.
+
+===word: 韧性===
+Meaning: tenacity; toughness
+Nuance_EN: Describes physical toughness (malleability of metal) as well as mental resilience and perseverance.
+Nuance_CN: 既可指材料的韧性和延展性，也可比喻人坚韧不拔的精神。
+Example1: 钢丝具有很强的韧性。
+Example1_EN: Steel wire has strong toughness.
+Example2: 她以极大的韧性克服了困难。
+Example2_EN: She overcame the difficulties with great tenacity.
+Example3: 创业需要韧性和耐心。
+Example3_EN: Starting a business requires tenacity and patience.
+
+===word: 秘藏===
+Meaning: to secretly store; to hide
+Nuance_EN: Describes hiding or storing something valuable in a secret place.
+Nuance_CN: 把珍贵的东西秘密地收藏或隐藏起来。
+Example1: 他在阁楼里秘藏了一批古董。
+Example1_EN: He secretly stored a collection of antiques in the attic.
+Example2: 家族秘藏的宝物终于重见天日。
+Example2_EN: The family's hidden treasure finally saw the light of day.
+Example3: 这份秘藏的手稿有很高的历史价值。
+Example3_EN: This secretly stored manuscript has great historical value.
+
+===word: 沉浮===
+Meaning: ups and downs; vicissitudes
+Nuance_EN: Literally 'sink and float', metaphorically describing the rise and fall of fortune or career.
+Nuance_CN: 字面指在水中沉浮，比喻人生或事业的兴衰起伏。
+Example1: 他在官场沉浮多年。
+Example1_EN: He experienced many ups and downs in his official career.
+Example2: 这本书讲述了主人公在商海的沉浮。
+Example2_EN: This book tells of the protagonist's vicissitudes in the business world.
+Example3: 人生有沉浮，关键是要保持心态。
+Example3_EN: Life has its ups and downs; the key is to maintain the right attitude.
+
+===word: 暗流===
+Meaning: undercurrent; hidden trend
+Nuance_EN: Literally 'hidden current', used metaphorically for hidden forces or trends beneath the surface.
+Nuance_CN: 字面是暗中的水流，比喻隐藏在社会表面下的势力或动向。
+Example1: 平静的表面下暗流涌动。
+Example1_EN: Under the calm surface, turbulent undercurrents are stirring.
+Example2: 谈判看似顺利，实则暗流汹涌。
+Example2_EN: The negotiations seem smooth, but hidden tensions are simmering.
+Example3: 社会暗流往往预示着变革的到来。
+Example3_EN: Undercurrents in society often signal the approach of change.
+
+===word: 血花===
+Meaning: spattered drops of blood
+Nuance_EN: Poetic or vivid term for droplets or splashes of blood.
+Nuance_CN: 诗意的词汇，指飞溅的血滴或血迹。
+Example1: 子弹击中后，血花飞溅。
+Example1_EN: After the bullet hit, blood splattered everywhere.
+Example2: 洁白的雪地上绽放着血花。
+Example2_EN: Blood blossoms bloomed on the pure white snow.
+Example3: 他的白衬衫上绽放了血花。
+Example3_EN: Blood blossomed on his white shirt.
+
+===word: 伸张===
+Meaning: to uphold; to promote
+Nuance_EN: Used in the context of upholding justice or promoting righteousness.
+Nuance_CN: 用于正义、正气等抽象概念，表示发扬、维护。
+Example1: 法律应当伸张正义。
+Example1_EN: The law should uphold justice.
+Example2: 他一生都在伸张正义。
+Example2_EN: He spent his life upholding justice.
+Example3: 这篇文章伸张了社会正气。
+Example3_EN: This article promotes social righteousness.
+
+===word: 协警===
+Meaning: auxiliary police
+Nuance_EN: Police assistants or support personnel who help regular police with non-core law enforcement duties.
+Nuance_CN: 协助正式警察工作的辅助警务人员。
+Example1: 协警在路口指挥交通。
+Example1_EN: The auxiliary police are directing traffic at the intersection.
+Example2: 两名协警在社区巡逻。
+Example2_EN: Two auxiliary police officers are patrolling the community.
+Example3: 协警协助正式警察维护治安。
+Example3_EN: Auxiliary police assist regular officers in maintaining public order.
+
+===word: 政变===
+Meaning: coup d'état
+Nuance_EN: A sudden, illegal seizure of government power, typically by military or political groups.
+Nuance_CN: 指通过非法手段突然夺取国家政权的行为，通常由军方或政治集团发动。
+Example1: 该国军人发动了政变。
+Example1_EN: The military staged a coup d'état in that country.
+Example2: 政变导致国家陷入混乱。
+Example2_EN: The coup plunged the country into chaos.
+Example3: 一场未遂政变被政府镇压了。
+Example3_EN: An attempted coup was suppressed by the government.
+
+===word: 左轮===
+Meaning: revolver
+Nuance_EN: A type of handgun with a rotating cylinder holding multiple rounds of ammunition.
+Nuance_CN: 一种手枪，弹仓是旋转式的，可装多发子弹。
+Example1: 牛仔腰间别着一把左轮手枪。
+Example1_EN: The cowboy wore a revolver at his waist.
+Example2: 左轮手枪在西部片中很常见。
+Example2_EN: Revolvers are common in Western movies.
+Example3: 老式左轮手枪现在成了收藏品。
+Example3_EN: Old-fashioned revolvers are now collector's items.
+
+===word: 跟班===
+Meaning: follower; attendant
+Nuance_EN: Can mean a footman/servant (dated) or working alongside a group/shift.
+Nuance_CN: 可指旧时的随从仆人，也可指跟随某个班组一起工作。
+Example1: 他像是老板的跟班一样。
+Example1_EN: He's like the boss's lackey.
+Example2: 这位经理跟班劳动了一整天。
+Example2_EN: The manager worked alongside the team all day.
+Example3: 他带着两个跟班走进了会场。
+Example3_EN: He walked into the venue with two attendants.
+
+===word: 为民请命===
+Meaning: to plead for the people
+Nuance_EN: Describes someone who speaks up on behalf of the common people, asking for their suffering to be alleviated.
+Nuance_CN: 指代表老百姓向上级请求减轻负担或解除痛苦。
+Example1: 这位官员敢于为民请命。
+Example1_EN: This official dared to plead for the people.
+Example2: 古代清官以为民请命为己任。
+Example2_EN: Honest officials in ancient times saw it as their duty to plead for the people.
+Example3: 他在会上为民请命，要求改善民生。
+Example3_EN: At the meeting, he pleaded on behalf of the people, demanding better livelihoods.
+
+===word: 一无所获===
+Meaning: to gain nothing; empty-handed
+Nuance_EN: Describes ending up with nothing to show for one's efforts — no results, no rewards.
+Nuance_CN: 指经过一番努力后没有任何收获或成果。
+Example1: 他们在沙漠里找了三天，一无所获。
+Example1_EN: They searched in the desert for three days and found nothing.
+Example2: 这次行动警方一无所获。
+Example2_EN: The police operation yielded nothing.
+Example3: 虽然努力了很多，但他最终还是—无所获。
+Example3_EN: Although he worked hard, he ended up with nothing.
+
+===word: 掌舵===
+Meaning: to steer; to be at the helm
+Nuance_EN: Literally to steer a ship; metaphorically to be in charge or lead an organization.
+Nuance_CN: 字面是掌舵行船，比喻领导或掌控某个组织或方向。
+Example1: 由他来掌舵这家公司，我们很放心。
+Example1_EN: With him at the helm of this company, we are very reassured.
+Example2: 年轻的CEO掌舵企业前进的方向。
+Example2_EN: The young CEO steers the direction of the enterprise.
+Example3: 关键时刻需要有人掌舵。
+Example3_EN: In critical moments, someone needs to take the helm.
+
+===word: 字面===
+Meaning: literal meaning
+Nuance_EN: Refers to the literal or surface meaning of a word or phrase, as opposed to figurative.
+Nuance_CN: 指文字表面的直接意思，与比喻义或引申义相对。
+Example1: 这句话不能从字面理解。
+Example1_EN: This sentence should not be understood literally.
+Example2: 从字面上看，这个合同没有问题。
+Example2_EN: On the surface, this contract has no issues.
+Example3: 字面意思和实际含义可能不同。
+Example3_EN: The literal meaning and the actual meaning may differ.
+
+===word: 沓===
+Meaning: pile; stack (measure word)
+Nuance_EN: A measure word for piles of paper, documents, or banknotes.
+Nuance_CN: 用于纸张、文件或钞票的量词，表示一叠或一摞。
+Example1: 桌子上放着一沓文件。
+Example1_EN: A stack of documents is on the desk.
+Example2: 他从包里拿出一沓钞票。
+Example2_EN: He took out a wad of banknotes from his bag.
+Example3: 这沓纸够用一个月了。
+Example3_EN: This ream of paper will last a month.
+
+===word: 发放===
+Meaning: to distribute; to grant
+Nuance_EN: Refers to the official distribution of resources, funds, or goods, often by an institution.
+Nuance_CN: 由机构或组织正式发放贷款、物资或福利等。
+Example1: 银行正在向农民发放贷款。
+Example1_EN: The bank is issuing loans to farmers.
+Example2: 救援物资已经发放到灾区。
+Example2_EN: Relief supplies have been distributed to the disaster area.
+Example3: 公司每月按时发放工资。
+Example3_EN: The company distributes salaries on time every month.
+
+===word: 音讯===
+Meaning: news; message
+Nuance_EN: Refers to communication or news from someone, often after a period of silence.
+Nuance_CN: 指来自某人的消息或音信，常用于久无联系的情况。
+Example1: 他出国后便音讯全无。
+Example1_EN: After going abroad, there has been no news from him at all.
+Example2: 两人失去音讯多年后终于重逢。
+Example2_EN: After years of no contact, the two finally reunited.
+Example3: 我们互留电话以保持音讯。
+Example3_EN: We exchanged phone numbers to stay in touch.
+
+===word: 老奸巨猾===
+Meaning: crafty; cunning old fox
+Nuance_EN: Describes an old, experienced person who is extremely cunning and sly.
+Nuance_CN: 形容阅历丰富、极其狡猾奸诈的人。
+Example1: 这个老奸巨猾的商人骗了很多人。
+Example1_EN: This cunning old businessman has swindled many people.
+Example2: 他老奸巨猾，大家都不敢惹他。
+Example2_EN: He's a sly old fox — nobody dares to provoke him.
+Example3: 谈判对手老奸巨猾，我们必须小心。
+Example3_EN: The negotiating counterpart is a crafty old fox; we must be careful.
+
+===word: 挑肥拣瘦===
+Meaning: to pick the best for oneself
+Nuance_EN: Idiom meaning to choose only what is most advantageous while rejecting less desirable options.
+Nuance_CN: 比喻为了自身利益反复挑选，只要好的不要差的。
+Example1: 找工作不要挑肥拣瘦。
+Example1_EN: When looking for a job, don't be too picky.
+Example2: 他吃饭总是挑肥拣瘦的。
+Example2_EN: He's always picky about his food.
+Example3: 挑肥拣瘦的态度让人反感。
+Example3_EN: A picky, choosy attitude is off-putting.
+
+===word: 大错特错===
+Meaning: completely mistaken
+Nuance_EN: Emphatic idiom meaning totally and utterly wrong — a strong self-correction or criticism.
+Nuance_CN: 强调完全错误、大错特错，用于严厉地纠正或批评。
+Example1: 如果你这么想，那就大错特错了。
+Example1_EN: If you think that way, you're completely mistaken.
+Example2: 他大错特错地相信了那个谣言。
+Example2_EN: He was utterly wrong to believe that rumor.
+Example3: 事实证明他的判断大错特错。
+Example3_EN: It turned out his judgment was completely wrong.
+
+===word: 胡编===
+Meaning: to cook up; to fabricate
+Nuance_EN: Colloquial, meaning to make up stories or information without any basis in fact.
+Nuance_CN: 口语词，指没有根据地编造故事或信息。
+Example1: 他胡编了一个理由请假。
+Example1_EN: He cooked up an excuse to take leave.
+Example2: 这篇报道完全是胡编的。
+Example2_EN: This news report is completely fabricated.
+Example3: 别胡编乱造了，说实话吧。
+Example3_EN: Stop making things up and tell the truth.
+
+===word: 旁听===
+Meaning: to audit (a class); to sit in on
+Nuance_EN: Refers to attending a class or meeting as a non-participating observer.
+Nuance_CN: 指以旁听者身份参加课程或会议，不正式参与。
+Example1: 我可以旁听这门课吗？
+Example1_EN: May I audit this class?
+Example2: 市民可以旁听人大会议。
+Example2_EN: Citizens can sit in on the People's Congress meetings.
+Example3: 旁听生不需要交学费。
+Example3_EN: Auditing students don't need to pay tuition.
+
+===word: 媾和===
+Meaning: to make peace (after war)
+Nuance_EN: Literary term for making peace, especially after a conflict, sometimes implying a compromise.
+Nuance_CN: 书面语，指交战双方达成和平协议，常含妥协之意。
+Example1: 两国经过谈判终于媾和。
+Example1_EN: After negotiations, the two countries finally made peace.
+Example2: 单独媾和引起了盟友的不满。
+Example2_EN: The separate peace deal angered the allies.
+Example3: 双方都有媾和的意愿。
+Example3_EN: Both sides have the will to make peace.
+
+===word: 杂事===
+Meaning: trivial matters; odds and ends
+Nuance_EN: Refers to small, miscellaneous tasks or chores that are part of daily life but not important.
+Nuance_CN: 指日常生活中的琐碎小事或杂务。
+Example1: 他每天被杂事缠身，没时间做正事。
+Example1_EN: He's bogged down with trivial matters every day with no time for real work.
+Example2: 把这些杂事处理完我们再聊。
+Example2_EN: Let me finish these odds and ends first, then we can talk.
+Example3: 杂事虽小，但也不能忽视。
+Example3_EN: Though trivial, these tasks can't be ignored.
+
+===word: 由来===
+Meaning: origin; source
+Nuance_EN: Refers to the origin or source of something, or can mean 'up to now' (由来已久).
+Nuance_CN: 指事物的起源或来源；「由来已久」表示从过去一直持续到现在。
+Example1: 这个习俗的由来已久。
+Example1_EN: This custom has a long history.
+Example2: 请解释一下这个问题的由来。
+Example2_EN: Please explain the origin of this problem.
+Example3: 他们之间的矛盾由来已久。
+Example3_EN: The conflict between them is long-standing.
+
+===word: 窃窃私语===
+Meaning: to whisper; to murmur
+Nuance_EN: Describes people whispering quietly among themselves, often about something secret or gossipy.
+Nuance_CN: 形容人们小声地私下交谈，常含秘密或说闲话的意味。
+Example1: 台下的观众在窃窃私语。
+Example1_EN: The audience was whispering among themselves.
+Example2: 两个学生在后排窃窃私语。
+Example2_EN: Two students were whispering in the back row.
+Example3: 他们在角落里窃窃私语，好像在谈论什么秘密。
+Example3_EN: They were whispering in the corner, as if talking about some secret.
+
+===word: 围剿===
+Meaning: to encircle and suppress
+Nuance_EN: Military or political term for surrounding and eliminating enemy forces or opposing ideas.
+Nuance_CN: 军事术语，指包围并消灭敌人；也可指政治或文化上的围剿。
+Example1: 军队对叛军进行了围剿。
+Example1_EN: The military encircled and suppressed the rebels.
+Example2: 文化围剿并不能阻止思想的传播。
+Example2_EN: Cultural suppression cannot stop the spread of ideas.
+Example3: 警方开展围剿行动打击毒品犯罪。
+Example3_EN: The police launched a crackdown operation against drug crimes.
+
+===word: 圈养===
+Meaning: to pen-raise (livestock)
+Nuance_EN: Raising animals in enclosed pens or sties as opposed to free-range (放养).
+Nuance_CN: 将家畜关在围栏或圈里饲养，与放养相对。
+Example1: 圈养的鸡不如放养的好吃。
+Example1_EN: Pen-raised chickens aren't as tasty as free-range ones.
+Example2: 这个农场圈养了上百头猪。
+Example2_EN: This farm pens hundreds of pigs.
+Example3: 圈养动物需要注意卫生和活动空间。
+Example3_EN: Raising animals in pens requires attention to hygiene and space.
+
+===word: 旗号===
+Meaning: banner; flag (usually pejorative)
+Nuance_EN: Refers to using a noble-sounding cause or name to disguise one's real (usually selfish) intentions.
+Nuance_CN: 常含贬义，指打着某种好听的旗号来掩盖真实的、不正当的意图。
+Example1: 他打着慈善的旗号骗钱。
+Example1_EN: He used charity as a front to scam money.
+Example2: 有些人打着专家的旗号到处招摇撞骗。
+Example2_EN: Some people flaunt the banner of 'expert' to swindle others.
+Example3: 这家公司以环保的旗号推销产品。
+Example3_EN: This company sells products under the banner of environmental protection.
+
+===word: 随性===
+Meaning: casual; doing as one pleases
+Nuance_EN: Describes a relaxed, laid-back attitude of doing things according to one's mood without strict planning.
+Nuance_CN: 形容做事随自己的性子来，不拘束、不刻意。
+Example1: 他穿衣风格很随性。
+Example1_EN: His dressing style is very casual.
+Example2: 我喜欢随性生活，不喜欢被约束。
+Example2_EN: I like to live as I please and don't like being restrained.
+Example3: 旅行计划不用太详细，随性一点更好。
+Example3_EN: Travel plans don't need to be too detailed — it's better to go with the flow.
+
+===word: 提及===
+Meaning: to mention; to refer to
+Nuance_EN: A relatively formal word for mentioning or referring to something in speech or writing.
+Nuance_CN: 较正式的说法，指在说话或写作中提到或涉及某人某事。
+Example1: 他在演讲中多次提及这个问题。
+Example1_EN: He mentioned this issue many times in his speech.
+Example2: 报告中提及了相关数据。
+Example2_EN: The report refers to the relevant data.
+Example3: 请不要在公开场合提及此事。
+Example3_EN: Please don't mention this in public.
+
+===word: 蛆虫===
+Meaning: maggot; contemptible person
+Nuance_EN: Literally a maggot; also used as an insult for a shameless or despicable person.
+Nuance_CN: 本义是苍蝇幼虫——蛆，也用于骂人，指卑鄙无耻的人。
+Example1: 垃圾堆里爬满了蛆虫。
+Example1_EN: The garbage heap is crawling with maggots.
+Example2: 这种社会蛆虫应该受到法律的严惩。
+Example2_EN: Such social parasites should be severely punished by the law.
+Example3: 腐烂的食物上生出了蛆虫。
+Example3_EN: Maggots appeared on the rotten food.
+
+===word: 脊椎骨===
+Meaning: vertebra; spine
+Nuance_EN: The bones that make up the spinal column, part of the human skeletal system.
+Nuance_CN: 构成脊柱的骨骼，是人体骨骼系统的重要组成部分。
+Example1: 他不小心摔伤了脊椎骨。
+Example1_EN: He accidentally injured his spine in a fall.
+Example2: 人类有三十三块脊椎骨。
+Example2_EN: Humans have thirty-three vertebrae.
+Example3: 脊椎骨保护着脊髓。
+Example3_EN: The vertebrae protect the spinal cord.
+
+===word: 痴呆===
+Meaning: dementia; imbecility
+Nuance_EN: Medical term for cognitive impairment or dementia; also used as an insult for stupidity.
+Nuance_CN: 医学术语指智力障碍或痴呆，也可用于骂人愚蠢。
+Example1: 老年痴呆是常见的神经系统疾病。
+Example1_EN: Alzheimer's disease is a common neurological disorder.
+Example2: 他因为车祸导致了痴呆。
+Example2_EN: He developed dementia as a result of a car accident.
+Example3: 你在发什么呆？看着像痴呆了一样。
+Example3_EN: What are you spacing out for? You look dazed.
+
+===word: 监牢===
+Meaning: prison; jail
+Nuance_EN: Dialectal or literary term for prison, evoking a harsher or more old-fashioned feel.
+Nuance_CN: 方言或书面语中指监狱，比普通说法更具书面或陈旧色彩。
+Example1: 他被关进了监牢。
+Example1_EN: He was thrown into prison.
+Example2: 这所监牢已经有一百多年的历史了。
+Example2_EN: This prison is over a hundred years old.
+Example3: 他从监牢里逃了出来。
+Example3_EN: He escaped from the jail.
+
+===word: 霰弹枪===
+Meaning: shotgun
+Nuance_EN: A firearm that fires a spread of small pellets, used for hunting birds or close-range combat.
+Nuance_CN: 一种发射散弹的枪械，射出多发小弹丸，用于打猎或近距离作战。
+Example1: 猎人端着一把霰弹枪走进森林。
+Example1_EN: The hunter walked into the forest carrying a shotgun.
+Example2: 霰弹枪在近距离威力巨大。
+Example2_EN: A shotgun is extremely powerful at close range.
+Example3: 警用霰弹枪用于防暴。
+Example3_EN: Police shotguns are used for riot control.
+
+===word: 绊脚===
+Meaning: to trip; to stumble
+Nuance_EN: Can be literal (tripping over something) or metaphorical (encountering obstacles).
+Nuance_CN: 字面指被东西绊倒，也可比喻做事遇到阻碍。
+Example1: 地上的电线差点绊脚。
+Example1_EN: The wire on the ground nearly tripped me.
+Example2: 这个项目在资金上绊脚了。
+Example2_EN: This project hit a snag with funding.
+Example3: 他把门口的垫子踢开，以免绊脚。
+Example3_EN: He kicked the doormat aside to avoid tripping.
+
+===word: 酒囊饭袋===
+Meaning: good-for-nothing; wastrel
+Nuance_EN: Literally 'wine skin and rice bag', a strong insult for a useless person who only eats and drinks.
+Nuance_CN: 字面是装酒和饭的袋子，讽刺只会吃喝的废物。
+Example1: 他整天游手好闲，真是个酒囊饭袋。
+Example1_EN: He loafs around all day — a real good-for-nothing.
+Example2: 公司不能养酒囊饭袋。
+Example2_EN: The company can't afford to keep useless people.
+Example3: 别当酒囊饭袋，出去做点有意义的事。
+Example3_EN: Don't be a wastrel — go do something meaningful.
+
+===word: 纨绔子弟===
+Meaning: profligate son of rich parents
+Nuance_EN: Refers to a wealthy but useless young man who squanders his family's money and lives decadently.
+Nuance_CN: 指富家子弟中不学无术、挥霍无度的人。
+Example1: 他是个典型的纨绔子弟。
+Example1_EN: He's a typical playboy from a rich family.
+Example2: 这些纨绔子弟整天吃喝玩乐。
+Example2_EN: These wealthy young wastrels spend all day eating, drinking, and having fun.
+Example3: 纨绔子弟的堕落生活让人唏嘘。
+Example3_EN: The decadent lifestyle of rich playboys is lamentable.
+
+===word: 死穴===
+Meaning: Achilles' heel; vulnerable spot
+Nuance_EN: Originally a lethal acupuncture point; now widely used metaphorically for a fatal weakness.
+Nuance_CN: 原指针灸中的致命穴位，现常比喻致命的弱点或软肋。
+Example1: 贪财是他的死穴。
+Example1_EN: Greed is his Achilles' heel.
+Example2: 这个问题正好问到了他的死穴。
+Example2_EN: This question hit right at his weak spot.
+Example3: 每个人的性格都有死穴。
+Example3_EN: Everyone's personality has a vulnerable spot.
+
+===word: 厮杀===
+Meaning: to fight at close quarters
+Nuance_EN: Describes intense hand-to-hand combat or fighting with weapons at close range.
+Nuance_CN: 指双方持武器近距离激烈搏斗。
+Example1: 两军在战场上激烈厮杀。
+Example1_EN: The two armies fought fiercely on the battlefield.
+Example2: 这部电影里有不少厮杀的场面。
+Example2_EN: This movie has quite a few close-combat fight scenes.
+Example3: 他们在巷子里厮杀在一起。
+Example3_EN: They were locked in close-quarters combat in the alley.
+
+===word: 句号===
+Meaning: period; full stop
+Nuance_EN: The punctuation mark (。) used to end a sentence in Chinese writing. Also means 'the end' figuratively.
+Nuance_CN: 中文的句号「。」，用于句末表示结束；也比喻事情的终结。
+Example1: 这句话末尾应该加句号。
+Example1_EN: A period should be added at the end of this sentence.
+Example2: 他在最后一句话后面画了个句号。
+Example2_EN: He put a full stop after the last sentence.
+Example3: 这件事到此就画上句号了。
+Example3_EN: This matter has come to a close.
+
+===word: 证婚人===
+Meaning: chief witness at a wedding
+Nuance_EN: The person who officiates or acts as the official witness at a wedding ceremony.
+Nuance_CN: 婚礼上作为官方见证人的人，通常由德高望重者担任。
+Example1: 证婚人在婚礼上致词。
+Example1_EN: The chief witness gave a speech at the wedding.
+Example2: 我们邀请老校长做证婚人。
+Example2_EN: We invited the former principal to be the wedding witness.
+Example3: 证婚人需要在结婚证书上签字。
+Example3_EN: The witness needs to sign the marriage certificate.
+
+===word: 再好不过===
+Meaning: couldn't be better; ideal
+Nuance_EN: An expression meaning something is perfect or as good as it gets.
+Nuance_CN: 表示事情完美、理想的表达，相当于「简直不能更好了」。
+Example1: 这个建议再好不过了。
+Example1_EN: This suggestion couldn't be better.
+Example2: 住在海边，每天看日出，再好不过了。
+Example2_EN: Living by the sea and watching the sunrise every day — it couldn't be better.
+Example3: 今天天气去野餐再好不过了。
+Example3_EN: The weather today couldn't be more perfect for a picnic.
+
+===word: 标注===
+Meaning: to mark; to annotate
+Nuance_EN: Means to add a mark, label, or annotation to something for identification or explanation.
+Nuance_CN: 在物品或文件上做标记或注释，以便识别或说明。
+Example1: 请在地图上标注出所有景点。
+Example1_EN: Please mark all the scenic spots on the map.
+Example2: 这些数据需要标注来源。
+Example2_EN: This data needs to have its sources annotated.
+Example3: 图纸上有详细的尺寸标注。
+Example3_EN: The blueprint has detailed dimension markings.
+
+===word: 胜算===
+Meaning: sure chance of success
+Nuance_EN: Describes having a high probability or stratagem that ensures victory in a contest or plan.
+Nuance_CN: 指获胜的把握或策略，常用于「稳操胜算」。
+Example1: 这次比赛我们有很大的胜算。
+Example1_EN: We have a good chance of winning this competition.
+Example2: 他做事没有胜算就不会出手。
+Example2_EN: He won't make a move unless he's sure of success.
+Example3: 知己知彼，才能稳操胜算。
+Example3_EN: Know yourself and know your enemy, and you can be sure of victory.
+
+===word: 落于下风===
+Meaning: to be at a disadvantage
+Nuance_EN: Describes being in an inferior or losing position in a competition or conflict.
+Nuance_CN: 在竞争或冲突中处于不利或劣势地位。
+Example1: 谈判中我方落于下风。
+Example1_EN: Our side was at a disadvantage in the negotiations.
+Example2: 比赛一开始他就落于下风。
+Example2_EN: He was at a disadvantage from the very start of the match.
+Example3: 面对强大的对手，他们始终落于下风。
+Example3_EN: Facing a powerful opponent, they were always at a disadvantage.
+
+===word: 助纣为虐===
+Meaning: to aid and abet evil
+Nuance_EN: Idiom from history — helping the tyrant King Zhou do evil; meaning to assist someone wicked.
+Nuance_CN: 历史典故，比喻帮助坏人做坏事。
+Example1: 他竟然助纣为虐，帮骗子行骗。
+Example1_EN: He actually helped the scammers — aiding and abetting evil.
+Example2: 这些保安助纣为虐，欺负老百姓。
+Example2_EN: These security guards aided the evildoers in bullying ordinary people.
+Example3: 助纣为虐的人同样应当受到惩罚。
+Example3_EN: Those who aid and abet evil should also be punished.
+
+===word: 或缺===
+Meaning: to lack; to be without
+Nuance_EN: Used mostly in the negative or in the phrase '不可或缺' (indispensable).
+Nuance_CN: 多用于否定或固定搭配中，如「不可或缺」（不可缺少）。
+Example1: 水是生命中不可或缺的。
+Example1_EN: Water is indispensable to life.
+Example2: 他在团队中不可或缺。
+Example2_EN: He is indispensable in the team.
+Example3: 信任是友谊中不可或缺的要素。
+Example3_EN: Trust is an indispensable element of friendship.
+
+===word: 无亲无故===
+Meaning: alone; without relatives or friends
+Nuance_EN: Describes someone who has no family or friends to rely on, completely isolated.
+Nuance_CN: 形容没有任何亲戚朋友可以依靠，孤身一人。
+Example1: 他在这座城市无亲无故。
+Example1_EN: He has no relatives or friends in this city.
+Example2: 老人无亲无故，独自生活了很多年。
+Example2_EN: The old man, with no family or friends, has lived alone for many years.
+Example3: 一个无亲无故的人来到陌生城市打拼。
+Example3_EN: A person with no connections came to a strange city to work hard.
+
+===word: 拉票===
+Meaning: to canvass for votes
+Nuance_EN: The act of soliciting votes from people, typically during elections or competitions.
+Nuance_CN: 在选举或比赛中向人请求支持、争取选票的行为。
+Example1: 候选人正在社区里拉票。
+Example1_EN: The candidate is canvassing for votes in the community.
+Example2: 网上拉票的现象越来越普遍。
+Example2_EN: Online vote-canvassing is becoming more common.
+Example3: 拉票活动在投票日前最为密集。
+Example3_EN: Vote-canvassing activities are most intense just before election day.
+
+===word: 抹黑===
+Meaning: to discredit; to smear
+Nuance_EN: Literally 'to blacken', meaning to damage someone's reputation or bring shame on them.
+Nuance_CN: 字面意为涂黑，比喻损害某人名誉或形象。
+Example1: 这些谣言是在故意抹黑他。
+Example1_EN: These rumors are intentionally smearing him.
+Example2: 他的行为给我们团队抹黑了。
+Example2_EN: His actions brought shame to our team.
+Example3: 媒体不负责任的报道会抹黑一个人。
+Example3_EN: Irresponsible media reports can smear a person's reputation.
+
+===word: 彻头彻尾===
+Meaning: out-and-out; thoroughgoing
+Nuance_EN: Emphatic idiom meaning thoroughly or completely in every aspect, often with a negative connotation.
+Nuance_CN: 强调从头到尾完全的、彻底的，常含贬义。
+Example1: 他是个彻头彻尾的骗子。
+Example1_EN: He's an out-and-out liar.
+Example2: 这部改编剧彻头彻尾地失败了。
+Example2_EN: This adaptation was a thoroughgoing failure.
+Example3: 这政策是彻头彻尾的错误。
+Example3_EN: This policy is a complete and utter mistake.
+
+===word: 慷慨激昂===
+Meaning: impassioned; vehement
+Nuance_EN: Describes a speech or manner that is passionate, inspiring, and full of conviction.
+Nuance_CN: 形容说话时情绪激昂、充满正气和热情。
+Example1: 他的演讲慷慨激昂，令人振奋。
+Example1_EN: His impassioned speech was inspiring.
+Example2: 她在会上慷慨激昂地陈述了自己的观点。
+Example2_EN: She vehemently presented her views at the meeting.
+Example3: 这位领袖慷慨激昂的号召鼓舞了无数人。
+Example3_EN: The leader's impassioned call inspired countless people.
+
+===word: 滋长===
+Meaning: to grow; to develop (negative)
+Nuance_EN: Usually has a negative connotation — describing the growth of undesirable ideas or habits.
+Nuance_CN: 多含贬义，指不好的思想或习惯的产生和蔓延。
+Example1: 安逸的生活容易滋长懒惰。
+Example1_EN: A comfortable life easily breeds laziness.
+Example2: 要防止腐败思想的滋长。
+Example2_EN: We must prevent the growth of corrupt ideas.
+Example3: 长期无人管理，杂草在院子里滋长。
+Example3_EN: With no one managing it for a long time, weeds grew unchecked in the yard.
+
+===word: 伤号===
+Meaning: the wounded (military)
+Nuance_EN: Military term for injured soldiers; also used for wounded personnel in general.
+Nuance_CN: 军队用语，指战斗中受伤的人员。
+Example1: 战场上伤号很多，医疗队忙不过来。
+Example1_EN: There were many wounded on the battlefield, and the medical team was overwhelmed.
+Example2: 救护车把伤号送到后方医院。
+Example2_EN: The ambulance transported the wounded to the rear hospital.
+Example3: 轻伤号经过简单处理后仍可继续战斗。
+Example3_EN: The lightly wounded could continue fighting after simple treatment.
+
+===word: 傻头傻脑===
+Meaning: foolish-looking; muddleheaded
+Nuance_EN: Describes someone who looks or acts stupid, silly, or clueless.
+Nuance_CN: 形容人傻乎乎的样子或头脑不灵活。
+Example1: 他傻头傻脑地问了一个很蠢的问题。
+Example1_EN: He foolishly asked a really dumb question.
+Example2: 这个傻头傻脑的角色在电影里很搞笑。
+Example2_EN: This muddleheaded character is very funny in the movie.
+Example3: 别装出一副傻头傻脑的样子。
+Example3_EN: Don't act all silly and clueless.
+
+===word: 撅===
+Meaning: to stick up; to pout
+Nuance_EN: Can mean to pout one's lips, stick up one's tail, or publicly embarrass someone.
+Nuance_CN: 可指撅嘴、翘起尾巴，或当面让人难堪。
+Example1: 她生气地撅起了嘴。
+Example1_EN: She pouted her lips in anger.
+Example2: 小狗高兴地撅着尾巴。
+Example2_EN: The happy puppy raised its tail.
+Example3: 他当众把对方的谎言撅了出来。
+Example3_EN: He publicly exposed the other person's lie.
+
+===word: 花痴===
+Meaning: love-struck fool; smitten
+Nuance_EN: Used to describe someone who is obsessed with someone they're attracted to, acting silly about it.
+Nuance_CN: 形容一个人痴迷于某异性，到了犯傻的程度。
+Example1: 他看到她就像花痴一样。
+Example1_EN: He acts like a love-struck fool when he sees her.
+Example2: 别犯花痴了，人家已经有对象了。
+Example2_EN: Stop swooning — they already have a partner.
+Example3: 这部电影讲的是一个花痴女孩的故事。
+Example3_EN: This movie is about a starry-eyed infatuated girl.
+
+===word: 独大===
+Meaning: to dominate; to reign supreme
+Nuance_EN: Describes one entity being overwhelmingly powerful or influential over all others in a domain.
+Nuance_CN: 形容在某领域一家独大、无人与之抗衡。
+Example1: 这家公司在市场上已经独大多年。
+Example1_EN: This company has dominated the market for years.
+Example2: 垄断导致一家独大，不利于行业发展。
+Example2_EN: Monopoly leads to one company dominating, which harms industry development.
+Example3: 历史上没有任何一个国家可以永远独大。
+Example3_EN: No country in history can dominate forever.
+
+===word: 改观===
+Meaning: to change for the better; to take on a new look
+Nuance_EN: Describes a visible improvement or positive transformation in appearance or situation.
+Nuance_CN: 指面貌或情况向好的方向变化。
+Example1: 这座城市的面貌大为改观。
+Example1_EN: The city's appearance has greatly improved.
+Example2: 经过治理，水质有了明显改观。
+Example2_EN: After treatment, the water quality has noticeably improved.
+Example3: 他的态度在一夜之间改观了。
+Example3_EN: His attitude changed overnight.
+
+===word: 远走高飞===
+Meaning: to flee to faraway places
+Nuance_EN: Describes leaving for distant places, often to escape trouble or pursue freedom.
+Nuance_CN: 比喻离开原地到远方去，常为了逃避困难或追求自由。
+Example1: 他想远走高飞，离开这个伤心地。
+Example1_EN: He wants to fly far away and leave this sad place behind.
+Example2: 拿到签证后他就远走高飞了。
+Example2_EN: After getting the visa, he flew off to a distant land.
+Example3: 远走高飞不是解决问题的办法。
+Example3_EN: Running away is not the way to solve problems.
+
+===word: 摆架子===
+Meaning: to put on airs; to act superior
+Nuance_EN: Colloquial term for acting arrogantly or giving oneself airs of importance.
+Nuance_CN: 口语，指故意表现出高人一等的姿态，装腔作势。
+Example1: 他当了经理后就开始摆架子。
+Example1_EN: He started putting on airs after becoming a manager.
+Example2: 有真本事的人不需要摆架子。
+Example2_EN: People with real ability don't need to put on airs.
+Example3: 我最讨厌那些摆架子的人。
+Example3_EN: I hate people who act all high and mighty.
+
+===word: 倒影===
+Meaning: inverted reflection (in water)
+Nuance_EN: The upside-down reflection of an object seen in water or a mirror surface.
+Nuance_CN: 物体在水面或镜面中呈现的倒立的影像。
+Example1: 山的倒影在湖面上非常清晰。
+Example1_EN: The reflection of the mountain in the lake is very clear.
+Example2: 她看着水中自己的倒影发呆。
+Example2_EN: She stared blankly at her reflection in the water.
+Example3: 雨后路面的积水映出倒影。
+Example3_EN: The puddles on the road after rain reflected the scenery.
+
+===word: 小白脸===
+Meaning: gigolo; pretty boy (pejorative)
+Nuance_EN: Pejorative term for an effeminate young man who is supported by a woman, or a man trading on his looks.
+Nuance_CN: 贬义，指靠女人供养的年轻男子，或指长相白净但缺乏阳刚之气的男人。
+Example1: 他长得像个小白脸。
+Example1_EN: He looks like a gigolo.
+Example2: 这部电影里的小白脸角色让人讨厌。
+Example2_EN: The pretty boy character in this movie is annoying.
+Example3: 他不靠实力，靠脸吃饭，是个小白脸。
+Example3_EN: He lives off his looks rather than his ability — a real gigolo.
+
+===word: 机舱===
+Meaning: cabin; engine room
+Nuance_EN: Can refer to an airplane passenger cabin or a ship's engine room depending on context.
+Nuance_CN: 可指飞机的客舱，也可指轮船的机舱。
+Example1: 请在机舱内保持安静。
+Example1_EN: Please keep quiet in the cabin.
+Example2: 所有乘客已进入机舱就座。
+Example2_EN: All passengers have boarded and are seated in the cabin.
+Example3: 船员正在机舱里维修发动机。
+Example3_EN: The crew is repairing the engine in the engine room.
+
+===word: 截屏===
+Meaning: screenshot
+Nuance_EN: Modern computing term for capturing an image of a computer or phone screen.
+Nuance_CN: 计算机和手机用语，指截取屏幕上的画面。
+Example1: 请把聊天记录截屏发给我。
+Example1_EN: Please take a screenshot of the chat history and send it to me.
+Example2: 这张截屏显示了他发送的消息。
+Example2_EN: This screenshot shows the message he sent.
+Example3: 截屏功能是手机的基本功能之一。
+Example3_EN: Screenshot is one of the basic functions of a smartphone.
+
+===word: 滔滔===
+Meaning: torrential; voluble
+Nuance_EN: Describes surging water or a person who speaks in a constant flow of words.
+Nuance_CN: 形容水流滚滚不绝，也可形容人说话滔滔不绝。
+Example1: 江水滔滔向东流。
+Example1_EN: The river surges eastward.
+Example2: 他说话滔滔不绝，讲了两个小时。
+Example2_EN: He talked volubly for two hours without stopping.
+Example3: 演讲者滔滔不绝地讲述他的经历。
+Example3_EN: The speaker spoke at length about his experiences.
+
+===word: 毒枭===
+Meaning: drug lord; kingpin
+Nuance_EN: A high-level figure in an illegal drug trafficking organization.
+Nuance_CN: 指贩毒集团的头目或首领。
+Example1: 警方抓获了该国最大的毒枭。
+Example1_EN: The police captured the country's biggest drug lord.
+Example2: 毒枭的势力范围遍及多个国家。
+Example2_EN: The drug lord's influence spans multiple countries.
+Example3: 这个毒枭终于被判了重刑。
+Example3_EN: This drug kingpin was finally given a severe sentence.
+
+===word: 露馅===
+Meaning: to spill the beans; to let the cat out of the bag
+Nuance_EN: Colloquial expression for a secret or plan being exposed accidentally.
+Nuance_CN: 口语表达，指秘密或计划不小心暴露了。
+Example1: 他说着说着就露馅了。
+Example1_EN: He let the cat out of the bag as he talked.
+Example2: 这个谎言很快就露馅了。
+Example2_EN: This lie was quickly exposed.
+Example3: 再好的伪装也有露馅的一天。
+Example3_EN: No matter how good the disguise, it will be exposed one day.
+
+===word: 壁橱===
+Meaning: built-in closet; wardrobe
+Nuance_EN: A storage space built into the wall, used for storing clothes or other items.
+Nuance_CN: 嵌入墙内的储物空间，用于存放衣物或物品。
+Example1: 壁橱里挂满了她的衣服。
+Example1_EN: Her clothes are all hanging in the closet.
+Example2: 他把被子和枕头收进壁橱。
+Example2_EN: He put the blankets and pillows into the closet.
+Example3: 这个壁橱的空间很大。
+Example3_EN: This built-in closet has plenty of space.
+
+===word: 余韵===
+Meaning: lingering charm; aftertaste
+Nuance_EN: Describes the lasting charm or beauty of something — music, art, voice — that remains after it ends.
+Nuance_CN: 指音乐、艺术或声音结束后仍留存的韵味或美感。
+Example1: 这首歌余韵悠长，令人回味。
+Example1_EN: This song has a lingering charm that stays with you.
+Example2: 她的嗓音余韵不绝。
+Example2_EN: Her voice had a lingering resonance.
+Example3: 整首诗的余韵让人久久不能忘怀。
+Example3_EN: The poem's lingering beauty stayed with me long after reading it.
+
+===word: 招生===
+Meaning: to recruit students
+Nuance_EN: The process by which schools, universities, or training programs enroll new students.
+Nuance_CN: 学校或培训机构招收新生的过程。
+Example1: 这所大学每年招生五千人。
+Example1_EN: This university enrolls five thousand students every year.
+Example2: 招生工作从六月份开始。
+Example2_EN: Student recruitment work starts in June.
+Example3: 今年的招生政策有所调整。
+Example3_EN: This year's admissions policy has been adjusted.

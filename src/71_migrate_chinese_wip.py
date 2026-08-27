@@ -125,12 +125,12 @@ if updates:
     for flds, nid in updates:
         conn.execute('UPDATE notes SET mid = ?, flds = ?, mod = ?, usn = -1 WHERE id = ?',
                     (NEW_MODEL_ID, flds, now, nid))
-    # Move cards from WIP deck to Chinese deck
-    cnt = conn.execute('UPDATE cards SET did = ?, mod = ?, usn = -1 WHERE did = ? AND nid IN (SELECT id FROM notes WHERE mid = ?)',
-                      (CHINESE_DECK_ID, now, WIP_DECK_ID, NEW_MODEL_ID)).rowcount
+    # Keep cards IN PLACE in the Chinese WIP deck (no move to Chinese deck)
+    conn.execute('UPDATE cards SET mod = ?, usn = -1 WHERE did = ? AND nid IN (SELECT id FROM notes WHERE mid = ?)',
+                 (now, WIP_DECK_ID, NEW_MODEL_ID))
     conn.execute('UPDATE col SET mod = ?', (now,))
     conn.commit()
-    print(f"  Done! {cnt} cards moved to Chinese deck")
+    print(f"  Updated notes in place (Chinese WIP deck: id={WIP_DECK_ID})")
 else:
     print("  No updates needed.")
 
