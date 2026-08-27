@@ -5,29 +5,28 @@
 | Property | Value |
 |----------|-------|
 | Model | "Chinese" (3 fields: Expression, Meaning, Pinyin) |
+| Model ID | 1351220176888 |
 | Total notes | 16,374 |
 | Chinese deck | 15,189 cards |
 | Chinese WIP deck | 1,183 cards |
-| Model ID | 1351220176888 |
 
 ## Current Fields (3)
 ```
 0: Expression  (hanzi, e.g. 体育馆, 回家, 火车站)
-1: Meaning     (English, e.g. "Gym", "To go home", "Train Station")
-2: Pinyin      (reading, e.g. "tǐyùguǎn", "huí jiā", "huǒchēzhàn")
+1: Meaning     (English gloss — often HTML-crusted from Pleco, e.g. `<div><p>...`)
+2: Pinyin      (reading, e.g. "tǐyùguǎn", "huí jiā" — already correct)
 ```
 
-Some Meaning fields already have HTML-wrapped nuance content embedded from Takoboto:
-```
-"<p>To reserve; to book</p><h3>Nuance</h3><div>预订 is...</div>"
-```
+## Strategy: Two-Phase
+Phase 1: Chinese WIP (1,183 cards) — prove approach, verify quality
+Phase 2: Full Chinese deck (16,374 cards) — scale up
 
 ## Target: "Chinese Enhanced" Model
 
-Proposed 11 fields (matching Japanese Enhanced structure but with Pinyin instead of ruby):
+11 fields (same structure as Japanese but with Pinyin instead of ruby):
 
 ```
-0:  Expression   (hanzi — kept as-is)
+0:  Expression   (hanzi, kept as-is)
 1:  Meaning      (clean English gloss — LLM generated)
 2:  Pinyin       (pinyin reading — kept as-is, already correct)
 3:  Nuance       (empty — field alignment)
@@ -41,60 +40,39 @@ Proposed 11 fields (matching Japanese Enhanced structure but with Pinyin instead
 11: Nuance_CN    (mandarin nuance explanation — LLM generated)
 ```
 
-## Template (CSS inspired by Japanese Enhanced)
-
-```
-Card front: {{Expression}} (hanzi in blue header)
-Card back:  {{Pinyin}} below the word, then {{Meaning}}, {{Nuance_EN}}, {{Nuance_CN}}, then 3 example groups
-```
-
-Copy the Japanese Enhanced styling:
-- Blue header (#408cc7)
-- Min-height with proper padding
+## Template CSS
+Copy Japanese Enhanced styling but adapt for Chinese:
+- Blue header (#408cc7), min-height
 - Separate desktop/Android sizing
-- Exgroup dividers with colored nuance text
+- Font: `Noto Sans CJK SC` (Simplified Chinese) instead of JP
+- {{Pinyin}} on back instead of {{furigana:Reading}}
+- Exgroup dividers, colored nuance text
 
-## Phases
-
-### Phase 1: Create Model
-Create "Chinese Enhanced" notetype with 11 fields + template styling.
-Model ID: need a new unique integer (e.g. 1756386463854 or similar)
-
-### Phase 2: LLM Batch Generation
-Generate a prompt file with all 16,374 Chinese notes:
-```
-word|pinyin|meaning
-```
-→ LLM produces: word|clean_meaning|en_nuance|cn_nuance|ex1|ex1_en|ex2|ex2_en|ex3|ex3_en
+## LLM Generation
+Prompt format: `word|pinyin|meaning` (meaning is the raw existing meaning for context)
+Output format: `===word: WORD===` blocks with Meaning, Nuance_EN, Nuance_CN, Example1-3, Example1-3_EN
 
 Same approach as Japanese: parallel batches of 200 words, deepseek flash.
-Expected: ~82 batches of 200 words.
+- WIP: ~6 batches of 200 words (~18 min)
+- Full: ~82 batches of 200 words (~4 hours, can parallelize 3-4 ways → ~1 hour)
 
-### Phase 3: Migration
-In-place SQL migration on `collection.anki2`:
-1. Backup collection
-2. For each Chinese note, build 11-segment flds
-3. UPDATE mid + flds
-4. Move unmatched notes to "Chinese (Old)" deck
-5. Move Chinese WIP cards to Chinese deck
+## Migration
 
-### Phase 4: Verification
-- Spot-check cards in Anki
-- Verify all fields populated
-- Verify review history preserved
+In-place SQL on `collection.anki2`:
+1. Create "Chinese Enhanced" notetype with 11 fields + template
+2. Backup collection
+3. For each Chinese note, build 11-segment flds
+4. UPDATE mid + flds using LLM data
+5. Move unmatched notes to "Chinese (Old)" deck
+6. Move Chinese WIP cards to Chinese deck
 
 ## Key Differences from Japanese
 
 | Aspect | Japanese | Chinese |
 |--------|----------|---------|
 | Reading format | Ruby `漢字[かんな]` | Pinyin `tǐyùguǎn` |
-| Text direction | Left-to-right | Left-to-right |
 | Font | Noto Sans CJK JP | Noto Sans CJK SC |
-| Nuance field | Nuance_EN + Nuance_JP | Nuance_EN + Nuance_CN |
+| Nuance field | EN + JP | EN + CN |
 | Card count | ~27,000 | ~16,000 |
 | Pinyin already correct | N/A | Yes — keep as-is |
-
-## Estimated Effort
-- LLM generation: 82 batches × ~3 min = ~4 hours (can parallelize 3-4 ways → ~1 hour)
-- Model creation + migration: 15 min
-- Total: ~1-2 hours of wall time
+| HTML in meaning | Some | Heavy (1050/1183 WIP cards)
