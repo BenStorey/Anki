@@ -1,0 +1,2199 @@
+===word: 体育馆===
+Meaning: Gym
+Nuance_EN: Refers to an indoor sports venue, often used for exercise or athletic events. Neutral register.
+Nuance_CN: 体育馆通常指进行体育运动的室内场所，可以指专业的比赛场馆或公共健身中心。
+Example1: 我们明天下午去体育馆打羽毛球。
+Example1_EN: We are going to the gym to play badminton tomorrow afternoon.
+Example2: 这个体育馆可以容纳五千人。
+Example2_EN: This stadium can hold five thousand people.
+Example3: 学校附近有一个新的体育馆。
+Example3_EN: There is a new gym near the school.
+
+===word: 中心===
+Meaning: Center
+Nuance_EN: Refers to a central point or area, such as a city center or activity center. Neutral.
+Nuance_CN: 中心表示某个区域或活动的核心位置，常用于指商业中心、文化中心等。
+Example1: 市中心有很多商店。
+Example1_EN: There are many shops in the city center.
+Example2: 这个购物中心很大。
+Example2_EN: This shopping center is very big.
+Example3: 市中心广场人很多。
+Example3_EN: There are many people in the central square.
+
+===word: 回家===
+Meaning: To go home
+Nuance_EN: Verb phrase meaning to return to one's home. Very common and neutral.
+Nuance_CN: 表示返回自己的家，日常生活中使用频率很高。
+Example1: 我放学后直接回家。
+Example1_EN: I go straight home after school.
+Example2: 你什么时候回家？
+Example2_EN: When are you going home?
+Example3: 他每周五回家看父母。
+Example3_EN: He goes home to see his parents every Friday.
+
+===word: 火车===
+Meaning: Train
+Nuance_EN: Refers to a railway train, used for passenger or freight transport. Neutral.
+Nuance_CN: 指铁路上的交通工具，通常包括客运和货运列车。
+Example1: 我坐火车去北京。
+Example1_EN: I take the train to Beijing.
+Example2: 火车站在哪？
+Example2_EN: Where is the train station?
+Example3: 这趟火车很快。
+Example3_EN: This train is fast.
+
+===word: 火车站===
+Meaning: Train station
+Nuance_EN: The building or place where trains arrive and depart. Neutral.
+Nuance_CN: 火车停靠和乘客上下车的地方。
+Example1: 我们在火车站见面。
+Example1_EN: We meet at the train station.
+Example2: 这个火车站很大。
+Example2_EN: This train station is very big.
+Example3: 火车站附近有地铁站。
+Example3_EN: There is a subway station near the train station.
+
+===word: 出租车===
+Meaning: Taxi
+Nuance_EN: A hired car with a driver, commonly available in cities. Neutral register.
+Nuance_CN: 提供按里程收费的私人乘车服务，可以招手拦停或通过应用预约。
+Example1: 我打出租车去机场。
+Example1_EN: I take a taxi to the airport.
+Example2: 出租车在门口等。
+Example2_EN: The taxi is waiting at the door.
+Example3: 晚上不好叫出租车。
+Example3_EN: It's hard to get a taxi at night.
+
+===word: 出口===
+Meaning: Exit
+Nuance_EN: Can mean an exit (way out) or export (commerce). In daily life, often refers to the way out. Neutral.
+Nuance_CN: 可以指建筑物或场所的出口，也可以指对外贸易中的出口（出口商品）。常见于标识。
+Example1: 出口在那边。
+Example1_EN: The exit is over there.
+Example2: 这个国家的出口产品很多。
+Example2_EN: This country has many export products.
+Example3: 请从安全出口离开。
+Example3_EN: Please leave through the emergency exit.
+
+===word: 入口===
+Meaning: Entrance
+Nuance_EN: The way into a place. Neutral.
+Nuance_CN: 进入某个场所或区域的通道。
+Example1: 入口在左边。
+Example1_EN: The entrance is on the left.
+Example2: 商场入口有很多人。
+Example2_EN: There are many people at the mall entrance.
+Example3: 地铁入口需要刷卡。
+Example3_EN: You need to swipe your card at the subway entrance.
+
+===word: 读===
+Meaning: To read
+Nuance_EN: Verb meaning to read silently or aloud. Also used for studying (e.g., 读大学). Neutral.
+Nuance_CN: 表示阅读文字或书籍，也可以指学习（如读书）。
+Example1: 我喜欢读书。
+Example1_EN: I like to read books.
+Example2: 他在读大学。
+Example2_EN: He is studying at university.
+Example3: 请读这段课文。
+Example3_EN: Please read this passage.
+
+===word: 好久不见===
+Meaning: Long time no see
+Nuance_EN: Greeting used when meeting someone after a long period. Friendly and informal.
+Nuance_CN: 用于很久没见的朋友或熟人之间打招呼，表达久别重逢的喜悦。
+Example1: 好久不见，你最近好吗？
+Example1_EN: Long time no see, how have you been?
+Example2: 好久不见，你变瘦了。
+Example2_EN: Long time no see, you have lost weight.
+Example3: 好久不见，我们一起去吃饭吧。
+Example3_EN: Long time no see, let's go eat together.
+
+===word: 未来===
+Meaning: Future
+Nuance_EN: Noun meaning the time to come. Can also be used as an adjective (future plans). Neutral.
+Nuance_CN: 指以后的时间或将要发生的事情。
+Example1: 未来的科技会更发达。
+Example1_EN: Future technology will be more advanced.
+Example2: 我们要为未来做准备。
+Example2_EN: We need to prepare for the future.
+Example3: 他对未来充满信心。
+Example3_EN: He is confident about the future.
+
+===word: 新===
+Meaning: New
+Nuance_EN: Adjective meaning new, fresh, or recent. Extremely common.
+Nuance_CN: 表示刚刚出现或刚经历的，与“旧”相对。
+Example1: 我买了一辆新车。
+Example1_EN: I bought a new car.
+Example2: 这是新来的老师。
+Example2_EN: This is the new teacher.
+Example3: 新年快乐！
+Example3_EN: Happy New Year!
+
+===word: 菜单===
+Meaning: Menu
+Nuance_EN: A list of dishes in a restaurant, or a list of options in software. Neutral.
+Nuance_CN: 餐馆里列出菜名和价格的单子，也可指软件界面上的选项列表。
+Example1: 请给我看菜单。
+Example1_EN: Please show me the menu.
+Example2: 菜单上有许多菜。
+Example2_EN: There are many dishes on the menu.
+Example3: 这个菜单是中文的。
+Example3_EN: This menu is in Chinese.
+
+===word: 图片===
+Meaning: Picture
+Nuance_EN: A visual image, such as a photograph, drawing, or digital graphic. Neutral.
+Nuance_CN: 表示图像、照片或图画等视觉材料。
+Example1: 这张图片很漂亮。
+Example1_EN: This picture is very beautiful.
+Example2: 请打开图片文件。
+Example2_EN: Please open the image file.
+Example3: 图片放在电脑里。
+Example3_EN: The picture is in the computer.
+
+===word: 那边===
+Meaning: There
+Nuance_EN: Demonstrative pronoun indicating a location away from the speaker. Opposite of 这边.
+Nuance_CN: 指示离说话人较远的地方。
+Example1: 那边有一个公园。
+Example1_EN: There is a park over there.
+Example2: 他在那边等你。
+Example2_EN: He is waiting for you over there.
+Example3: 那边的东西比较便宜。
+Example3_EN: Things over there are cheaper.
+
+===word: 这边===
+Meaning: Here
+Nuance_EN: Demonstrative pronoun indicating a location near the speaker. Opposite of 那边.
+Nuance_CN: 指示离说话人较近的地方。
+Example1: 请来这边。
+Example1_EN: Please come here.
+Example2: 这边是我的座位。
+Example2_EN: This side is my seat.
+Example3: 这边有电梯。
+Example3_EN: There is an elevator here.
+
+===word: 老外===
+Meaning: Foreigner
+Nuance_EN: Informal term for a non-Chinese person. Generally friendly but casual; avoid in formal settings.
+Nuance_CN: 对非中国人的口语化称呼，通常没有贬义，但用于正式场合可能不太合适。
+Example1: 那个老外会说中文。
+Example1_EN: That foreigner can speak Chinese.
+Example2: 我们公司有几个老外同事。
+Example2_EN: Our company has a few foreign colleagues.
+Example3: 老外喜欢中国的美食。
+Example3_EN: Foreigners like Chinese food.
+
+===word: 下课===
+Meaning: Finish class
+Nuance_EN: Verb meaning that a class session ends, or to dismiss class. Neutral.
+Nuance_CN: 表示课程结束，学生可以离开教室。
+Example1: 我们下午两点下课。
+Example1_EN: We finish class at 2 p.m.
+Example2: 老师下课了。
+Example2_EN: The teacher dismissed class.
+Example3: 下课以后我们去食堂。
+Example3_EN: After class we go to the cafeteria.
+
+===word: 上课===
+Meaning: Start class
+Nuance_EN: Verb meaning class begins or to attend class. Neutral.
+Nuance_CN: 表示课程开始，或学生去听课。
+Example1: 我们八点上课。
+Example1_EN: We start class at 8 a.m.
+Example2: 上课时不要说话。
+Example2_EN: Don't talk during class.
+Example3: 他每天上课很认真。
+Example3_EN: He attends class very seriously every day.
+
+===word: 我忘了===
+Meaning: I forgot
+Nuance_EN: Phrase meaning "I forgot". Very common in spoken Chinese.
+Nuance_CN: 表示忘记了某件事情，口语常用。
+Example1: 我忘了带钥匙。
+Example1_EN: I forgot to bring the keys.
+Example2: 对不起，我忘了你的名字。
+Example2_EN: Sorry, I forgot your name.
+Example3: 我忘了今天有考试。
+Example3_EN: I forgot there is an exam today.
+
+===word: 水果===
+Meaning: fruit
+Nuance_EN: 水果 is the general term for fruit, used in everyday contexts. It is neutral and can refer to any kind of fruit.
+Nuance_CN: 水果是各种可食用植物果实的统称，日常使用非常普遍，语气中性。
+Example1: 我每天都要吃一些水果。
+Example1_EN: I eat some fruit every day.
+Example2: 这家店的水果很新鲜。
+Example2_EN: The fruit at this shop is very fresh.
+Example3: 你喜欢什么水果？
+Example3_EN: What fruit do you like?
+
+===word: 一点点===
+Meaning: a little, a bit
+Nuance_EN: 一点点 means "a little bit" and is often used to indicate a small amount or degree. It can be used with both tangible and intangible things.
+Nuance_CN: 一点点表示数量或程度很小，常用于口语，语气柔和。
+Example1: 请给我加一点点糖。
+Example1_EN: Please add a little bit of sugar.
+Example2: 我只会一点点中文。
+Example2_EN: I only know a little bit of Chinese.
+Example3: 她有点点不高兴。
+Example3_EN: She is a little unhappy.
+
+===word: 听===
+Meaning: to listen, to hear
+Nuance_EN: 听 is a basic verb for "to listen" or "to hear". It is used in both active listening (e.g., listening to music) and passive hearing.
+Nuance_CN: 听表示用耳朵接收声音，可以指主动听或被动听到，使用频率很高。
+Example1: 我正在听音乐。
+Example1_EN: I am listening to music.
+Example2: 你听，外面有声音。
+Example2_EN: Listen, there's a sound outside.
+Example3: 他听老师的话。
+Example3_EN: He listens to the teacher.
+
+===word: 没关系===
+Meaning: It doesn't matter, no problem
+Nuance_EN: 没关系 is a polite response to apologies or minor inconveniences, meaning "it's okay" or "no problem". It is very common in daily conversation.
+Nuance_CN: 没关系用于回应别人的道歉或小麻烦，表示不在意、没问题，语气礼貌友好。
+Example1: 对不起，我迟到了。——没关系。
+Example1_EN: Sorry, I'm late. — It doesn't matter.
+Example2: 打翻杯子了？没关系，我来擦。
+Example2_EN: You knocked over the cup? No problem, I'll wipe it up.
+Example3: 没关系，不用着急。
+Example3_EN: It's okay, no need to rush.
+
+===word: 用===
+Meaning: to use
+Nuance_EN: 用 is a versatile verb meaning "to use", applicable to tools, methods, time, etc. It is neutral and common.
+Nuance_CN: 用表示使用某物或某种方法，适用范围很广，中性常用。
+Example1: 请用筷子吃饭。
+Example1_EN: Please use chopsticks to eat.
+Example2: 我可以用你的笔吗？
+Example2_EN: Can I use your pen?
+Example3: 这个方法很实用。
+Example3_EN: This method is very practical.
+
+===word: 鱼===
+Meaning: fish
+Nuance_EN: 鱼 means "fish" as an animal or food. It is a common noun used in both contexts.
+Nuance_CN: 鱼指水生脊椎动物，也指作为食物的鱼类，日常用语中很常见。
+Example1: 我们今天吃鱼吧。
+Example1_EN: Let's have fish today.
+Example2: 这条鱼很大。
+Example2_EN: This fish is very big.
+Example3: 我喜欢钓鱼。
+Example3_EN: I like fishing.
+
+===word: 累===
+Meaning: tired
+Nuance_EN: 累 describes physical or mental fatigue. It is a common adjective in spoken Chinese.
+Nuance_CN: 累表示身体或精神上的疲劳，口语中常用，语气直接。
+Example1: 我今天工作了一天，好累。
+Example1_EN: I worked all day today, I'm so tired.
+Example2: 你看起来有点累。
+Example2_EN: You look a bit tired.
+Example3: 累的话就休息一下。
+Example3_EN: If you're tired, take a rest.
+
+===word: 更好===
+Meaning: better
+Nuance_EN: 更好 means "better", used to compare two things. It is the comparative form of 好.
+Nuance_CN: 更好表示比另一个更好，是比较级，常用于口语和书面语。
+Example1: 这个方案更好。
+Example1_EN: This plan is better.
+Example2: 我觉得跑步比游泳更好。
+Example2_EN: I think running is better than swimming.
+Example3: 你做得更好。
+Example3_EN: You did better.
+
+===word: 加油===
+Meaning: go for it, keep it up, add oil
+Nuance_EN: 加油 is an encouraging phrase used to cheer someone on, similar to "Go!" or "Keep it up!" in English. It's very common in Chinese culture.
+Nuance_CN: 加油用于鼓励他人努力或坚持，语气积极热情，是中文里非常常见的激励语。
+Example1: 考试加油！
+Example1_EN: Good luck with your exam!
+Example2: 我们都为你加油。
+Example2_EN: We are all cheering for you.
+Example3: 加油，你一定能行！
+Example3_EN: Keep it up, you can do it!
+
+===word: 加油站===
+Meaning: gas station, petrol station
+Nuance_EN: 加油站 is a place where vehicles refuel. It is a compound noun from 加油 (add fuel) + 站 (station).
+Nuance_CN: 加油站为车辆提供燃油的地方，是日常用语中的常见名词。
+Example1: 前面有个加油站。
+Example1_EN: There's a gas station ahead.
+Example2: 我们需要去加油站加油。
+Example2_EN: We need to go to the gas station to refuel.
+Example3: 加油站24小时营业。
+Example3_EN: The gas station is open 24 hours.
+
+===word: 当然===
+Meaning: of course
+Nuance_EN: 当然 means "of course" or "certainly", used to express strong agreement or obviousness.
+Nuance_CN: 当然表示毫无疑问、理所当然，语气肯定，常用于口语。
+Example1: 当然可以。
+Example1_EN: Of course you can.
+Example2: 我当然会来参加聚会。
+Example2_EN: Of course I will come to the party.
+Example3: 这个问题当然很简单。
+Example3_EN: This question is of course very simple.
+
+===word: 可是===
+Meaning: but, however
+Nuance_EN: 可是 is a conjunction meaning "but" or "however", used to introduce a contrasting idea. It is common in both spoken and written Chinese.
+Nuance_CN: 可是表示转折，相当于“但是”，在口语和书面语中都很常用。
+Example1: 我想去，可是没时间。
+Example1_EN: I want to go, but I don't have time.
+Example2: 这个菜很好吃，可是太辣了。
+Example2_EN: This dish is delicious, but it's too spicy.
+Example3: 他说他可以，可是我不信。
+Example3_EN: He said he could, but I don't believe it.
+
+===word: 和===
+Meaning: and, with
+Nuance_EN: 和 is a conjunction meaning "and", also used as a preposition meaning "with". It is a basic and frequent word.
+Nuance_CN: 和表示并列关系或伴随关系，是最常用的连词之一。
+Example1: 我和他是朋友。
+Example1_EN: He and I are friends.
+Example2: 我喜欢苹果和香蕉。
+Example2_EN: I like apples and bananas.
+Example3: 你和我一起去吗？
+Example3_EN: Are you going with me?
+
+===word: 教===
+Meaning: to teach
+Nuance_EN: 教 is a verb meaning "to teach" or "to instruct". It can be used with subjects like language, skills, etc.
+Nuance_CN: 教表示传授知识或技能，可用于各种教学场景。
+Example1: 她教我中文。
+Example1_EN: She teaches me Chinese.
+Example2: 老师教我们数学。
+Example2_EN: The teacher teaches us math.
+Example3: 你能教我这个吗？
+Example3_EN: Can you teach me this?
+
+===word: 最===
+Meaning: the most, -est
+Nuance_EN: 最 is a superlative adverb meaning "the most", used before adjectives or verbs to indicate the highest degree.
+Nuance_CN: 最表示程度最高，用于形容词或动词前，构成最高级。
+Example1: 这是最好的办法。
+Example1_EN: This is the best method.
+Example2: 她最喜欢吃巧克力。
+Example2_EN: She likes chocolate the most.
+Example3: 今天是最热的一天。
+Example3_EN: Today is the hottest day.
+
+===word: 最好===
+Meaning: the best
+Nuance_EN: 最好 means "the best" (superlative of 好). It is also used as an adverb meaning "had better" in suggestions.
+Nuance_CN: 最好既可以表示“最好的”，也可以用于建议“最好……”，口语常用。
+Example1: 这个餐厅的菜最好。
+Example1_EN: The food at this restaurant is the best.
+Example2: 你最好早点出发。
+Example2_EN: You'd better leave early.
+Example3: 最好的朋友是懂你的人。
+Example3_EN: The best friend is someone who understands you.
+
+===word: 零度可乐===
+Meaning: Coke Zero
+Nuance_EN: 零度可乐 is the Chinese brand name for Coca-Cola Zero, a sugar-free cola. It is a specific product name.
+Nuance_CN: 零度可乐是可口可乐公司推出的无糖可乐品牌，在超市和餐厅常见。
+Example1: 我要一杯零度可乐。
+Example1_EN: I'd like a glass of Coke Zero.
+Example2: 零度可乐没有糖。
+Example2_EN: Coke Zero has no sugar.
+Example3: 你喝零度可乐还是普通可乐？
+Example3_EN: Do you drink Coke Zero or regular Coke?
+
+===word: 卖单===
+Meaning: check, bill (in a restaurant)
+Nuance_EN: 卖单 is used in some regions (e.g., Taiwan) to ask for the bill in a restaurant. In mainland China, 买单 is more common.
+Nuance_CN: 卖单在台湾等地常用，指餐厅结账时的账单，大陆常用“买单”。
+Example1: 服务员，请给我卖单。
+Example1_EN: Waiter, please bring me the check.
+Example2: 这顿饭我们卖单。
+Example2_EN: We'll pay for this meal.
+Example3: 卖单多少钱？
+Example3_EN: How much is the bill?
+
+===word: 菜===
+Meaning: dish, vegetable, cuisine
+Nuance_EN: 菜 can mean "dish" (cooked food), "vegetable" (as a food category), or "cuisine". Context determines meaning.
+Nuance_CN: 菜可指菜肴、蔬菜或菜系，含义丰富，日常使用频率高。
+Example1: 今天点的菜很好吃。
+Example1_EN: The dishes we ordered today are delicious.
+Example2: 多吃点菜，对身体好。
+Example2_EN: Eat more vegetables, it's good for your health.
+Example3: 我喜欢川菜。
+Example3_EN: I like Sichuan cuisine.
+
+===word: 日本料理===
+Meaning: Japanese cuisine, Japanese food
+Nuance_EN: 日本料理 is a formal term for Japanese cuisine, often used in restaurant names or menus. 日料 is a common abbreviation.
+Nuance_CN: 日本料理指日本风格的饮食，在餐厅菜单上常见，较为正式，也可简称为“日料”。
+Example1: 我们今晚去吃日本料理吧。
+Example1_EN: Let's go eat Japanese food tonight.
+Example2: 这家日本料理店很正宗。
+Example2_EN: This Japanese restaurant is very authentic.
+Example3: 日本料理讲究食材新鲜。
+Example3_EN: Japanese cuisine emphasizes fresh ingredients.
+
+===word: 翻译===
+Meaning: translate, interpret
+Nuance_EN: Used for both written translation and oral interpretation. Common in academic and professional contexts.
+Nuance_CN: 既指笔译也指口译，常用于学术或工作场合。
+Example1: 我需要把这份文件翻译成英文。
+Example1_EN: I need to translate this document into English.
+Example2: 她做同声翻译已经十年了。
+Example2_EN: She has been doing simultaneous interpretation for ten years.
+Example3: 翻译软件越来越准确了。
+Example3_EN: Translation software is becoming more and more accurate.
+
+===word: 作业===
+Meaning: homework, assignment
+Nuance_EN: Refers to schoolwork assigned by teachers. Can also mean "task" in a broader sense.
+Nuance_CN: 指老师布置的课后任务，也可泛指工作任务。
+Example1: 今天的数学作业很难。
+Example1_EN: Today's math homework is very difficult.
+Example2: 你做完作业了吗？
+Example2_EN: Have you finished your homework?
+Example3: 老师让我们明天交作业。
+Example3_EN: The teacher told us to hand in the homework tomorrow.
+
+===word: 妹妹===
+Meaning: younger sister
+Nuance_EN: Refers specifically to a female sibling who is younger. Often used as a term of endearment.
+Nuance_CN: 指比自己年龄小的女性兄弟姐妹，也可用于亲昵称呼。
+Example1: 我妹妹今年上小学。
+Example1_EN: My younger sister is in elementary school this year.
+Example2: 妹妹喜欢画画。
+Example2_EN: My younger sister likes to draw.
+Example3: 她是我最好的妹妹。
+Example3_EN: She is my dearest younger sister.
+
+===word: 姐姐===
+Meaning: older sister
+Nuance_EN: Refers to an older female sibling. Also used as a respectful term for an older woman.
+Nuance_CN: 指比自己年龄大的女性兄弟姐妹，也可用于尊称年长女性。
+Example1: 姐姐帮我复习功课。
+Example1_EN: My older sister helped me review my lessons.
+Example2: 她是我姐姐，不是妈妈。
+Example2_EN: She is my older sister, not my mother.
+Example3: 姐姐，请问这条路怎么走？
+Example3_EN: Big sister, could you tell me how to get to this road?
+
+===word: 弟弟===
+Meaning: younger brother
+Nuance_EN: Refers to a male sibling who is younger. Can also be used informally for a younger male.
+Nuance_CN: 指比自己年龄小的男性兄弟姐妹，也可用于称呼年轻男性。
+Example1: 弟弟在玩玩具车。
+Example1_EN: My younger brother is playing with toy cars.
+Example2: 弟弟比我矮一点。
+Example2_EN: My younger brother is a bit shorter than me.
+Example3: 弟弟很调皮。
+Example3_EN: My younger brother is very naughty.
+
+===word: 哥哥===
+Meaning: older brother
+Nuance_EN: Refers to an older male sibling. Also used as a polite term for an older male.
+Nuance_CN: 指比自己年龄大的男性兄弟姐妹，也可用于尊称年长男性。
+Example1: 哥哥在大学读书。
+Example1_EN: My older brother is studying at university.
+Example2: 哥哥教我打篮球。
+Example2_EN: My older brother taught me to play basketball.
+Example3: 哥哥，你等一下我。
+Example3_EN: Big brother, wait for me a moment.
+
+===word: 法国===
+Meaning: France
+Nuance_EN: The country name. Used in geography, travel, and culture contexts.
+Nuance_CN: 国家名称，常用于地理、旅游和文化话题。
+Example1: 法国以红酒和奶酪闻名。
+Example1_EN: France is famous for red wine and cheese.
+Example2: 我明年想去法国留学。
+Example2_EN: I want to study abroad in France next year.
+Example3: 法国巴黎是浪漫之都。
+Example3_EN: Paris, France is the city of romance.
+
+===word: 韩国===
+Meaning: South Korea
+Nuance_EN: Refers to the Republic of Korea. Common in discussions about K-pop, food, and technology.
+Nuance_CN: 指大韩民国，常用于韩流、美食和科技话题。
+Example1: 韩国的泡菜很有名。
+Example1_EN: Korean kimchi is very famous.
+Example2: 她喜欢看韩剧。
+Example2_EN: She likes watching Korean dramas.
+Example3: 韩国首尔是个繁华的城市。
+Example3_EN: Seoul, South Korea is a bustling city.
+
+===word: 重要===
+Meaning: important
+Nuance_EN: Describes something of great significance or value. Used in both formal and informal settings.
+Nuance_CN: 形容具有重大意义或价值的事物，正式和非正式场合都常用。
+Example1: 这次考试很重要。
+Example1_EN: This exam is very important.
+Example2: 健康比金钱更重要。
+Example2_EN: Health is more important than money.
+Example3: 请记住这个重要的日期。
+Example3_EN: Please remember this important date.
+
+===word: 录查===
+Meaning: green tea
+Nuance_EN: Likely a typo for 绿茶 (lǜchá). Refers to the beverage made from unfermented tea leaves.
+Nuance_CN: 可能是“绿茶”的笔误，指未经发酵的茶叶泡制的饮品。
+Example1: 我喜欢喝录查，对身体好。
+Example1_EN: I like drinking green tea; it's good for health.
+Example2: 录查和乌龙茶味道不同。
+Example2_EN: Green tea and oolong tea taste different.
+Example3: 夏天喝冰录查很解暑。
+Example3_EN: Drinking iced green tea in summer is very refreshing.
+
+===word: 红色===
+Meaning: red color
+Nuance_EN: The color red. In Chinese culture, it symbolizes luck, happiness, and celebration.
+Nuance_CN: 颜色红色，在中国文化中象征吉祥、喜庆。
+Example1: 春节时人们喜欢穿红色衣服。
+Example1_EN: People like to wear red clothes during the Spring Festival.
+Example2: 这朵花是红色的。
+Example2_EN: This flower is red.
+Example3: 红色代表热情。
+Example3_EN: Red represents passion.
+
+===word: 白色===
+Meaning: white color
+Nuance_EN: The color white. In Chinese culture, it is often associated with mourning and funerals, but also purity.
+Nuance_CN: 颜色白色，在中国文化中常与丧事相关，但也代表纯洁。
+Example1: 新娘穿着白色婚纱。
+Example1_EN: The bride wore a white wedding dress.
+Example2: 白色墙壁看起来很干净。
+Example2_EN: White walls look very clean.
+Example3: 在中国，白色有时用于葬礼。
+Example3_EN: In China, white is sometimes used at funerals.
+
+===word: 红酒===
+Meaning: red wine
+Nuance_EN: Alcoholic beverage made from dark-colored grapes. Often associated with Western dining and celebrations.
+Nuance_CN: 用深色葡萄酿制的酒精饮料，常与西餐和庆祝活动相关。
+Example1: 晚餐时我们喝了一瓶红酒。
+Example1_EN: We drank a bottle of red wine at dinner.
+Example2: 红酒对心脏有好处。
+Example2_EN: Red wine is good for the heart.
+Example3: 这瓶法国红酒很贵。
+Example3_EN: This bottle of French red wine is very expensive.
+
+===word: 白酒===
+Meaning: baijiu (Chinese white spirit)
+Nuance_EN: A strong distilled liquor, typically around 40-60% alcohol. Often served at banquets and important occasions. Not to be confused with white wine.
+Nuance_CN: 一种高度蒸馏酒，酒精度通常在40-60度，常用于宴会和重要场合。不要与白葡萄酒混淆。
+Example1: 中国人喜欢在宴会上喝白酒。
+Example1_EN: Chinese people like to drink baijiu at banquets.
+Example2: 白酒的味道很烈。
+Example2_EN: Baijiu has a very strong taste.
+Example3: 他喝了一杯白酒就醉了。
+Example3_EN: He got drunk after drinking one glass of baijiu.
+
+===word: 很少===
+Meaning: very little, seldom
+Nuance_EN: Indicates a small quantity or low frequency. Opposite of 很多 (a lot).
+Nuance_CN: 表示数量少或频率低，与“很多”相对。
+Example1: 我很少吃甜食。
+Example1_EN: I seldom eat sweets.
+Example2: 他很少迟到。
+Example2_EN: He is rarely late.
+Example3: 这里的人很少。
+Example3_EN: There are very few people here.
+
+===word: 最近===
+Meaning: recently, lately; closest (in distance)
+Nuance_EN: Can mean "recently" (time) or "nearest" (space). Context determines meaning.
+Nuance_CN: 可表示时间上的“最近”或空间上的“最近”，需根据语境判断。
+Example1: 最近你过得怎么样？
+Example1_EN: How have you been recently?
+Example2: 最近的超市在街角。
+Example2_EN: The nearest supermarket is at the street corner.
+Example3: 我最近在学中文。
+Example3_EN: I've been learning Chinese lately.
+
+===word: 卖===
+Meaning: to sell
+Nuance_EN: The verb for selling goods or services. Opposite of 买 (to buy).
+Nuance_CN: 出售商品或服务的动词，与“买”相对。
+Example1: 这家店卖水果。
+Example1_EN: This shop sells fruit.
+Example2: 他把旧书卖了。
+Example2_EN: He sold his old books.
+Example3: 网上卖的东西很便宜。
+Example3_EN: Things sold online are very cheap.
+
+===word: 书===
+Meaning: book
+Nuance_EN: A written or printed work. Can refer to any type of book.
+Nuance_CN: 文字或印刷作品，可指任何类型的书籍。
+Example1: 这本书很有趣。
+Example1_EN: This book is very interesting.
+Example2: 我喜欢看历史书。
+Example2_EN: I like reading history books.
+Example3: 图书馆里有很多书。
+Example3_EN: There are many books in the library.
+
+===word: 旧===
+Meaning: old (used, not new)
+Nuance_EN: Describes something that is not new, often worn or second-hand. Can also mean "former" (e.g., 旧朋友).
+Nuance_CN: 形容不新、用过的或二手的物品，也可表示“以前的”（如旧朋友）。
+Example1: 这件衣服太旧了。
+Example1_EN: This piece of clothing is too old.
+Example2: 他买了一辆旧车。
+Example2_EN: He bought a used car.
+Example3: 旧的不去，新的不来。
+Example3_EN: If the old doesn't go, the new won't come.
+
+===word: 眼镜===
+Meaning: glasses, spectacles
+Nuance_EN: Eyewear used for vision correction or fashion. Common in daily life.
+Nuance_CN: 用于矫正视力或装饰的眼镜，日常生活中很常见。
+Example1: 我忘了戴眼镜。
+Example1_EN: I forgot to wear my glasses.
+Example2: 他的眼镜是黑色的。
+Example2_EN: His glasses are black.
+Example3: 近视的人需要戴眼镜。
+Example3_EN: Nearsighted people need to wear glasses.
+
+===word: 便宜===
+Meaning: cheap, inexpensive
+Nuance_EN: 便宜 primarily means low price, but can also imply low quality or a bargain. It is neutral in tone but can be negative when describing poor quality.
+Nuance_CN: 便宜主要表示价格低，但有时也暗示质量差或物有所值。语气中性，但用于描述劣质产品时可能带有负面含义。
+Example1: 这家店的菜很便宜，所以总是有很多人。
+Example1_EN: The dishes at this restaurant are very cheap, so there are always many people.
+Example2: 不要贪便宜买质量差的东西。
+Example2_EN: Don't be tempted by cheap prices to buy low-quality items.
+Example3: 这个手机虽然便宜，但功能很齐全。
+Example3_EN: Although this phone is cheap, it has full features.
+
+===word: 贵===
+Meaning: expensive, costly
+Nuance_EN: 贵 describes high price, often implying value or prestige. It can also be used metaphorically for something precious or rare.
+Nuance_CN: 贵表示价格高，常带有价值高或高档的含义，也可用于比喻珍贵的事物。
+Example1: 这家餐厅的菜太贵了，我们换一家吧。
+Example1_EN: The dishes at this restaurant are too expensive; let's go to another one.
+Example2: 时间很宝贵，不要浪费。
+Example2_EN: Time is very precious; don't waste it.
+Example3: 这件衣服虽然贵，但质量很好。
+Example3_EN: Although this dress is expensive, the quality is very good.
+
+===word: 酒吧===
+Meaning: bar, pub
+Nuance_EN: 酒吧 refers to a place where alcoholic drinks are served, typically with a social atmosphere. It's a common loanword from English "bar".
+Nuance_CN: 酒吧是提供酒精饮料的社交场所，是英语“bar”的音译词，常用于休闲娱乐。
+Example1: 周末我们经常去酒吧喝酒聊天。
+Example1_EN: We often go to the bar on weekends to drink and chat.
+Example2: 这家酒吧的音乐很好听，气氛也不错。
+Example2_EN: The music at this bar is very nice, and the atmosphere is good too.
+Example3: 他一个人在酒吧里喝闷酒。
+Example3_EN: He was drinking alone at the bar, feeling frustrated.
+
+===word: 一半===
+Meaning: one half
+Nuance_EN: 一半 means exactly half of something. It can be used for quantities, time, or portions. Often used in everyday contexts.
+Nuance_CN: 一半表示整体的一半，可用于数量、时间或部分，日常使用频率高。
+Example1: 我把蛋糕分了一半给她。
+Example1_EN: I gave half of the cake to her.
+Example2: 工作才完成了一半，我们得加油。
+Example2_EN: Only half of the work is done; we need to work harder.
+Example3: 一半的乘客都在睡觉。
+Example3_EN: Half of the passengers were sleeping.
+
+===word: 觉得===
+Meaning: to think, to feel
+Nuance_EN: 觉得 expresses a personal opinion, feeling, or perception. It is softer than "认为" and often used for subjective judgments.
+Nuance_CN: 觉得表示个人看法、感觉或认知，语气比“认为”更柔和，常用于主观判断。
+Example1: 我觉得这部电影很好看。
+Example1_EN: I think this movie is very good.
+Example2: 你觉得这件衣服怎么样？
+Example2_EN: What do you think of this dress?
+Example3: 他觉得很累，所以先休息了。
+Example3_EN: He felt very tired, so he rested first.
+
+===word: 信心===
+Meaning: confidence
+Nuance_EN: 信心 refers to a positive belief in one's own abilities or in a future outcome. It is a common noun used in both personal and professional contexts.
+Nuance_CN: 信心表示对自己能力或未来结果的积极信念，常用于个人或职业场合。
+Example1: 他对考试很有信心。
+Example1_EN: He is very confident about the exam.
+Example2: 经过多次练习，她终于有了信心。
+Example2_EN: After many practices, she finally gained confidence.
+Example3: 我们对公司的未来充满信心。
+Example3_EN: We are full of confidence in the company's future.
+
+===word: 老板===
+Meaning: boss, owner
+Nuance_EN: 老板 is a colloquial term for the person who owns or manages a business. It can be used in both formal and informal settings, but is less formal than "上司".
+Nuance_CN: 老板是口语中对企业主或管理者的称呼，比“上司”更随意，常用于日常对话。
+Example1: 老板今天心情很好，给我们发了奖金。
+Example1_EN: The boss is in a good mood today and gave us bonuses.
+Example2: 这家店的老板很热情。
+Example2_EN: The owner of this shop is very warm-hearted.
+Example3: 老板叫我明天早点来上班。
+Example3_EN: The boss told me to come to work earlier tomorrow.
+
+===word: 工程师===
+Meaning: engineer
+Nuance_EN: 工程师 is a professional title for someone who designs, builds, or maintains systems and structures. It is used in various fields like software, civil, mechanical, etc.
+Nuance_CN: 工程师是从事设计、建造或维护系统与结构的专业职称，适用于软件、土木、机械等多个领域。
+Example1: 他是一名软件工程师，在一家科技公司工作。
+Example1_EN: He is a software engineer working at a tech company.
+Example2: 工程师正在检查桥梁的安全性。
+Example2_EN: The engineer is checking the safety of the bridge.
+Example3: 她想成为一名环境工程师。
+Example3_EN: She wants to become an environmental engineer.
+
+===word: 橙汁===
+Meaning: orange juice
+Nuance_EN: 橙汁 is a common beverage made from oranges. It is a straightforward compound word: 橙 (orange) + 汁 (juice).
+Nuance_CN: 橙汁是常见的橙子饮品，是由“橙”和“汁”组成的复合词，意思明确。
+Example1: 早餐时我喜欢喝一杯鲜榨橙汁。
+Example1_EN: I like to drink a glass of freshly squeezed orange juice at breakfast.
+Example2: 这瓶橙汁是冰的，你要不要？
+Example2_EN: This bottle of orange juice is cold; do you want some?
+Example3: 橙汁富含维生素C。
+Example3_EN: Orange juice is rich in vitamin C.
+
+===word: 西瓜===
+Meaning: watermelon
+Nuance_EN: 西瓜 is a large, sweet fruit commonly eaten in summer. It is a basic vocabulary item.
+Nuance_CN: 西瓜是一种夏季常见的大型甜水果，属于基础词汇。
+Example1: 夏天吃西瓜最解暑了。
+Example1_EN: Eating watermelon in summer is the best way to beat the heat.
+Example2: 这个西瓜很甜，你尝尝。
+Example2_EN: This watermelon is very sweet; have a taste.
+Example3: 我们把西瓜切成小块，方便大家吃。
+Example3_EN: We cut the watermelon into small pieces for everyone to eat easily.
+
+===word: 一共===
+Meaning: altogether, in total
+Nuance_EN: 一共 is an adverb used to indicate the total sum or quantity of something, often in shopping or counting contexts.
+Nuance_CN: 一共是副词，表示总和或总数量，常用于购物或计数场景。
+Example1: 这些东西一共多少钱？
+Example1_EN: How much are these things altogether?
+Example2: 今天一共来了二十个人。
+Example2_EN: A total of twenty people came today.
+Example3: 他一个月一共赚了五千块。
+Example3_EN: He earned a total of five thousand yuan in one month.
+
+===word: 青菜===
+Meaning: green vegetables, leafy greens
+Nuance_EN: 青菜 generally refers to leafy green vegetables like bok choy or spinach. It is a common term in Chinese cuisine.
+Nuance_CN: 青菜通常指绿叶蔬菜，如小白菜、菠菜等，是中餐中的常见食材。
+Example1: 多吃青菜对身体好。
+Example1_EN: Eating more green vegetables is good for your health.
+Example2: 今天炒了一盘青菜，很清淡。
+Example2_EN: Today I stir-fried a plate of green vegetables; it's very light.
+Example3: 青菜要洗干净再炒。
+Example3_EN: Wash the green vegetables thoroughly before stir-frying.
+
+===word: 西红柿===
+Meaning: tomato
+Nuance_EN: 西红柿 is the Chinese word for tomato, also commonly called 番茄. It is used in cooking and as a fruit.
+Nuance_CN: 西红柿是番茄的常用名称，用于烹饪和作为水果食用。
+Example1: 西红柿炒鸡蛋是一道家常菜。
+Example1_EN: Tomato and scrambled eggs is a home-style dish.
+Example2: 这些西红柿很新鲜，可以生吃。
+Example2_EN: These tomatoes are very fresh; you can eat them raw.
+Example3: 他喜欢在沙拉里加西红柿。
+Example3_EN: He likes to add tomatoes to his salad.
+
+===word: 厨师===
+Meaning: chef, cook
+Nuance_EN: 厨师 refers to a professional cook, typically in a restaurant or hotel. It is a common occupation noun.
+Nuance_CN: 厨师指在餐厅或酒店等场所的专业烹饪人员，是常见职业名词。
+Example1: 这位厨师做的菜非常好吃。
+Example1_EN: The dishes made by this chef are very delicious.
+Example2: 他从小就想当一名厨师。
+Example2_EN: He has wanted to be a chef since childhood.
+Example3: 厨师正在厨房里准备晚餐。
+Example3_EN: The chef is preparing dinner in the kitchen.
+
+===word: 警察===
+Meaning: police officer, policeman
+Nuance_EN: 警察 is a general term for law enforcement officers. It can refer to both male and female officers.
+Nuance_CN: 警察是执法人员的统称，可指男女警员。
+Example1: 警察正在调查这起案件。
+Example1_EN: The police are investigating this case.
+Example2: 有困难可以找警察帮忙。
+Example2_EN: If you have trouble, you can ask the police for help.
+Example3: 他长大后想当警察。
+Example3_EN: He wants to become a police officer when he grows up.
+
+===word: 经理===
+Meaning: manager
+Nuance_EN: 经理 is a common title for a person who manages a department or a company. It is used in business contexts.
+Nuance_CN: 经理是管理某个部门或公司的职务头衔，常用于商业场合。
+Example1: 经理正在开会，你稍后再来吧。
+Example1_EN: The manager is in a meeting; please come back later.
+Example2: 她升职成为销售经理了。
+Example2_EN: She was promoted to sales manager.
+Example3: 经理对员工的要求很严格。
+Example3_EN: The manager is very strict with the employees.
+
+===word: 记者===
+Meaning: journalist, reporter
+Nuance_EN: 记者 refers to a person who collects and reports news for media outlets. It is a professional term.
+Nuance_CN: 记者指为媒体收集和报道新闻的人员，是专业术语。
+Example1: 记者正在采访这位明星。
+Example1_EN: The reporter is interviewing this celebrity.
+Example2: 她是一名新闻记者，经常出差。
+Example2_EN: She is a news journalist and often travels on business.
+Example3: 记者在发布会现场记录信息。
+Example3_EN: The journalist is recording information at the press conference.
+
+===word: 家庭主妇===
+Meaning: housewife
+Nuance_EN: 家庭主妇 refers to a woman whose primary role is managing the household and caring for the family. It can be a neutral term but may carry traditional connotations.
+Nuance_CN: 家庭主妇指主要职责是管理家庭和照顾家人的女性，属于中性词，但可能带有传统色彩。
+Example1: 她结婚后成了一名家庭主妇。
+Example1_EN: She became a housewife after getting married.
+Example2: 家庭主妇的工作其实很辛苦。
+Example2_EN: The work of a housewife is actually very hard.
+Example3: 很多家庭主妇也做兼职工作。
+Example3_EN: Many housewives also do part-time jobs.
+
+===word: 司机===
+Meaning: driver
+Nuance_EN: 司机 is a general term for a person who drives a vehicle, especially professionally (e.g., taxi driver, bus driver).
+Nuance_CN: 司机是驾驶车辆的人员的统称，尤其指职业司机（如出租车司机、公交司机）。
+Example1: 出租车司机每天工作很长时间。
+Example1_EN: Taxi drivers work long hours every day.
+Example2: 司机开车时请不要打扰他。
+Example2_EN: Please don't disturb the driver while he is driving.
+Example3: 她是一名公交车司机，技术很好。
+Example3_EN: She is a bus driver and has excellent driving skills.
+
+===word: 教授===
+Meaning: professor
+Nuance_EN: 教授 is a high-ranking academic title at universities. It is used for teaching and research professionals.
+Nuance_CN: 教授是大学中的高级学术职称，用于教学和研究专业人员。
+Example1: 这位教授在物理领域很有名。
+Example1_EN: This professor is very famous in the field of physics.
+Example2: 教授正在给学生们上课。
+Example2_EN: The professor is giving a lecture to the students.
+Example3: 他是一名大学教授，主要研究历史。
+Example3_EN: He is a university professor, mainly researching history.
+
+===word: 律师===
+Meaning: Lawyer
+Nuance_EN: Refers to a legal professional who provides advice and representation. Formal register, used in professional contexts.
+Nuance_CN: 指提供法律咨询和代理的专业人士，正式场合使用。
+Example1: 我的律师建议我签署这份合同。
+Example1_EN: My lawyer advised me to sign this contract.
+Example2: 她是一名优秀的刑事律师。
+Example2_EN: She is an excellent criminal lawyer.
+Example3: 请律师的费用很高。
+Example3_EN: The cost of hiring a lawyer is very high.
+
+===word: 服务员===
+Meaning: Waiter/Waitress
+Nuance_EN: Used for service staff in restaurants, cafes, or hotels. Neutral register, common in daily life.
+Nuance_CN: 指餐厅、咖啡馆或酒店的服务人员，日常用语。
+Example1: 服务员，请给我一杯水。
+Example1_EN: Waiter, please give me a glass of water.
+Example2: 这家餐厅的服务员很热情。
+Example2_EN: The waiters at this restaurant are very enthusiastic.
+Example3: 他以前做过服务员。
+Example3_EN: He used to work as a waiter.
+
+===word: 秘书===
+Meaning: Secretary
+Nuance_EN: Refers to an administrative assistant, often in an office. Can also mean "secretary" in an organization. Neutral register.
+Nuance_CN: 指办公室的行政助理，也可指组织的秘书。中性用语。
+Example1: 秘书帮我安排了明天的会议。
+Example1_EN: The secretary arranged tomorrow's meeting for me.
+Example2: 她在一家大公司当秘书。
+Example2_EN: She works as a secretary at a large company.
+Example3: 请把这份文件交给秘书。
+Example3_EN: Please give this document to the secretary.
+
+===word: 护士===
+Meaning: Nurse
+Nuance_EN: Refers to a medical professional who cares for patients. Neutral register, used in healthcare contexts.
+Nuance_CN: 指照顾病人的医疗专业人员，中性用语。
+Example1: 护士每天给病人量体温。
+Example1_EN: The nurse takes the patients' temperatures every day.
+Example2: 她从小就想当护士。
+Example2_EN: She has wanted to be a nurse since she was young.
+Example3: 这位护士很有耐心。
+Example3_EN: This nurse is very patient.
+
+===word: 苹果===
+Meaning: Apple
+Nuance_EN: Common fruit. Neutral register, used in everyday conversation.
+Nuance_CN: 常见水果，日常用语。
+Example1: 我每天吃一个苹果。
+Example1_EN: I eat an apple every day.
+Example2: 这个苹果很甜。
+Example2_EN: This apple is very sweet.
+Example3: 苹果的价格上涨了。
+Example3_EN: The price of apples has gone up.
+
+===word: 香蕉===
+Meaning: Banana
+Nuance_EN: Common tropical fruit. Neutral register.
+Nuance_CN: 常见热带水果，中性用语。
+Example1: 香蕉富含钾。
+Example1_EN: Bananas are rich in potassium.
+Example2: 请帮我买一把香蕉。
+Example2_EN: Please help me buy a bunch of bananas.
+Example3: 香蕉皮很滑。
+Example3_EN: Banana peels are very slippery.
+
+===word: 橙子===
+Meaning: Orange
+Nuance_EN: Citrus fruit. Neutral register.
+Nuance_CN: 柑橘类水果，中性用语。
+Example1: 橙子含有丰富的维生素C。
+Example1_EN: Oranges are rich in vitamin C.
+Example2: 他喜欢喝橙汁。
+Example2_EN: He likes to drink orange juice.
+Example3: 这个橙子很酸。
+Example3_EN: This orange is very sour.
+
+===word: 草莓===
+Meaning: Strawberry
+Nuance_EN: Small red fruit, often used in desserts. Neutral register.
+Nuance_CN: 小型红色水果，常用于甜点。中性用语。
+Example1: 草莓蛋糕很好吃。
+Example1_EN: Strawberry cake is delicious.
+Example2: 这些草莓是新鲜的。
+Example2_EN: These strawberries are fresh.
+Example3: 她最喜欢吃草莓。
+Example3_EN: She likes eating strawberries the most.
+
+===word: 葡萄===
+Meaning: Grapes
+Nuance_EN: Small fruit that grows in clusters, used for eating or making wine. Neutral register.
+Nuance_CN: 成串生长的小水果，可食用或酿酒。中性用语。
+Example1: 葡萄可以做成葡萄酒。
+Example1_EN: Grapes can be made into wine.
+Example2: 这串葡萄很甜。
+Example2_EN: This bunch of grapes is very sweet.
+Example3: 他买了一公斤葡萄。
+Example3_EN: He bought one kilogram of grapes.
+
+===word: 芒果===
+Meaning: Mango
+Nuance_EN: Tropical fruit with sweet yellow flesh. Neutral register.
+Nuance_CN: 热带水果，果肉甜而黄。中性用语。
+Example1: 芒果奶昔是我的最爱。
+Example1_EN: Mango smoothie is my favorite.
+Example2: 这个芒果还没熟。
+Example2_EN: This mango is not ripe yet.
+Example3: 泰国芒果很出名。
+Example3_EN: Thai mangoes are very famous.
+
+===word: 菠萝===
+Meaning: Pineapple
+Nuance_EN: Tropical fruit with spiky skin and sweet yellow flesh. Neutral register.
+Nuance_CN: 热带水果，外皮有刺，果肉甜而黄。中性用语。
+Example1: 菠萝炒饭很好吃。
+Example1_EN: Pineapple fried rice is delicious.
+Example2: 这个菠萝太酸了。
+Example2_EN: This pineapple is too sour.
+Example3: 她正在切菠萝。
+Example3_EN: She is cutting a pineapple.
+
+===word: 柠檬===
+Meaning: Lemon
+Nuance_EN: Sour citrus fruit, often used for flavoring. Neutral register.
+Nuance_CN: 酸味柑橘类水果，常用于调味。中性用语。
+Example1: 柠檬水很解渴。
+Example1_EN: Lemonade is very refreshing.
+Example2: 她在茶里加了一片柠檬。
+Example2_EN: She added a slice of lemon to her tea.
+Example3: 柠檬很酸。
+Example3_EN: Lemons are very sour.
+
+===word: 蘑菇===
+Meaning: Mushroom
+Nuance_EN: Fungus used as food, common in cooking. Neutral register.
+Nuance_CN: 可食用的真菌，常用于烹饪。中性用语。
+Example1: 蘑菇汤很鲜美。
+Example1_EN: Mushroom soup is very delicious.
+Example2: 这种蘑菇有毒。
+Example2_EN: This type of mushroom is poisonous.
+Example3: 他喜欢炒蘑菇吃。
+Example3_EN: He likes to stir-fry mushrooms.
+
+===word: 生菜===
+Meaning: Lettuce
+Nuance_EN: Leafy green vegetable, often used in salads. Neutral register.
+Nuance_CN: 绿叶蔬菜，常用于沙拉。中性用语。
+Example1: 生菜沙拉很健康。
+Example1_EN: Lettuce salad is very healthy.
+Example2: 请给我洗一下生菜。
+Example2_EN: Please wash the lettuce for me.
+Example3: 生菜可以包肉吃。
+Example3_EN: Lettuce can be used to wrap meat.
+
+===word: 土豆===
+Meaning: Potato
+Nuance_EN: Starchy root vegetable, a staple food. Neutral register.
+Nuance_CN: 淀粉类根茎蔬菜，主食之一。中性用语。
+Example1: 土豆丝是一道家常菜。
+Example1_EN: Shredded potato is a home-style dish.
+Example2: 这个土豆发芽了，不能吃。
+Example2_EN: This potato has sprouted, it's not edible.
+Example3: 他喜欢吃炸土豆。
+Example3_EN: He likes to eat fried potatoes.
+
+===word: 学校===
+Meaning: School
+Nuance_EN: Educational institution. Neutral register, used in everyday contexts.
+Nuance_CN: 教育机构，日常用语。
+Example1: 学校八点上课。
+Example1_EN: School starts at eight o'clock.
+Example2: 这所学校很有名。
+Example2_EN: This school is very famous.
+Example3: 她每天走路去学校。
+Example3_EN: She walks to school every day.
+
+===word: 跳舞===
+Meaning: To dance
+Nuance_EN: Verb meaning to perform dance movements. Neutral register, used in social or performance contexts.
+Nuance_CN: 动词，指表演舞蹈动作。中性用语。
+Example1: 她喜欢在派对上跳舞。
+Example1_EN: She likes to dance at parties.
+Example2: 他们正在学习跳舞。
+Example2_EN: They are learning to dance.
+Example3: 跳舞可以锻炼身体。
+Example3_EN: Dancing can exercise the body.
+
+===word: 因为===
+Meaning: Because
+Nuance_EN: Conjunction used to introduce a reason or cause. Common in both spoken and written Chinese.
+Nuance_CN: 连词，用于引出原因或理由。口语和书面语都常用。
+Example1: 因为下雨，所以比赛取消了。
+Example1_EN: Because it rained, the game was canceled.
+Example2: 他因为生病没来上课。
+Example2_EN: He didn't come to class because he was sick.
+Example3: 因为太贵，我没买。
+Example3_EN: Because it was too expensive, I didn't buy it.
+
+===word: 色子===
+Meaning: Dice
+Nuance_EN: Small cube with dots used in games. Often pronounced as "shǎizi" in casual speech. Neutral register.
+Nuance_CN: 游戏用的小立方体，上面有点数。口语中常读作“shǎizi”。中性用语。
+Example1: 掷色子决定谁先走。
+Example1_EN: Roll the dice to decide who goes first.
+Example2: 这副色子少了一个。
+Example2_EN: This set of dice is missing one.
+Example3: 玩桌游需要色子。
+Example3_EN: Playing board games requires dice.
+
+===word: 我饿了===
+Meaning: I'm hungry
+Nuance_EN: Common phrase expressing hunger. Used in everyday conversation, neutral register.
+Nuance_CN: 表达饥饿的常用短语，日常对话中使用。
+Example1: 我饿了，我们去吃饭吧。
+Example1_EN: I'm hungry, let's go eat.
+Example2: 你饿了吗？我饿了。
+Example2_EN: Are you hungry? I'm hungry.
+Example3: 我饿了，想吃一碗面。
+Example3_EN: I'm hungry and want a bowl of noodles.
+
+===word: 我渴了===
+Meaning: I'm thirsty
+Nuance_EN: Direct statement of thirst. Neutral register, common in daily conversation.
+Nuance_CN: 直接表达口渴的状态，日常口语常用，语气中性。
+Example1: 我渴了，想喝水。
+Example1_EN: I'm thirsty, I want to drink water.
+Example2: 走了这么久，我渴了。
+Example2_EN: After walking so long, I'm thirsty.
+Example3: 我渴了，能给我一杯水吗？
+Example3_EN: I'm thirsty, can you give me a glass of water?
+
+===word: 我病了===
+Meaning: I'm sick
+Nuance_EN: Expresses being ill. Can be used for general sickness or minor illness. Neutral register.
+Nuance_CN: 表示生病了，可指一般疾病或小病，语气中性。
+Example1: 我病了，今天不能去上班。
+Example1_EN: I'm sick, I can't go to work today.
+Example2: 我病了，需要休息。
+Example2_EN: I'm sick, I need to rest.
+Example3: 他告诉我他病了。
+Example3_EN: He told me he was sick.
+
+===word: 日期===
+Meaning: Date
+Nuance_EN: Refers to a specific day on the calendar. Commonly used in scheduling and formal contexts.
+Nuance_CN: 指日历上的具体某一天，常用于日程安排和正式场合。
+Example1: 请填写你的出生日期。
+Example1_EN: Please fill in your date of birth.
+Example2: 会议的日期定在下周三。
+Example2_EN: The date of the meeting is set for next Wednesday.
+Example3: 这个日期不对，请再确认一下。
+Example3_EN: This date is incorrect, please check again.
+
+===word: 周末===
+Meaning: Weekend
+Nuance_EN: Refers to Saturday and Sunday. Common in planning and social contexts.
+Nuance_CN: 指星期六和星期日，常用于计划和社交场合。
+Example1: 这个周末你有什么计划？
+Example1_EN: What are your plans for this weekend?
+Example2: 我们周末去爬山吧。
+Example2_EN: Let's go hiking this weekend.
+Example3: 周末通常我会睡懒觉。
+Example3_EN: I usually sleep in on weekends.
+
+===word: 伤心===
+Meaning: Sad
+Nuance_EN: Indicates emotional pain or sorrow. Stronger than 难过, often used for heartfelt sadness.
+Nuance_CN: 表示情感上的痛苦或悲伤，比“难过”语气更强，常用于内心伤痛。
+Example1: 听到这个消息，她很伤心。
+Example1_EN: She was very sad to hear the news.
+Example2: 别伤心了，一切都会好起来的。
+Example2_EN: Don't be sad, everything will be fine.
+Example3: 他因为分手而伤心了很久。
+Example3_EN: He was sad for a long time because of the breakup.
+
+===word: 生气===
+Meaning: Angry
+Nuance_EN: Expresses anger or annoyance. Common in both casual and serious contexts.
+Nuance_CN: 表达愤怒或恼怒，可用于日常和严肃场合。
+Example1: 他因为迟到了而生气。
+Example1_EN: He was angry because he was late.
+Example2: 你别生气，我不是故意的。
+Example2_EN: Don't be angry, I didn't mean it.
+Example3: 她生气的时候不说话。
+Example3_EN: She doesn't speak when she's angry.
+
+===word: 忙===
+Meaning: Busy
+Nuance_EN: Describes a state of having many tasks or little free time. Extremely common.
+Nuance_CN: 描述有很多事情要做、空闲时间少的状态，非常常用。
+Example1: 这几天我很忙。
+Example1_EN: I've been very busy these days.
+Example2: 他忙得没时间吃饭。
+Example2_EN: He is so busy that he has no time to eat.
+Example3: 你忙吗？能帮我一下吗？
+Example3_EN: Are you busy? Can you help me?
+
+===word: 练习===
+Meaning: To practice
+Nuance_EN: Refers to repetitive exercise to improve a skill. Commonly used for studying, sports, music, etc.
+Nuance_CN: 指通过重复练习提高技能，常用于学习、运动、音乐等。
+Example1: 每天练习钢琴一小时。
+Example1_EN: Practice piano for one hour every day.
+Example2: 这个语法点需要多练习。
+Example2_EN: This grammar point requires more practice.
+Example3: 他正在练习写汉字。
+Example3_EN: He is practicing writing Chinese characters.
+
+===word: 洗手间===
+Meaning: Bathroom
+Nuance_EN: Polite term for toilet or restroom. Used in public places, homes, etc. Neutral.
+Nuance_CN: 厕所或卫生间的礼貌说法，可用于公共场所和家中，语气中性。
+Example1: 请问洗手间在哪里？
+Example1_EN: Excuse me, where is the bathroom?
+Example2: 我去一下洗手间。
+Example2_EN: I'm going to the bathroom.
+Example3: 这个洗手间很干净。
+Example3_EN: This bathroom is very clean.
+
+===word: 所有的东西===
+Meaning: Everything (lit: all the things)
+Nuance_EN: Emphasizes totality of objects or items. Often used in lists or general statements.
+Nuance_CN: 强调所有物品或事物的总和，常用于列举或泛指。
+Example1: 请把所有的东西都放在桌子上。
+Example1_EN: Please put everything on the table.
+Example2: 搬家时，所有的东西都要打包。
+Example2_EN: When moving, everything needs to be packed.
+Example3: 他丢了所有的东西。
+Example3_EN: He lost everything.
+
+===word: 关门了===
+Meaning: Closed
+Nuance_EN: Indicates a place is shut for business or the day. Often used with stores, restaurants.
+Nuance_CN: 表示场所已停止营业或关门，常用于商店、餐馆等。
+Example1: 超市已经关门了。
+Example1_EN: The supermarket is already closed.
+Example2: 对不起，我们关门了。
+Example2_EN: Sorry, we are closed.
+Example3: 图书馆晚上十点关门了。
+Example3_EN: The library closed at 10 p.m.
+
+===word: 早===
+Meaning: Early
+Nuance_EN: Describes a time before the expected or usual. Can also be part of greetings like 早上好.
+Nuance_CN: 描述比预期或通常时间早，也可用于问候语如“早上好”。
+Example1: 他今天来得很早。
+Example1_EN: He came very early today.
+Example2: 早睡早起身体好。
+Example2_EN: Early to bed and early to rise makes a man healthy.
+Example3: 你起得真早啊！
+Example3_EN: You got up so early!
+
+===word: 走路===
+Meaning: To walk
+Nuance_EN: Refers to the action of walking. Common in daily conversation for means of transport or exercise.
+Nuance_CN: 指行走的动作，常用于日常对话中表示交通方式或锻炼。
+Example1: 我每天走路去上班。
+Example1_EN: I walk to work every day.
+Example2: 走路对身体好。
+Example2_EN: Walking is good for health.
+Example3: 我们走路去吧，不远。
+Example3_EN: Let's walk there, it's not far.
+
+===word: 电影===
+Meaning: Film / Movie
+Nuance_EN: Refers to motion pictures. Common in entertainment contexts.
+Nuance_CN: 指电影，常用于娱乐场合。
+Example1: 今晚我们一起看电影吧。
+Example1_EN: Let's watch a movie together tonight.
+Example2: 这部电影很好看。
+Example2_EN: This movie is very good.
+Example3: 你喜欢看什么类型的电影？
+Example3_EN: What kind of movies do you like?
+
+===word: 开始===
+Meaning: To begin / start
+Nuance_EN: Indicates the initiation of an action or event. Versatile and common.
+Nuance_CN: 表示行动或事件的开始，用法广泛且常用。
+Example1: 会议马上就要开始了。
+Example1_EN: The meeting is about to start.
+Example2: 我们开始学习吧。
+Example2_EN: Let's start studying.
+Example3: 电影什么时候开始？
+Example3_EN: When does the movie start?
+
+===word: 牛奶===
+Meaning: Milk
+Nuance_EN: Common dairy product. Used in food and drink contexts.
+Nuance_CN: 常见乳制品，用于饮食场合。
+Example1: 我每天早上喝一杯牛奶。
+Example1_EN: I drink a glass of milk every morning.
+Example2: 牛奶过期了，不能喝。
+Example2_EN: The milk is expired, cannot drink.
+Example3: 请给我一杯热牛奶。
+Example3_EN: Please give me a cup of hot milk.
+
+===word: 邮票===
+Meaning: Stamp
+Nuance_EN: Postage stamp for mailing letters. Used in postal contexts.
+Nuance_CN: 邮寄信件用的邮资凭证，用于邮政场合。
+Example1: 我需要买一张邮票。
+Example1_EN: I need to buy a stamp.
+Example2: 这张邮票很漂亮。
+Example2_EN: This stamp is very beautiful.
+Example3: 请把邮票贴在信封上。
+Example3_EN: Please stick the stamp on the envelope.
+
+===word: 邮局===
+Meaning: Post office
+Nuance_EN: Place for mailing letters, packages, and buying stamps. Common in daily life.
+Nuance_CN: 邮寄信件、包裹和购买邮票的场所，日常生活中常见。
+Example1: 邮局在银行旁边。
+Example1_EN: The post office is next to the bank.
+Example2: 我去邮局寄一个包裹。
+Example2_EN: I'm going to the post office to send a package.
+Example3: 邮局几点开门？
+Example3_EN: What time does the post office open?
+
+===word: 医院===
+Meaning: Hospital
+Nuance_EN: Medical facility for treatment. Neutral, common.
+Nuance_CN: 医疗治疗机构，语气中性，常见。
+Example1: 他生病了，去了医院。
+Example1_EN: He was sick and went to the hospital.
+Example2: 医院离这里很远。
+Example2_EN: The hospital is very far from here.
+Example3: 请马上送他去医院。
+Example3_EN: Please send him to the hospital immediately.
+
+===word: 药房===
+Meaning: Pharmacy / Drugstore
+Nuance_EN: Place where medicines are sold. Often attached to hospitals or standalone.
+Nuance_CN: 出售药品的地方，常附属于医院或独立存在。
+Example1: 药房在楼下。
+Example1_EN: The pharmacy is downstairs.
+Example2: 我去药房买感冒药。
+Example2_EN: I'm going to the pharmacy to buy cold medicine.
+Example3: 这个药房24小时营业。
+Example3_EN: This pharmacy is open 24 hours.
+
+===word: 总是===
+Meaning: always
+Nuance_EN: Used to indicate that something happens every time or is consistently true. Common in both spoken and written Chinese.
+Nuance_CN: 表示某种情况经常发生或一直如此，语气中性，适用于日常对话和书面语。
+Example1: 他总是迟到，大家都不高兴。
+Example1_EN: He is always late, and everyone is unhappy.
+Example2: 我总是在早上喝咖啡。
+Example2_EN: I always drink coffee in the morning.
+Example3: 她总是很耐心地听别人说话。
+Example3_EN: She always listens to others patiently.
+
+===word: 坏===
+Meaning: bad; broken
+Nuance_EN: Can mean "bad" in quality or character, or "broken" for objects. Often used in colloquial expressions like "坏了" (oh no).
+Nuance_CN: 可指物品损坏或人品恶劣，口语中常用“坏了”表示糟糕的情况。
+Example1: 这个手机坏了，不能用了。
+Example1_EN: This phone is broken and can't be used.
+Example2: 他是个坏人，不要相信他。
+Example2_EN: He is a bad person; don't trust him.
+Example3: 天气坏了，我们别出门了。
+Example3_EN: The weather turned bad; let's not go out.
+
+===word: 回来===
+Meaning: return; come back
+Nuance_EN: Indicates movement back to the speaker's location or a previous place. Often used with directional complements.
+Nuance_CN: 表示回到说话人所在的位置或原来的地方，常与方向补语连用。
+Example1: 你什么时候回来？
+Example1_EN: When will you come back?
+Example2: 他从国外回来了。
+Example2_EN: He has returned from abroad.
+Example3: 我下班后直接回家。
+Example3_EN: I go straight home after work.
+
+===word: 打网球===
+Meaning: play tennis
+Nuance_EN: A verb-object phrase meaning to play tennis. "打" is used for ball games.
+Nuance_CN: 动宾短语，表示进行网球运动，“打”用于球类活动。
+Example1: 我周末喜欢打网球。
+Example1_EN: I like to play tennis on weekends.
+Example2: 他们正在网球场打网球。
+Example2_EN: They are playing tennis on the court.
+Example3: 你打网球打得好吗？
+Example3_EN: Are you good at playing tennis?
+
+===word: 出差===
+Meaning: go on business trip
+Nuance_EN: Refers to traveling for work, often to another city or country. Common in professional contexts.
+Nuance_CN: 指因公出差到外地，常用于职场语境。
+Example1: 他下周要去上海出差。
+Example1_EN: He is going to Shanghai on a business trip next week.
+Example2: 出差的时候，我住在酒店。
+Example2_EN: When on a business trip, I stay in a hotel.
+Example3: 这次出差要三天。
+Example3_EN: This business trip will take three days.
+
+===word: 地铁===
+Meaning: subway; metro
+Nuance_EN: Refers to the underground railway system in cities. Widely used in urban China.
+Nuance_CN: 指城市地下铁路系统，在中国大城市中非常普遍。
+Example1: 我坐地铁上班。
+Example1_EN: I take the subway to work.
+Example2: 地铁站离我家很近。
+Example2_EN: The subway station is very close to my home.
+Example3: 地铁在高峰期很拥挤。
+Example3_EN: The subway is very crowded during rush hour.
+
+===word: 慢===
+Meaning: slow
+Nuance_EN: Describes low speed or pace. Can be used for movement, processes, or people.
+Nuance_CN: 表示速度低或进展慢，可用于动作、过程或人。
+Example1: 这辆车开得太慢了。
+Example1_EN: This car is driving too slowly.
+Example2: 他说话很慢，但很清楚。
+Example2_EN: He speaks very slowly, but very clearly.
+Example3: 网络太慢了，网页打不开。
+Example3_EN: The internet is too slow; the webpage won't load.
+
+===word: 会===
+Meaning: meeting
+Nuance_EN: Refers to a formal or informal gathering, such as a work meeting or conference. Also a verb meaning "can" or "will", but here it's a noun.
+Nuance_CN: 指会议或集会，可以是工作场合的正式会议，也可以是其他类型的聚会。
+Example1: 下午三点有一个会。
+Example1_EN: There is a meeting at 3 PM.
+Example2: 开会的时候请关手机。
+Example2_EN: Please turn off your phone during the meeting.
+Example3: 这个会要开两个小时。
+Example3_EN: This meeting will last two hours.
+
+===word: 更===
+Meaning: even more
+Nuance_EN: Used before adjectives or verbs to indicate a higher degree. Common in comparisons.
+Nuance_CN: 用在形容词或动词前表示程度加深，常用于比较。
+Example1: 今天比昨天更冷。
+Example1_EN: Today is even colder than yesterday.
+Example2: 他跑得更快了。
+Example2_EN: He runs even faster.
+Example3: 我希望你能做得更好。
+Example3_EN: I hope you can do even better.
+
+===word: 3楼===
+Meaning: 3rd floor
+Nuance_EN: Refers to the third level of a building. In Chinese, floors are numbered starting from ground floor as 1楼.
+Nuance_CN: 指建筑物的第三层，中国通常从地面层开始算作1楼。
+Example1: 办公室在3楼。
+Example1_EN: The office is on the 3rd floor.
+Example2: 请坐电梯到3楼。
+Example2_EN: Please take the elevator to the 3rd floor.
+Example3: 3楼有一个会议室。
+Example3_EN: There is a meeting room on the 3rd floor.
+
+===word: 赢===
+Meaning: win
+Nuance_EN: Means to be victorious in a competition, game, or conflict. Opposite of 输.
+Nuance_CN: 表示在比赛、游戏或冲突中获胜，与“输”相对。
+Example1: 我们队赢了这场比赛。
+Example1_EN: Our team won this game.
+Example2: 他赢了很多钱。
+Example2_EN: He won a lot of money.
+Example3: 我希望你能赢。
+Example3_EN: I hope you can win.
+
+===word: 输===
+Meaning: lose
+Nuance_EN: Means to be defeated or fail to win. Opposite of 赢.
+Nuance_CN: 表示在比赛、游戏或冲突中失败，与“赢”相对。
+Example1: 我们队输了，大家都很失望。
+Example1_EN: Our team lost, and everyone was disappointed.
+Example2: 他输掉了比赛。
+Example2_EN: He lost the match.
+Example3: 不要因为输了一次就放弃。
+Example3_EN: Don't give up just because you lost once.
+
+===word: 我们去玩吧===
+Meaning: let's go have fun
+Nuance_EN: A casual invitation to go out and enjoy oneself, often with friends. "玩" can mean play, hang out, or have fun.
+Nuance_CN: 一种随意的邀请，表示一起出去娱乐或放松，常用于朋友之间。
+Example1: 周末我们去玩吧！
+Example1_EN: Let's go have fun this weekend!
+Example2: 我们去玩吧，别待在家里了。
+Example2_EN: Let's go out and have fun; don't stay at home.
+Example3: 我们去玩吧，我知道一个好地方。
+Example3_EN: Let's go have fun; I know a good place.
+
+===word: 桌子===
+Meaning: table
+Nuance_EN: A piece of furniture with a flat top and legs, used for eating, working, etc. Can also refer to a table in a restaurant.
+Nuance_CN: 一种家具，有平面和腿，用于吃饭、工作等，也可指餐厅里的桌子。
+Example1: 请把书放在桌子上。
+Example1_EN: Please put the book on the table.
+Example2: 我们订了一张桌子。
+Example2_EN: We reserved a table.
+Example3: 这张桌子是木头的。
+Example3_EN: This table is made of wood.
+
+===word: xuěbì===
+Meaning: Sprite
+Nuance_EN: The brand name for Sprite, a lemon-lime soft drink. Often used in Chinese as a loanword.
+Nuance_CN: 雪碧的拼音，一种柠檬味碳酸饮料的品牌名，在中国常用。
+Example1: 我要一瓶雪碧。
+Example1_EN: I want a bottle of Sprite.
+Example2: 雪碧加冰更好喝。
+Example2_EN: Sprite tastes better with ice.
+Example3: 你喝雪碧还是可乐？
+Example3_EN: Do you drink Sprite or cola?
+
+===word: 伏特（加）===
+Meaning: vodka
+Nuance_EN: A strong alcoholic spirit. The full word is 伏特加, but 伏特 is sometimes used as a shorthand.
+Nuance_CN: 一种烈酒，全称是“伏特加”，有时简称为“伏特”。
+Example1: 他喜欢喝伏特加。
+Example1_EN: He likes to drink vodka.
+Example2: 这杯伏特加加了很多冰。
+Example2_EN: This glass of vodka has a lot of ice.
+Example3: 伏特加是俄罗斯的国酒。
+Example3_EN: Vodka is the national drink of Russia.
+
+===word: 威士忌===
+Meaning: whiskey
+Nuance_EN: A distilled alcoholic beverage made from fermented grain mash. Common in bars and social drinking.
+Nuance_CN: 一种由发酵谷物制成的蒸馏酒，常见于酒吧和社交场合。
+Example1: 我要一杯威士忌。
+Example1_EN: I'll have a glass of whiskey.
+Example2: 威士忌加冰块很好喝。
+Example2_EN: Whiskey on the rocks tastes great.
+Example3: 他收藏了很多威士忌。
+Example3_EN: He collects a lot of whiskey.
+
+===word: 再===
+Meaning: again
+Nuance_EN: Indicates repetition of an action. Can also mean "then" in sequential actions.
+Nuance_CN: 表示动作重复，也可表示“然后”用于顺序动作。
+Example1: 请再说一遍。
+Example1_EN: Please say it again.
+Example2: 我们下次再来。
+Example2_EN: We'll come again next time.
+Example3: 先吃饭，再去看电影。
+Example3_EN: Eat first, then go see a movie.
+
+===word: 上周===
+Meaning: last week
+Nuance_EN: Refers to the week before the current one. Common in time expressions.
+Nuance_CN: 指当前周的前一周，常用于时间表达。
+Example1: 上周我去了北京。
+Example1_EN: I went to Beijing last week.
+Example2: 上周的会议取消了。
+Example2_EN: Last week's meeting was canceled.
+Example3: 上周天气很好。
+Example3_EN: The weather was great last week.
+
+===word: 下周===
+Meaning: next week
+Nuance_EN: Refers to the week after the current one. Common in planning and schedules.
+Nuance_CN: 指当前周的后一周，常用于计划和安排。
+Example1: 下周我们要考试。
+Example1_EN: We have an exam next week.
+Example2: 下周的日程很满。
+Example2_EN: Next week's schedule is very full.
+Example3: 下周我会给你打电话。
+Example3_EN: I will call you next week.
+
+===word: 先===
+Meaning: first, before, earlier
+Nuance_EN: Used to indicate sequence or priority. Can also mean "first" as in "first do this".
+Nuance_CN: 表示时间或顺序上的优先，常用于口语和书面语。
+Example1: 你先去吃饭吧，我一会儿再吃。
+Example1_EN: You go eat first; I'll eat later.
+Example2: 他先到了办公室。
+Example2_EN: He arrived at the office first.
+Example3: 先别着急，我们慢慢来。
+Example3_EN: Don't rush first; let's take it slowly.
+
+===word: 你走！！===
+Meaning: You go! (emphatic)
+Nuance_EN: An abrupt, forceful command telling someone to leave. The double exclamation marks intensify the rudeness.
+Nuance_CN: 语气非常强烈的命令，让对方离开，带有不耐烦或愤怒的情绪。
+Example1: 你走！！我不想再看见你。
+Example1_EN: You go!! I don't want to see you again.
+Example2: 你走！！别在这里碍事。
+Example2_EN: You go!! Don't be in the way here.
+Example3: 他生气地说：“你走！！”
+Example3_EN: He said angrily, "You go!!"
+
+===word: 你滚===
+Meaning: Get lost, fuck off
+Nuance_EN: Very rude way to tell someone to leave, more vulgar than "你走". Can sound humorous in some contexts.
+Nuance_CN: 非常粗鲁的骂人话，让对方滚开，但在某些情境下可能带有玩笑意味。
+Example1: 你滚！别再来烦我。
+Example1_EN: Get lost! Don't bother me again.
+Example2: 他俩吵架时，她喊了一声“你滚！”
+Example2_EN: When they were arguing, she shouted "Get lost!"
+Example3: 朋友开玩笑说：“你滚吧，别逗我了。”
+Example3_EN: The friend joked, "Get lost, stop teasing me."
+
+===word: 看起来===
+Meaning: Seems, looks like
+Nuance_EN: Used to express an impression or appearance based on observation. Common in everyday speech.
+Nuance_CN: 表示根据观察得出的印象或推测，口语中很常用。
+Example1: 看起来要下雨了。
+Example1_EN: It looks like it's going to rain.
+Example2: 他看起来很高兴。
+Example2_EN: He looks very happy.
+Example3: 这道菜看起来很好吃。
+Example3_EN: This dish looks delicious.
+
+===word: 听起来===
+Meaning: Sounds like, sounds
+Nuance_EN: Used to express an auditory impression or a judgment about something heard. Similar to "seems" but for sound.
+Nuance_CN: 表示根据听到的内容得出的印象或判断，常用于口语。
+Example1: 这个主意听起来不错。
+Example1_EN: This idea sounds good.
+Example2: 听起来你好像很累。
+Example2_EN: It sounds like you are very tired.
+Example3: 这首音乐听起来很熟悉。
+Example3_EN: This music sounds familiar.
+
+===word: 词汇===
+Meaning: Vocabulary, lexicon
+Nuance_EN: Refers to the set of words in a language or known by a person. Often used in learning contexts.
+Nuance_CN: 指一种语言或个人所掌握的词语总和，常用于学习语境。
+Example1: 你的词汇量很大。
+Example1_EN: Your vocabulary is very large.
+Example2: 学外语要积累词汇。
+Example2_EN: Learning a foreign language requires accumulating vocabulary.
+Example3: 这个词汇比较生僻。
+Example3_EN: This word is relatively obscure.
+
+===word: 前天===
+Meaning: Day before yesterday
+Nuance_EN: A specific time reference meaning two days ago. Commonly used in daily conversation.
+Nuance_CN: 指今天的前两天，日常对话中常用。
+Example1: 前天我去看了电影。
+Example1_EN: The day before yesterday I went to see a movie.
+Example2: 前天是星期二。
+Example2_EN: The day before yesterday was Tuesday.
+Example3: 他前天就出发了。
+Example3_EN: He left the day before yesterday.
+
+===word: 后天===
+Meaning: Day after tomorrow
+Nuance_EN: A specific time reference meaning two days from today. Opposite of "前天".
+Nuance_CN: 指今天的后两天，与“前天”相对。
+Example1: 后天我们有个考试。
+Example1_EN: We have an exam the day after tomorrow.
+Example2: 后天是星期五。
+Example2_EN: The day after tomorrow is Friday.
+Example3: 后天我会去接你。
+Example3_EN: I will pick you up the day after tomorrow.
+
+===word: 前面===
+Meaning: In front, ahead
+Nuance_EN: Refers to the space or position before something. Can be literal or figurative.
+Nuance_CN: 指某物或某人的前方位置，可表示具体或抽象的前方。
+Example1: 前面有一家超市。
+Example1_EN: There is a supermarket ahead.
+Example2: 请往前走，前面就是车站。
+Example2_EN: Please go forward; the station is ahead.
+Example3: 他坐在我的前面。
+Example3_EN: He sits in front of me.
+
+===word: 后面===
+Meaning: Behind, back
+Nuance_EN: Refers to the space or position after something. Opposite of "前面".
+Nuance_CN: 指某物或某人的后方位置，与“前面”相对。
+Example1: 后面有一个人跟着我们。
+Example1_EN: There is someone following us behind.
+Example2: 商店后面有个停车场。
+Example2_EN: There is a parking lot behind the store.
+Example3: 他站在我的后面。
+Example3_EN: He stands behind me.
+
+===word: 你忙什么？===
+Meaning: What are you busy with?
+Nuance_EN: A polite or casual inquiry about someone's current activities. Common in daily conversation.
+Nuance_CN: 询问对方正在忙什么事情，语气日常、友好。
+Example1: 你忙什么？最近都没见你。
+Example1_EN: What are you busy with? I haven't seen you lately.
+Example2: 你忙什么？需要帮忙吗？
+Example2_EN: What are you busy with? Need any help?
+Example3: 他问我：“你忙什么？”
+Example3_EN: He asked me, "What are you busy with?"
+
+===word: 晚安===
+Meaning: Good night
+Nuance_EN: A polite farewell said at night or before sleeping. Can be used in both formal and informal settings.
+Nuance_CN: 晚上告别或睡前说的问候语，适用于各种场合。
+Example1: 晚安，做个好梦。
+Example1_EN: Good night, sweet dreams.
+Example2: 我先睡了，晚安。
+Example2_EN: I'm going to bed first, good night.
+Example3: 他发信息说“晚安”。
+Example3_EN: He sent a message saying "Good night."
+
+===word: 上班===
+Meaning: Go to work, start work
+Nuance_EN: Refers to the act of going to one's workplace or beginning the workday. Opposite of "下班".
+Nuance_CN: 指去工作单位或开始一天的工作，与“下班”相对。
+Example1: 我每天早上八点上班。
+Example1_EN: I go to work at eight every morning.
+Example2: 他今天请假没上班。
+Example2_EN: He took leave today and didn't go to work.
+Example3: 上班路上堵车了。
+Example3_EN: There was a traffic jam on the way to work.
+
+===word: 下班===
+Meaning: Finish work, get off work
+Nuance_EN: Refers to the end of the workday or leaving the workplace. Opposite of "上班".
+Nuance_CN: 指一天工作结束或离开工作单位，与“上班”相对。
+Example1: 我下午六点下班。
+Example1_EN: I get off work at six in the afternoon.
+Example2: 下班后我们去吃饭吧。
+Example2_EN: Let's go eat after work.
+Example3: 他每天下班都很晚。
+Example3_EN: He gets off work very late every day.
+
+===word: 门口===
+Meaning: Doorway, entrance
+Nuance_EN: The area just outside or inside a door. Refers to the threshold or entrance of a building or room.
+Nuance_CN: 指门的内外附近区域，即入口处。
+Example1: 他在门口等你。
+Example1_EN: He is waiting for you at the door.
+Example2: 门口有一双鞋。
+Example2_EN: There is a pair of shoes at the doorway.
+Example3: 请把快递放在门口。
+Example3_EN: Please leave the package at the door.
+
+===word: 空调===
+Meaning: Air conditioner
+Nuance_EN: A device that cools or heats the air. Common household appliance.
+Nuance_CN: 调节室内温度的电器，可制冷或制热。
+Example1: 夏天离不开空调。
+Example1_EN: We can't do without air conditioning in summer.
+Example2: 请把空调打开。
+Example2_EN: Please turn on the air conditioner.
+Example3: 空调温度调低一点。
+Example3_EN: Turn the air conditioner temperature down a bit.
+
+===word: 关===
+Meaning: Close, turn off
+Nuance_EN: A versatile verb meaning to shut or switch off. Used for doors, windows, and electronic devices.
+Nuance_CN: 表示关闭或停止运行的动词，可用于门、窗、电器等。
+Example1: 请关上门。
+Example1_EN: Please close the door.
+Example2: 别忘了关灯。
+Example2_EN: Don't forget to turn off the light.
+Example3: 电视已经关了。
+Example3_EN: The TV is already turned off.
+
+===word: 电视===
+Meaning: Television, TV
+Nuance_EN: The electronic device for watching broadcast programs. Common in everyday life.
+Nuance_CN: 播放电视节目的电器设备，日常生活中很常见。
+Example1: 他正在看电视。
+Example1_EN: He is watching TV.
+Example2: 电视坏了，需要修理。
+Example2_EN: The TV is broken and needs repair.
+Example3: 今晚电视有什么节目？
+Example3_EN: What's on TV tonight?
+
+===word: 灯===
+Meaning: Light, lamp
+Nuance_EN: Any device that produces light, such as a ceiling light, desk lamp, etc.
+Nuance_CN: 发光装置，如吊灯、台灯等。
+Example1: 请把灯打开。
+Example1_EN: Please turn on the light.
+Example2: 灯坏了，需要换灯泡。
+Example2_EN: The light is broken; we need to change the bulb.
+Example3: 房间里有一盏很亮的灯。
+Example3_EN: There is a very bright light in the room.
+
+===word: 我们走吧！===
+Meaning: Let's go!
+Nuance_EN: An enthusiastic or casual suggestion to depart. Common in both formal and informal situations.
+Nuance_CN: 提议一起离开或出发，语气自然、常见。
+Example1: 我们走吧！电影要开始了。
+Example1_EN: Let's go! The movie is about to start.
+Example2: 时间到了，我们走吧！
+Example2_EN: It's time, let's go!
+Example3: 她笑着说：“我们走吧！”
+Example3_EN: She smiled and said, "Let's go!"
+
+===word: 没什么===
+Meaning: Nothing; it's nothing
+Nuance_EN: Used to downplay something, often in response to thanks or apologies. Casual and dismissive in a friendly way.
+Nuance_CN: 用来淡化某事，常用于回应感谢或道歉，语气轻松随意。
+Example1: 没什么，别客气。
+Example1_EN: It's nothing, don't mention it.
+Example2: 你刚才说什么？——没什么。
+Example2_EN: What did you just say? — Nothing.
+Example3: 没什么大不了的，别担心。
+Example3_EN: It's no big deal, don't worry.
+
+===word: 有用===
+Meaning: Useful; to be of use
+Nuance_EN: Describes something that has practical value or helps achieve a goal. Common in everyday speech.
+Nuance_CN: 形容某事物有实际价值或能帮助达成目标，日常口语常用。
+Example1: 这本书对我很有用。
+Example1_EN: This book is very useful to me.
+Example2: 学英语有用吗？当然有。
+Example2_EN: Is learning English useful? Of course it is.
+Example3: 这个工具没什么用。
+Example3_EN: This tool isn't very useful.
+
+===word: 我没想什么===
+Meaning: I'm not thinking about anything
+Nuance_EN: A casual reply when someone asks what's on your mind. Often implies a relaxed or blank mental state.
+Nuance_CN: 当别人问你在想什么时的随意回答，常表示放松或脑子放空。
+Example1: 你发呆呢？——我没想什么。
+Example1_EN: You're spacing out? — I'm not thinking about anything.
+Example2: 我没想什么，就是有点累。
+Example2_EN: I'm not thinking about anything, just a bit tired.
+Example3: 她问我怎么了，我说我没想什么。
+Example3_EN: She asked me what was wrong, and I said I wasn't thinking about anything.
+
+===word: 我在想你===
+Meaning: I'm thinking about you
+Nuance_EN: Romantic or affectionate; used to tell someone they're on your mind. Direct and heartfelt.
+Nuance_CN: 浪漫或亲密的表达，告诉对方你在想他/她，直接而深情。
+Example1: 我在想你，你呢？
+Example1_EN: I'm thinking about you, how about you?
+Example2: 别闹了，我在想你的事。
+Example2_EN: Stop joking, I'm thinking about your matter.
+Example3: 他发消息说：“我在想你。”
+Example3_EN: He sent a message saying, "I'm thinking about you."
+
+===word: 笨===
+Meaning: Stupid; clumsy
+Nuance_EN: Mildly insulting but often used playfully among friends. Can also describe someone slow to learn.
+Nuance_CN: 略带贬义但朋友间常玩笑使用，也可形容学东西慢。
+Example1: 你真笨，这都不会。
+Example1_EN: You're so stupid, you can't even do this.
+Example2: 别装笨了，快帮忙。
+Example2_EN: Stop playing dumb, help out quickly.
+Example3: 他有点笨，但很努力。
+Example3_EN: He's a bit slow, but he works hard.
+
+===word: 聪明===
+Meaning: Clever; intelligent
+Nuance_EN: Positive trait, often used to praise quick thinking or smart decisions. Neutral to warm in tone.
+Nuance_CN: 褒义词，常用来称赞思维敏捷或明智的决定，语气中性偏暖。
+Example1: 她真聪明，一下就懂了。
+Example1_EN: She's really clever, she got it right away.
+Example2: 聪明人不会这么做。
+Example2_EN: A smart person wouldn't do that.
+Example3: 你儿子很聪明。
+Example3_EN: Your son is very intelligent.
+
+===word: 同意===
+Meaning: To agree
+Nuance_EN: Used to express consent or shared opinion. Formal enough for work, casual enough for friends.
+Nuance_CN: 表示赞同或同意，可用于工作场合也可用于朋友间。
+Example1: 我同意你的看法。
+Example1_EN: I agree with your view.
+Example2: 你同意这个计划吗？
+Example2_EN: Do you agree with this plan?
+Example3: 大家都同意了，就这么办。
+Example3_EN: Everyone agreed, so let's do it this way.
+
+===word: 橘子===
+Meaning: Tangerine; mandarin orange
+Nuance_EN: Refers to the small, easy-to-peel citrus fruit. Common in daily life, often eaten as a snack.
+Nuance_CN: 指小而易剥皮的柑橘类水果，日常常见，常当零食吃。
+Example1: 我买了一些橘子，你要吃吗？
+Example1_EN: I bought some tangerines, do you want one?
+Example2: 橘子比橙子好剥。
+Example2_EN: Tangerines are easier to peel than oranges.
+Example3: 冰箱里还有橘子。
+Example3_EN: There are still tangerines in the fridge.
+
+===word: 超市===
+Meaning: Supermarket
+Nuance_EN: Large self-service store selling groceries and household items. Common in urban settings.
+Nuance_CN: 大型自助式商店，卖食品和日用品，城市常见。
+Example1: 我去超市买点东西。
+Example1_EN: I'm going to the supermarket to buy some things.
+Example2: 超市晚上十点关门。
+Example2_EN: The supermarket closes at 10 PM.
+Example3: 这家超市的东西很便宜。
+Example3_EN: Things at this supermarket are very cheap.
+
+===word: 便利店===
+Meaning: Convenience store
+Nuance_EN: Small 24-hour store (like 7-Eleven) selling snacks, drinks, and daily essentials. Very common in China.
+Nuance_CN: 小型24小时商店（如7-11），卖零食、饮料和日用品，中国很常见。
+Example1: 楼下有个便利店，很方便。
+Example1_EN: There's a convenience store downstairs, very convenient.
+Example2: 我去便利店买瓶水。
+Example2_EN: I'm going to the convenience store to buy a bottle of water.
+Example3: 便利店有卖热咖啡。
+Example3_EN: The convenience store sells hot coffee.
+
+===word: 市场===
+Meaning: Market
+Nuance_EN: Can mean a physical marketplace (like a farmers' market) or an abstract economic market. Context-dependent.
+Nuance_CN: 可指实体市场（如菜市场）或抽象的经济市场，视语境而定。
+Example1: 妈妈去市场买菜了。
+Example1_EN: Mom went to the market to buy vegetables.
+Example2: 这个产品在市场很受欢迎。
+Example2_EN: This product is very popular in the market.
+Example3: 周末的市场人很多。
+Example3_EN: The market is crowded on weekends.
+
+===word: 只有===
+Meaning: Only; to have only
+Nuance_EN: Emphasizes scarcity or limitation. Used to state that something is the sole option or amount.
+Nuance_CN: 强调稀缺或限制，表示某事物是唯一的选择或数量。
+Example1: 我只有十分钟时间。
+Example1_EN: I only have ten minutes.
+Example2: 这里只有一家餐厅。
+Example2_EN: There's only one restaurant here.
+Example3: 只有你才能帮我。
+Example3_EN: Only you can help me.
+
+===word: 身体===
+Meaning: Body; health
+Nuance_EN: Refers to the physical body, often in context of health or well-being. Common in caring expressions.
+Nuance_CN: 指身体，常与健康相关，常见于关心表达。
+Example1: 你要注意身体。
+Example1_EN: You should take care of your health.
+Example2: 他身体很好。
+Example2_EN: He's in good health.
+Example3: 运动对身体有好处。
+Example3_EN: Exercise is good for the body.
+
+===word: 受伤===
+Meaning: To be injured; to get hurt
+Nuance_EN: Describes physical injury, but can also be used metaphorically for emotional hurt. Common in daily conversation.
+Nuance_CN: 描述身体受伤，也可比喻情感受伤，日常对话常用。
+Example1: 他打球时受伤了。
+Example1_EN: He got injured while playing ball.
+Example2: 别担心，只是小伤。
+Example2_EN: Don't worry, it's just a minor injury.
+Example3: 她的话让我很受伤。
+Example3_EN: Her words hurt me deeply.
+
+===word: 死===
+Meaning: To die
+Nuance_EN: Strong word; used literally for death, but also colloquially for extremes (e.g., "死贵" = extremely expensive). Handle with care.
+Nuance_CN: 强义词，字面指死亡，口语中也用于夸张（如“死贵”），需谨慎使用。
+Example1: 他的狗死了。
+Example1_EN: His dog died.
+Example2: 累死了，我要休息。
+Example2_EN: I'm dead tired, I need to rest.
+Example3: 别怕，人都会死。
+Example3_EN: Don't be afraid, everyone dies.
+
+===word: 运动===
+Meaning: To exercise; sports
+Nuance_EN: Covers both physical exercise and sports activities. Used as a verb or noun.
+Nuance_CN: 涵盖体育锻炼和运动项目，可作动词或名词。
+Example1: 我每天运动一小时。
+Example1_EN: I exercise for an hour every day.
+Example2: 运动对身体好。
+Example2_EN: Exercise is good for the body.
+Example3: 你喜欢什么运动？
+Example3_EN: What sports do you like?
+
+===word: 睡觉===
+Meaning: To sleep; to go to bed
+Nuance_EN: Everyday word for sleeping. Often used in daily routines and casual conversation.
+Nuance_CN: 日常用语，表示睡觉或上床睡觉，常用于日常对话。
+Example1: 我十点睡觉。
+Example1_EN: I go to bed at ten.
+Example2: 早点睡觉，别熬夜。
+Example2_EN: Go to bed early, don't stay up late.
+Example3: 他睡觉打呼噜。
+Example3_EN: He snores when he sleeps.
+
+===word: 起床===
+Meaning: To wake up; to get out of bed
+Nuance_EN: Specifically means getting up from bed, not just waking. Common in morning routines.
+Nuance_CN: 特指从床上起来，不只是醒来，常用于早晨日常。
+Example1: 我七点起床。
+Example1_EN: I get up at seven.
+Example2: 快起床，要迟到了！
+Example2_EN: Get up quickly, we're going to be late!
+Example3: 周末我喜欢晚起床。
+Example3_EN: On weekends I like to get up late.
+
+===word: pīsà===
+Meaning: Pizza
+Nuance_EN: Loanword from English, widely understood in China. Casual food term.
+Nuance_CN: 英语借词，中国广泛理解，日常食物用语。
+Example1: 我们点个披萨吧。
+Example1_EN: Let's order a pizza.
+Example2: 这家店的披萨很好吃。
+Example2_EN: The pizza at this place is delicious.
+Example3: 披萨要趁热吃。
+Example3_EN: Pizza should be eaten hot.
+
+===word: 视频===
+Meaning: Video; to video call
+Nuance_EN: Can mean a video (as media) or the act of video chatting (like Skype). Context-dependent.
+Nuance_CN: 可指视频（媒体）或视频通话（如Skype），视语境而定。
+Example1: 我们视频聊天吧。
+Example1_EN: Let's video chat.
+Example2: 这个视频很有意思。
+Example2_EN: This video is very interesting.
+Example3: 晚上视频吗？
+Example3_EN: Want to video call tonight?
+
+===word: 恢复===
+Meaning: recover, restore, resume
+Nuance_EN: Used for health recovery, restoring a previous state, or resuming an activity. Neutral register, common in daily and formal contexts.
+Nuance_CN: 用于健康恢复、状态复原或继续原来的活动。属于中性词汇，日常和正式场合都常用。
+Example1: 他休息了一个星期，身体终于恢复了。
+Example1_EN: He rested for a week and finally recovered his health.
+Example2: 政府正在努力恢复经济稳定。
+Example2_EN: The government is working to restore economic stability.
+Example3: 我们明天恢复上课。
+Example3_EN: We will resume classes tomorrow.
+
+===word: 主意===
+Meaning: idea, plan, decision
+Nuance_EN: Refers to a thought or suggestion about what to do, or a settled opinion. Common in everyday conversation.
+Nuance_CN: 指关于行动的想法、建议或已经做好的决定。日常对话中很常见。
+Example1: 我有一个好主意，我们一起去海边吧。
+Example1_EN: I have a good idea; let's go to the beach together.
+Example2: 你拿定主意了吗？
+Example2_EN: Have you made up your mind?
+Example3: 他出的主意真不错。
+Example3_EN: The idea he came up with is really good.
+
+===word: 我找。。。===
+Meaning: I'm looking for...
+Nuance_EN: A phrase used to express searching for a person or thing. The ellipsis is filled with the object. Neutral and polite when used courteously.
+Nuance_CN: 用于表达寻找某人或某物。省略号部分需填充具体对象。语气中性，礼貌使用时需加上“请问”。
+Example1: 我找王经理，请问他在吗？
+Example1_EN: I'm looking for Manager Wang. Is he here?
+Example2: 我找一本书，叫《活着》。
+Example2_EN: I'm looking for a book called "To Live."
+Example3: 您好，我找这个地址。
+Example3_EN: Hello, I'm looking for this address.
+
+===word: 点菜===
+Meaning: order food (at a restaurant)
+Nuance_EN: A specific verb-object phrase meaning to choose dishes from a menu. Used commonly in dining contexts.
+Nuance_CN: 动宾短语，特指在餐厅选择菜肴。常用于餐饮场景。
+Example1: 服务员，我们要点菜。
+Example1_EN: Waiter, we'd like to order food.
+Example2: 你来点菜吧，我随便。
+Example2_EN: You order; I'm easy to please.
+Example3: 点菜的时候，记得问一下有没有推荐。
+Example3_EN: When ordering, remember to ask if they have any recommendations.
+
+===word: 坐===
+Meaning: sit, take a seat
+Nuance_EN: Basic verb for sitting down or taking a seat. Can also mean "to travel by" (e.g., 坐火车). Neutral register.
+Nuance_CN: 表示坐下或就座的常用动词，也可用于“乘坐交通工具”。中性词。
+Example1: 请坐，别客气。
+Example1_EN: Please sit down. Make yourself at home.
+Example2: 我们坐地铁去吧。
+Example2_EN: Let's go by subway.
+Example3: 他坐在沙发上看电视。
+Example3_EN: He is sitting on the sofa watching TV.
+
+===word: 报纸===
+Meaning: newspaper
+Nuance_EN: A printed periodical with news. Common in daily life, though usage is declining with digital media.
+Nuance_CN: 印刷的新闻刊物。日常用语，但随着数字媒体的普及使用减少。
+Example1: 爸爸每天早上都看报纸。
+Example1_EN: Dad reads the newspaper every morning.
+Example2: 这张报纸是昨天的吗？
+Example2_EN: Is this newspaper from yesterday?
+Example3: 我在报纸上看到了一条有趣的新闻。
+Example3_EN: I saw an interesting piece of news in the newspaper.
+
+===word: 天气===
+Meaning: weather
+Nuance_EN: Refers to atmospheric conditions. Very common in daily conversation, often used in small talk.
+Nuance_CN: 指自然气候状况。日常对话中很常见，常用于寒暄。
+Example1: 今天天气真好。
+Example1_EN: The weather is really nice today.
+Example2: 天气预报说明天会下雨。
+Example2_EN: The weather forecast says it will rain tomorrow.
+Example3: 我不喜欢太热的天气。
+Example3_EN: I don't like very hot weather.
+
+===word: 我刚来厦门===
+Meaning: I just came to Xiamen
+Nuance_EN: A sentence meaning the speaker recently arrived in Xiamen. "刚" emphasizes recent past. Useful for explaining unfamiliarity.
+Nuance_CN: 表示说话人最近到达厦门。“刚”强调不久之前。用于表达不熟悉当地情况。
+Example1: 我刚来厦门，还不太认识路。
+Example1_EN: I just came to Xiamen, so I don't know the roads well yet.
+Example2: 我是去年刚来厦门的。
+Example2_EN: I just came to Xiamen last year.
+Example3: 他刚来厦门一周，很多东西还不习惯。
+Example3_EN: He just came to Xiamen a week ago and is still not used to many things.
+
+===word: 亚洲===
+Meaning: Asia
+Nuance_EN: The continent name. Neutral, used in geography, travel, or cultural contexts.
+Nuance_CN: 大陆名称。用于地理、旅游或文化背景下，中性词。
+Example1: 中国是亚洲最大的国家之一。
+Example1_EN: China is one of the largest countries in Asia.
+Example2: 亚洲有很多不同的文化。
+Example2_EN: There are many different cultures in Asia.
+Example3: 你最喜欢亚洲哪个城市？
+Example3_EN: Which city in Asia do you like best?
+
+===word: 笑===
+Meaning: laugh, smile
+Nuance_EN: General verb for making a happy facial expression or sound. Can be used alone or with complements (e.g., 笑起来).
+Nuance_CN: 表示露出快乐表情或发出笑声的动词。可单独使用或加补语（如“笑起来”）。
+Example1: 他讲的笑话让大家笑个不停。
+Example1_EN: His joke made everyone laugh endlessly.
+Example2: 她对着镜子笑了笑。
+Example2_EN: She smiled at herself in the mirror.
+Example3: 别笑了，这事很严肃。
+Example3_EN: Stop laughing; this is serious.
+
+===word: 下次===
+Meaning: next time
+Nuance_EN: Temporal noun referring to a future occasion. Common in both planned and casual contexts.
+Nuance_CN: 时间名词，指未来的某个场合。常用于计划或随意对话中。
+Example1: 这次没时间，下次我们再见面吧。
+Example1_EN: I don't have time this time; let's meet next time.
+Example2: 下次你来我家吃饭。
+Example2_EN: Next time, come to my place for dinner.
+Example3: 下次注意一点。
+Example3_EN: Be more careful next time.
+
+===word: 上次===
+Meaning: last time
+Nuance_EN: Temporal noun referring to a prior occasion. Often used to contrast with "这次" or "下次."
+Nuance_CN: 时间名词，指之前的某个场合。常与“这次”或“下次”对比使用。
+Example1: 上次我们去看电影了，这次去吃饭吧。
+Example1_EN: Last time we watched a movie; let's go eat this time.
+Example2: 上次的事情对不起。
+Example2_EN: Sorry about what happened last time.
+Example3: 我记得上次你说过这件事。
+Example3_EN: I remember you mentioned this last time.
+
+===word: 痛===
+Meaning: painful, hurt
+Nuance_EN: Adjective for physical or emotional pain. Often used with body parts (e.g., 头痛). Neutral, direct.
+Nuance_CN: 形容词，表示身体或情感上的疼痛。常与身体部位连用（如“头痛”）。中性直接。
+Example1: 我的头很痛。
+Example1_EN: My head hurts a lot.
+Example2: 听到这个消息，他心里很痛。
+Example2_EN: Hearing this news, he felt great pain in his heart.
+Example3: 伤口还痛吗？
+Example3_EN: Does the wound still hurt?
+
+===word: 附近===
+Meaning: nearby, vicinity
+Nuance_EN: Noun or postposition indicating a place close by. Commonly used in directions or descriptions.
+Nuance_CN: 名词或方位词，表示附近的地方。常用于指路或描述位置。
+Example1: 附近有超市吗？
+Example1_EN: Is there a supermarket nearby?
+Example2: 他就住在学校附近。
+Example2_EN: He lives near the school.
+Example3: 这附近有一家很好吃的面馆。
+Example3_EN: There is a very good noodle shop near here.
+
+===word: 矿泉水===
+Meaning: mineral water
+Nuance_EN: Bottled water from a natural source. Common term in shops, restaurants, and daily life.
+Nuance_CN: 指来自天然水源的瓶装水。商店、餐厅和日常生活中常用。
+Example1: 请给我一瓶矿泉水。
+Example1_EN: Please give me a bottle of mineral water.
+Example2: 这家店的矿泉水比别家贵。
+Example2_EN: The mineral water in this store is more expensive than others.
+Example3: 爬山的时候记得带矿泉水。
+Example3_EN: Remember to bring mineral water when hiking.
+
+===word: 船===
+Meaning: boat, ship
+Nuance_EN: General term for any water vessel. Size-neutral; can refer to small boats or large ships.
+Nuance_CN: 各种水上交通工具的总称。大小无关，既可指小船也可指大船。
+Example1: 我们坐船去鼓浪屿。
+Example1_EN: We'll take a boat to Gulangyu Island.
+Example2: 这艘船能装很多货物。
+Example2_EN: This ship can carry a lot of cargo.
+Example3: 海边停着很多渔船。
+Example3_EN: Many fishing boats are moored by the seaside.
+
+===word: 城市===
+Meaning: city
+Nuance_EN: An urban area with size and infrastructure. Neutral, used in geography, travel, and everyday talk.
+Nuance_CN: 指规模较大、设施完善的城市地区。中性词，用于地理、旅游和日常对话。
+Example1: 上海是一个国际化城市。
+Example1_EN: Shanghai is an international city.
+Example2: 我喜欢住在小城市，生活节奏慢。
+Example2_EN: I like living in a small city with a slow pace of life.
+Example3: 这个城市的人口接近一千万。
+Example3_EN: The population of this city is close to ten million.
+
+===word: 地图===
+Meaning: map
+Nuance_EN: A visual representation of an area. Common in travel, navigation, and learning contexts.
+Nuance_CN: 区域的视觉表示。常用于旅行、导航和学习场景。
+Example1: 你能给我一张地图吗？
+Example1_EN: Can you give me a map?
+Example2: 我用手机地图找路。
+Example2_EN: I use my phone's map to find my way.
+Example3: 这张地图不太准。
+Example3_EN: This map is not very accurate.
+
+===word: 画===
+Meaning: draw, paint
+Nuance_EN: Verb for creating visual art with tools like a pencil or brush. Can also mean "draw" as in pull (e.g., 画圆), but primary sense is artistic.
+Nuance_CN: 用铅笔或画笔等工具创作视觉艺术的动词。也有“画圆”等非艺术用法，但主要指画画。
+Example1: 她很喜欢画画，每天都画。
+Example1_EN: She really likes drawing; she draws every day.
+Example2: 你能画一张地图给我吗？
+Example2_EN: Can you draw me a map?
+Example3: 他在纸上画了一朵花。
+Example3_EN: He drew a flower on the paper.
+
+===word: 路口===
+Meaning: intersection, crossing
+Nuance_EN: Where two or more roads meet. Common in giving directions.
+Nuance_CN: 两条或多条道路交汇的地方。常用于指路场景。
+Example1: 下一个路口左转。
+Example1_EN: Turn left at the next intersection.
+Example2: 他们在路口等红绿灯。
+Example2_EN: They are waiting for the traffic light at the intersection.
+Example3: 这个路口车很多，要小心。
+Example3_EN: This intersection has a lot of traffic; be careful.

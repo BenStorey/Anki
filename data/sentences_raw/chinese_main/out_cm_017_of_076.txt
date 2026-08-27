@@ -1,0 +1,2198 @@
+===word: 空白===
+Meaning: Blank space; empty area
+Nuance_EN: Refers to a physical or metaphorical empty space, such as unfilled areas on a form or gaps in knowledge.
+Nuance_CN: 指物理或抽象上的未填写的区域，如表格中的空白处或知识上的空白点，中性词。
+Example1: 请在这张表格的空白处填写您的姓名。
+Example1_EN: Please fill in your name in the blank space on this form.
+Example2: 这段历史对我来说是个空白。
+Example2_EN: This period of history is a blank space for me.
+Example3: 画布上留有大片空白，给人无限遐想。
+Example3_EN: There is a large blank space on the canvas, leaving room for infinite imagination.
+
+===word: 无法形容===
+Meaning: Indescribable; unspeakable
+Nuance_EN: Used for feelings or experiences that are so extreme (often positive) that words cannot capture them. Slightly literary.
+Nuance_CN: 用于形容极其强烈（常为正面）的感受或经历，难以用语言描述，略带文学色彩。
+Example1: 看到日出的那一刻，我的心情无法形容。
+Example1_EN: The moment I saw the sunrise, my feelings were indescribable.
+Example2: 这部电影的美景美得让人无法形容。
+Example2_EN: The beautiful scenery in this movie is beyond description.
+Example3: 他获奖后的喜悦无法形容。
+Example3_EN: His joy after winning the award was unspeakable.
+
+===word: 人力===
+Meaning: Manpower; human labor
+Nuance_EN: Refers to people as a resource for work, often contrasted with machines or natural forces. Neutral, common in work contexts.
+Nuance_CN: 指作为劳动力的人，常与机器或自然力相对，中性词，常用于工作或资源讨论。
+Example1: 这个项目需要大量的人力投入。
+Example1_EN: This project requires a large investment of manpower.
+Example2: 用人力搬运这些货物太慢了。
+Example2_EN: Moving these goods by manpower is too slow.
+Example3: 公司正在考虑用自动化代替部分人力。
+Example3_EN: The company is considering replacing part of the manpower with automation.
+
+===word: 瞧不起===
+Meaning: To look down upon; to disdain
+Nuance_EN: Expresses contempt or a feeling of superiority toward someone. Slightly informal and emotional.
+Nuance_CN: 表示对某人轻视或看不起，带有优越感，语气较口语化且略带情绪。
+Example1: 不要瞧不起那些没有学历的人。
+Example1_EN: Don't look down on people without academic degrees.
+Example2: 他总是一副瞧不起别人的样子。
+Example2_EN: He always acts as if he looks down on others.
+Example3: 她因为出身贫寒而被同事瞧不起。
+Example3_EN: She was looked down upon by her colleagues because of her humble background.
+
+===word: 决非===
+Meaning: Definitely not; absolutely not
+Nuance_EN: A strong, formal negation asserting that something is unquestionably not the case. Used in written or emphatic speech.
+Nuance_CN: 强烈的、正式的否定，强调某事绝不可能如此，多用于书面或强调语气。
+Example1: 他的成功决非偶然，而是长期努力的结果。
+Example1_EN: His success is definitely not accidental, but the result of long-term effort.
+Example2: 这决非我一个人的想法，而是大家的共识。
+Example2_EN: This is definitely not just my opinion, but a consensus among everyone.
+Example3: 我们决非有意冒犯，只是想表达不同观点。
+Example3_EN: We definitely did not mean to offend, we just wanted to express a different viewpoint.
+
+===word: 打字机===
+Meaning: Typewriter
+Nuance_EN: An older mechanical or electronic device for typing text on paper. Now mostly historical or nostalgic.
+Nuance_CN: 一种用于在纸上打字的旧式机械或电子设备，如今多用于怀旧或历史语境。
+Example1: 这台打字机是我爷爷留下的古董。
+Example1_EN: This typewriter is an antique left by my grandfather.
+Example2: 在电脑普及之前，打字机是办公必备品。
+Example2_EN: Before the popularity of computers, typewriters were essential office equipment.
+Example3: 她用打字机打出了一封长信。
+Example3_EN: She typed a long letter on the typewriter.
+
+===word: 电动===
+Meaning: Electric-powered
+Nuance_EN: Describes devices or vehicles that run on electricity, as opposed to manual or fuel-powered. Common in product descriptions.
+Nuance_CN: 描述靠电力驱动的设备或车辆，与手动或燃油相对，常用于产品说明。
+Example1: 这种电动自行车非常环保。
+Example1_EN: This kind of electric bicycle is very environmentally friendly.
+Example2: 我们家新买了一台电动缝纫机。
+Example2_EN: Our family bought a new electric sewing machine.
+Example3: 电动工具大大提高了工作效率。
+Example3_EN: Electric tools have greatly improved work efficiency.
+
+===word: 双手===
+Meaning: Pair of hands
+Nuance_EN: Literally "both hands", often used to emphasize personal effort or physical action. Can also be metaphorical for "effort".
+Nuance_CN: 字面意为“两只手”，常强调亲手劳动或动作，也可比喻个人努力。
+Example1: 他用双手捧起了一捧清水。
+Example1_EN: He cupped a handful of clear water in his hands.
+Example2: 这座房子是他用双手建起来的。
+Example2_EN: This house was built with his own hands.
+Example3: 请用双手将礼物递给长辈。
+Example3_EN: Please offer the gift to the elder with both hands.
+
+===word: 出名===
+Meaning: Well-known; to become famous
+Nuance_EN: Refers to gaining fame or being widely known for something. Neutral, but can imply notoriety depending on context.
+Nuance_CN: 指因某事而广为人知或出名，中性词，但根据语境可能带贬义（如臭名）。
+Example1: 他因为一项发明而迅速出名。
+Example1_EN: He quickly became famous because of an invention.
+Example2: 这家餐厅以特色烤鸭出名。
+Example2_EN: This restaurant is famous for its special roast duck.
+Example3: 她不想出名，只想安静地生活。
+Example3_EN: She doesn't want to be famous; she just wants to live quietly.
+
+===word: 毛病===
+Meaning: Fault; defect; shortcoming
+Nuance_EN: Refers to a flaw in a person's character, behavior, or an object's function. Can be mild or strong.
+Nuance_CN: 指性格、行为或物品上的缺陷或问题，语气可轻可重。
+Example1: 这部手机有个小毛病，电池不耐用。
+Example1_EN: This phone has a small defect: the battery doesn't last long.
+Example2: 他唯一的毛病就是爱迟到。
+Example2_EN: His only shortcoming is that he likes to be late.
+Example3: 这辆车又出毛病了，需要修理。
+Example3_EN: This car has developed a problem again; it needs repair.
+
+===word: 叫座===
+Meaning: To draw a large audience; to be a hit
+Nuance_EN: Used especially for movies, plays, or performances that attract many viewers. Often contrasts with "叫好" (critical acclaim).
+Nuance_CN: 特指电影、戏剧等吸引大量观众，卖座，常与“叫好”（好评）对比。
+Example1: 这部电影虽然评价一般，但很叫座。
+Example1_EN: Although this movie received average reviews, it was a big hit at the box office.
+Example2: 那部话剧既叫好又叫座，非常成功。
+Example2_EN: That play was both critically acclaimed and popular, a great success.
+Example3: 今年最叫座的影片是哪一部？
+Example3_EN: Which film was the biggest box office hit this year?
+
+===word: 原本===
+Meaning: Originally; formerly
+Nuance_EN: Indicates an original state or plan that later changed. Can also mean "original copy" as a noun, but here it's an adverb.
+Nuance_CN: 表示原本的状态或计划，后来有所改变，副词用法。也可作名词指原稿。
+Example1: 他原本打算去北京，后来改变了主意。
+Example1_EN: He originally planned to go to Beijing, but later changed his mind.
+Example2: 这栋房子原本是红色的，现在刷成了白色。
+Example2_EN: This house was originally red, but now it's painted white.
+Example3: 我原本不知道这件事，是他告诉我的。
+Example3_EN: I didn't know about this originally; he told me.
+
+===word: 着凉===
+Meaning: To catch a cold
+Nuance_EN: Specifically means getting chilled, which leads to a cold. Used for mild illness from exposure to cold.
+Nuance_CN: 特指因受凉而感冒，用于轻度疾病，常由冷风或低温引起。
+Example1: 昨晚没盖好被子，结果着凉了。
+Example1_EN: Last night I didn't cover myself properly, and ended up catching a cold.
+Example2: 天气变冷了，小心别着凉。
+Example2_EN: The weather is getting cold; be careful not to catch a cold.
+Example3: 他淋了雨，回来就着凉了。
+Example3_EN: He got caught in the rain and caught a cold as soon as he got back.
+
+===word: 风口===
+Meaning: Drafty place; air vent; wind gap
+Nuance_EN: A location where wind blows through strongly, often causing discomfort. Can also be literal like a vent.
+Nuance_CN: 风猛烈吹过的地方，常让人感到不适，也可指通风口或山隘。
+Example1: 别坐在风口，容易着凉。
+Example1_EN: Don't sit in a drafty place, you'll easily catch a cold.
+Example2: 这个房间的风口设计不合理。
+Example2_EN: The air vent design in this room is unreasonable.
+Example3: 登山时，风口处风力特别大。
+Example3_EN: When climbing, the wind is particularly strong at the wind gap.
+
+===word: 除以===
+Meaning: Divided by (mathematics)
+Nuance_EN: The mathematical operation of division. Used in arithmetic expressions.
+Nuance_CN: 数学中的除法运算，用于算式表述。
+Example1: 十除以二等于五。
+Example1_EN: Ten divided by two equals five.
+Example2: 这个数除以三后得到整数吗？
+Example2_EN: Does this number become an integer after being divided by three?
+Example3: 请用计算器算一下一千除以二十五。
+Example3_EN: Please use a calculator to compute one thousand divided by twenty-five.
+
+===word: 增广===
+Meaning: To widen; to expand
+Nuance_EN: Formal verb meaning to broaden or enlarge, often used with abstract things like knowledge or horizons.
+Nuance_CN: 正式动词，意为扩大、拓宽，常与知识、视野等抽象名词搭配。
+Example1: 旅行可以增广我们的见闻。
+Example1_EN: Travel can broaden our knowledge and experience.
+Example2: 阅读能增广人的视野。
+Example2_EN: Reading can expand one's horizons.
+Example3: 公司计划增广业务范围。
+Example3_EN: The company plans to widen its business scope.
+
+===word: 见闻===
+Meaning: Knowledge; what one sees and hears
+Nuance_EN: Refers to personal experiences, observations, and knowledge gained from travel or life. Often paired with "增广".
+Nuance_CN: 指通过亲身经历和听闻获得的知识或见识，常与“增广”搭配。
+Example1: 这次出国旅行让我增长了不少见闻。
+Example1_EN: This overseas trip has greatly increased my knowledge and experience.
+Example2: 他把旅途中的见闻写成了一本书。
+Example2_EN: He wrote a book about what he saw and heard during his journey.
+Example3: 老人的见闻很广，知道很多有趣的故事。
+Example3_EN: The old man has broad knowledge and knows many interesting stories.
+
+===word: 得知===
+Meaning: To find out; to learn of
+Nuance_EN: Formal or neutral verb for receiving information or discovering a fact. Often used in news or reports.
+Nuance_CN: 正式或中性的动词，表示获悉或了解到某个事实，常用于新闻或报告中。
+Example1: 我从新闻中得知了这次事故。
+Example1_EN: I learned about this accident from the news.
+Example2: 得知他康复的消息，大家都很高兴。
+Example2_EN: Everyone was very happy to learn that he had recovered.
+Example3: 你从哪里得知这个秘密的？
+Example3_EN: Where did you find out this secret?
+
+===word: 改装===
+Meaning: To remodel; to refit; to modify
+Nuance_EN: Changing the appearance, function, or equipment of something, like a car or room. Often for improvement or customization.
+Nuance_CN: 改变某物的外观、功能或装备，如汽车或房间的改装，常为了改进或个性化。
+Example1: 他把旧车改装成了一辆露营车。
+Example1_EN: He remodeled the old car into a camper van.
+Example2: 这家店专门提供手机改装服务。
+Example2_EN: This shop specializes in phone modification services.
+Example3: 厨房需要改装，以增加储物空间。
+Example3_EN: The kitchen needs to be remodeled to increase storage space.
+
+===word: 倒车===
+Meaning: To reverse a car; to back up
+Nuance_EN: Driving a vehicle in reverse. Commonly used in traffic and parking situations.
+Nuance_CN: 驾驶车辆向后行驶，常用于交通和停车场景。
+Example1: 倒车时请注意后方行人。
+Example1_EN: Please watch for pedestrians behind when reversing.
+Example2: 他倒车入库的技术很熟练。
+Example2_EN: He is very skilled at backing into a parking spot.
+Example3: 前方有障碍物，我们需要倒车。
+Example3_EN: There is an obstacle ahead; we need to reverse.
+
+===word: 减速===
+Meaning: slow down, decelerate
+Nuance_EN: Used in driving, machinery, or general contexts to reduce speed. Neutral register, common in both spoken and written Chinese.
+Nuance_CN: 常用于驾驶、机器或一般语境中表示降低速度。中性语体，口语和书面语都常用。
+Example1: 前面有事故，请减速。
+Example1_EN: There's an accident ahead, please slow down.
+Example2: 车辆在转弯前应该减速。
+Example2_EN: Vehicles should slow down before turning.
+Example3: 经济增速正在减速。
+Example3_EN: The economic growth rate is decelerating.
+
+===word: 超车===
+Meaning: overtake, pass (a vehicle)
+Nuance_EN: Specific to traffic context, meaning to pass another vehicle. Often used in driving rules or descriptions.
+Nuance_CN: 专用于交通语境，指从旁边超过另一辆车。常用于驾驶规则或描述。
+Example1: 在弯道超车很危险。
+Example1_EN: Overtaking on a curve is very dangerous.
+Example2: 他从右边超车，被警察拦住了。
+Example2_EN: He overtook on the right and was stopped by the police.
+Example3: 高速公路允许超车。
+Example3_EN: Overtaking is allowed on highways.
+
+===word: 时速===
+Meaning: speed per hour, kilometers per hour
+Nuance_EN: Typically used for vehicle speed, abbreviated as km/h. Often appears in traffic signs and technical descriptions.
+Nuance_CN: 通常用于车辆速度，缩写为公里/小时。常见于交通标志和技术描述。
+Example1: 这条路的最高时速是80公里。
+Example1_EN: The maximum speed on this road is 80 km/h.
+Example2: 他以时速120公里行驶。
+Example2_EN: He was driving at a speed of 120 km/h.
+Example3: 飞机时速可达900公里。
+Example3_EN: The airplane can reach a speed of 900 km/h.
+
+===word: 限速===
+Meaning: speed limit
+Nuance_EN: Refers to the maximum or minimum allowed speed, especially on roads. Common in traffic regulations.
+Nuance_CN: 指道路上的最高或最低允许速度，常见于交通法规。
+Example1: 这个路段限速40公里。
+Example1_EN: The speed limit on this section is 40 km/h.
+Example2: 请注意限速标志。
+Example2_EN: Please pay attention to the speed limit signs.
+Example3: 超速行驶会被罚款，因为有限速规定。
+Example3_EN: Speeding will result in a fine because there is a speed limit.
+
+===word: 很烦人===
+Meaning: annoying, bothersome
+Nuance_EN: Informal expression to describe someone or something that causes irritation. Often used in everyday conversation.
+Nuance_CN: 非正式表达，用于描述令人恼火的人或事。常用于日常对话。
+Example1: 他总是迟到，很烦人。
+Example1_EN: He is always late, which is very annoying.
+Example2: 这种广告很烦人，一直弹出来。
+Example2_EN: This kind of ad is annoying; it keeps popping up.
+Example3: 天气这么热还没空调，真的很烦人。
+Example3_EN: It's so hot and there's no air conditioning; it's really annoying.
+
+===word: ~手===
+Meaning: skilled person, expert
+Nuance_EN: A suffix meaning "someone skilled at something", used after a noun or verb to indicate a person with expertise. Similar to "-er" in English.
+Nuance_CN: 后缀，表示擅长某事物的人，类似于英语的“-er”。常用于名词或动词之后。
+Example1: 他是一名好射手。
+Example1_EN: He is a good shooter.
+Example2: 她是个电脑高手。
+Example2_EN: She is a computer expert.
+Example3: 这个厨师是个快手，做饭很快。
+Example3_EN: This chef is a fast worker, cooking very quickly.
+
+===word: 开头===
+Meaning: beginning, start
+Nuance_EN: Refers to the initial part of something, such as a story, event, or process. Neutral register.
+Nuance_CN: 指某事物（如故事、事件、过程）的起始部分。中性语体。
+Example1: 电影的开头很吸引人。
+Example1_EN: The beginning of the movie is very engaging.
+Example2: 这篇文章的开头写得不错。
+Example2_EN: The beginning of this article is well written.
+Example3: 开头我们遇到了很多困难。
+Example3_EN: At the beginning, we encountered many difficulties.
+
+===word: 会话练习===
+Meaning: conversation practice
+Nuance_EN: Refers to practicing spoken language through dialogues, common in language learning contexts.
+Nuance_CN: 指通过对话进行口语练习，常见于语言学习场景。
+Example1: 我们需要做更多的会话练习。
+Example1_EN: We need to do more conversation practice.
+Example2: 这节课是会话练习，不是语法课。
+Example2_EN: This class is conversation practice, not grammar.
+Example3: 通过会话练习，我的口语提高了。
+Example3_EN: Through conversation practice, my spoken language has improved.
+
+===word: 极力===
+Meaning: make every effort, strive hard
+Nuance_EN: Indicates doing something with utmost effort or at all costs. Often used in formal or written contexts.
+Nuance_CN: 表示尽最大努力或不惜一切代价做某事。常用于正式或书面语境。
+Example1: 他极力劝说大家接受这个方案。
+Example1_EN: He made every effort to persuade everyone to accept the plan.
+Example2: 她极力掩饰自己的不安。
+Example2_EN: She tried hard to hide her uneasiness.
+Example3: 公司极力降低成本以提高利润。
+Example3_EN: The company is making every effort to reduce costs to increase profits.
+
+===word: 惊喜===
+Meaning: pleasantly surprised, surprise
+Nuance_EN: Describes a feeling of unexpected joy or a pleasant surprise. Can be a noun or adjective.
+Nuance_CN: 形容意外的高兴或令人惊喜的事物。可作名词或形容词。
+Example1: 他的到来给了我们一个惊喜。
+Example1_EN: His arrival was a pleasant surprise to us.
+Example2: 这份礼物太惊喜了，我没想到。
+Example2_EN: This gift is such a pleasant surprise; I didn't expect it.
+Example3: 考试成绩出乎意料，真让人惊喜。
+Example3_EN: The exam results were unexpectedly good, really a pleasant surprise.
+
+===word: 自从===
+Meaning: ever since, since
+Nuance_EN: Used to indicate a point in time from which something has continued. Often followed by a specific time or event.
+Nuance_CN: 用于表示从某个时间点开始一直持续。常后接具体时间或事件。
+Example1: 自从去年开始，他一直在学中文。
+Example1_EN: Since last year, he has been studying Chinese.
+Example2: 自从那次事故后，她变得很谨慎。
+Example2_EN: Ever since that accident, she has become very cautious.
+Example3: 自从我换了工作，生活更规律了。
+Example3_EN: Since I changed jobs, my life has become more regular.
+
+===word: 不着===
+Meaning: no need, need not
+Nuance_EN: Informal, often used in spoken Chinese to indicate that something is unnecessary. Can also mean "can't" in certain contexts.
+Nuance_CN: 非正式，常用于口语表示不需要。在某些语境中也可表示“无法”。
+Example1: 你不用担心，这事不着急。
+Example1_EN: You don't need to worry; this matter is not urgent.
+Example2: 他忙着呢，不着你帮忙。
+Example2_EN: He is busy; he doesn't need your help.
+Example3: 这东西不着钱，别买了。
+Example3_EN: This thing is not worth the money; don't buy it.
+
+===word: 表现===
+Meaning: show, display, performance
+Nuance_EN: Can refer to how someone behaves or performs, or to demonstrate a quality. Used in both work and social contexts.
+Nuance_CN: 可指人的行为或表现，或展示某种品质。用于工作和社会语境。
+Example1: 他在工作中的表现很好。
+Example1_EN: His performance at work is very good.
+Example2: 她表现出了极大的耐心。
+Example2_EN: She showed great patience.
+Example3: 这个学生的表现令老师满意。
+Example3_EN: The student's performance satisfied the teacher.
+
+===word: 表扬===
+Meaning: praise, commend
+Nuance_EN: Formal or semi-formal expression of approval for someone's actions or achievements. Common in school and workplace.
+Nuance_CN: 对某人的行为或成就表示赞许，较正式。常见于学校和职场。
+Example1: 老师表扬了他的努力。
+Example1_EN: The teacher praised his efforts.
+Example2: 公司表扬了优秀员工。
+Example2_EN: The company commended the outstanding employees.
+Example3: 得到表扬后，他更有动力了。
+Example3_EN: After being praised, he became more motivated.
+
+===word: 离不开===
+Meaning: inseparable, cannot do without
+Nuance_EN: Indicates that something or someone is essential or closely linked to another. Often used in relationships or dependencies.
+Nuance_CN: 表示某物或某人必不可少或紧密相连。常用于关系或依赖。
+Example1: 他离不开手机。
+Example1_EN: He can't do without his phone.
+Example2: 这个项目离不开团队合作。
+Example2_EN: This project cannot be done without teamwork.
+Example3: 他们俩互相离不开。
+Example3_EN: The two of them are inseparable from each other.
+
+===word: 听写===
+Meaning: dictation, to dictate
+Nuance_EN: A common language-learning exercise where a teacher reads and students write. Also used in office settings for dictation.
+Nuance_CN: 语言学习中常见的练习，老师读学生写。也用于办公室的听写。
+Example1: 今天我们有听写测验。
+Example1_EN: Today we have a dictation quiz.
+Example2: 老师正在做听写练习。
+Example2_EN: The teacher is conducting a dictation exercise.
+Example3: 听写能帮助提高听力。
+Example3_EN: Dictation can help improve listening skills.
+
+===word: 复课===
+Meaning: resume classes
+Nuance_EN: Used when school or training resumes after a break or suspension. Often seen in announcements or news.
+Nuance_CN: 用于学校或培训在中断后恢复上课。常见于通知或新闻。
+Example1: 学校下周复课。
+Example1_EN: The school will resume classes next week.
+Example2: 由于疫情，复课时间推迟了。
+Example2_EN: Due to the pandemic, the resumption of classes has been delayed.
+Example3: 学生们很高兴能复课。
+Example3_EN: The students are happy to resume classes.
+
+===word: 眼力===
+Meaning: eyesight, discernment, judgment
+Nuance_EN: Literally means eyesight, but also figuratively refers to the ability to make good judgments or see through things.
+Nuance_CN: 字面意为视力，也比喻为判断力或眼力见。
+Example1: 他的眼力很好，能看清远处的东西。
+Example1_EN: He has good eyesight; he can see things far away.
+Example2: 她很有眼力，一眼就看出真假。
+Example2_EN: She has good discernment; she can tell real from fake at a glance.
+Example3: 做古董生意需要眼力。
+Example3_EN: Doing antique business requires good judgment.
+
+===word: 爱戴===
+Meaning: love and respect, hold in high esteem
+Nuance_EN: Used for people in authority or positions of respect, such as leaders, teachers, or elders. Formal and positive.
+Nuance_CN: 用于对权威或受尊敬的人（如领导、老师、长辈）的爱护和尊敬。正式且正面。
+Example1: 这位校长深受学生爱戴。
+Example1_EN: This principal is deeply loved and respected by students.
+Example2: 人民爱戴他们的领袖。
+Example2_EN: The people love and respect their leader.
+Example3: 他是一位受爱戴的老师。
+Example3_EN: He is a beloved teacher.
+
+===word: 读音===
+Meaning: pronunciation (of a character)
+Nuance_EN: Specifically refers to how a Chinese character is read or pronounced. Common in language learning.
+Nuance_CN: 特指汉字如何读或发音。常见于语言学习。
+Example1: 这个字的读音是什么？
+Example1_EN: What is the pronunciation of this character?
+Example2: 多音字有不同的读音。
+Example2_EN: Polyphonic characters have different pronunciations.
+Example3: 请查一下这个词的读音。
+Example3_EN: Please look up the pronunciation of this word.
+
+===word: 简化字===
+Meaning: simplified character
+Nuance_EN: Refers specifically to characters that have been simplified under the official Chinese script reform. Used in contrast to 繁体字 in discussions of writing systems.
+Nuance_CN: 指经过汉字简化方案后形成的字形，与繁体字相对，常用于讨论书写系统演变。
+Example1: 简化字在中国大陆是标准书写形式。
+Example1_EN: Simplified characters are the standard writing form in mainland China.
+Example2: 很多外国学生先学简化字再学繁体字。
+Example2_EN: Many foreign students learn simplified characters first and then traditional characters.
+Example3: 这本书用的是简化字，阅读起来很方便。
+Example3_EN: This book uses simplified characters, making it very convenient to read.
+
+===word: 简化===
+Meaning: To simplify
+Nuance_EN: A verb meaning to make something simpler or less complex, often used in contexts like language, processes, or design. Neutral and widely applicable.
+Nuance_CN: 表示使事物变得更简单或减少复杂性的动作，常用于语言、流程或设计等领域，语气中性。
+Example1: 公司简化了申请流程，提高了效率。
+Example1_EN: The company simplified the application process, improving efficiency.
+Example2: 这个软件能简化数据整理工作。
+Example2_EN: This software can simplify data organization tasks.
+Example3: 我们需要简化这个方案，让它更易操作。
+Example3_EN: We need to simplify this plan to make it easier to implement.
+
+===word: 繁体字===
+Meaning: traditional characters
+Nuance_EN: Refers to the original, unsimplified Chinese characters used primarily in Taiwan, Hong Kong, Macau, and some overseas communities. Often contrasted with 简化字.
+Nuance_CN: 指未经简化的汉字，主要在台湾、香港、澳门及部分海外华人社区使用，常与简化字对比。
+Example1: 繁体字在台湾和香港仍然广泛使用。
+Example1_EN: Traditional characters are still widely used in Taiwan and Hong Kong.
+Example2: 很多书法作品都使用繁体字。
+Example2_EN: Many calligraphy works use traditional characters.
+Example3: 虽然我学的是简化字，但也想认识繁体字。
+Example3_EN: Although I learned simplified characters, I also want to recognize traditional characters.
+
+===word: 现有===
+Meaning: Currently existing / currently available
+Nuance_EN: An adjective or adverb indicating something that exists or is available at the present time. Commonly used in formal and everyday contexts.
+Nuance_CN: 表示当前存在或可用的状态，常用于正式场合或日常语境，语气中性。
+Example1: 我们利用现有资源完成了项目。
+Example1_EN: We completed the project using existing resources.
+Example2: 现有库存已经不足，需要尽快补充。
+Example2_EN: The current inventory is insufficient; we need to replenish it soon.
+Example3: 现有制度需要进一步改革。
+Example3_EN: The current system needs further reform.
+
+===word: 气球===
+Meaning: Balloon
+Nuance_EN: A generic term for an inflatable object, typically made of rubber or latex, used for decoration, play, or scientific purposes. Neutral, everyday word.
+Nuance_CN: 指用橡胶或乳胶制成的可充气物体，常用于装饰、娱乐或科研，日常用语。
+Example1: 孩子们在公园里玩气球。
+Example1_EN: The children are playing with balloons in the park.
+Example2: 生日派对上挂满了彩色气球。
+Example2_EN: The birthday party was decorated with colorful balloons.
+Example3: 热气球升上了天空。
+Example3_EN: The hot air balloon rose into the sky.
+
+===word: 彩色===
+Meaning: Colour / Multi-colored
+Nuance_EN: Describes something having multiple colors or being in color (as opposed to black-and-white). Widely used in daily life and media.
+Nuance_CN: 表示有多种颜色或彩色的（与黑白相对），日常生活和媒体中常用。
+Example1: 这幅画用了很多彩色颜料。
+Example1_EN: This painting uses many colorful pigments.
+Example2: 彩色电视早已普及。
+Example2_EN: Color televisions have long been popularized.
+Example3: 她穿了一条彩色裙子。
+Example3_EN: She wore a colorful skirt.
+
+===word: 拿不到===
+Meaning: unable to reach something
+Nuance_EN: A verb phrase indicating physical or figurative inability to obtain or grasp something. Common in spoken and written Chinese.
+Nuance_CN: 表示因距离、高度或条件限制而无法拿到或获得某物，口语和书面语都常用。
+Example1: 书放在书柜最上层，我拿不到。
+Example1_EN: The book is on the top shelf, and I can't reach it.
+Example2: 那个奖项太难了，他估计拿不到。
+Example2_EN: That award is too difficult; he probably won't get it.
+Example3: 钥匙掉进缝里，怎么也拿不到。
+Example3_EN: The key fell into the crack and I couldn't get it no matter what.
+
+===word: 床单===
+Meaning: bed sheet
+Nuance_EN: A large rectangular cloth used to cover a mattress. Everyday household item, neutral register.
+Nuance_CN: 铺在床垫上的大块布料，日常家居用品，中性语体。
+Example1: 我每周换一次床单。
+Example1_EN: I change the bed sheet once a week.
+Example2: 这条床单是纯棉的，很舒服。
+Example2_EN: This bed sheet is pure cotton and very comfortable.
+Example3: 床单上有一块污渍，需要清洗。
+Example3_EN: There is a stain on the bed sheet that needs cleaning.
+
+===word: 离题===
+Meaning: to stray from the subject / to digress
+Nuance_EN: A verb meaning to deviate from the main topic in conversation, writing, or discussion. Often used in formal or academic settings.
+Nuance_CN: 表示在谈话、写作或讨论中偏离主题，常用于正式或学术场合。
+Example1: 他的发言完全离题了。
+Example1_EN: His speech was completely off-topic.
+Example2: 讨论时尽量不要离题太远。
+Example2_EN: Try not to stray too far from the topic during the discussion.
+Example3: 这篇作文离题了，得分很低。
+Example3_EN: This essay digressed from the topic and received a low score.
+
+===word: 简直===
+Meaning: Simply / Practically
+Nuance_EN: An adverb used to emphasize that something is almost unbelievable or extremely so. Often expresses exaggeration or strong feeling, common in spoken Chinese.
+Nuance_CN: 副词，用于强调某事几乎令人难以置信或程度极高，常带夸张或强烈感情，口语常用。
+Example1: 他简直是个天才！
+Example1_EN: He is simply a genius!
+Example2: 这简直太离谱了。
+Example2_EN: This is simply too absurd.
+Example3: 我简直不敢相信自己的眼睛。
+Example3_EN: I simply couldn't believe my eyes.
+
+===word: 交易===
+Meaning: Transaction; trade; deal
+Nuance_EN: A formal noun (or verb) for the exchange of goods, services, or money between parties. Used in commercial, financial, and everyday contexts. Neutral tone.
+Nuance_CN: 指双方之间商品、服务或金钱的交换，可作名词或动词，用于商业、金融及日常语境，语气中性。
+Example1: 这笔交易金额很大。
+Example1_EN: This transaction involves a large amount of money.
+Example2: 他们正在谈判一笔重要的交易。
+Example2_EN: They are negotiating an important deal.
+Example3: 网上交易越来越方便了。
+Example3_EN: Online transactions are becoming more and more convenient.
+
+===word: 告吹===
+Meaning: To fizzle out / To come to nothing
+Nuance_EN: An informal verb indicating that a plan, relationship, or effort has failed or been canceled. Often used in everyday speech.
+Nuance_CN: 非正式动词，表示计划、关系或努力失败或告终，日常口语常用。
+Example1: 因为资金不足，这个项目告吹了。
+Example1_EN: Due to insufficient funds, this project fell through.
+Example2: 他们的合作最后告吹了。
+Example2_EN: Their cooperation eventually fizzled out.
+Example3: 旅行计划因为天气原因告吹。
+Example3_EN: The travel plan came to nothing because of the weather.
+
+===word: 早晨===
+Meaning: Early morning
+Nuance_EN: Refers to the time from dawn to around 8 or 9 AM. More specific than 早上, often used in daily conversation and writing.
+Nuance_CN: 指从天亮到上午八九点之间的时段，比“早上”更具体，日常口语和书面语都常用。
+Example1: 我习惯早晨六点起床。
+Example1_EN: I am used to getting up at six in the morning.
+Example2: 早晨的空气很清新。
+Example2_EN: The morning air is very fresh.
+Example3: 她每天早晨都会跑步。
+Example3_EN: She goes for a run every morning.
+
+===word: 赛跑===
+Meaning: Running race
+Nuance_EN: A noun for a competition of speed in running. Can be used for short or long distances. Neutral, common in sports contexts.
+Nuance_CN: 指跑步速度的竞赛，可用于短跑或长跑，体育语境中常用，中性语体。
+Example1: 学校每年都举行百米赛跑比赛。
+Example1_EN: The school holds a 100-meter race every year.
+Example2: 他在赛跑中得了第一名。
+Example2_EN: He came first in the running race.
+Example3: 孩子们在操场上赛跑。
+Example3_EN: The children are racing on the playground.
+
+===word: 天花板===
+Meaning: Ceiling
+Nuance_EN: The upper interior surface of a room. Also used metaphorically for an upper limit in business or growth. Common in daily life.
+Nuance_CN: 房间内部的上表面，也可比喻事业或发展的上限，日常用语。
+Example1: 天花板上有盏吊灯。
+Example1_EN: There is a chandelier on the ceiling.
+Example2: 公司业绩已经达到了天花板。
+Example2_EN: The company's performance has hit the ceiling.
+Example3: 这个房间的天花板很高。
+Example3_EN: The ceiling of this room is very high.
+
+===word: 留神===
+Meaning: To be careful / To take care
+Nuance_EN: A verb meaning to pay attention or be cautious, often used in warnings or advice. Slightly informal but widely used.
+Nuance_CN: 表示留意、小心，常用于提醒或建议，略带口语色彩，但使用广泛。
+Example1: 过马路时要留神车辆。
+Example1_EN: Be careful of vehicles when crossing the street.
+Example2: 留神别把杯子打碎了。
+Example2_EN: Be careful not to break the glass.
+Example3: 他走路不留神，摔了一跤。
+Example3_EN: He wasn't paying attention while walking and fell.
+
+===word: 碰头===
+Meaning: To meet / to bump heads
+Nuance_EN: Has two meanings: literally to bump heads (physical), and figuratively to have a brief meeting or get together. The figurative meaning is common in informal contexts.
+Nuance_CN: 有两个含义：字面意思是头相碰，比喻义是简短会面或碰头，比喻义在非正式场合常用。
+Example1: 我们下午三点在会议室碰头吧。
+Example1_EN: Let's meet at the conference room at 3 pm.
+Example2: 他不小心碰头了，起了个包。
+Example2_EN: He accidentally bumped his head and got a lump.
+Example3: 几个老朋友约定周末碰头聊天。
+Example3_EN: A few old friends agreed to meet up and chat over the weekend.
+
+===word: 排球===
+Meaning: Volleyball
+Nuance_EN: A team sport played with a net and a ball, or the ball itself. Neutral, common in sports contexts.
+Nuance_CN: 一种隔网团队球类运动，也指该运动使用的球，体育语境中常用。
+Example1: 我们下午一起去打排球吧。
+Example1_EN: Let's go play volleyball together this afternoon.
+Example2: 中国女排是世界强队。
+Example2_EN: The Chinese women's volleyball team is a world-class team.
+Example3: 排球需要很好的配合。
+Example3_EN: Volleyball requires good teamwork.
+
+===word: 设定===
+Meaning: To set / Setting / Preferences
+Nuance_EN: A verb or noun referring to establishing parameters, rules, or configurations. Common in technology, gaming, and general planning. Neutral register.
+Nuance_CN: 作动词时表示设定参数、规则等，作名词时指设置项或设定值，常用于科技、游戏及一般规划，语气中性。
+Example1: 请设定好闹钟再睡觉。
+Example1_EN: Please set the alarm clock before sleeping.
+Example2: 这个游戏的难度设定太高了。
+Example2_EN: The difficulty setting of this game is too high.
+Example3: 我们需要设定一个明确的目标。
+Example3_EN: We need to set a clear goal.
+
+===word: 之外===
+Meaning: Outside / Excluding
+Nuance_EN: A postposition meaning "outside of" or "in addition to," used to denote exclusion or exception. Common in both formal and informal Chinese.
+Nuance_CN: 表示“在……之外”或“除了……”，用于排除或附加说明，正式和非正式场合都常用。
+Example1: 除了工资之外，他还有奖金。
+Example1_EN: In addition to his salary, he also has a bonus.
+Example2: 这家店之外没有其他选择。
+Example2_EN: There is no other option besides this store.
+Example3: 计划之外的事情总是会发生。
+Example3_EN: Things outside the plan always happen.
+
+===word: 渴望===
+Meaning: long for, thirst for, crave
+Nuance_EN: Expresses a strong desire or yearning for something, often used in emotional or aspirational contexts. More intense than simply "want."
+Nuance_CN: 表示非常强烈的愿望或渴求，带有情感色彩，常用于对理想、爱情或机会的期盼。
+Example1: 他渴望能有机会去国外留学。
+Example1_EN: He longs for the chance to study abroad.
+Example2: 她渴望得到家人的理解和支持。
+Example2_EN: She thirsts for understanding and support from her family.
+Example3: 生活在贫困中的人渴望改变命运。
+Example3_EN: People living in poverty crave a change of fate.
+
+===word: (当)乃爸===
+Meaning: stay-at-home dad
+Nuance_EN: A colloquial term for a father who stays home to take care of children, similar to "奶爸". The "(当)" suggests "acting as" a stay-at-home dad.
+Nuance_CN: 口语中对在家照顾孩子的父亲的称呼，类似“奶爸”。括号中的“当”表示“充当”之意。
+Example1: 他辞职后成了全职乃爸。
+Example1_EN: He became a full-time stay-at-home dad after quitting his job.
+Example2: 现在的乃爸越来越多了。
+Example2_EN: There are more and more stay-at-home dads nowadays.
+Example3: 当乃爸也需要很大的耐心。
+Example3_EN: Being a stay-at-home dad also requires a lot of patience.
+===word: 一问三不知===
+Meaning: know nothing about something
+Nuance_EN: A fixed expression meaning someone is completely ignorant or clueless about a topic. Often used to criticize or describe someone's lack of knowledge.
+Nuance_CN: 固定习语，指对某件事一无所知，常带批评或无奈的语气。
+Example1: 我问了他几个问题，他居然一问三不知。
+Example1_EN: I asked him a few questions, and he surprisingly knew nothing at all.
+Example2: 这个员工对项目进度一问三不知，主管很生气。
+Example2_EN: The employee knew nothing about the project's progress, and the manager was furious.
+Example3: 考试前他还不复习，结果一问三不知。
+Example3_EN: He didn't review before the exam, so he ended up knowing nothing.
+
+===word: 可好了===
+Meaning: very good, excellent
+Nuance_EN: Colloquial expression emphasizing something is extremely good. Often used in exclamatory or affirmative statements, with a lively tone.
+Nuance_CN: 口语中强调“非常好”的说法，语气活泼，常用于感叹或肯定。
+Example1: 这家餐厅的菜可好了，你一定要尝尝。
+Example1_EN: The food at this restaurant is so good, you must try it.
+Example2: 他们俩关系可好了，从小一起长大。
+Example2_EN: Their relationship is excellent; they grew up together.
+Example3: 今天天气可好了，我们去公园吧。
+Example3_EN: The weather is great today; let's go to the park.
+
+===word: 手艺===
+Meaning: skill, craftsmanship
+Nuance_EN: Refers to manual skills or craftsmanship, especially in arts, cooking, or traditional trades. Often implies practical experience and dexterity.
+Nuance_CN: 指手工技艺，如木工、烹饪、手工艺等，强调实践经验和灵巧度。
+Example1: 他的木匠手艺是跟爷爷学的。
+Example1_EN: He learned his carpentry skills from his grandfather.
+Example2: 妈妈做的菜手艺一流，大家都夸。
+Example2_EN: Mom's cooking skills are top-notch; everyone praises her.
+Example3: 这种传统手艺快要失传了。
+Example3_EN: This traditional craftsmanship is on the verge of being lost.
+
+===word: 不留你了===
+Meaning: won't keep you any longer
+Nuance_EN: A polite phrase used when seeing a guest off, indicating the host is not insisting the guest stay. Common in social farewells, especially after a visit.
+Nuance_CN: 送客时的客气话，表示不再挽留，暗示客人可以离开。常用于拜访结束时的告别。
+Example1: 天不早了，我就不留你了，路上小心。
+Example1_EN: It's getting late; I won't keep you any longer. Take care on the way.
+Example2: 谢谢你来串门，不留你了，改天再聚。
+Example2_EN: Thanks for visiting. I won't keep you—let's meet again another day.
+Example3: 既然你还有事，我就不留你了。
+Example3_EN: Since you still have things to do, I won't keep you.
+
+===word: 放鞭炮===
+Meaning: set off firecrackers
+Nuance_EN: A traditional activity during Chinese festivals, especially Spring Festival, to celebrate and drive away evil spirits. The phrase is literal and common.
+Nuance_CN: 中国节日（尤其是春节）的传统习俗，通过燃放鞭炮庆祝并驱邪。这是常见的书面和口语表达。
+Example1: 除夕夜，家家户户都在放鞭炮。
+Example1_EN: On New Year's Eve, every household sets off firecrackers.
+Example2: 城市里很多地方禁止放鞭炮，为了安全。
+Example2_EN: Many places in the city forbid setting off firecrackers for safety reasons.
+Example3: 孩子们最喜欢放鞭炮，但要注意防火。
+Example3_EN: Children love setting off firecrackers, but they need to be careful about fire.
+
+===word: 除夕===
+Meaning: Chinese New Year's Eve
+Nuance_EN: Refers to the evening of the last day of the lunar year, the most important family gathering time before Spring Festival. Customs include reunion dinner and staying up late.
+Nuance_CN: 农历腊月最后一天的晚上，是春节前最重要的家庭团聚时刻，有吃年夜饭、守岁等习俗。
+Example1: 除夕晚上我们全家一起吃年夜饭。
+Example1_EN: On New Year's Eve, our whole family has the reunion dinner together.
+Example2: 除夕夜看春晚是很多中国人的习惯。
+Example2_EN: Watching the Spring Festival Gala on New Year's Eve is a custom for many Chinese.
+Example3: 除夕零点，大家会放鞭炮庆祝新年。
+Example3_EN: At midnight on New Year's Eve, people set off firecrackers to celebrate the new year.
+
+===word: 牙医===
+Meaning: dentist
+Nuance_EN: Standard term for a dentist. Used in both formal and informal settings.
+Nuance_CN: 牙科医生的标准称呼，适用于正式和非正式场合。
+Example1: 我牙疼，明天要去看牙医。
+Example1_EN: I have a toothache; I need to see the dentist tomorrow.
+Example2: 牙医建议我每天用牙线清洁牙齿。
+Example2_EN: The dentist advised me to floss every day.
+Example3: 他当了十年牙医，经验丰富。
+Example3_EN: He has been a dentist for ten years and has rich experience.
+
+===word: 相等===
+Meaning: equal, equivalent
+Nuance_EN: Mathematical or formal term for equality. Less common in everyday speech; more often used in technical or abstract contexts.
+Nuance_CN: 数学或正式用语，表示数量、价值或程度相同。日常生活中不如“一样”常用。
+Example1: 这两个数相等，都是五。
+Example1_EN: These two numbers are equal; both are five.
+Example2: 权利和义务应该是相等的。
+Example2_EN: Rights and obligations should be equal.
+Example3: 他们的地位并不相等。
+Example3_EN: Their statuses are not equal.
+
+===word: 校对===
+Meaning: proofread, collate
+Nuance_EN: Refers to checking text for errors or comparing documents. Common in publishing, academia, and office work.
+Nuance_CN: 指检查文字错误或核对文稿，常用于出版、学术和办公场景。
+Example1: 他负责校对这本书的排版错误。
+Example1_EN: He is responsible for proofreading the layout errors in this book.
+Example2: 请校对一下这份合同，看看有没有问题。
+Example2_EN: Please proofread this contract and see if there are any issues.
+Example3: 校对工作需要极大的耐心和细心。
+Example3_EN: Proofreading requires great patience and attention to detail.
+
+===word: 丰年===
+Meaning: prosperous year, bumper harvest year
+Nuance_EN: A poetic or traditional term for a year with abundant harvest or good fortune. Often used in agricultural or celebratory contexts.
+Nuance_CN: 指农作物丰收或运气好的年份，带有传统色彩，常用于农业或祝福语境。
+Example1: 今年风调雨顺，是个丰年。
+Example1_EN: This year has favorable weather; it's a bumper harvest year.
+Example2: 瑞雪兆丰年，明年一定有好收成。
+Example2_EN: Auspicious snow heralds a prosperous year; next year will surely have a good harvest.
+Example3: 农民们都盼望着丰年。
+Example3_EN: Farmers all look forward to a prosperous year.
+
+===word: 时间表===
+Meaning: schedule, timetable
+Nuance_EN: Commonly used for schedules in school, work, transport, etc. Plain and neutral.
+Nuance_CN: 表示时间安排表，常用于学校课表、工作日程或交通时刻表。
+Example1: 这是本周的课程时间表。
+Example1_EN: This is this week's class schedule.
+Example2: 请按照时间表完成项目任务。
+Example2_EN: Please complete the project tasks according to the schedule.
+Example3: 火车时间表有了新调整。
+Example3_EN: The train timetable has been adjusted.
+
+===word: 爱好者===
+Meaning: enthusiast, fan, lover (of art, sports, etc.)
+Nuance_EN: Someone who is very interested or passionate about a hobby or activity. Positive and neutral.
+Nuance_CN: 指对某种活动或领域有浓厚兴趣的人，态度积极。
+Example1: 他是摄影爱好者，每年都去野外拍摄。
+Example1_EN: He's a photography enthusiast; he goes outdoors to take photos every year.
+Example2: 这些音乐爱好者组成了一个俱乐部。
+Example2_EN: These music lovers formed a club.
+Example3: 足球爱好者们正在看比赛直播。
+Example3_EN: Football fans are watching the live broadcast of the match.
+
+===word: 英明===
+Meaning: wise, brilliant (usually of decisions or leaders)
+Nuance_EN: Used to describe leaders, decisions, or policies that are intelligent and far-sighted. Formal or respectful tone.
+Nuance_CN: 形容决策或领导人明智、有远见，带有敬重或褒义色彩，常用于正式场合。
+Example1: 领导做出了一个英明的决定。
+Example1_EN: The leader made a wise decision.
+Example2: 大家都称赞他英明的指挥。
+Example2_EN: Everyone praised his brilliant command.
+Example3: 这个英明的政策让国家快速发展。
+Example3_EN: This wise policy made the country develop rapidly.
+
+===word: 误解===
+Meaning: misunderstand, misread
+Nuance_EN: Common verb for misunderstanding someone's words or intentions. Can be used in both mild and serious contexts.
+Nuance_CN: 常用动词，指错误理解他人的话或意图，语气可轻可重。
+Example1: 你误解了我的意思，我并没有生气。
+Example1_EN: You misunderstood me; I wasn't angry.
+Example2: 他们之间的误会起源于一个误解。
+Example2_EN: The misunderstanding between them originated from a misreading.
+Example3: 请不要误解，我是在帮你。
+Example3_EN: Please don't misunderstand; I'm helping you.
+
+===word: 照亮===
+Meaning: illuminate, light up
+Nuance_EN: Literal and metaphorical use. Commonly used for light shining on something or someone bringing hope/guidance.
+Nuance_CN: 字面义为“用光照射”，引申义为“带来光明或希望”，常用于描写或抒情。
+Example1: 月亮照亮了小路。
+Example1_EN: The moon illuminated the path.
+Example2: 她的笑容照亮了整个房间。
+Example2_EN: Her smile lit up the whole room.
+Example3: 知识照亮了我们的未来。
+Example3_EN: Knowledge illuminates our future.
+
+===word: 知心===
+Meaning: caring, intimate (as in confidant)
+Nuance_EN: Describes a close and understanding relationship, especially between friends who share innermost thoughts. Often used in "知心朋友" (bosom friend).
+Nuance_CN: 形容彼此了解、心意相通的关系，常用于“知心朋友”，表示可以分享秘密的亲密朋友。
+Example1: 她是我最知心的朋友，什么都能聊。
+Example1_EN: She is my most intimate friend; we can talk about anything.
+Example2: 有一个知心伴侣是人生幸事。
+Example2_EN: Having a caring partner is a blessing in life.
+Example3: 知心的话儿说不完。
+Example3_EN: Words between confidants are endless.
+
+===word: 留心===
+Meaning: be careful, pay attention (to)
+Nuance_EN: To be attentive or watchful, often to avoid danger or notice details. Slightly formal/instructive tone.
+Nuance_CN: 表示小心注意，常用于提醒或警告，语气比“注意”更细致。
+Example1: 开车时一定要留心路况。
+Example1_EN: When driving, you must pay attention to road conditions.
+Example2: 他留心观察周围的变化。
+Example2_EN: He carefully observed the changes around him.
+Example3: 留心地上的水渍，别滑倒了。
+Example3_EN: Watch out for the water on the floor; don't slip.
+
+===word: 成人===
+Meaning: adult, grown-up
+Nuance_EN: Broad term for an adult (person over 18). Also used in compounds like “成人教育” (adult education). Neutral and formal.
+Nuance_CN: 指成年人（通常年满18岁），也是法律概念。可用于教育、权利等正式场合。
+Example1: 他今年十八岁，已经是一个成人了。
+Example1_EN: He is eighteen this year and is already an adult.
+Example2: 成人教育帮助很多人提升了学历。
+Example2_EN: Adult education helps many people improve their qualifications.
+Example3: 儿童票和成人票价格不一样。
+Example3_EN: Children's tickets and adult tickets have different prices.
+
+===word: 欢喜===
+Meaning: Happy, joyous, delighted
+Nuance_EN: 欢喜 is a common word for happiness, often used in literary or emotional contexts. It can be used as an adjective or verb, and is slightly more formal than 高兴.
+Nuance_CN: 欢喜表示内心的高兴和喜悦，常用于书面语或表达强烈情感，比“高兴”更正式一些。
+Example1: 他听到这个消息，心中十分欢喜。
+Example1_EN: He was very happy when he heard the news.
+Example2: 欢喜的心情难以言表。
+Example2_EN: The joyful mood is hard to express.
+Example3: 他们欢喜地迎接新年。
+Example3_EN: They welcomed the New Year with joy.
+
+===word: 少见===
+Meaning: Rare, unfamiliar, seldom seen
+Nuance_EN: 少见 means something is rarely seen or encountered, and can also imply unfamiliarity. It is often used to express surprise at something unusual.
+Nuance_CN: 少见表示很少见到或遇到，也可以指对某事物不熟悉。常用于表达罕见或出乎意料的情况。
+Example1: 这种鸟在北方很常见，但在南方却很少见。
+Example1_EN: This kind of bird is common in the north, but rarely seen in the south.
+Example2: 你居然不知道这个常识，真是少见。
+Example2_EN: You actually don't know this common knowledge, that's really rare.
+Example3: 这么热的天气在冬天里很少见。
+Example3_EN: Such hot weather is rarely seen in winter.
+
+===word: 经商===
+Meaning: Engage in business, trade
+Nuance_EN: 经商 refers to the act of doing business or trading. It is a formal term for commercial activities, often used in contexts of entrepreneurship or commerce.
+Nuance_CN: 经商指从事商业活动或贸易，是一个正式用语，常用于描述创业或商业行为。
+Example1: 他年轻时就开始经商，现在已经是成功的企业家。
+Example1_EN: He started doing business when he was young, and now he is a successful entrepreneur.
+Example2: 经商需要敏锐的市场洞察力。
+Example2_EN: Doing business requires keen market insight.
+Example3: 她决定辞去工作，专心经商。
+Example3_EN: She decided to quit her job and focus on business.
+
+===word: 一向是===
+Meaning: Always, consistently (in the past)
+Nuance_EN: 一向是 means "has always been" or "consistently" referring to a past period. It emphasizes a continuous state or habit up to now.
+Nuance_CN: 一向是表示从过去到现在一直如此，强调一贯性。常用于描述习惯或持续的状态。
+Example1: 他一向是个守时的人。
+Example1_EN: He has always been a punctual person.
+Example2: 这里一向是游客喜欢的地方。
+Example2_EN: This place has always been a favorite for tourists.
+Example3: 她一向是班上最努力的学生。
+Example3_EN: She has always been the most hardworking student in the class.
+
+===word: 手头===
+Meaning: On hand, in hand (cash)
+Nuance_EN: 手头 refers to what one currently has available, especially money or resources. Often used in financial contexts like "手头紧" (tight on cash).
+Nuance_CN: 手头指当前拥有的东西，特别是现金或资源。常用于财务语境，如“手头紧”。
+Example1: 我手头有点紧，这个月不能乱花钱。
+Example1_EN: I'm a bit tight on cash this month, so I can't spend recklessly.
+Example2: 他手头有很多工作要做。
+Example2_EN: He has a lot of work on hand.
+Example3: 请把手头的文件整理好。
+Example3_EN: Please organize the documents you have on hand.
+
+===word: 原处===
+Meaning: Original place, where it was before
+Nuance_EN: 原处 means the original location or position where something was. It is often used in instructions to put something back.
+Nuance_CN: 原处指原来的位置或地点，常用于指示将物品放回原处。
+Example1: 用完工具后请放回原处。
+Example1_EN: Please put the tools back where they were after use.
+Example2: 他离开座位后，把椅子推回原处。
+Example2_EN: After leaving his seat, he pushed the chair back to its original position.
+Example3: 书应该放在书架上原处。
+Example3_EN: The book should be placed back in its original spot on the shelf.
+
+===word: 动听===
+Meaning: Melodious, pleasant-sounding
+Nuance_EN: 动听 describes sounds that are pleasing to the ear, such as music or a voice. It is often used in literary or appreciative contexts.
+Nuance_CN: 动听形容声音悦耳，如音乐或嗓音。常用于文学或赞美语境。
+Example1: 她的歌声非常动听。
+Example1_EN: Her singing is very pleasant to listen to.
+Example2: 这首曲子旋律动听，令人陶醉。
+Example2_EN: The melody of this piece is melodious and intoxicating.
+Example3: 他讲的故事生动动听。
+Example3_EN: The story he told was vivid and pleasant to listen to.
+
+===word: 开关===
+Meaning: Switch, power switch
+Nuance_EN: 开关 is a general term for a switch that controls power or a circuit. It can refer to light switches, power buttons, etc.
+Nuance_CN: 开关是控制电源或电路的装置，如电灯开关、电源按钮等。
+Example1: 请把灯开关打开。
+Example1_EN: Please turn on the light switch.
+Example2: 这个开关控制整个房间的电源。
+Example2_EN: This switch controls the power for the entire room.
+Example3: 开关坏了，需要修理。
+Example3_EN: The switch is broken and needs repair.
+
+===word: 联想===
+Meaning: Associate, mental association
+Nuance_EN: 联想 means to connect ideas or things in the mind. It is also the name of a famous Chinese computer company (Lenovo), but here it's the verb/noun.
+Nuance_CN: 联想指在脑海中将不同事物联系起来。也是知名电脑品牌“联想”的名称。
+Example1: 看到这张照片，我联想起了童年。
+Example1_EN: Seeing this photo, I associated it with my childhood.
+Example2: 他的发言让人产生很多联想。
+Example2_EN: His speech gave rise to many associations.
+Example3: 联想是一种重要的思维方式。
+Example3_EN: Association is an important way of thinking.
+
+===word: 本地人===
+Meaning: Local person, native
+Nuance_EN: 本地人 refers to a person who is native to a particular place, as opposed to a visitor or immigrant.
+Nuance_CN: 本地人指在当地出生或长期居住的人，与外地人相对。
+Example1: 他是本地人，对这里很熟悉。
+Example1_EN: He is a local, so he knows this place well.
+Example2: 这家餐厅只有本地人才知道。
+Example2_EN: This restaurant is only known to locals.
+Example3: 本地人通常比较热情好客。
+Example3_EN: Locals are usually warm and hospitable.
+
+===word: 通行===
+Meaning: Pass through, passage
+Nuance_EN: 通行 means to pass through or to be allowed to pass. It can also refer to a general practice or currency (e.g., 通行证).
+Nuance_CN: 通行指通过或允许通过，也可指普遍做法或通行证。
+Example1: 这条路禁止车辆通行。
+Example1_EN: This road is closed to vehicles.
+Example2: 请出示通行证。
+Example2_EN: Please show your pass.
+Example3: 这种说法在学术界很通行。
+Example3_EN: This view is widely accepted in academia.
+
+===word: 劳驾===
+Meaning: Excuse me, please
+Nuance_EN: 劳驾 is a polite expression used to get someone's attention or to ask for a favor, similar to "excuse me" or "may I trouble you".
+Nuance_CN: 劳驾是礼貌用语，用于请求别人帮忙或引起注意，相当于“麻烦您”。
+Example1: 劳驾，请问地铁站在哪里？
+Example1_EN: Excuse me, where is the subway station?
+Example2: 劳驾您帮我拿一下这个包。
+Example2_EN: May I trouble you to hold this bag for me?
+Example3: 劳驾，请让一让。
+Example3_EN: Excuse me, please move aside.
+
+===word: 市中心===
+Meaning: City center, downtown
+Nuance_EN: 市中心 refers to the central area of a city, usually the commercial and cultural hub.
+Nuance_CN: 市中心指城市的中心区域，通常是商业和文化中心。
+Example1: 我们住在市中心，交通很方便。
+Example1_EN: We live in the city center, so transportation is very convenient.
+Example2: 市中心有很多高楼大厦。
+Example2_EN: There are many skyscrapers in the city center.
+Example3: 周末去市中心逛街吧。
+Example3_EN: Let's go shopping in the city center this weekend.
+
+===word: 全票===
+Meaning: Full-price ticket
+Nuance_EN: 全票 means a ticket sold at full price, as opposed to a discounted ticket (半票).
+Nuance_CN: 全票指按原价出售的票，与半票相对。
+Example1: 成人需要购买全票。
+Example1_EN: Adults need to buy full-price tickets.
+Example2: 全票的价格是半票的两倍。
+Example2_EN: The full-price ticket is twice the price of a half-price ticket.
+Example3: 儿童可以买半票，不用买全票。
+Example3_EN: Children can buy half-price tickets, no need for full-price.
+
+===word: 半票===
+Meaning: Half-price ticket
+Nuance_EN: 半票 is a ticket sold at half price, often for children, students, or seniors.
+Nuance_CN: 半票指半价票，通常适用于儿童、学生或老人。
+Example1: 学生可以凭学生证购买半票。
+Example1_EN: Students can buy half-price tickets with a student ID.
+Example2: 半票和全票的座位是一样的。
+Example2_EN: Half-price tickets and full-price tickets have the same seats.
+Example3: 这个景点对老年人实行半票优惠。
+Example3_EN: This scenic spot offers half-price tickets for seniors.
+
+===word: 出卖===
+Meaning: Sell, betray
+Nuance_EN: 出卖 has two meanings: to sell (goods) and to betray (a person or cause). The betrayal sense is stronger and negative.
+Nuance_CN: 出卖有两个意思：出售商品，或背叛他人或事业。背叛义更强烈且负面。
+Example1: 他出卖了自己的朋友。
+Example1_EN: He betrayed his friend.
+Example2: 这家店出卖各种手工艺品。
+Example2_EN: This shop sells various handicrafts.
+Example3: 出卖国家利益是不可饶恕的。
+Example3_EN: Betraying national interests is unforgivable.
+
+===word: 跟不上===
+Meaning: Cannot keep up with
+Nuance_EN: 跟不上 means to be unable to match the pace or level of something or someone. Often used in learning or physical contexts.
+Nuance_CN: 跟不上指无法跟上某事物或某人的速度或水平，常用于学习或体力方面。
+Example1: 他学习跟不上班上的进度。
+Example1_EN: He can't keep up with the class progress.
+Example2: 我跑步跟不上他。
+Example2_EN: I can't keep up with him in running.
+Example3: 时代变化太快，老人跟不上。
+Example3_EN: Times change so fast that the elderly can't keep up.
+
+===word: 好运===
+Meaning: Good luck
+Nuance_EN: 好运 means good fortune or luck. It is often used in wishes.
+Nuance_CN: 好运指好的运气，常用于祝福。
+Example1: 祝你好运！
+Example1_EN: Good luck to you!
+Example2: 他最近好运连连。
+Example2_EN: He has been having a streak of good luck recently.
+Example3: 好运总是眷顾努力的人。
+Example3_EN: Good luck always favors the hardworking.
+
+===word: 着手===
+Meaning: Start on, begin (a task)
+Nuance_EN: 着手 means to begin working on something, often a project or task. It implies taking the first steps.
+Nuance_CN: 着手指开始进行某项工作或任务，强调采取初步行动。
+Example1: 他们着手准备明年的计划。
+Example1_EN: They started preparing for next year's plan.
+Example2: 警察着手调查这起案件。
+Example2_EN: The police began investigating this case.
+Example3: 我们应该尽快着手解决问题。
+Example3_EN: We should start solving the problem as soon as possible.
+
+===word: 万一===
+Meaning: Just in case, if by any chance
+Nuance_EN: 万一 expresses a hypothetical situation, often a precaution against a possible but unlikely event. It is used to suggest being prepared.
+Nuance_CN: 万一表示假设的情况，通常是对可能但不一定发生的事件做准备，相当于“如果发生意外”。
+Example1: 带上伞，万一下雨呢。
+Example1_EN: Take an umbrella, just in case it rains.
+Example2: 万一他不同意，我们还有备用方案。
+Example2_EN: If by any chance he disagrees, we have a backup plan.
+Example3: 万一迷路了，就打电话给我。
+Example3_EN: If you get lost by any chance, call me.
+
+===word: 求爱===
+Meaning: woo, court, romance
+Nuance_EN: This verb specifically refers to the act of trying to win someone's romantic affection, often through direct gestures or proposals. It is fairly formal and literary, less common in casual conversation.
+Nuance_CN: 这个词通常指主动表达爱意、追求对方的行为，语气比较正式，多用于书面或浪漫场合，口语中较少用。
+Example1: 他在校园里公开求爱，让所有人都很惊讶。
+Example1_EN: He publicly wooed her on campus, surprising everyone.
+Example2: 电影里男主角用鲜花和情书向女主角求爱。
+Example2_EN: In the movie, the male lead wooed the female lead with flowers and love letters.
+Example3: 那个年代，求爱的方式比现在含蓄得多。
+Example3_EN: In those days, the way of wooing was much more reserved than it is now.
+
+===word: 时装===
+Meaning: fashion, fashionable clothing
+Nuance_EN: Refers to the latest style of clothing, often associated with high fashion or seasonal trends. It is a neutral term used in both formal and informal contexts.
+Nuance_CN: 指最新潮流的服装，尤其是季节性的流行款式，可用于时尚产业或日常谈论穿着。
+Example1: 她每年都会买几件最新款的时装。
+Example1_EN: She buys a few of the latest fashions every year.
+Example2: 这家店专营高端时装，价格不菲。
+Example2_EN: This store specializes in high-end fashion and is very expensive.
+Example3: 时装设计师每年都会发布新的系列。
+Example3_EN: Fashion designers release new collections every year.
+
+===word: 成名===
+Meaning: become famous, make a name
+Nuance_EN: This verb describes the process of gaining fame or recognition, often in a specific field. It is neutral and can be used for positive or negative contexts.
+Nuance_CN: 指在某个领域获得名声或知名度，语气中性，可用于各种成就或事件。
+Example1: 他因为一首歌而一夜成名。
+Example1_EN: He became famous overnight because of a song.
+Example2: 很多演员成名后生活变得复杂。
+Example2_EN: Many actors' lives become complicated after they become famous.
+Example3: 她立志要成名，每天都在努力练习。
+Example3_EN: She aspired to become famous and practiced hard every day.
+
+===word: 要么===
+Meaning: either...or, or else
+Nuance_EN: Used to present two alternatives or choices, often in a conditional or decisive tone. It is common in both spoken and written Chinese.
+Nuance_CN: 表示两者选一，语气较直接，常用于口语和书面语，有时带有“非此即彼”的意味。
+Example1: 要么你道歉，要么我们就分手。
+Example1_EN: Either you apologize, or we break up.
+Example2: 周末要么去爬山，要么在家休息。
+Example2_EN: This weekend, either go hiking or stay home and rest.
+Example3: 要么现在做，要么永远不做。
+Example3_EN: Either do it now, or never do it.
+
+===word: 剩下===
+Meaning: remain, left over, leftover
+Nuance_EN: Indicates what is left after something has been used, taken, or removed. It is a common verb used in both concrete and abstract contexts.
+Nuance_CN: 指经过使用、消耗或排除后留下的部分，常用于日常对话和书面语。
+Example1: 冰箱里只剩下一个鸡蛋了。
+Example1_EN: There is only one egg left in the fridge.
+Example2: 吃完饭后，桌上剩下一些菜。
+Example2_EN: After the meal, some dishes were left on the table.
+Example3: 剩下的时间不多了，我们得抓紧。
+Example3_EN: There is not much time left; we need to hurry.
+
+===word: 午觉===
+Meaning: afternoon nap, siesta
+Nuance_EN: Refers to a short sleep taken after lunch, common in Chinese culture. It is a colloquial term used in everyday conversation.
+Nuance_CN: 指中午或午饭后的小睡，是日常口语词，在中国文化中很常见。
+Example1: 他每天中午都要睡个午觉。
+Example1_EN: He takes an afternoon nap every day.
+Example2: 睡午觉能让人下午更有精神。
+Example2_EN: Taking a nap can make you more energetic in the afternoon.
+Example3: 今天中午太忙了，没时间睡午觉。
+Example3_EN: I was too busy at noon today to take a nap.
+
+===word: 指望===
+Meaning: hope for, count on, expect
+Nuance_EN: This verb expresses reliance on someone or something to fulfill a wish or need. It often carries a nuance of expectation, sometimes with disappointment if unmet.
+Nuance_CN: 表示把希望寄托在某人或某事上，常带有期待或依赖的意味，有时隐含失望的可能。
+Example1: 别指望他能按时完成，他一向拖拖拉拉。
+Example1_EN: Don't count on him to finish on time—he's always procrastinating.
+Example2: 她指望这笔奖金来支付学费。
+Example2_EN: She is counting on this bonus to pay for her tuition.
+Example3: 指望天气变好，不如自己带把伞。
+Example3_EN: Rather than hoping for good weather, it's better to bring an umbrella.
+
+===word: 刮脸===
+Meaning: shave (one's face)
+Nuance_EN: Specifically refers to shaving facial hair, typically for men. It is a common verb in daily grooming context.
+Nuance_CN: 专指刮掉脸上的胡须，是男士日常修饰用语，口语常用。
+Example1: 他每天早上都要刮脸才能出门。
+Example1_EN: He shaves his face every morning before going out.
+Example2: 刮脸时要注意别刮伤皮肤。
+Example2_EN: Be careful not to cut your skin when shaving.
+Example3: 他用电动剃须刀刮脸，又快又方便。
+Example3_EN: He uses an electric razor to shave, which is fast and convenient.
+
+===word: 步行===
+Meaning: walk, go on foot
+Nuance_EN: This verb emphasizes traveling by walking rather than any vehicle. It is a formal or neutral term, often used in written instructions or travel contexts.
+Nuance_CN: 指用脚走路，不借助交通工具，较正式，常用于行程说明或健康建议。
+Example1: 学校离我家很近，我每天步行上学。
+Example1_EN: My school is very close to my home, so I walk to school every day.
+Example2: 步行半小时可以到达地铁站。
+Example2_EN: It takes half an hour on foot to reach the subway station.
+Example3: 医生建议他每天步行锻炼身体。
+Example3_EN: The doctor advised him to walk every day for exercise.
+
+===word: 立志===
+Meaning: set one's mind, be determined, aspire
+Nuance_EN: This formal verb describes making a firm resolution or setting a life goal, often with moral purpose or long-term commitment. It is used in written or serious contexts.
+Nuance_CN: 指下定决心要达成某个目标，通常带有道德或理想色彩，语气正式，多用于书面语。
+Example1: 他从小立志要当一名医生。
+Example1_EN: He set his mind on becoming a doctor since childhood.
+Example2: 她立志要改变家乡的贫困面貌。
+Example2_EN: She aspired to change the poverty of her hometown.
+Example3: 年轻人应当立志高远，脚踏实地。
+Example3_EN: Young people should aim high and stay grounded.
+
+===word: 河流===
+Meaning: river
+Nuance_EN: Refers to a natural watercourse, typically larger than a stream. It is a common neutral noun used in geography and everyday language.
+Nuance_CN: 指天然的水道，一般比溪流大，是地理和日常用语中的常见词。
+Example1: 这条河流经过三个省份。
+Example1_EN: This river flows through three provinces.
+Example2: 河流两岸种满了柳树。
+Example2_EN: The banks of the river are lined with willow trees.
+Example3: 保护河流的生态环境非常重要。
+Example3_EN: It is very important to protect the ecological environment of rivers.
+
+===word: 装备===
+Meaning: equipment, gear, to equip
+Nuance_EN: As a noun, it refers to tools, devices, or gear needed for a specific activity. As a verb, it means to provide with such items. Common in technical and military contexts.
+Nuance_CN: 作名词指所需器材或设备，作动词指配备这些物品，常用于军事、体育、户外等领域。
+Example1: 登山前要检查好所有的装备。
+Example1_EN: Check all the equipment before climbing.
+Example2: 这家公司为员工装备了最新的电脑。
+Example2_EN: This company equipped its employees with the latest computers.
+Example3: 消防员的装备非常沉重。
+Example3_EN: Firefighters' gear is very heavy.
+
+===word: 试图===
+Meaning: attempt, try
+Nuance_EN: This verb emphasizes making an effort to do something, often with a deliberate or planned intention. It is neutral and common in formal writing.
+Nuance_CN: 表示努力尝试去做某事，常带有明确意图，语气较正式，书面语常用。
+Example1: 他试图打开那扇门，但钥匙打不开。
+Example1_EN: He tried to open the door, but the key wouldn't work.
+Example2: 科学家试图找到治疗这种疾病的方法。
+Example2_EN: Scientists are attempting to find a cure for this disease.
+Example3: 不要试图改变别人的想法，那很难。
+Example3_EN: Don't try to change other people's minds—it's very difficult.
+
+===word: 和好===
+Meaning: reconcile, become reconciled
+Nuance_EN: This verb describes the act of ending a conflict or disagreement and restoring friendly relations. It is used for both personal and group relationships.
+Nuance_CN: 指结束争吵或矛盾，恢复友好关系，常用于人际关系或团体之间。
+Example1: 吵架之后，他们很快就和好了。
+Example1_EN: After the quarrel, they soon reconciled.
+Example2: 双方都愿意和好，问题就解决了。
+Example2_EN: Both sides were willing to reconcile, so the problem was solved.
+Example3: 他主动道歉，希望能和好朋友和好。
+Example3_EN: He apologized proactively, hoping to reconcile with his good friend.
+
+===word: 动力===
+Meaning: power, motivation, force
+Nuance_EN: This word can refer to mechanical power (e.g., engine power) or abstract motivation that drives action. It is common in technical and motivational contexts.
+Nuance_CN: 可指物理上的力量（如机器动力），也可指心理上的推动力（如动力、激励），使用范围很广。
+Example1: 这台机器的动力来自电力。
+Example1_EN: The power of this machine comes from electricity.
+Example2: 家人的支持是他努力工作的动力。
+Example2_EN: His family's support is the motivation for his hard work.
+Example3: 缺乏动力是很多人减肥失败的原因。
+Example3_EN: Lack of motivation is the reason many people fail to lose weight.
+
+===word: 总和===
+Meaning: sum total, aggregate
+Nuance_EN: A mathematical or statistical term for the result of adding all parts together. It is formal and precise.
+Nuance_CN: 数学或统计学术语，指所有部分相加的总和，语气正式，常用于数据和计算。
+Example1: 本月开支的总和超过了预算。
+Example1_EN: The total expenses this month exceeded the budget.
+Example2: 团队得分的总和决定了胜负。
+Example2_EN: The sum of the team's scores determines the winner.
+Example3: 这些数字的总和是五百。
+Example3_EN: The sum of these numbers is five hundred.
+
+===word: 前任===
+Meaning: predecessor, former, ex-
+Nuance_EN: Refers to a person who previously held a position or relationship (e.g., ex-boyfriend, former leader). It is neutral and can be used in both formal and informal contexts.
+Nuance_CN: 指之前担任某个职务或处于某种关系的人，如“前任领导”、“前任女友”，语气中性。
+Example1: 他的前任是一位非常严厉的经理。
+Example1_EN: His predecessor was a very strict manager.
+Example2: 她偶尔还会和前任联系。
+Example2_EN: She occasionally still contacts her ex.
+Example3: 前任总统在退休后写了一本书。
+Example3_EN: The former president wrote a book after retirement.
+
+===word: 首相===
+Meaning: prime minister (of Japan, UK, etc.)
+Nuance_EN: Specifically refers to the head of government in countries like Japan, the UK, or other parliamentary systems. In Chinese, it is used for certain foreign leaders, not for China's premier.
+Nuance_CN: 特指日本、英国等国家的政府首脑，区别于中国的“总理”，是外交和政治术语。
+Example1: 日本首相发表了重要讲话。
+Example1_EN: The Prime Minister of Japan made an important speech.
+Example2: 英国首相在议会中回答质询。
+Example2_EN: The British Prime Minister answers questions in Parliament.
+Example3: 首相的任期通常为四年。
+Example3_EN: The prime minister's term is usually four years.
+
+===word: 种子选手===
+Meaning: seeded player, top seed
+Nuance_EN: In sports tournaments, a player who is given a high ranking based on past performance, often placed in a bracket to avoid early elimination. Common in tennis, badminton, etc.
+Nuance_CN: 体育比赛中根据以往成绩被列为种子位置的选手，通常实力较强，常用于网球、羽毛球等赛事。
+Example1: 他是本次比赛的二号种子选手。
+Example1_EN: He is the second seed in this tournament.
+Example2: 种子选手往往在首轮轮空。
+Example2_EN: Seeded players often get a bye in the first round.
+Example3: 这位种子选手意外地输给了无名小将。
+Example3_EN: This seeded player unexpectedly lost to an unknown young player.
+
+===word: 优先===
+Meaning: priority, precedence
+Nuance_EN: Indicates that something is given more importance or treated before others. It is used in both formal and informal contexts, such as scheduling or resource allocation.
+Nuance_CN: 表示在次序或重要性上居于前列，可指时间、资源或权利上的优先，常见于工作、交通等场景。
+Example1: 公交车上有老人和孕妇优先座位。
+Example1_EN: There are priority seats for the elderly and pregnant women on the bus.
+Example2: 这个项目我们要优先处理。
+Example2_EN: We need to give priority to this project.
+Example3: 安全第一，其他事情都要优先考虑安全。
+Example3_EN: Safety first; everything else should give priority to safety.
+
+===word: 奖品===
+Meaning: prize, award, trophy
+Nuance_EN: Used for rewards in competitions, lotteries, or giveaways. More general than 奖杯 (trophy) and often material.
+Nuance_CN: 泛指在比赛、抽奖等活动中获得的奖励，可以是物品或金钱，语气中性。
+Example1: 这次比赛的一等奖品是一台笔记本电脑。
+Example1_EN: The first prize in this competition is a laptop computer.
+Example2: 她抽中了商场活动的奖品。
+Example2_EN: She won a prize in the mall’s promotion event.
+Example3: 这些奖品都是赞助商提供的。
+Example3_EN: These prizes are all provided by the sponsors.
+
+===word: 诚实===
+Meaning: honest, truthful
+Nuance_EN: Core virtue describing someone who doesn't lie or cheat. Used in both serious and casual contexts.
+Nuance_CN: 形容人不说谎、不欺骗，是重要的品德。常用于评价人的性格或行为。
+Example1: 诚实是最好的策略。
+Example1_EN: Honesty is the best policy.
+Example2: 他对自己的错误非常诚实。
+Example2_EN: He was very honest about his mistake.
+Example3: 我们需要一个诚实的合作伙伴。
+Example3_EN: We need an honest business partner.
+
+===word: 退休金===
+Meaning: pension, retirement pay
+Nuance_EN: Regular payment after retirement, usually from employer or government. Formal term.
+Nuance_CN: 指退休后定期领取的生活费用，来自单位或社保。常用于正式场合。
+Example1: 他每个月按时领取退休金。
+Example1_EN: He receives his pension on time every month.
+Example2: 退休金不够维持生活。
+Example2_EN: The pension is not enough to cover living expenses.
+Example3: 政府正在调整退休金制度。
+Example3_EN: The government is adjusting the pension system.
+
+===word: 领取===
+Meaning: to receive, to collect, to draw (benefits)
+Nuance_EN: Formal action of obtaining something you are entitled to, like a document, package, or pension.
+Nuance_CN: 正式地拿到应得的东西，如证件、包裹、退休金等。语气较正式。
+Example1: 请凭身份证到前台领取快递。
+Example1_EN: Please collect your parcel at the front desk with your ID.
+Example2: 退休后可以按月领取养老金。
+Example2_EN: After retirement, you can draw your pension monthly.
+Example3: 他在银行领取了新的信用卡。
+Example3_EN: He collected his new credit card at the bank.
+
+===word: 万圣洁===
+Meaning: Halloween (note: common spelling is 万圣节, but input uses 万圣洁)
+Nuance_EN: The Western holiday on October 31, known for costumes and trick-or-treating. Rare character 洁 (clean) instead of 节 (festival); possibly a typo in input.
+Nuance_CN: 西方节日，在10月31日，人们穿奇装异服、要糖果。注意：标准写法是“万圣节”，此处“万圣洁”可能是笔误。
+Example1: 万圣洁那天孩子们会去邻居家要糖果。
+Example1_EN: On Halloween, children go to neighbors' houses for candy.
+Example2: 我们准备了一个万圣洁派对。
+Example2_EN: We prepared a Halloween party.
+Example3: 万圣洁的传统包括雕刻南瓜灯。
+Example3_EN: Halloween traditions include carving jack-o'-lanterns.
+
+===word: 派对===
+Meaning: party (social gathering)
+Nuance_EN: Loanword from English "party", used for any social event with food, drinks, and fun. Neutral register.
+Nuance_CN: 从英语音译的词，指社交聚会。语气轻松，日常常用。
+Example1: 今晚有一个生日派对，你要来吗？
+Example1_EN: There's a birthday party tonight, would you like to come?
+Example2: 他们举办了一场热闹的派对。
+Example2_EN: They threw a lively party.
+Example3: 派对上有很多好吃的。
+Example3_EN: There was a lot of good food at the party.
+
+===word: 炫耀===
+Meaning: to show off, to flaunt
+Nuance_EN: Negative connotation; displaying wealth, ability, or achievements to impress others.
+Nuance_CN: 贬义，指刻意向别人展示自己的优势或拥有物，含有虚荣、显摆的意味。
+Example1: 他总喜欢炫耀自己的新车。
+Example1_EN: He always likes to show off his new car.
+Example2: 不要在人前炫耀你的成绩。
+Example2_EN: Don't flaunt your achievements in front of others.
+Example3: 她炫耀名牌包包的样子让人不舒服。
+Example3_EN: The way she flaunted her designer bag made people uncomfortable.
+
+===word: 化装派对===
+Meaning: fancy dress party, costume party
+Nuance_EN: A party where guests wear costumes, often themed. 化装 emphasizes makeup/disguise, while 化妆 is makeup. Common term.
+Nuance_CN: 需要穿特殊服装或化特殊妆容参加的派对，常见于万圣节或主题聚会。
+Example1: 这个周末有一个化装派对，主题是超级英雄。
+Example1_EN: There's a fancy dress party this weekend with a superhero theme.
+Example2: 她为化装派对准备了一套公主装。
+Example2_EN: She prepared a princess costume for the fancy dress party.
+Example3: 化装派对上的服装都很有创意。
+Example3_EN: The costumes at the fancy dress party were very creative.
+
+===word: 闪卡===
+Meaning: flashcards
+Nuance_EN: Educational tool with information on both sides, used for memorization. Loanword from "flashcard".
+Nuance_CN: 学习用的卡片，一面写问题，一面写答案，用于记忆单词、概念等。口语常用。
+Example1: 我用闪卡背英语单词。
+Example1_EN: I use flashcards to memorize English vocabulary.
+Example2: 这些闪卡练习数学公式很有用。
+Example2_EN: These flashcards are useful for practicing math formulas.
+Example3: 孩子喜欢自己制作闪卡。
+Example3_EN: Children enjoy making their own flashcards.
+
+===word: 购物车===
+Meaning: shopping cart, shopping trolley
+Nuance_EN: Cart used in supermarkets or online stores to hold items before checkout. Physical and virtual.
+Nuance_CN: 超市里推着选购商品的车辆，也指电商网站的“加入购物车”功能。
+Example1: 请把购物车推回原位。
+Example1_EN: Please return the shopping cart to its place.
+Example2: 我在网上把想买的东西都放进了购物车。
+Example2_EN: I put everything I want to buy into the online shopping cart.
+Example3: 购物车在超市门口排成一排。
+Example3_EN: The shopping carts are lined up at the supermarket entrance.
+
+===word: 熨斗===
+Meaning: iron (for clothes)
+Nuance_EN: Household appliance used to remove wrinkles from fabric. Very common word.
+Nuance_CN: 用来熨烫衣服的工具，需要插电加热。日常用语。
+Example1: 请用熨斗把衬衫熨平。
+Example1_EN: Please iron the shirt with the iron.
+Example2: 这个熨斗可以调节温度。
+Example2_EN: This iron has adjustable temperature.
+Example3: 她不小心把熨斗烫坏了衣服。
+Example3_EN: She accidentally burned the clothes with the iron.
+
+===word: 电脑程序===
+Meaning: computer program
+Nuance_EN: A set of instructions for a computer. Formal term; in everyday speech, 软件 (software) or 应用 (app) is more common.
+Nuance_CN: 计算机上运行的程序代码，较正式。日常会话中常说“软件”或“程序”。
+Example1: 他会编写电脑程序。
+Example1_EN: He can write computer programs.
+Example2: 这个电脑程序经常崩溃。
+Example2_EN: This computer program often crashes.
+Example3: 学习电脑程序需要耐心。
+Example3_EN: Learning computer programs requires patience.
+
+===word: 全职===
+Meaning: full-time (job/position)
+Nuance_EN: Opposite of 兼职 (part-time). Describes employment occupying standard working hours.
+Nuance_CN: 指按照规定时间全天工作的岗位，与兼职相对。常用于求职。
+Example1: 她找到了一份全职工作。
+Example1_EN: She found a full-time job.
+Example2: 全职员工享有带薪假期。
+Example2_EN: Full-time employees are entitled to paid leave.
+Example3: 我不想做全职，只想兼职。
+Example3_EN: I don't want to work full-time, just part-time.
+
+===word: 履历表===
+Meaning: resume, curriculum vitae (CV)
+Nuance_EN: A document listing education, work experience, and skills. Formal and professional.
+Nuance_CN: 写有个人经历、学历、技能等的表格，用于求职。正式用语。
+Example1: 请把履历表发到公司邮箱。
+Example1_EN: Please send your resume to the company email.
+Example2: 他的履历表很漂亮。
+Example2_EN: His resume looks impressive.
+Example3: 面试前要更新履历表。
+Example3_EN: Update your resume before the interview.
+
+===word: 猎头===
+Meaning: headhunter, executive recruiter
+Nuance_EN: A person or firm that recruits high-level talent for companies. Loanword.
+Nuance_CN: 专门为企业寻找高端人才的人或公司，属于人力资源行业。口语也直接用“猎头”。
+Example1: 猎头打电话挖他跳槽。
+Example1_EN: A headhunter called to poach him for a job change.
+Example2: 这家猎头公司专找IT高管。
+Example2_EN: This headhunting firm specializes in IT executives.
+Example3: 他被猎头推荐到了新公司。
+Example3_EN: He was recommended to a new company by a headhunter.
+
+===word: 少于===
+Meaning: less than, under (a number)
+Nuance_EN: Used to indicate a quantity that is smaller than a given number. Formal and neutral.
+Nuance_CN: 表示数量比某个数目少，正式用语。与“多于”相对。
+Example1: 参与人数少于一百。
+Example1_EN: The number of participants is less than one hundred.
+Example2: 他每月支出少于收入。
+Example2_EN: His monthly expenses are less than his income.
+Example3: 这个项目预算少于五十万。
+Example3_EN: The project budget is under five hundred thousand.
+
+===word: 形状===
+Meaning: shape, form
+Nuance_EN: The physical outline or figure of an object. Neutral, used for all objects.
+Nuance_CN: 物体呈现的外形或轮廓。常用，无感情色彩。
+Example1: 这个建筑形状很独特。
+Example1_EN: The shape of this building is very unique.
+Example2: 不同形状的饼干摆在盘子里。
+Example2_EN: Cookies of different shapes are arranged on the plate.
+Example3: 你能描述一下它的形状吗？
+Example3_EN: Can you describe its shape?
+
+===word: 矩形===
+Meaning: rectangle
+Nuance_EN: A four-sided shape with four right angles, opposite sides equal. Formal mathematical term.
+Nuance_CN: 几何图形，四个角都是直角的四边形。数学用语。
+Example1: 这个桌面是矩形的。
+Example1_EN: This tabletop is rectangular.
+Example2: 矩形面积等于长乘以宽。
+Example2_EN: The area of a rectangle equals length times width.
+Example3: 请画一个矩形框住文字。
+Example3_EN: Please draw a rectangle to enclose the text.
+
+===word: 用作===
+Meaning: to use as, to serve as
+Nuance_EN: Indicates the purpose or function of something. Formal, often in descriptions.
+Nuance_CN: 把某物当作另一种用途使用。较正式，常见于说明。
+Example1: 这个房间被用作办公室。
+Example1_EN: This room is used as an office.
+Example2: 旧报纸可以用作包装材料。
+Example2_EN: Old newspapers can be used as wrapping material.
+Example3: 这块空地暂时用作停车场。
+Example3_EN: This vacant lot is temporarily used as a parking lot.
+
+===word: 吞===
+Meaning: to swallow, to gulp down
+Nuance_EN: Move food/drink from mouth to stomach. Also metaphorically 'to take' (money, card) as in an ATM swallowing a card.
+Nuance_CN: 把东西咽下去，或指机器吞掉物品（如银行卡）。口语常用。
+Example1: 吃药时要先吞下水。
+Example1_EN: When taking medicine, you should swallow it with water.
+Example2: 这个小孩能一口吞下一个饺子。
+Example2_EN: This child can swallow a dumpling in one mouthful.
+Example3: 自动取款机把我的卡吞了。
+Example3_EN: The ATM swallowed my card.
+
+===word: 欧洲===
+Meaning: Europe
+Nuance_EN: Refers to the continent of Europe. Used in geography, politics, travel, and everyday conversation.
+Nuance_CN: 指欧洲大陆，常用于地理、政治、旅行等话题。
+Example1: 我明年想去欧洲旅行。
+Example1_EN: I want to travel to Europe next year.
+Example2: 欧洲有很多历史悠久的城市。
+Example2_EN: Europe has many cities with a long history.
+Example3: 这个品牌在欧洲很受欢迎。
+Example3_EN: This brand is very popular in Europe.
+
+===word: 番茄酱===
+Meaning: Ketchup; tomato sauce
+Nuance_EN: A condiment made from tomatoes. In everyday Chinese it usually means ketchup, especially for fries or burgers.
+Nuance_CN: 用番茄制成的调味酱，日常口语中多指吃薯条、汉堡时用的番茄酱。
+Example1: 请给我一包番茄酱。
+Example1_EN: Please give me a packet of ketchup.
+Example2: 他吃薯条的时候喜欢加很多番茄酱。
+Example2_EN: He likes to put a lot of ketchup on his fries.
+Example3: 这盘意大利面用的是新鲜番茄酱。
+Example3_EN: This plate of pasta uses fresh tomato sauce.
+
+===word: 怪兽===
+Meaning: Monster
+Nuance_EN: A large, frightening imaginary creature. Often used in movies, games, and children's stories.
+Nuance_CN: 指巨大而可怕的虚构生物，常见于电影、游戏和儿童故事中。
+Example1: 这部电影里有一只绿色的怪兽。
+Example1_EN: There is a green monster in this movie.
+Example2: 孩子说床底下有怪兽。
+Example2_EN: The child said there is a monster under the bed.
+Example3: 游戏里玩家需要打败各种怪兽。
+Example3_EN: In the game, players need to defeat various monsters.
+
+===word: 苍蝇===
+Meaning: Housefly; fly
+Nuance_EN: A common flying insect, often associated with dirt and disease. In Chinese, 苍蝇 can also be used metaphorically for annoying people.
+Nuance_CN: 一种常见的飞虫，常与脏乱和疾病联系在一起，有时也用来比喻讨厌的人。
+Example1: 有一只苍蝇在厨房里飞来飞去。
+Example1_EN: A fly is flying around in the kitchen.
+Example2: 夏天苍蝇特别多。
+Example2_EN: There are especially many flies in summer.
+Example3: 他像苍蝇一样一直跟着我，真烦。
+Example3_EN: He keeps following me like a fly; it's really annoying.
+
+===word: 害虫===
+Meaning: Pests; harmful insects
+Nuance_EN: Insects or animals that damage crops, property, or health. The opposite is 益虫 (beneficial insects).
+Nuance_CN: 指对农作物、财产或健康有害的昆虫或动物，与“益虫”相对。
+Example1: 农民正在想办法消灭害虫。
+Example1_EN: Farmers are trying to get rid of pests.
+Example2: 蚊子是一种常见的害虫。
+Example2_EN: Mosquitoes are a common pest.
+Example3: 这些农药可以防止害虫破坏庄稼。
+Example3_EN: These pesticides can prevent pests from damaging crops.
+
+===word: 上半部分===
+Meaning: Upper half; first half
+Nuance_EN: Refers to the top part of something, or the first half of a game, match, or event.
+Nuance_CN: 指某物的上半部分，或比赛、活动的前半段时间。
+Example1: 比赛的上半部分双方都没有进球。
+Example1_EN: Neither side scored in the first half of the match.
+Example2: 请把表格的上半部分填写完整。
+Example2_EN: Please fill in the upper half of the form completely.
+Example3: 这本书的上半部分比较枯燥，后面越来越精彩。
+Example3_EN: The first half of this book is rather boring, but it gets more and more exciting later.
+
+===word: 侦探===
+Meaning: Detective
+Nuance_EN: A person who investigates crimes, especially as a profession. Also common in mystery stories.
+Nuance_CN: 调查犯罪案件的人，尤指以此为职业的人，也常见于推理故事中。
+Example1: 这位侦探很快就找到了线索。
+Example1_EN: This detective quickly found a clue.
+Example2: 她喜欢看侦探小说。
+Example2_EN: She likes reading detective novels.
+Example3: 侦探正在调查那起盗窃案。
+Example3_EN: The detective is investigating that theft case.
+
+===word: 嫌疑犯===
+Meaning: Suspect
+Nuance_EN: A person suspected of committing a crime. More formal than 嫌疑人, often used in legal or news contexts.
+Nuance_CN: 被怀疑犯罪的人，比“嫌疑人”更正式，常用于法律或新闻语境。
+Example1: 警方已经逮捕了两名嫌疑犯。
+Example1_EN: The police have arrested two suspects.
+Example2: 他目前是这起案件的主要嫌疑犯。
+Example2_EN: He is currently the main suspect in this case.
+Example3: 嫌疑犯否认自己做过这件事。
+Example3_EN: The suspect denied doing it.
+
+===word: 跟踪===
+Meaning: Follow; tail; shadow
+Nuance_EN: To secretly follow someone to observe their movements. Can also mean tracking a package or progress.
+Nuance_CN: 暗中跟随某人以观察其行踪，也可指追踪包裹或进度。
+Example1: 他发现自己被人跟踪了。
+Example1_EN: He found that he was being followed.
+Example2: 警察跟踪那个可疑的人到了车站。
+Example2_EN: The police tailed that suspicious person to the station.
+Example3: 你可以在网上跟踪快递的物流信息。
+Example3_EN: You can track the logistics information of your package online.
+
+===word: 测试===
+Meaning: Test; trial; to test
+Nuance_EN: A test or trial to check quality, performance, or knowledge. Used in both technical and educational contexts.
+Nuance_CN: 为检查质量、性能或知识而进行的测试或试验，可用于技术或教育场景。
+Example1: 新软件正在测试中。
+Example1_EN: The new software is being tested.
+Example2: 明天我们有一个英语测试。
+Example2_EN: We have an English test tomorrow.
+Example3: 工程师对产品进行了严格的测试。
+Example3_EN: The engineers carried out strict tests on the product.
+
+===word: 性能===
+Meaning: Performance; capability
+Nuance_EN: The performance or capability of a machine, product, or system, such as speed, power, or efficiency.
+Nuance_CN: 机器、产品或系统的性能或能力，如速度、功率、效率等。
+Example1: 这款手机的性能非常好。
+Example1_EN: This phone's performance is very good.
+Example2: 买车时我最看重安全性能。
+Example2_EN: When buying a car, I care most about safety performance.
+Example3: 这台电脑的性能足以运行大型游戏。
+Example3_EN: This computer's performance is sufficient to run large games.
+
+===word: 轮胎===
+Meaning: Tire
+Nuance_EN: The rubber covering of a wheel, used for cars, bicycles, etc. In Chinese, 轮胎 is the general term.
+Nuance_CN: 车轮外层的橡胶制品，用于汽车、自行车等，是统称。
+Example1: 我的汽车轮胎需要打气了。
+Example1_EN: My car tire needs air.
+Example2: 这条路上有很多碎玻璃，小心轮胎被扎破。
+Example2_EN: There is a lot of broken glass on this road; be careful not to get a flat tire.
+Example3: 他正在换轮胎。
+Example3_EN: He is changing a tire.
+
+===word: 特产===
+Meaning: Local specialty; special product
+Nuance_EN: A product unique to a particular place, often food or handicrafts, commonly bought as souvenirs or gifts.
+Nuance_CN: 某个地方特有的产品，通常是食品或手工艺品，常被当作纪念品或礼物购买。
+Example1: 这家店卖的都是当地特产。
+Example1_EN: This shop sells local specialties.
+Example2: 我去旅行时喜欢买一些特产带回家。
+Example2_EN: When I travel, I like to buy some local specialties to bring home.
+Example3: 龙井茶是杭州的特产。
+Example3_EN: Longjing tea is a specialty of Hangzhou.
+
+===word: 不行的是===
+Meaning: Unfortunately; the bad thing is
+Nuance_EN: A colloquial phrase used to introduce a negative point or drawback after stating something positive. Similar to "the problem is..." or "unfortunately..."
+Nuance_CN: 口语表达，用于在说完积极的事情后引出负面或不利的一点，类似“问题是……”或“不幸的是……”。
+Example1: 这个计划很好，不行的是我们没时间。
+Example1_EN: This plan is good; unfortunately, we don't have time.
+Example2: 那家餐厅菜不错，不行的是太贵了。
+Example2_EN: That restaurant's food is good; the bad thing is it's too expensive.
+Example3: 我想去参加聚会，不行的是明天要早起。
+Example3_EN: I want to go to the party, but unfortunately I have to get up early tomorrow.
+
+===word: 总公司===
+Meaning: Head office; headquarters
+Nuance_EN: The main office or headquarters of a company, as opposed to branches.
+Nuance_CN: 公司的主要办公机构或总部，与分公司相对。
+Example1: 他在这家公司的总公司工作。
+Example1_EN: He works at the head office of this company.
+Example2: 这个决定需要总公司批准。
+Example2_EN: This decision needs approval from the head office.
+Example3: 总公司在北京，上海有分公司。
+Example3_EN: The head office is in Beijing, and there is a branch in Shanghai.
+
+===word: 惨===
+Meaning: Miserable; tragic
+Nuance_EN: Describes something very sad, unfortunate, or in a bad state. Can also mean "badly" in colloquial expressions.
+Nuance_CN: 形容非常悲伤、不幸或糟糕的状态，口语中也可表示“严重地”。
+Example1: 他这次考试考得很惨。
+Example1_EN: He did terribly on this exam.
+Example2: 那场事故的场面太惨了。
+Example2_EN: The scene of that accident was too tragic.
+Example3: 她的狗死了，她哭得很惨。
+Example3_EN: Her dog died, and she cried miserably.
+
+===word: 口是心非===
+Meaning: Hypocritical; insincere
+Nuance_EN: Describes someone whose words do not match their true thoughts. Often used to criticize insincerity.
+Nuance_CN: 形容一个人说的话和真实想法不一致，常用来批评人不真诚。
+Example1: 他嘴上说支持你，其实是口是心非。
+Example1_EN: He says he supports you, but he actually means the opposite.
+Example2: 我最讨厌口是心非的人。
+Example2_EN: I hate hypocritical people the most.
+Example3: 她口是心非地说“没关系”，其实心里很难过。
+Example3_EN: She hypocritically said "it's okay," but she was actually very sad inside.
+
+===word: 抽屉===
+Meaning: Drawer
+Nuance_EN: A sliding compartment in furniture, such as a desk or dresser, used for storage.
+Nuance_CN: 家具（如桌子、衣柜）中可拉出的储物格。
+Example1: 钥匙在书桌的抽屉里。
+Example1_EN: The key is in the desk drawer.
+Example2: 请把文件放进抽屉。
+Example2_EN: Please put the documents in the drawer.
+Example3: 这个抽屉有点紧，拉不开。
+Example3_EN: This drawer is a bit tight and won't open.
+
+===word: 通风===
+Meaning: Ventilate; ventilation
+Nuance_EN: To allow air to move through a space, or the process of air circulation. Also used in phrases like 通风口 (vent).
+Nuance_CN: 让空气在空间内流通，或指空气流通的过程，也可用于“通风口”等短语。
+Example1: 请打开窗户通通风。
+Example1_EN: Please open the window to let some air in.
+Example2: 这个房间通风不好，有点闷。
+Example2_EN: This room has poor ventilation; it's a bit stuffy.
+Example3: 厨房需要良好的通风。
+Example3_EN: The kitchen needs good ventilation.
+
+===word: 保姆===
+Meaning: Nanny; housekeeper
+Nuance_EN: A person hired to take care of children or do housework in a family. In Chinese, 保姆 often lives with the family or comes regularly.
+Nuance_CN: 受雇照顾孩子或做家务的人，在中国，保姆通常住在雇主家或定期来工作。
+Example1: 他们请了一个保姆照顾孩子。
+Example1_EN: They hired a nanny to take care of the children.
+Example2: 保姆每天下午来打扫卫生。
+Example2_EN: The housekeeper comes every afternoon to clean.
+Example3: 她在一户人家当保姆。
+Example3_EN: She works as a nanny for a family.
+
+===word: 雇主===
+Meaning: employer
+Nuance_EN: 雇主 refers to the person or entity that employs workers. It is a neutral, formal term used in workplaces.
+Nuance_CN: 雇主指雇佣他人劳动的人或单位，常用于工作场合，语气中性。
+Example1: 雇主应该按时支付员工工资。
+Example1_EN: Employers should pay employees on time.
+Example2: 这位雇主对员工很友善。
+Example2_EN: This employer is very friendly to employees.
+Example3: 许多雇主现在提供远程工作的机会。
+Example3_EN: Many employers now offer remote work opportunities.
+
+===word: 洗碗机===
+Meaning: dishwasher (machine)
+Nuance_EN: 洗碗机 is the common term for a dishwashing machine in daily life. It is a compound noun.
+Nuance_CN: 洗碗机指自动清洗餐具的机器，是日常家用电器。
+Example1: 我买了一台新的洗碗机。
+Example1_EN: I bought a new dishwasher.
+Example2: 洗碗机可以节省很多时间。
+Example2_EN: A dishwasher can save a lot of time.
+Example3: 这台洗碗机的噪音有点大。
+Example3_EN: This dishwasher is a bit noisy.
+
+===word: 烤箱===
+Meaning: oven
+Nuance_EN: 烤箱 is the standard word for an oven used for baking or roasting. It is common in kitchens.
+Nuance_CN: 烤箱用于烘烤食物，是常见的厨房电器。
+Example1: 我用烤箱烤了一个蛋糕。
+Example1_EN: I baked a cake in the oven.
+Example2: 这个烤箱温度控制很精准。
+Example2_EN: This oven has precise temperature control.
+Example3: 注意不要被烤箱烫到。
+Example3_EN: Be careful not to get burned by the oven.
+
+===word: 好好先生===
+Meaning: yes-man, someone who never disagrees
+Nuance_EN: 好好先生 is a figurative expression for a person who always agrees with others to avoid conflict, often implying lacking principles.
+Nuance_CN: 好好先生指一味迎合他人、不得罪人的人，常带贬义。
+Example1: 他总是一副好好先生的样子，其实没有主见。
+Example1_EN: He always acts like a yes-man, but actually has no opinions.
+Example2: 在工作中，不要做好好先生，要有自己的立场。
+Example2_EN: Don't be a yes-man at work; have your own stance.
+Example3: 大家都觉得他是个好好先生，但这样反而容易被人欺负。
+Example3_EN: Everyone thinks he's a nice guy who never says no, but that makes him easy to push around.
+
+===word: 就拿。。===
+Meaning: take (something) for example
+Nuance_EN: 就拿 is a colloquial phrase used to introduce an example, literally "just take". It is followed by the example noun and then 来说 or similar. Often used in spoken Chinese.
+Nuance_CN: “就拿…”是一个口语表达，用于举例说明，后面通常接“来说”或类似结构。
+Example1: 就拿他来说，他每天都运动。
+Example1_EN: Take him for example, he exercises every day.
+Example2: 就拿这个问题来说，我们需要认真思考。
+Example2_EN: Take this issue for example, we need to think carefully.
+Example3: 就拿做饭来说，她非常擅长。
+Example3_EN: Take cooking for example, she is very good at it.
+
+===word: 总部===
+Meaning: headquarters
+Nuance_EN: 总部 refers to the main office or central location of an organization, company, or institution. Formal.
+Nuance_CN: 总部指组织或公司的核心办公地点，多用于正式场合。
+Example1: 公司总部在北京。
+Example1_EN: The company headquarters is in Beijing.
+Example2: 总部决定在全球范围内裁员。
+Example2_EN: The headquarters decided to lay off employees globally.
+Example3: 这个组织的总部设在纽约。
+Example3_EN: The organization's headquarters is in New York.
+
+===word: 商务舱===
+Meaning: business class (on a plane)
+Nuance_EN: 商务舱 is the airline class between economy and first class. It is a standard term.
+Nuance_CN: 商务舱是飞机上介于经济舱和头等舱之间的舱位等级。
+Example1: 我出差时通常坐商务舱。
+Example1_EN: I usually fly business class for business trips.
+Example2: 商务舱的座位更宽敞。
+Example2_EN: Business class seats are more spacious.
+Example3: 买商务舱票可以享受优先登机。
+Example3_EN: Buying a business class ticket gives you priority boarding.
+
+===word: 不得不===
+Meaning: have to, cannot but
+Nuance_EN: 不得不 expresses necessity or compulsion, often with a sense of reluctance. It is a common pattern.
+Nuance_CN: “不得不”表示被迫或出于必要而做某事，带有无奈的语气。
+Example1: 我不得不加班完成这个项目。
+Example1_EN: I have to work overtime to finish this project.
+Example2: 由于天气不好，我们不得不取消旅行。
+Example2_EN: Due to bad weather, we had to cancel the trip.
+Example3: 他不得不承认自己的错误。
+Example3_EN: He had to admit his mistake.
+
+===word: 间接===
+Meaning: indirect, indirectly
+Nuance_EN: 间接 means not direct, often used for relationships, effects, or methods. Can be an adjective or adverb.
+Nuance_CN: “间接”指不直接的方式或关系，常用于描述影响、联系等。
+Example1: 这件事对他有间接的影响。
+Example1_EN: This matter has an indirect effect on him.
+Example2: 我们是通过朋友间接认识的。
+Example2_EN: We met indirectly through a friend.
+Example3: 他间接地表达了自己的不满。
+Example3_EN: He expressed his dissatisfaction indirectly.
+
+===word: 苗条===
+Meaning: slim, slender (body shape)
+Nuance_EN: 苗条 specifically describes a person's figure, especially for women, as slender and graceful. Positive connotation.
+Nuance_CN: “苗条”形容身材纤细、匀称，常用于女性，含褒义。
+Example1: 她身材很苗条。
+Example1_EN: She has a very slim figure.
+Example2: 通过运动保持苗条的身材。
+Example2_EN: Maintain a slim figure through exercise.
+Example3: 她苗条得让人羡慕。
+Example3_EN: She is enviably slender.
+
+===word: 胡说八道===
+Meaning: to talk nonsense, baloney
+Nuance_EN: 胡说八道 is a colloquial, somewhat strong expression meaning to speak nonsense or lies. Often used to dismiss what someone says.
+Nuance_CN: “胡说八道”是口语表达，指说话没有根据或乱说，略带责备。
+Example1: 别听他胡说八道。
+Example1_EN: Don't listen to his nonsense.
+Example2: 他总是在胡说八道。
+Example2_EN: He is always talking nonsense.
+Example3: 这种说法完全是胡说八道。
+Example3_EN: This statement is complete nonsense.
+
+===word: 游客===
+Meaning: tourist, visitor
+Nuance_EN: 游客 refers to people traveling for sightseeing or recreation. Neutral.
+Nuance_CN: “游客”指出外旅游、观光的人，中性词。
+Example1: 这个景点每年吸引大量游客。
+Example1_EN: This attraction attracts a large number of tourists every year.
+Example2: 游客们正在拍照留念。
+Example2_EN: The tourists are taking pictures as souvenirs.
+Example3: 我们要尊重当地的文化，做一个文明游客。
+Example3_EN: We should respect local culture and be civilized tourists.
+
+===word: 歉收===
+Meaning: poor harvest, crop failure
+Nuance_EN: 歉收 is a term used for agriculture meaning a reduced yield compared to normal, often due to weather or pests.
+Nuance_CN: “歉收”指农作物收成不好，常用词，中性偏负面。
+Example1: 今年因为干旱，粮食歉收。
+Example1_EN: This year due to drought, the grain harvest was poor.
+Example2: 歉收导致粮食价格上涨。
+Example2_EN: Poor harvest led to rising food prices.
+Example3: 农民们对歉收感到很无奈。
+Example3_EN: Farmers feel helpless about the poor harvest.
+
+===word: 短缺===
+Meaning: shortage, lack
+Nuance_EN: 短缺 is a formal word for a situation where there is not enough of something needed, e.g., resources, funds, personnel.
+Nuance_CN: “短缺”指所需之物不足，常用于物资、资金、人力等，较正式。
+Example1: 这个地区水资源短缺。
+Example1_EN: This region faces a water shortage.
+Example2: 公司面临人才短缺的问题。
+Example2_EN: The company faces a talent shortage.
+Example3: 由于材料短缺，生产被迫停止。
+Example3_EN: Production was forced to stop due to a shortage of materials.
+
+===word: 简历===
+Meaning: resume, CV
+Nuance_EN: 简历 is a document summarizing one's education, work experience, etc., used for job applications. Common.
+Nuance_CN: “简历”是求职时使用的个人履历文件，包含教育经历和工作经验等。
+Example1: 请把你的简历发给我。
+Example1_EN: Please send me your resume.
+Example2: 我在修改我的简历。
+Example2_EN: I am revising my resume.
+Example3: 简历要写得简洁明了。
+Example3_EN: A resume should be concise and clear.
+
+===word: 留下===
+Meaning: to leave behind, to stay behind
+Nuance_EN: 留下 can mean to leave something behind intentionally or unintentionally, or to remain in a place.
+Nuance_CN: “留下”表示将物品或人留在某处，或自己留下，常用词。
+Example1: 请留下你的联系方式。
+Example1_EN: Please leave your contact information.
+Example2: 他留下了深刻的印象。
+Example2_EN: He left a deep impression.
+Example3: 会议结束后，他留下了继续讨论。
+Example3_EN: After the meeting, he stayed behind to continue discussing.
+
+===word: 眼光===
+Meaning: gaze, insight, vision
+Nuance_EN: 眼光 has multiple meanings: literally "gaze" but more commonly "insight or taste" in judging things, e.g., "有眼光" means discerning.
+Nuance_CN: “眼光”可指视线，也常指对事物的判断力和见识，如“有眼光”。
+Example1: 他的眼光很独到。
+Example1_EN: He has unique insight.
+Example2: 她看人的眼光很准。
+Example2_EN: She has a good eye for people.
+Example3: 你的眼光不错，这画很贵。
+Example3_EN: You have good taste; this painting is expensive.
+
+===word: 稍微===
+Meaning: slightly, a little bit
+Nuance_EN: 稍微 is an adverb meaning to a small extent, often used with verbs or adjectives. Can be reduplicated as 稍微稍微.
+Nuance_CN: “稍微”表示程度轻微，常修饰动词或形容词，如“稍微等一下”。
+Example1: 请稍微等一下。
+Example1_EN: Please wait a moment.
+Example2: 汤稍微有点咸。
+Example2_EN: The soup is a little bit salty.
+Example3: 他稍微移动了一下椅子。
+Example3_EN: He moved the chair slightly.
+
+===word: 警方===
+Meaning: police (force/authorities)
+Nuance_EN: 警方 is a formal term for the police as an institution or authority, often used in news.
+Nuance_CN: “警方”指警察机关或警方人员，常用于新闻报道或正式场合。
+Example1: 警方正在调查这起案件。
+Example1_EN: The police are investigating this case.
+Example2: 警方呼吁市民提供线索。
+Example2_EN: The police appeal to the public for information.
+Example3: 警方已经逮捕了嫌疑人。
+Example3_EN: The police have arrested the suspect.
+
+===word: 逃犯===
+Meaning: fugitive, escaped criminal
+Nuance_EN: 逃犯 refers to a person who has escaped from custody or is running from the law. Formal/legal term.
+Nuance_CN: “逃犯”指逃脱法律制裁或越狱的罪犯，常用于法律或新闻报道。
+Example1: 警方正在通缉这名逃犯。
+Example1_EN: The police are wanted for this fugitive.
+Example2: 逃犯最终被抓获。
+Example2_EN: The fugitive was finally captured.
+Example3: 这个逃犯已经逃亡多年。
+Example3_EN: This fugitive has been on the run for years.
+
+===word: 闪===
+Meaning: flash, spark, lightning
+Nuance_EN: 闪 is a common verb meaning to flash or sparkle. It can also mean to dodge or evade, and in colloquial usage, to leave quickly.
+Nuance_CN: “闪”是一个常用动词，表示快速发光或闪烁。也可表示躲避或突然离开，口语中有时用于“闪人”（离开）。
+Example1: 闪电突然闪过天空。
+Example1_EN: Lightning suddenly flashed across the sky.
+Example2: 他快速闪到一边，躲过了汽车。
+Example2_EN: He quickly dodged to the side, avoiding the car.
+Example3: 时间不早了，我得闪了。
+Example3_EN: It's getting late, I have to go.
+
+===word: 落日===
+Meaning: setting sun
+Nuance_EN: 落日 is a poetic noun referring to the sun as it sets, often evoking a calm or melancholic mood.
+Nuance_CN: “落日”是一个富有诗意的名词，指西下的太阳，常带有宁静或感伤的意境。
+Example1: 海边的落日美得让人屏息。
+Example1_EN: The sunset by the sea is breathtakingly beautiful.
+Example2: 他在落日余晖中散步。
+Example2_EN: He took a walk in the afterglow of the setting sun.
+Example3: 这幅画描绘了山间的落日。
+Example3_EN: This painting depicts the setting sun among the mountains.
+
+===word: 剧烈===
+Meaning: intense, violent, fierce
+Nuance_EN: 剧烈 describes something with great force or intensity, often used for physical movements, conflicts, or changes.
+Nuance_CN: “剧烈”表示力度大、程度深，常用于形容运动、疼痛、变化或冲突等。
+Example1: 他感到一阵剧烈的头痛。
+Example1_EN: He felt a sharp, intense headache.
+Example2: 比赛进行得非常剧烈。
+Example2_EN: The match was extremely fierce.
+Example3: 剧烈的地震导致房屋倒塌。
+Example3_EN: The violent earthquake caused buildings to collapse.
+
+===word: 查获===
+Meaning: investigate and capture, hunt down and arrest
+Nuance_EN: 查获 is a formal verb used by authorities to mean tracking down and seizing criminals or contraband.
+Nuance_CN: “查获”是正式用词，指通过调查发现并抓获罪犯或查缴违禁品。
+Example1: 警方查获了大批毒品。
+Example1_EN: The police seized a large quantity of drugs.
+Example2: 海关查获了一批走私物品。
+Example2_EN: Customs intercepted a batch of smuggled goods.
+Example3: 他们最终查获了在逃的嫌疑人。
+Example3_EN: They finally tracked down and arrested the fugitive suspect.
+
+===word: 磁带===
+Meaning: magnetic tape
+Nuance_EN: 磁带 is a physical medium for recording audio or data, commonly used in cassettes or reel-to-reel tapes, now mostly obsolete.
+Nuance_CN: “磁带”是一种用于记录声音或数据的磁性介质，如盒式录音带，目前已不常用。
+Example1: 我在旧箱子里找到了一盘磁带。
+Example1_EN: I found a cassette tape in an old box.
+Example2: 这盘磁带里录着爷爷的声音。
+Example2_EN: This tape contains a recording of grandpa's voice.
+Example3: 那时候大家用磁带听音乐。
+Example3_EN: Back then, people listened to music on tapes.
+
+===word: 积雪===
+Meaning: accumulation of snow
+Nuance_EN: 积雪 refers to snow that has built up on the ground, often implying a layer of snow that hasn't melted.
+Nuance_CN: “积雪”指地面上堆积的雪，通常表示尚未融化的雪层。
+Example1: 屋顶上覆盖着厚厚的积雪。
+Example1_EN: The roof is covered with a thick layer of snow.
+Example2: 积雪融化后道路变得泥泞。
+Example2_EN: After the snow melted, the roads became muddy.
+Example3: 孩子们在积雪中打雪仗。
+Example3_EN: The children had a snowball fight in the accumulated snow.
+
+===word: 魔术===
+Meaning: magic
+Nuance_EN: 魔术 refers to stage magic or sleight of hand performed by a magician, distinct from supernatural magic.
+Nuance_CN: “魔术”指舞台上表演的奇幻技巧，如变戏法或手彩，不同于超自然魔法。
+Example1: 他表演了一个精彩的魔术。
+Example1_EN: He performed a brilliant magic trick.
+Example2: 魔术师从帽子里变出了一只兔子。
+Example2_EN: The magician pulled a rabbit out of the hat.
+Example3: 我喜欢看魔术表演。
+Example3_EN: I enjoy watching magic shows.
+
+===word: 载入===
+Meaning: loading...
+Nuance_EN: 载入 is a technical verb meaning to load data into a system or memory, commonly seen in computing contexts.
+Nuance_CN: “载入”是技术性动词，表示将数据加载到系统或内存中，常见于计算机领域。
+Example1: 程序正在载入中，请稍候。
+Example1_EN: The program is loading, please wait.
+Example2: 请将照片载入电脑。
+Example2_EN: Please upload the photos to the computer.
+Example3: 游戏载入速度很快。
+Example3_EN: The game loads very quickly.
+
+===word: 冒险家===
+Meaning: adventurer
+Nuance_EN: 冒险家 describes a person who seeks out thrilling and risky experiences, often exploring uncharted places.
+Nuance_CN: “冒险家”指喜欢从事危险或刺激活动的人，常外出探索未知之地。
+Example1: 这位冒险家攀登过许多高峰。
+Example1_EN: This adventurer has climbed many high peaks.
+Example2: 冒险家们深入丛林寻找宝藏。
+Example2_EN: The adventurers ventured deep into the jungle searching for treasure.
+Example3: 他是一名真正的冒险家，热爱挑战极限。
+Example3_EN: He is a true adventurer who loves pushing limits.
+
+===word: 剑===
+Meaning: sword
+Nuance_EN: 剑 is a double-edged straight sword traditionally used in Chinese martial arts and history.
+Nuance_CN: “剑”是一种双刃直剑，常用于中国武术和历史中。
+Example1: 他练剑多年，剑法精湛。
+Example1_EN: He has practiced swordsmanship for years and is highly skilled.
+Example2: 这把剑是古代名匠所铸。
+Example2_EN: This sword was forged by a famous ancient smith.
+Example3: 侠客腰间佩着一柄剑。
+Example3_EN: The chivalrous swordsman wore a sword at his waist.
+
+===word: 拳头===
+Meaning: fist
+Nuance_EN: 拳头 refers to a clenched hand, often used in fighting or as a symbol of strength and determination.
+Nuance_CN: “拳头”指握紧的手，常用于打斗或表示力量与决心。
+Example1: 他愤怒地握紧了拳头。
+Example1_EN: He clenched his fist in anger.
+Example2: 他用拳头猛击桌子。
+Example2_EN: He pounded the table with his fist.
+Example3: 团结就是力量，拳头攥紧才有力。
+Example3_EN: Unity is strength — a fist is powerful only when clenched.
+
+===word: 法术===
+Meaning: spells, magic
+Nuance_EN: 法术 denotes supernatural or magical powers, often associated with Taoist or folk practices, or in fantasy settings.
+Nuance_CN: “法术”指超自然或魔法能力，常与道教、民间传说或奇幻作品相关。
+Example1: 道士用法术驱赶邪灵。
+Example1_EN: The Taoist priest used spells to ward off evil spirits.
+Example2: 游戏里的法师擅长火系法术。
+Example2_EN: In the game, mages are adept at fire magic.
+Example3: 他学了一身法术，能呼风唤雨。
+Example3_EN: He has mastered many spells and can summon wind and rain.
+
+===word: 吹牛===
+Meaning: brag, boast, talk big
+Nuance_EN: 吹牛 is a colloquial, slightly humorous term for exaggerating one's abilities or achievements to impress others.
+Nuance_CN: “吹牛”是口语词，略带幽默，指夸大自己的能力或成就以引人注目。
+Example1: 他总爱吹牛，说自己认识很多名人。
+Example1_EN: He always brags, claiming he knows many famous people.
+Example2: 别听他吹牛，他根本没去过那里。
+Example2_EN: Don't listen to his boasting — he's never been there.
+Example3: 吹牛也要有个限度。
+Example3_EN: There's a limit to how much you can exaggerate.
+
+===word: 沙漠===
+Meaning: desert
+Nuance_EN: 沙漠 refers to a barren arid landscape with little vegetation, such as the Gobi or Sahara.
+Nuance_CN: “沙漠”指干旱、植被稀少的荒芜地带，如戈壁或撒哈拉沙漠。
+Example1: 骆驼是沙漠里主要的交通工具。
+Example1_EN: Camels are the main mode of transport in the desert.
+Example2: 沙漠的夜晚非常寒冷。
+Example2_EN: The desert nights are extremely cold.
+Example3: 探险队成功穿越了沙漠。
+Example3_EN: The expedition successfully crossed the desert.
+
+===word: 抢劫===
+Meaning: rob, loot, mug
+Nuance_EN: 抢劫 is a serious legal term for forcefully taking someone's property by threat or violence.
+Nuance_CN: “抢劫”是法律术语，指以暴力或威胁手段强行夺取他人财物。
+Example1: 那家银行昨天被抢劫了。
+Example1_EN: That bank was robbed yesterday.
+Example2: 他因为抢劫罪被判刑。
+Example2_EN: He was sentenced for robbery.
+Example3: 深夜出门要小心抢劫。
+Example3_EN: Be careful of muggings when going out late at night.
+
+===word: 良心===
+Meaning: conscience
+Nuance_EN: 良心 refers to one's inner sense of right and wrong, often used in moral discussions.
+Nuance_CN: “良心”指内心的是非感，常用于道德讨论。
+Example1: 他做这件事完全昧了良心。
+Example1_EN: He did this completely against his conscience.
+Example2: 做人要有良心，不能忘恩负义。
+Example2_EN: One must have a conscience and not be ungrateful.
+Example3: 她凭良心说了实话。
+Example3_EN: She told the truth according to her conscience.
+
+===word: 版本===
+Meaning: version, edition, release
+Nuance_EN: 版本 is used for different editions of software, books, or media.
+Nuance_CN: “版本”指软件、书籍或媒体的不同版次或发行版本。
+Example1: 这个软件的最新版本增加了许多功能。
+Example1_EN: The latest version of this software adds many features.
+Example2: 我买的是精装版版本。
+Example2_EN: I bought the hardcover edition.
+Example3: 这部电影有中文配音版本。
+Example3_EN: This movie has a Chinese-dubbed version.
+
+===word: 幸存者===
+Meaning: survivor
+Nuance_EN: 幸存者 refers to someone who has survived a disaster, accident, or difficult situation.
+Nuance_CN: “幸存者”指在灾难、事故或困境中存活下来的人。
+Example1: 地震后救援队找到了几名幸存者。
+Example1_EN: Rescue teams found several survivors after the earthquake.
+Example2: 他是那场空难唯一的幸存者。
+Example2_EN: He was the sole survivor of that plane crash.
+Example3: 幸存者讲述了他的逃生经历。
+Example3_EN: The survivor recounted his escape experience.
+
+===word: 驾照===
+Meaning: driver's license
+Nuance_EN: 驾照 is the common abbreviation for driver's license, used in everyday conversation.
+Nuance_CN: “驾照”是“驾驶执照”的常用简称，日常交流中广泛使用。
+Example1: 他刚考到了驾照。
+Example1_EN: He just got his driver's license.
+Example2: 开车时请随身携带驾照。
+Example2_EN: Please carry your driver's license when driving.
+Example3: 她的驾照过期了，需要更换。
+Example3_EN: Her driver's license has expired and needs to be renewed.
+
+===word: 书面语===
+Meaning: written language
+Nuance_EN: 书面语 denotes formal, written Chinese, as opposed to spoken colloquial language. It is used in books, official documents, and formal writing.
+Nuance_CN: “书面语”指正式的、书面的汉语，区别于口语，用于书籍、官方文件及正式写作。
+Example1: 作文应该使用书面语，避免口语化表达。
+Example1_EN: Compositions should use written language and avoid colloquial expressions.
+Example2: 这个词在书面语中很常见，但口语里很少用。
+Example2_EN: This word is common in written language but rarely used in speech.
+Example3: 书面语和口语有很多不同之处。
+Example3_EN: There are many differences between written and spoken language.
