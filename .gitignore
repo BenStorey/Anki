@@ -27,3 +27,5 @@ __pycache__/
 
 # Rust build artifacts (if any)
 /target/
+# Anki safety backups (keep local only)
+backups/*.anki2
