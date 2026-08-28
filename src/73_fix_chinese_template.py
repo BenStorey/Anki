@@ -99,11 +99,6 @@ FIELDS = [
 QFMT = r"""
 <div class="frontbg">
 {{Expression}}
-{{#Pinyin}}
-	<div class="hira">
-		{{Pinyin}}
-	</div>
-{{/Pinyin}}
 </div>
 """
 
