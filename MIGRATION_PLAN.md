@@ -1,5 +1,10 @@
 # Migration Plan: Japanese Enhanced Main Deck
 
+> **STATUS: SUPERSEDED.** This migration is **DONE** (2026-08-28). Japanese Enhanced
+> (id `1738229000`) is live with 27,949 notes, single Recognition template, cards 1:1
+> (no duplicates). For *current* workflow (adding new cards, LLM batch, migration),
+> see **`HANDOFF.md`**. This file is kept for historical reference only.
+
 ## Goal
 Move all ~27,000 cards from the old "Japanese" model to the "Japanese Enhanced" model (13 fields), with LLM-generated nuance + 3 examples on each card. Any cards that don't match (old sentences, grammar notes) get moved to "Japanese (Old)" deck.
 

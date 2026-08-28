@@ -1,5 +1,11 @@
 # Korean / Japanese / Chinese Anki Pipeline
 
+> **NOTE (2026-08-28):** Japanese and Chinese migrations are **COMPLETE** — both on
+> their Enhanced notetypes (JP 27,949 / CN 16,370 notes, Recognition-only, 1:1 cards).
+> For the current "add new cards" workflow, LLM batch, and migration steps, see
+> **`HANDOFF.md`**. Sections below labeled "Planned"/"Current state (legacy)" are
+> historical and superseded.
+
 ## Overview
 
 This project generates Anki flashcards for Korean, Japanese, and Chinese vocabulary

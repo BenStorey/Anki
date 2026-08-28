@@ -1,5 +1,11 @@
 # Chinese Enhanced Deck: Migration Plan
 
+> **STATUS: SUPERSEDED.** This migration is **DONE** (2026-08-28). Chinese Enhanced
+> (id `1787807921282`) is live with 16,370 notes (Chinese deck 15,189 + Chinese WIP
+> 1,181), single Recognition template, cards 1:1. For *current* workflow (adding new
+> cards, LLM batch, migration), see **`HANDOFF.md`**. This file is kept for historical
+> reference only.
+
 ## Current State
 
 | Property | Value |
