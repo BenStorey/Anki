@@ -1,0 +1,799 @@
+===word: 予ねて（から）===
+Meaning: Previously / In advance
+Nuance_EN: A somewhat formal adverbial expression meaning "from before" or "in advance," used to indicate that plans or preparations have been made beforehand.
+
+===word: 予備===
+Meaning: Spare / Reserve
+Nuance_EN: Refers to something prepared in advance for shortages or failures, beyond what is normally used. A versatile word used in various contexts like spare batteries, spare days, or spare keys.
+
+===word: 予備校===
+Meaning: Cram school / Prep school
+Nuance_EN: A private educational institution for studying for university entrance exams, offering specialized instruction separate from regular school. Often associated with ronin (students who failed exams), but also attended by current high school students.
+
+===word: 予備的===
+Meaning: Preliminary / Preparatory
+Nuance_EN: A na-adjective meaning "done as preparation before the main event or activity," commonly used in business and academic contexts.
+
+===word: 予備罪===
+Meaning: Preparation for a crime
+Nuance_EN: A legal term in criminal law referring to provisions that punish preparatory acts before a crime is actually committed, such as planning murder and gathering tools. Rarely used in everyday conversation, appearing mainly in legal contexts.
+
+===word: 予兆===
+Meaning: Omen / Sign
+Nuance_EN: A precursor or sign that something is about to happen, used for both good and bad events. Synonymous with "前兆."
+
+===word: 予告===
+Meaning: Advance notice / Preview
+Nuance_EN: Refers to informing in advance about something that will happen, used in various contexts like movie trailers, event announcements, or change notifications.
+
+===word: 予告なしに===
+Meaning: Without notice
+Nuance_EN: An adverbial phrase meaning something is done suddenly without prior notification, often used in slightly negative contexts like "close without notice" or "change without notice."
+
+===word: 予定が重なる===
+Meaning: Schedule conflict
+Nuance_EN: Describes a state where multiple appointments or commitments fall on the same time, forcing a choice of priority. Also said as "予定がダブる," it's a handy expression for scheduling woes common among working adults.
+
+===word: 予定外===
+Meaning: Unscheduled / Unexpected
+Nuance_EN: Refers to events not planned in advance or unforeseen occurrences, used in both positive and negative contexts, but often when dealing with unexpected situations.
+
+===word: 予定通りだとすれば、飛行機は９時に着くはずだ===
+Meaning: As scheduled
+Nuance_EN: A phrase meaning "if things go as planned," used in technical or objective contexts like news or explanations rather than casual conversation.
+
+===word: 予想外===
+Meaning: Unexpected / Unforeseen
+Nuance_EN: Means a result different from expectations or predictions, used for both good and bad outcomes.
+
+===word: 予感===
+Meaning: Premonition / Feeling
+Nuance_EN: Refers to vaguely sensing something before it happens, used for both good and bad, but especially common in "嫌な予感" (bad feeling) to express an intuition that something bad will happen.
+
+===word: 予断を許さない===
+Meaning: Unpredictable / Uncertain
+Nuance_EN: An idiomatic expression meaning the future development or outcome is completely unpredictable, used in situations with many uncertainties like illness progress, criminal investigations, or game outcomes. A somewhat formal phrase often seen in news and official announcements.
+
+===word: 予期===
+Meaning: Expectation / Anticipation
+Nuance_EN: Refers to anticipating or mentally preparing for something that will happen, used for both good and bad, but especially common in the form "予期しない" (unexpected).
+
+===word: 予期せぬ===
+Meaning: Unexpected / Unforeseen
+Nuance_EN: An adjective describing events that were not anticipated, meaning "unexpected" or "surprising."
+
+===word: 予測===
+Meaning: Prediction / Forecast
+Nuance_EN: Means to infer future events in advance, used in contexts like weather forecasts, economic predictions, or demand forecasting based on objective data and statistics. Has a more analytical and professional nuance than "予想."
+
+===word: 予知===
+Meaning: Foresight / Prediction
+Nuance_EN: Refers to knowing future events in advance or the ability to do so, used for scientific predictions like earthquake prediction or weather forecasting.
+
+===word: 予算===
+Meaning: Budget
+Nuance_EN: Refers to the planned range of funds for a specific purpose, a basic financial term used at various scales from individuals to households to companies and governments.
+
+===word: 予算は均衡がとれていなければならない。===
+Meaning: Balance / Equilibrium
+Nuance_EN: A somewhat formal noun meaning a state of balance among multiple elements, used in various fields like economics, politics, and natural environments. Has a more theoretical and objective nuance than simple "balance."
+
+===word: 予約語===
+Meaning: Reserved word / Keyword
+Nuance_EN: A term in programming languages or database systems referring to words with predefined meanings or functions that cannot be freely used as variable or function names. Rarely used in everyday conversation, mainly in programming and information engineering contexts.
+
+===word: 予習===
+Meaning: Preparation / Preview
+Nuance_EN: Means to study or prepare in advance before a class or meeting, an important learning habit paired with review (復習).
+
+===word: 予行===
+Meaning: Rehearsal / Trial
+Nuance_EN: A short form of "予行演習," meaning a practice run before the actual event.
+
+===word: 予行演習===
+Meaning: Rehearsal / Dry run
+Nuance_EN: Refers to practicing as if it were the real thing before the actual event, such as school event rehearsals.
+
+===word: 予見===
+Meaning: Foresight / Prediction
+Nuance_EN: A somewhat formal expression meaning to foresee future events or outcomes in advance, often used in business or academic contexts.
+
+===word: 予言===
+Meaning: Prophecy / Prediction
+Nuance_EN: Refers to foretelling future events, often used in religious or mystical contexts, associated with fortune-telling or prophecy.
+
+===word: 予選===
+Meaning: Preliminary / Qualifying round
+Nuance_EN: Refers to the preliminary stage of competition or selection before the main event, held in sports or music contests.
+
+===word: 予防===
+Meaning: Prevention
+Nuance_EN: Means to take measures in advance to prevent bad or undesirable situations from occurring, commonly used in medical and disaster prevention fields.
+
+===word: 予防接種===
+Meaning: Vaccination
+Nuance_EN: Means "administering a vaccine to prevent disease," regularly done for infectious diseases like influenza or COVID-19. An important term in medical and public health contexts.
+
+===word: 争い===
+Meaning: Conflict / Dispute
+Nuance_EN: Refers to quarrels or fights arising from opposing opinions or interests, covering everything from physical battles to arguments and competition. Unlike "戦い" (battle), which emphasizes physical combat, "争い" is used for general conflicts.
+
+===word: 争奪戦===
+Meaning: Fierce competition / Scramble
+Nuance_EN: Refers to an intense struggle among multiple competitors for limited goods, rights, or positions, used in contexts like sales of special items, popular product lotteries, or limited tickets. Emphasizes urgency and intensity more than simple "competition," often described as "激しい争奪戦が繰り広げられた." Frequently appears in news and business articles.
+
+===word: 争点===
+Meaning: Point of contention / Issue
+Nuance_EN: The theme or problem being disputed in a discussion or lawsuit, especially a key point of argument.
+
+===word: 争議===
+Meaning: Dispute / Controversy
+Nuance_EN: Refers to conflicts or arguments arising from opposing opinions or interests, often used in the form "労働争議" (labor dispute) between unions and companies. Used in legal or social conflict contexts.
+
+===word: 争議は円満に解決した。===
+Meaning: Harmonious / Peaceful
+Nuance_EN: Describes a state that is smooth, calm, and harmonious, used in contexts like "円満解決" (peaceful resolution) or "円満な家庭" (harmonious family), positively evaluating a trouble-free state.
+
+===word: 事なきを得る===
+Meaning: Escape trouble / Get off safely
+Nuance_EN: Means that a feared problem or trouble ends without becoming a major accident, expressing relief that things turned out safely, mainly used in crisis situations like accidents or disasters.
+
+===word: 事によると===
+Meaning: Depending on circumstances / Possibly
+Nuance_EN: An adverbial expression meaning that something might happen depending on the situation or conditions, used in contexts of conjecture or hypothesis.
+
+===word: 事は急を要する. 空疎な議論に時を浪費してはいられない===
+Meaning: Empty / Hollow
+Nuance_EN: A literary and critical expression describing something as lacking content and substance, used to criticize discussions or theories that are superficial and lack practical value.
+
+===word: 事も無げに===
+Meaning: Nonchalantly / Effortlessly
+Nuance_EN: Describes behaving as if nothing is difficult, acting calmly and casually while accomplishing something challenging.
+
+===word: 事件の発端は何だったのですか？===
+Meaning: Passage / Part
+Nuance_EN: When read as "くだり," it refers to a specific section or segment in a text or conversation, used when quoting a book or article. Different from the business usage "〜の件（けん）について" (regarding the matter of...). In casual conversation, "くだり" is natural and colloquial.
+
+===word: 事件の背景を説明してください===
+Meaning: Passage / Part
+Nuance_EN: When read as "くだり," it refers to a specific section or segment in a text or conversation, used when quoting a book or article. Different from the business usage "〜の件（けん）について" (regarding the matter of...). In casual conversation, "くだり" is natural and colloquial.
+
+===word: 事件性===
+Meaning: Criminal nature / Incident quality
+Nuance_EN: Refers to whether an event has the nature or elements of a crime or incident, mainly used by police or in news reporting.
+
+===word: 事例===
+Meaning: Example / Case study
+Nuance_EN: Refers to specific, actual examples or cases, used in research, business, or law to illustrate reference-worthy instances.
+
+===word: 事典===
+Meaning: Encyclopedia
+Nuance_EN: A book that collects and explains items in a specific field. Unlike "辞典" (dictionary), which defines words, "事典" aims to explain things and concepts.
+
+===word: 事切れる===
+Meaning: Die / Expire
+Nuance_EN: Means to die or for something to end, often used in scenes where someone collapses from exhaustion.
+
+===word: 事前に調べる===
+Meaning: Investigate in advance
+Nuance_EN: Pronounced "じぜんにしらべる," meaning to research or confirm beforehand before doing something, used in various contexts like travel preparation, exam study, or business research.
+
+===word: 事務員===
+Meaning: Office clerk
+Nuance_EN: Refers to staff responsible for clerical tasks like document creation, data entry, and phone responses in companies or organizations. Used for both genders but often implies female office workers, with a slightly old-fashioned ring.
+
+===word: 事務局===
+Meaning: Secretariat / Administrative office
+Nuance_EN: Refers to the department or place handling daily administrative tasks of an organization or group, handling behind-the-scenes work like meeting management and document management.
+
+===word: 事務的===
+Meaning: Bureaucratic / Matter-of-fact
+Nuance_EN: Describes doing tasks in a businesslike, emotionless manner, often giving an impression of coldness or lack of human touch.
+
+===word: 事実===
+Meaning: Fact
+Nuance_EN: Refers to something that actually happened or has been confirmed as true, distinguished from opinions or imagination.
+
+===word: 事実に基づいてお話します===
+Meaning: Fact
+Nuance_EN: Refers to something that actually happened or has been confirmed as true, distinguished from opinions or imagination.
+
+===word: 事実は小説より奇なり===
+Meaning: As soon as / When
+Nuance_EN: A literary conjunctive particle indicating that one action is completed and immediately followed by another, meaning "as soon as."
+
+===word: 事後に事を悟るのは容易だ。===
+Meaning: Enlightenment / Realization
+Nuance_EN: Means to deeply understand the essence or truth of things, famous as a Buddhist term "悟り" (enlightenment), but also used in everyday contexts as a literary way to say "realize."
+
+===word: 事情聴取===
+Meaning: Questioning / Hearing
+Nuance_EN: Refers to formally questioning individuals involved in an incident or accident, conducted by police or investigative agencies. Milder than "取り調べ" (interrogation) but still an official procedure, though not compulsory.
+
+===word: 事態===
+Meaning: Situation / State of affairs
+Nuance_EN: A noun referring to the state or progress of events, often used to describe unexpected bad or serious situations.
+
+===word: 事態がこうなったうえは、もう彼一人には任せてはおけない。===
+Meaning: Situation / State of affairs
+Nuance_EN: A noun referring to the state or progress of events, often used to describe unexpected bad or serious situations.
+
+===word: 事態は深刻です。===
+Meaning: Situation / State of affairs
+Nuance_EN: A noun referring to the state or progress of events, often used to describe unexpected bad or serious situations.
+
+===word: 事故が相次ぐ===
+Meaning: Occur in succession
+Nuance_EN: An expression meaning multiple accidents occur one after another in a short period. "相次ぐ" (あいつぐ) means things happen in succession, often used in news reports with a somewhat formal tone.
+
+===word: 事故で電車が遅れたものですから、遅くなってすみません===
+Meaning: Reason / Cause
+Nuance_EN: A Sino-Japanese expression indicating reason or cause, meaning "because of" or "due to." Often used in written language, formal documents, or speeches. In casual conversation, "だから" or "そのため" is more common.
+
+===word: 事故に備えて車ではいつもシートベルトを締めていてください===
+Meaning: Preparation / Readiness
+Nuance_EN: A noun meaning to prepare for future situations, famously used in the proverb "備えあれば憂いなし" (Preparedness prevents worry).
+
+===word: 事故の原因はまだわからないということです===
+Meaning: Reason / Cause
+Nuance_EN: A Sino-Japanese expression indicating reason or cause, meaning "because of" or "due to." Often used in written language, formal documents, or speeches. In casual conversation, "だから" or "そのため" is more common.
+
+===word: 事故の原因はスピード違反だった。===
+Meaning: Violation / Infringement
+Nuance_EN: Means breaking laws, rules, or contracts, with a somewhat formal impression of violating social or legal norms rather than just not following rules. Refers to clear rule violations, not minor mistakes.
+
+===word: 事故の状況を再現する===
+Meaning: Reproduce / Recreate
+Nuance_EN: Means to recreate past events, states, or phenomena exactly as they were, used in various fields like experiments, crime scene reconstruction, or recipe recreation. Has a stronger nuance of accurately reconstructing the original state than simple "repeat."
+
+===word: 事故の現場はひどい有り様でした===
+Meaning: State / Condition
+Nuance_EN: A Sino-Japanese expression indicating reason or cause, meaning "because of" or "due to." Often used in written language, formal documents, or speeches. In casual conversation, "だから" or "そのため" is more common.
+
+===word: 事故る===
+Meaning: Have an accident
+Nuance_EN: A slang term meaning to cause an accident, especially a traffic accident, commonly used for car accidents.
+
+===word: 事故対策は、事故が起こることを前提に練られている。===
+Meaning: Countermeasure / Measure
+Nuance_EN: Means preventive or responsive measures prepared in advance for problems or difficult situations, used broadly in contexts like "台風対策" (typhoon measures) or "渋滞対策" (congestion measures), implying proactive preparation.
+
+===word: 事故物件===
+Meaning: Stigmatized property
+Nuance_EN: A real estate term for a property where a serious incident like a death or crime occurred, often affecting its value or rental appeal.
+
+===word: 事柄===
+Meaning: Matter / Thing
+Nuance_EN: Refers to specific matters, events, or topics, a somewhat formal expression often used in writing. In casual conversation, "こと" is more common, but "事柄" is used in formal contexts.
+
+===word: 事案===
+Meaning: Case / Matter
+Nuance_EN: A somewhat formal business and administrative term referring to a specific incident or problem to be handled, especially used in official contexts like police or government offices.
+
+===word: 事業===
+Meaning: Business / Enterprise
+Nuance_EN: Refers to economic activities for profit or planned work for a specific purpose, often used when the scale of business or project is large.
+
+===word: 事欠く===
+Meaning: Lack / Be short of
+Nuance_EN: A somewhat literary verb meaning to be lacking or deficient in something needed. Often used in the negative form "事欠かない" meaning "abundant" or "not lacking," as well as in idiomatic expressions like "暇に事欠く" (have plenty of free time).
+
+===word: 事象===
+Meaning: Phenomenon / Event
+Nuance_EN: An objective and abstract way to refer to actual events or phenomena, more formal than everyday "こと" and often used in academic or reporting contexts.
+
+===word: 事足りる===
+Meaning: Suffice / Be enough
+Nuance_EN: Means that necessary conditions are met and nothing more is needed, a somewhat formal expression.
+
+===word: 事項===
+Meaning: Item / Matter
+Nuance_EN: A noun referring to individual matters or items, used in documents, contracts, or legal texts when describing listed or enumerated items. A written, formal expression.
+
+===word: 二つに一つ===
+Meaning: One of two / Either
+Nuance_EN: An expression describing a situation where one of two possibilities or options must be chosen, used in binary choice contexts.
+
+===word: 二の句===
+Meaning: Next words / Response
+Nuance_EN: Means the next words or reply, often used in the phrase "二の句が継げない" (unable to utter another word) to describe being so shocked or surprised that words fail.
+
+===word: 二の次===
+Meaning: Secondary / Low priority
+Nuance_EN: Refers to something given lower priority and postponed, used in forms like "二の次にする" or "二の次になる" to indicate something is not the most important. Colloquial.
+
+===word: 二の腕===
+Meaning: Upper arm
+Nuance_EN: The part of the arm from shoulder to elbow, a common body part term often used in beauty and fitness contexts.
+
+===word: 二の舞===
+Meaning: Repeat the same mistake
+Nuance_EN: Means repeating the same failure or folly as someone else, used in the form "二の舞を演じる" (to repeat the same mistake).
+
+===word: 二の足を踏む===
+Meaning: Hesitate / Drag one's feet
+Nuance_EN: An idiom meaning to hesitate and be unable to act, derived from the image of taking the first step but struggling to take the next.
+
+===word: 二人でしみじみと語り合った===
+Meaning: Deeply / Heartfelt
+Nuance_EN: An adverb describing a state of feeling deeply moved or touched, used when savoring something with deep emotion or feeling it keenly.
+
+===word: 二人で野外コンサートに出かけました===
+Meaning: Outdoor / Open-air
+Nuance_EN: Refers to the outdoors, outside of buildings, used in contexts like "野外活動" (outdoor activities) or "野外フェス" (outdoor festival). Similar to "屋外" but "野外" has a nuance of activities in nature.
+
+===word: 二人の言っていることはあべこべです===
+Meaning: Opposite / Reversed
+Nuance_EN: Describes a state where the order or relationship of things is reversed from normal, commonly used in casual conversation for various reversals like order, inside-out, or upside-down.
+
+===word: 二人はローンの頭金を捻出できなかった。===
+Meaning: Scrape together / Eke out
+Nuance_EN: Pronounced "ねんしゅつ," meaning to creatively generate time or money from limited resources, especially in phrases like "時間を捻出する" or "予算を捻出する," with a nuance of forcing something out of scarcity.
+
+===word: 二人は先程から押し問答しています===
+Meaning: Heated argument / Back-and-forth
+Nuance_EN: Refers to a fierce argument where neither side gives in on their claims, used when a discussion reaches an impasse.
+
+===word: 二人は師弟関係にある===
+Meaning: Master-disciple relationship
+Nuance_EN: The relationship between a teacher and student, where one teaches and the other learns.
+
+===word: 二人は性格、趣味、学歴がすべて一致している。二人は結婚するべくして結婚したのだ。===
+Meaning: Destined / Inevitable
+Nuance_EN: A literary auxiliary verb usage in the form "〜べくして〜" meaning "it was destined to happen" or "the result occurred naturally," as in "起こるべくして起こった" (it happened as it was meant to).
+
+===word: 二人三脚===
+Meaning: Working together / Collaboration
+Nuance_EN: A metaphor for two people cooperating toward a common goal, originally from a race where two people tie their legs together and run.
+
+===word: 二人目===
+Meaning: Second person / Second child
+Nuance_EN: Refers to the second person or child in order.
+
+===word: 二倍===
+Meaning: Double / Twice
+Nuance_EN: Means two times a certain quantity, a basic expression widely used in mathematics and everyday conversation.
+
+===word: 二兎を追う者は一兎をも得ず===
+Meaning: Gain / Profit
+Nuance_EN: Refers to profit, benefit, or advantage for oneself, used not only for financial gain but also for knowledge or experience, as in "得をする" or "得だ." The opposite is "損" (loss).
+
+===word: 二卵性===
+Meaning: Fraternal (twins)
+Nuance_EN: Refers to twins born from two different eggs fertilized simultaneously, who are genetically like ordinary siblings, unlike identical twins.
+
+===word: 二塁手===
+Meaning: Second baseman
+Nuance_EN: A baseball position referring to the player who defends second base, also called "セカンド." A specialized sports term not used outside baseball contexts.
+
+===word: 二度寝===
+Meaning: Sleeping in again / Second sleep
+Nuance_EN: A noun referring to the act of going back to sleep after waking up once, a common habit on holiday mornings but with a slightly lazy connotation.
+
+===word: 二手===
+Meaning: Two groups / Two ways
+Nuance_EN: Refers to a group splitting into two to act separately, frequently used in forms like "二手に分かれて行動する" (split into two groups to act).
+
+===word: 二枚舌===
+Meaning: Double-tongued / Two-faced
+Nuance_EN: An idiom meaning to say different things depending on the person or situation, using double standards, often in the form "二枚舌を使う." Literally "having two tongues," it refers to deceiving or tricking by saying different things to the same person. Carries strong criticism, similar to English "double-tongued" or "two-faced."
+
+===word: 二桁成長===
+Meaning: Double-digit growth
+Nuance_EN: A noun and economic term referring to growth rates of 10% or more in economy or sales, used in business and economic contexts as a positive indicator of high growth.
+
+===word: 二次方程式===
+Meaning: Quadratic equation
+Nuance_EN: A mathematical term for an equation of the second degree.
+
+===word: 二段ベッド===
+Meaning: Bunk bed
+Nuance_EN: A bed with two levels, one above the other, used in children's rooms or dormitories to save space.
+
+===word: 二段階認証===
+Meaning: Two-factor authentication
+Nuance_EN: A security mechanism combining a password with another authentication method (like SMS code or authenticator app), an IT and security term now widely known among general users.
+
+===word: 二流===
+Meaning: Second-rate / Inferior
+Nuance_EN: Refers to being at a level below top-tier but still second-class, used for ability or quality with a slightly negative nuance.
+
+===word: 二番目に大きい===
+Meaning: Second largest
+Nuance_EN: A comparative expression meaning the next largest after the biggest in a group, used for rankings or order, clearly indicating position rather than a comparative degree.
+
+===word: 二等の===
+Meaning: Second-class / Second-grade
+Nuance_EN: Indicates being second in rank or grade, positioned below first-class. Used for second-class seats on ships or planes (now business or economy), second prize in competitions, or grade levels.
+
+===word: 二者===
+Meaning: Two parties / Both
+Nuance_EN: A Sino-Japanese term referring to two people or two things, mainly used in compounds like "二者択一" (choice between two), indicating selection or contrast. Often used in forms like "二者間" or "二者の."
+
+===word: 二股をかける===
+Meaning: Two-time / Play both sides
+Nuance_EN: A casual term meaning to date two people simultaneously or pursue two options at once.
+
+===word: 二言===
+Meaning: Double-dealing / Contradiction
+Nuance_EN: Refers to saying contradictory things, often used in the phrase "二言はない" (I won't go back on my word).
+
+===word: 二足の草鞋===
+Meaning: Wearing two hats / Dual roles
+Nuance_EN: An idiom meaning to hold two different professions or positions simultaneously, originating from merchants in the Edo period.
+
+===word: 二足歩行===
+Meaning: Bipedal walking
+Nuance_EN: Walking on two legs, a characteristic human movement method also studied in robotics.
+
+===word: 二転三転===
+Meaning: Change repeatedly / Flip-flop
+Nuance_EN: A four-character idiom meaning a situation or policy changes significantly multiple times, emphasizing instability and frequent reversals of predictions or plans.
+
+===word: 二酸化炭素===
+Meaning: Carbon dioxide
+Nuance_EN: A gas composed of carbon and oxygen, written as "CO2," about 0.04% in the air and essential for plant photosynthesis, but also a major greenhouse gas discussed in global warming contexts.
+
+===word: 二重三重===
+Meaning: Multiple layers / Repeatedly
+Nuance_EN: Describes something overlapping in multiple layers, used for problems, measures, or promises with multiple levels, carrying an emphatic nuance.
+
+===word: 二重引用符===
+Meaning: Double quotation marks
+Nuance_EN: Quotation marks used in pairs, like 「」 or “”, in writing or programming.
+
+===word: 二重敬語===
+Meaning: Double honorific
+Nuance_EN: A grammatical term for using multiple honorific forms redundantly, often considered incorrect or overly polite in Japanese.
+
+===word: 云々===
+Meaning: And so on / Et cetera
+Nuance_EN: A Sino-Japanese expression meaning "and so on" or "so forth," used to omit details when quoting others' opinions. A somewhat formal written expression.
+
+===word: 互いに気兼ねし合う===
+Meaning: Be reserved with each other
+Nuance_EN: Describes a state where mutual restraint overlaps, preventing free behavior due to excessive consideration for each other.
+
+===word: 互い違い===
+Meaning: Alternating / Staggered
+Nuance_EN: A state where two things are interleaved or offset, with order or position alternating.
+
+===word: 互助===
+Meaning: Mutual aid
+Nuance_EN: Means helping each other, not one-sided assistance but a relationship of mutual support. Often used in organizational frameworks like mutual aid societies or systems.
+
+===word: 互恵条約===
+Meaning: Reciprocal treaty
+Nuance_EN: A treaty between two or more countries ensuring mutual benefits, used in trade and diplomatic contexts.
+
+===word: 互恵的な===
+Meaning: Reciprocal / Mutually beneficial
+Nuance_EN: A na-adjective describing a relationship where both parties share benefits or advantages, meaning building a "win-win" relationship in business, international relations, or personal interactions. A formal and intelligent-sounding word indicating balanced, mutually positive states.
+
+===word: 互換===
+Meaning: Interchangeable / Compatible
+Nuance_EN: Refers to the ability to be exchanged or substituted.
+
+===word: 互換性===
+Meaning: Compatibility / Interchangeability
+Nuance_EN: Refers to the property of being usable in the same way across different devices or software, often discussed for computer parts or software compatibility.
+
+===word: 互角===
+Meaning: Equal / Well-matched
+Nuance_EN: Refers to a state where strength or ability is nearly equal, making it hard to predict a winner, used when competitors are evenly matched.
+
+===word: 五体===
+Meaning: The five body parts / Whole body
+Nuance_EN: Refers to the five main parts of the human body: head, neck, chest, both arms, and both legs, often used to mean the entire body.
+
+===word: 五体満足===
+Meaning: Physically whole / Healthy
+Nuance_EN: A state of being healthy with no missing or impaired body parts, used to express gratitude or happiness.
+
+===word: 五分===
+Meaning: Half / Fifty-fifty
+Nuance_EN: In the form "五分五分" (ごぶごぶ), means half-and-half or 50-50, used when chances or competition are evenly matched.
+
+===word: 五分の一===
+Meaning: One-fifth
+Nuance_EN: A fraction meaning one part out of five equal parts, used in mathematics and daily life to express proportions or quantities.
+
+===word: 五分五分===
+Meaning: Fifty-fifty / Even
+Nuance_EN: Means the probability of two possibilities is equal, used in situations like predicting winners or success rates where either outcome is possible.
+
+===word: 五十音===
+Meaning: Japanese syllabary
+Nuance_EN: Refers to the basic arrangement of Japanese kana characters, with the "あいうえお" order commonly used as a foundation for learning Japanese.
+
+===word: 五感===
+Meaning: Five senses
+Nuance_EN: The collective term for the five senses humans use to perceive the external world: sight, hearing, smell, taste, and touch, used broadly from everyday conversation to academic contexts.
+
+===word: 五月蠅い===
+Meaning: Noisy / Annoying
+Nuance_EN: An ateji (phonetic kanji assignment) for "うるさい," combining "五月" (May) and "蠅" (fly) to visually express "annoying like flies in May." A playful expression used more for wordplay than actual sound, with a literary or humorous nuance when written in kanji. Rarely used in daily life but seen in creative works or social media.
+
+===word: 五月雨===
+Meaning: Early summer rain
+Nuance_EN: An elegant term for the long rains falling around the old calendar's fifth month (rainy season), from which comes "五月雨式" (drawn-out, intermittent style).
+
+===word: 五月雨式===
+Meaning: Intermittent / Drawn-out
+Nuance_EN: Refers to doing things gradually in installments rather than all at once, derived from the long, intermittent rains of the old calendar's fifth month. Used when emails or contacts come in bits or when payments are made in installments.
+
+===word: 五穀米===
+Meaning: Five-grain rice
+Nuance_EN: Rice mixed with five types of grains, considered more nutritious than white rice.
+
+===word: 五輪===
+Meaning: Olympics
+Nuance_EN: A common Japanese term for the Olympic Games, derived from the five-ring symbol. "五輪" is the standard way to refer to the Olympics in Japan.
+
+===word: 五里霧中===
+Meaning: Completely lost / In the dark
+Nuance_EN: A four-character idiom describing a state where the situation is completely unclear and one doesn't know how to proceed, like being in a five-mile fog with no sense of direction.
+
+===word: 井戸===
+Meaning: Well
+Nuance_EN: Refers to a facility dug into the ground to draw groundwater, once essential for daily life but now rarely used due to water supply systems.
+
+===word: 亘る===
+Meaning: Span / Extend over
+Nuance_EN: A verb meaning to extend over a wide range of time or space, indicating long periods or broad areas.
+
+===word: 些事===
+Meaning: Trifle / Minor matter
+Nuance_EN: A noun referring to insignificant, trivial matters, same meaning as "些細なこと" but more literary and formal, often used in written language like business documents in phrases such as "些事にこだわらない" (not dwell on trifles).
+
+===word: 些細===
+Meaning: Trivial / Minor
+Nuance_EN: Describes something so small it's not worth mentioning, often used with a negative nuance meaning "not worth making an issue of." Frequently appears in the form "些細なこと."
+
+===word: 亜人===
+Meaning: Subhuman / Demi-human
+Nuance_EN: Means a being inferior to humans, used in SF and fantasy works to refer to non-human intelligent beings.
+
+===word: 亜流===
+Meaning: Epigone / Follower
+Nuance_EN: Means "a follower who doesn't match the master" or "an imitator lacking originality," originally referring to branch schools in art or academia but now often used negatively to mean "second-rate copycat."
+
+===word: 亜種===
+Meaning: Subspecies
+Nuance_EN: A biological classification rank below species, referring to variations due to regional or environmental differences. Also used metaphorically to mean "a kind of."
+
+===word: 亜空間===
+Meaning: Subspace
+Nuance_EN: A concept in SF works referring to a hypothetical space different from normal spacetime, used as a principle for warp or teleportation, also common in game terminology.
+
+===word: 亜鉛===
+Meaning: Zinc
+Nuance_EN: The Japanese name for the chemical element zinc (Zn). As a metal, zinc is used in various everyday items like galvanized iron, brass, dry batteries, and supplements due to its rust-resistant properties. The "亜" prefix indicates a compound or derivative, originating from its similarity to lead (鉛). In nutrition, zinc is valued as an essential mineral.
+
+===word: 亜麻布===
+Meaning: Linen cloth
+Nuance_EN: "麻" refers to a plant whose fibers are used to make cloth, paper, and ropes. In Japan, it has been used since ancient times for "麻布" (hemp cloth) in clothing and Shinto rituals, but some varieties are also used for drugs (麻薬), requiring caution. The character also appears in words like "麻痺" (paralysis) and "麻酔" (anesthesia), where it means numbness (from Chinese origin).
+
+===word: 亡くす===
+Meaning: Lose (someone) to death
+Nuance_EN: Means to lose a family member or close person through death, distinguished from "なくす" (lose an object), as a special verb used specifically for people's deaths.
+
+===word: 亡くなる===
+Meaning: Pass away / Die
+Nuance_EN: A polite expression for dying, softer and more respectful than direct "死ぬ," used in formal announcements and conversations to convey someone's death.
+
+===word: 亡命===
+Meaning: Defection / Exile
+Nuance_EN: Refers to fleeing one's country for political reasons.
+
+===word: 亡者===
+Meaning: Ghost / Obsessed person
+Nuance_EN: Refers to the spirit of a dead person, or metaphorically, a person obsessively fixated on something. Somewhat archaic, used in Buddhist or literary contexts.
+
+===word: 亡霊===
+Meaning: Ghost / Specter
+Nuance_EN: Refers to the spirit of a deceased person.
+
+===word: 亡骸===
+Meaning: Remains / Corpse
+Nuance_EN: A respectful term for a deceased person's body, more polite than "死体" (corpse), used in contexts of bereavement or funerals.
+
+===word: 交える===
+Meaning: Mix / Exchange
+Nuance_EN: Means to mix multiple things together or exchange them with each other, used not only for physical mixing but also abstract exchanges like "言葉を交わす" (exchange words) or "火を交える" (engage in battle).
+
+===word: 交ざる===
+Meaning: Be mixed / Be blended
+Nuance_EN: Means different types of things naturally mix together, also written as "混ざる."
+
+===word: 交じる===
+Meaning: Mix / Join
+Nuance_EN: Means different types of things mix together or someone joins a group.
+
+===word: 交ぜる===
+Meaning: Mix / Blend
+Nuance_EN: Same meaning as "混ぜる," referring to combining multiple things into a uniform state, used in cooking, color mixing, etc. "交ぜる" is somewhat more formal.
+
+===word: 交ぜる===
+Meaning: Mix / Blend
+Nuance_EN: Same meaning as "混ぜる," referring to combining multiple things into a uniform state, used in cooking, color mixing, etc. "交ぜる" is somewhat more formal.
+
+===word: 交わす===
+Meaning: Exchange
+Nuance_EN: Means to exchange things with each other, or to exchange words or greetings, also commonly used in conversation and promise contexts.
+
+===word: 交わる===
+Meaning: Intersect / Associate
+Nuance_EN: Means two or more lines or paths meet at a point, or people interact with each other, used in mathematics for line/plane intersection and in daily life for social interaction.
+
+===word: 交わる===
+Meaning: Intersect / Associate
+Nuance_EN: Means two or more lines or paths meet at a point, or people interact with each other, used in mathematics for line/plane intersection and in daily life for social interaction.
+
+===word: 交互===
+Meaning: Alternating / Mutual
+Nuance_EN: Means two things repeat in turn, describing a state where one thing and another switch places in order, as in "交互に歩く" (walk alternately) or "交互に使う" (use alternately).
+
+===word: 交付===
+Meaning: Issuance / Delivery
+Nuance_EN: An official term meaning to formally issue and hand over documents, certificates, or permits, used for things like driver's licenses, passports, or subsidies.
+
+===word: 交付金===
+Meaning: Grant / Subsidy
+Nuance_EN: Refers to money issued by the national or local government to individuals or organizations for specific purposes, similar to subsidies but often with relatively more freedom in usage, an administrative term.
+
+===word: 交信===
+Meaning: Communication (by radio)
+Nuance_EN: Means to communicate with each other using wireless or communication equipment, especially used for ships, aircraft, or mountain climbing teams exchanging information with base stations on designated frequencies. Used in contexts like "交信を試みる" (attempt communication) or "交信が途絶える" (communication cut off), appearing in tense rescue or military contexts. Rarely used for regular phone calls or emails.
+
+===word: 交尾===
+Meaning: Mating / Copulation
+Nuance_EN: A biological term referring to reproductive behavior in animals, not typically used for humans, used for objective description of animal or insect reproductive behavior with an academic, observational tone.
+
+===word: 交感===
+Meaning: Sympathy / Interaction
+Nuance_EN: Means feeling and connecting with each other, describing a resonance of hearts or senses with another person, with a somewhat literary and spiritual nuance. Also known in the medical term "交感神経" (sympathetic nerve).
+
+===word: 交戦===
+Meaning: Combat / Warfare
+Nuance_EN: Means military forces engaging in battle or countries entering a state of war, a formal military term used in news and reporting.
+
+===word: 交換する===
+Meaning: Exchange / Swap
+Nuance_EN: Means to exchange things with each other, used for gift exchanges, information swaps, or part replacements, implying a reciprocal giving and receiving on equal terms.
+
+===word: 交換条件===
+Meaning: Quid pro quo / Trade-off
+Nuance_EN: Refers to a condition in negotiations or transactions where one party concedes something in exchange for the other's concession, commonly used in business and political negotiations.
+
+===word: 交易===
+Meaning: Trade / Commerce
+Nuance_EN: The buying and selling of goods between countries or regions, nearly synonymous with "貿易" (trade), but "交易" is broader, including ancient barter to modern international commerce. Frequently appears in history textbooks like "シルクロードによる東西交易" (East-West trade via the Silk Road). In daily conversation, "貿易" is more common.
+
+===word: 交替===
+Meaning: Shift / Rotation
+Nuance_EN: Means swapping roles or positions, used for shift changes or order rotations in business and daily conversation.
+
+===word: 交流===
+Meaning: Exchange / Interaction
+Nuance_EN: A very basic word meaning mutual exchange of people, culture, or information, used broadly in contexts like "国際交流" (international exchange) or "文化交流" (cultural exchange), suitable for both formal and informal use with a strong positive connotation.
+
+===word: 交流会===
+Meaning: Social gathering / Meetup
+Nuance_EN: An event where people from different groups or fields gather to deepen friendships or exchange information.
+
+===word: 交渉が成立するという前提で話を進めます。===
+Meaning: Premise / Assumption
+Nuance_EN: Refers to the foundational condition or assumption for a discussion or action, a frequently used important word in business and academic contexts, used in forms like "前提条件" (prerequisite) or "前提とする" (assume). In daily conversation, used to confirm the basis of a discussion.
+
+===word: 交渉する===
+Meaning: Negotiate
+Nuance_EN: Means to discuss by exchanging opinions to find common ground, used in various contexts from business and diplomacy to daily transactions.
+
+===word: 交渉決裂===
+Meaning: Breakdown of negotiations
+Nuance_EN: Refers to negotiations ending without reaching an agreement, a somewhat formal expression used in business and political contexts.
+
+===word: 交番===
+Meaning: Police box
+Nuance_EN: A small police facility where officers are stationed to maintain local safety.
+
+===word: 交通===
+Meaning: Traffic / Transportation
+Nuance_EN: Refers to the movement of people and goods via roads, railways, etc., or the system thereof, commonly used in commuting, travel, and city topics.
+
+===word: 交通事情によって30分で行けたり1時間以上かかったりする。===
+Meaning: Superior / Higher
+Nuance_EN: A word referring to someone of higher status, such as a superior or boss, used in workplace and social hierarchy contexts with a polite tone.
+
+===word: 交通事故に会った時は大きい怪我に至らず、擦り傷だけで済んでよかった。===
+Meaning: Scrape / Abrasion
+Nuance_EN: A shallow wound caused by rubbing against something, like a minor injury from falling.
+
+===word: 交通整理===
+Meaning: Traffic control
+Nuance_EN: Refers to organizing the flow of vehicles and pedestrians at intersections to ensure safe and smooth passage, done by police officers or traffic lights. Also used metaphorically to mean sorting out complex situations.
+
+===word: 交通網===
+Meaning: Transportation network
+Nuance_EN: Refers to the entire system of roads, railways, and sea routes spread like a net, used to evaluate the convenience of transportation in cities or regions.
+
+===word: 交通費は個人負担です。===
+Meaning: Individual / Personal
+Nuance_EN: A word referring to each individual person as opposed to a group or organization, emphasizing the independent existence of a person in contexts like "個人の権利" (individual rights) or "個人の意見" (personal opinion).
+
+===word: 交通費は銘々払ってください===
+Meaning: Each individually
+Nuance_EN: A written, somewhat formal expression meaning each person or thing individually, used in forms like "銘々に" or "銘々の" with a nuance of independence.
+
+===word: 交錯===
+Meaning: Intertwine / Complicate
+Nuance_EN: Means multiple things interweave and become entangled or complicated.
+
+===word: 交際===
+Meaning: Social interaction / Dating
+Nuance_EN: Refers to social relationships between people, often specifically referring to romantic relationships but also broadly used for human interactions.
+
+===word: 交響曲===
+Meaning: Symphony
+Nuance_EN: A large-scale musical composition for orchestra, a representative genre of classical music consisting of multiple movements.
+
+===word: 享楽===
+Meaning: Enjoyment / Pleasure
+Nuance_EN: Means to fully savor and enjoy life's pleasures, with a slightly luxurious and hedonistic nuance, used to mean enjoying life to the fullest.
+
+===word: 享楽的===
+Meaning: Hedonistic / Pleasure-seeking
+Nuance_EN: Refers to an attitude or lifestyle pursuing pleasure and enjoyment, often implying a focus on present enjoyment while neglecting future responsibilities.
+
+===word: 京都は、古いお寺で有名な町です===
+Meaning: Ancient / Old
+Nuance_EN: Refers to ancient times or old eras, a concise word for old things or times, often used in literary Chinese-style expressions or compounds.
+
+===word: 亭主===
+Meaning: Husband / Host
+Nuance_EN: Refers to a husband or the host in tea ceremony, with a somewhat old-fashioned or joking nuance when used for a husband.
+
+===word: 人々はかつてないほどの余暇を持っている。===
+Meaning: Leisure / Free time
+Nuance_EN: Refers to free time outside of work or study, time for hobbies and relaxation.
+
+===word: 人々は独立と自由の名の下に戦った===
+Meaning: War / Battle
+Nuance_EN: A Sino-Japanese word for war or battle, often used in compounds like "戦争" (war), "戦闘" (combat), "作戦" (strategy), or "苦戦" (hard fight). Alone, it can be read as "いくさ" to mean war, but "せん" is common in compounds.
+
+===word: 人々は立ち止まって上を見上げたの。===
+Meaning: Superior / Higher
+Nuance_EN: A word referring to someone of higher status, such as a superior or boss, used in workplace and social hierarchy contexts with a polite tone.
+
+===word: 人々を守るのが私の務めです。===
+Meaning: Duty / Role
+Nuance_EN: Refers to the work or obligation one should fulfill based on their position or role, similar to "任務" (mission) or "責務" (responsibility), but "務め" is used in somewhat more everyday contexts.
+
+===word: 人いきれ===
+Meaning: Body heat / Crowd warmth
+Nuance_EN: The hot, stuffy air in a crowded place caused by people's body heat and breath.
+
+===word: 人だかり===
+Meaning: Crowd / Gathering
+Nuance_EN: Refers to a state where many people gather in one place, a common expression used at scenes of incidents or events.
+
+===word: 人には思想の自由がある。===
+Meaning: Thought / Ideology
+Nuance_EN: Refers to systematic ideas or beliefs held by individuals or groups, used in broad fields like political thought, philosophical thought, or religious thought, a formal word.
+
+===word: 人の仕事を手伝うどころではありません。自分の仕事も間に合わないんです===
+Meaning: Along / Via
+Nuance_EN: Means to move along a surface or route, as in "壁伝い" (along the wall), "電線伝い" (along power lines), or "川伝い" (along the river), with a nuance of following a line or surface, also common in game contexts.
+
+===word: 人の大脳は非常に発達している===
+Meaning: Development / Growth
+Nuance_EN: The process of growing or advancing to a larger scale or higher stage, used broadly from physical growth to social progress.
+
+===word: 人の目をまともに打つ===
+Meaning: Decent / Normal
+Nuance_EN: A casual word describing something as serious, sensible, and normal, used broadly for people, ideas, or states, especially common in the negative form "まともじゃない" (not normal).
+
+===word: 人の記憶は不確かよ。===
+Meaning: Uncertain / Vague
+Nuance_EN: A state of not being clearly certain, used when information, memories, or plans are ambiguous and one lacks confidence.

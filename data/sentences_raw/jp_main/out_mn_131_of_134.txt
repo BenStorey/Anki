@@ -1,0 +1,799 @@
+===word: 頭数===
+Meaning: Head Count
+Nuance_EN: Used when counting people or animals, with focus on the number itself. Often appears in the idiom "頭数を揃える" meaning to secure the minimum required number of participants.
+
+===word: 頭文字===
+Meaning: Initial / First Letter
+Nuance_EN: Refers to the first letter of a word or sentence, especially capital letters or acronym initials (like "NHK"). Used in linguistics, computing, and everyday explanations of abbreviations.
+
+===word: 頭痛===
+Meaning: Headache
+Nuance_EN: A common medical term for pain in the head, caused by colds, fatigue, stress, etc. Used in everyday conversation.
+
+===word: 病===
+Meaning: Illness / Disease
+Nuance_EN: A literary and concise way to refer to illness or disease. Shorter and more forceful than 病気, it appears frequently in compounds like 持病 (chronic illness) and 難病 (incurable disease), and is favored in formal or written contexts.
+
+===word: 頭皮===
+Meaning: Scalp
+Nuance_EN: Refers to the skin covering the head. Commonly used in conversations about hair, hair growth, and shampoo.
+
+===word: 頭目===
+Meaning: Leader / Chief
+Nuance_EN: The head of a group or organization, often used for leaders of gangs, armed factions, or tribes. Less formal than "boss" and suggests a smaller group than "ringleader"; frequently used in news reports about militant leaders.
+
+===word: 頭突き===
+Meaning: Headbutt
+Nuance_EN: An attack in which one strikes an opponent with one's own head. Used in the context of fights and martial arts.
+
+===word: 頭脳===
+Meaning: Brain / Intellect
+Nuance_EN: Refers to both the physical brain and mental faculties such as intelligence, thinking, and judgment. Used metaphorically in expressions like "明晰な頭脳" (clear intellect) and "頭脳流出" (brain drain), and can also refer to the intellectual leader of a group.
+
+===word: 頭脳労働===
+Meaning: Intellectual Work
+Nuance_EN: Refers to work that uses the mind rather than the body, as opposed to physical labor. Applies to professions like researchers, programmers, and designers.
+
+===word: 頭脳明晰===
+Meaning: Brilliant / Clear-headed
+Nuance_EN: A four-character idiom describing someone with quick, clear, and logical thinking. It praises not just intelligence but the ability to organize ideas clearly, and carries a somewhat formal tone.
+
+===word: 頭脳流出===
+Meaning: Brain Drain
+Nuance_EN: Refers to the phenomenon of talented individuals leaving their country or company for opportunities elsewhere. Used critically in discussions of economic and social issues, such as researchers moving abroad.
+
+===word: 頭脳線===
+Meaning: Head Line
+Nuance_EN: In palmistry, the line across the center of the palm that is believed to represent intelligence, thinking ability, and judgment. Also known as the 知能線 (wisdom line).
+
+===word: 頭蓋骨===
+Meaning: Skull
+Nuance_EN: The collective bones that form the head and protect the brain. Used in medical and archaeological contexts.
+
+===word: 頭角===
+Meaning: Prominence
+Nuance_EN: Literally "horn of the head," but used almost exclusively in the idiom "頭角を現す" (to distinguish oneself), meaning to stand out from the crowd and gain recognition for one's talents.
+
+===word: 頭部===
+Meaning: Head
+Nuance_EN: A somewhat medical or formal term for the top part of the body. While daily conversation uses "頭," this form appears in injury reports and anatomical contexts.
+
+===word: 頭金===
+Meaning: Down Payment
+Nuance_EN: The initial payment made when purchasing expensive items on installment, particularly for homes and cars.
+
+===word: 頭陀袋===
+Meaning: Pilgrim's Bag / Cloth Sack
+Nuance_EN: Originally a cloth bag carried by wandering monks, now used generally for a handbag or furoshiki-wrapped bundle. It has an old-fashioned ring and religious origins, though it can be used as a general term.
+
+===word: 頭頂===
+Meaning: Crown (of Head)
+Nuance_EN: The highest point of the head, the very top. Used when describing baldness, injuries, or the location of a condition.
+
+===word: 頭領===
+Meaning: Boss / Chieftain
+Nuance_EN: The head of a group or organization, particularly the boss of illegal organizations like the yakuza or gangs. It is not used for leaders of ordinary companies or organizations.
+
+===word: 頷く===
+Meaning: To Nod
+Nuance_EN: To move one's head up and down to indicate agreement or understanding. This is a very common and basic action word in Japanese.
+
+===word: 頷ける===
+Meaning: Convincing / Understandable
+Nuance_EN: A potential verb derived from "to nod," meaning one finds an opinion or explanation convincing ("indeed, that makes sense"). The negative form "頷けない" expresses inability to agree. Commonly used in business and academic discussions to evaluate arguments.
+
+===word: 頻りに===
+Meaning: Frequently / Repeatedly
+Nuance_EN: Describes an action or state being repeated at short intervals, emphasizing the high frequency of behavior, such as repeatedly urging someone.
+
+===word: 頻度===
+Meaning: Frequency
+Nuance_EN: The degree or rate at which something happens. Used to express how often events occur in quantitative terms.
+
+===word: 頻発する===
+Meaning: To Occur Frequently
+Nuance_EN: A verb meaning that the same event or problem happens repeatedly at short intervals. It is often used for negative occurrences such as accidents, troubles, and natural disasters.
+
+===word: 頻繁に===
+Meaning: Frequently
+Nuance_EN: An adverb indicating that something repeats at short intervals. It is somewhat more formal than "よく" and is used to objectively state the high frequency of an action.
+
+===word: 頼み込む===
+Meaning: To Plead / Beg
+Nuance_EN: To make a strong request, often with bowed head or earnest entreaty. It conveys more seriousness and urgency than the ordinary "頼む" (to ask).
+
+===word: 頼もしい===
+Meaning: Reliable / Promising
+Nuance_EN: An adjective describing the feeling of trust and reassurance inspired by someone's actions or attitude. Used for people who meet expectations or show great potential.
+
+===word: 頼りにする===
+Meaning: To Rely On
+Nuance_EN: To count on a person or thing for help and support. It carries a nuance of trust and dependence.
+
+===word: 頼りになる===
+Meaning: Dependable
+Nuance_EN: Describes someone or something that is trustworthy and helpful. Used for people and organizations, and is a very common positive expression in everyday conversation.
+
+===word: 頼る===
+Meaning: To Depend On
+Nuance_EN: To seek help or support from someone when in trouble. It implies reliance on others and is used with people with whom one has a close or trusting relationship.
+
+===word: 題===
+Meaning: Title / Theme
+Nuance_EN: A noun referring to the theme or title of a story, piece of writing, or work. It appears in many compounds such as 話題 (topic), 問題 (problem), and 題名 (title), and is used broadly from casual to academic contexts.
+
+===word: 題する===
+Meaning: To Entitle
+Nuance_EN: A suru-verb meaning to give a title to a work or to be titled. It has a written, literary flavor and is often seen when introducing literary works.
+
+===word: 題名===
+Meaning: Title
+Nuance_EN: The name given to a work or document, such as the title of a book, film, song, or academic paper. It is slightly more colloquial than "表題" and widely used in daily life.
+
+===word: 題字===
+Meaning: Calligraphic Title
+Nuance_EN: Refers to the handwritten characters used as the title of a book, signboard, or artwork. It is often used when the title was written by a renowned calligrapher or cultural figure.
+
+===word: 題材===
+Meaning: Subject Matter / Theme
+Nuance_EN: The material or topic chosen as the theme of a work or discussion. Used across literature, art, classroom topics, and news coverage. Similar to "素材" but emphasizes the act of selecting and treating a subject.
+
+===word: 額===
+Meaning: Forehead
+Nuance_EN: The area of the face from the eyebrows to the hairline. It is important for facial expressions and emotions. It is a homophone of 額 meaning "picture frame" or "amount."
+
+===word: 額縁===
+Meaning: Picture Frame
+Nuance_EN: A frame used to display paintings, photographs, or mirrors, typically made of wood or metal. Metaphorically, "額縁に入れる" (to put in a frame) means to treat something as special or confine it within fixed ideas.
+
+===word: 額面===
+Meaning: Face Value
+Nuance_EN: Literally the amount printed on a security or bill, but idiomatically used in "額面通りに受け取る" meaning to take words exactly as they are. In business it refers to the face value of stocks and bonds, while in daily speech the metaphorical use is common.
+
+===word: 額===
+Meaning: Forehead
+Nuance_EN: The part of the face from the eyebrows to the hairline. Important for expressions and emotions. Homophone with 額 (frame/amount).
+
+===word: 顎===
+Meaning: Chin / Jaw
+Nuance_EN: Refers to the chin or jaw area of the face. Used in everyday conversation for anatomy, gestures (e.g., pointing with the chin), and expressions.
+
+===word: 顎髭===
+Meaning: Chin Beard / Goatee
+Nuance_EN: Facial hair grown on the chin, distinguished from a mustache (口ひげ) or cheek beard (頬ひげ). Used in discussions of fashion and personal grooming.
+
+===word: 顔が利く===
+Meaning: To Have Influence
+Nuance_EN: An idiom meaning that one is well-known in a particular field or community and can get favors done easily. It indicates having connections and influence, often used in business and local community settings.
+
+===word: 顔が広い===
+Meaning: Well-Connected
+Nuance_EN: An idiom meaning one has many acquaintances and connections across various fields and industries. It is a compliment often used for people in sales, freelancers, or community leaders, implying a broad network spanning different communities and generations.
+
+===word: 顔なじみ===
+Meaning: Familiar Face / Regular
+Nuance_EN: Refers to someone you have met many times and recognize by sight—an acquaintance rather than a close friend. Often used for the relationship between regular customers and shop staff, as in "顔なじみの客" or "顔なじみの医者."
+
+===word: 顔ぶれ===
+Meaning: Lineup / Roster
+Nuance_EN: Refers to the set or composition of people participating in a group or gathering. Used in expressions like "同じ顔ぶれが集まる" (the same faces gather) or "新しい顔ぶれになる" (a new lineup appears).
+
+===word: 顔を出す===
+Meaning: To Drop By / Show Up
+Nuance_EN: To stop by a place for a short time or to make an appearance. Used for brief visits or attending gatherings.
+
+===word: 顔付き===
+Meaning: Facial Expression / Look
+Nuance_EN: Refers to a person's facial expression, appearance, or features. Unlike "表情," which focuses on emotional expression, "顔付き" encompasses both the habitual impression of one's face and their current state.
+
+===word: 顔写真===
+Meaning: Portrait Photo / Headshot
+Nuance_EN: A photograph showing a person's face, commonly used for identification documents, resumes, and social media profile pictures.
+
+===word: 顔射===
+Meaning: Facial (Sexual Slang)
+Nuance_EN: A vulgar slang term used in sexual contexts referring to ejaculating onto a partner's face. It is an extremely crude expression.
+
+===word: 顔役===
+Meaning: Local Boss / Influential Figure
+Nuance_EN: A person who holds power and influence in a community or industry, not through an official title but through actual authority. It can sometimes refer to gambling bosses or yakuza leaders.
+
+===word: 顔文字===
+Meaning: Kaomoji / Emoticon
+Nuance_EN: A form of Japanese internet culture that combines characters and symbols to create facial expressions, such as (^_^) or (>_<). Unlike Western emoticons like :-), kaomoji are upright and allow more complex, varied expressions. They spread widely in 1990s-2000s Japanese internet culture and are used in casual communication to convey emotion.
+
+===word: 顔色===
+Meaning: Complexion / Expression
+Nuance_EN: Refers to the complexion and look on someone's face, especially for reading health or emotional changes. For example, "顔色が悪い" means someone looks unwell, while "顔色をうかがう" means to gauge another person's mood or intentions.
+
+===word: 顔貌===
+Meaning: Facial Features / Countenance
+Nuance_EN: A literary term referring to the overall impression of a person's face, including its structure and expression. More formal than "顔," it appears in literary and medical writing.
+
+===word: 顔負け===
+Meaning: Outdone / Put to Shame
+Nuance_EN: Describes being overwhelmed by another's ability or accomplishment, feeling embarrassed or inferior by comparison. It often carries a sense of surprise or admiration.
+
+===word: 顔面===
+Meaning: Face / Whole Face
+Nuance_EN: A somewhat formal term for the entire face, mainly used in medical or objective descriptions, or to emphasize striking events. Even in daily conversation, it is used when specifically stressing the whole face.
+
+===word: 顕在的===
+Meaning: Manifest / Overt
+Nuance_EN: A na-adjective meaning "visible on the surface" or "already apparent." It is the antonym of "潜在的" (latent) and is used in business and academic analysis to describe states that are clearly visible.
+
+===word: 顕微鏡===
+Meaning: Microscope
+Nuance_EN: An optical instrument used to magnify tiny objects that cannot be seen with the naked eye. It is indispensable in science classes, medical, and research settings.
+
+===word: 顕現===
+Meaning: Manifestation
+Nuance_EN: The act of something invisible appearing in clear, tangible form. Used mainly for deities, supernatural beings, or latent powers becoming visible, and appears in religious, philosophical, or fantasy contexts rather than everyday conversation.
+
+===word: 顕著===
+Meaning: Remarkable / Conspicuous
+Nuance_EN: Describes traits or effects that appear so clearly that they are obvious to anyone. It can be used positively ("顕著な効果") or negatively ("顕著な低下"). It is primarily a written word, common in business reports, academic papers, and news articles.
+
+===word: 願い事===
+Meaning: Wish / Prayer
+Nuance_EN: A wish or desire one hopes will be fulfilled, particularly something prayed for at a shrine or temple.
+
+===word: 願い出る===
+Meaning: To Apply / Request
+Nuance_EN: To formally submit a request or application through official procedures to a government office, employer, or superior.
+
+===word: 願わくば===
+Meaning: If Only / Hopefully
+Nuance_EN: An old-fashioned expression conveying a wish, meaning "if possible" or "how I hope that..." It has a classical, literary flavor.
+
+===word: 願書===
+Meaning: Application Form
+Nuance_EN: A formal document used to apply to schools or jobs. It has specific submission requirements and is commonly seen as "入学願書" (school application) or "就職願書" (job application).
+
+===word: 顛末===
+Meaning: Full Details / Whole Story
+Nuance_EN: Refers to the complete sequence of events from start to finish. Nearly synonymous with "一部始終," it is used in phrases like "顛末を報告する" (report the full details). It has a formal, somewhat stiff tone.
+
+===word: 類い===
+Meaning: Kind / Sort
+Nuance_EN: Refers to things of the same kind or group. It appears in the idiomatic expression "類い稀な" (rare of its kind), used to describe something exceptionally excellent with no equal.
+
+===word: 類似===
+Meaning: Similarity
+Nuance_EN: The state of two or more things resembling each other or sharing similar features. Often used in business and academic contexts, such as similar product designs or similar species, to state relatively objective similarities.
+
+===word: 類似品===
+Meaning: Similar Product / Imitation
+Nuance_EN: A separate product that resembles the original in design or function. It is not necessarily counterfeit or inferior—it can be a legitimate product. However, in trademark or patent contexts, it can carry a negative nuance close to "counterfeit."
+
+===word: 類型===
+Meaning: Type / Category
+Nuance_EN: Refers to things classified under the same type or category. It is a concept used to group items that share similar qualities or characteristics.
+
+===word: 類推===
+Meaning: Analogy / Inference
+Nuance_EN: The act of inferring unknown matters based on similarities with known things. It is a reasoning method that finds analogies from existing knowledge or experience to understand new situations or concepts.
+
+===word: 類稀===
+Meaning: Unparalleled / Rare
+Nuance_EN: Describes something so exceptional that there is nothing else like it. Used to praise extraordinary talent or beauty.
+
+===word: 類義語===
+Meaning: Synonym
+Nuance_EN: Refers to words that have similar meanings. This is a technical term commonly used in linguistics and language learning.
+
+===word: 類語===
+Meaning: Synonym / Related Word
+Nuance_EN: A word meaning "synonym" or related term. It is used across a wide range of contexts, from everyday conversation to formal writing.
+
+===word: 顧問===
+Meaning: Advisor / Counselor
+Nuance_EN: A person who gives advice to a company or organization based on specialized knowledge and experience. They are not necessarily full-time employees.
+
+===word: 要===
+Meaning: Essential Point / Core
+Nuance_EN: Refers to the most important or central part of something. The word originates from the pivot of a folding fan (扇子の要), from which it shifted to mean "the crucial point."
+
+===word: 要===
+Meaning: Essential Point / Core
+Nuance_EN: Refers to the most important or central part of something. The word originates from the pivot of a folding fan (扇子の要), from which it shifted to mean "the crucial point."
+
+===word: 顧客満足===
+Meaning: Customer Satisfaction
+Nuance_EN: The degree to which customers are satisfied with a product or service. It is an important metric in business management.
+
+===word: 顰める===
+Meaning: To Frown / Scowl
+Nuance_EN: To knit one's brows or contort one's face in response to discomfort, displeasure, or distaste.
+
+===word: 顰蹙===
+Meaning: Displeasure / Scandal
+Nuance_EN: Refers to behavior or situations that cause people around to frown in disapproval. Used in expressions like "顰蹙を買う" (to incur public displeasure) or "顰蹙ものだ" (something scandalous), typically for socially inappropriate or tone-deaf behavior in public.
+
+===word: ぴたり===
+Meaning: Exactly / Suddenly (Stop)
+Nuance_EN: An adverb expressing that things match perfectly or that movement suddenly stops completely. It is similar to "ぴったり" but gives a more instantaneous impression.
+
+===word: 凪===
+Meaning: Calm / Lull
+Nuance_EN: A uniquely Japanese word describing a state where the wind has completely died down and the sea surface is calm. It is also used metaphorically to describe a temporary lull or calm in affairs.
+
+===word: 桶===
+Meaning: Bucket / Tub
+Nuance_EN: A cylindrical container made of wood or plastic, used for holding water or other items.
+
+===word: 電線===
+Meaning: Electric Wire / Power Line
+Nuance_EN: Metal cables used to transmit electricity, strung between utility poles and buildings. It is essential infrastructure seen in everyday cityscapes.
+
+===word: 風の吹き回し===
+Meaning: Turn of Events / Whim of Fate
+Nuance_EN: An idiom derived from changes in wind direction, referring to unpredictable shifts in circumstances or fortune. It is also used when someone's attitude or situation changes unexpectedly.
+
+===word: まとも===
+Meaning: Decent / Proper
+Nuance_EN: A casual word describing someone or something as serious, sensible, and normal. It is used broadly for people, ideas, and conditions, and appears very frequently in the negative form "まともじゃない" (not normal/decent).
+
+===word: 風上===
+Meaning: Windward / Upwind
+Nuance_EN: The direction from which the wind comes, the opposite of "風下" (downwind). Metaphorically, the idiom "風上にも置けない" describes someone who lacks basic human decency.
+
+===word: 目上===
+Meaning: Superior / Senior
+Nuance_EN: Refers to people of higher rank or status, such as supervisors or elders. Used when describing workplace or social hierarchies, and carries a respectful tone.
+
+===word: 風体===
+Meaning: Appearance / Demeanor
+Nuance_EN: Refers to a person's outward clothing, attire, and overall appearance or bearing. It is often used with a slightly negative connotation.
+
+===word: 風俗嬢===
+Meaning: Sex Worker (Female)
+Nuance_EN: A term for women working in the sex industry, encompassing various forms such as establishments and delivery health services. It is a somewhat direct expression, and euphemisms are often preferred in public discourse.
+
+===word: 風俗店===
+Meaning: Adult Entertainment Venue
+Nuance_EN: A general term for shops that provide sexual services or entertainment businesses that fall under Japan's "風俗営業" (adult entertainment business) regulations.
+
+===word: 風刺===
+Meaning: Satire
+Nuance_EN: The act of criticizing flaws in society or individuals through irony and humor. Rather than direct criticism, it uses laughter and exaggeration to point out problems indirectly, often seen in cartoons and columns.
+
+===word: 風刺画===
+Meaning: Satirical Cartoon
+Nuance_EN: A drawing that depicts political or social issues with irony and humor. Found in newspaper and magazine cartoon sections, it uses comedic techniques to deliver critical content.
+
+===word: 風力===
+Meaning: Wind Power
+Nuance_EN: A term used in the context of energy generated from wind and wind power generation. It frequently appears in discussions of renewable energy.
+
+===word: 風化===
+Meaning: Weathering / Fading
+Nuance_EN: The process by which rocks decompose and change over time due to natural forces such as wind and rain. Metaphorically, it also refers to memories and emotions gradually fading with time. Used in both geology and figurative expression.
+
+===word: 風化===
+Meaning: Weathering / Fading
+Nuance_EN: Refers both to the physical deterioration of rocks and structures from long exposure to wind and rain, and metaphorically to memories and emotions fading over time. The latter usage is especially common in "風化させてはいけない" (must not let it fade), in contexts of preserving memories of disasters and wars. A word with deep emotional resonance.
+
+===word: 風向き===
+Meaning: Wind Direction / Turn of Events
+Nuance_EN: Literally refers to the direction the wind is blowing, but is also used metaphorically to describe how a situation or the balance of power is shifting.
+
+===word: 風向き===
+Meaning: Wind Direction / Turn of Events
+Nuance_EN: Literally refers to the direction the wind is blowing, but is also used metaphorically to describe how a situation or the balance of power is shifting.
+
+===word: 風呂場===
+Meaning: Bathroom / Bathing Area
+Nuance_EN: The room in a home where one takes a bath. It is a more everyday term than "浴室" and mainly refers to the bathroom in a private residence.
+
+===word: 風呂敷===
+Meaning: Wrapping Cloth / Furoshiki
+Nuance_EN: A square cloth used to wrap and carry items, symbolizing traditional Japanese packaging culture. It gets its name from being used to wrap clothes at public baths (風呂屋). The famous metaphor "風呂敷を広げる" means to make grand, exaggerated claims. It has been re-evaluated as an eco-friendly bag.
+
+===word: 風呂桶===
+Meaning: Wooden Bathtub
+Nuance_EN: A traditional bathtub made of wood or metal, evoking classic Japanese bathing facilities such as the goemon-buro (iron kettle bath) or luxury cypress tubs. It appears in period dramas and ryokan scenes, and is now rarely seen except in high-end inns or old houses.
+
+===word: 風呂釜===
+Meaning: Bath Heater / Boiler
+Nuance_EN: The device used to heat bath water or the component that warms the water in the bathtub. It plays an important role in home life, especially during winter.
+
+===word: 風味===
+Meaning: Flavor
+Nuance_EN: Refers to the excellent taste and aroma of food. It is a somewhat literary way to praise food.
+
+===word: 風味絶佳===
+Meaning: Exquisite Flavor
+Nuance_EN: Describes food with exceptionally fine taste and aroma. It is a somewhat literary expression used to praise food.
+
+===word: 風味豊か===
+Meaning: Rich Flavor
+Nuance_EN: Describes food or drink with a rich, deep aroma and flavor. "風味" encompasses both taste and smell, and this expression is commonly used in food reviews and menu descriptions.
+
+===word: 風土===
+Meaning: Natural Features / Regional Character
+Nuance_EN: Refers to the climate, natural environment, and cultural characteristics unique to a particular region. Used when discussing how geography shapes local life and customs.
+
+===word: 風土病===
+Meaning: Endemic Disease
+Nuance_EN: A disease that occurs only in certain regions, caused by factors such as climate, natural environment, or local lifestyle habits.
+
+===word: 予防接種===
+Meaning: Vaccination
+Nuance_EN: The act of inoculating a vaccine to prevent disease. It is regularly performed as a preventive measure against infectious diseases such as influenza and COVID-19, and is an important term in medicine and public health.
+
+===word: 風変わり===
+Meaning: Eccentric / Quirky
+Nuance_EN: A na-adjective describing something that is unusual and different from the ordinary. It can carry a negative nuance of being strange, but also a positive nuance of being individualistic and interesting. It is a convenient word for stating subjective impressions.
+
+===word: 風当たり===
+Meaning: Criticism / Backlash
+Nuance_EN: Literally refers to wind striking something, and metaphorically to the intensity of criticism or opposition from those around you. It is especially used in the phrase "風当たりが強い" (to face strong criticism or social pressure).
+
+===word: 風情===
+Meaning: Elegance / Atmosphere
+Nuance_EN: A noun referring to the distinctive charm, taste, or atmosphere that something exudes. It often describes scenes that evoke traditional Japanese aesthetic sensibilities and a sense of the seasons.
+
+===word: 風景===
+Meaning: Scenery / Landscape
+Nuance_EN: A general word for the visible scenery or view, encompassing not only natural landscapes but also everyday urban scenes.
+
+===word: 風景画===
+Meaning: Landscape Painting
+Nuance_EN: A painting that depicts natural scenery or townscapes.
+
+===word: 風来坊===
+Meaning: Wanderer / Free Spirit
+Nuance_EN: A somewhat old-fashioned word for a person who lives freely and travels without settling in one place. Rather than a vagrant, it evokes a free spirit who comes and goes like the wind, with a literary flavor.
+
+===word: 風格===
+Meaning: Dignity / Distinctive Character
+Nuance_EN: The calm, composed impression and unique character that emanates from a person or thing. It conveys the dignity and presence perceived in someone who has accumulated experience and accomplishments.
+
+===word: 風流===
+Meaning: Refined Elegance
+Nuance_EN: Refers to the appreciation of graceful, tasteful beauty and elegant, refined behavior. It is associated with traditional Japanese arts such as tea ceremony, flower arrangement, and waka poetry, and is used to praise a composed, cultured way of life.
+
+===word: 風潮===
+Meaning: Trend / Current
+Nuance_EN: A tendency or atmosphere that is widespread in a particular era or society. It refers to the prevailing flow of people's thoughts and actions.
+
+===word: 風物詩===
+Meaning: Seasonal Feature / Scene
+Nuance_EN: Customs, scenery, or phenomena that make one feel a particular season. In Japan, there are distinct "風物詩" associated with each of the four seasons.
+
+===word: 風疹===
+Meaning: Rubella
+Nuance_EN: A viral infection characterized mainly by rash and fever. Infection during early pregnancy can cause congenital rubella syndrome in the fetus, which is why vaccination is strongly emphasized. It is a medical term used in news and healthcare settings.
+
+===word: 風習===
+Meaning: Custom / Folkway
+Nuance_EN: Refers to customs and practices that have been maintained over a long period in a particular region or society.
+
+===word: 風船===
+Meaning: Balloon
+Nuance_EN: A balloon filled with air or gas, used as a toy or decoration.
+
+===word: 風見鶏===
+Meaning: Weather Vane / Weathercock
+Nuance_EN: A rooster-shaped instrument mounted on rooftops to indicate wind direction, a familiar ornamental feature of Western houses. Metaphorically, it refers to a person who easily shifts with public opinion or passing trends.
+
+===word: 風貌===
+Meaning: Appearance / Features
+Nuance_EN: Refers to a person's outward appearance, facial features, and overall impression. It encompasses not only physical looks but also the aura or presence the person projects.
+
+===word: 風車===
+Meaning: Windmill / Pinwheel
+Nuance_EN: A device with blades that spin using wind power, used for pumping water or generating electricity. It includes famous Dutch windmills and modern wind turbines, as well as small toy pinwheels.
+
+===word: 風車小屋===
+Meaning: Windmill (Building)
+Nuance_EN: A building that uses wind power for tasks like grinding grain or generating electricity. While "風車" alone can mean the same, adding "小屋" (hut/building) strengthens the sense of it being a structure.
+
+===word: 悪===
+Meaning: Evil / Wrong
+Nuance_EN: Refers to something that is wrong or immoral—bad deeds or a heart that goes against human decency.
+
+===word: 流行る===
+Meaning: To Be Prevalent / Popular
+Nuance_EN: A verb meaning that something is spreading widely among many people, such as an illness or a trend. It is very common in everyday conversation and applies not only to infectious diseases but to anything that becomes widespread.
+
+===word: 風邪をこじらせる===
+Meaning: To Let a Cold Worsen
+Nuance_EN: An idiom meaning to aggravate a cold or let it drag on. It carries the nuance that symptoms become more severe because one failed to treat it properly or pushed oneself too hard.
+
+===word: 悪===
+Meaning: Evil / Wrong
+Nuance_EN: Refers to something that is wrong or immoral—bad deeds or a heart that goes against human decency.
+
+===word: 味な===
+Meaning: Clever / Shrewd
+Nuance_EN: Rather than simply meaning "tasty," "味な" describes something that is skillfully devised, witty, or admirably clever. Used in expressions like "味な真似をする" (to pull a clever trick) or "味なことを言う" (to say something witty), it has a somewhat old-fashioned, stylish flavor.
+
+===word: 風采===
+Meaning: Appearance / Presence
+Nuance_EN: The overall impression created by a person's appearance, clothing, and manner. It is often used in the negative idiom "風采が上がらない," meaning one's appearance is unimpressive or shabby.
+
+===word: 風防ガラス===
+Meaning: Windshield / Protective Glass
+Nuance_EN: Glass or a transparent panel mounted at the front to protect equipment or instruments from wind, rain, and dust. Typical examples include automobile windshields and the glass covering a wristwatch face.
+
+===word: 風雨===
+Meaning: Wind and Rain / Storm
+Nuance_EN: Refers to weather in which wind and rain rage simultaneously, often used in descriptions of typhoons and storms. It appears in phrases like "風雨にさらされる" (to be exposed to the storm) and "風雨を凌ぐ" (to brave the storm), emphasizing harsh natural conditions.
+
+===word: 颯と===
+Meaning: Swiftly / Quickly
+Nuance_EN: An adverb describing performing an action quickly and smoothly, like a sudden gust of wind. It evokes an action completed nimbly and without wasted movement.
+
+===word: 颯爽と===
+Meaning: Briskly / Dashingly
+Nuance_EN: An adverb describing a smart, sharp, and stylish appearance or bearing. It is especially used for the way someone walks or makes an entrance, conveying a fresh, reliable impression.
+
+===word: 飄々===
+Meaning: Nonchalant / Free-Spirited
+Nuance_EN: A mimetic word describing something swaying in the wind or a person living freely without attachment to worldly concerns. It has both literal uses ("dancing in the wind") and metaphorical ones ("a carefree way of life"), with a literary flavor.
+
+===word: 飄然===
+Meaning: Nonchalantly / Aloof
+Nuance_EN: Describes behaving freely and unconstrained by worldly concerns, with a light, refined attitude. It is a literary expression used to portray a free-spirited, elegant character.
+
+===word: 飄逸===
+Meaning: Free-Spirited / Unconventional
+Nuance_EN: Describes someone or something that has dignity and style yet is free-spirited and unconventional. It is a literary term, particularly used in evaluating works of art or people, with an elegant, refined quality.
+
+===word: 飄零===
+Meaning: Wandering / Downfallen
+Nuance_EN: A literary expression describing the state of drifting without a fixed home, like being blown by the wind, or of falling into lonely decline. It evokes the image of scattering leaves and carries a sense of life's fragility and impermanence.
+
+===word: 飛ばし携帯===
+Meaning: Disposable Phone / Burner Phone
+Nuance_EN: A slang term for prepaid, disposable mobile phones used for criminal purposes. Because the owner's identity is difficult to trace, they are often exploited for illegal activities. The term appears in news reports.
+
+===word: 飛ばす===
+Meaning: To Fly / To Let Fly
+Nuance_EN: To cause something to move through the air. It has many uses: flying a bird or plane, hitting a ball, "車を飛ばす" (to drive at high speed), and "ページを飛ばす" (to skip pages).
+
+===word: 飛び上がる===
+Meaning: To Jump Up / Leap
+Nuance_EN: To spring upward from the ground with force. It is also used for reflexive reactions when surprised or delighted, covering both physical leaps and emotional responses.
+
+===word: 飛び下りる===
+Meaning: To Jump Down
+Nuance_EN: To leap down from a high place with force. It can also describe hurriedly getting off a train or bus.
+
+===word: 飛び乗る===
+Meaning: To Jump On / Leap Aboard
+Nuance_EN: To board a moving vehicle by jumping onto it. It can also mean to leap forcefully onto a seat or platform.
+
+===word: 飛び交う===
+Meaning: To Fly About / Cross
+Nuance_EN: Refers to birds or insects flying around in the air. Metaphorically, it describes opinions, information, or words being exchanged actively and vigorously.
+
+===word: 飛び出す絵本===
+Meaning: Pop-Up Book
+Nuance_EN: A picture book with three-dimensional illustrations that spring up when the page is opened. It is popular as a children's book.
+
+===word: 飛び切り===
+Meaning: Extraordinary / The Best
+Nuance_EN: An adverb or adjective that intensifies the meaning of "most" or "best." It is used to emphasize something especially good or outstanding, and has a somewhat casual, emotional tone.
+
+===word: 飛び去る===
+Meaning: To Fly Away
+Nuance_EN: To fly off into the distance, as birds or airplanes do. Metaphorically, it also describes time or opportunities passing by quickly.
+
+===word: 飛び散る===
+Meaning: To Scatter / Fly Apart
+Nuance_EN: Describes fragments of objects or liquid scattering in all directions. It depicts things breaking or splashing due to an accident or impact, and is a highly visual word.
+
+===word: 飛び火===
+Meaning: Flying Sparks / Spread
+Nuance_EN: Refers to sparks that scatter from a burning fire. Metaphorically, it means problems or influences spreading to other areas. It is also the name of a skin condition (impetigo).
+
+===word: 飛び石===
+Meaning: Stepping Stones / Gap Days
+Nuance_EN: Refers to stones placed in gardens for crossing water or ground, and metaphorically to non-consecutive holidays (飛び石連休), such as a holiday separated by a working day.
+
+===word: 飛び移る===
+Meaning: To Leap Across
+Nuance_EN: To jump and move from one place to another. It is used for physical leaps as well as metaphorically for suddenly changing a topic or one's position.
+
+===word: 飛び級===
+Meaning: Grade Skipping
+Nuance_EN: A system in which academically outstanding students advance to a higher grade, bypassing the normal grade progression. It is common in the US and other countries, and has been introduced in some Japanese schools.
+
+===word: 飛び起きる===
+Meaning: To Jump Out of Bed
+Nuance_EN: To suddenly rise from a sleeping state with force, due to surprise or an urgent matter. It often involves emotions like shock, fear, or panic, and conveys a sense of abrupt, vigorous movement.
+
+===word: 飛び跳ねる===
+Meaning: To Leap / Bounce
+Nuance_EN: To jump up and down with energy. It is often used as an expression of joy, surprise, or excitement.
+
+===word: 飛び込む===
+Meaning: To Dive In / Jump Into
+Nuance_EN: To enter forcefully from a high place or from outside. Metaphorically, it means to decisively enter a new environment or situation, carrying a nuance of taking on a challenge.
+
+===word: 飛び退く===
+Meaning: To Jump Back
+Nuance_EN: To quickly leap to the side or backward to avoid danger. It is a reflexive action when startled or when one senses a threat.
+
+===word: 飛び魚===
+Meaning: Flying Fish
+Nuance_EN: A type of fish that glides through the air above the sea surface. In Japan it is known as a summer seasonal word and is eaten fresh as sashimi or grilled. It is also called "トビウオ."
+
+===word: 飛ぶ===
+Meaning: To Fly
+Nuance_EN: To move through the air, as birds or airplanes do. It also means to leap or jump.
+
+===word: 飛来===
+Meaning: To Fly In / Arrive
+Nuance_EN: To arrive by flying through the air. It is used for birds, insects, pollen, and flying objects.
+
+===word: 飛沫===
+Meaning: Splash / Spray
+Nuance_EN: Refers to droplets of water or liquid that scatter, often used in descriptions of natural phenomena like waves or rain. Since the COVID-19 pandemic, it has become widely known through the term "飛沫感染" (droplet infection). It is a vivid, dynamic word.
+
+===word: 飛沫感染===
+Meaning: Droplet Infection
+Nuance_EN: A route of infection in which a person inhales droplets containing viruses or bacteria expelled through coughing or sneezing. It is a primary transmission route for influenza and coronaviruses.
+
+===word: 飛翔===
+Meaning: Flight / Soaring
+Nuance_EN: The act of flying high in the sky, as birds or airplanes do. It has a literary resonance and is used metaphorically to express freedom or great progress.
+
+===word: 飛耳長目===
+Meaning: Well-Informed
+Nuance_EN: A four-character idiom meaning being highly knowledgeable and able to gather information from distant places. "飛耳" is an ear that hears distant sounds, and "長目" is an eye that sees far. It is used to praise a person's information-gathering abilities.
+
+===word: 飛行===
+Meaning: Flight
+Nuance_EN: The act of flying through the air, especially an aircraft moving through the sky. It has a technical, objective tone and is used more in reports and explanations than in everyday conversation.
+
+===word: 陸===
+Meaning: Land / Ground
+Nuance_EN: A single-kanji word meaning "land" or "ground," as opposed to the sea or sky. It is commonly used in compounds such as 陸上 (onshore), 陸地 (landmass), and 上陸 (landing), but sounds somewhat formal when used alone.
+
+===word: 除いて===
+Meaning: Except / Excluding
+Nuance_EN: A grammatical expression that treats a particular thing as an exception, stating that the rest all apply. It is used broadly in both everyday conversation and business contexts.
+
+===word: 運賃===
+Meaning: Fare
+Nuance_EN: The fee paid when using transportation, such as buses, trains, and taxis.
+
+===word: 飛行船===
+Meaning: Airship / Zeppelin
+Nuance_EN: An aircraft that floats by filling its interior with a light gas such as helium or hydrogen and is propelled by engines. It has been used for passenger travel and as advertising media.
+
+===word: 飛行艇===
+Meaning: Flying Boat
+Nuance_EN: An aircraft designed to land on and take off from water, with a fuselage shaped like a boat's hull. It is a type of seaplane used for maritime rescue operations and transport to remote islands.
+
+===word: 飛距離===
+Meaning: Flight Distance
+Nuance_EN: The horizontal distance that an object travels through the air. It is a concrete measurement term used in sports and physics, commonly heard in golf, baseball, and archery.
+
+===word: 飛躍する===
+Meaning: To Leap / Advance Rapidly
+Nuance_EN: To physically jump upward. Metaphorically, it means an argument or situation suddenly moves forward, or something develops greatly.
+
+===word: 飛躍的===
+Meaning: Dramatic / Rapid
+Nuance_EN: Literally meaning "like leaping," it describes sudden, rapid progress or improvement that skips incremental steps. It is used to emphasize positive rapid growth, such as technological advances or remarkable results.
+
+===word: 食いしん坊===
+Meaning: Foodie / Big Eater
+Nuance_EN: A person who loves food and eats a great deal. It is a lighthearted expression often used for children, and can also be used about oneself.
+
+===word: 食いだめ===
+Meaning: Eating in Advance
+Nuance_EN: The act of eating a lot now in anticipation of not having time to eat later. Literally meaning "eat and store," it carries the nuance of building up energy before a busy period. It also implies a slightly impatient attitude of eating "just in case," and is a casual colloquial expression.
+
+===word: 食いっぱぐれ===
+Meaning: Losing One's Livelihood
+Nuance_EN: The state of failing to secure a meal, meaning being unable to earn a living. It describes a situation where one has no work or income and struggles to afford food.
+
+===word: 食いつぶす===
+Meaning: To Squander / Eat Through
+Nuance_EN: To gradually use up savings or assets. It carries a strong nuance of wasteful, unplanned spending, with the image of consuming something that should have lasted longer.
+
+===word: 食い下がる===
+Meaning: To Persist / Not Give Up
+Nuance_EN: To cling to someone and continue pressing one's demands without letting go. It describes persisting in one's claims even after being refused, and while it can have a slightly negative nuance, it is also used positively in negotiations and arguments.
+
+===word: 食い倒れ===
+Meaning: Spending All on Food
+Nuance_EN: The act of spending all one's money on food, or eating so much that one falls ill. It is famously associated with Osaka's "食い倒れの街" (city where you eat until you go broke), humorously describing the local custom of sparing no expense on food.
+
+===word: 食い入る===
+Meaning: To Devour / Gaze Intently
+Nuance_EN: To eat desperately as if biting into food, or to focus intensely on something. It is especially common in the phrase "食い入るように見る," meaning to stare at something with intense interest.
+
+===word: 食い扶持===
+Meaning: Living Expenses / Keep
+Nuance_EN: The cost of food required for one person to live. It is used colloquially in phrases like "食い扶持を稼ぐ" (to earn one's keep). The character "扶" carries the meaning of "to support."
+
+===word: 食い散らす===
+Meaning: To Eat Messily / Dabble
+Nuance_EN: To sample bits of various foods and leave them scattered about, or to start many things without focusing on any. It is used both literally for messy eating and metaphorically for half-hearted dabbling.
+
+===word: 食い止める===
+Meaning: To Stem / Check
+Nuance_EN: To halt the progress or spread of something. It is used when preventing negative or undesirable situations from advancing.
+
+===word: 食い殺す===
+Meaning: To Kill and Eat
+Nuance_EN: Means for an animal or beast to kill its prey by biting and then eat it. It is a very violent and frightening word that is almost never used for humans, appearing in horror, suspense, and wildlife descriptions.
+
+===word: 食い気===
+Meaning: Appetite
+Nuance_EN: The desire or craving to eat. It is a somewhat colloquial word that conveys a strong, prominent appetite.
+
+===word: 食い繋ぐ===
+Meaning: To Scrape By
+Nuance_EN: To manage to sustain oneself with minimal income or food. It implies getting by day to day in economically difficult circumstances.
+
+===word: 食い込む===
+Meaning: To Cut Into / Bite Into
+Nuance_EN: Describes something pressing deeply into another object, such as a rope cutting into skin or shoes digging into feet. Metaphorically, it is used in expressions like "予算に食い込む" (to eat into the budget).
+
+===word: 食い違う===
+Meaning: To Differ / Conflict
+Nuance_EN: Refers to opinions or facts that do not match and are contradictory. It is used when people's perceptions or ideas are out of alignment.
+
+===word: 食って掛かる===
+Meaning: To Attack Verbally / Snap At
+Nuance_EN: An idiom meaning to confront someone aggressively and angrily, or to argue fiercely. Literally, it evokes the image of lunging at someone as if to bite. It is used in arguments and quarrels, in casual, emotional conversation.
+
+===word: 食べかす===
+Meaning: Food Scraps / Crumbs
+Nuance_EN: A casual, everyday word for small leftover bits of food after eating, such as rice grains on dishes, breadcrumbs around the mouth, or food stuck between teeth. Unlike "食べ残し" (intentional leftovers), "食べかす" suggests small, unintentional scraps or crumbs.
+
+===word: ベタ===
+Meaning: Cliché / Typical
+Nuance_EN: Slang for something so conventional and predictable that it lacks freshness—the "obvious" choice. It is used for predictable plot developments, jokes, or staging, often with a slightly critical or self-deprecating tone, though it can also carry affection.
+
+===word: ベタ===
+Meaning: Cliché / Typical
+Nuance_EN: Slang for something so conventional and predictable that it lacks freshness—the "obvious" choice. It is used for predictable plot developments, jokes, or staging, often with a slightly critical or self-deprecating tone, though it can also carry affection.
+
+===word: 美味===
+Meaning: Deliciousness
+Nuance_EN: A noun or na-adjective meaning the same as "美味しい" (delicious), but with a somewhat archaic or literary flavor. It is often used in refined expressions like "美味なる" or "美味を味わう" (to savor deliciousness).
+
+===word: むせる===
+Meaning: To Choke
+Nuance_EN: To choke or cough when food, drink, or smoke enters the windpipe. It is a common everyday occurrence, especially when eating too quickly.
+
+===word: 好き嫌い===
+Meaning: Likes and Dislikes
+Nuance_EN: Refers to differences in preference toward people or things. It is commonly used in the context of food preferences, as in "食べ物の好き嫌い" (food likes and dislikes).
+
+===word: がっつく===
+Meaning: To Wolf Down / Grab Greedily
+Nuance_EN: Describes acting greedily and voraciously toward food or desires. It carries a negative nuance of being unrefined or unsightly, and is a colloquial, casual expression.
+
+===word: 食べ盛り===
+Meaning: Growing Appetite
+Nuance_EN: Refers to the period when growing children or adolescents eat a great deal, or the state of having a hearty appetite. It is especially used for teenage boys, with the nuance that parents are pleased but food expenses increase.
+
+===word: 食み出す===
+Meaning: To Stick Out / Protrude
+Nuance_EN: To protrude beyond a certain range or boundary. It is used both physically, such as something sticking out of a container, and metaphorically, such as exceeding one's authority or limits. It has a somewhat literary tone.
+
+===word: 食らう===
+Meaning: To Devour / Take (a Hit)
+Nuance_EN: To eat something with gusto. It is also a rough, vulgar way to say "to receive" an attack or blow.
+
+===word: 食わず嫌い===
+Meaning: Disliking Without Trying
+Nuance_EN: The act of deciding one dislikes something without actually trying it. It applies not only to food but also to people, hobbies, and new experiences, and is used as a caution against prejudice and preconceptions.
+
+===word: 食パン===
+Meaning: Loaf of Bread
+Nuance_EN: The square, white bread commonly eaten in Japan. It is mainly eaten for breakfast or as toast, sliced one piece at a time.
+
+===word: 食中毒===
+Meaning: Food Poisoning
+Nuance_EN: Health damage caused by bacteria or viruses present in food. It is a common medical term used in discussions of hygiene and health.

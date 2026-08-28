@@ -1,0 +1,799 @@
+===word: 実行時===
+Meaning: Runtime
+Nuance_EN: An IT term referring to the moment or period when a computer program is actually being executed, often contrasted with compile time. Used in technical contexts like errors or memory management.
+
+===word: 実行時エラー===
+Meaning: Runtime error
+Nuance_EN: A technical term in programming for errors that occur during the execution of a computer program.
+
+===word: 実行時コンパイラ===
+Meaning: Runtime compiler
+Nuance_EN: A type of compiler, also called a JIT compiler, that converts code into machine language during program execution, converting only necessary parts as needed to improve efficiency rather than compiling everything in advance.
+
+===word: 実行権===
+Meaning: Execute permission
+Nuance_EN: Refers to the permission to execute computer files or programs, commonly used in system access rights settings.
+
+===word: 実行速度===
+Meaning: Execution speed
+Nuance_EN: Refers to the speed at which a computer or program processes tasks, commonly used in IT and engineering fields.
+
+===word: 実装する===
+Meaning: Implement
+Nuance_EN: Means to incorporate actual functions or components into a product or system, especially in IT, where designs or specifications are realized as code or hardware.
+
+===word: 実証可能===
+Meaning: Verifiable
+Nuance_EN: Indicates that something can be proven through actual evidence, scientifically or logically, with objective verification.
+
+===word: 実話===
+Meaning: True story
+Nuance_EN: Refers to a story based on actual events, commonly used in introductions to novels or movies.
+
+===word: 実費===
+Meaning: Actual cost
+Nuance_EN: Refers to the actual expenses incurred, excluding profit or fees, representing the net amount.
+
+===word: 実質のない[空疎な]議論===
+Meaning: Hollow argument
+Nuance_EN: A critical expression for discussions that lack substance or concreteness, remaining superficial and empty.
+
+===word: 実質的===
+Meaning: Substantive
+Nuance_EN: Indicates that something is true in content or essence rather than in form, used to refer to the core rather than the surface.
+
+===word: 実践===
+Meaning: Practice
+Nuance_EN: Refers to putting ideas or theories into action, or accumulating daily experience, often contrasted with theory to emphasize the importance of actual behavior.
+
+===word: 実践的===
+Meaning: Practical
+Nuance_EN: Describes an attitude or method that values usefulness in real actions or on-site situations rather than theory, often used positively in business or education.
+
+===word: 実験室からの出火を想定して避難訓練が行なわれた===
+Meaning: Assumed
+Nuance_EN: Refers to anticipating or hypothesizing about possible future events, frequently used in business or academic contexts.
+
+===word: 実験的===
+Meaning: Experimental
+Nuance_EN: An adjectival verb describing the adoption of new methods or approaches, often in innovative contexts like art or science.
+
+===word: 客体===
+Meaning: Object
+Nuance_EN: A philosophical term referring to something that is the target of perception or action by a subject.
+
+===word: 客層===
+Meaning: Customer base
+Nuance_EN: Refers to the types and attributes (e.g., age, gender, income) of customers using a store or facility, a key concept in marketing and business strategy.
+
+===word: 客観的===
+Meaning: Objective
+Nuance_EN: Describes an attitude of seeing things as they are, without personal feelings or biases, opposite of "subjective," and important in business and academia.
+
+===word: 客車===
+Meaning: Passenger car
+Nuance_EN: A railway vehicle for carrying passengers, distinguished from freight cars.
+
+===word: 客間===
+Meaning: Guest room
+Nuance_EN: A room specially prepared in a house or inn for entertaining guests, typically not used daily but for visitors.
+
+===word: 宣う===
+Meaning: Say (archaic honorific)
+Nuance_EN: An archaic and exaggerated honorific for "say," now often used ironically or jokingly in modern Japanese.
+
+===word: 宣べ伝える===
+Meaning: Proclaim
+Nuance_EN: To widely announce something, especially religious teachings, commonly used in contexts like spreading the Christian gospel; very literary.
+
+===word: 宣伝する===
+Meaning: Advertise
+Nuance_EN: To widely inform people about products, services, or ideas to gain recognition.
+
+===word: 宣告===
+Meaning: Sentence / Pronouncement
+Nuance_EN: Refers to a court delivering a verdict, or a doctor informing a patient of their remaining lifespan, used in formal and solemn settings.
+
+===word: 宣戦布告===
+Meaning: Declaration of war
+Nuance_EN: The formal announcement by a nation to start war against another, now a legal procedure under international law, but also used metaphorically for a declaration of total confrontation.
+
+===word: 宣教===
+Meaning: Missionary work
+Nuance_EN: Refers to activities spreading religious teachings, especially Christianity, evoking historical and religious connotations; formal and somewhat stiff.
+
+===word: 宣言===
+Meaning: Declaration
+Nuance_EN: To clearly express one's opinion, determination, or official view externally, used broadly from individuals to national levels.
+
+===word: 宣誓===
+Meaning: Oath
+Nuance_EN: A formal promise or vow, often in legal or ceremonial contexts.
+
+===word: 室内装飾===
+Meaning: Interior decoration
+Nuance_EN: Refers to beautifying a room by arranging furniture, curtains, etc., to enhance its appearance.
+
+===word: 室長===
+Meaning: Section chief
+Nuance_EN: The head of a specific department or section called "室" in companies or research institutions, a smaller unit than a section or department head.
+
+===word: 宥める===
+Meaning: Appease
+Nuance_EN: To gently calm someone who is angry or excited, using words or attitudes to soothe their emotions.
+
+===word: 宦官===
+Meaning: Eunuch
+Nuance_EN: A historical term for castrated men who served in royal palaces, especially in Chinese dynasties, often holding political power as close aides to emperors; also existed in Nara-era Japan but not established.
+
+===word: 宮司===
+Meaning: Shinto priest (chief)
+Nuance_EN: The highest-ranking Shinto priest at a shrine, responsible for overseeing rituals and management.
+
+===word: 宮城県===
+Meaning: Miyagi Prefecture
+Nuance_EN: A prefecture in the Tohoku region, with Sendai as its capital, known for tourism and foods like beef tongue and sasa kamaboko.
+
+===word: 宮崎県===
+Meaning: Miyazaki Prefecture
+Nuance_EN: A prefecture in Kyushu, Japan, known for its warm climate, beautiful nature, and popularity as a tourist destination.
+
+===word: 宮廷===
+Meaning: Court
+Nuance_EN: Refers to the residence and political center of a monarch or royal family, evoking images of splendor and strict etiquette, used historically for Japanese "宮中" or European courts.
+
+===word: 宮殿===
+Meaning: Palace
+Nuance_EN: A grand and luxurious building where kings or emperors live, often associated with foreign royal residences, symbolizing political power and serving as a dwelling.
+
+===word: 宰相===
+Meaning: Prime minister
+Nuance_EN: A formal term for the head of government, historically used in East Asian contexts.
+
+===word: 害===
+Meaning: Harm
+Nuance_EN: Refers to negative effects on people or things, or the harm itself, used in compounds like "害悪" (harm) or "公害" (pollution).
+
+===word: 害す===
+Meaning: Harm (archaic)
+Nuance_EN: An old-fashioned way to say "to cause harm or damage," with "害する" being more common in modern Japanese.
+
+===word: 害獣===
+Meaning: Pest animal
+Nuance_EN: Refers to wild animals that harm human life or agriculture, such as wild boar, deer, or crows.
+
+===word: 害虫===
+Meaning: Pest insect
+Nuance_EN: A general term for insects harmful to human life, like cockroaches, mosquitoes, or termites, often problematic in hygiene and agriculture.
+
+===word: 宴もたけなわ===
+Meaning: Party in full swing
+Nuance_EN: A set phrase describing the peak of excitement at a banquet or party, often used as a preface to announce the end of the event.
+
+===word: 宴席===
+Meaning: Banquet
+Nuance_EN: A formal term for a party or celebration gathering, used in formal settings.
+
+===word: 宵闇===
+Meaning: Twilight darkness
+Nuance_EN: A literary expression for the dim time just after sunset, closer to night than "夕闇" (evening twilight).
+
+===word: 家から学校までの道順を教えてください。===
+Meaning: Directions
+Nuance_EN: Refers to the route or path from one place to another, commonly used in asking for guidance.
+
+===word: 家から駅までおよそ1キロあります。===
+Meaning: Approximately
+Nuance_EN: An adverb meaning "roughly" or "about," used to estimate quantities or degrees.
+
+===word: 家が壊されたのはその家族に止まらず，町全体に影響受けた。===
+Meaning: Influence
+Nuance_EN: A noun referring to the effect one thing has on another, both positive and negative, widely used across various fields.
+
+===word: 家で洗濯すると色がにじむ。===
+Meaning: Laundry
+Nuance_EN: The act of cleaning clothes or fabric items with water and detergent, a common household chore.
+
+===word: 家の中をどたどた走り回ってはいけません===
+Meaning: Stomp around
+Nuance_EN: An onomatopoeic word describing heavy, loud footsteps, used to depict noise from upstairs or someone rushing around, with a sense of annoyance or haste.
+
+===word: 家の近くに灌漑用水があります===
+Meaning: Irrigation water
+Nuance_EN: Refers to water or waterways for agricultural, industrial, or daily use, often in the form of artificial channels like "用水路" for rice fields.
+
+===word: 家まで交替で荷物を持ちました。===
+Meaning: Alternate
+Nuance_EN: Means to exchange roles or positions, used in shift changes or taking turns, common in business and daily conversation.
+
+===word: 家を買うために積み立てを始めました===
+Meaning: Savings
+Nuance_EN: Refers to gradually saving money or goods for a future purpose, especially for savings or funds.
+
+===word: 家を購入する場合には収入に応じた物件を選ぶべきです。===
+Meaning: Passage
+Nuance_EN: When read as "くだり," it refers to a specific part or section of a text or conversation, used in quoting; distinct from the business usage "件 (けん)" meaning "matter."
+
+===word: 家事===
+Meaning: Housework
+Nuance_EN: A general term for daily tasks needed to maintain a household, including cooking, laundry, cleaning, and shopping.
+
+===word: 家令===
+Meaning: Steward
+Nuance_EN: The head servant managing all household affairs for nobles or wealthy families, now nearly obsolete except in historical novels or period dramas, distinct from a butler.
+
+===word: 家具===
+Meaning: Furniture
+Nuance_EN: A collective term for large items placed in a home, such as desks, chairs, beds, and chests.
+
+===word: 家具に叩きをかける===
+Meaning: Dust (with a duster)
+Nuance_EN: Refers to the action of using a cloth duster to remove dust from furniture, an old-fashioned expression for a household chore.
+
+===word: 家具の埃をはたく===
+Meaning: Dust off
+Nuance_EN: The action of beating dust off furniture surfaces with a cloth or duster, part of cleaning routines.
+
+===word: 家出（する）===
+Meaning: Run away from home
+Nuance_EN: Means to escape from family or home, typically by children or youths due to family issues or rebellion, often discussed as a serious problem but also a theme in dramas and manga.
+
+===word: 家名===
+Meaning: Family name / Honor
+Nuance_EN: Refers to a family's name or the honor of its lineage, with two meanings: the surname itself and the family's reputation, especially in phrases like "家名を汚す" (disgrace the family name).
+
+===word: 家宝===
+Meaning: Family heirloom
+Nuance_EN: Refers to precious items passed down through generations, from physical objects like swords or paintings to intangible values like family precepts.
+
+===word: 家屋===
+Meaning: House (building)
+Nuance_EN: A somewhat formal term for a building where people live, more objective and technical than "家," used in real estate, registration, insurance, and tax contexts.
+
+===word: 家庭教師===
+Meaning: Private tutor
+Nuance_EN: A teacher who visits a student's home for individual instruction, characterized by personalized guidance unlike school classes.
+
+===word: 家庭環境===
+Meaning: Home environment
+Nuance_EN: Refers to the situation and atmosphere of a household where a person grows up, including economic status, family relationships, and educational policies, often discussed in education and psychology.
+
+===word: 家捜し===
+Meaning: House search
+Nuance_EN: Means to thoroughly search a house, used in investigations for theft or incidents.
+
+===word: 家政婦===
+Meaning: Housekeeper
+Nuance_EN: A woman employed to manage household chores professionally, including cleaning, laundry, and cooking.
+
+===word: 家族ぐるみでその難問に取り組くみました。===
+Meaning: Whole family
+Nuance_EN: Indicates involving the entire family, used in contexts like tackling problems together.
+
+===word: 家族に会うと私の心に複雑なものがある。===
+Meaning: Complex
+Nuance_EN: Describes a state where the structure or relationships of things are not simple, involving many intertwined elements, used for machinery, human relations, or problems.
+
+===word: 家族の触れ合いは大切です===
+Meaning: Interaction
+Nuance_EN: Refers to direct communication and emotional connection between people, often used in "心の触れ合い" (heart-to-heart interaction).
+
+===word: 家族手当===
+Meaning: Family allowance
+Nuance_EN: An allowance paid by companies or public institutions to employees for their dependents, a type of welfare benefit as part of salary.
+
+===word: 家族構成===
+Meaning: Family composition
+Nuance_EN: Refers to the members and relationships within a family, describing who lives together and how they are related.
+
+===word: 家来===
+Meaning: Retainer
+Nuance_EN: Refers to a person who serves a lord, such as a samurai or noble's attendant, now mostly used in period dramas or historical contexts.
+
+===word: 家柄といい学歴といい、彼は非の打ちどころがない。===
+Meaning: Family lineage
+Nuance_EN: Refers to a family's social standing or pedigree, often used in evaluating someone's background.
+
+===word: 家業===
+Meaning: Family business
+Nuance_EN: A noun referring to the trade or business run by a family for generations, such as family-run shops or traditional crafts passed from parent to child.
+
+===word: 家畜===
+Meaning: Livestock
+Nuance_EN: A general term for animals raised by humans for economic or livelihood purposes, like cattle, pigs, chickens, sheep, and horses, used for food, materials, or labor, distinct from pets.
+
+===word: 家督===
+Meaning: Family headship
+Nuance_EN: A historical term for the status and property of a family heir, especially tied to primogeniture in samurai or merchant societies.
+
+===word: 家系===
+Meaning: Family lineage
+Nuance_EN: Refers to a family's ancestry or bloodline, used in various contexts from daily conversation to writing.
+
+===word: 家紋===
+Meaning: Family crest
+Nuance_EN: A noun for emblems representing Japanese family lineages, used on kimonos, tombstones, and shrines, often featuring plant motifs like maple or chrysanthemum, a unique Japanese tradition.
+
+===word: 家計===
+Meaning: Household budget
+Nuance_EN: Refers to the balance of income and expenses in a family, or the management of household finances, used in terms like "家計管理" or "家計簿."
+
+===word: 家計の収支が合わないの。===
+Meaning: Income and expenditure
+Nuance_EN: An abbreviation for "収入と支出," referring to overall financial flow, frequently used in accounting and household contexts.
+
+===word: 家財道具===
+Meaning: Household goods
+Nuance_EN: A general term for furniture, fixtures, and daily necessities in a home, used in moving, inheritance, or disaster contexts, somewhat formal but practical.
+
+===word: 家賃===
+Meaning: Rent
+Nuance_EN: The monthly payment for renting a house or apartment, often a significant portion of living expenses in urban areas.
+
+===word: 家路===
+Meaning: Way home
+Nuance_EN: The path home, commonly used in the phrase "家路につく" (head home), with poetic and warm nuances evoking evening scenes.
+
+===word: 家電製品===
+Meaning: Home appliances
+Nuance_EN: A general term for electrical devices used in homes, such as refrigerators, washing machines, TVs, and vacuum cleaners, essential for daily life.
+
+===word: 家風===
+Meaning: Family tradition
+Nuance_EN: Refers to customs, practices, and atmosphere passed down in a family, used in contexts like marriage with a somewhat old-fashioned feel, now less common than "家庭の方針."
+
+===word: 容体===
+Meaning: Condition (medical)
+Nuance_EN: Refers to the health state of a sick or injured person, especially changes or progress, a medical term.
+
+===word: 容器===
+Meaning: Container
+Nuance_EN: A general noun for receptacles that hold liquids or objects, such as bottles, cans, boxes, and jars, used frequently in daily life.
+
+===word: 容姿===
+Meaning: Appearance
+Nuance_EN: A word comprehensively referring to a person's looks, facial features, and physique, often used positively like "容姿端麗," somewhat formal or written.
+
+===word: 容姿端麗===
+Meaning: Beautiful appearance
+Nuance_EN: Describes a person with beautiful facial features and physique, a dignified compliment mainly used for women.
+
+===word: 容易い===
+Meaning: Easy
+Nuance_EN: An adjective meaning simple without much effort, somewhat archaic and literary compared to "簡単," with the negative form "容易くない" meaning "not easy."
+
+===word: 容易な===
+Meaning: Easy
+Nuance_EN: Describes something not difficult and doable with little effort or hardship.
+
+===word: 容疑===
+Meaning: Suspicion
+Nuance_EN: Refers to suspicion of having committed a crime or wrongdoing, used in police and legal contexts.
+
+===word: 容疑者は薬物を常用していました===
+Meaning: Drugs
+Nuance_EN: Refers to substances used as medicine, but often in contexts of drug addiction or abuse, with negative connotations.
+
+===word: 容積===
+Meaning: Volume
+Nuance_EN: A word for the size of the interior space of a solid, used in math, physics, and logistics.
+
+===word: 容色===
+Meaning: Beauty (of face)
+Nuance_EN: A somewhat old-fashioned word evaluating external beauty, especially of women's faces, with literary nuances.
+
+===word: 容認===
+Meaning: Tolerate
+Nuance_EN: Means to acknowledge and permit something, often with a nuance of reluctant acceptance rather than active approval, used in political or social contexts.
+
+===word: 容貌===
+Meaning: Features
+Nuance_EN: Refers to a person's facial features and overall appearance, a somewhat formal expression used in writing or formal settings.
+
+===word: 容貌がのっぺりと間延びする===
+Meaning: Dull
+Nuance_EN: Describes a state where sounds or speech become prolonged and lack tension, or a slack, uninteresting appearance.
+
+===word: 容赦===
+Meaning: Mercy
+Nuance_EN: Means to overlook mistakes or failures, or to show leniency, often used in the negative form "容赦しない" to indicate strict treatment.
+
+===word: 容赦なく===
+Meaning: Relentlessly
+Nuance_EN: Describes an attitude of being strict without leniency or gentleness toward others.
+
+===word: 容量===
+Meaning: Capacity
+Nuance_EN: Refers to the volume or storage capacity of a container or space, used in various fields like batteries, memory, or tanks, frequently in IT for storage or memory size.
+
+===word: 容顔美麗===
+Meaning: Beautiful face
+Nuance_EN: A four-character idiom describing a beautiful face, with an old-fashioned and elegant tone, used in literature or formal evaluations.
+
+===word: 宿す===
+Meaning: Harbor
+Nuance_EN: A formal expression meaning to carry something within the body, especially to become pregnant.
+
+===word: 宿命===
+Meaning: Fate
+Nuance_EN: Refers to a predetermined destiny or result that cannot be changed by human power.
+
+===word: 宿場町===
+Meaning: Post town
+Nuance_EN: A historical term for towns along highways in the Edo period where travelers rested or stayed, many now tourist spots preserving old atmosphere.
+
+===word: 宿屋===
+Meaning: Inn
+Nuance_EN: A facility for travelers to stay, now less common than "hotel" or "ryokan," with an old-fashioned feel, often appearing in period dramas.
+
+===word: 宿志===
+Meaning: Long-cherished ambition
+Nuance_EN: A stiff Sino-Japanese term for a long-held aspiration or wish, similar to "宿願," used for dreams or goals persistently pursued.
+
+===word: 宿怨===
+Meaning: Grudge
+Nuance_EN: Refers to long-held resentment or hatred stored in the heart.
+
+===word: 宿敵===
+Meaning: Archrival
+Nuance_EN: Refers to a long-term enemy or rival with deep-seated antagonism, often involving repeated confrontations.
+
+===word: 宿泊===
+Meaning: Lodging
+Nuance_EN: Refers to staying overnight at a hotel or inn, or the stay itself.
+
+===word: 宿泊所===
+Meaning: Accommodation
+Nuance_EN: A more formal or administrative term than "hotel" or "inn," broadly referring to any place to stay, including shelters or simple lodgings.
+
+===word: 宿直===
+Meaning: Night duty
+Nuance_EN: Refers to working overnight at a company, school, or facility, often for security or emergencies, common for doctors or hotel staff.
+
+===word: 宿題が多すぎて、トイレに行く時間さえなかった===
+Meaning: Topic
+Nuance_EN: A noun referring to the subject or title of a story, conversation, or work, used in compounds like "話題" or "問題," versatile from daily to academic contexts.
+
+===word: 宿題やらレポートやらで、のんびりする暇もない===
+Meaning: Last place
+Nuance_EN: The lowest rank in a competition or exam, a casual expression avoided in serious settings.
+
+===word: 宿題をしないで学校へ来るのはよくない===
+Meaning: Topic
+Nuance_EN: A noun referring to the subject or title of a story, conversation, or work, used in compounds like "話題" or "問題," versatile from daily to academic contexts.
+
+===word: 宿題を忘れたことに気がついたのは、クラスが始まってからだった===
+Meaning: Topic
+Nuance_EN: A noun referring to the subject or title of a story, conversation, or work, used in compounds like "話題" or "問題," versatile from daily to academic contexts.
+
+===word: 宿題を済ませてから遊びなさい。===
+Meaning: Topic
+Nuance_EN: A noun referring to the subject or title of a story, conversation, or work, used in compounds like "話題" or "問題," versatile from daily to academic contexts.
+
+===word: 宿願===
+Meaning: Long-cherished wish
+Nuance_EN: Means a wish or goal held in the heart for a long time, a very stiff expression with literary nuances, less common than "長年の夢" in daily conversation, focusing on strong desire with effort.
+
+===word: 寂しがり屋===
+Meaning: Lonely person
+Nuance_EN: Refers to someone who dislikes being alone and quickly feels lonely, often seeking affection or attention.
+
+===word: 寂れる===
+Meaning: Decline
+Nuance_EN: An intransitive verb describing a once-bustling place or business losing vitality and becoming desolate over time, used in contexts of economic decline or depopulation, with a melancholic nuance.
+
+===word: 寂滅===
+Meaning: Nirvana
+Nuance_EN: A Buddhist term for the state of nirvana where desires are extinguished, also a euphemism for death.
+
+===word: 寄せては返す===
+Meaning: Ebb and flow
+Nuance_EN: Describes waves approaching and retreating from the shore, also used metaphorically for repeated comings and goings of emotions or things, evoking natural rhythms.
+
+===word: 寄せる===
+Meaning: Gather
+Nuance_EN: Means to collect things in one place or bring one's body close to something, also used for natural phenomena like waves approaching.
+
+===word: 寄せ付けない===
+Meaning: Keep away
+Nuance_EN: A strong rejection meaning not to let someone approach, both physically and psychologically, with a nuance of exclusion.
+
+===word: 寄せ書き===
+Meaning: Group message
+Nuance_EN: A collection of words or drawings from multiple people on one sheet, often seen at graduations or farewells.
+
+===word: 寄せ集め===
+Meaning: Hodgepodge
+Nuance_EN: Refers to a collection of things gathered from various places without unity, often used negatively for makeshift or incoherent assemblies.
+
+===word: 寄って集って===
+Meaning: Gang up
+Nuance_EN: Describes multiple people gathering to do something together, especially in negative contexts like attacking one person.
+
+===word: 寄り掛かる===
+Meaning: Lean on
+Nuance_EN: To rest one's body against a wall or pillar, also meaning to rely on or depend on someone or something.
+
+===word: 寄り添う===
+Meaning: Snuggle up
+Nuance_EN: To stay close and lean against someone, also used metaphorically for providing emotional support.
+
+===word: 寄り道===
+Meaning: Detour
+Nuance_EN: To stop by another place on the way to the original destination, involving unplanned actions.
+
+===word: 寄り道===
+Meaning: Detour
+Nuance_EN: To stop by another place on the way to the original destination, involving unplanned actions.
+
+===word: 寄り集まる===
+Meaning: Gather together
+Nuance_EN: An intransitive verb meaning people or things scattered in various places come together, an emphatic form of "集まる," suggesting spontaneous or natural gathering, usable in both positive and negative contexts.
+
+===word: 寄与===
+Meaning: Contribution
+Nuance_EN: Refers to being useful or contributing to something, used in formal contexts like academic achievements or social contributions.
+
+===word: 寄付===
+Meaning: Donation
+Nuance_EN: Refers to providing money or goods for public or charitable purposes without compensation, used for support to schools, hospitals, disaster relief, or NGOs, with positive connotations.
+
+===word: 寄宿===
+Meaning: Boarding
+Nuance_EN: Living by staying overnight at someone else's home or facility, more formal than "下宿," evoking collective living like school dormitories or monasteries.
+
+===word: 寄宿舎===
+Meaning: Dormitory
+Nuance_EN: Accommodation provided by schools or companies for students or employees.
+
+===word: 寄席===
+Meaning: Variety hall
+Nuance_EN: A venue for traditional Japanese performing arts like rakugo, manzai, and magic, with a unique atmosphere.
+
+===word: 寄生===
+Meaning: Parasitism
+Nuance_EN: Living by attaching to another organism and taking nutrients, also used critically to describe people who depend on others.
+
+===word: 寄生虫===
+Meaning: Parasite
+Nuance_EN: A biological term for organisms that live on or in other hosts for nutrients, also used as a derogatory slang for dependent people, with strong negative connotations.
+
+===word: 寄稿===
+Meaning: Contribute (writing)
+Nuance_EN: Means to provide articles or papers to newspapers, magazines, or academic journals, a formal written term used when submitting manuscripts by request.
+
+===word: 寄贈===
+Meaning: Donate (items)
+Nuance_EN: Means to provide books, artworks, or money free of charge to public institutions like libraries or museums, a formal term with charitable nuances.
+
+===word: 寄越す===
+Meaning: Send over
+Nuance_EN: Means to send or pass something to someone, somewhat casual and often used in spoken language, sometimes in imperative forms.
+
+===word: 寄進===
+Meaning: Donate (religious)
+Nuance_EN: Means to donate money, goods, or land to shrines, temples, or religious organizations, more specific to religious contexts than general "寄付," done for faith or merit.
+
+===word: 密か===
+Meaning: Secret
+Nuance_EN: An adjectival verb describing actions done secretly or privately, used for stealthy behavior or hidden emotions.
+
+===word: 密な===
+Meaning: Dense
+Nuance_EN: Describes a state with no gaps and tightly packed, or close relationships, used in various contexts from physical density to intimacy.
+
+===word: 密会===
+Meaning: Secret meeting
+Nuance_EN: Meeting secretly without others knowing, often used for hidden relationships like romantic affairs.
+
+===word: 密偵===
+Meaning: Spy
+Nuance_EN: A secret agent gathering information covertly, used in historical or military contexts with an old-fashioned ring.
+
+===word: 密入国===
+Meaning: Illegal entry
+Nuance_EN: The illegal act of crossing a border into another country without proper procedures, such as without a passport or visa, treated as a crime.
+
+===word: 密告===
+Meaning: Inform
+Nuance_EN: Means to secretly report someone's wrongdoing or crime, often to authorities for reward or benefit, with strong negative connotations.
+
+===word: 密売===
+Meaning: Illegal sale
+Nuance_EN: Means to secretly buy and sell items prohibited by law, such as drugs or weapons, treated as a crime with very negative impressions.
+
+===word: 密室===
+Meaning: Sealed room
+Nuance_EN: Refers to a completely closed room isolated from the outside, often used in mystery novels for "密室殺人" (locked-room murder).
+
+===word: 密室の暴力===
+Meaning: Closed-room violence
+Nuance_EN: Violence occurring in a sealed room, referring to domestic violence or abuse in closed environments, a social issue term.
+
+===word: 密度===
+Meaning: Density
+Nuance_EN: Refers to the degree of how much is packed within a certain range, used physically like "population density" or abstractly like "high information density."
+
+===word: 密接===
+Meaning: Close
+Nuance_EN: Indicates a very close relationship with no gap between two or more things, often referring to relational or associative strength rather than physical proximity.
+
+===word: 密書===
+Meaning: Secret letter
+Nuance_EN: Refers to a letter or document containing secret content, often appearing in spy or conspiracy contexts with dramatic connotations.
+
+===word: 密猟者===
+Meaning: Poacher
+Nuance_EN: A person who illegally hunts wild animals, a negative term associated with environmental destruction and endangered species.
+
+===word: 密着===
+Meaning: Adhere
+Nuance_EN: Means two things sticking together without gaps, or being very close, used both physically and metaphorically.
+
+===word: 密着取材===
+Meaning: Close-up coverage
+Nuance_EN: A reporting method where journalists closely follow a specific person or organization over time to capture detailed activities, used in TV documentaries or magazine articles.
+
+===word: 密約===
+Meaning: Secret agreement
+Nuance_EN: Refers to an agreement kept secret from outsiders, used in politics or business for non-disclosed deals.
+
+===word: 密談===
+Meaning: Secret talk
+Nuance_EN: Refers to a discussion held in private so others cannot hear, often with a secretive atmosphere.
+
+===word: 密輸===
+Meaning: Smuggling
+Nuance_EN: The illegal act of bringing items across borders, treated as a crime with strong negative images of tax evasion or dangerous goods.
+
+===word: 密造===
+Meaning: Illegal manufacture
+Nuance_EN: Refers to secretly manufacturing items like alcohol or weapons in violation of the law, with criminal connotations, evoking prohibition-era bootlegging.
+
+===word: 密閉===
+Meaning: Seal
+Nuance_EN: Means to close completely so that air or liquid cannot enter or exit, used for containers or rooms for preservation, experiments, or soundproofing.
+
+===word: 密集===
+Meaning: Crowded
+Nuance_EN: A Sino-Japanese term for people or things gathering densely in one place, used in compounds like "住宅密集地," and known from COVID-19 measures as one of the "three Cs."
+
+===word: 富===
+Meaning: Wealth
+Nuance_EN: A comprehensive word for money, property, and resources, used broadly from personal assets to national resources, also metaphorically for spiritual richness.
+
+===word: 富める===
+Meaning: Wealthy (literary)
+Nuance_EN: A literary adjective meaning possessing much wealth, less common than "豊かな" in modern Japanese, used in proverbs or quotes.
+
+===word: 富を生み出す===
+Meaning: Generate wealth
+Nuance_EN: A comprehensive word for money, property, and resources, used broadly from personal assets to national resources, also metaphorically for spiritual richness.
+
+===word: 富士山は、いつ見てもきれいです===
+Meaning: Wealth
+Nuance_EN: A comprehensive word for money, property, and resources, used broadly from personal assets to national resources, also metaphorically for spiritual richness.
+
+===word: 富山県===
+Meaning: Toyama Prefecture
+Nuance_EN: A prefecture on the Sea of Japan side of central Honshu, known for the Tateyama mountain range, Kurobe Dam, and delicious seafood from Toyama Bay, also famous for traditional medicine sales.
+
+===word: 富者===
+Meaning: Rich person
+Nuance_EN: A somewhat literary expression for a person with much wealth, more formal than "金持ち," used in social or disparity discussions.
+
+===word: 富裕税===
+Meaning: Wealth tax
+Nuance_EN: A tax levied on wealthy individuals with significant assets, used in economic and fiscal contexts.
+
+===word: 富豪===
+Meaning: Millionaire
+Nuance_EN: A noun for a person with enormous wealth, also called "大富豪," used for those far richer than just "金持ち."
+
+===word: 寒々===
+Meaning: Bleak
+Nuance_EN: An adverb/adjectival verb describing a cold, lonely, and gloomy appearance, usable for weather, scenery, or atmosphere, somewhat literary.
+
+===word: 寒いので暖かい肌着を着ました。===
+Meaning: Undershirt
+Nuance_EN: Refers to underwear worn directly on the skin, especially tops like shirts or undershirts, distinct from "下着" which includes bottoms.
+
+===word: 寒中===
+Meaning: Midwinter
+Nuance_EN: A word for the coldest period of winter, used in phrases like "寒中見舞い," often referring to the period from "小寒" to "大寒," somewhat formal.
+
+===word: 寒暖計 / 体温計===
+Meaning: Thermometer
+Nuance_EN: A general term for instruments measuring temperature, with "寒暖計" for air temperature and "体温計" for body temperature, though "温度計" is more common now.
+
+===word: 寒気===
+Meaning: Cold sensation
+Nuance_EN: Refers to a feeling of coldness, often from weather or illness.
+
+===word: 寒風===
+Meaning: Cold wind
+Nuance_EN: Refers to the harsh, cold wind of winter, with a piercing chill, suitable for winter scenery descriptions in literature or weather reports.
+
+===word: 寓話===
+Meaning: Fable
+Nuance_EN: A short story using animals or fictional characters to convey moral lessons or satire, like Aesop's fables, used in literary or educational contexts.
+
+===word: 寛ぎ===
+Meaning: Relaxation
+Nuance_EN: A noun for a state of relaxing and unwinding, derived from the verb "寛ぐ," used for rest at home or comfort during travel.
+
+===word: 寛ぐ===
+Meaning: Relax
+Nuance_EN: To loosen tension and spend time leisurely, a common verb for relaxed states at home or on trips.
+
+===word: 寛大===
+Meaning: Lenient
+Nuance_EN: Describes a generous and forgiving attitude toward others' opinions or actions.
+
+===word: 寛容===
+Meaning: Tolerance
+Nuance_EN: Refers to an attitude of accepting and forgiving others' opinions, actions, or habits with an open mind, a positive term for respecting differences, important in business and society.
+
+===word: 寛解===
+Meaning: Remission
+Nuance_EN: A medical term for a temporary or permanent state where disease symptoms subside, distinct from cure, used for cancer or chronic illness progress.
+
+===word: 寝かす===
+Meaning: Put to sleep
+Nuance_EN: Means to put a baby or child to bed, or to lay something down horizontally.
+
+===word: 寝かせる===
+Meaning: Lay down
+Nuance_EN: To make a person or animal lie down to sleep, or to leave something for a period to age or ferment.
+
+===word: 寝ずの番===
+Meaning: All-night watch
+Nuance_EN: Staying awake all night to guard or care for someone, with dutiful and devoted nuances, used for family care or security.
+
+===word: 寝そべる===
+Meaning: Lie sprawled
+Nuance_EN: To lie on the floor or ground with limbs stretched out, a casual term for a relaxed posture.
+
+===word: 寝たきり老人===
+Meaning: Bedridden elderly
+Nuance_EN: Refers to elderly people who cannot get out of bed for long periods due to illness or aging, a direct term used in caregiving contexts.
+
+===word: 寝だめ===
+Meaning: Catch up on sleep
+Nuance_EN: A colloquial term for sleeping a lot to compensate for lack of sleep, like sleeping in on weekends.
+
+===word: 寝とる===
+Meaning: Steal (a partner)
+Nuance_EN: A vulgar term meaning to take someone else's spouse or lover, very casual and negative.
+
+===word: 寝不足===
+Meaning: Sleep deprivation
+Nuance_EN: A noun/adjectival verb for a state of insufficient sleep, very common in daily conversation.
+
+===word: 寝付く===
+Meaning: Fall asleep
+Nuance_EN: Means to get into bed and enter sleep, focusing on the action of falling asleep, as in "なかなか寝付けない" (can't fall asleep easily).
+
+===word: 寝具===
+Meaning: Bedding
+Nuance_EN: A general term for sleep-related items, including futons, pillows, sheets, and blankets, a practical word used in daily life.
+
+===word: 寝冷え===
+Meaning: Chill during sleep
+Nuance_EN: Catching a cold from getting chilled while sleeping, often from summer air conditioning or insufficient blankets in winter.
+
+===word: 寝台===
+Meaning: Bed
+Nuance_EN: A bed-like platform for sleeping, often used for "寝台列車" (sleeper trains) or hospital beds, somewhat stiff compared to "ベッド."
+
+===word: 寝坊===
+Meaning: Oversleep
+Nuance_EN: Sleeping past the time one should wake up, a common daily mistake that can cause lateness, used as both a noun and verb.
+
+===word: 寝坊して新幹線に乗り遅れたよ。===
+Meaning: Main line
+Nuance_EN: Refers to a major route in transportation or communication networks, like a trunk line.
+
+===word: 寝室===
+Meaning: Bedroom
+Nuance_EN: A room for sleeping, one of the most private spaces in a home, containing a bed and bedding.

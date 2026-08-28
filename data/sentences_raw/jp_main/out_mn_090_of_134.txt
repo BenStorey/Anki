@@ -1,0 +1,755 @@
+===word: 読みかけ===
+Meaning: Half-read
+Nuance_EN: Describes something that was partially read but left unfinished, often with a sense of interruption or incompleteness.
+
+===word: 書斎===
+Meaning: Study / Library
+Nuance_EN: Refers to a private room in a house designated for reading, studying, or writing. It implies a quiet, intellectual, and somewhat formal adult space, more refined than a simple "study room."
+
+===word: 横文字===
+Meaning: Western script / Alphabet
+Nuance_EN: A somewhat informal term for languages written horizontally using the Latin alphabet, especially English. It often carries a skeptical or critical nuance towards foreign words, highlighting a contrast with Japanese vertical writing culture.
+
+===word: 歌謡曲===
+Meaning: Popular song / Enka-pop
+Nuance_EN: A genre of Japanese popular music that flourished especially in the Showa era, characterized by a style between enka and pop music.
+
+===word: 議論===
+Meaning: Argument / Discussion
+Nuance_EN: Refers to a purposeful exchange of opinions on a topic, which may involve heated conflict but can also be constructive. It is more deliberate than casual conversation.
+
+===word: 経営===
+Meaning: Management / Operation
+Nuance_EN: The act of running a business or organization, often involving strategic planning and administration. It is a formal term.
+
+===word: 元気になりつつある===
+Meaning: Gradually recovering
+Nuance_EN: Uses the literary conjunctive particle "つつ" to indicate an ongoing action or change, here meaning "is gradually becoming energetic/healthy again." It implies a progressive state from a past condition.
+
+===word: 勤労===
+Meaning: Diligent work / Labor
+Nuance_EN: Emphasizes hard work and effort, more positive and active than simply "labor." It is somewhat formal and appears in contexts like "勤労感謝の日" (Labor Thanksgiving Day).
+
+===word: 父兄===
+Meaning: Parent / Guardian (old-fashioned)
+Nuance_EN: Originally meaning "fathers and elder brothers" of students, this term now broadly refers to parents/guardians. It is somewhat dated; "保護者" is more common in modern usage.
+
+===word: 父兄の方々===
+Meaning: Parents and guardians (polite plural)
+Nuance_EN: A polite plural form of "父兄," used in formal school contexts to address parents and guardians. The repetition and suffix "方々" add respect.
+
+===word: 父方===
+Meaning: Paternal side
+Nuance_EN: Refers to relatives or lineage on the father's side of the family. Used when explaining family relationships.
+
+===word: 父母===
+Meaning: Father and mother
+Nuance_EN: A formal, written-style compound word for "both parents." It is more stiff than "両親" and used in formal or written contexts.
+
+===word: 父祖===
+Meaning: Ancestors / Forefathers
+Nuance_EN: An old-fashioned term meaning "father and grandfather" or more broadly "ancestors." It is rarely used alone, appearing mostly in set phrases like "父祖の地" (land of one's ancestors).
+
+===word: 爺===
+Meaning: Old man / Geezer
+Nuance_EN: An informal and potentially familiar or derogatory term for an elderly man. The nuance depends heavily on context—can be affectionate or dismissive.
+
+===word: 爽やか===
+Meaning: Refreshing / Brisk
+Nuance_EN: Describes a pleasantly fresh atmosphere or a person's clean and pleasant demeanor. It is entirely positive, with no negative connotations.
+
+===word: 片が付く===
+Meaning: Settled / Resolved
+Nuance_EN: An idiomatic expression meaning that a pending or troublesome matter has been concluded. It often carries a sense of relief, especially after a difficult issue is resolved. Slightly casual.
+
+===word: 片っ端から===
+Meaning: One after another / Systematically
+Nuance_EN: An adverb meaning to do something thoroughly and without discrimination, tackling items in order from one end. Common in both speech and writing for describing exhaustive processing.
+
+===word: 片っ端から切り倒した===
+Meaning: Cut down one after another
+Nuance_EN: Describes the action of systematically felling everything in sequence. "片っ端から" emphasizes doing something thoroughly, leaving nothing undone.
+
+===word: 片や===
+Meaning: On the one hand / Meanwhile
+Nuance_EN: A conjunctive expression used to contrast two things, meaning "on the one hand... while on the other hand..." It is used in written or formal speech.
+
+===word: 片付く===
+Meaning: Gets tidied up / Becomes organized
+Nuance_EN: An intransitive verb meaning that a messy area becomes orderly as a result of someone having cleaned it. It implies a state change after tidying, not a spontaneous process.
+
+===word: 片仮名===
+Meaning: Katakana
+Nuance_EN: One of the three Japanese writing systems, characterized by angular shapes. Used primarily for foreign loanwords, onomatopoeia, and emphasis.
+
+===word: 片側===
+Meaning: One side
+Nuance_EN: Refers to one of two sides, such as left or right of a road or object. Used when specifying one part of a pair.
+
+===word: 片割れ===
+Meaning: Fragment / Counterpart
+Nuance_EN: Means "a part of a whole" or "one member of a group." Often used for twins ("双子の片割れ") or a piece of something broken. Lighthearted and familiar.
+
+===word: 片寄る===
+Meaning: Lean / Be biased
+Nuance_EN: Also written as "偏る." Means to lean to one side, losing balance—either physically or in terms of opinion. Often carries a negative connotation of being unbalanced or extreme.
+
+===word: 片思い===
+Meaning: Unrequited love
+Nuance_EN: Refers to a one-sided romantic feeling where the love is not reciprocated. It often involves a sense of longing or sadness, contrasting with mutual love.
+
+===word: 片手===
+Meaning: One hand
+Nuance_EN: Simply refers to one of the two hands.
+
+===word: 片方===
+Meaning: One of a pair
+Nuance_EN: Refers to one side of a matching set, like shoes, gloves, or ears. Unlike "片側," which is used for continuous objects like roads, "片方" is more for individual paired items.
+
+===word: 片方の目===
+Meaning: One eye
+Nuance_EN: Same as above, emphasizing one of a pair of body parts. Used when referring to a specific side of a paired body part.
+
+===word: 片時===
+Meaning: A moment / A brief time
+Nuance_EN: Expresses a very short period, often used in negative constructions like "片時も離れない" (won't leave even for a moment) to emphasize constant presence.
+
+===word: 片時も===
+Meaning: (Not) for a moment
+Nuance_EN: An adverb used exclusively with negation, meaning "not even for a short time." It emphasizes continuous action or emotion without interruption, often in literary or emotional contexts.
+
+===word: 片棒===
+Meaning: Role in a scheme
+Nuance_EN: Used in the phrase "片棒を担ぐ," meaning to take part in a dubious plan or crime, often as an accomplice. Carries a negative connotation.
+
+===word: 片棒を担ぐ===
+Meaning: Be an accomplice
+Nuance_EN: An idiom meaning to assist in or be complicit in a bad or dubious plan. It suggests a supporting role rather than being the mastermind, often used in negative or joking contexts.
+
+===word: 片腹痛い===
+Meaning: Ridiculous / Absurd (old)
+Nuance_EN: An old expression meaning "so foolish it's laughable" or "contemptible." It does not mean "stomachache" but rather "absurd to the point of being laughable."
+
+===word: 片膝===
+Meaning: One knee
+Nuance_EN: Refers to one of the two knees, commonly used in actions like kneeling on one knee or hugging one knee.
+
+===word: 片言===
+Meaning: Fragmentary speech / Broken language
+Nuance_EN: Refers to incomplete, halting speech, such as a child's first words or a non-native speaker's broken language. Implies a lack of fluency.
+
+===word: 片道===
+Meaning: One-way
+Nuance_EN: Indicates a route or journey only in one direction, without including the return. Commonly used for tickets or transportation choices.
+
+===word: 片道切符===
+Meaning: One-way ticket
+Nuance_EN: A ticket valid only for the outbound journey. It is also used metaphorically to mean a situation with no way back.
+
+===word: 片隅に===
+Meaning: In a corner / Nook
+Nuance_EN: Refers to an edge or corner of a room or place, away from the center. Can also be used metaphorically, like "in the corner of one's heart."
+
+===word: 片鱗===
+Meaning: Glimpse / Hint (of talent)
+Nuance_EN: Refers to catching a small glimpse of a person's overall ability or talent, often in a positive sense. Commonly used in phrases like "片鱗を見せる" (show a glimpse of one's skill).
+
+===word: 版図===
+Meaning: Territory / Domain
+Nuance_EN: A somewhat historical/geographical term for the range of territory controlled by a state or power. Has a cool, expansive feel, and is also used metaphorically in business for market dominance.
+
+===word: 版権===
+Meaning: Copyright (publishing rights)
+Nuance_EN: Refers to the right to reproduce and sell publications or creative works. Similar to copyright but specifically focused on publishing rights.
+
+===word: 版画===
+Meaning: Print / Woodblock print
+Nuance_EN: An artwork created by printing from a carved or etched block, such as wood or copper. Ukiyo-e is a famous Japanese example, known worldwide.
+
+===word: 牙===
+Meaning: Fang / Tusk
+Nuance_EN: Refers to the sharp, protruding teeth of animals like carnivores, boars, or elephants. Used as weapons for attack or defense, and metaphorically in phrases like "牙をむく" (bare one's fangs, show hostility).
+
+===word: 牙城===
+Meaning: Stronghold / Bastion
+Nuance_EN: A metaphorical term for the most fortified base or stronghold of an enemy or competitor. Originally the central part of a castle, used in phrases like "敵の牙城を崩す" (break the enemy's stronghold).
+
+===word: 牛すじ===
+Meaning: Beef tendon
+Nuance_EN: The tendon part of beef, connecting muscle and bone. It becomes tender when simmered, and is used in stews and curries.
+
+===word: 牛の乳搾り===
+Meaning: Milking a cow
+Nuance_EN: The task of extracting milk from cows in dairy farming. While automated milking machines exist, hand-milking is still practiced, often as part of agricultural experiences.
+
+===word: 牛乳は品切れ===
+Meaning: Milk is out of stock
+Nuance_EN: "品切れ" means an item is sold out or out of stock. Common in shopping contexts.
+
+===word: 牛刀===
+Meaning: Butcher knife / Cleaver
+Nuance_EN: A thick, heavy knife for cutting large pieces of meat. Known from the proverb "牛刀をもって鶏を割く" (using a butcher's knife to cut a chicken—overkill).
+
+===word: 牛歩===
+Meaning: Snail's pace
+Nuance_EN: Literally "cow's pace," meaning extremely slow progress. Famous in politics as "牛歩戦術" (delaying tactics), where voting is deliberately slowed. Also used metaphorically for slow progress in general.
+
+===word: 牛耳る===
+Meaning: Control / Dominate
+Nuance_EN: Means to hold power over an organization or group and manipulate it at will. Originates from an ancient Chinese ritual where leaders cut a cow's ear.
+
+===word: 牡牛座===
+Meaning: Taurus (constellation)
+Nuance_EN: One of the twelve zodiac signs, typically for birthdays from April 20 to May 20. Used in astrology and astronomy.
+
+===word: 牡蠣===
+Meaning: Oyster
+Nuance_EN: A shellfish in season during winter, enjoyed raw, fried, or in various dishes.
+
+===word: 牢===
+Meaning: Prison / Jail
+Nuance_EN: A historical term for a place where criminals are confined. Often appears in historical or narrative contexts.
+
+===word: 牢番===
+Meaning: Jailer / Guard
+Nuance_EN: A person who watches and manages prisoners in a jail. Common in period dramas or historical fiction; "刑務官" or "看守" is more modern.
+
+===word: 牧場===
+Meaning: Ranch / Farm / Pasture
+Nuance_EN: A large area where livestock like cows and horses are kept. Used for dairy, meat production, and tourism.
+
+===word: 牧夫===
+Meaning: Herdsman / Cowherd
+Nuance_EN: An old-fashioned term for a person who tends livestock on a pasture. "牧場主" or "cowboy" is more common today, but it appears in literature and historical contexts.
+
+===word: 牧師===
+Meaning: Pastor / Minister
+Nuance_EN: A Christian religious leader in Protestant churches who guides believers, conducts services, and performs ceremonies. Unlike Catholic "priests," pastors can marry.
+
+===word: 牧畜===
+Meaning: Livestock farming
+Nuance_EN: A form of agriculture involving raising animals like cows and sheep for livelihood. Evokes images of vast pastures with grazing animals.
+
+===word: 物々しい===
+Meaning: Elaborate / Ostentatious
+Nuance_EN: Describes a situation that is overly formal, exaggerated, or heavily guarded, creating a tense or unnatural atmosphere. It implies being more elaborate than necessary.
+
+===word: 物々交換===
+Meaning: Barter
+Nuance_EN: Direct exchange of goods without using money. An ancient trading method, but still used in modern contexts as barter trade.
+
+===word: 物にする===
+Meaning: Master / Achieve
+Nuance_EN: An idiom meaning to accomplish a goal or fully acquire a skill through effort. Used in phrases like "日本語を物にする" (master Japanese), with a casual and forceful nuance emphasizing achievement.
+
+===word: 物の怪===
+Meaning: Evil spirit / Monster
+Nuance_EN: A spiritual being that possesses and harms humans. Appears in Japanese ghost stories and classical literature.
+
+===word: 物は試し===
+Meaning: Nothing ventured, nothing gained
+Nuance_EN: A proverb meaning it's worth trying something—the result is unknown, but one should take the chance.
+
+===word: 物まね===
+Meaning: Imitation / Mimicry
+Nuance_EN: The act of copying another person's voice, gestures, or expressions. Common in entertainment and comedy.
+
+===word: 物乞い===
+Meaning: Begging
+Nuance_EN: The act of soliciting money or goods on the street. A direct term that requires caution due to its sensitive social context.
+
+===word: 物事===
+Meaning: Things / Matters
+Nuance_EN: A general term for "things" or "matters" in an abstract sense. Used to refer to various phenomena or affairs.
+
+===word: 総論===
+Meaning: General overview / Introduction
+Nuance_EN: Refers to the overall explanation of a topic, contrasted with "各論" (specific details). Used in meetings or papers to present the big picture first.
+
+===word: 物体===
+Meaning: Object / Body
+Nuance_EN: A physical concept referring to anything that has shape and occupies space, including solids, liquids, and gases.
+
+===word: 物価===
+Meaning: Prices (of goods)
+Nuance_EN: Refers to the general price level of goods in an economy. A formal term used in economic contexts.
+
+===word: 物分り===
+Meaning: Understanding / Consideration
+Nuance_EN: The ability to understand others' circumstances and feelings, often implying forgiveness or accommodation. Used in a positive sense.
+
+===word: 物別れ===
+Meaning: Breakdown / Split
+Nuance_EN: Describes a situation where negotiations or discussions fail to reach a conclusion and the relationship ends. Used when talks break down.
+
+===word: 物好きな===
+Meaning: Curious / Eccentric
+Nuance_EN: Describes a person who shows interest in things that don't attract most people. Implies a slightly eccentric or quirky nature.
+
+===word: 物差し===
+Meaning: Ruler / Measure (also fig.)
+Nuance_EN: Literally a measuring tool for length, but also metaphorically used for a standard or criterion for judging things. "自分の物差しで測る" means "judge by one's own standards."
+
+===word: 物干し綱===
+Meaning: Clothesline
+Nuance_EN: A rope or wire stretched on a balcony for hanging laundry. A very casual, everyday household term.
+
+===word: 物干し網===
+Meaning: Drying net
+Nuance_EN: A net-like item attached to a balcony for drying laundry, preventing items from falling. A casual, everyday term.
+
+===word: 物心===
+Meaning: Awareness / Understanding
+Nuance_EN: Used in the idiom "物心がつく," meaning to reach an age where one can distinguish oneself from the world and understand things. Refers to a child's developmental stage.
+
+===word: 物心が付く===
+Meaning: Become aware / Reach the age of reason
+Nuance_EN: A child's ability to understand surroundings and remember things. It marks the stage where one gains common sense and memory.
+
+===word: 物心ついて以来===
+Meaning: Ever since I can remember
+Nuance_EN: Means "since the time I became aware (of things around me)." Used when describing long-standing habits or inherent traits from early childhood.
+
+===word: 物怖じ===
+Meaning: Timidity / Shyness
+Nuance_EN: The feeling of being nervous or shrinking in front of others, especially due to worry about others' opinions or judgment.
+
+===word: 物思いにふける===
+Meaning: Be lost in thought / Muse
+Nuance_EN: To be immersed in deep, often melancholy contemplation. Has a literary, poetic resonance.
+
+===word: 物思う===
+Meaning: Worry / Brood
+Nuance_EN: A literary expression meaning to think deeply about something with worry or concern. Often used in emotional or romantic contexts.
+
+===word: 物悲しい===
+Meaning: Melancholy / Plaintive
+Nuance_EN: Describes a vague, sad feeling without a clear reason. Used when experiencing a sense of loneliness or pathos.
+
+===word: 物情騒然===
+Meaning: Social unrest / Turmoil
+Nuance_EN: A four-character idiom describing a state of societal instability and unrest, with people agitated and uneasy. Used in formal or literary contexts during crises like war or political chaos.
+
+===word: 物憂い===
+Meaning: Languid / Listless
+Nuance_EN: Describes a state of physical lethargy and lack of motivation, often from melancholy or boredom.
+
+===word: 物流===
+Meaning: Logistics / Distribution
+Nuance_EN: The flow of goods and raw materials from producers to consumers. A common business term.
+
+===word: 物狂い===
+Meaning: Frenzy / Madness
+Nuance_EN: A state of being possessed or madly obsessed with something. Appears in Noh and Kyogen plays where characters are driven mad by love or grief. Used metaphorically today.
+
+===word: 物理的===
+Meaning: Physical
+Nuance_EN: Related to physics or material force and action. Often refers to tangible, mechanical effects as opposed to abstract concepts.
+
+===word: 物知り===
+Meaning: Knowledgeable person
+Nuance_EN: A person with extensive knowledge in various fields. Can be a compliment but sometimes implies a know-it-all attitude.
+
+===word: 物種===
+Meaning: Origin / Source
+Nuance_EN: An old-fashioned term for the origin or cause of things. Known from the proverb "物種はすべて母から" (all things originate from the mother), emphasizing a root cause.
+
+===word: 物笑いの種===
+Meaning: Laughingstock
+Nuance_EN: An idiom meaning being the object of ridicule or mockery. Refers to someone's mistake or peculiarity that becomes a target of laughter, often against their will. Slightly old-fashioned.
+
+===word: 物置===
+Meaning: Storage shed / Closet
+Nuance_EN: A room or shed for storing unused items or seasonal goods. Often implies a cluttered space where unwanted things are kept.
+
+===word: 物腰===
+Meaning: Demeanor / Manner
+Nuance_EN: Refers to a person's attitude and behavior toward others, reflecting their character and refinement through speech and actions.
+
+===word: 物色===
+Meaning: Search / Look for
+Nuance_EN: The act of searching for a specific person or thing, often with the nuance of looking around thoroughly.
+
+===word: 物覚え===
+Meaning: Memory / Learning ability
+Nuance_EN: Refers to one's ability to remember things. Used to discuss a person's memory skills, good or bad.
+
+===word: 物言い===
+Meaning: Way of speaking / Tone
+Nuance_EN: The manner or tone of one's speech, reflecting attitude or character. Similar to "言葉遣い" but includes the nuance and inflection of delivery.
+
+===word: 物言う===
+Meaning: Speak up / Comment
+Nuance_EN: The act of voicing opinions or complaints. Also used in a figurative sense, like "物を言う" (make a difference). "物言う株主" means activist shareholders.
+
+===word: 物証===
+Meaning: Physical evidence
+Nuance_EN: Tangible items used as evidence in a case, such as fingerprints or a weapon. A legal term.
+
+===word: 物語===
+Meaning: Story / Tale
+Nuance_EN: A narrative of events or imagination, including novels, fairy tales, and legends in various forms.
+
+===word: 物議===
+Meaning: Controversy / Dispute
+Nuance_EN: Used in phrases like "物議を醸す" (cause controversy), referring to statements or events that spark debate or criticism. It implies a problematic or divisive situation.
+
+===word: 物資===
+Meaning: Supplies / Materials
+Nuance_EN: Practical term for essential items and materials needed for daily life, industry, or emergency situations. Common in logistics, disaster relief, and military contexts.
+
+===word: 物質===
+Meaning: Matter / Substance
+Nuance_EN: The basic concept in chemistry and physics referring to anything with mass that occupies space. Exists in solid, liquid, and gas states.
+
+===word: 物足りない===
+Meaning: Unsatisfying / Not enough
+Nuance_EN: The feeling that something is lacking, leaving one unsatisfied in terms of quantity or quality.
+
+===word: 物陰===
+Meaning: Shadow / Hiding place
+Nuance_EN: The shaded area behind an object like a building or tree, used as a hiding spot from view. Suggests concealment or covert observation.
+
+===word: 物音===
+Meaning: Sound / Noise
+Nuance_EN: A general term for sounds made by objects moving or colliding, like footsteps or door creaks. Often used in phrases like "物音がする" when noticing a presence or sign.
+
+===word: 物騒===
+Meaning: Dangerous / Unsafe
+Nuance_EN: Describes a situation where public safety is poor or items/actions could harm others. Common in everyday conversation.
+
+===word: 特には===
+Meaning: Particularly / Especially (with negation)
+Nuance_EN: Used in negative constructions like "特にはない" to give a vague, neutral response meaning "nothing in particular." Avoids strong denial while not confirming anything either.
+
+===word: 特ダネ===
+Meaning: Scoop / Exclusive news
+Nuance_EN: A journalistic term for an exclusive news story reported before competitors. Industry jargon.
+
+===word: 特任===
+Meaning: Special appointment
+Nuance_EN: Refers to being specially appointed to a specific task or position, primarily in official roles or titles.
+
+===word: 特使===
+Meaning: Special envoy
+Nuance_EN: A messenger dispatched by a government or organization on a special mission. Often used in diplomacy for conveying messages or negotiating on behalf of leaders.
+
+===word: 特例===
+Meaning: Special exception
+Nuance_EN: An exceptional measure allowed for specific cases, separate from normal rules or laws. Used in phrases like "特例を認める" (grant a special exception).
+
+===word: 特別委===
+Meaning: Special committee
+Nuance_EN: Abbreviation for "特別委員会," a temporary committee established for a specific purpose or agenda, distinct from standing committees.
+
+===word: 特務機関===
+Meaning: Special agency / Secret service
+Nuance_EN: An organization engaged in secret intelligence or special missions for the state. Common in fiction and historical contexts.
+
+===word: 特化===
+Meaning: Specialize / Focus
+Nuance_EN: Concentrating abilities or functions on a specific field or purpose. Used in business and technology contexts.
+
+===word: 特売===
+Meaning: Special sale / Bargain
+Nuance_EN: A store's limited-time offering of goods at especially low prices to attract customers. Common in everyday conversation.
+
+===word: 特定===
+Meaning: Specify / Identify
+Nuance_EN: The act of clearly pointing out one specific item from many, or designating something specially.
+
+===word: 特待生===
+Meaning: Honor student (with benefits)
+Nuance_EN: A student who receives tuition waivers or special support due to excellent academic or athletic performance. Common in sports scholarships at high schools and universities.
+
+===word: 特徴===
+Meaning: Feature / Characteristic
+Nuance_EN: A distinctive quality or trait that stands out compared to others. Used for facial features, personality, product functions, or culture.
+
+===word: 特性===
+Meaning: Attribute / Trait
+Nuance_EN: An inherent characteristic of a person or thing. Used to describe specific qualities, such as product performance or personality.
+
+===word: 特技===
+Meaning: Special skill / Talent
+Nuance_EN: Refers to an outstanding skill or area of expertise, often listed in resumes or self-introductions. More practical than "hobby," implying demonstrable ability.
+
+===word: 特攻===
+Meaning: Suicide attack / Kamikaze
+Nuance_EN: Abbreviation for "特別攻撃," specifically referring to WWII Japanese suicide attacks. A historically loaded term requiring careful usage.
+
+===word: 特有===
+Meaning: Unique / Peculiar
+Nuance_EN: Refers to a quality or feature that only that person or thing possesses. Emphasizes exclusivity.
+
+===word: 特権===
+Meaning: Privilege / Special right
+Nuance_EN: A special right or benefit granted only to certain people or groups, often due to status or position. Somewhat formal.
+
+===word: 特権ユーザー===
+Meaning: Privileged user / Admin
+Nuance_EN: In computing, a user with special permissions, such as a system administrator.
+
+===word: 特殊===
+Meaning: Special / Distinctive
+Nuance_EN: Means different from the general norm, with special or distinctive qualities. Often used for unique or specialized items. Somewhat formal.
+
+===word: 特段===
+Meaning: Particularly (with negation)
+Nuance_EN: An adverb used mostly with negative forms, as in "特段の問題はない" (there is no particular problem). It emphasizes that there is nothing especially noteworthy.
+
+===word: 特注===
+Meaning: Custom order / Special order
+Nuance_EN: Means ordering something specially made, rather than buying off-the-shelf. Used for furniture, machinery, or clothing when standard options are insufficient. Formal and business-like.
+
+===word: 特派===
+Meaning: Dispatch (on special assignment)
+Nuance_EN: The act of sending someone to a specific location with a special mission, often used for reporters sent overseas or to events.
+
+===word: 特派員===
+Meaning: Correspondent / Special envoy
+Nuance_EN: A journalist dispatched by a news organization to a foreign country or specific region. Overseas correspondents play a key role in international reporting.
+
+===word: 特産===
+Meaning: Specialty product (regional)
+Nuance_EN: A product for which a region is particularly famous, like agricultural goods or crafts. Uses local climate and culture.
+
+===word: 特異===
+Meaning: Unique / Peculiar
+Nuance_EN: Describes something strikingly different from others, either in a good or bad way. Implies singularity.
+
+===word: 特異点===
+Meaning: Singularity
+Nuance_EN: In mathematics and physics, a point where a function is undefined. In SF, it refers to technological singularity.
+
+===word: 特異的===
+Meaning: Specific / Distinctive
+Nuance_EN: Describes something that is particularly unique or characteristic.
+
+===word: 特色===
+Meaning: Distinctive feature / Charm
+Nuance_EN: A unique characteristic or charm that distinguishes something from others, often used positively to highlight attractiveness or individuality.
+
+===word: 特訓===
+Meaning: Intensive training
+Nuance_EN: Concentrated training to improve a specific skill, often done before exams or competitions.
+
+===word: 特設===
+Meaning: Specially set up
+Nuance_EN: Means established for a special purpose, like a temporary event venue or a special website page.
+
+===word: 特許===
+Meaning: Patent
+Nuance_EN: An exclusive right protecting an invention, granted to the inventor for a limited period. A formal legal and business term.
+
+===word: 特許侵害===
+Meaning: Patent infringement
+Nuance_EN: The illegal use of someone else's patented invention without permission. A legal and business term common in corporate litigation.
+
+===word: 特賞===
+Meaning: Grand prize / Special award
+Nuance_EN: A particularly valuable prize among awards, such as first prize in a lottery or an event's special award. Emphasizes exceptional value.
+
+===word: 特集===
+Meaning: Special feature / Feature article
+Nuance_EN: A dedicated section in newspapers, magazines, or TV focusing on a specific topic in detail.
+
+===word: 牽制===
+Meaning: Check / Restrain
+Nuance_EN: The act of restraining or diverting an opponent's actions, often in sports or strategy. Implies a holding or distracting move.
+
+===word: 牽引===
+Meaning: Towing / Pulling
+Nuance_EN: Physically pulling an object forward, like a tow truck or locomotive. Also used metaphorically for leading an industry or economy.
+
+===word: 犇く===
+Meaning: Crowd / Throng
+Nuance_EN: A verb describing many people or things packed densely in one place, bustling and noisy. Evokes a vivid image of a crowded, lively scene.
+
+===word: 犇めき合う===
+Meaning: Jostle / Swarm together
+Nuance_EN: A verb for when many people or things are densely packed and bustling, like fish swarming or people crowding. Creates a vivid, active image.
+
+===word: 犠牲===
+Meaning: Sacrifice / Victim
+Nuance_EN: Losing something precious or giving oneself for others. Used from accident contexts to self-sacrificial spirit.
+
+===word: 涎===
+Meaning: Drool / Saliva
+Nuance_EN: Saliva dripping from the mouth, especially for babies or when seeing something delicious. "よだれ" is more casual; "涎" is more written-style. Used in idioms like "涎が出る" (mouthwatering).
+
+===word: 縄張り争い===
+Meaning: Territorial dispute
+Nuance_EN: A conflict over territory or domain, often used for animals or metaphorically for human disputes.
+
+===word: しっぽを追いかけてぐるぐる回っている===
+Meaning: Chasing its tail in circles
+Nuance_EN: Describes the literal action of a dog spinning around to catch its tail. "ぐるぐる" is an onomatopoeia for spinning repeatedly.
+
+===word: くすぐったい===
+Meaning: Tickle / Ticklish
+Nuance_EN: An adjective for the itchy, amusing sensation when touched. Also used metaphorically for feeling shy when praised.
+
+===word: 犬も食わない===
+Meaning: Not worth getting involved
+Nuance_EN: A proverb meaning it's better to stay out of other people's trivial quarrels. "Even dogs won't eat" such worthless disputes. Also means "nobody cares about" something.
+
+===word: 鎖===
+Meaning: Chain
+Nuance_EN: A linked metal rope used for restraining or tying things. Metaphorically symbolizes bondage or connection.
+
+===word: 犬歯===
+Meaning: Canine tooth / Eyetooth
+Nuance_EN: Pointed teeth next to incisors, used for tearing food. Named after a dog's fangs. Also called "糸切り歯" in Japanese.
+
+===word: 犬死に===
+Meaning: Wasted death
+Nuance_EN: An unnecessary or meaningless death, like dying for a worthless cause. Implies regret over a life lost without purpose.
+
+===word: 犯す===
+Meaning: Commit (crime) / Violate
+Nuance_EN: A verb meaning to break a law or commit a crime, or to sexually assault. It carries a strong, serious connotation.
+
+===word: 犯人===
+Meaning: Culprit / Perpetrator
+Nuance_EN: A person who has committed a crime. Used in legal and news contexts.
+
+===word: 克明===
+Meaning: Detailed / Meticulous
+Nuance_EN: Describes recording or describing something thoroughly and accurately, covering even the smallest details. Implies precision and care.
+
+===word: 包囲===
+Meaning: Surround / Encircle
+Nuance_EN: The act of surrounding an enemy or target from all sides. Used in military or figurative contexts.
+
+===word: 抵抗===
+Meaning: Resistance / Opposition
+Nuance_EN: The act of opposing or fighting against something, physically or psychologically.
+
+===word: 犯意===
+Meaning: Criminal intent
+Nuance_EN: The intention to commit a crime. A legal term important for establishing criminal liability.
+
+===word: 犯罪歴===
+Meaning: Criminal record
+Nuance_EN: The history of past criminal offenses. Checked during employment or licensing. A formal term in legal contexts; "前科" is more common in everyday speech.
+
+===word: 犯罪発生率===
+Meaning: Crime rate
+Nuance_EN: The ratio of crimes occurring in a certain period to the population. An indicator of societal safety.
+
+===word: 否定すべくもない===
+Meaning: Cannot be denied
+Nuance_EN: A formal phrase meaning "it's impossible to deny." "否定" is formal for denial, and "すべくもない" means "there is no way to do."
+
+===word: 状況プレイ===
+Meaning: Let's Play / Gameplay video
+Nuance_EN: A term from gaming culture, referring to recorded or streamed gameplay with commentary. "実況プレイ" is the full term.
+
+===word: 狂う===
+Meaning: Go mad / Go wrong
+Nuance_EN: Refers to losing mental balance or things not functioning properly, like a machine malfunctioning or plans failing.
+
+===word: 狂わす===
+Meaning: Disturb / Derange
+Nuance_EN: A transitive verb meaning to cause something to go wrong or make someone lose sanity. Used in phrases like "計画を狂わす" (disrupt plans) or "心を狂わす" (drive mad).
+
+===word: 狂乱===
+Meaning: Frenzy / Hysteria
+Nuance_EN: A state of extreme agitation or excitement where normal judgment is lost.
+
+===word: 狂信===
+Meaning: Fanaticism
+Nuance_EN: Excessive, irrational devotion to an ideology, religion, or person. Often used critically to describe dangerous, objective-losing fanaticism.
+
+===word: 狂喜===
+Meaning: Ecstasy / Rapture
+Nuance_EN: Overwhelming joy beyond normal bounds. A positive but extreme emotional state, implying intense excitement.
+
+===word: 狂気===
+Meaning: Madness / Insanity
+Nuance_EN: A very strong word for an abnormal mental state. Often used hyperbolically in everyday speech, like "狂気の沙汰" (act of madness), rather than literally.
+
+===word: 狂瀾怒涛===
+Meaning: Raging waves and stormy seas
+Nuance_EN: A four-character idiom describing violent waves and turbulently rough seas. Used metaphorically for social upheaval or intense emotions.
+
+===word: 狂犬病===
+Meaning: Rabies
+Nuance_EN: A severe viral infection transmitted through bites from infected animals, with nearly 100% fatality once symptoms appear. Used in medical and news contexts.
+
+===word: 狂言===
+Meaning: Kyogen (comic theater) / Feigned
+Nuance_EN: A traditional Japanese comedic theater form within Noh, using everyday language. Also used metaphorically for "fake" or "staged" events, like "狂言誘拐" (staged kidnapping).
+
+===word: 狐に抓まれる===
+Meaning: Be mystified / Feel deceived
+Nuance_EN: An idiom meaning to be confused by a fox's trick, feeling as if something unreal or unexplainable has happened.
+
+===word: 狐疑逡巡===
+Meaning: Hesitate / Waver in suspicion
+Nuance_EN: A difficult four-character idiom meaning to be full of doubt and unable to decide, hesitating repeatedly.
+
+===word: 狒狒===
+Meaning: Baboon / Lecherous old man
+Nuance_EN: Literally a type of monkey (baboon). Slang for a lecherous old man—be careful with the dual meaning.
+
+===word: 狙い澄ます===
+Meaning: Aim carefully / Focus one's aim
+Nuance_EN: Means to aim precisely and concentrate on a target, focusing intently.
+
+===word: 狙い目===
+Meaning: Target / Good opportunity
+Nuance_EN: Refers to the most suitable timing or objective for doing something. A casual term for a worthwhile target or chance.
+
+===word: 狙撃===
+Meaning: Snipe / Shoot
+Nuance_EN: The act of shooting a specific target from a distance with a gun. A specialized term in military and hunting contexts.
+
+===word: 狙撃兵===
+Meaning: Sniper
+Nuance_EN: A soldier specialized in precise long-range shooting at designated targets.
+
+===word: 狛犬===
+Meaning: Komainu (lion-dog statues)
+Nuance_EN: A pair of mythical lion-like statues placed at shrine entrances as guardians. Features one with an open mouth (Agyo) and one closed (Ungyo).
+
+===word: 狡猾===
+Meaning: Cunning / Sly
+Nuance_EN: Describes someone who is crafty and deceitful, with a negative connotation of being scheming and untrustworthy. Often compared to foxes or tanuki.
+
+===word: 狩にいく===
+Meaning: Go hunting
+Nuance_EN: Hiragana for "go hunting," used both literally for hunting animals and metaphorically in gaming for monster hunting.
+
+===word: 狩人===
+Meaning: Hunter
+Nuance_EN: A person who hunts wild animals. A classic term.
+
+===word: 狩猟===
+Meaning: Hunting
+Nuance_EN: The act of capturing wild birds and animals, whether for sport, tradition, or pest control.
+
+===word: 狩猟採集民===
+Meaning: Hunter-gatherer
+Nuance_EN: A group of people who rely on hunting and foraging for subsistence, as traditional societies.
+
+===word: 独りよがり===
+Meaning: Self-righteous / Complacent
+Nuance_EN: Describes a person who is convinced of their own correctness while ignoring others' opinions. Negative, implying self-satisfaction.
+
+===word: 独り占め===
+Meaning: Monopolize
+Nuance_EN: To take sole possession of something, not sharing with others. Can apply to food, time, opportunities, or people, often with a negative nuance.
+
+===word: 独り立ち===
+Meaning: Independence / Stand on one's own
+Nuance_EN: The act of becoming independent without help or protection, such as starting a career or leaving home.
+
+===word: 独り立ちする能力===
+Meaning: Ability to stand alone
+Nuance_EN: The capacity to become self-reliant. This phrase appears in advice about expanding one's horizons to act wisely as independence grows.
+
+===word: 独り身===
+Meaning: Single / Alone
+Nuance_EN: A person who is not married, or living alone after a spouse's death. More emotional than "独身," implying solitude or freedom.

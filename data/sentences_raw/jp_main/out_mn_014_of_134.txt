@@ -1,0 +1,803 @@
+===word: 開発===
+Meaning: Development
+Nuance_EN: Refers to the process of creating or improving products, technologies, or resources, often used in business and industrial contexts.
+
+===word: わざと===
+Meaning: Intentionally / On purpose
+Nuance_EN: An adverb indicating that an action is done deliberately, often with a nuance of malice or mischief, but can also simply mean "on purpose" without negative connotation.
+
+===word: わずか===
+Meaning: Slight / Mere
+Nuance_EN: Describes a very small amount or degree, emphasizing the scarcity of quantity, time, or extent. Can be used adverbially or adjectivally.
+
+===word: 規約===
+Meaning: Rules / Regulations
+Nuance_EN: Refers to formal rules or agreements that govern an organization or group, often used in corporate or legal contexts.
+
+===word: 走破===
+Meaning: Run through / Complete a course
+Nuance_EN: Means to run all the way to the finish or complete an entire course, often used for marathons or races, emphasizing endurance and full coverage.
+
+===word: 生ぬるい===
+Meaning: Lukewarm / Half-hearted
+Nuance_EN: Describes something that is insufficiently warm (like water), or metaphorically, a lenient or soft attitude. Often used critically to imply lack of strictness.
+
+===word: 狂う===
+Meaning: Go wrong / Deviate
+Nuance_EN: Means to become disordered or deviate from a plan, often used in contexts where expectations or calculations are disrupted.
+
+===word: ろくに===
+Meaning: Properly / Sufficiently (with negative)
+Nuance_EN: An adverb used with negative forms to mean "cannot do properly" or "hardly at all," implying inadequacy or lack of effort.
+
+===word: 踏襲===
+Meaning: Follow / Adopt
+Nuance_EN: Means to follow or adopt a method, tradition, or precedent, often used in formal or business contexts to indicate continuation of established practices.
+
+===word: わらわ===
+Meaning: I (archaic, female)
+Nuance_EN: An archaic first-person pronoun used by women, often found in historical fiction or period dramas, conveying a classical or noble tone.
+
+===word: わら半紙===
+Meaning: Straw paper
+Nuance_EN: A coarse paper made from straw, historically used for wrapping or as underlay in schools and government offices in the Showa era, now rare but nostalgic.
+
+===word: 行き違い===
+Meaning: Misunderstanding / Cross-purposes
+Nuance_EN: Refers to a situation where communications or actions fail to align, leading to confusion or error, often used for letters or plans going awry.
+
+===word: 認める===
+Meaning: Recognize / Acknowledge
+Nuance_EN: Means to admit or accept something as true or valid, often used in formal or intellectual contexts, such as acknowledging a need or fact.
+
+===word: わんさ===
+Meaning: In abundance / Crowded
+Nuance_EN: A mimetic word describing a large number of people or things gathered, often used casually in speech as "わんさか" to indicate a bustling or overflowing scene.
+
+===word: を限りに===
+Meaning: As of / Until (a point)
+Nuance_EN: A grammatical expression marking a specific time as the last point, after which a new state begins, often used in formal or written Japanese.
+
+===word: を除いて===
+Meaning: Except for / Excluding
+Nuance_EN: A grammatical expression used to indicate that something is treated as an exception, leaving the rest to be discussed. Common in both casual and formal contexts.
+
+===word: 実現===
+Meaning: Realization / Fulfillment
+Nuance_EN: Refers to making a plan, dream, or idea come true, often used positively in contexts of achieving goals or bringing concepts to reality.
+
+===word: アクが強い===
+Meaning: Strong personality / Strong taste
+Nuance_EN: Literally "strong astringency," used metaphorically to describe a person's strong, unique character that may be hard to handle, or food with a bold flavor. Can be positive or negative.
+
+===word: はらはら===
+Meaning: Nervously / Fluttering
+Nuance_EN: An onomatopoeia describing a state of anxiety or unease, or the gentle falling of petals or snow. Often used for suspenseful situations.
+
+===word: 例外===
+Meaning: Exception
+Nuance_EN: Refers to a special case that does not follow general rules or customs, widely used in business, law, and daily conversation, often in phrases like "例外なく" (without exception).
+
+===word: アクセス制御一覧===
+Meaning: Access Control List
+Nuance_EN: An IT term for a list managing who can access specific resources, commonly used in computer security and network management contexts. A technical term.
+
+===word: 主食===
+Meaning: Staple food
+Nuance_EN: Refers to the main food item in a diet, such as rice in Asia, often used in discussions of cuisine and nutrition.
+
+===word: アジト===
+Meaning: Hideout / Lair
+Nuance_EN: A slang term for a secret base used by criminal organizations or secret societies, derived from English "hideout" and often used in informal or dramatic contexts.
+
+===word: アスペ===
+Meaning: Asperger's (slang)
+Nuance_EN: A casual abbreviation for Asperger syndrome, used in online slang or casual conversation. Not a formal medical term, and can be derogatory when referring to people.
+
+===word: アットホーム===
+Meaning: Homely / Cozy
+Nuance_EN: A wasei-eigo term from "at home," describing a warm, family-like atmosphere in workplaces or shops, often used positively to praise a relaxed environment.
+
+===word: アトリエ===
+Meaning: Atelier / Studio
+Nuance_EN: A workspace for artists, painters, or designers, derived from French, carrying an artistic and creative connotation beyond a simple workshop.
+
+===word: さもないと===
+Meaning: Otherwise / Or else
+Nuance_EN: A conjunction meaning "if not," used to present a consequence, often in warnings or conditional statements. Slightly formal and literary.
+
+===word: アバウト===
+Meaning: Rough / Approximate
+Nuance_EN: A wasei-eigo term from "about," meaning not precise or detail-oriented. Can be negative when describing a person as careless or loose.
+
+===word: アバンチュール===
+Meaning: Adventure (romantic)
+Nuance_EN: A French-derived term for a risky or thrilling romantic affair, often implying excitement beyond a conventional relationship.
+
+===word: 借り===
+Meaning: Borrowing / Debt
+Nuance_EN: Refers to something borrowed, especially money, or a sense of obligation. Often used in phrases like "借りを作る" (to owe a favor).
+
+===word: アヒル===
+Meaning: Duck (domestic)
+Nuance_EN: A domesticated waterfowl with white feathers and a yellow beak, typically written in katakana. Derived from wild mallards.
+
+===word: アヘン剤===
+Meaning: Opium-based drug
+Nuance_EN: Refers to narcotic painkillers derived from poppies, including both medical and illegal forms, recognized as highly addictive and dangerous.
+
+===word: アベック===
+Meaning: Couple (romantic)
+Nuance_EN: A wasei-eigo term from French, meaning a male-female couple. Somewhat dated, with "カップル" now more common. Often seen in contexts like amusement parks.
+
+===word: 散歩===
+Meaning: Stroll / Walk
+Nuance_EN: Refers to a leisurely walk for pleasure, often used in daily life contexts. The sentence describes a couple walking along the coast.
+
+===word: アホ===
+Meaning: Fool / Idiot
+Nuance_EN: A casual term for a stupid person, common in the Kansai region. Can be used jokingly among close friends but may be offensive in other contexts.
+
+===word: アホノミクス===
+Meaning: Foolish economics (slang)
+Nuance_EN: A critical portmanteau of "aho" (fool) and "Abenomics," used online to mock former Prime Minister Abe's economic policies. Highly informal and derogatory.
+
+===word: アポ===
+Meaning: Appointment
+Nuance_EN: An abbreviation of "appointment," commonly used in business for scheduling meetings. Casual in tone, with "アポイント" or "予約" used in formal writing.
+
+===word: アメフト===
+Meaning: American football
+Nuance_EN: A common Japanese abbreviation for American football, used in everyday speech and media. More popular than the full term due to brevity.
+
+===word: 共稼ぎ===
+Meaning: Dual income
+Nuance_EN: Refers to both spouses working to earn a living, often used in discussions of household finances and work-life balance.
+
+===word: 自己主張===
+Meaning: Self-assertion
+Nuance_EN: The act of expressing one's own opinions or needs firmly, often in contrast to passive behavior. Used in contexts of cultural differences or personal development.
+
+===word: 州===
+Meaning: State (political)
+Nuance_EN: Refers to a political subdivision within a country, like a U.S. state. Used in geographical and political contexts.
+
+===word: 飲みまくる===
+Meaning: Drink excessively
+Nuance_EN: A colloquial verb form meaning to do something excessively or without restraint, often used with a sense of indulgence or abandon.
+
+===word: 制定===
+Meaning: Enactment / Establishment
+Nuance_EN: Refers to formally establishing laws, rules, or systems, typically in official or governmental contexts. A formal term.
+
+===word: 考慮===
+Meaning: Consideration
+Nuance_EN: The act of thinking carefully about something before deciding. Used in formal or analytical contexts, often with "考慮に入れる" (take into consideration).
+
+===word: 着飾る===
+Meaning: Dress up / Deck out
+Nuance_EN: Means to wear fancy or showy clothes to improve appearance, often with a nuance of being overly dressed or trying to stand out. Can be positive or negative.
+
+===word: 払う===
+Meaning: Pay
+Nuance_EN: A basic verb for paying money, used in various contexts from bills to taxes. Also used metaphorically in phrases like "注意を払う" (pay attention).
+
+===word: 連邦===
+Meaning: Federation / Federal
+Nuance_EN: A political system where multiple states or republics unite under a central government, used for countries like the U.S. or Germany.
+
+===word: アラサー===
+Meaning: Around 30 (age)
+Nuance_EN: A wasei-eigo term for people in their late 20s to early 30s, often used in discussions about life transitions like marriage or career.
+
+===word: 巣===
+Meaning: Nest
+Nuance_EN: A home built by birds, insects, or animals for living and raising young, found in various locations like trees or underground.
+
+===word: 中和===
+Meaning: Neutralization
+Nuance_EN: A chemical term for acid-base cancellation, also used metaphorically for softening opposing opinions or emotions. Somewhat technical and literary.
+
+===word: 無色===
+Meaning: Colorless
+Nuance_EN: Means having no color, transparent, often used for substances like alcohol or water.
+
+===word: アルコール中毒===
+Meaning: Alcoholism
+Nuance_EN: A medical term for physical and psychological dependence on alcohol, treated as a serious health and social issue. "依存症" is more common in daily speech.
+
+===word: アルゼンチン===
+Meaning: Argentina
+Nuance_EN: A country in southern South America, known for tango, soccer, and steak, with Buenos Aires as its capital.
+
+===word: アルツハイマー病===
+Meaning: Alzheimer's disease
+Nuance_EN: A progressive brain disorder causing cognitive decline, common in the elderly and a type of dementia.
+
+===word: 大変===
+Meaning: Hard / Tough
+Nuance_EN: Describes something difficult or troublesome, often used in daily conversation to express effort or hardship.
+
+===word: アルミ===
+Meaning: Aluminum
+Nuance_EN: A lightweight, rust-resistant metal used in everyday items like cans and window frames.
+
+===word: アル中===
+Meaning: Alcoholic (slang)
+Nuance_EN: A casual abbreviation for alcohol dependence, used in informal speech. The medical term is "アルコール依存症."
+
+===word: 回答===
+Meaning: Answer / Reply
+Nuance_EN: A formal term for responding to questions or inquiries, used in business emails, surveys, and exams. Differs from "解答" (correct answer) as it simply means a reply.
+
+===word: 上の空===
+Meaning: Absent-minded / Distracted
+Nuance_EN: Describes a state where one's mind is elsewhere, not focused on the present situation. Often used in phrases like "上の空で聞く" (listen absent-mindedly).
+
+===word: 収納===
+Meaning: Storage / Storing
+Nuance_EN: Refers to putting things away neatly or harvesting crops. Commonly used in modern contexts like "収納スペース" (storage space).
+
+===word: アンニュイ===
+Meaning: Listless / Bored
+Nuance_EN: A French-derived term for a mood of weariness or melancholy, often used in fashion or art to describe a cool, sophisticated ennui.
+
+===word: イカれている===
+Meaning: Crazy / Insane (slang)
+Nuance_EN: A vulgar slang meaning "crazy" or "out of one's mind," used casually and often jokingly, but inappropriate in formal settings.
+
+===word: イカれる===
+Meaning: Crazy / Awesome (slang)
+Nuance_EN: A slang term meaning "crazy" or "insane," used both negatively and positively (e.g., "awesome"). Common among youth but avoided in formal speech.
+
+===word: 匹敵===
+Meaning: Rival / Match
+Nuance_EN: Means to be equal in value or ability, often used in the form "〜に匹敵する" to indicate comparability with a standard.
+
+===word: 丸腰===
+Meaning: Unarmed
+Nuance_EN: Literally "round waist," meaning without weapons. Used literally for unarmed police or metaphorically for being unprepared.
+
+===word: イクナイ===
+Meaning: No good (dialect)
+Nuance_EN: A Hokkaido and Tohoku dialect term meaning "not good" or "bad," used casually, mainly by men, equivalent to standard "いけない."
+
+===word: イケてる===
+Meaning: Cool / Stylish
+Nuance_EN: A youth slang term meaning attractive or fashionable, equivalent to English "cool." Used for people, things, or ideas. The negative "イケてない" means uncool.
+
+===word: イケメン===
+Meaning: Handsome guy
+Nuance_EN: A casual term for a good-looking man, widely used in daily conversation among younger generations.
+
+===word: イスラム教===
+Meaning: Islam
+Nuance_EN: One of the world's three major religions, worshiping Allah as the one God, with the Quran as its holy book. Important in news and cultural contexts.
+
+===word: イスラム教徒===
+Meaning: Muslim
+Nuance_EN: A follower of Islam, also called "ムスリム" in Japanese. Used in religious and cultural discussions.
+
+===word: イチオシ===
+Meaning: Top recommendation
+Nuance_EN: A casual term for something strongly recommended, often used in marketing or personal endorsements.
+
+===word: イチコロ===
+Meaning: Easy win / One-shot
+Nuance_EN: A slang term meaning to defeat easily or be helpless, derived from "一コロリ" (one fall). Used in martial arts or general contexts for quick victory.
+
+===word: イチゴ狩り===
+Meaning: Strawberry picking
+Nuance_EN: A leisure activity where you pick strawberries at a farm, popular in winter to spring in Japan. Part of a series like "ぶどう狩り" (grape picking).
+
+===word: イチャイチャ===
+Meaning: Flirting / Canoodling
+Nuance_EN: An onomatopoeia describing couples playfully interacting or exchanging sweet words, often in public.
+
+===word: イチャコラ===
+Meaning: Flirting (slang)
+Nuance_EN: A slang term for couples being affectionate in public, blending "イチャイチャ" and "コラボ" (collaboration). Often used teasingly by observers.
+
+===word: 溢れる===
+Meaning: Overflow / Be filled
+Nuance_EN: Means to be so full that something spills over, used for crowds, emotions, or liquids. Common in both literal and figurative contexts.
+
+===word: イメチェン===
+Meaning: Image change
+Nuance_EN: An abbreviation of "イメージチェンジ," meaning to change one's appearance or style, especially hair or clothes. Casual term.
+
+===word: イラスト===
+Meaning: Illustration
+Nuance_EN: A drawing or picture used to supplement text or ads, distinct from photos. Includes hand-drawn or digital art.
+
+===word: イラッと===
+Meaning: Irritated (suddenly)
+Nuance_EN: A mimetic word for a sudden feeling of irritation or annoyance, often used as "イラッとする" in casual speech.
+
+===word: イルカ===
+Meaning: Dolphin
+Nuance_EN: A smart, friendly marine mammal, popular in aquariums and known for its playful nature.
+
+===word: インカレ===
+Meaning: Intercollegiate
+Nuance_EN: An abbreviation of "intercollegiate," referring to competitions or events between universities, especially in sports.
+
+===word: インコ===
+Meaning: Parakeet / Small parrot
+Nuance_EN: A general term for small, colorful parrots often kept as pets, distinguished from larger "オウム" (parrots). Common in daily conversation.
+
+===word: 録音テープ===
+Meaning: Recording tape
+Nuance_EN: Magnetic tape for recording audio, such as cassette tapes or reel-to-reel tapes. Now largely replaced by digital media.
+
+===word: 薄らぐ===
+Meaning: Fade / Diminish
+Nuance_EN: Means to become less intense or noticeable, used for awareness, concepts, or physical sensations like color or sound.
+
+===word: 断片===
+Meaning: Fragment / Piece
+Nuance_EN: A small piece broken off from a whole, used for physical objects or abstract things like memories or conversations.
+
+===word: 活用===
+Meaning: Utilization / Application
+Nuance_EN: Means to use something effectively, often in business or learning contexts. A positive term for making good use of resources.
+
+===word: 概念===
+Meaning: Concept
+Nuance_EN: An abstract framework or definition capturing the essence of something, used in philosophical or academic discussions.
+
+===word: インチキ===
+Meaning: Fake / Fraud
+Nuance_EN: A casual term for something fraudulent or counterfeit, used for objects, actions, or people. Informal and slightly derogatory.
+
+===word: 辛い===
+Meaning: Spicy / Hot
+Nuance_EN: A taste adjective for pungent flavors like chili or pepper, distinct from "しょっぱい" (salty). Used for curries, kimchi, etc.
+
+===word: 本場===
+Meaning: Home / Birthplace (of something)
+Nuance_EN: Refers to the place where something is most authentic or thriving, like Italy for pizza or Kyoto for tea ceremony.
+
+===word: もっとも===
+Meaning: However / Though
+Nuance_EN: A conjunction used to partially correct or supplement a previous statement, meaning "that said" or "although." Used in both speech and writing.
+
+===word: 水割り===
+Meaning: Whiskey and water
+Nuance_EN: A drink made by diluting whiskey with water, common in Japanese drinking culture. "割り" refers to the ratio or mixture.
+
+===word: 許す===
+Meaning: Permit / Forgive
+Nuance_EN: Means to allow or forgive, used in contexts of permission or moral absolution. The sentence discusses not tolerating spreading viruses.
+
+===word: 掲載===
+Meaning: Publish / Post
+Nuance_EN: Refers to displaying information or content on a website or publication, common in media and online contexts.
+
+===word: ウカウカ===
+Meaning: Carelessly / Idly
+Nuance_EN: An onomatopoeia describing a lack of caution or purpose, often used in warnings like "ウカウカするな" (don't be careless).
+
+===word: ウカウカせぬ===
+Meaning: Not be careless
+Nuance_EN: A negative form of "ウカウカする," meaning to not act idly or without caution, often in admonitions.
+
+===word: ウカウカ暮らす===
+Meaning: Live idly
+Nuance_EN: Means to spend days without deep thought or purpose, often with a nuance of lacking responsibility or future concern.
+
+===word: ウカウカ月日を送る===
+Meaning: Spend days idly
+Nuance_EN: An idiomatic expression for passing time without tension or purpose, using "ウカウカ" to describe a carefree, drifting state.
+
+===word: ウクライナ===
+Meaning: Ukraine
+Nuance_EN: A country in Eastern Europe, known for its fertile farmland and historical culture, with Kyiv as its capital.
+
+===word: 跳ねる===
+Meaning: Jump / Hop
+Nuance_EN: A verb for light, bouncing movements, often used for animals or children.
+
+===word: 片隅===
+Meaning: Corner / Nook
+Nuance_EN: Refers to a corner or edge of a space, away from the center. Used literally or metaphorically, like "心の片隅" (corner of one's heart).
+
+===word: ウザイ===
+Meaning: Annoying / Irritating
+Nuance_EN: A youth slang term for something bothersome or irritating, used for people's behavior or atmosphere. Casual and informal.
+
+===word: ウジウジ===
+Meaning: Hesitantly / Indecisively
+Nuance_EN: An onomatopoeia for being unable to decide and worrying excessively, often with a critical tone toward someone's indecisiveness.
+
+===word: ウツボ===
+Meaning: Moray eel
+Nuance_EN: A long, slender fish with sharp teeth, living in rocky seabeds. Though scary-looking, it is also eaten as food.
+
+===word: ウニ===
+Meaning: Sea urchin
+Nuance_EN: A marine echinoderm, popular as food, especially in sushi. Known for its spiny exterior and creamy interior.
+
+===word: ウマが合う===
+Meaning: Get along well
+Nuance_EN: An idiom meaning good compatibility with someone, originating from horse and rider chemistry. Used in casual conversation for harmonious relationships.
+
+===word: 陸===
+Meaning: Land / Ground
+Nuance_EN: A single-kanji word for land as opposed to sea or air, used in compounds like "上陸" (landing). Slightly formal when used alone.
+
+===word: ウラシマ効果===
+Meaning: Rip Van Winkle effect
+Nuance_EN: A term from the Urashima Taro legend, referring to a time lag or feeling of isolation after returning to a changed environment. Used in psychology.
+
+===word: ウロチョロ===
+Meaning: Pacing / Loitering
+Nuance_EN: An onomatopoeia for moving around restlessly without purpose, often implying being in the way or distracting.
+
+===word: エアプ===
+Meaning: Fake expert (slang)
+Nuance_EN: An internet slang abbreviation for "air pro," referring to someone who pretends to have experience or knowledge without actually doing it. Used in gaming or hobby communities.
+
+===word: エコー検査===
+Meaning: Ultrasound exam
+Nuance_EN: A medical test using ultrasound to image internal organs, commonly used for pregnancy checks or diagnosing conditions.
+
+===word: 計画的な===
+Meaning: Planned / Systematic
+Nuance_EN: An adjectival noun describing actions done with careful planning, as opposed to random or ad hoc. Used positively in business and daily life.
+
+===word: エホバの証人===
+Meaning: Jehovah's Witnesses
+Nuance_EN: A Christian-based religious group known for its unique interpretation of the Bible. Relatively small in Japan.
+
+===word: ぎっしり===
+Meaning: Tightly / Packed
+Nuance_EN: An adverb describing something filled with no gaps, used for physical objects or schedules.
+
+===word: エロい===
+Meaning: Erotic / Sexy
+Nuance_EN: A slang term for something sexually suggestive or provocative, used in casual conversation but not formal settings.
+
+===word: エロゲ===
+Meaning: Erotic game
+Nuance_EN: An abbreviation for "erotic game," referring to computer games with sexual content, a genre that developed uniquely in Japan.
+
+===word: べく===
+Meaning: In order to
+Nuance_EN: A formal conjunction meaning "for the purpose of," used in written or literary Japanese to express intention.
+
+===word: エンスト===
+Meaning: Engine stall
+Nuance_EN: An abbreviation of "engine stall," referring to a car engine stopping unexpectedly.
+
+===word: エール===
+Meaning: Cheer / Support
+Nuance_EN: A katakana word for encouragement or support, often used in "エールを送る" (send support). Derived from French or English.
+
+===word: 契機===
+Meaning: Opportunity / Trigger
+Nuance_EN: Refers to a turning point or catalyst that leads to change, often used in formal or analytical contexts.
+
+===word: オカッパ===
+Meaning: Bobbed hair
+Nuance_EN: A traditional Japanese hairstyle for children or women, with straight bangs and shoulder-length cut. Also called "おかっぱ頭."
+
+===word: オカマ===
+Meaning: Effeminate man (slang)
+Nuance_EN: A slang term for a man with feminine traits or identity, sometimes derogatory. Can also refer to gay men, but use with caution.
+
+===word: オカルト===
+Meaning: Occult
+Nuance_EN: Refers to supernatural or mysterious phenomena beyond scientific explanation, including ghosts, fortune-telling, and psychic powers. Popular in subculture.
+
+===word: 破壊===
+Meaning: Destruction
+Nuance_EN: Means to break or destroy something, used for physical objects or abstract concepts like the ozone layer.
+
+===word: オタク世代===
+Meaning: Otaku generation
+Nuance_EN: Refers to the generation of people deeply into anime, manga, and gaming subculture, often used in sociological discussions.
+
+===word: オッドアイ===
+Meaning: Odd eyes
+Nuance_EN: A condition where the irises of the eyes are different colors, seen in humans and animals like cats and dogs.
+
+===word: 襲う===
+Meaning: Attack / Assault
+Nuance_EN: Means to attack or assault someone, often with a sense of suddenness or violence. Used in both physical and metaphorical contexts.
+
+===word: オフレコ===
+Meaning: Off the record
+Nuance_EN: A katakana term meaning not for public disclosure, used in journalism or conversations to indicate informality.
+
+===word: オフ会===
+Meaning: Offline meeting
+Nuance_EN: An abbreviation for "offline meeting," where people who usually interact online meet in person, common in gaming or social media communities.
+
+===word: オブラートに包む===
+Meaning: Sugarcoat
+Nuance_EN: An idiom meaning to express something gently or indirectly, like wrapping in a thin film, to avoid harshness.
+
+===word: オムツ===
+Meaning: Diaper / Nappy
+Nuance_EN: An undergarment for absorbing waste, used for babies or incontinent adults. Available in cloth or disposable forms.
+
+===word: 開催===
+Meaning: Hold (an event)
+Nuance_EN: Means to conduct or organize an event like a meeting or competition, used in formal contexts.
+
+===word: オルゴール===
+Meaning: Music box
+Nuance_EN: A mechanical instrument that plays music by plucking metal teeth, often wound by a spring. Popular as gifts or decorations.
+
+===word: 濃縮===
+Meaning: Concentration / Condensation
+Nuance_EN: The process of making a liquid or solution denser, such as juice concentrate or uranium enrichment.
+
+===word: オーバー===
+Meaning: Over / Exaggerated
+Nuance_EN: A katakana word meaning to exceed or exaggerate, commonly used in daily conversation.
+
+===word: カイワレ大根===
+Meaning: Radish sprouts
+Nuance_EN: Sprouts of daikon radish, used in salads or as garnish, with a peppery taste and crunchy texture. Common in Japanese cuisine.
+
+===word: ぴょんぴょん===
+Meaning: Hopping
+Nuance_EN: An onomatopoeia for light, bouncing movements, often used for animals or children jumping playfully.
+
+===word: 区別===
+Meaning: Distinction / Difference
+Nuance_EN: The act of recognizing differences between things, often used for similar items that need to be separated or identified.
+
+===word: へそ===
+Meaning: Belly button / Navel
+Nuance_EN: The navel on the body, also used in idioms like "へそを曲げる" (get sulky) or "へそで茶を沸かす" (laugh uncontrollably).
+
+===word: とうとう===
+Meaning: Finally / At last
+Nuance_EN: An adverb indicating that after a long process, a result is reached. Can be used for both good and bad outcomes, with a sense of culmination.
+
+===word: カキコする===
+Meaning: Post (online)
+Nuance_EN: An internet slang term from "書き込む," meaning to post a message on a forum or social media. Popular in early 2000s 2channel culture, now somewhat dated.
+
+===word: カクカク===
+Meaning: Jerky / Stuttering
+Nuance_EN: An onomatopoeia for awkward, uneven movement or graphics, often used for laggy animations or stiff motions.
+
+===word: 完膚なきまでに===
+Meaning: Completely / Thoroughly
+Nuance_EN: An idiom meaning "to the point of no intact skin," used to describe thorough defeat or criticism. Formal and emphatic.
+
+===word: カチカチ===
+Meaning: Hard / Stiff
+Nuance_EN: An onomatopoeia for something very hard or a body stiff from tension, also used for the ticking sound of a clock.
+
+===word: カチンと来る===
+Meaning: Get annoyed / Tick off
+Nuance_EN: A colloquial expression for suddenly getting angry at someone's words or actions, often over trivial matters.
+
+===word: カチンコチン===
+Meaning: Rock hard / Stubborn
+Nuance_EN: An onomatopoeia for extreme hardness, used literally or metaphorically for a stubborn person. Casual and humorous.
+
+===word: カッカする===
+Meaning: Get heated / Fume
+Nuance_EN: A colloquial term for becoming angry or excited, from the mimetic "カッカ" (sudden heat). Describes losing calmness.
+
+===word: 習性===
+Meaning: Habit / Behavior
+Nuance_EN: Refers to innate behavioral tendencies or learned habits, used for animals or humans in scientific or observational contexts.
+
+===word: べたべた===
+Meaning: Clingy / Sticky
+Nuance_EN: An onomatopoeia for being overly affectionate or physically close, often used for couples. Also means sticky in texture.
+
+===word: カツカツ===
+Meaning: Barely / Tight
+Nuance_EN: An onomatopoeia for a tight financial situation or a clicking sound. Used to describe living paycheck to paycheck or hard shoe sounds.
+
+===word: カツ上げ===
+Meaning: Extortion / Shakedown
+Nuance_EN: Originally meaning "to cheer up," now primarily refers to extortion, especially by delinquents. A slang term.
+
+===word: カビ===
+Meaning: Mold
+Nuance_EN: A type of fungus that grows on food, walls, or clothes in damp conditions, causing health and hygiene issues. Very common in daily conversation.
+
+===word: カボチャ===
+Meaning: Pumpkin / Squash
+Nuance_EN: A large green or orange vegetable, used in cooking and Halloween decorations.
+
+===word: カミソリ===
+Meaning: Razor
+Nuance_EN: A sharp blade for shaving hair, used literally or metaphorically for sharpness.
+
+===word: 環境===
+Meaning: Environment
+Nuance_EN: Refers to surrounding conditions affecting living things, used broadly in natural, work, or learning contexts.
+
+===word: カモ===
+Meaning: Duck / Easy target
+Nuance_EN: Literally "duck," but commonly used metaphorically for someone easily tricked or exploited, like a "sitting duck."
+
+===word: 思い切り===
+Meaning: To one's heart's content
+Nuance_EN: Means doing something without restraint or fully, often used for singing or playing.
+
+===word: カラカラ===
+Meaning: Dry / Parched
+Nuance_EN: An onomatopoeia for a completely dry state, used for thirst or dried-out objects.
+
+===word: カラビナ===
+Meaning: Carabiner
+Nuance_EN: A metal clip with a spring used in climbing for quick attachment of ropes or gear. Also popular as keychain accessories.
+
+===word: カリスマ性===
+Meaning: Charisma
+Nuance_EN: A special charm or leadership quality that attracts others, used for influential figures like politicians or celebrities.
+
+===word: カンスト===
+Meaning: Maxed out (gaming)
+Nuance_EN: An abbreviation of "counter stop," meaning a numerical value has reached its maximum and cannot increase further, common in games.
+
+===word: カンテラ===
+Meaning: Lantern (oil)
+Nuance_EN: A small portable oil lamp, historically used in mines or ships, now seen in camping or period dramas. From Portuguese.
+
+===word: カンニング===
+Meaning: Cheating (on tests)
+Nuance_EN: The act of looking at answers or using cheat sheets during exams, used in school contexts.
+
+===word: カンパ===
+Meaning: Donation / Fundraising
+Nuance_EN: Refers to collecting money to support an event or activity, not a company abbreviation. Used in volunteer or community contexts.
+
+===word: カンペ===
+Meaning: Cue card / Cheat sheet
+Nuance_EN: A card used in TV or stage to give instructions or lines to performers, also used for exam cheating. Casual term.
+
+===word: ガクガク===
+Meaning: Shaking / Wobbling
+Nuance_EN: An onomatopoeia for trembling from fear or cold, or for something loose and unstable.
+
+===word: ガクブル===
+Meaning: Trembling (slang)
+Nuance_EN: An internet slang onomatopoeia for shaking from fear or tension, combining "ガクガク" and "ブルブル." Used in casual online chats.
+
+===word: 爆発===
+Meaning: Explosion
+Nuance_EN: A sudden, violent burst, used for gas pipes, bombs, or volcanic eruptions.
+
+===word: ガセ===
+Meaning: Fake news / Lie
+Nuance_EN: A slang term for false information, short for "ガセネタ." Used in entertainment or online contexts.
+
+===word: ガセネタ===
+Meaning: False rumor
+Nuance_EN: A casual term for false information or hoaxes, often used in media or online discussions about unreliable news.
+
+===word: 不可避===
+Meaning: Inevitable
+Nuance_EN: A formal term meaning unavoidable, used in written language. Carries a sense of fate or necessity.
+
+===word: ガタンと===
+Meaning: With a clatter
+Nuance_EN: An onomatopoeia for a heavy, sudden sound of something moving or hitting.
+
+===word: ガタ落ち===
+Meaning: Sharp drop
+Nuance_EN: A colloquial term for a sudden decline in value, popularity, or quality, used for stocks or ratings.
+
+===word: ガチ===
+Meaning: Serious / Genuine
+Nuance_EN: A slang term meaning "for real" or "serious," used to emphasize authenticity or intensity in casual contexts.
+
+===word: ガラクタ===
+Meaning: Junk / Trash
+Nuance_EN: Worthless or unwanted items, often old or broken, used dismissively.
+
+===word: 欠片===
+Meaning: Fragment / Shard
+Nuance_EN: A small piece from a broken object, used literally or in negative phrases like "欠片もない" (not a bit).
+
+===word: ガラス戸===
+Meaning: Glass door
+Nuance_EN: A door or sliding panel with glass, used for windows or room partitions.
+
+===word: 付着===
+Meaning: Adhesion / Attachment
+Nuance_EN: The state of something sticking to a surface, used for paint, dirt, or particles.
+
+===word: キチ===
+Meaning: Maniac / Freak (slang)
+Nuance_EN: A slang suffix for someone obsessed with something, often used online with a derogatory or teasing tone.
+
+===word: キビキビ===
+Meaning: Briskly / Efficiently
+Nuance_EN: An onomatopoeia for quick, sharp movements or work, used positively to describe someone's efficiency.
+
+===word: キモヲタ===
+Meaning: Creepy otaku (slang)
+Nuance_EN: A derogatory slang for an otaku with poor social skills or appearance, highly offensive and to be used with caution.
+
+===word: 組み込む===
+Meaning: Incorporate / Integrate
+Nuance_EN: Means to include something as part of a system or plan, used in technology or event planning.
+
+===word: キュウリ===
+Meaning: Cucumber
+Nuance_EN: A green, elongated vegetable often eaten raw in salads or pickled.
+
+===word: キュンキュン===
+Meaning: Heart-throbbing
+Nuance_EN: An onomatopoeia for a feeling of excitement or romantic flutter, often used in manga or casual speech.
+
+===word: キョトンと===
+Meaning: Blankly / Puzzled
+Nuance_EN: An onomatopoeia for a blank or confused expression, showing lack of understanding or surprise.
+
+===word: キリギリス===
+Meaning: Katydid / Bush cricket
+Nuance_EN: An insect known for its chirping in summer and autumn, famous in Japanese culture but less commonly heard.
+
+===word: キリスト教===
+Meaning: Christianity
+Nuance_EN: A religion believing in Jesus Christ as the savior, one of the world's three major religions.
+
+===word: 叩く===
+Meaning: Hit / Strike
+Nuance_EN: A verb for striking something, used for keyboards (typing vigorously) or drums.
+
+===word: ギクシャク===
+Meaning: Awkward / Strained
+Nuance_EN: An onomatopoeia for clumsy movements or strained relationships, indicating discomfort or lack of smoothness.
+
+===word: ギザギザ===
+Meaning: Jagged / Serrated
+Nuance_EN: Describes a shape with continuous notches or teeth, like a saw blade.
+
+===word: ギスギス===
+Meaning: Tense / Strained
+Nuance_EN: An onomatopoeia for a cold, uncomfortable atmosphere in relationships, lacking warmth and harmony.
+
+===word: ギタギタ===
+Meaning: Loose / Wobbly
+Nuance_EN: An onomatopoeia for something not firmly fixed, shaking unstably, like a loose screw.
+
+===word: ギャン泣き===
+Meaning: Loud crying (baby)
+Nuance_EN: A casual, onomatopoeic term for a baby or child crying loudly, often used in parenting contexts with a slightly humorous tone.
+
+===word: ギラリ===
+Meaning: Glint / Gleam
+Nuance_EN: An onomatopoeia for a sharp, sudden flash of light, often from eyes or metal.
+
+===word: 債務問題===
+Meaning: Debt problem
+Nuance_EN: Refers to issues related to financial obligations, used in economic or political contexts.
+
+===word: ギンギン===
+Meaning: Intense / Super cold
+Nuance_EN: A slang term for extreme intensity, like very cold beer ("ギンギンに冷えた") or high excitement. Casual and youthful.
+
+===word: クスクス===
+Meaning: Giggle / Snicker
+Nuance_EN: An onomatopoeia for quiet laughter, often secretive or shy, not malicious.
+
+===word: クソッタレ===
+Meaning: Damn it / Bastard
+Nuance_EN: A vulgar curse word expressing strong anger or frustration, very rude and unsuitable for public use.
+
+===word: クラクション===
+Meaning: Car horn
+Nuance_EN: A katakana term for a vehicle's horn, used to alert others. Often associated with rude honking.
+
+===word: クラゲ===
+Meaning: Jellyfish
+Nuance_EN: A gelatinous marine animal with stinging cells, beautiful but potentially dangerous. Written as "海月" or "水母."
+
+===word: 注意を払う===
+Meaning: Pay attention
+Nuance_EN: A formal phrase meaning to focus one's attention on something, used in analytical or careful contexts.

@@ -1,0 +1,799 @@
+===word: 奮って===
+Meaning: Bravely / With all one's might
+Nuance_EN: Describes acting with courage or determination in the face of fear or difficulty, often used as a driving force to take action.
+
+===word: 理===
+Meaning: Reason / Principle
+Nuance_EN: Refers to the logical order or correct principle of things; in natural sciences, it can also mean "principle" or "law."
+
+===word: 進む===
+Meaning: Advance / Proceed
+Nuance_EN: Means to move forward or progress, often used in contexts of pursuing one's own path despite criticism or obstacles.
+
+===word: 和服===
+Meaning: Japanese clothing
+Nuance_EN: A general term for traditional Japanese garments like kimono and yukata, often worn for special occasions and conveying a formal impression.
+
+===word: 画家===
+Meaning: Painter / Artist
+Nuance_EN: Refers to a person who creates paintings as a profession, encompassing various techniques such as oil, watercolor, and Japanese painting.
+
+===word: 逆立ち===
+Meaning: Handstand
+Nuance_EN: A posture where one stands on their hands with feet in the air, requiring arm strength and balance; also used metaphorically in phrases like "逆立ちしても敵わない" (can't match even with a handstand).
+
+===word: 多忙===
+Meaning: Very busy
+Nuance_EN: Describes a state of being extremely busy with no free time; a somewhat formal expression.
+
+===word: 機嫌===
+Meaning: Mood / Temper
+Nuance_EN: Refers to a person's emotional state or mood, especially whether it is good or bad; commonly used in phrases like "機嫌がいい" (in a good mood) or "機嫌が悪い" (in a bad mood).
+
+===word: 名誉===
+Meaning: Honor / Reputation
+Nuance_EN: Means gaining high social esteem or respect, and the pride in maintaining it; relates to personal reputation and dignity, often used in formal contexts with idioms like "名誉を傷つける" (damage one's honor) or "名誉挽回" (restore one's honor).
+
+===word: 優等生===
+Meaning: Honor student
+Nuance_EN: Refers to a student with excellent grades; basically used for high-achieving students, but also metaphorically for someone who is exemplary in a certain area; has a somewhat formal tone.
+
+===word: 失神===
+Meaning: Fainting / Unconsciousness
+Nuance_EN: A temporary loss of consciousness caused by shock, fatigue, illness, etc.
+
+===word: 奨学金===
+Meaning: Scholarship
+Nuance_EN: A noun referring to financial aid (grants or loans) for students who have difficulty affording tuition due to economic reasons; provided by universities and organizations, with both repayable and non-repayable types, supporting equal educational opportunities.
+
+===word: 出産===
+Meaning: Childbirth
+Nuance_EN: Refers to the birth of a baby from the mother; often used in medical contexts and is somewhat formal, while in daily conversation "赤ちゃんが生まれる" is more common.
+
+===word: 女優===
+Meaning: Actress
+Nuance_EN: Refers to a professional who performs female roles in films, theater, TV dramas, etc., requiring acting skills and expressiveness in the entertainment field.
+
+===word: 芸能界===
+Meaning: Entertainment industry
+Nuance_EN: Refers to the entire industry where entertainers like actors, singers, and talents work, including TV, film, and music; has a glamorous but tough image.
+
+===word: 代弁===
+Meaning: Speak for / Pay on behalf
+Nuance_EN: Means to express someone else's opinions or feelings in their place, or to make a payment on behalf of another person.
+
+===word: 任せる===
+Meaning: Entrust / Leave to
+Nuance_EN: Means to leave something to someone's discretion or responsibility, often used in contexts like household finances.
+
+===word: 強気===
+Meaning: Aggressive / Bullish
+Nuance_EN: Describes a strong, unyielding attitude or stance; used in business negotiations (e.g., aggressive pricing), stock market (bullish market), or personality descriptions; the opposite of "弱気" (weak/ bearish); common in daily conversation.
+
+===word: 主===
+Meaning: Master / Owner
+Nuance_EN: A somewhat archaic term for the master, owner, or person in charge of a house, shop, or organization; more common in literature or period dramas, emphasizing the role of host to guests.
+
+===word: 当分===
+Meaning: For the time being
+Nuance_EN: An adverb indicating a certain period from now into the future, often meaning a few days to several months; similar to "しばらく" but with a stronger nuance of a state continuing for the foreseeable future; commonly used in daily conversation.
+
+===word: 口添え===
+Meaning: Put in a good word
+Nuance_EN: Means to speak favorably or recommend someone to another person, often in job or business contexts, to create a positive impression as an intermediary.
+
+===word: 婉曲===
+Meaning: Indirect / Euphemistic
+Nuance_EN: Refers to expressing something in a roundabout way, avoiding directness; important in Japanese for politeness, especially when refusing or making requests.
+
+===word: まじまじ===
+Meaning: Staring intently
+Nuance_EN: An adverb describing the act of staring fixedly at one point, often out of surprise or to confirm something; commonly used in the phrase "まじまじと見る" (stare intently), which can come across as somewhat rude.
+
+===word: 損害賠償===
+Meaning: Damages / Compensation
+Nuance_EN: Refers to monetary compensation for harm caused, used in legal contexts for accidents, contract breaches, etc.
+
+===word: 聴衆===
+Meaning: Audience
+Nuance_EN: Refers to a group of people listening to a speech or performance, emphasizing the act of listening; suitable for concerts and lectures.
+
+===word: 快い===
+Meaning: Pleasant / Comfortable
+Nuance_EN: Describes a pleasant and comfortable state, also used when someone's response is favorable.
+
+===word: 怠慢===
+Meaning: Negligence
+Nuance_EN: Refers to the logical order or correct principle of things; in natural sciences, it can also mean "principle" or "law."
+
+===word: 手当て===
+Meaning: Treatment / First aid
+Nuance_EN: Refers to medical care for injuries or illnesses, both emergency and ongoing; broader in meaning than "治療" (treatment).
+
+===word: きつい===
+Meaning: Tight / Harsh / Severe
+Nuance_EN: A polysemous adjective meaning physically tight, mentally tough, or verbally harsh; very frequently used in casual daily conversation.
+
+===word: 失神===
+Meaning: Fainting
+Nuance_EN: A temporary loss of consciousness caused by shock, fatigue, illness, etc.
+
+===word: 息===
+Meaning: Breath
+Nuance_EN: Refers to the air taken in and out of the lungs through breathing, also symbolizing life itself.
+
+===word: 引き取る===
+Meaning: Take in / Retrieve
+Nuance_EN: Means to take someone or something into one's care, often used for taking in a child or retrieving an item.
+
+===word: 悩ましい===
+Meaning: Tantalizing / Perplexing
+Nuance_EN: Has two meanings: "so attractive as to be troubling" and "so difficult as to cause hesitation in decision-making."
+
+===word: 感受性===
+Meaning: Sensitivity / Receptivity
+Nuance_EN: Refers to the sharpness of perceiving external stimuli and others' emotions, important in art and human relationships.
+
+===word: 手品===
+Meaning: Magic trick
+Nuance_EN: Refers to the art of performing illusions using sleight of hand or devices in front of an audience; also called "マジック," but "手品" is the traditional Japanese term, often used in casual settings.
+
+===word: びりびり===
+Meaning: Tearing sound / Shredding
+Nuance_EN: A mimetic word describing the sound of paper or cloth tearing, or a sensation of static electricity or shock; also refers to trembling from tension or fear.
+
+===word: 指輪===
+Meaning: Ring
+Nuance_EN: A basic word for circular objects, including rings for fingers, tires, or hoops, referring to shape.
+
+===word: 振り向く===
+Meaning: Turn around
+Nuance_EN: Means to move the body or head to look behind; also used metaphorically for feigned attitudes, like "知らない振り" (pretending not to know).
+
+===word: 政治===
+Meaning: Politics / Governance
+Nuance_EN: Refers to the governance and administration of a country or region; has an archaic, Sino-Japanese feel compared to the more modern "政治."
+
+===word: 政治===
+Meaning: Politics
+Nuance_EN: Refers to the governance and administration of a country or region; has an archaic, Sino-Japanese feel compared to the modern term.
+
+===word: 文系===
+Meaning: Humanities / Liberal arts
+Nuance_EN: Refers to academic fields like literature, history, philosophy, and law, as opposed to sciences (理系); very commonly used in career and academic path discussions.
+
+===word: 失神===
+Meaning: Fainting
+Nuance_EN: A temporary loss of consciousness caused by shock, fatigue, illness, etc.
+
+===word: 逸する===
+Meaning: Miss / Lose
+Nuance_EN: A literary verb meaning to miss a chance or target, used in phrases like "チャンスを逸する" (miss an opportunity); read as "いっする."
+
+===word: 余===
+Meaning: I / Me (archaic)
+Nuance_EN: A first-person pronoun mainly used by men in archaic or literary contexts, rarely used in modern conversation except in period dramas or novels for authoritative figures.
+
+===word: 達筆===
+Meaning: Good handwriting
+Nuance_EN: An expression praising someone's skill in writing or the quality of their handwriting; used in formal or polite contexts like handwritten letters or New Year's cards.
+
+===word: 作家===
+Meaning: Writer / Author
+Nuance_EN: Refers to a person who writes literary works such as novels, poems, or essays as a profession; nearly synonymous with "小説家" but broader, covering creative writing overall.
+
+===word: いらいら===
+Meaning: Irritated / Frazzled
+Nuance_EN: An onomatopoeia expressing a restless, irritated feeling when things don't go as planned; commonly used in daily conversation for minor frustrations.
+
+===word: 嫌がる===
+Meaning: Dislike / Show reluctance
+Nuance_EN: A verb describing someone else's dislike or reluctance, used with third-person subjects; for oneself, "嫌だ" is used, while "嫌がる" is for observing others' feelings.
+
+===word: 予知===
+Meaning: Prediction / Foreknowledge
+Nuance_EN: Refers to knowing future events in advance, including scientific predictions like earthquake or weather forecasts.
+
+===word: 本国===
+Meaning: Home country
+Nuance_EN: A noun referring to one's country of origin or the country where an organization is headquartered; used in diplomatic or international business contexts.
+
+===word: 法学部===
+Meaning: Faculty of Law
+Nuance_EN: A university department where students study law, often aiming to become lawyers, prosecutors, or judges; one of the major faculties in Japanese universities.
+
+===word: 判事===
+Meaning: Judge
+Nuance_EN: The formal term for a judge who presides over court trials, making judgments based on law in criminal and civil cases.
+
+===word: 泣き顔===
+Meaning: Crying face
+Nuance_EN: Refers to the facial expression when crying, often evoking pity or cuteness.
+
+===word: 流行===
+Meaning: Trend / Fashion
+Nuance_EN: Refers to a temporary spread of a style or habit among many people, used in fashion, music, language, etc.; can be read as "はやり" or "りゅうこう," with the latter being more common.
+
+===word: 浜辺===
+Meaning: Beach / Shore
+Nuance_EN: Refers to a sandy or pebbly area along the sea, more specific than "海辺" with a strong image of the shoreline; used in leisure contexts like swimming or walking.
+
+===word: 劇===
+Meaning: Drama / Play
+Nuance_EN: Refers to theatrical works performed on stage based on a script, including musicals and straight plays; also used metaphorically for exaggerated behavior.
+
+===word: 無口===
+Meaning: Quiet / Taciturn
+Nuance_EN: Describes a person who speaks little, often giving an impression of having hidden depths; used positively as calm and composed rather than negatively.
+
+===word: 無地===
+Meaning: Plain / Solid color
+Nuance_EN: Refers to fabric or paper without patterns, being a single color throughout; gives a simple, calm impression and is versatile for various occasions.
+
+===word: 物覚え===
+Meaning: Memory / Learning ability
+Nuance_EN: Refers to the ability to remember things and its quality, used when discussing a person's memory.
+
+===word: 生け花===
+Meaning: Ikebana / Flower arranging
+Nuance_EN: A traditional Japanese art of arranging flowers and branches beautifully in a container.
+
+===word: まれ===
+Meaning: Rare / Uncommon
+Nuance_EN: Written as "稀," it indicates a very low frequency of occurrence; used in both negative and positive contexts, often with a nuance of rarity value.
+
+===word: 由緒===
+Meaning: Lineage / History
+Nuance_EN: Refers to a family's distinguished background or historical significance.
+
+===word: 外れ===
+Meaning: Outskirts / Miss
+Nuance_EN: Refers to missing a target or expectation, like a lottery miss or a prediction being wrong, often used for unfavorable outcomes.
+
+===word: 投げ===
+Meaning: Throw / Toss
+Nuance_EN: Refers to the action of throwing something, a sumo technique, or giving up on something.
+
+===word: 盲腸===
+Meaning: Appendix / Appendicitis
+Nuance_EN: A medical term for the pouch at the beginning of the large intestine; commonly used to refer to appendicitis (盲腸炎), known for causing abdominal pain.
+
+===word: 頬===
+Meaning: Cheek
+Nuance_EN: The part of the face on both sides between the eyes and jaw, which rises when smiling or turns red.
+
+===word: 真心===
+Meaning: Sincerity / Heartfelt feelings
+Nuance_EN: Means pure, genuine feelings without pretense; often used in phrases like "真心を込めて" (with all one's heart) and symbolizes the spirit of hospitality.
+
+===word: 途方もない===
+Meaning: Outrageous / Unreasonable
+Nuance_EN: An adjective describing something extremely beyond normal limits, such as huge sums of money or unrealistic plans; can be used positively or negatively.
+
+===word: 連れ===
+Meaning: Companion
+Nuance_EN: Refers to someone you are with or bring along, a casual expression for a companion.
+
+===word: 秘書===
+Meaning: Secretary
+Nuance_EN: Refers to a professional who assists a boss or executive with schedule management, document preparation, and phone calls; an important position in business.
+
+===word: 素朴===
+Meaning: Simple / Naive
+Nuance_EN: Describes a person who is simple, kind, and unpretentious.
+
+===word: 付き添い役===
+Meaning: Attendant / Caretaker
+Nuance_EN: Refers to a person who stays by and cares for someone, like a patient or child, with a nuance of attentive support.
+
+===word: 失望===
+Meaning: Disappointment
+Nuance_EN: A feeling of deep letdown when expectations are not met, stronger than mere "残念" (regret); used in both formal and daily contexts.
+
+===word: 対===
+Meaning: Versus / Ratio
+Nuance_EN: A noun-like particle indicating a relationship of opposition or comparison, used in "A対B" for matchups or ratios; also a prefix in compounds like "対称" (symmetry).
+
+===word: 高音===
+Meaning: High pitch / Treble
+Nuance_EN: Refers to high-frequency sounds, used when discussing vocal or instrumental high ranges.
+
+===word: さることながら===
+Meaning: Not to mention / Needless to say
+Nuance_EN: A phrase meaning "not only that, but also," used to add another point, often in formal contexts.
+
+===word: 腹===
+Meaning: Belly / Abdomen
+Nuance_EN: Refers to the front of the body below the chest, housing internal organs; also used in idioms like "腹が立つ" (get angry) or "腹を決める" (make up one's mind).
+
+===word: 肌色===
+Meaning: Skin color
+Nuance_EN: Refers to human skin color; historically used for a light beige, but now used with caution due to diversity considerations.
+
+===word: 育児===
+Meaning: Childcare
+Nuance_EN: Refers to raising infants and children, a professional term for parenting.
+
+===word: 腹立ちまぎれ===
+Meaning: In a fit of anger
+Nuance_EN: Refers to acting out of anger, often rashly, as in breaking off an engagement.
+
+===word: 調和===
+Meaning: Harmony
+Nuance_EN: Refers to a state where multiple elements fit together well, used in color, sound, relationships, and nature.
+
+===word: 英文===
+Meaning: English text
+Nuance_EN: Refers to writing or documents in English, such as letters, emails, or articles.
+
+===word: 口頭試験===
+Meaning: Oral exam
+Nuance_EN: Refers to a test conducted verbally, often in language learning or academic settings.
+
+===word: 華やか===
+Meaning: Glamorous / Showy
+Nuance_EN: An adjective describing something colorful, beautiful, and eye-catching; used for stages, ceremonies, or lively careers, with a positive, bright impression.
+
+===word: 華奢===
+Meaning: Delicate / Slender
+Nuance_EN: Describes a person's physique as slender and fine-boned, often with a graceful impression.
+
+===word: 薄===
+Meaning: Thin / Light
+Nuance_EN: Refers to something with little thickness or density, like light makeup or thin fabric.
+
+===word: 自立===
+Meaning: Independence
+Nuance_EN: Refers to being self-reliant, especially financially, without depending on others.
+
+===word: 間借り===
+Meaning: Renting a room
+Nuance_EN: Means to rent a room in someone else's house, often temporarily.
+
+===word: 語学力===
+Meaning: Language ability
+Nuance_EN: Refers to skill in learning or using languages, often in educational or work contexts.
+
+===word: おんぶ===
+Meaning: Piggyback ride
+Nuance_EN: The act of carrying someone on one's back, especially a child; also metaphorically means depending on someone.
+
+===word: 取り囲む===
+Meaning: Surround
+Nuance_EN: Means to encircle someone or something, often used for crowds or media surrounding a person.
+
+===word: 車椅子===
+Meaning: Wheelchair
+Nuance_EN: A chair with wheels for mobility-impaired people, commonly used in barrier-free and caregiving contexts.
+
+===word: 近眼===
+Meaning: Nearsightedness
+Nuance_EN: Refers to a condition where distant objects are blurry but close ones are clear; "近視" is the formal medical term, while "近眼" is common in daily speech.
+
+===word: 後戻り===
+Meaning: Going back / Retreat
+Nuance_EN: Means to return to a previous place or state, often implying a setback.
+
+===word: 酸欠===
+Meaning: Oxygen deficiency
+Nuance_EN: Refers to a lack of oxygen, dangerous in enclosed spaces or high altitudes; also used metaphorically for a state of shortage.
+
+===word: 玄米===
+Meaning: Brown rice
+Nuance_EN: Rice with only the husk removed, retaining the bran layer; rich in vitamins, minerals, and fiber, popular among health-conscious people; requires longer soaking and has a chewier texture than white rice.
+
+===word: 雛菊===
+Meaning: Daisy
+Nuance_EN: A small, cute spring flower, also known as daisy; has a pure and lovely image, often seen in gardens or pots.
+
+===word: 青白い===
+Meaning: Pale / Wan
+Nuance_EN: Describes a bluish-white skin color due to poor health, shock, or fear.
+
+===word: 頭===
+Meaning: Head / Mind
+Nuance_EN: Refers to the top part of the body containing the brain and face; metaphorically means intelligence or leadership, with many idioms.
+
+===word: 黒子===
+Meaning: Mole
+Nuance_EN: A dark spot on the skin, simply describing a physical feature.
+
+===word: 制限===
+Meaning: Restriction / Limit
+Nuance_EN: Refers to setting an upper limit on quantity, range, or action, used in legal, physical, or everyday contexts.
+
+===word: 剛健===
+Meaning: Robust / Sturdy
+Nuance_EN: Describes physical and mental strength and toughness, with a masculine, powerful impression; a somewhat formal expression.
+
+===word: ほど===
+Meaning: As much as / Extent
+Nuance_EN: A particle indicating degree or extent, often used in comparisons like "〜ほど〜ない" (not as ~ as).
+
+===word: そのうち===
+Meaning: Sooner or later
+Nuance_EN: An adverbial phrase meaning "sometime in the not-too-distant future," with a vague but imminent nuance.
+
+===word: 有無===
+Meaning: Existence / Presence or absence
+Nuance_EN: A noun meaning whether something exists or not, often used in set phrases like "有無を確認する" (confirm presence) or "有無を言わせず" (without allowing objection), common in formal contexts.
+
+===word: 往々にして===
+Meaning: Often / Frequently
+Nuance_EN: An adverb indicating a tendency for things to happen often, used in written language with a nuance of "as often happens," especially for negative outcomes.
+
+===word: 往年の===
+Meaning: Former / Bygone
+Nuance_EN: A pre-noun adjectival used to nostalgically refer to a past period, especially a heyday, like "往年の名選手" (former star player).
+
+===word: 往復===
+Meaning: Round trip
+Nuance_EN: Refers to travel including both going and returning, commonly used for tickets or travel time.
+
+===word: 往時===
+Meaning: Past times
+Nuance_EN: Refers to a past era, especially a good one, with a nostalgic nuance.
+
+===word: 往来===
+Meaning: Traffic / Coming and going
+Nuance_EN: Refers to people and vehicles moving back and forth, or the road itself; has a somewhat old-fashioned, calm nuance.
+
+===word: 往生===
+Meaning: Passing away / Being at a loss
+Nuance_EN: A Buddhist term for dying and going to the Pure Land; colloquially, "往生する" can mean being in a tough spot or at a loss.
+
+===word: 往生する===
+Meaning: Die / Be in a fix
+Nuance_EN: Based on Buddhist teachings, means to die and be reborn in the Pure Land; in daily speech, used in "往生際が悪い" (bad loser) to describe a reluctance to give up.
+
+===word: 往生際===
+Meaning: One's dying moments / How one gives up
+Nuance_EN: Has two meanings: how one behaves at the moment of death, and one's attitude when giving up on something.
+
+===word: 往診する===
+Meaning: Make a house call
+Nuance_EN: Means a doctor visits a patient's home for examination, especially in home healthcare or emergency contexts; increasingly common with an aging society.
+
+===word: 征く===
+Meaning: Go on an expedition
+Nuance_EN: A literary expression meaning to march into enemy territory or difficult places; seen in compounds like "征伐" (conquest) or in literary works.
+
+===word: 征する===
+Meaning: Conquer / Subdue
+Nuance_EN: A somewhat archaic, formal verb meaning to attack and defeat an enemy or overcome difficulties; often used metaphorically in modern contexts.
+
+===word: 征服===
+Meaning: Conquest
+Nuance_EN: Means to subdue others by force; historically for territorial control, but metaphorically for achieving difficult goals like "山を征服する" (conquer a mountain); stronger in nuance than "制覇."
+
+===word: 征途===
+Meaning: Journey of conquest
+Nuance_EN: A literary expression for the path taken by an army or expedition; rarely used in modern contexts except in stories or poetry.
+
+===word: 待ちあぐむ===
+Meaning: Get tired of waiting
+Nuance_EN: Describes a state of having waited too long and being unable to wait any longer, reaching the limit of patience.
+
+===word: 待ちくたびれる===
+Meaning: Be tired of waiting
+Nuance_EN: A compound verb meaning to become exhausted from waiting too long, used when waiting takes longer than expected.
+
+===word: 待ちぼうけ===
+Meaning: Waiting in vain
+Nuance_EN: The act of waiting for someone who never shows up, often used in the phrase "待ちぼうけを食う" (be stood up).
+
+===word: 待ちわびる===
+Meaning: Long for / Wait impatiently
+Nuance_EN: A verb expressing the painful, longing feeling of waiting for something that is slow to come, emphasizing emotional intensity.
+
+===word: 待ち伏せる===
+Meaning: Ambush
+Nuance_EN: Means to hide and wait for someone to attack unexpectedly, mainly used in suspense or combat contexts.
+
+===word: 待ち兼ねる===
+Meaning: Be unable to wait
+Nuance_EN: Expresses impatience and inability to bear waiting any longer, with a restless, anxious feeling.
+
+===word: 待ち受ける===
+Meaning: Await / Be ready for
+Nuance_EN: Means to wait for someone or something while being prepared, more proactive than just "waiting."
+
+===word: 待ち受け画面===
+Meaning: Lock screen / Wallpaper
+Nuance_EN: Refers to the screen displayed on a smartphone or computer when idle, commonly used in daily conversation for background images.
+
+===word: 待ち合わせる===
+Meaning: Meet up
+Nuance_EN: Means to meet someone at a prearranged time and place; the noun form "待ち合わせ" is also common, used in everyday contexts like station or café meetups.
+
+===word: 待ち合わせ場所===
+Meaning: Meeting point
+Nuance_EN: Refers to a specific place agreed upon to meet friends or acquaintances.
+
+===word: 待ち寄る===
+Meaning: Gather around
+Nuance_EN: Means to come closer together, often in a group.
+
+===word: 待ち望む===
+Meaning: Look forward to / Hope for
+Nuance_EN: Means to wait with strong expectation and desire, conveying affection and earnestness, more positive than just "wait."
+
+===word: 待ち構える===
+Meaning: Lie in wait / Be ready
+Nuance_EN: Means to wait while preparing for something to happen, usable in both positive and negative contexts.
+
+===word: 待ち焦がれる===
+Meaning: Yearn for
+Nuance_EN: Means to wait with intense longing and impatience.
+
+===word: 待ち遠しい===
+Meaning: Can't wait
+Nuance_EN: An adjective expressing eagerness for something to happen soon, used for positive expectations like events or reunions.
+
+===word: とうとう===
+Meaning: Finally / At last
+Nuance_EN: An adverb indicating reaching a final result after a long process, similar to "ついに" or "やっと," but with a nuance of anticipated outcome, usable for both good and bad results.
+
+===word: 待合室===
+Meaning: Waiting room
+Nuance_EN: A room for waiting in hospitals, stations, or government offices, commonly equipped with chairs and bulletin boards.
+
+===word: 待望===
+Meaning: Long-awaited
+Nuance_EN: Refers to something that has been eagerly awaited for a long time, often used in the form "待望の〜" (long-awaited ~) for new products or events.
+
+===word: 待遇===
+Meaning: Treatment / Compensation
+Nuance_EN: Refers to how someone is treated, especially work conditions like salary, holidays, and benefits; used in phrases like "良い待遇" (good treatment).
+
+===word: 待避===
+Meaning: Take shelter
+Nuance_EN: Means to temporarily retreat to avoid danger or disaster, with a nuance of waiting for the situation to calm down; used in military or disaster contexts.
+
+===word: 律する===
+Meaning: Judge by / Govern
+Nuance_EN: A somewhat formal verb meaning to judge based on a standard or to control oneself with discipline.
+
+===word: 律儀===
+Meaning: Honest / Faithful
+Nuance_EN: Describes a person who is scrupulously honest and reliable, often in keeping promises or traditions.
+
+===word: 律動===
+Meaning: Rhythm
+Nuance_EN: Refers to repeated movements or changes at regular intervals, i.e., rhythm or beat.
+
+===word: 後ずさる===
+Meaning: Step back
+Nuance_EN: Means to move backward slowly, often unconsciously when surprised or frightened.
+
+===word: 後ほど===
+Meaning: Later
+Nuance_EN: A polite expression meaning "later" or "afterward," often used in business emails or formal conversations.
+
+===word: 後ろめたい===
+Meaning: Guilty / Ashamed
+Nuance_EN: Describes a state of feeling guilty or having a bad conscience, even if not actually having done something wrong.
+
+===word: 後ろ向き===
+Meaning: Negative / Backward-looking
+Nuance_EN: Refers to a passive or pessimistic attitude toward things, opposite of "前向き" (positive); implies lack of hope or reluctance to try new things.
+
+===word: 後ろ向き===
+Meaning: Negative
+Nuance_EN: Refers to a passive or pessimistic attitude, opposite of "前向き."
+
+===word: 後ろ姿===
+Meaning: Back view / Silhouette from behind
+Nuance_EN: Refers to the appearance of a person or object seen from behind, often used when watching someone leave.
+
+===word: 後ろ手===
+Meaning: Hands behind one's back
+Nuance_EN: Refers to having hands tied or placed behind the back.
+
+===word: 後ろ指を指す===
+Meaning: Point fingers behind one's back
+Nuance_EN: An idiom meaning to gossip or speak ill of someone in their absence, implying indirect criticism.
+
+===word: 後ろ盾===
+Meaning: Backing / Support
+Nuance_EN: Refers to a person or force that supports someone or an organization, especially in difficult times, including moral, financial, or political support.
+
+===word: 後ろ髪を引かれる===
+Meaning: Be reluctant to leave
+Nuance_EN: An idiom expressing hesitation due to lingering attachment or regret when trying to move on.
+
+===word: 後を絶たない===
+Meaning: Never-ending / Continuous
+Nuance_EN: An idiom describing things that keep happening without stopping, especially negative events or problems.
+
+===word: 後付け===
+Meaning: Afterthought / Retroactive justification
+Nuance_EN: Means to add reasons or excuses after an event, often with a negative nuance of forced explanation.
+
+===word: 後件===
+Meaning: Consequent
+Nuance_EN: A technical term in logic or law for the second part of a conditional statement (if A then B); rarely used outside academic contexts.
+
+===word: 後任===
+Meaning: Successor
+Nuance_EN: Refers to the person who takes over a position or role, commonly used in work contexts.
+
+===word: 後任者===
+Meaning: Successor
+Nuance_EN: Refers to the person who takes over a position or role.
+
+===word: 後出し===
+Meaning: Acting after seeing the opponent's move
+Nuance_EN: Means to act after seeing the other's move, famously in rock-paper-scissors cheating; used metaphorically in business or negotiations.
+
+===word: 後半===
+Meaning: Latter half
+Nuance_EN: Refers to the second half of a time period or sequence, such as a game, movie, or meeting; opposite of "前半."
+
+===word: 後味===
+Meaning: Aftertaste
+Nuance_EN: Refers to the taste left in the mouth after eating or drinking; metaphorically, the lingering impression after an event.
+
+===word: 後回し===
+Meaning: Postpone / Put off
+Nuance_EN: Means to delay doing something, either due to low priority or laziness; commonly used in daily conversation, lighter in nuance than "先延ばし."
+
+===word: 後塵===
+Meaning: Following in someone's footsteps
+Nuance_EN: Refers to dust raised by a predecessor, used in the idiom "先人の後塵を拝する" (follow in the footsteps of one's predecessors).
+
+===word: 後天的===
+Meaning: Acquired / Learned
+Nuance_EN: Means not innate but learned or acquired later, often used in medicine or psychology; has a formal, technical impression.
+
+===word: 後始末===
+Meaning: Cleanup / Aftermath
+Nuance_EN: Refers to dealing with the aftermath of an event, such as cleaning up or resolving issues.
+
+===word: 後悔===
+Meaning: Regret
+Nuance_EN: Refers to the feeling of wishing one had acted differently in the past.
+
+===word: 後悔===
+Meaning: Regret
+Nuance_EN: Refers to the feeling of wishing one had acted differently.
+
+===word: 後戻り===
+Meaning: Going back
+Nuance_EN: Means to return to a previous state or place.
+
+===word: 後手===
+Meaning: Being on the defensive
+Nuance_EN: In Go or Shogi, refers to the side that responds after the opponent's move; metaphorically, being slow to act and reactive.
+
+===word: 後手後手===
+Meaning: Always behind / Too late
+Nuance_EN: A colloquial expression meaning constantly being late in response, always playing catch-up.
+
+===word: 後押し===
+Meaning: Push / Support
+Nuance_EN: Means to physically push from behind or metaphorically support someone or something.
+
+===word: 後援===
+Meaning: Support / Sponsorship
+Nuance_EN: Refers to financial or moral support for individuals or groups, often for cultural events or sports; has a formal tone.
+
+===word: 後攻===
+Meaning: Second turn / Late game
+Nuance_EN: Refers to the side that attacks or moves second in games like baseball; used in "先攻・後攻" pairs.
+
+===word: 後方===
+Meaning: Rear / Behind
+Nuance_EN: Refers to a position or direction behind a reference point, opposite of "前方."
+
+===word: 後日===
+Meaning: Later date
+Nuance_EN: Means a day after today, used in phrases like "また後日" (another day) or "後日改めて" (later again), with a formal nuance.
+
+===word: 後日談===
+Meaning: Sequel / After story
+Nuance_EN: Refers to a story about what happened after an event or narrative, like an epilogue.
+
+===word: 後書き===
+Meaning: Afterword
+Nuance_EN: Refers to a concluding note in a book where the author explains the writing process or expresses thanks; placed at the end, opposite of "前書き."
+
+===word: 後書き===
+Meaning: Afterword
+Nuance_EN: Refers to a concluding note in a book.
+
+===word: 後期===
+Meaning: Latter term / Second half
+Nuance_EN: Refers to the latter part of a period, opposite of "前期."
+
+===word: 後期===
+Meaning: Latter term
+Nuance_EN: Refers to the latter part of a period.
+
+===word: 後片付け===
+Meaning: Cleanup / Tidy up
+Nuance_EN: Refers to putting things back and cleaning after an activity, like after a meal or event.
+
+===word: 後生===
+Meaning: Future generations / Afterlife
+Nuance_EN: Refers to future generations or, in Buddhism, the afterlife.
+
+===word: 後発===
+Meaning: Latecomer / Later development
+Nuance_EN: Means to start or appear later than others, used for products or people that follow earlier ones.
+
+===word: 折り返し===
+Meaning: Turn back / Call back
+Nuance_EN: Means to change direction and return, or to respond immediately, as in "折り返し電話" (call back).
+
+===word: 後継ぎ===
+Meaning: Heir / Successor
+Nuance_EN: Refers to a person who inherits a family business, lineage, or position, often within a family.
+
+===word: 後継者===
+Meaning: Successor
+Nuance_EN: Refers to a person who takes over a predecessor's role, used in business, traditional arts, etc.; implies long-term succession.
+
+===word: 後続===
+Meaning: Following / Subsequent
+Nuance_EN: Refers to things or people that follow behind, like "後続車" (following car); a formal Sino-Japanese term often used in writing.
+
+===word: 後者===
+Meaning: The latter
+Nuance_EN: Refers to the second of two items or options, opposite of "前者"; used in formal comparisons.
+
+===word: 後腐れ===
+Meaning: Aftermath trouble
+Nuance_EN: Refers to lingering problems or complications after an event, especially in relationships or transactions.
+
+===word: 後見人===
+Meaning: Guardian
+Nuance_EN: Refers to a legal guardian responsible for a minor or someone unable to manage their own affairs.
+
+===word: 後輩===
+Meaning: Junior / Underclassman
+Nuance_EN: Refers to someone who joined a school or company after you, symbolizing Japan's vertical society; paired with "先輩" (senior), implying familiarity and some mentoring responsibility.
+
+===word: 後述===
+Meaning: Described later
+Nuance_EN: A noun meaning to explain later in a text, used in writing like "後述します" (will be described later).
+
+===word: 後退する===
+Meaning: Retreat / Recede
+Nuance_EN: Means to move backward or for conditions to worsen; used for both physical movement and abstract decline, with a formal tone.
+
+===word: 後退り===
+Meaning: Backing away
+Nuance_EN: Means to step backward, often in fear or hesitation.
+
+===word: 後退灯===
+Meaning: Backup light
+Nuance_EN: Refers to the white light on a car that illuminates the rear when reversing, a safety term.
+
+===word: 後進国===
+Meaning: Underdeveloped country
+Nuance_EN: Refers to countries with lagging economic development; has a somewhat negative tone, with "開発途上国" being more polite.
+
+===word: 後遺症===
+Meaning: Aftereffects / Sequelae
+Nuance_EN: Refers to symptoms or effects remaining after an illness or injury; also used metaphorically for trauma.
+
+===word: 後部===
+Meaning: Rear part
+Nuance_EN: Refers to the back part of an object or place, like a car, ship, or building.
+
+===word: 後釜===
+Meaning: Successor / Replacement
+Nuance_EN: A casual term for a successor in a position, often implying taking over a predecessor's seat; can have a nuance of usurping.
+
+===word: 徐々に===
+Meaning: Gradually
+Nuance_EN: An adverb meaning little by little, step by step; used for slow, steady changes in both formal and casual contexts.
+
+===word: 先鋭化===
+Meaning: Radicalization
+Nuance_EN: Refers to ideas or groups becoming more extreme and sharp, often in political or ideological contexts; has a negative nuance.
+
+===word: 徐に===
+Meaning: Slowly / Leisurely
+Nuance_EN: A literary adverb describing a slow, calm, and deliberate action, starting quietly rather than suddenly.

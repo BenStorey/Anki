@@ -1,0 +1,811 @@
+===word: 理科===
+Meaning: Science (elementary/junior high)
+Nuance_EN: Refers to the school subject covering natural sciences like physics, chemistry, biology, and earth science, taught in elementary and junior high school.
+
+===word: 理系===
+Meaning: Science track / STEM
+Nuance_EN: Refers to an academic stream focusing on natural sciences and mathematics, contrasted with 文系 (humanities). Used in university departments or high school course selection; often leads to research or engineering careers.
+
+===word: 理詰め===
+Meaning: Logical persuasion
+Nuance_EN: Describes an attitude of convincing others or solving problems by piling up logic and reasoning, as opposed to relying on emotion or intuition. Can carry a negative nuance of being overly argumentative ("理屈っぽい").
+
+===word: 理論===
+Meaning: Theory
+Nuance_EN: A systematically organized framework of ideas based on facts and principles, often contrasted with practical application or practice.
+
+===word: 両立===
+Meaning: Compatibility / Balance
+Nuance_EN: Means making two different things or states coexist simultaneously, often used in modern contexts like balancing work and family.
+
+===word: 理路整然===
+Meaning: Logical and orderly
+Nuance_EN: A four-character idiom describing speech or writing that is well-structured, logical, and easy to understand. Used to praise a clear, contradiction-free explanation.
+
+===word: 琥珀===
+Meaning: Amber
+Nuance_EN: A fossilized tree resin, yellow to brown in color, used in jewelry and ornaments.
+
+===word: 琴線===
+Meaning: Heartstrings / Sensibility
+Nuance_EN: Literally "koto string," but figuratively refers to the deep emotional core easily moved by beauty or touching things. Often used in the idiom "琴線に触れる" (to strike a chord).
+
+===word: 琴線に触れる===
+Meaning: Strike a chord
+Nuance_EN: An idiom meaning to strongly appeal to someone's heart and evoke emotion or resonance, especially used for art or beauty.
+
+===word: 瑕疵===
+Meaning: Flaw / Defect
+Nuance_EN: Refers to an imperfect part of a product or action, such as a defect or blemish. A somewhat formal legal/business term.
+
+===word: 瑞々しい===
+Meaning: Fresh / Lush
+Nuance_EN: A beautiful adjective describing something full of moisture and vitality, like fresh fruit or youthful skin. Used positively across contexts from food to sensibility.
+
+===word: 瑣末===
+Meaning: Trivial / Petty
+Nuance_EN: Refers to small, unimportant details that are irrelevant to the essence of a matter. A somewhat formal literary term.
+
+===word: 環境===
+Meaning: Environment
+Nuance_EN: Refers to the surrounding conditions or circumstances around people or living things. A highly versatile word used in fields like natural environment, workplace, or learning environment.
+
+===word: 惹起===
+Meaning: Arouse / Provoke
+Nuance_EN: A formal verb meaning to stir up or trigger curiosity, interest, or a reaction. Used in written or academic contexts.
+
+===word: 夫===
+Meaning: Husband
+Nuance_EN: Refers to a married man, i.e., a spouse. Used to refer to both one's own husband and another's.
+
+===word: 植林===
+Meaning: Afforestation / Tree planting
+Nuance_EN: Refers to systematically planting trees to create forests, often for environmental protection or sustainability. Larger in scale than simple "植樹" (tree planting), with a stronger implication of ongoing activity.
+
+===word: 環境光===
+Meaning: Ambient light
+Nuance_EN: A technical term in computer graphics and photography referring to uniform light that illuminates the entire scene, modeling light reflected from the environment rather than from a specific source.
+
+===word: 題===
+Meaning: Title / Theme / Problem
+Nuance_EN: A noun referring to the subject, title, or topic of a story, writing, or work. Commonly used in compounds like 話題 (topic), 問題 (problem), 題名 (title). Simple and versatile.
+
+===word: 瓜二つ===
+Meaning: Spitting image / Very alike
+Nuance_EN: A comparison for when parents and children or siblings look extremely similar. Derived from how cutting a melon in half yields identical-looking halves.
+
+===word: 瓦===
+Meaning: Roof tile
+Nuance_EN: A ceramic building material used to cover roofs, essential in traditional Japanese architecture. Generally black or gray semicircular tiles, creating a heavy atmosphere in temples and castles.
+
+===word: 瓦礫===
+Meaning: Rubble / Debris
+Nuance_EN: Refers to a pile of broken stones, bricks, etc., left after buildings collapse. Commonly used in disaster or war reporting.
+
+===word: 瓦解===
+Meaning: Total collapse / Disintegration
+Nuance_EN: Means a complete and sudden collapse of an organization, system, or plan. Derived from "tiles falling apart," implying a chain reaction of rapid breakdown.
+
+===word: 瓶===
+Meaning: Bottle / Jar
+Nuance_EN: [No nuance provided]
+
+===word: 瓶詰め===
+Meaning: Bottling / Bottled goods
+Nuance_EN: Refers to storing food or drinks in bottles for preservation, or the resulting product.
+
+===word: 一口===
+Meaning: One mouthful / A bit
+Nuance_EN: Refers to the amount of food or drink taken into the mouth at once, or figuratively a small amount or single action.
+
+===word: 甘える===
+Meaning: Act spoiled / Depend on
+Nuance_EN: Means to rely on someone's affection or indulgence, behaving in a childlike or dependent way. Used among family, lovers, or close friends. Also used in "親切に甘える" (to accept someone's kindness without hesitation).
+
+===word: 甘やかす===
+Meaning: Spoil / Coddle
+Nuance_EN: To overindulge someone by giving them everything they want or caring for them excessively, leading to a spoiled nature. Negative connotation.
+
+===word: 甘んじる===
+Meaning: Resign oneself / Be content with
+Nuance_EN: To accept an unsatisfactory situation with satisfaction, often with a passive or resigned nuance.
+
+===word: 甘党===
+Meaning: Sweet tooth
+Nuance_EN: [No nuance provided]
+
+===word: 甘受===
+Meaning: Resignation / Endurance
+Nuance_EN: Means to accept an unfavorable situation or result without resistance, enduring it patiently.
+
+===word: 甘口===
+Meaning: Sweet (taste)
+Nuance_EN: Refers to a strong sweet taste in food classification, mainly for sake, curry, or sauce. Can also metaphorically describe leniency in someone's words.
+
+===word: 甘口===
+Meaning: Sweet (taste)
+Nuance_EN: Refers to a strong sweet taste in food classification, mainly for sake, curry, or sauce. Can also metaphorically describe leniency in someone's words.
+
+===word: 甘噛み===
+Meaning: Gentle bite / Nibble
+Nuance_EN: The act of biting without applying enough force to hurt, often playful (e.g., puppies or kittens). Can also refer to affectionate light biting between humans.
+
+===word: 甘美===
+Meaning: Sweet / Lush
+Nuance_EN: Used both literally for sweetness and metaphorically for the beauty of music or the sweetness of dreams. Somewhat literary in tone.
+
+===word: 甘酸っぱい===
+Meaning: Sweet-and-sour
+Nuance_EN: A taste combining sweetness and sourness; also a metaphor for bittersweet emotions, like memories of youth.
+
+===word: 初恋===
+Meaning: First love
+Nuance_EN: Refers to the first romantic feelings one experiences. Often recalled as sweet and nostalgic, commonly discussed in everyday conversation. Typically involves a crush that may not be reciprocated, with a warm, nostalgic nuance.
+
+===word: 甘露===
+Meaning: Nectar / Sweet dew
+Nuance_EN: Literally "sweet dew," referring to an extremely sweet taste. Metaphorically, a rare relief or blessing in hardship (e.g., "甘露の一滴"). Has an archaic, literary ring.
+
+===word: 甚く===
+Meaning: Greatly / Extremely
+Nuance_EN: Means "very" or "exceedingly," used in written language to express a high degree of emotion or state.
+
+===word: 甚だ===
+Meaning: Very / Extremely
+Nuance_EN: A somewhat formal adverb meaning "very" or "extremely," often emphasizing negative content in writing or formal speech. In conversation, "とても" is more common.
+
+===word: 不本意===
+Meaning: Reluctant / Unwilling
+Nuance_EN: Means being against one's wishes or intentions, used broadly from everyday conversation to writing.
+
+===word: 甚大===
+Meaning: Immense / Tremendous
+Nuance_EN: A Chinese-derived word meaning "extremely large" for damage or influence, mainly used in negative contexts like "甚大な被害" (immense damage). Formal and common in news reports.
+
+===word: 甚振る===
+Meaning: Torment / Harass
+Nuance_EN: Means to torment or bully someone through words or attitude, focusing on mental rather than physical abuse.
+
+===word: 生い立ち===
+Meaning: Upbringing / Background
+Nuance_EN: Refers to one's growth and development from birth to the present, including family environment, education, and experiences—essentially the background of a person's life.
+
+===word: 生い茂る===
+Meaning: Overgrow / Thrive
+Nuance_EN: Describes plants or trees growing thickly and densely, conveying a sense of natural vigor or neglect. A somewhat literary verb emphasizing a visual "overgrown" state.
+
+===word: 生える===
+Meaning: Grow / Sprout
+Nuance_EN: A verb meaning that plants, hair, etc., naturally extend and appear.
+
+===word: 生え抜き===
+Meaning: Native-born / Homegrown
+Nuance_EN: Refers to someone who has been nurtured and gained experience within a particular organization or place from the start, contrasted with outsiders. Used positively to evaluate consistent career building.
+
+===word: 生え抜き===
+Meaning: Native-born / Homegrown
+Nuance_EN: Refers to someone who has been nurtured and gained experience within a particular organization or place from the start, contrasted with outsiders. Used positively to evaluate consistent career building.
+
+===word: 生かす===
+Meaning: Utilize / Make the most of
+Nuance_EN: Means to fully use one's abilities, traits, or resources effectively. Carries a positive nuance of not wasting talent or opportunities.
+
+===word: 生きがい===
+Meaning: Reason for living / Purpose
+Nuance_EN: Something that gives meaning, joy, and motivation to live—such as work, hobbies, or family—the core element of value in one's life.
+
+===word: 親切===
+Meaning: Kindness / Thoughtfulness
+Nuance_EN: Means to treat others with care and consideration, describing positive character or actions.
+
+===word: かの===
+Meaning: That (famous/renowned)
+Nuance_EN: A slightly literary prenominal adjective referring to a distant or past entity known to both speaker and listener (e.g., "かの有名な" = "that famous"). Not used in everyday conversation; appears in speeches or writing.
+
+===word: 生き埋め===
+Meaning: Buried alive
+Nuance_EN: Refers to the act of burying someone while still alive, a brutal act often found in horror, historical punishments, or metaphors for being trapped.
+
+===word: 生き埋める===
+Meaning: Bury alive
+Nuance_EN: A grave verb meaning to bury a living person underground, used in contexts of historical punishment, war tragedies, or suspense/horror.
+
+===word: 生き延びる===
+Meaning: Survive
+Nuance_EN: To continue living while preserving life in difficult or dangerous conditions.
+
+===word: 生き恥===
+Meaning: Living shame
+Nuance_EN: A state of being so disgraced that continuing to live is shameful, carrying strong self-blame or self-mockery.
+
+===word: 生き方===
+Meaning: Way of life
+Nuance_EN: Refers to how one lives and the values guiding their life, often relating to life philosophy.
+
+===word: 生き様===
+Meaning: Manner of living / Life attitude
+Nuance_EN: How someone has led their life, especially overcoming hardships or sticking to principles, used with respect.
+
+===word: 生き生き===
+Meaning: Lively / Vivid
+Nuance_EN: An adverb/adjective describing a state full of energy and vitality, used for expressions, faces, or artistic depictions.
+
+===word: 生け捕り===
+Meaning: Capture alive
+Nuance_EN: To catch an enemy or animal without killing it, used in war or hunting contexts.
+
+===word: 生け花===
+Meaning: Ikebana / Flower arranging
+Nuance_EN: The traditional Japanese art of arranging flowers and branches beautifully in a vessel.
+
+===word: 生け贄===
+Meaning: Sacrifice / Victim
+Nuance_EN: An animal or person killed as an offering to deities; metaphorically, someone sacrificed for a group's benefit. Heavy in tone.
+
+===word: 生じる===
+Meaning: Arise / Occur
+Nuance_EN: A verb meaning something new arises or appears, often for abstract things like problems or changes. Somewhat formal and written-style.
+
+===word: 生ずる===
+Meaning: Arise / Occur
+Nuance_EN: A literary variant of 生じる, meaning something occurs or emerges. Used for problems, influences, or changes, in written or somewhat formal speech.
+
+===word: 生ぬるい===
+Meaning: Lukewarm / Lenient
+Nuance_EN: Can mean (1) water that's too tepid, (2) attitude or response that's too lenient, or (3) wind that's not cool. Often used critically to mean "not strict enough."
+
+===word: 生まれつき===
+Meaning: Innate / By birth
+Nuance_EN: Refers to qualities or abilities present from birth, emphasizing congenital traits.
+
+===word: 生まれ落ちる===
+Meaning: Be born
+Nuance_EN: To come into the world; a literary expression for being born.
+
+===word: 生みの親===
+Meaning: Birth parent / Creator
+Nuance_EN: Literally "real parent," but also metaphorically the originator or creator of something (e.g., inventions). Contrasted with "育ての親" (nurturing parent).
+
+===word: 生み出す===
+Meaning: Create / Produce
+Nuance_EN: Means to create something new or valuable, such as artwork, technological innovations, or ideas.
+
+===word: 生もの===
+Meaning: Raw food
+Nuance_EN: Refers to uncooked, fresh foods like sashimi, sushi, or raw vegetables. Has a short shelf life and requires hygiene care.
+
+===word: 生やす===
+Meaning: Grow / Let grow
+Nuance_EN: Means to intentionally cultivate plants, hair, etc., e.g., growing a beard or grass. Implies conscious effort rather than natural growth.
+
+===word: 生ゴミ===
+Meaning: Kitchen waste
+Nuance_EN: Organic waste from homes or restaurants, such as food scraps and leftovers.
+
+===word: 生中継===
+Meaning: Live broadcast
+Nuance_EN: Means broadcasting in real-time from a location on TV or radio, common for sports, news, and events.
+
+===word: 生体===
+Meaning: Living body / Organism
+Nuance_EN: A specialized term referring to a living body or a living organism itself, used in medicine and biology.
+
+===word: 生保===
+Meaning: Life insurance
+Nuance_EN: Abbreviation of "生命保険" (life insurance), a financial product paying out upon death or survival to a certain age. Common in daily and business talk, contrasted with "損保" (non-life insurance).
+
+===word: 生前===
+Meaning: During one's life
+Nuance_EN: Read as "せいぜん," it refers to the period when someone was alive, often used for deceased persons. Common in contexts of remembering the departed.
+
+===word: 生剥===
+Meaning: Namahage
+Nuance_EN: A folk tradition in the Oga Peninsula, Akita Prefecture, where people wearing ogre masks visit homes to scold children. Registered as a UNESCO intangible cultural heritage, performed on New Year's Eve. Features shouts like "Are there any lazy kids?" and is a symbol of winter in Japan.
+
+===word: 生半可===
+Meaning: Half-baked / Superficial
+Nuance_EN: Describes knowledge or skills that are incomplete or inadequately learned, used in negative contexts.
+
+===word: 生協===
+Meaning: Cooperative / Co-op
+Nuance_EN: Abbreviation for "生活協同組合" (consumer cooperative), a mutual aid organization funded and operated by members. Familiar through university stores or food delivery services.
+
+===word: 生卵===
+Meaning: Raw egg
+Nuance_EN: Uncooked egg in its natural state, used for dishes like rice toppings or cooking.
+
+===word: 生命===
+Meaning: Life / Vitality
+Nuance_EN: Refers to the state of being alive or its source, somewhat formal and abstract. More objective than "命," used in compounds like 生命保険 (life insurance).
+
+===word: 生命===
+Meaning: Life / Vitality
+Nuance_EN: Refers to the state of being alive or its source, somewhat formal and abstract. More objective than "命," used in compounds like 生命保険 (life insurance).
+
+===word: 生命保険===
+Meaning: Life insurance
+Nuance_EN: An insurance system that pays out in case of death, illness, or injury, often taken out to protect family finances.
+
+===word: 生命力===
+Meaning: Vitality / Life force
+Nuance_EN: The energy or power to live, describing a living being's ability to adapt and grow, or a person's strong will to live.
+
+===word: 生命線===
+Meaning: Life line
+Nuance_EN: A line in palm reading running from the thumb base toward the wrist. Metaphorically, something essential for survival or activity.
+
+===word: 生唾===
+Meaning: Saliva / Spit
+Nuance_EN: Refers to saliva in the mouth, especially when one swallows nervously or anxiously.
+
+===word: 生地===
+Meaning: Fabric / Dough / Material
+Nuance_EN: Can mean cloth, dough (for bread or cakes), or the base material of lacquerware or pottery. Meaning varies by context, so caution is needed.
+
+===word: 生姜===
+Meaning: Ginger
+Nuance_EN: A fragrant, spicy condiment/spice used to remove odors from dishes or warm the body.
+
+===word: 生姜湯===
+Meaning: Ginger tea
+Nuance_EN: A warm drink made by adding grated ginger to hot water with sugar or honey. Drunk to warm the body, often at the onset of a cold or for cold sensitivity. A winter staple in Japan with medicinal benefits.
+
+===word: 生姜焼き===
+Meaning: Ginger pork
+Nuance_EN: A classic Japanese home-cooked dish where pork is seasoned with ginger, soy sauce, and mirin, then grilled. Popular as a diner menu item.
+
+===word: 生娘===
+Meaning: Virgin / Innocent maiden
+Nuance_EN: An old-fashioned term for a young woman without sexual experience. Archaic in modern speech, more seen in period dramas or literature. Also metaphorical for a pure, naive person.
+
+===word: 生存===
+Meaning: Survival / Existence
+Nuance_EN: Means being alive or continuing to live, with a strong nuance of enduring harsh conditions. Used in compounds like "生存競争" (survival competition).
+
+===word: 生存本能===
+Meaning: Survival instinct
+Nuance_EN: The innate instinct to avoid danger and survive, akin to the drive for self-preservation.
+
+===word: 生存率===
+Meaning: Survival rate
+Nuance_EN: The proportion of a group surviving after a certain period, mainly used in medical/statistical contexts like illness or disasters.
+
+===word: 生存者===
+Meaning: Survivor
+Nuance_EN: Refers to people who have survived dangerous situations like accidents, disasters, or wars. Frequently used in news reports, carrying a sense of urgency and seriousness.
+
+===word: 生家===
+Meaning: Birth home / Family home
+Nuance_EN: The house or family where one was born and raised. More formal than "実家," used when discussing famous figures or distinguished lineages.
+
+===word: 生年月日===
+Meaning: Date of birth (year, month, day)
+Nuance_EN: The full date of birth (year, month, day). Commonly required for official documents and applications.
+
+===word: 年月===
+Meaning: Years / Time
+Nuance_EN: Refers to the long passage of time, encompassing not just duration but also the experiences within it.
+
+===word: 生後===
+Meaning: After birth / Postnatal
+Nuance_EN: Indicates the period since birth, mainly used for infants or animals (e.g., "生後6ヶ月").
+
+===word: 生徒===
+Meaning: Student (school)
+Nuance_EN: Refers to students from elementary to high school. Elementary uses "児童," while middle/high uses "生徒"; university uses "学生." A basic term in education.
+
+===word: がやがや===
+Meaning: Noisily / Buzzing
+Nuance_EN: An onomatopoeia describing many people talking at once, creating a loud, bustling noise, like in a crowd or gathering.
+
+===word: 手前===
+Meaning: In front of / Before (someone)
+Nuance_EN: Used to indicate a situation where one's actions or words are constrained by the presence of others, often implying social pressure.
+
+===word: 帰宅===
+Meaning: Return home
+Nuance_EN: The act of going back home, often used in school or work contexts.
+
+===word: 登校===
+Meaning: Attend school
+Nuance_EN: The act of going to school, typically used for students.
+
+===word: 札===
+Meaning: Tag / Label / Ticket
+Nuance_EN: A small board or paper slip used to display names, prices, or notices. A polysemous word with meanings like 値札 (price tag), 名札 (name tag), 札 (paper money).
+
+===word: 挨拶===
+Meaning: Greeting
+Nuance_EN: The act of exchanging greetings, important in Japanese culture for social politeness.
+
+===word: 見くびる===
+Meaning: Underestimate / Look down on
+Nuance_EN: To underestimate someone's abilities or worth, often used in warnings.
+
+===word: 生息する===
+Meaning: Inhabit / Live (animals)
+Nuance_EN: A verb meaning animals or plants naturally live in a certain area. Used mainly for wildlife, not humans. Has an academic, objective tone.
+
+===word: 生態系===
+Meaning: Ecosystem
+Nuance_EN: The system of living organisms and their environment in a given area, important for understanding natural balance.
+
+===word: 生易しい===
+Meaning: Easy / Simple
+Nuance_EN: An adjective meaning something is too easy or underestimated. Often used in the negative "生易しいことではない" (not an easy task) to emphasize difficulty.
+
+===word: 生来===
+Meaning: Innately / By nature
+Nuance_EN: Means from birth or naturally, used to describe congenital personality or physical traits.
+
+===word: 生業===
+Meaning: Livelihood / Occupation
+Nuance_EN: Refers to one's work or occupation that supports life. Has an old-fashioned ring, often associated with traditional trades or crafts.
+
+===word: 現象===
+Meaning: Phenomenon
+Nuance_EN: An objective term for events or occurrences in nature or society, used in scientific, social, or psychological discussions.
+
+===word: 生殖===
+Meaning: Reproduction
+Nuance_EN: A biological term for creating new individuals to produce offspring, used in scientific contexts.
+
+===word: 生気===
+Meaning: Vitality / Life
+Nuance_EN: A noun describing lively energy or spirit, applied to a person's face, expression, or atmosphere.
+
+===word: 生活する===
+Meaning: Live / Make a living
+Nuance_EN: Means to conduct daily life, including activities like eating, sleeping, and working.
+
+===word: 生活様式===
+Meaning: Lifestyle
+Nuance_EN: Refers to the style or manner of daily living, which varies by culture and era.
+
+===word: 自立===
+Meaning: Independence
+Nuance_EN: Means relying on one's own power for living and decision-making without others' help, applied to economic or mental independence.
+
+===word: 生涯===
+Meaning: Lifetime / Career
+Nuance_EN: One's entire life from birth to death, or something that continues throughout that period.
+
+===word: 生温かい===
+Meaning: Lukewarm / Half-hearted
+Nuance_EN: Describes temperature that is neither hot nor cold, or an attitude that is indecisive or lenient.
+
+===word: 生演奏===
+Meaning: Live performance
+Nuance_EN: Music performed in real-time rather than recorded, offering a sense of liveness and immediacy.
+
+===word: 生爪===
+Meaning: Natural nail
+Nuance_EN: Refers to nails as they grow naturally, especially when undecorated.
+
+===word: 上様===
+Meaning: Superior / Esteemed person
+Nuance_EN: A term for someone of higher status, like a boss or senior, used in polite contexts indicating hierarchy.
+
+===word: 生物学===
+Meaning: Biology
+Nuance_EN: The natural science studying the structure, function, growth, evolution, and distribution of life, including many subfields like zoology and genetics.
+
+===word: 生物工学===
+Meaning: Bioengineering
+Nuance_EN: An academic field applying biological principles to engineering, including genetic modification and fermentation. Equivalent to "biotechnology."
+
+===word: 生理===
+Meaning: Menstruation / Physiology
+Nuance_EN: Commonly refers to menstruation in daily speech, but also broadly means biological bodily functions (e.g., "生理現象"). Somewhat direct but standard.
+
+===word: 生理的===
+Meaning: Physiological
+Nuance_EN: A na-adjective describing bodily functions or reactions, used in medicine/biology or to mean natural, instinctive responses.
+
+===word: 生産===
+Meaning: Production / Manufacture
+Nuance_EN: Producing products or valuable things from raw materials, used for factories, agriculture, or idea generation.
+
+===word: 値上げ===
+Meaning: Price increase
+Nuance_EN: The act of raising prices, often due to increased production costs.
+
+===word: 生産性===
+Meaning: Productivity
+Nuance_EN: An indicator of output relative to input resources (labor, time, cost), crucial in business and economics.
+
+===word: 生番組===
+Meaning: Live program
+Nuance_EN: A TV or radio program broadcast in real-time rather than recorded, also called "生放送." Features improvisation and real-time happenings.
+
+===word: 生簀===
+Meaning: Live fish tank
+Nuance_EN: A tank or net enclosure for keeping seafood alive, used in restaurants to maintain freshness.
+
+===word: 生粋===
+Meaning: Pure / Genuine
+Nuance_EN: Means being pure and unblended from birth, emphasizing inherent nature, e.g., "生粋の東京っ子" (a true Tokyo native).
+
+===word: 生臭い===
+Meaning: Fishy / Bloody-smelling
+Nuance_EN: [No nuance provided]
+
+===word: 生臭坊主===
+Meaning: Corrupt monk
+Nuance_EN: A derogatory term for a monk who breaks Buddhist precepts by eating meat or marrying, implying moral decay. Historically used to criticize impropriety; carries strong contempt and should be used cautiously.
+
+===word: 生計===
+Meaning: Livelihood
+Nuance_EN: Refers to the means of earning income to live, often in phrases like "生計を立てる" (make a living). Somewhat formal.
+
+===word: 生計を立てる===
+Meaning: Make a living
+Nuance_EN: To secure income for daily life, a somewhat formal expression about work and finances.
+
+===word: 生計費===
+Meaning: Living expenses
+Nuance_EN: The total cost of living, including food, rent, and utilities.
+
+===word: 生贄===
+Meaning: Sacrifice
+Nuance_EN: Originally a religious term for a living offering to gods; now metaphorically used for someone sacrificed for others.
+
+===word: 生身===
+Meaning: Living body / Flesh
+Nuance_EN: The actual, physical body of a living being, contrasted with machines or robots to emphasize human vulnerability.
+
+===word: 生返事===
+Meaning: Vague reply
+Nuance_EN: A careless or half-hearted response that lacks clarity or commitment.
+
+===word: 生還===
+Meaning: Safe return / Survival
+Nuance_EN: Returning alive from a dangerous situation like battle, disaster, or serious illness, often involving life-threatening circumstances.
+
+===word: 産み落とす===
+Meaning: Lay (eggs) / Give birth
+Nuance_EN: A somewhat direct verb for when animals lay eggs or give birth, also metaphorically used for creating something.
+
+===word: 産休===
+Meaning: Maternity leave
+Nuance_EN: A system allowing women to take leave before and after childbirth, common in labor and parenting contexts.
+
+===word: 産出===
+Meaning: Output / Yield
+Nuance_EN: Means to produce natural resources or agricultural goods, used in economic/industrial contexts like oil or wheat.
+
+===word: 産地===
+Meaning: Production area / Origin
+Nuance_EN: The place or region where agricultural or industrial products are made, especially for food. Important for quality/safety info like "産地直送" (direct from origin).
+
+===word: 産声===
+Meaning: First cry (of newborn)
+Nuance_EN: The first cry of a newborn; metaphorically used for the start of something new (e.g., "産声を上げる").
+
+===word: 産学===
+Meaning: Industry-academia
+Nuance_EN: [No nuance provided]
+
+===word: 産後鬱===
+Meaning: Postpartum depression
+Nuance_EN: A depressive state in mothers after childbirth due to hormonal changes, also called postnatal depression.
+
+===word: 産業===
+Meaning: Industry
+Nuance_EN: Refers to economic activities such as manufacturing, selling, or services, including agriculture, manufacturing, and information.
+
+===word: 産業廃棄物===
+Meaning: Industrial waste
+Nuance_EN: Waste generated from business activities at factories and workplaces, legally defined types distinct from household garbage.
+
+===word: 産業革命===
+Meaning: Industrial Revolution
+Nuance_EN: The major technological and social change from the late 18th to 19th centuries, centered in Britain, with inventions like the steam engine transforming the economy.
+
+===word: 産気づく===
+Meaning: Go into labor
+Nuance_EN: For a pregnant woman to show signs of impending childbirth, like the start of contractions. A key term for hospital timing.
+
+===word: 助産師===
+Meaning: Midwife
+Nuance_EN: A professional specializing in assisting childbirth and caring for pregnant women. Formerly called "助産婦," now "助産師" is the official term.
+
+===word: 産院===
+Meaning: Maternity clinic
+Nuance_EN: A medical facility specializing in childbirth, often a smaller clinic focusing on delivery and birth, with a more homely atmosphere than a large hospital.
+
+===word: 甥===
+Meaning: Nephew
+Nuance_EN: The son of one's brother or sister. The female counterpart is 姪 (niece).
+
+===word: 姪===
+Meaning: Niece
+Nuance_EN: The daughter of one's sibling. The male version is 甥 (nephew). A basic family term, but often avoided in casual speech for more specific descriptions.
+
+===word: 採集===
+Meaning: Collection (field)
+Nuance_EN: The act of searching for and gathering natural items like plants, minerals, or insects. Similar to "収集" (collecting) but emphasizes gathering from nature.
+
+===word: 足す===
+Meaning: Add
+Nuance_EN: To add numbers or quantities, used in arithmetic and daily life to increase amounts.
+
+===word: 用例===
+Meaning: Usage example
+Nuance_EN: A concrete example showing how a word or expression is used, often found in dictionaries or textbooks.
+
+===word: 用例===
+Meaning: Usage example
+Nuance_EN: A concrete example showing how a word or expression is used, often found in dictionaries or textbooks.
+
+===word: 用具===
+Meaning: Tool / Equipment
+Nuance_EN: A general term for tools or instruments used for a specific purpose, such as sports equipment, cooking tools, or lab apparatus.
+
+===word: 用向き===
+Meaning: Errand / Business
+Nuance_EN: The content or purpose of an errand or task, somewhat formal.
+
+===word: 用命===
+Meaning: Order / Request
+Nuance_EN: A polite term meaning an order, request, or command, often used in commerce (e.g., "ご用命" = "your order").
+
+===word: 用心===
+Meaning: Caution / Care
+Nuance_EN: Means to be careful or prepared to avoid danger or mistakes, common in safety and crime prevention contexts.
+
+===word: 越す===
+Meaning: Exceed / Go beyond
+Nuance_EN: To surpass a limit or standard, used in expressions like "用心に越したことはない" (caution is better than nothing).
+
+===word: 用心棒===
+Meaning: Bodyguard
+Nuance_EN: A hired guard or watchman protecting people or property from danger. Commonly appears in period dramas or yakuza films, with a somewhat old-fashioned, dramatic feel.
+
+===word: 用心深い===
+Meaning: Cautious / Vigilant
+Nuance_EN: An adjective describing a personality that is always careful and deliberate to avoid danger or trouble. Positive in its prudence but can seem timid if overdone.
+
+===word: 用意周到===
+Meaning: Thoroughly prepared
+Nuance_EN: A four-character idiom meaning preparation is meticulous down to the smallest detail. Used to praise flawless plans or readiness.
+
+===word: 抜ける===
+Meaning: Fall out / Come off
+Nuance_EN: A verb with multiple meanings including "to come off," "to drop out," or "to pass through," depending on context.
+
+===word: 周到===
+Meaning: Meticulous / Thorough
+Nuance_EN: Means paying attention to every detail with no oversight, used positively for preparations or plans (e.g., "周到な準備").
+
+===word: 用水===
+Meaning: Irrigation water / Water supply
+Nuance_EN: Refers to water or waterways for agriculture, industry, or daily use. Commonly seen in "用水路" (irrigation canal), an artificial channel for fields.
+
+===word: 用法===
+Meaning: Usage / Directions
+Nuance_EN: The correct way or method of using medicine, machines, or products. Often seen in instruction manuals.
+
+===word: 用立てる===
+Meaning: Provide / Supply
+Nuance_EN: To provide or arrange necessary funds or goods for a purpose, with a nuance of helping someone in need.
+
+===word: 用紙===
+Meaning: Form / Paper
+Nuance_EN: Paper prepared for a specific purpose, especially formatted documents like application forms or test sheets. More specific than just "紙."
+
+===word: 補充===
+Meaning: Replenish / Refill
+Nuance_EN: To add to something that is insufficient or running out, restoring it to a full state.
+
+===word: 用語===
+Meaning: Terminology
+Nuance_EN: Words or expressions used in a specific field or formal context, such as technical or academic terms.
+
+===word: 用足し===
+Meaning: Errand / Business
+Nuance_EN: Means taking care of necessary tasks or errands, such as going to the bank or post office. Also used euphemistically for going to the toilet.
+
+===word: 用途===
+Meaning: Use / Application
+Nuance_EN: The purpose or how something is used, applied to tools, money, land, etc. A practical, versatile word.
+
+===word: 困る===
+Meaning: Be troubled / Have difficulty
+Nuance_EN: To face a problem or be in a difficult situation, often implying needing help or resolution.
+
+===word: 就職===
+Meaning: Find employment
+Nuance_EN: The act of obtaining a job at a company or organization after graduating. Job hunting (就活) is a major event for Japanese students.
+
+===word: 除く===
+Meaning: Exclude / Except
+Nuance_EN: To treat something as an exception, stating something applies to everything else. Used broadly in daily life and business.
+
+===word: 田圃===
+Meaning: Paddy field
+Nuance_EN: A water-filled field for cultivating rice, central to Japan's rural landscape. Changes beautifully across seasons (planting in spring, harvest in fall), also serving ecological and flood-control roles. Evokes nostalgia.
+
+===word: 苗===
+Meaning: Seedling
+Nuance_EN: A young plant grown for transplanting to a field, like rice or vegetable seedlings, common in agriculture and gardening.
+
+===word: 田園===
+Meaning: Rural landscape
+Nuance_EN: A pastoral scene with fields and paddies, contrasting with the city; refers to natural, country areas.
+
+===word: 凝る===
+Meaning: Be absorbed / Be keen on
+Nuance_EN: To be deeply into or obsessed with something, often a hobby or interest, to the point of becoming an expert.
+
+===word: 田植え===
+Meaning: Rice planting
+Nuance_EN: The farm work of planting rice seedlings in a paddy field, a symbolic event in Japanese agricultural culture, sometimes involving hand work or festivals.
+
+===word: 田畑===
+Meaning: Fields and paddies
+Nuance_EN: A collective term for paddy fields (田) and dry fields (畑), representing Japan's farming landscape.
+
+===word: 田舎===
+Meaning: Countryside / Rural area
+Nuance_EN: Refers to areas away from cities, evoking natural scenery but also implying a lack of convenience.
+
+===word: 飼育===
+Meaning: Raising / Rearing
+Nuance_EN: The act of caring for and raising animals, such as livestock or pets.
+
+===word: 違う===
+Meaning: Differ / Be wrong
+Nuance_EN: A verb meaning to be different or incorrect, widely used in everyday speech.
+
+===word: 由々しい===
+Meaning: Serious / Grave
+Nuance_EN: An adjective describing a situation that is extremely serious and cannot be overlooked, used for social issues or organizational crises. Heavier than just "bad," common in news or official statements.
+
+===word: 由来===
+Meaning: Origin / Derivation
+Nuance_EN: [No nuance provided]
+
+===word: 由緒===
+Meaning: History / Prestigious lineage
+Nuance_EN: Having a long history or honorable origin, often used for valuable traditions or backgrounds.
+
+===word: 由縁===
+Meaning: Reason / Connection
+Nuance_EN: Means the cause or connection of something, or one's relationship with someone. Somewhat literary and formal, emphasizing origin or relation rather than cause.
+
+===word: 甲乙===
+Meaning: First and second / Superiority
+Nuance_EN: Originally means first and second rank, but mainly used in the negative "甲乙つけがたい" (cannot decide superiority) to praise two excellent things.
+
+===word: 甲乙つけがたい===
+Meaning: Incomparable / Too close to call
+Nuance_EN: An expression meaning it's difficult to judge which of two is better or worse, used when both are excellent.
+
+===word: 甲冑===
+Meaning: Armor (samurai)
+Nuance_EN: A general term for the helmet and armor worn by samurai in battle, combining practicality and artistry. Seen in museums and period dramas, symbolizing Japanese tradition.
+
+===word: 甲斐===
+Meaning: Worth / Effect
+Nuance_EN: The result or reward of effort; a return on having done something.
+
+===word: 甲斐性===
+Meaning: Capability / Reliability
+Nuance_EN: Refers especially to the ability to support a family financially, often used in the negative "甲斐性がない." Somewhat old-fashioned, traditionally applied to men, evaluating their responsibility and competence as adults.
+
+===word: 甲斐甲斐しい===
+Meaning: Diligent / Attentive (service)
+Nuance_EN: Describes someone who is considerate and eagerly helps others, often used for women or subordinates acting briskly. A positive evaluation.
+
+===word: 甲板===
+Meaning: Deck (ship)
+Nuance_EN: The flat floor on a ship, referring to the deck where passengers walk or cargo is stored. A specialized maritime term.
+
+===word: 甲殻===
+Meaning: Crustacean shell
+Nuance_EN: The hard outer shell covering arthropods like crabs and shrimp, used in biology, including in the term "甲殻類" (crustaceans).
+
+===word: 甲状腺===
+Meaning: Thyroid gland
+Nuance_EN: A butterfly-shaped endocrine organ at the front of the neck, secreting hormones that regulate growth and metabolism. Its dysfunction (hyper/hypothyroidism) significantly affects health.

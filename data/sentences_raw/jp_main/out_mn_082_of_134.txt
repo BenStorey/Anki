@@ -1,0 +1,799 @@
+===word: 母数===
+Meaning: Parameter
+Nuance_EN: A statistical term referring to a numerical value (parameter) that characterizes a population, such as mean or variance. Used in specialized contexts to distinguish from sample statistics.
+
+===word: 母校===
+Meaning: Alma mater
+Nuance_EN: Refers to a school one previously attended, from elementary to university level. Used by graduates with affection and pride when speaking about their alma mater.
+
+===word: 母胎===
+Meaning: Womb / Matrix
+Nuance_EN: A medical term for the uterus where a fetus develops. Also used metaphorically to mean the source or foundation of something. More literary and specialized than the common word "子宮" (uterus).
+
+===word: 母親は娘の髪をそっとなでたの===
+Meaning: Gently stroke
+Nuance_EN: Describes doing something softly and quietly, without force, such as touching or placing something. Conveys a gentle, careful handling.
+
+===word: 母語===
+Meaning: Mother tongue
+Nuance_EN: Refers to the first language a person naturally acquires from childhood at home. Nearly synonymous with "母国語" but also used as a linguistic term for an individual's most basic language.
+
+===word: 母語話者===
+Meaning: Native speaker
+Nuance_EN: A linguistic term for a person who naturally acquired a language as their mother tongue in their upbringing environment. Essentially means a native speaker.
+
+===word: 母集団===
+Meaning: Population
+Nuance_EN: In statistics and surveys, the entire set of individuals that are the subject of study, such as "all Japanese citizens" or "all employees of a company." The whole from which samples are drawn. A specialized mathematical/statistical term.
+
+===word: 母音===
+Meaning: Vowel
+Nuance_EN: In linguistics, a speech sound produced without obstructing the airflow. In Japanese, the five basic vowels are "a," "i," "u," "e," "o." Commonly used in kana learning and pronunciation instruction.
+
+===word: 母鳥が雛に虫を持ってきた。===
+Meaning: Chick
+Nuance_EN: Refers to a young bird, especially one that still needs parental care. Also used in "雛人形" (Hina dolls) for the Doll Festival, and metaphorically in other contexts.
+
+===word: 毎夕===
+Meaning: Every evening
+Nuance_EN: A somewhat literary expression meaning "every evening" or "every night." Used in writing, such as in newspapers or weather forecasts, while "毎晩" is more common in spoken language.
+
+===word: 毎度あり===
+Meaning: Thank you as always
+Nuance_EN: A shortened form of "毎度ありがとうございます," a common customer service phrase used in shops to express gratitude to repeat customers.
+
+===word: 毎日ご飯を作らないで済むといいですね===
+Meaning: To be finished / settled
+Nuance_EN: An intransitive verb meaning for things to end, be resolved, or be taken care of. Also used in the apologetic form "済みません" (sumimasen), making it a fundamental daily verb.
+
+===word: 毎日そんなに遅くまで残業をしていては体を壊しますよ===
+Meaning: Overtime work
+Nuance_EN: Refers to working beyond scheduled hours. A frequently discussed term in Japanese business culture, often debated in the context of long working hours. Important for understanding corporate life.
+
+===word: 毎日のように我が家の上空をコウモリが何十匹も乱舞する。===
+Meaning: Upper sky
+Nuance_EN: Refers to the area of the sky above the ground, especially high altitudes. Describes the space where planes and birds fly.
+
+===word: 毎日はしないまでも、週に一回くらいは部屋の掃除をしよう===
+Meaning: Cleaning
+Nuance_EN: Refers to the act of removing dirt from rooms or spaces. A very common word used in daily life, with many compounds like "大掃除" (big cleaning), "掃除機" (vacuum cleaner), and "掃除当番" (cleaning duty). Usable from casual to formal contexts.
+
+===word: 毎日忙しいので、夜９時以降にしか帰宅できない。===
+Meaning: After / Since
+Nuance_EN: Indicates a period from a certain point onward. Used in forms like "それ以降" (after that) or "九時以降" (after 9 o'clock), marking a temporal boundary.
+
+===word: 毎日金魚に餌をやります。===
+Meaning: Feed / Bait
+Nuance_EN: Food given to animals, used in fishing and pet care. Also has a metaphorical meaning as a means of temptation.
+
+===word: 毎時===
+Meaning: Per hour
+Nuance_EN: Indicates frequency by the hour. Mainly used as a unit for rates, fees, or speed.
+
+===word: 毒===
+Meaning: Poison
+Nuance_EN: Refers to a substance that causes harmful effects when entering a living body. Also used metaphorically for things that negatively impact the mind or society.
+
+===word: 毒々しい===
+Meaning: Gaudy / Sinister
+Nuance_EN: Describes an appearance or color scheme that is excessively flashy, giving an eerie or dangerous impression. Used for poisonous mushrooms, over-decorated items, or malicious expressions. Carries a strong negative evaluation.
+
+===word: 毒づく===
+Meaning: To curse / Snarl
+Nuance_EN: Means to utter abusive words or swear with dissatisfaction and anger. A colloquial expression.
+
+===word: 毒気===
+Meaning: Poisonous air / Malice
+Nuance_EN: Literally means toxic air or gas, but commonly used in the idiom "毒気を抜かれる" (to have one's momentum or malice deflated). Has a dual usage.
+
+===word: 毒牙===
+Meaning: Venomous fang
+Nuance_EN: Refers to the fangs of a venomous snake. Metaphorically, it means malicious intent or schemes to trap others, used in the idiom "毒牙にかける" (to ensnare).
+
+===word: 毒牙にかかる===
+Meaning: To fall into a trap
+Nuance_EN: An idiom meaning to be caught in the schemes of a malicious person or organization and suffer harm. "毒牙" (venomous fang) evokes the image of being bitten by a snake.
+
+===word: 毒男===
+Meaning: Toxic man
+Nuance_EN: A slang term for a man who is harmful or unpleasant in relationships, often used in online contexts.
+
+===word: 毒矢===
+Meaning: Poisoned arrow
+Nuance_EN: Refers to an arrow coated with poison. Metaphorically used to describe words or actions intended to hurt someone, as in "毒矢を放つ" (to shoot a poisoned arrow).
+
+===word: 毒舌===
+Meaning: Sharp tongue
+Nuance_EN: Refers to caustic, spiteful speech that can hurt others. Unlike mere insults, it often includes humor or wit and may be accepted as part of one's personality. A person known for this is called a "毒舌家."
+
+===word: 毒薬===
+Meaning: Poison
+Nuance_EN: Refers to a harmful drug that endangers life when introduced into the body.
+
+===word: 毒見する===
+Meaning: To taste-test for poison
+Nuance_EN: Means to taste food or drink first to check for poison. Historically a role for servants of royalty. In modern times, used jokingly to mean being the first to taste a dish.
+
+===word: 毒親===
+Meaning: Toxic parent
+Nuance_EN: A parent who excessively interferes with or mentally pressures their child. A term from recent psychology and counseling that has become widespread.
+
+===word: 毒電波===
+Meaning: Toxic brainwaves
+Nuance_EN: A metaphorical expression for the idea of harmful mental influence. Often used in conspiracy theories or as slang.
+
+===word: 比例===
+Meaning: Proportion
+Nuance_EN: A mathematical/statistical term meaning that the relationship between two quantities changes at a constant rate. Used in daily conversation in forms like "比例する" (to be proportional) to explain correlations.
+
+===word: 比例代表制===
+Meaning: Proportional representation
+Nuance_EN: An electoral system where seats are allocated in proportion to a party's vote share. Often used alongside single-seat constituencies, it reduces wasted votes but can strengthen party power.
+
+===word: 比喩===
+Meaning: Metaphor / Figure of speech
+Nuance_EN: A rhetorical technique of expressing something by comparing it to something else, using forms like "まるで〜のようだ" (just like...). Enriches expression and aids understanding. Includes similes and metaphors.
+
+===word: 比喩的===
+Meaning: Figurative
+Nuance_EN: Describes expressing something indirectly by likening it to something else. Used in literature and daily conversation.
+
+===word: 比喩的な===
+Meaning: Figurative
+Nuance_EN: Describes expressing something indirectly by likening it to something else. Used in literature and daily conversation.
+
+===word: 比喩的な感覚においても、いっぱいにする===
+Meaning: Figurative sense
+Nuance_EN: Describes expressing something indirectly by likening it to something else. Used in literature and daily conversation.
+
+===word: 比率===
+Meaning: Ratio
+Nuance_EN: Refers to the proportion or rate when comparing two or more quantities. A somewhat formal word used in statistics, math, and business analysis. In daily conversation, "割合" is more common.
+
+===word: 比較的===
+Meaning: Relatively
+Nuance_EN: An adverb indicating that something is comparatively so when compared to others. Similar to "割と" or "わりに" but slightly more formal.
+
+===word: 比重===
+Meaning: Specific gravity / Emphasis
+Nuance_EN: The ratio of a substance's density to a reference substance. Metaphorically, it also represents importance or proportion within a whole.
+
+===word: 比類の無い===
+Meaning: Unparalleled
+Nuance_EN: A somewhat formal expression meaning something is so excellent that nothing comparable exists. Emphasizes extraordinary quality.
+
+===word: 毛===
+Meaning: Hair / Fur
+Nuance_EN: Refers to animal fur, human hair, or fine plant hairs. Used in biological or textile contexts.
+
+===word: 毛の生えた===
+Meaning: Barely better than
+Nuance_EN: An idiom expressing a negative or sarcastic evaluation, meaning "barely better than" or "a notch above." Used in phrases like "小学生に毛の生えたようなレベル" (a level barely above an elementary schooler), implying little real difference.
+
+===word: 毛むくじゃら===
+Meaning: Hairy / Shaggy
+Nuance_EN: A na-adjective describing a body thickly covered with hair.
+
+===word: 毛並み===
+Meaning: Coat quality / Lineage
+Nuance_EN: Originally refers to the quality and condition of an animal's fur. Metaphorically, it means a person's "family background," "social standing," or "upbringing." "毛並みがいい" implies good lineage, reflecting historical class consciousness. Still used today to evaluate someone's background.
+
+===word: 毛先===
+Meaning: Hair tip
+Nuance_EN: Refers to the ends of hair. Commonly used in salon haircut instructions and hair care product descriptions. Frequent in daily conversation.
+
+===word: 毛嫌い===
+Meaning: Unreasonable dislike
+Nuance_EN: Means to dislike someone or something without reason or irrationally. Based on emotional aversion or prejudice rather than objective reasons.
+
+===word: 毛布===
+Meaning: Blanket
+Nuance_EN: A bedding product made of wool or acrylic, used to cover the body while sleeping. Essential in winter, commonly appearing in daily conversation.
+
+===word: 毛氈===
+Meaning: Felt cloth
+Nuance_EN: A felt-like rug made from wool, used in formal settings like conference tables, stages, or Shinto rituals. Has a formal, traditional feel.
+
+===word: 毛玉===
+Meaning: Pill (fabric)
+Nuance_EN: Small balls of fiber that form on the surface of clothing, such as sweaters or blankets. Detracts from appearance.
+
+===word: 毛皮===
+Meaning: Fur
+Nuance_EN: Animal skin with hair attached, used mainly for cold-weather clothing and accessories like coat collars, hats, and bags. Due to animal protection concerns, faux fur is also widely used.
+
+===word: 毛皮を税関で没収されたんだ。===
+Meaning: Customs
+Nuance_EN: A government agency that inspects luggage and cargo at borders and collects tariffs. Located at airports and ports, relevant to international travel and trade.
+
+===word: 毛糸===
+Meaning: Yarn
+Nuance_EN: Thread made from animal hair like sheep's wool, used for knitting sweaters and other items.
+
+===word: 毛糸が絡む===
+Meaning: To tangle
+Nuance_EN: Refers to yarn becoming knotted and difficult to unravel. Metaphorically, it can describe situations becoming complicated and hard to resolve.
+
+===word: 毛細血管===
+Meaning: Capillary
+Nuance_EN: Extremely fine blood vessels connecting arteries and veins throughout the body. They deliver oxygen and nutrients to tissues and receive carbon dioxide and waste.
+
+===word: 毛脛===
+Meaning: Hairy shin
+Nuance_EN: A casual term referring to thick hair on the shins, especially mentioned in the context of male body hair.
+
+===word: 毛色===
+Meaning: Fur color
+Nuance_EN: Refers to the color of an animal's fur, mainly used for dogs, cats, and horses.
+
+===word: 毛頭ない===
+Meaning: Not in the least
+Nuance_EN: An emphatic expression meaning "not at all" or "absolutely no," often used to deny a thought or intention.
+
+===word: 毛髪===
+Meaning: Hair (human)
+Nuance_EN: A somewhat specialized term for human head hair or body hair. In daily conversation, "髪の毛" is more common, but "毛髪" is used in beauty and medical contexts, carrying a formal tone.
+
+===word: 毛髪移植===
+Meaning: Hair transplant
+Nuance_EN: A surgery where hair roots from the back of the head are transplanted to thinning areas. Known as a treatment for male pattern baldness.
+
+===word: 毟る===
+Meaning: To pluck / Tear off
+Nuance_EN: To grab and forcefully pull out hair, grass, or feathers with fingers.
+
+===word: 毳々しい===
+Meaning: Gaudy / Tawdry
+Nuance_EN: An adjective describing colors or decorations that are overly flashy, lacking elegance and refinement. Emphasizes a negative "showy" quality with cheap or vulgar connotations.
+
+===word: 氏名===
+Meaning: Full name
+Nuance_EN: Refers to a person's full name, including surname and given name. A formal term used in official documents and forms.
+
+===word: 民===
+Meaning: People / Citizens
+Nuance_EN: Refers to the general populace that constitutes a nation or society. Used in political and social contexts, with a somewhat formal Sino-Japanese tone.
+
+===word: 民主===
+Meaning: Democracy
+Nuance_EN: An abbreviation of "民主主義" (democracy), referring to a system where the people hold sovereignty and govern.
+
+===word: 民主主義について勉強しました。===
+Meaning: Master / Proprietor
+Nuance_EN: A somewhat old-fashioned term for the master, owner, or head of a house, shop, or organization. In modern times, "主人" is more common, but "あるじ" appears in literature and period dramas. It can also refer to a host, employer, or husband, emphasizing the role of the person in charge.
+
+===word: 民事===
+Meaning: Civil (law)
+Nuance_EN: A legal term referring to legal relationships concerning rights and obligations between private individuals. As opposed to criminal cases, civil cases (contracts, debts, divorce, inheritance) deal with private disputes, handled in civil court.
+
+===word: 民俗===
+Meaning: Folk customs
+Nuance_EN: Traditions and culture passed down among local people. An academic field known as folklore studies. Somewhat formal.
+
+===word: 民営化===
+Meaning: Privatization
+Nuance_EN: An economic/political term meaning the transfer of state-run businesses or facilities to private companies. Famous examples include JR and NTT. Expected to improve efficiency and service quality, but raises concerns about reduced public access and price hikes. A key term in news and economic debates.
+
+===word: 民家===
+Meaning: Private home
+Nuance_EN: Refers to a house where ordinary people live. Especially old Japanese houses are called "古民家," but "民家" simply means a regular residence. Used to distinguish from government or commercial buildings.
+
+===word: 民宿===
+Meaning: Guesthouse
+Nuance_EN: A lodging where a family rents out rooms and provides meals to travelers. More casual and homey than a traditional inn (旅館).
+
+===word: 民度===
+Meaning: Cultural level
+Nuance_EN: A term referring to the cultural standards or moral level of a nation's people or residents. Used evaluatively as in "民度が高い/低い" (high/low cultural level). A somewhat colloquial concept often discussed online.
+
+===word: 民族===
+Meaning: Ethnic group
+Nuance_EN: A group of people sharing language, culture, and history. Unlike nationality (citizenship of a state), it is based on blood ties or cultural commonality. An important term in sociology, anthropology, and history.
+
+===word: 民族意識===
+Meaning: Ethnic consciousness
+Nuance_EN: The awareness of belonging to a specific ethnic group, along with a sense of solidarity and pride. A collective identity rooted in culture and history.
+
+===word: 民法===
+Meaning: Civil code
+Nuance_EN: The fundamental law governing private rights, property, and family relations. Considered one of the most important laws after the constitution, deeply involved in daily life matters like contracts, inheritance, and marriage. Primarily used by legal professionals and learners.
+
+===word: 民生===
+Meaning: Livelihood / Welfare
+Nuance_EN: A political/administrative term referring to matters concerning people's daily lives and welfare. Used in compounds like "民生委員" (welfare commissioner) and "民生費" (welfare expenses).
+
+===word: 民衆は軍事政権の弾圧をものともせず、デモ行進を続けた。===
+Meaning: Bullet / Ball
+Nuance_EN: A general term for projectiles fired from guns or bows. Most commonly refers to bullets, but also includes spherical objects like "ゴム弾" (rubber bullet) or "ゴルフの弾" (golf ball). Sometimes written in katakana as "タマ." Note that "財布のタマが痛い" (wallet hurts) has a different etymology meaning "money."
+
+===word: 民謡===
+Meaning: Folk song
+Nuance_EN: Traditional songs passed down among common people in a region. Characterized by simple melodies rooted in daily life, such as work songs or festival songs.
+
+===word: 民間===
+Meaning: Private sector
+Nuance_EN: Refers to the side of ordinary people or companies, as opposed to the government or public sector. Used in contrast between "官" (public) and "民" (private). Frequent in political and economic contexts.
+
+===word: 気がかり===
+Meaning: Worry / Concern
+Nuance_EN: A state of being worried and heavy-hearted. A soft expression for lingering concerns, such as the health of distant family, that cannot be ignored.
+
+===word: 気がせく===
+Meaning: To feel rushed
+Nuance_EN: Describes a state of being unsettled and impatient due to time pressure. Used for both physical haste and psychological anxiety.
+
+===word: 気がそれる===
+Meaning: To be distracted
+Nuance_EN: Means for one's concentration or interest to shift to another direction. A common daily expression.
+
+===word: 気が乗らない===
+Meaning: Not in the mood
+Nuance_EN: A colloquial expression for a state of lacking motivation or interest. Useful as a cushion phrase to avoid direct refusal, often used for vague responses to invitations. Nearly synonymous with "気が進まない" but lighter and more casual.
+
+===word: 気が動転する===
+Meaning: To be flustered
+Nuance_EN: To lose composure and become agitated due to shock or grief. Used for unexpected events like accidents or bad news.
+
+===word: 気が向く===
+Meaning: To feel like (doing)
+Nuance_EN: Means for a desire to do something to arise naturally. Not planned, but driven by mood or emotion. When not motivated, use "気が向かない."
+
+===word: 気が咎める===
+Meaning: To feel guilty
+Nuance_EN: An idiom meaning one's conscience aches with guilt over one's actions. Used when doing something wrong or feeling bad for someone.
+
+===word: 気が差す===
+Meaning: To feel hesitant
+Nuance_EN: Describes a state of being aware of doing something wrong and feeling a pang of conscience. An internal emotional expression involving guilt or reluctance.
+
+===word: 気が引ける===
+Meaning: To feel hesitant / Reluctant
+Nuance_EN: Expresses a feeling of being sorry for the other person or holding back. Used when asking a favor or receiving kindness, feeling "bad" about it. Implies stepping back out of consideration for the other's position.
+
+===word: 気が揉める===
+Meaning: To be anxious
+Nuance_EN: An idiom describing a state of being restless and worried about how things will turn out. Used when waiting for exam results or important news.
+
+===word: 気が散る===
+Meaning: To be distracted
+Nuance_EN: An idiom meaning one's concentration is disrupted and attention wanders elsewhere. Often used in situations like studying or working with noise.
+
+===word: 気が散るからテレビを消してくれ。===
+Meaning: To scatter / Fall
+Nuance_EN: An intransitive verb meaning for gathered things to separate, or for petals and leaves to fall.
+
+===word: 気が早い===
+Meaning: Impatient / Hasty
+Nuance_EN: An idiom describing a short-tempered, impatient personality, or making decisions prematurely. Refers to actions that rush things or jump to conclusions too early. Common in casual conversation.
+
+===word: 気が気じゃない===
+Meaning: To be on edge
+Nuance_EN: An idiom expressing a state of being unable to relax due to worry or tension. Used when waiting for results or concerned about a loved one's safety.
+
+===word: 気が済まない===
+Meaning: To be unsatisfied
+Nuance_EN: Expresses a feeling of dissatisfaction or inability to accept things not going one's way. Used for people who are particular and cannot settle unless things are perfect.
+
+===word: 気が済む===
+Meaning: To be satisfied
+Nuance_EN: Means for one's feelings to be content and settled, or to feel satisfied.
+
+===word: 気が滅入る===
+Meaning: To feel depressed
+Nuance_EN: An idiom meaning to become downcast and gloomy. Used when sad events or stress weigh heavily on the mind.
+
+===word: 気が焦る===
+Meaning: To feel impatient
+Nuance_EN: Describes a feeling of irritation and restlessness when things don't go as planned. A psychological state of being rushed. "焦る" alone is also used, but "気が焦る" focuses more on the mental aspect.
+
+===word: 気が立つ===
+Meaning: To be agitated
+Nuance_EN: To be in a state of heightened tension or irritability, often ready to argue or fight.
+
+===word: 気が紛れる===
+Meaning: To be distracted (from worries)
+Nuance_EN: Means to temporarily divert attention from unpleasant things or worries by focusing on something else. Used when hobbies or work lighten the heart after sad events. For actively diverting, use "気を紛らわす."
+
+===word: 気が緩む===
+Meaning: To relax one's guard
+Nuance_EN: A state where tension or concentration breaks, leading to over-relaxation or carelessness. Can be positive (relaxing) or negative (making mistakes), but often carries a negative nuance. For positive relaxation, "緊張が解ける" is used.
+
+===word: 気が荒い===
+Meaning: Rough-tempered
+Nuance_EN: Describes a personality that is fierce, quick to anger, or aggressive. Used for people who are restless and prone to violent speech or behavior.
+
+===word: 気が重い===
+Meaning: To feel heavy-hearted
+Nuance_EN: A state of feeling down due to having to do something unpleasant. A very common idiom in daily conversation.
+
+===word: 気さく===
+Meaning: Affable / Approachable
+Nuance_EN: Describes a personality that is friendly and easy to get along with.
+
+===word: 気にかける===
+Meaning: To care about
+Nuance_EN: To have something on one's mind, worrying or paying attention to it. Also means to show consideration for others. More active than the passive "気になる."
+
+===word: 気にされないほうがいいよ===
+Meaning: Gargling
+Nuance_EN: The act of washing the mouth and throat with water or medicated solution. A daily practice for cold prevention and throat care, often done with disinfectant. In Japan, hand washing and gargling are recommended together.
+
+===word: 気になっていた彼女が隣に座ったので、僕の心は我にもなく弾んだ。===
+Meaning: Bullet / Ball
+Nuance_EN: A general term for projectiles fired from guns or bows. Most commonly refers to bullets, but also includes spherical objects like "ゴム弾" (rubber bullet) or "ゴルフの弾" (golf ball). Sometimes written in katakana as "タマ." Note that "財布のタマが痛い" (wallet hurts) has a different etymology meaning "money."
+
+===word: 気にも留めない===
+Meaning: To pay no attention
+Nuance_EN: To completely ignore without any concern. To deem something unimportant and not pay attention.
+
+===word: 気に召す===
+Meaning: To like (honorific)
+Nuance_EN: The honorific form of "気に入る" (to like), used to politely ask if something suits a superior's taste. Used in phrases like "お気に召すかどうか" (whether it pleases you) or "お気に召しましたでしょうか" (did it please you?). Common in hotels, restaurants, and hospitality settings.
+
+===word: 気に留める===
+Meaning: To keep in mind
+Nuance_EN: A verb meaning to stop something in motion or maintain a state. Ranges from physical stopping ("足を留める") to abstract retention ("印象に留める"). Overlaps with "止める" but "留める" emphasizes keeping or fixing a state. Frequently used from daily life to business.
+
+===word: 気に病む===
+Meaning: To worry about
+Nuance_EN: To fret and worry over trivial matters. Describes the behavior of anxious or sensitive people.
+
+===word: 気に障る===
+Meaning: To offend
+Nuance_EN: To irritate or upset someone, often by saying or doing something that rubs them the wrong way.
+
+===word: 気に食わない===
+Meaning: To be displeased
+Nuance_EN: To feel irritated or dissatisfied with something. A colloquial and somewhat rough expression.
+
+===word: 気のない===
+Meaning: Half-hearted
+Nuance_EN: Describes a state of lacking interest or enthusiasm, going through the motions. Used for unenthusiastic attitudes or absent-minded responses.
+
+===word: 気の利く===
+Meaning: Thoughtful / Tactful
+Nuance_EN: Being able to act considerately and attentively to others' situations and feelings. Having good sense and quick wit.
+
+===word: 気の毒===
+Meaning: Pitiful / Sorry
+Nuance_EN: Expresses sympathy for someone's misfortune or difficult situation. An expression of compassion.
+
+===word: 気の緩み===
+Meaning: Lapse in concentration
+Nuance_EN: Refers to a state where attention or tension breaks, leading to careless mistakes. Often used negatively, as it can cause accidents or failures.
+
+===word: 気は心===
+Meaning: It's the thought that counts
+Nuance_EN: A proverb-like expression meaning that in gifts, the feeling behind them matters more than the value or item itself. Reflects the Japanese value of "心意気" (spirit).
+
+===word: 気まぐれ===
+Meaning: Capricious / Whimsical
+Nuance_EN: Refers to actions or moods that change based on the moment's whim. Used for personalities or even weather, with a casual and friendly tone.
+
+===word: 気まぐれで===
+Meaning: On a whim
+Nuance_EN: Describes acting based on momentary mood or impulse, not planning. Carries a nuance of following emotions.
+
+===word: 気まずい===
+Meaning: Awkward
+Nuance_EN: An adjective describing an uncomfortable, strained atmosphere between two or more people. Used after arguments, awkward partings, or being alone with someone incompatible. A very important emotional expression for Japanese learners.
+
+===word: 気まま===
+Meaning: Selfish / Free-spirited
+Nuance_EN: Doing as one pleases without caring about others or rules. Can be positive (free-spirited) or negative (selfish).
+
+===word: 気をもむ===
+Meaning: To fret
+Nuance_EN: An idiom meaning to worry and be anxious, unable to settle down. Describes the restlessness of waiting for results or worrying about others.
+
+===word: 気を利かせる===
+Meaning: To be tactful
+Nuance_EN: To take thoughtful action by reading the situation without being asked. Showing consideration and quick wit.
+
+===word: 気を取られる===
+Meaning: To be distracted by
+Nuance_EN: An idiom describing a state where one's attention is drawn to something, preventing concentration on other things.
+
+===word: 気を取り直す===
+Meaning: To pull oneself together
+Nuance_EN: An idiom meaning to switch from a failed or depressed mood and regain energy or motivation. Used when trying to bounce back positively after something bad. Can be used for self-encouragement or encouraging others.
+
+===word: 気を回す===
+Meaning: To be overly suspicious
+Nuance_EN: To overthink or imagine unnecessary things, often leading to misunderstandings.
+
+===word: 気を引き締める===
+Meaning: To tighten one's resolve
+Nuance_EN: Means to prepare oneself with tension and seriousness. Used when correcting a lax attitude and increasing focus.
+
+===word: 気を引く===
+Meaning: To attract attention
+Nuance_EN: Refers to actions aimed at drawing someone's attention or interest toward oneself. Often used in romantic contexts.
+
+===word: 気を張る===
+Meaning: To keep on edge
+Nuance_EN: To maintain tension and concentration, or to brace oneself and work hard. Prolonged "気を張る" can be tiring, so switching to relaxation is important. Represents positive tension and focus.
+
+===word: 気を悪くする===
+Meaning: To take offense
+Nuance_EN: Means to feel displeased or have one's feelings hurt.
+
+===word: 気を抜く===
+Meaning: To let one's guard down
+Nuance_EN: Means to relax tension and concentration. However, it can also have a negative meaning of neglecting attention, as in "気を抜いたら失敗した" (I failed because I let my guard down).
+
+===word: 気を持たせる===
+Meaning: To lead on
+Nuance_EN: To give someone hope or expectation, especially by being ambiguous. To string someone along.
+
+===word: 気を紛らす===
+Meaning: To divert one's mind
+Nuance_EN: To distract oneself from worries or unpleasant thoughts by focusing on something else.
+
+===word: 気を落とす===
+Meaning: To lose heart
+Nuance_EN: An idiom meaning to become depressed or discouraged. Often used when encouraging or consoling someone.
+
+===word: 気を許す===
+Meaning: To let one's guard down
+Nuance_EN: Means to relax vigilance and tension, becoming at ease. Used in close relationships or safe environments, implying removing mental barriers. However, it can also warn against carelessness, so not entirely positive.
+
+===word: 気を配る===
+Meaning: To be attentive
+Nuance_EN: To pay attention to surroundings and people's conditions. To be careful about details to prevent trouble and show consideration.
+
+===word: 気丈な===
+Meaning: Spirited / Brave
+Nuance_EN: Describes a person who remains strong and does not complain in difficult situations. Often used for women or children, praising their mental strength despite appearance or age.
+
+===word: 気乗り===
+Meaning: Enthusiasm
+Nuance_EN: Refers to the feeling of willingness to do something, or the degree of that feeling. Used in forms like "気乗りがする" (to feel motivated) or "気乗りがしない" (to not feel like it).
+
+===word: 気乗りの無い===
+Meaning: Unenthusiastic
+Nuance_EN: Describes a state of not being proactive or willing to do something. Also used as "気乗りがしない." Useful for politely declining invitations without saying "嫌だ" directly.
+
+===word: 気休め===
+Meaning: Palliative / Lip service
+Nuance_EN: Refers to words or actions that temporarily calm the mind but do not solve the real problem. Often used with a slightly negative nuance, implying limited effectiveness.
+
+===word: 気体===
+Meaning: Gas
+Nuance_EN: One of the states of matter, where shape and volume change freely unlike liquids or solids. A specialized term in science and chemistry.
+
+===word: 気候===
+Meaning: Climate
+Nuance_EN: Refers to long-term weather trends and characteristics of a region. Varies by region, such as warm or cold climates.
+
+===word: 気候変動===
+Meaning: Climate change
+Nuance_EN: Refers to long-term changes in weather patterns. Frequently used in environmental discussions like global warming.
+
+===word: 気兼ね===
+Meaning: Hesitation / Reserve
+Nuance_EN: Refers to holding back or not acting freely due to concern for others' feelings or circumstances. A psychological term used in interpersonal relationships.
+
+===word: 気兼ねなく何でも言って下さい===
+Meaning: Without hesitation
+Nuance_EN: Refers to holding back or not acting freely due to concern for others' feelings or circumstances. A psychological term used in interpersonal relationships.
+
+===word: 気兼ねなく私に連絡してください===
+Meaning: Without hesitation
+Nuance_EN: Refers to holding back or not acting freely due to concern for others' feelings or circumstances. A psychological term used in interpersonal relationships.
+
+===word: 気分爽快===
+Meaning: Refreshed
+Nuance_EN: Describes a state of feeling very clear and refreshed. Often used after exercise, bathing, or completing a difficult task.
+
+===word: 気分転換===
+Meaning: Change of pace
+Nuance_EN: Refers to switching one's mood or refreshing oneself. A common daily expression for doing something else during work or study to relax.
+
+===word: 気分転換に散歩しよう。===
+Meaning: Change of pace
+Nuance_EN: Refers to switching one's mood or refreshing oneself. A common daily expression for doing something else during work or study to relax.
+
+===word: 気前===
+Meaning: Generosity
+Nuance_EN: Refers to a generous spirit in giving things or money without hesitation. Often used in the form "気前がいい" (generous), a positive evaluation. The opposite of stingy, especially used for hospitality or treating others.
+
+===word: 気前の良い===
+Meaning: Generous
+Nuance_EN: An adjective describing a person who gives money or things freely. Used as a compliment for a broad-minded, generous character.
+
+===word: 気力===
+Meaning: Energy / Vigour
+Nuance_EN: Refers to mental energy for tackling things. Paired with physical "体力," it is commonly used in daily topics of fatigue and motivation, like "気力が湧かない" (no energy) or "気力を取り戻す" (regain energy).
+
+===word: 気功===
+Meaning: Qigong
+Nuance_EN: A Chinese practice involving meditation, controlled breathing, and movement to cultivate and balance life energy (qi).
+
+===word: 気勢===
+Meaning: Spirit / Morale
+Nuance_EN: Refers to the high spirits or fighting spirit of a group or individual. Often used in forms like "気勢を上げる" (to raise morale) or "気勢が上がる" (spirits rise).
+
+===word: 気取られる===
+Meaning: To be sensed
+Nuance_EN: The passive form of "気取る," meaning one's intentions, secrets, or feelings are perceived by others. Implies that hidden things are seen through by sharp observation. Used in phrases like "気取られないように注意する" (be careful not to be found out).
+
+===word: 気取る===
+Meaning: To put on airs
+Nuance_EN: To try to appear cooler or more refined than one actually is. Often used sarcastically, similar to "〜ぶる" (to act like).
+
+===word: 気合===
+Meaning: Fighting spirit
+Nuance_EN: Refers to mental energy such as fighting spirit, concentration, or shouts of effort when tackling something.
+
+===word: 気合い負け===
+Meaning: To be intimidated
+Nuance_EN: Refers to being overwhelmed by an opponent's momentum and failing to perform at one's best. Often used in competitions, due to mental weakness.
+
+===word: 気合を入れる===
+Meaning: To psych up
+Nuance_EN: To instill strong mental energy in oneself or others to boost motivation. Used for encouragement ("気合を入れて頑張ろう") or in sports/martial arts as a ritual with loud shouts.
+
+===word: 気味===
+Meaning: Feeling / Touch
+Nuance_EN: Used in "小気味" (小気味よい/小気味いい) to describe a pleasant, brisk feeling in actions or rhythm. Used for snappy movements, crisp speech, or smooth progress, giving a refreshing impression.
+
+===word: 気品がある===
+Meaning: Elegant / Refined
+Nuance_EN: Having a graceful and dignified atmosphere. Describes the style of a person or object.
+
+===word: 気圧===
+Meaning: Atmospheric pressure
+Nuance_EN: Refers to the pressure of the atmosphere, i.e., the weight of air. A scientific term frequently appearing in weather forecasts and meteorological topics.
+
+===word: 気圧される===
+Meaning: To be overawed
+Nuance_EN: Means to be intimidated and shrink back due to someone's presence or forcefulness.
+
+===word: 気圧配置===
+Meaning: Pressure pattern
+Nuance_EN: Refers to the distribution and positional relationship of high and low pressure systems on a weather map.
+
+===word: 気安く===
+Meaning: Familiarly / Presumptuously
+Nuance_EN: Acting without reserve or hesitation. Can be positive (friendly) or negative (too familiar and presumptuous).
+
+===word: 気密===
+Meaning: Airtight
+Nuance_EN: Refers to the property or state of preventing air leakage. A specialized term in architecture and industrial products, used in phrases like "気密性が高い" (high airtightness).
+
+===word: 気弱===
+Meaning: Timid
+Nuance_EN: Describes a weak-hearted personality lacking confidence and easily swayed by others. Implies indecisiveness or inability to refuse requests. Slightly negative, but can be seen as a reflection of a gentle nature.
+
+===word: 気張る===
+Meaning: To brace oneself
+Nuance_EN: A verb meaning to rouse one's spirits and work hard toward a goal. Unlike "頑張る" (persistent effort), "気張る" focuses on a single big effort or a determined attitude. "気張りすぎる" means overexerting and backfiring. In Kansai dialect, "気張っていこう!" is used as encouragement, giving a casual impression.
+
+===word: 気後れ===
+Meaning: Timidity
+Nuance_EN: To feel intimidated or lose confidence in the face of a challenge or superior opponent.
+
+===word: 気心の知れた===
+Meaning: Familiar / Intimate
+Nuance_EN: An adjective phrase describing a relationship where one understands the other's personality and thoughts well, able to talk about anything. Implies deep trust from long acquaintance, more than just an "acquaintance." Used for close friends, colleagues, or family.
+
+===word: 気怠い===
+Meaning: Languid / Listless
+Nuance_EN: Describes a state where the body or mind feels heavy and unmotivated. Accompanied by a sense of fatigue or weakness after exhaustion, heat, or illness. Unlike "眠い" (sleepy), consciousness is clear but the body won't move. Has a somewhat literary ring.
+
+===word: 気性　／　性分===
+Meaning: Temperament / Disposition
+Nuance_EN: Both refer to innate personality or nature. "気性" often emphasizes emotional intensity or restlessness, as in "気性が荒い" (rough temperament). "性分" refers to essential nature or habits, as in "飽き性分" (a disposition to get bored).
+
+===word: 気恥ずかしい===
+Meaning: Embarrassing
+Nuance_EN: An adjective describing a feeling of embarrassment and awkwardness. Includes shyness and discomfort, such as when praised in public.
+
+===word: 気晴らし===
+Meaning: Diversion / Pastime
+Nuance_EN: Refers to entertainment or activities done for a change of mood. Aimed at relaxing and relieving stress during breaks from work or study. Used for small daily pleasures.
+
+===word: 気楽===
+Meaning: Carefree / Easygoing
+Nuance_EN: Describes a state of having mental leeway and not worrying too much about things. Means to take it easy and relax.
+
+===word: 気概===
+Meaning: Spirit / Backbone
+Nuance_EN: Represents a strong will to face difficulties and a determined spirit to achieve goals. Harder than mere "やる気," it evaluates a person's core strength backed by conviction and pride. Often used in business and character assessment.
+
+===word: 気構え===
+Meaning: Mental preparedness
+Nuance_EN: Refers to one's mental preparation and attitude when facing something. Implies spiritual readiness and stance, used in formal contexts.
+
+===word: 気泡===
+Meaning: Bubble
+Nuance_EN: A small pocket of air or gas within a liquid or solid.
+
+===word: 気流===
+Meaning: Air current
+Nuance_EN: Refers to the flow of air. A somewhat specialized term used in meteorological or environmental contexts, such as airflow affecting aircraft or indoor air circulation.
+
+===word: 気温ばかりか湿度も高い。===
+Meaning: Humidity
+Nuance_EN: Refers to the amount or percentage of moisture in the air. Commonly used in weather forecasts and comfort indicators.
+
+===word: 気移り===
+Meaning: Fickleness
+Nuance_EN: Refers to a state where interest or attention shifts around, preventing focus on one thing. Used to describe a capricious personality, with a negative nuance. Also called "移り気."
+
+===word: 気立てがいい===
+Meaning: Good-natured
+Nuance_EN: An expression describing a person's character as gentle, kind, and easy to get along with. Praises inner qualities like thoughtfulness and kindness, not appearance or ability. A versatile compliment for both men and women, more refined and warm than "性格がいい."
+
+===word: 気管支炎===
+Meaning: Bronchitis
+Nuance_EN: A disease name for inflammation of the bronchi, with symptoms like coughing and phlegm. A medical term also used in daily conversation.
+
+===word: 気絶===
+Meaning: Faint / Pass out
+Nuance_EN: To temporarily lose consciousness due to strong shock or impact. Ranges from medical fainting to metaphorical astonishment.
+
+===word: 気色===
+Meaning: Look / Expression
+Nuance_EN: Commonly used in the form "気色が悪い" (creepy), expressing eeriness or disgust. Rarely used alone, mainly as the compound adjective "気色悪い."
+
+===word: 気色ばむ===
+Meaning: To show anger
+Nuance_EN: A literary verb describing anger or displeasure appearing on one's face or expression. Not common in daily conversation but seen in novels and writing. More restrained than "むっとする" or "怒り出す."
+
+===word: 気色悪い===
+Meaning: Creepy / Disgusting
+Nuance_EN: An adjective expressing a feeling of disgust or eeriness from something seen or heard. Includes physiological aversion or fear, not just dirtiness. Used for bugs, suspicious people, or eerie situations. A relatively casual daily expression.
+
+===word: 気落ち===
+Meaning: Discouragement
+Nuance_EN: Refers to feeling down when expectations don't work out. A word for disappointment or frustration.
+
+===word: 気触れ===
+Meaning: Rash / Skin irritation
+Nuance_EN: A skin condition caused by contact with an irritant or allergen.
+
+===word: 気触れる===
+Meaning: To get a rash
+Nuance_EN: To develop a skin irritation from contact with something.
+
+===word: 気詰まり===
+Meaning: Stifling / Awkward
+Nuance_EN: A feeling of being constrained or uncomfortable in a social situation, unable to act freely.
+
+===word: 気象===
+Meaning: Weather / Meteorology
+Nuance_EN: A general term for atmospheric conditions and phenomena like temperature, wind, and rain. While "天気" is short-term and daily, "気象" is broader and more scientific/academic.
+
+===word: 気象庁===
+Meaning: Japan Meteorological Agency
+Nuance_EN: An administrative agency under the Ministry of Land, Infrastructure, Transport and Tourism, issuing weather forecasts and earthquake/tsunami information. Frequently appears in news with "気象庁によりますと" (according to the JMA).
+
+===word: 気負い===
+Meaning: Overeagerness
+Nuance_EN: Being overly eager and determined. Can be positive, but often implies straining too hard and backfiring.
+
+===word: 気負う===
+Meaning: To be overeager
+Nuance_EN: To be overly ambitious or determined, sometimes to the point of straining.
+
+===word: 気質===
+Meaning: Temperament
+Nuance_EN: Innate personality or nature inherent to a person. Often refers to congenital traits rather than upbringing, but also includes interaction with environment.
+
+===word: 気軽な===
+Meaning: Casual / Lighthearted
+Nuance_EN: A na-adjective describing a state of being free from formality, easy to act or approach. Implies a relaxed, unpretentious atmosphere.
+
+===word: 気迫===
+Meaning: Fierce spirit
+Nuance_EN: An intense, forceful energy or determination that overwhelms others.
+
+===word: 気運===
+Meaning: Trend / Momentum
+Nuance_EN: Refers to an atmosphere or societal trend toward something happening. A natural momentum moving in a positive direction.
+
+===word: 気道===
+Meaning: Airway
+Nuance_EN: A medical term for the respiratory passage through which air travels, from the mouth and nose to the lungs. Used in medical and health contexts.

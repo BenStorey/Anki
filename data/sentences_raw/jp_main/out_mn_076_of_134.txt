@@ -1,0 +1,799 @@
+===word: 書記===
+Meaning: Secretary / Recorder
+Nuance_EN: Refers to the role or person who takes minutes in meetings or organizations; also used as a title in political parties or groups, implying clerical work.
+
+===word: 書評===
+Meaning: Book Review
+Nuance_EN: A critical evaluation or commentary on a book, often published in newspapers or magazines.
+
+===word: 書道===
+Meaning: Calligraphy
+Nuance_EN: A traditional Japanese art of writing characters with a brush, emphasizing both technical skill and spiritual concentration.
+
+===word: 書道をすると姿勢も良くなります。===
+Meaning: (Sentence: "Doing calligraphy also improves your posture.")
+Nuance_EN: This is a full sentence, not a single word; the focus is on the particle "よ" which is a literary conjunctive particle indicating that one action is immediately followed by another, equivalent to "〜するとすぐに" (as soon as).
+
+===word: 書面===
+Meaning: Document / Written form
+Nuance_EN: Refers to paper documents or written materials, used when conveying information in writing rather than orally.
+
+===word: 書面で．．．===
+Meaning: In writing / By document
+Nuance_EN: Indicates that something is done through written documents, as opposed to verbally.
+
+===word: 書類===
+Meaning: Documents / Papers
+Nuance_EN: Refers to formal papers with text or figures, commonly used in work or government procedures, such as application forms and reports.
+
+===word: 書類に不備があった===
+Meaning: (Sentence: "There was a deficiency in the documents.")
+Nuance_EN: "不備" is a business term meaning a lack of necessary conditions or standards, used when documents, equipment, plans, etc. have defects or shortages.
+
+===word: 書類の余白に補足説明を加える===
+Meaning: (Sentence: "Add supplementary explanation in the margin of the document.")
+Nuance_EN: "余白" refers to the blank space left on paper or screen, and can be used metaphorically (e.g., "a life with margin" meaning leisure).
+
+===word: 書類の枚数を数える===
+Meaning: (Sentence: "Count the number of sheets of documents.")
+Nuance_EN: "書類" refers to formal papers used in work or government procedures; this sentence is about counting them.
+
+===word: 書類はこのファイルにとじてください。===
+Meaning: (Sentence: "Please close the documents in this file.")
+Nuance_EN: "書類" refers to formal papers; the sentence is a polite request to file them.
+
+===word: 書類送検===
+Meaning: Document referral to prosecutors
+Nuance_EN: A Japanese criminal procedure where case documents are sent to the prosecutor's office without arresting the suspect; often used in news about corporate or public official cases.
+
+===word: 書館には各種の雑誌が揃っています。===
+Meaning: (Sentence: "The library has various magazines.")
+Nuance_EN: "館" (yakan) refers to a grand mansion or castle-like building; the reading "やかた" evokes a prestigious residence, while "かん" is used for functional buildings like museums.
+
+===word: 曼荼羅===
+Meaning: Mandala
+Nuance_EN: A geometric representation of the universe in esoteric Buddhism, important in Buddhist art and spiritual symbolism.
+
+===word: 曽祖父===
+Meaning: Great-grandfather
+Nuance_EN: A kinship term referring to one's grandparent's father, i.e., the grandfather three generations back.
+
+===word: 替え歌===
+Meaning: Parody song / Rewritten lyrics
+Nuance_EN: A song where the original melody is kept but lyrics are replaced, often for humor or learning; commonly enjoyed among friends but careful with copyright.
+
+===word: 替え玉===
+Meaning: Extra noodles / Substitute
+Nuance_EN: Has two meanings: extra noodles in ramen, and a substitute person (e.g., cheating on an exam), with the latter implying fraud.
+
+===word: 最たるもの===
+Meaning: The most typical example
+Nuance_EN: Refers to something that most prominently exhibits a particular quality; used in the pattern "その最たるものは〜" to give examples, with a somewhat formal tone.
+
+===word: 最も===
+Meaning: Most / The most
+Nuance_EN: An adverb expressing the highest degree among multiple items, used before adjectives or adverbs; slightly more formal than "一番".
+
+===word: 最も荒涼たる日は一日中笑わなかった日である。===
+Meaning: (Sentence: "The most desolate day was the day I didn't laugh all day.")
+Nuance_EN: The word "日" here is read as "ひ" and means "day"; the sentence is a poetic expression about desolation.
+
+===word: 最下位===
+Meaning: Lowest rank / Bottom place
+Nuance_EN: Indicates the lowest position in a ranking or competition, often used in contexts of struggle or adversity.
+
+===word: 最低条件===
+Meaning: Minimum requirement
+Nuance_EN: The lowest standard or condition that must absolutely be met to proceed with something.
+
+===word: 最優先する===
+Meaning: Prioritize highest
+Nuance_EN: To give the highest priority to something among many tasks, used in business and daily life to indicate what should be done first.
+
+===word: 最優秀選手===
+Meaning: Most Valuable Player (MVP)
+Nuance_EN: A title given to the player with the best performance in a competition, most commonly used in sports.
+
+===word: 最先端===
+Meaning: Cutting-edge / State-of-the-art
+Nuance_EN: Refers to the most advanced state in technology, academia, fashion, etc., especially common in tech fields.
+
+===word: 最初から最後までうっとりしてた。===
+Meaning: (Sentence: "I was enchanted from beginning to end.")
+Nuance_EN: "うっとり" is an adverb describing a state of being captivated by beauty or excellence, such as music, scenery, or art.
+
+===word: 最前列===
+Meaning: Front row
+Nuance_EN: The first row of seats in a venue, closest to the stage or screen, popular for events and concerts.
+
+===word: 最右翼===
+Meaning: Far right / Most likely candidate
+Nuance_EN: In politics, refers to extreme conservatives; metaphorically, it means the most promising candidate for a position, common in sports and business.
+
+===word: 最善===
+Meaning: Best / Optimal
+Nuance_EN: The best method or state; the highest possible quality or outcome.
+
+===word: 最善を尽くす===
+Meaning: Do one's utmost
+Nuance_EN: An idiomatic expression meaning to use all one's abilities to achieve the best result, used in business, sports, academics, etc.
+
+===word: 最大===
+Meaning: Maximum / Largest
+Nuance_EN: Indicates the greatest in quantity or degree, used when comparing size, numbers, or abilities.
+
+===word: 最大化===
+Meaning: Maximization
+Nuance_EN: The act of making something as large as possible, or the action of maximizing a window on a computer screen; used in business and IT.
+
+===word: 最大手===
+Meaning: Largest company / Market leader
+Nuance_EN: Refers to the company with the largest scale or sales in a specific industry, frequently used in business news.
+
+===word: 最大限===
+Meaning: Maximum extent / To the fullest
+Nuance_EN: The greatest possible limit or degree; used to express doing everything possible, common in business and daily life.
+
+===word: 最寄の駅===
+Meaning: Nearest station
+Nuance_EN: An expression meaning the closest station to one's current location or destination, frequently used in directions and meeting points.
+
+===word: 最寄り===
+Meaning: Nearest / Closest
+Nuance_EN: Refers to the nearest place or station, often used in phrases like "nearest station" or "nearest police box"; very common in daily conversation.
+
+===word: 最小限===
+Meaning: Minimum / Minimal
+Nuance_EN: The smallest necessary amount or degree; the bare minimum that cannot be reduced further, used in cost-cutting and resource conservation.
+
+===word: 最年少の===
+Meaning: Youngest
+Nuance_EN: Indicates the youngest person in a group, often used for records or titles in sports, business, etc.
+
+===word: 最強の技===
+Meaning: The strongest technique
+Nuance_EN: Refers to the most powerful skill or ability, commonly used in manga, games, and sometimes martial arts.
+
+===word: 最後まで粘り抜いてね。===
+Meaning: (Sentence: "Persevere until the end, okay?")
+Nuance_EN: "粘り" refers to stickiness and metaphorically to persistence; the sentence encourages not giving up.
+
+===word: 最後列===
+Meaning: Last row / Back row
+Nuance_EN: The row at the very back of seats or queues, used in theaters, classrooms, buses, etc.
+
+===word: 最後通牒===
+Meaning: Ultimatum
+Nuance_EN: A final demand or warning with a deadline, used in international relations or negotiations; a formal, stiff expression.
+
+===word: 最愛の===
+Meaning: Beloved / Dearest
+Nuance_EN: Expresses the utmost love or importance, mainly used for family or romantic partners, with a very emotional tone.
+
+===word: 最新式===
+Meaning: Latest model / Newest style
+Nuance_EN: Refers to the most up-to-date design, technology, or equipment, implying it is not outdated.
+
+===word: 最新版===
+Meaning: Latest version
+Nuance_EN: The most recent version of a product or software, used in contexts of updates or new releases.
+
+===word: 最期===
+Meaning: Final moments / Deathbed
+Nuance_EN: Specifically refers to the moment of death, as opposed to "最後" which is general; used in contexts of remembering the deceased.
+
+===word: 最果て===
+Meaning: Farthest end / Remote place
+Nuance_EN: A geographically distant or uncivilized frontier, with a romantic and literary nuance; also used metaphorically for loneliness or limits.
+
+===word: 最終的===
+Meaning: Final / Ultimate
+Nuance_EN: A na-adjective relating to the final stage or result, often used adverbially as "最終的に" to state conclusions; somewhat formal.
+
+===word: 最近、パソコン通信の利用者は増える一方だ===
+Meaning: (Sentence: "Recently, the number of PC communication users keeps increasing.")
+Nuance_EN: "通信" refers to exchanging information via phone, mail, etc.; the sentence uses "一方だ" to indicate a continuing trend.
+
+===word: 最近、不規則な生活をしている。===
+Meaning: (Sentence: "Recently, I have been living an irregular life.")
+Nuance_EN: "不規則" means lacking regularity or pattern, used for lifestyle, habits, or movements.
+
+===word: 最近、体調が少し不安定です。===
+Meaning: (Sentence: "Recently, my physical condition is a bit unstable.")
+Nuance_EN: "不安定" describes a state that is not stable and could change at any time, used for physical, mental, economic, or social situations.
+
+===word: 最近、息子は私の言うことなど、聞きやしない===
+Meaning: (Sentence: "Recently, my son doesn't listen to what I say at all.")
+Nuance_EN: "き" (息) means breath or the act of breathing, also a sign of life; here it's part of the word "聞きやしない" (doesn't listen).
+
+===word: 最近、教育レベルが低下しています。===
+Meaning: (Sentence: "Recently, the education level is declining.")
+Nuance_EN: "低下" means a decrease in quantity, quality, or ability; a formal expression used in various fields.
+
+===word: 最近、生活にゆとりがでてきました。===
+Meaning: (Sentence: "Recently, I have come to have some leeway in life.")
+Nuance_EN: "ゆとり" means having time, financial, or mental margin; also refers to the "yutori generation".
+
+===word: 最近、銀行の金利が少し上がった。===
+Meaning: (Sentence: "Recently, bank interest rates have risen a bit.")
+Nuance_EN: "金利" refers to the interest rate on loans or deposits, an important term in banking and finance.
+
+===word: 最近いじめが社会に蔓延っている===
+Meaning: (Sentence: "Recently, bullying is rampant in society.")
+Nuance_EN: "蔓" (vine) metaphorically refers to something spreading like a vine; the sentence uses "蔓延る" meaning to be widespread.
+
+===word: 最近のぼくは、「生き恥」「赤恥」をかくことを恐れなくなりました。===
+Meaning: (Sentence: "Recently, I have stopped fearing being shamed in life or being deeply embarrassed.")
+Nuance_EN: "赤恥" means extreme embarrassment, with "赤" emphasizing intensity; the sentence is about losing fear of shame.
+
+===word: 最近のテレビには、見るにたえないほどひどい番組がある &nbsp;===
+Meaning: (Sentence: "There are TV programs these days that are so bad they are unwatchable.")
+Nuance_EN: "番組" refers to a class or group in school, but here it means a TV program; the sentence criticizes poor quality.
+
+===word: 最近のミシンは自動で刺繍もできる===
+Meaning: (Sentence: "Recent sewing machines can even do automatic embroidery.")
+Nuance_EN: "刺繍" is the art of embroidering patterns on fabric with needle and thread, both by hand and machine.
+
+===word: 最近の子供たちは夜更かしです。===
+Meaning: (Sentence: "Children these days stay up late.")
+Nuance_EN: "夜更かし" means staying up late at night, often due to study, work, or hobbies, despite knowing it's unhealthy.
+
+===word: 最近は、肌寒くなったかと思うと、翌日には暖かくなったりする。===
+Meaning: (Sentence: "Just when you think it's gotten chilly, the next day it becomes warm.")
+Nuance_EN: "肌" refers to skin, but here "肌寒い" means slightly cold; the sentence describes unpredictable weather.
+
+===word: 最近は利己主義に走る人が増えるようだ===
+Meaning: (Sentence: "Recently, it seems more people are leaning toward selfishness.")
+Nuance_EN: "己" is a somewhat archaic self-referential pronoun; the sentence observes a trend toward egoism.
+
+===word: 最近は悪質な事件が多いですね。===
+Meaning: (Sentence: "There are many malicious incidents recently, aren't there?")
+Nuance_EN: "件" here is read as "くだり" meaning a specific passage or part of a text; but in this sentence it means "incident" (read as "けん" in "事件").
+
+===word: 最近ヨガをやる人が急増しています。===
+Meaning: (Sentence: "Recently, the number of people doing yoga is rapidly increasing.")
+Nuance_EN: "急増" means a sudden increase, often used in news and statistics.
+
+===word: 最近太って上着のボタンが嵌りません===
+Meaning: (Sentence: "I've gained weight recently and can't button my jacket.")
+Nuance_EN: "はま" (嵌る) here means "to fit" but the reading is for "目上" (superior); the sentence is about clothing not fitting.
+
+===word: 最近彼のところに行き来してないの。===
+Meaning: (Sentence: "I haven't been going back and forth to his place recently.")
+Nuance_EN: "行き来" means commuting between places or having social interaction; the sentence implies lack of recent contact.
+
+===word: 最近彼の態度が軟化してきた===
+Meaning: (Sentence: "Recently, his attitude has softened.")
+Nuance_EN: "態度" refers to one's behavior or posture toward others; the sentence describes a change to a more flexible stance.
+
+===word: 最近彼はゴルフの腕前を上げた===
+Meaning: (Sentence: "Recently, he has improved his golf skills.")
+Nuance_EN: "腕前" means skill level or proficiency in a particular field.
+
+===word: 最近忙しくて友達づきあいが等閑になっている===
+Meaning: (Sentence: "I've been so busy lately that I've neglected my friendships.")
+Nuance_EN: "等閑" (なおざり) means treating something lightly or neglecting it, a somewhat formal literary expression.
+
+===word: 最近空気が乾燥しているので肌が突っ張っている===
+Meaning: (Sentence: "Recently the air is dry, so my skin feels tight.")
+Nuance_EN: "肌" refers to skin; "突っ張る" means to feel tight or stretched.
+
+===word: 最近頻発している医療ミスの記事を読むにつけ、私も被害者になる可能性があったのではと戦慄を覚えてしまう。===
+Meaning: (Sentence: "Whenever I read articles about the frequent medical errors recently, I shudder thinking that I could have been a victim.")
+Nuance_EN: "戦" means war or battle; "戦慄" means shuddering in fear; the sentence expresses a feeling of horror.
+
+===word: 最適===
+Meaning: Optimal / Best suited
+Nuance_EN: A noun/na-adjective indicating the most suitable for a purpose, frequently used in business and technology.
+
+===word: 最適化===
+Meaning: Optimization
+Nuance_EN: The act of adjusting something to be most effective and efficient, common in technology and business.
+
+===word: 最重要===
+Meaning: Most important
+Nuance_EN: Expresses the highest importance among many, used for items that must be handled with top priority.
+
+===word: 最高峰===
+Meaning: Highest peak / Top
+Nuance_EN: Literally the highest point of a mountain; metaphorically, the best person or thing in a field, used in business and arts.
+
+===word: 最高潮===
+Meaning: Climax / Peak
+Nuance_EN: The state of highest excitement or emotion, used for the climax of events or stories.
+
+===word: 最高経営責任者===
+Meaning: Chief Executive Officer (CEO)
+Nuance_EN: The top executive responsible for corporate management, making final business decisions.
+
+===word: 最高裁判所は皇居の近くにある。===
+Meaning: (Sentence: "The Supreme Court is near the Imperial Palace.")
+Nuance_EN: "皇居" refers to the Imperial Palace in Tokyo; the sentence gives a location.
+
+===word: 月から見ると、地球はボールのように見える。===
+Meaning: (Sentence: "Seen from the moon, the earth looks like a ball.")
+Nuance_EN: "地球" is the name of our planet, often used in environmental contexts.
+
+===word: 月に一度母から便りが来ます。===
+Meaning: (Sentence: "I receive a letter from my mother once a month.")
+Nuance_EN: "便り" (たより) means news or correspondence from someone far away.
+
+===word: 月の表面にはクレーターがたくさんあるね。===
+Meaning: (Sentence: "There are many craters on the moon's surface, aren't there?")
+Nuance_EN: "表面" means surface; here it refers to the moon's surface, but the word can also mean "face" (as in Noh mask) or "aspect".
+
+===word: 月並み===
+Meaning: Commonplace / Trite
+Nuance_EN: A na-adjective describing something ordinary and lacking originality, used for ideas or expressions; slightly negative.
+
+===word: 月並みですがお幸せに===
+Meaning: (Sentence: "It's cliché, but I wish you happiness.")
+Nuance_EN: "月並み" means trite; the sentence acknowledges the cliché while offering a sincere wish.
+
+===word: 月光===
+Meaning: Moonlight
+Nuance_EN: A beautiful-sounding word for the light of the moon, often used in literature and poetry to evoke a romantic or serene night atmosphere.
+
+===word: 月刊の===
+Meaning: Monthly (publication)
+Nuance_EN: An adjective indicating that something is published once a month, used for magazines, newspapers, etc.
+
+===word: 月初め===
+Meaning: Beginning of the month
+Nuance_EN: Refers to the first few days of a month, often associated with payday, rent, goal-setting, and business reporting.
+
+===word: 月夜===
+Meaning: Moonlit night
+Nuance_EN: A night when the moon is out, describing the scenery lit by moonlight; a poetic and atmospheric term.
+
+===word: 月旅行なんてかつては途方もないことと考えられた===
+Meaning: (Sentence: "A trip to the moon was once considered absurd.")
+Nuance_EN: "途方もない" means extremely beyond common sense, used for huge amounts or unrealistic plans; can be positive or negative.
+
+===word: 月日===
+Meaning: Time / Days and months
+Nuance_EN: Refers to the passage of time or dates, used with more emotion than just "日" to express the flow of years.
+
+===word: 月経周期===
+Meaning: Menstrual cycle
+Nuance_EN: The regular cycle from the start of one period to the next, averaging about 28 days; a medical term related to health and pregnancy.
+
+===word: 月経周期は約４週間です。===
+Meaning: (Sentence: "The menstrual cycle is about four weeks.")
+Nuance_EN: "周期" means cycle; the sentence states the average length of the menstrual cycle.
+
+===word: 月給===
+Meaning: Monthly salary
+Nuance_EN: The wage paid each month; many Japanese companies adopt a monthly salary system.
+
+===word: 月給は毎月25日に支給されます。===
+Meaning: (Sentence: "The monthly salary is paid on the 25th of each month.")
+Nuance_EN: "支給" means to supply or pay, used for salaries and in-kind benefits.
+
+===word: 月見===
+Meaning: Moon viewing
+Nuance_EN: A traditional Japanese custom of enjoying the full moon in autumn, especially during the harvest moon, with decorations and offerings.
+
+===word: 月謝===
+Meaning: Monthly tuition fee
+Nuance_EN: The fee paid monthly for lessons like cram school, piano, tea ceremony, etc.; differs from school tuition and implies gratitude to the teacher.
+
+===word: 月賦===
+Meaning: Monthly installment
+Nuance_EN: A method of paying a fixed amount each month for expensive purchases, like buying on credit.
+
+===word: 月足らず===
+Meaning: Premature birth
+Nuance_EN: Refers to a baby born before the full term, i.e., a premature birth; used in everyday contexts.
+
+===word: 月面着陸===
+Meaning: Moon landing
+Nuance_EN: The landing of a spacecraft on the moon's surface, a historic milestone in space exploration.
+
+===word: 月食===
+Meaning: Lunar eclipse
+Nuance_EN: An astronomical phenomenon where the earth's shadow falls on the moon, occurring during a full moon.
+
+===word: 有する===
+Meaning: To possess / Have
+Nuance_EN: A somewhat formal expression meaning to have or possess something, often used for abstract things like knowledge, rights, or abilities.
+
+===word: 有らぬ===
+Meaning: (Not existing / Unexpected)
+Nuance_EN: A literary form meaning "not exist" or "unexpected"; used in classical expressions.
+
+===word: 有らん限り===
+Meaning: To the fullest extent / As much as possible
+Nuance_EN: A literary/archaic expression meaning "with all one's might" or "to the limit of what exists."
+
+===word: 有りっ丈===
+Meaning: All one has / To the fullest
+Nuance_EN: Means everything one possesses, such as strength, courage, or money; used in casual, emotional contexts like "shout at the top of one's lungs."
+
+===word: 有り体に言えば===
+Meaning: Frankly speaking
+Nuance_EN: An expression used to introduce a candid statement; the reading is "い" for "言えば".
+
+===word: 有り余る===
+Meaning: To be in excess / Abound
+Nuance_EN: Means to have more than enough, to be abundant.
+
+===word: 有り勝ち===
+Meaning: Prone to / Often occurs
+Nuance_EN: Indicates that something tends to happen or is common; used to describe a frequent state.
+
+===word: 有り合わせ===
+Meaning: Things on hand / Improvised
+Nuance_EN: Refers to items available without special preparation, like food in the fridge; used in "make do with what's on hand."
+
+===word: 有り合わせで夕食を済ませました===
+Meaning: (Sentence: "I finished dinner with whatever was on hand.")
+Nuance_EN: "有り合わせ" means things available at the moment; the sentence describes a makeshift meal.
+
+===word: 有り気===
+Meaning: Seeming to have / -like
+Nuance_EN: A suffix-like expression meaning "appears to have" (e.g., "意味深長ありげ" meaning "looks meaningful").
+
+===word: 有り金===
+Meaning: One's money on hand
+Nuance_EN: Refers to the money one currently possesses; used in various contexts from daily conversation to writing.
+
+===word: 有り難い===
+Meaning: Grateful / Appreciated
+Nuance_EN: An expression of gratitude; the origin of "ありがとう," meaning "thankful."
+
+===word: 有り難いことに。。===
+Meaning: (Sentence: "Fortunately, ...")
+Nuance_EN: Used to express gratitude about a situation; the dot dot indicates continuation.
+
+===word: 有り難がる===
+Meaning: To be grateful (from third-person perspective)
+Nuance_EN: A verb form that describes someone else's feeling of gratitude, using the "-garu" suffix.
+
+===word: 有事===
+Meaning: Emergency / Crisis
+Nuance_EN: Refers to urgent situations like war or large-scale disasters, often used in legal and news contexts.
+
+===word: 有価証券===
+Meaning: Securities
+Nuance_EN: A general term for stocks, bonds, etc., that have financial value; used in investment and finance.
+
+===word: 有償===
+Meaning: Paid / With compensation
+Nuance_EN: The opposite of "無償" (free); indicates that payment or compensation is involved, common in business and software.
+
+===word: 有利化===
+Meaning: Making advantageous
+Nuance_EN: Changing a situation or position to one's advantage, often used in business or negotiation.
+
+===word: 有利（な）===
+Meaning: Advantageous / Favorable
+Nuance_EN: Indicates better conditions compared to others, used in business, sports, negotiations, etc.
+
+===word: 有刺鉄線 /&nbsp;荊棘線===
+Meaning: Barbed wire
+Nuance_EN: "棘" means thorn; the word describes wire with sharp points, also used metaphorically for sharp words.
+
+===word: 有力===
+Meaning: Influential / Powerful
+Nuance_EN: Indicates strong influence or power, used for politicians, evidence, candidates, etc.
+
+===word: 有効===
+Meaning: Effective / Valid
+Nuance_EN: Means having effect or being legally valid; a practical word used in many contexts.
+
+===word: 有効化===
+Meaning: Activation / Enablement
+Nuance_EN: The act of making something usable, such as a function or setting; common in IT and systems.
+
+===word: 有効期限===
+Meaning: Expiration date
+Nuance_EN: The period during which something is valid, used for credit cards, passports, coupons, medicines, etc.
+
+===word: 有史以来===
+Meaning: Since recorded history
+Nuance_EN: An expression meaning from the beginning of written history to the present, used for dramatic comparisons like "the biggest in recorded history."
+
+===word: 有名なバンドが来日していますね。===
+Meaning: (Sentence: "A famous band is visiting Japan, isn't it?")
+Nuance_EN: "来日" means coming to Japan, used for foreigners, cultures, or products.
+
+===word: 有名な婦人服店専属のデザイナー===
+Meaning: (Sentence: "A designer exclusive to a famous women's clothing store.")
+Nuance_EN: "専属" means exclusive contract; the designer works only for that store.
+
+===word: 有名な物理学者であることに加えて、彼は偉大な小説家でもある。===
+Meaning: (Sentence: "In addition to being a famous physicist, he is also a great novelist.")
+Nuance_EN: "学者" means scholar; the sentence highlights dual expertise.
+
+===word: 有名な観光地の近くまで行ったのに、忙しくてどこへもよらずじまいだった===
+Meaning: (Sentence: "I went as far as a famous tourist spot, but I was too busy and ended up not going anywhere.")
+Nuance_EN: "観光" means sightseeing; the sentence expresses regret about not visiting due to busyness.
+
+===word: 有名無実===
+Meaning: Famous in name only
+Nuance_EN: A yojijukugo meaning that the name is widely known but the actual substance or ability does not match.
+
+===word: 有志===
+Meaning: Volunteers / Interested parties
+Nuance_EN: People who voluntarily wish to participate in a purpose or activity, often used in fundraising, volunteer work, or community activities.
+
+===word: 有意義===
+Meaning: Meaningful / Significant
+Nuance_EN: A na-adjective indicating that something has value and is not wasteful, used for time, experiences, or activities.
+
+===word: 有意義に過ごしてください===
+Meaning: (Sentence: "Please spend your time meaningfully.")
+Nuance_EN: "有意義" means meaningful; the sentence is a polite wish.
+
+===word: 有料===
+Meaning: Fee-based / Paid
+Nuance_EN: Indicates that a charge is required for use or entry; the opposite of "無料," often used in signs and compound words.
+
+===word: 有明===
+Meaning: Dawn / Daybreak
+Nuance_EN: A poetic term for early morning when the sky brightens, particularly when the moon is still visible; used in literature and place names.
+
+===word: 有望(な)===
+Meaning: Promising / Hopeful
+Nuance_EN: A na-adjective describing something with good future prospects, used for young talents or new businesses.
+
+===word: 有望株===
+Meaning: Promising stock / Blue chip
+Nuance_EN: Stocks expected to rise in value; also metaphorically used for promising people.
+
+===word: 有期===
+Meaning: Fixed term / Limited period
+Nuance_EN: Means that a period is set, often used in legal terms like "fixed-term sentence" or "fixed-term contract."
+
+===word: 有様===
+Meaning: State / Condition (often negative)
+Nuance_EN: Refers to the state of affairs, often undesirable; has a somewhat archaic nuance and is used with emotion.
+
+===word: 有権者===
+Meaning: Voter / Electorate
+Nuance_EN: A person who has the right to vote in elections; in Japan, citizens aged 18 and above.
+
+===word: 有機===
+Meaning: Organic
+Nuance_EN: Relates to organic compounds or organic farming without chemicals; also implies interconnectedness.
+
+===word: 有機の===
+Meaning: Organic (attributive)
+Nuance_EN: The form "有機の" is used for "organic vegetables", "organic fertilizer", etc., indicating natural farming methods.
+
+===word: 有機肥料===
+Meaning: Organic fertilizer
+Nuance_EN: Fertilizer made from animal or plant materials, which improves soil health over time; favored in organic farming.
+
+===word: 有機農業===
+Meaning: Organic farming
+Nuance_EN: Agriculture that avoids chemical fertilizers and pesticides, using natural cycles; noted for environmental friendliness.
+
+===word: 有段者===
+Meaning: Black belt holder / Ranked practitioner
+Nuance_EN: A person who has attained a dan rank in martial arts, go, or shogi; distinguished from beginners, implying respect.
+
+===word: 有毒===
+Meaning: Poisonous / Toxic
+Nuance_EN: Indicates that something contains poison and is harmful to the body; used for chemicals, organisms, or food.
+
+===word: 有為===
+Meaning: Capable / Promising (talent)
+Nuance_EN: A na-adjective describing a person with high ability and future potential, used in formal contexts to praise someone's qualities.
+
+===word: 有無===
+Meaning: Existence or non-existence
+Nuance_EN: A noun meaning presence or absence, often used in set phrases like "確認有無" or "有無を言わせず" (without allowing objection).
+
+===word: 有用===
+Meaning: Useful / Valuable
+Nuance_EN: Indicates that something is helpful or has practical value, used in formal business or academic contexts.
+
+===word: 有用（な）===
+Meaning: Useful (na-adjective)
+Nuance_EN: Same as above; a formal expression for practical utility.
+
+===word: 有益===
+Meaning: Beneficial / Profitable
+Nuance_EN: A na-adjective meaning full of benefit or usefulness, common in business and learning contexts.
+
+===word: 有給===
+Meaning: Paid leave
+Nuance_EN: Short for "有給休暇" (paid vacation), a worker's right to take time off with pay, legally regulated in Japan.
+
+===word: 有線===
+Meaning: Wired (cable)
+Nuance_EN: A method of communication or connection using physical cables, as opposed to wireless; used for headphones, internet, etc.
+
+===word: 有罪判決===
+Meaning: Guilty verdict
+Nuance_EN: A court judgment finding the defendant guilty of a crime; a legal term often used in news.
+
+===word: 有能===
+Meaning: Competent / Able
+Nuance_EN: A na-adjective indicating high ability and reliability in work or roles; a positive evaluation of a person.
+
+===word: 有能な連邦捜査局員はちゅうちょすることなく、自分の義務を実行する。===
+Meaning: (Sentence: "A capable FBI agent carries out his duty without hesitation.")
+Nuance_EN: "連邦" means federal (e.g., the United States); the sentence describes a competent agent.
+
+===word: 有識者===
+Meaning: Expert / Intellectual
+Nuance_EN: A person with specialized knowledge in a field, often a commentator in meetings or media.
+
+===word: 有象無象===
+Meaning: Rabble / Motley crowd
+Nuance_EN: A derogatory term for a disorganized, worthless group of people; implies contempt.
+
+===word: 有酸素運動===
+Meaning: Aerobic exercise
+Nuance_EN: Exercise that consumes oxygen over a long period, like running or swimming, effective for fat burning and cardiovascular health.
+
+===word: 有限===
+Meaning: Finite / Limited
+Nuance_EN: Indicates that there is a limit, not infinite; used for time, resources, lifespan, etc.
+
+===word: 有限実行===
+Meaning: Practice what you preach
+Nuance_EN: An expression meaning to carry out what one says; similar to "有言実行" (follow through on words).
+
+===word: 有難み===
+Meaning: Value / Appreciation
+Nuance_EN: A noun expressing the feeling of gratitude or realization of worth, e.g., "the value of health."
+
+===word: 有頂天===
+Meaning: Elation / Ecstasy
+Nuance_EN: Originally a Buddhist term for the highest state, now means being so overjoyed that one loses composure; used in "有頂天になる."
+
+===word: 服が雨でびしょびしょになったよ。===
+Meaning: (Sentence: "My clothes got soaking wet from the rain.")
+Nuance_EN: "びしょびしょ" is an onomatopoeia for being completely soaked, emphasizing strong wetness.
+
+===word: 服に墨がついちゃった。===
+Meaning: (Sentence: "I got ink on my clothes.")
+Nuance_EN: "墨" means ink (sumi); the sentence expresses accidental staining.
+
+===word: 服を買うのにあれこれ迷いました。===
+Meaning: (Sentence: "I deliberated over various things when buying clothes.")
+Nuance_EN: "あれこれ" means "this and that" or "various things," a casual expression used in spoken language.
+
+===word: 服務===
+Meaning: Service (duty) / Work discipline
+Nuance_EN: A formal term for work-related rules and attitude, often used in "服務規定" (service regulations) for civil servants or employees.
+
+===word: 服従===
+Meaning: Obedience / Submission
+Nuance_EN: The act of following orders or instructions, even bending one's own will; used in hierarchical or training contexts.
+
+===word: 服用する===
+Meaning: To take (medicine)
+Nuance_EN: A somewhat formal expression for ingesting medication, commonly used by doctors or pharmacists.
+
+===word: 服装===
+Meaning: Attire / Clothing style
+Nuance_EN: Refers to the overall appearance of clothing, more formal than just "服," used for dress codes and occasions.
+
+===word: 服飾===
+Meaning: Apparel / Fashion accessories
+Nuance_EN: A specialized term for clothing and ornaments, used in the fashion industry or academic contexts.
+
+===word: 朗らか===
+Meaning: Cheerful / Bright
+Nuance_EN: Describes a person's cheerful personality or clear weather; used for smiles and sunny skies.
+
+===word: 朗らか（な）===
+Meaning: Cheerful (na-adjective)
+Nuance_EN: Describes clear weather or a bright, pleasant personality, e.g., "a cheerful smile" or "clear autumn sky."
+
+===word: 朗唱===
+Meaning: Recitation / Reading aloud
+Nuance_EN: A noun/verb meaning to read poetry or text aloud with emotion, more formal than "朗読."
+
+===word: 朗報===
+Meaning: Good news
+Nuance_EN: A word for happy news or positive information, often used in formal contexts.
+
+===word: 朗読===
+Meaning: Reading aloud / Recitation
+Nuance_EN: The act of reading text aloud expressively, often for an audience; used in literary events and volunteer activities.
+
+===word: 望ましい===
+Meaning: Desirable / Ideal
+Nuance_EN: An adjective describing an ideal state or outcome, with a somewhat formal tone.
+
+===word: 望み薄===
+Meaning: Little hope / Unlikely
+Nuance_EN: Indicates that the possibility of success or realization is very low, used in situations like recovery or exam results.
+
+===word: 望む===
+Meaning: To wish / To hope for
+Nuance_EN: A verb meaning to earnestly desire something, more formal than "欲しい," and can be used for unattainable things.
+
+===word: 望外===
+Meaning: Beyond expectations
+Nuance_EN: (No nuance given; the word means "unexpected" or "beyond one's hopes.")
+
+===word: 望遠鏡===
+Meaning: Telescope
+Nuance_EN: An instrument for viewing distant objects, used in astronomy.
+
+===word: 望郷の念===
+Meaning: Nostalgia for home
+Nuance_EN: A formal expression for longing for one's distant hometown, used in letters and literature.
+
+===word: 朝から悪寒がする===
+Meaning: (Sentence: "I've been feeling chills since morning.")
+Nuance_EN: "悪寒" means a shuddering chill, often a precursor to fever; also used metaphorically for fear.
+
+===word: 朝が弱いようではこの仕事は無理でしょう。===
+Meaning: (Sentence: "If you're not a morning person, this job is probably impossible.")
+Nuance_EN: "無理" means impossible; the sentence implies the job requires early rising.
+
+===word: 朝の礼拝は賛美歌ではじまった。===
+Meaning: (Sentence: "The morning service began with a hymn.")
+Nuance_EN: "賛美歌" is a Christian hymn sung in worship, often accompanied by organ.
+
+===word: 朝は雀の声で目が覚めます。===
+Meaning: (Sentence: "I wake up to the sound of sparrows in the morning.")
+Nuance_EN: "雀" refers to the common sparrow, a familiar bird in Japan known for its chirping.
+
+===word: 朝会===
+Meaning: Morning assembly / Meeting
+Nuance_EN: A short meeting or gathering held in the morning at schools or workplaces.
+
+===word: 朝寝坊===
+Meaning: Sleeping in / Oversleeping
+Nuance_EN: (No nuance given; the word means to sleep late in the morning.)
+
+===word: 朝市===
+Meaning: Morning market
+Nuance_EN: A market held early in the morning, often selling fresh produce and seafood; popular at tourist spots.
+
+===word: 朝日===
+Meaning: Morning sun
+Nuance_EN: The light of the rising sun, associated with freshness and hope; also used in proper names like "Asahi Shimbun."
+
+===word: 朝早く砂浜を散歩しました。===
+Meaning: (Sentence: "I took a walk on the sandy beach early in the morning.")
+Nuance_EN: "砂浜" means sandy beach; the sentence describes a morning walk.
+
+===word: 朝活===
+Meaning: Morning activity
+Nuance_EN: A relatively new term for using early morning time productively before work or school, such as reading, exercise, or hobbies.
+
+===word: 朝礼===
+Meaning: Morning assembly / Briefing
+Nuance_EN: A morning meeting at school or work to share information and set the tone for the day.
+
+===word: 朝立ち===
+Meaning: Morning erection
+Nuance_EN: A colloquial term for a physiological phenomenon in men upon waking; also has another meaning (early departure), but here it refers to the physical condition.
+
+===word: 朝練===
+Meaning: Morning practice
+Nuance_EN: Short for "morning practice," common in school club activities before classes start.
+
+===word: 朝食に食パンを2枚食べました。===
+Meaning: (Sentence: "I ate two slices of bread for breakfast.")
+Nuance_EN: "食パン" is a square loaf of white bread commonly eaten in Japan, often toasted.
+
+===word: 朝飯前===
+Meaning: A piece of cake / Easy
+Nuance_EN: An idiom meaning something so easy it can be done before breakfast; casual and slightly old-fashioned.
+
+===word: 期せずして===
+Meaning: Unintentionally / Coincidentally
+Nuance_EN: Means something happens unexpectedly or by coincidence, often when multiple people have the same thought or action simultaneously.
+
+===word: 期待===
+Meaning: Expectation / Hope
+Nuance_EN: A feeling of looking forward to a desired outcome, implying positive anticipation.
+
+===word: 期待が大きいとそれだけ失望も大きくなってしまう。===
+Meaning: (Sentence: "The greater the expectation, the greater the disappointment.")
+Nuance_EN: "期待" means expectation; the sentence is a proverb-like statement.
+
+===word: 期待を寄せる===
+Meaning: To place hopes in
+Nuance_EN: An idiomatic expression meaning to have expectations or hopes for someone or something, often used by superiors for subordinates.

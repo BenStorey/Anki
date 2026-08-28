@@ -1,0 +1,799 @@
+===word: 手直し===
+Meaning: Touch-up / Revision
+Nuance_EN: Refers to making minor adjustments or corrections to fix imperfections, not major overhauls. Used for texts, products, designs, etc.
+
+===word: 手短===
+Meaning: Brief / Concise
+Nuance_EN: Describes something short in time or length, emphasizing conciseness and simplicity.
+
+===word: 手立て===
+Meaning: Means / Method
+Nuance_EN: Refers to a method or measure to solve a problem. Used in formal or problem-solving contexts.
+
+===word: 同封===
+Meaning: Enclosed
+Nuance_EN: Indicates that something is included inside an envelope or package, like a photo in a letter.
+
+===word: 宛名===
+Meaning: Address / Addressee
+Nuance_EN: The name and address written on the front of a letter or package for delivery.
+
+===word: 封===
+Meaning: Seal
+Nuance_EN: The act or stamp of closing a letter or package to prevent opening.
+
+===word: 手続き===
+Meaning: Procedure / Formalities
+Nuance_EN: Refers to the official steps or processes required to do something, often used for paperwork at offices or companies.
+
+===word: 手綱===
+Meaning: Reins
+Nuance_EN: Literally the leather strap for controlling a horse. Figuratively used in expressions like "手綱を握る" (to control) or "手綱を緩める" (to loosen discipline).
+
+===word: 手編み===
+Meaning: Hand-knitted
+Nuance_EN: Refers to items knitted by hand, emphasizing warmth and handmade quality.
+
+===word: 手練===
+Meaning: Skill / Mastery
+Nuance_EN: A somewhat archaic term for highly advanced skill or dexterity, often in martial arts, arts, or craftsmanship. Also "手練れ" means a skilled veteran.
+
+===word: 手練れ===
+Meaning: Veteran / Skilled Person
+Nuance_EN: Refers to an experienced and skilled person, derived from "手練" (mastery).
+
+===word: 手織り===
+Meaning: Handwoven
+Nuance_EN: Fabric woven by hand, not machine, known for its warmth and unique texture. Used for high-end scarves or rugs.
+
+===word: 手繰る===
+Meaning: To Pull / To Trace
+Nuance_EN: A verb meaning to pull a rope or thread by hand. Figuratively used in "記憶を手繰る" (to trace memories) or "話を手繰る" (to draw out a story). Slightly literary, implying careful or deliberate action.
+
+===word: 手腕===
+Meaning: Ability / Skill
+Nuance_EN: Refers to one's capability to handle matters or lead people, especially in leadership, negotiation, or interpersonal skills.
+
+===word: 手芸===
+Meaning: Handicraft
+Nuance_EN: The skill or hobby of making decorative or practical items by hand, such as knitting, embroidery, or patchwork.
+
+===word: 手荒===
+Meaning: Rough / Brusque
+Nuance_EN: A na-adjective or noun describing behavior or actions as violent or crude, used in phrases like "手荒な真似" (rough treatment).
+
+===word: 手落ち===
+Meaning: Oversight / Negligence
+Nuance_EN: A mistake or failure due to not doing what should have been done, often used in apologies for a responsible person's oversight.
+
+===word: 手蔓===
+Meaning: Connection / Contact
+Nuance_EN: Refers to a reliable contact or network for achieving a goal, such as job hunting or business. A more formal version of "伝手" (tsute).
+
+===word: 手薄===
+Meaning: Understaffed / Insufficient
+Nuance_EN: Describes a state where personnel or resources are lacking and not adequately provided. Used in formal business or operational contexts.
+
+===word: 手術===
+Meaning: Surgery / Operation
+Nuance_EN: Refers to a medical operation. The character "術" implies a systematic technique or skill, broader than just surgery.
+
+===word: 治る===
+Meaning: To Heal / To Be Cured
+Nuance_EN: Indicates recovery from illness or injury without surgery, emphasizing natural healing.
+
+===word: 移転===
+Meaning: Relocation / Transfer
+Nuance_EN: Refers to moving a location or office elsewhere. In medical contexts, it can also mean metastasis of cancer.
+
+===word: 順調===
+Meaning: Smooth / Favorable
+Nuance_EN: Describes progress that is going well without problems, often used for recovery or project status.
+
+===word: 手裏剣===
+Meaning: Shuriken
+Nuance_EN: A ninja weapon used as a throwing projectile, with various shapes like stars or crosses.
+
+===word: 手記===
+Meaning: Memoir / Notes
+Nuance_EN: A written record of personal experiences or thoughts, used in both casual and formal contexts.
+
+===word: 手詰まり===
+Meaning: Stalemate / Deadlock
+Nuance_EN: Derived from shogi, meaning a state where all moves are exhausted and progress is impossible. Used metaphorically for any stuck situation.
+
+===word: 手話===
+Meaning: Sign Language
+Nuance_EN: A visual language using hand shapes, movements, and facial expressions to communicate, primarily for the deaf community.
+
+===word: 手負い===
+Meaning: Wounded / Injured
+Nuance_EN: Refers to being injured in battle or accidents, used for animals or warriors. Somewhat archaic.
+
+===word: 手足===
+Meaning: Limbs
+Nuance_EN: Collective term for hands and feet. Figuratively, it can mean "a person who is under one's control" (as in a subordinate).
+
+===word: 手軽===
+Meaning: Simple / Easy
+Nuance_EN: Describes something that is easy and doesn't require much time or effort, convenient and casual.
+
+===word: 教える===
+Meaning: To Teach / To Inform
+Nuance_EN: A basic verb meaning to give instructions or information, used in contexts like teaching recipes.
+
+===word: 手近===
+Meaning: Nearby / Handy
+Nuance_EN: Refers to something close at hand or easily accessible.
+
+===word: 手違い===
+Meaning: Mistake / Error
+Nuance_EN: An unexpected mistake in a process or procedure, often due to human oversight or communication issues.
+
+===word: 手配===
+Meaning: Arrangement / Coordination
+Nuance_EN: Refers to making preparations or contacting ahead for events, travel, or business.
+
+===word: 手配書===
+Meaning: Wanted Poster
+Nuance_EN: A document with photos and descriptions of a wanted person, used by police or investigative agencies.
+
+===word: 手錠===
+Meaning: Handcuffs
+Nuance_EN: Metal restraints used to immobilize criminals' wrists. Figuratively, it symbolizes bondage.
+
+===word: 手間===
+Meaning: Time / Effort
+Nuance_EN: Refers to the time and labor required for a task, often implying trouble or difficulty.
+
+===word: 省ける===
+Meaning: To Be Saved / Omitted
+Nuance_EN: The potential form of "省く" (to omit), used in "手間が省ける" meaning to avoid extra effort or time. Common in casual conversation about efficiency.
+
+===word: 手間取る===
+Meaning: To Take Time / To Be Delayed
+Nuance_EN: Implies that a task takes longer than expected or struggles to progress, emphasizing difficulty rather than just slowness.
+
+===word: 手間賃===
+Meaning: Labor Cost / Fee for Work
+Nuance_EN: Payment for the time and effort spent on a task, often in informal or manual work contexts.
+
+===word: 手際よく===
+Meaning: Skillfully / Efficiently
+Nuance_EN: An adverb describing smooth, efficient, and neat execution of a task, often used for manual work or problem-solving. Positive and complimentary.
+
+===word: 手離れ===
+Meaning: Independence / Letting Go
+Nuance_EN: Refers to a child becoming independent from parents, or withdrawing from a hobby or job.
+
+===word: 手頃===
+Meaning: Handy / Reasonable
+Nuance_EN: Describes something that is a good fit in size, price, or difficulty, with a positive connotation of being manageable and suitable.
+
+===word: 手順===
+Meaning: Procedure / Steps
+Nuance_EN: Refers to the order or sequence of doing something, used in both formal and casual contexts like "手順を踏む" (follow procedure).
+
+===word: 手風琴===
+Meaning: Accordion / Harmonica
+Nuance_EN: An old-fashioned Japanese word for accordion or harmonica, rarely used in modern speech except in literature or period pieces.
+
+===word: 手首===
+Meaning: Wrist
+Nuance_EN: The joint between the hand and forearm, where watches or bracelets are worn.
+
+===word: 関節===
+Meaning: Joint
+Nuance_EN: Refers to the articulation point between bones, such as the wrist joint.
+
+===word: 手駒===
+Meaning: Subordinate / Resource
+Nuance_EN: A metaphorical term from shogi, meaning people or resources under one's control. Used in business or organizational contexts.
+
+===word: 才女===
+Meaning: Talented Woman / Prodigy
+Nuance_EN: Refers to a woman with excellent abilities in academics or arts. Somewhat old-fashioned but still used as a compliment.
+
+===word: 才気===
+Meaning: Wit / Intelligence
+Nuance_EN: Refers to superior intellect and quick judgment, often implying sharpness or cleverness.
+
+===word: 才知===
+Meaning: Wisdom / Intellect
+Nuance_EN: The ability to quickly understand and accurately judge situations, emphasizing practical wisdom rather than mere knowledge. Used in written, formal language.
+
+===word: 摘む===
+Meaning: To Pluck / To Pinch
+Nuance_EN: A verb for plucking or pinching something off, used literally for plants or figuratively in "才能の芽を摘む" (to stifle potential).
+
+===word: 才色兼備===
+Meaning: Talented and Beautiful
+Nuance_EN: A four-character idiom meaning having both talent and beauty, used primarily for women. Very complimentary, used in formal speeches or introductions.
+
+===word: 才覚===
+Meaning: Resourcefulness / Initiative
+Nuance_EN: The ability to quickly assess situations and handle things with practical wisdom. Also used as "才覚する" to mean managing or procuring something oneself.
+
+===word: 打ちのめす===
+Meaning: To Batter / To Defeat Spiritually
+Nuance_EN: Literally to beat down violently. Figuratively, it means to deal a severe emotional blow, causing deep discouragement.
+
+===word: 打ち上げる===
+Meaning: To Launch / To Shoot Up
+Nuance_EN: To propel something upward forcefully, used for rockets, fireworks, or metaphorically.
+
+===word: 打ち上げる again===
+Meaning: To Launch / To Shoot Up
+Nuance_EN: Same as above; to propel something upward forcefully.
+
+===word: 打ち出す===
+Meaning: To Proclaim / To Put Forward
+Nuance_EN: Means to officially announce or propose new policies or plans, with a connotation of assertive expression. Used in business or political contexts.
+
+===word: 打ち切る===
+Meaning: To Cut Off / To Discontinue
+Nuance_EN: To stop something abruptly, like negotiations or a series.
+
+===word: 打ち割る===
+Meaning: To Break by Hitting
+Nuance_EN: To smash or crack something by striking it.
+
+===word: 打ち勝つ===
+Meaning: To Overcome / To Defeat
+Nuance_EN: To conquer difficulties, temptations, or enemies through effort and perseverance. Positive and determined.
+
+===word: 打ち合わせ===
+Meaning: Meeting / Discussion
+Nuance_EN: A pre-arranged meeting to discuss plans and procedures, common in business and event preparation. Very everyday term.
+
+===word: 打ち合わせる===
+Meaning: To Coordinate / To Discuss
+Nuance_EN: To talk things over in advance to confirm plans. Highly frequent in work contexts as a verb form of "打ち合わせ".
+
+===word: 打ち噛ます===
+Meaning: To Slap Hard
+Nuance_EN: To strike hard, originating from sumo's face-slapping gesture. Has a rough, aggressive nuance.
+
+===word: 打ち寄せる===
+Meaning: To Wash Ashore / To Surging
+Nuance_EN: Describes waves hitting the shore forcefully, or figuratively, people or things surging in.
+
+===word: 打ち払う===
+Meaning: To Brush Off / To Sweep Away
+Nuance_EN: To remove something by striking or brushing, physically or metaphorically.
+
+===word: 打ち拉ぐ===
+Meaning: To Crush / To Overwhelm
+Nuance_EN: A literary verb meaning to beat severely or smash, both physically and mentally. Often used metaphorically for crushing one's spirit.
+
+===word: 打ち据える===
+Meaning: To Strike Hard / To Fix Firmly
+Nuance_EN: To hit or fix something with great force, or metaphorically to defeat someone in argument. Slightly archaic or literary.
+
+===word: 打ち明ける===
+Meaning: To Confide / To Open Up
+Nuance_EN: To honestly reveal hidden or difficult matters to someone, based on trust. Implies emotional burden and risk, unlike just "talking."
+
+===word: 打ち明ける again===
+Meaning: To Confide / To Open Up
+Nuance_EN: Same as above; to honestly reveal secrets or feelings.
+
+===word: 打ち止め===
+Meaning: Last Performance / End
+Nuance_EN: Originally from theater, meaning the final show. Now used broadly for the end or termination of an event or series.
+
+===word: 打ち止める===
+Meaning: To Nail / To Kill
+Nuance_EN: Has two meanings: to fix something by driving nails, or to kill with a sword or gun. Context-dependent.
+
+===word: 打ち消し===
+Meaning: Denial / Negation
+Nuance_EN: Refers to denying or nullifying something. In grammar, it means negation; in daily use, it's used for correcting misinformation.
+
+===word: 打ち砕く===
+Meaning: To Smash / To Shatter
+Nuance_EN: To physically break something into pieces by force, or metaphorically to completely destroy dreams or plans.
+
+===word: 打ち萎れる===
+Meaning: To Be Dejected / To Wilt
+Nuance_EN: To lose spirit and become depressed due to sad events or shock. Visually evocative, like a plant wilting. Somewhat literary.
+
+===word: 打ち解ける===
+Meaning: To Open Up / To Become Friendly
+Nuance_EN: To relax and become intimate after initial formality, symbolizing the gradual progression in Japanese communication.
+
+===word: 打ち負かす===
+Meaning: To Defeat / To Overwhelm
+Nuance_EN: To completely conquer an opponent in a competition or battle, implying overwhelming victory.
+
+===word: 打ち込む===
+Meaning: To Devote / To Type / To Drive In
+Nuance_EN: A polysemous verb with core image of "inserting forcefully inward". Common meanings: to immerse oneself in an activity, to drive in a nail, to input data, or to shoot a ball.
+
+===word: 打ち震える===
+Meaning: To Tremble Violently
+Nuance_EN: Describes intense shivering from fear, emotion, or cold. The prefix "打ち" emphasizes strength, making it stronger than just "震える".
+
+===word: 打って付けの===
+Meaning: Ideal / Perfect
+Nuance_EN: Means perfectly suited or ideal for a particular purpose, used in both casual and formal contexts.
+
+===word: 打って変わる===
+Meaning: To Change Completely
+Nuance_EN: Describes a sudden and total transformation from one state to another.
+
+===word: 打つ===
+Meaning: To Hit / To Strike
+Nuance_EN: A basic verb for hitting or striking with hands or tools. Has broad uses, from baseball to typing to taking measures ("手を打つ").
+
+===word: 打つ手===
+Meaning: Measure / Course of Action
+Nuance_EN: Refers to methods or means to solve a problem, especially in difficult situations.
+
+===word: 打ん殴る===
+Meaning: To Punch Hard
+Nuance_EN: A vulgar emphasis of "殴る" (to punch), meaning to hit with full force. Used in casual speech, manga, or drama, not in formal writing.
+
+===word: 打倒===
+Meaning: Overthrow / Defeat
+Nuance_EN: The act of defeating or overthrowing an opponent, used in sports, elections, or competitions.
+
+===word: 打撃===
+Meaning: Blow / Shock
+Nuance_EN: Refers to physical striking or mental/economic damage, used broadly from sports to economics.
+
+===word: 打撲===
+Meaning: Contusion / Bruise
+Nuance_EN: Subcutaneous tissue damage from impact, a medical term for a bruise.
+
+===word: 打擲===
+Meaning: Beating / Flogging
+Nuance_EN: An archaic term for violent beating or punishment, not used in modern daily conversation, only in historical contexts.
+
+===word: 打楽器===
+Meaning: Percussion Instrument
+Nuance_EN: Musical instruments like drums and cymbals that produce sound by being struck. Important in orchestras and bands.
+
+===word: 打率===
+Meaning: Batting Average
+Nuance_EN: In baseball, the ratio of hits to at-bats, a key performance metric for batters.
+
+===word: 打算===
+Meaning: Calculation / Self-interest
+Nuance_EN: Acting based on profit-loss calculations, often with a negative connotation of being calculating or selfish.
+
+===word: 打算的===
+Meaning: Calculating / Self-serving
+Nuance_EN: Describes a person who prioritizes personal gain over emotions, with a negative, cold impression.
+
+===word: 打者===
+Meaning: Batter / Hitter
+Nuance_EN: The player in the batter's box in baseball or softball, a standard sports term.
+
+===word: 打診===
+Meaning: Sounding Out / Percussion
+Nuance_EN: Originally from medical percussion (tapping the body). In business, it means to subtly gauge someone's intentions or reactions.
+
+===word: 打開===
+Meaning: Breakthrough / Resolution
+Nuance_EN: To break through a deadlock or stalemate and improve the situation. Positive, formal term used in "打開策".
+
+===word: 打開策===
+Meaning: Breakthrough Strategy / Solution
+Nuance_EN: A method or plan to overcome a difficult situation, common in business and negotiation.
+
+===word: 払い戻す===
+Meaning: To Refund
+Nuance_EN: To return money, used for product returns or ticket cancellations.
+
+===word: 払い込む===
+Meaning: To Pay In / To Deposit
+Nuance_EN: To pay fees or money into a designated account, often with procedural steps. Somewhat formal.
+
+===word: 払い除ける===
+Meaning: To Brush Off / To Shake Off
+Nuance_EN: To remove obstacles by brushing or sweeping, physically or metaphorically (e.g., "誘惑を払い除ける"). Somewhat stiff.
+
+===word: 払底===
+Meaning: Shortage / Depletion
+Nuance_EN: A noun describing a state of deficiency in resources or supplies. Harder and more formal than "不足", used in news or reports.
+
+===word: 払拭===
+Meaning: To Dispel / To Erase
+Nuance_EN: A formal verb meaning to completely remove doubts, anxieties, or misconceptions. Used in business and media contexts.
+
+===word: 払暁===
+Meaning: Dawn
+Nuance_EN: The time just before sunrise, a poetic or formal term.
+
+===word: 托する===
+Meaning: To Entrust
+Nuance_EN: A slightly stiff verb meaning to entrust something to someone, used in written or formal contexts. Also written as "託する".
+
+===word: 扨置き===
+Meaning: Putting Aside / Anyway
+Nuance_EN: A conjunctive expression meaning "setting that aside," used to change topics. Somewhat old-fashioned but still used as "さておき".
+
+===word: 扮する===
+Meaning: To Disguise / To Play the Role
+Nuance_EN: To dress up as someone or play a role, used in theater or metaphorically.
+
+===word: 扱う===
+Meaning: To Handle / To Treat
+Nuance_EN: A versatile verb meaning to operate, process, or deal with things or people. Used for handling products, topics, or customers.
+
+===word: 扱き===
+Meaning: Hazing / Discipline
+Nuance_EN: Strict training or hazing, especially in hierarchical relationships.
+
+===word: 扱く===
+Meaning: To Strip / To Drill
+Nuance_EN: To slide one's hand along something to strip it (e.g., grains), or to train someone rigorously. Used in "新人をしごく" (to drill a newbie).
+
+===word: 扶助===
+Meaning: Assistance / Support
+Nuance_EN: A stiff term for giving financial or material aid, often used in welfare contexts like "生活扶助".
+
+===word: 扶養===
+Meaning: Dependence / Support
+Nuance_EN: Primarily means economic support of family members, frequently used in tax and social insurance terms like "扶養家族".
+
+===word: 扶養家族===
+Meaning: Dependent
+Nuance_EN: Family members who are economically dependent, common in tax and insurance contexts.
+
+===word: 扶養料===
+Meaning: Alimony / Support Payment
+Nuance_EN: Legal term for money paid to a spouse after divorce for living support, distinct from child support. Used in legal contexts.
+
+===word: 批判する===
+Meaning: To Criticize
+Nuance_EN: To point out faults and give negative evaluation, but can include constructive feedback. Used widely from business to academia.
+
+===word: 能力===
+Meaning: Ability / Capacity
+Nuance_EN: The power or skill to do something, used in "批判能力" for critical thinking ability.
+
+===word: 批評===
+Meaning: Critique / Review
+Nuance_EN: To analyze and evaluate the merits of something, often used for art or products.
+
+===word: 承服===
+Meaning: Compliance / Acceptance
+Nuance_EN: To accept and obey someone's opinion or orders. Often used in negative form "承服できない" to express strong disagreement.
+
+===word: 承認===
+Meaning: Approval / Authorization
+Nuance_EN: Formal recognition or permission, used broadly in business and legal contexts.
+
+===word: 承諾===
+Meaning: Consent / Agreement
+Nuance_EN: To accept a proposal or request, more formal than "同意" or "了承". Used in contracts and official matters.
+
+===word: 技===
+Meaning: Skill / Technique
+Nuance_EN: Refers to skill acquired through practice, especially in martial arts, traditional arts, or sports. More physical and practical than "技術".
+
+===word: 技官===
+Meaning: Technical Officer
+Nuance_EN: A civil servant in government or research institutions handling technical duties, distinct from administrative roles.
+
+===word: 技巧===
+Meaning: Artistry / Technique
+Nuance_EN: Refers to refined technique or craftsmanship in arts, sports, or crafts, focusing on dexterity. Can imply superficiality when "技巧的".
+
+===word: 技師===
+Meaning: Engineer / Technician
+Nuance_EN: A professional with specialized technical knowledge for operating, repairing, or developing machinery. Equivalent to engineer.
+
+===word: 技師長===
+Meaning: Chief Engineer
+Nuance_EN: The top technical supervisor in a factory or construction site, emphasizing leadership of technical staff.
+
+===word: 技法===
+Meaning: Technique / Methodology
+Nuance_EN: Technical methods in specific fields like art, music, or cooking. More artistic than "技術".
+
+===word: 技能===
+Meaning: Skill / Competence
+Nuance_EN: Practical ability acquired through training, often used for evaluating craftsmanship or job skills.
+
+===word: 技術===
+Meaning: Technology / Technique
+Nuance_EN: The method or skill for doing things skillfully, covering from crafts to advanced tech. A very basic term.
+
+===word: 技術力===
+Meaning: Technological Capability
+Nuance_EN: The level of technical skill or know-how, used to evaluate companies or individuals in manufacturing or IT.
+
+===word: 技術面===
+Meaning: Technical Aspect
+Nuance_EN: The technical side or perspective of a matter, often contrasted with management or financial aspects.
+
+===word: 技量===
+Meaning: Proficiency / Ability
+Nuance_EN: The degree or level of skill, especially in arts, craftsmanship, or sports. Often associated with improvement.
+
+===word: 抄録===
+Meaning: Abstract / Excerpt
+Nuance_EN: A summary or extract of important parts, like conference abstracts.
+
+===word: 抉る===
+Meaning: To Gouge / To Dig
+Nuance_EN: To dig out with a blade, or metaphorically to probe deeply into the heart or core of something.
+
+===word: 把握する===
+Meaning: To Grasp / To Understand
+Nuance_EN: To correctly understand and internalize a situation or content. Formal and common in business and learning.
+
+===word: 抑える===
+Meaning: To Suppress / To Control
+Nuance_EN: To hold down or stop something from moving, or to control emotions, costs, etc. A highly polysemous and common verb.
+
+===word: 抑え込む===
+Meaning: To Pin Down / To Restrain
+Nuance_EN: To forcefully suppress movement or resistance, from martial arts to metaphorically suppressing emotions or opinions.
+
+===word: 抑制===
+Meaning: Restraint / Suppression
+Nuance_EN: To hold back emotions, actions, or growth, used in economics, medicine, and psychology. Implies some force.
+
+===word: 抑圧===
+Meaning: Oppression / Suppression
+Nuance_EN: To forcibly suppress freedom or emotions using power, used in political or psychological contexts.
+
+===word: 抑揚===
+Meaning: Intonation / Modulation
+Nuance_EN: Changes in pitch and volume in speech or singing, used to evaluate expressiveness. Also metaphorically for prose or events.
+
+===word: 抑止===
+Meaning: Deterrence / Prevention
+Nuance_EN: To prevent or restrain bad or dangerous things from happening, used in military or crime prevention contexts.
+
+===word: 抑止力===
+Meaning: Deterrent Power
+Nuance_EN: The force or mechanism to discourage action by foreseeing harm, used in politics ("nuclear deterrence"), crime, or corporate contexts.
+
+===word: 抑留===
+Meaning: Detention / Internment
+Nuance_EN: A legal/military term for restricting freedom and confining someone, especially in wartime or foreign custody. Broader than "拘留".
+
+===word: 抓る===
+Meaning: To Pinch
+Nuance_EN: To pinch skin between fingers to cause pain, used for scolding children, waking up, or pranks. Standard reading "つねる".
+
+===word: 投げ===
+Meaning: Throw / Toss
+Nuance_EN: Refers to the action of throwing, sumo throwing techniques, or giving up on something.
+
+===word: 投げつける===
+Meaning: To Hurl / To Throw At
+Nuance_EN: To throw something at someone forcefully, implying strong emotion (anger or irritation). Also used metaphorically for harsh words.
+
+===word: 投げやり===
+Meaning: Negligent / Half-hearted
+Nuance_EN: An attitude of doing things sloppily or giving up, implying lack of care.
+
+===word: 投げる===
+Meaning: To Throw
+Nuance_EN: The basic action of tossing something into the air, used in sports and daily life.
+
+===word: 投げ出す===
+Meaning: To Throw Out / To Abandon
+Nuance_EN: To toss something away or give up on effort or duty, with a strong sense of resignation.
+
+===word: 投げ売り===
+Meaning: Clearance Sale
+Nuance_EN: Selling goods at heavily discounted prices to clear inventory.
+
+===word: 投げ打つ===
+Meaning: To Sacrifice / To Discard
+Nuance_EN: A literary expression meaning to offer or throw away valuable things like life or fortune, implying strong will or resolve.
+
+===word: 投げ銭===
+Meaning: Tip / Donation
+Nuance_EN: Money thrown to street performers, or online small donations to creators. Implies casual support.
+
+===word: 投じる===
+Meaning: To Throw / To Cast
+Nuance_EN: From physical throwing to investing money, votes, or time into something. Broad and versatile.
+
+===word: 投与===
+Meaning: Administration (Medicine)
+Nuance_EN: A medical term for giving medication, especially via injection or IV. Formal, not used in casual speech.
+
+===word: 投光器===
+Meaning: Floodlight / Spotlight
+Nuance_EN: A lighting device for bright illumination over a wide area, used on stages or construction sites.
+
+===word: 投入する===
+Meaning: To Input / To Invest
+Nuance_EN: To throw people or resources into a situation, or to invest funds/effort. Common in business and military.
+
+===word: 投函===
+Meaning: Posting / Mailing
+Nuance_EN: Putting mail into a postbox, a stiff expression often used in business documents.
+
+===word: 投宿===
+Meaning: To Lodge / To Stay
+Nuance_EN: A formal term for staying at an inn while traveling, more refined than "宿泊する".
+
+===word: 投影===
+Meaning: Projection
+Nuance_EN: Literally casting light or images, and psychologically projecting one's feelings onto others. Used in both physical and psychological contexts.
+
+===word: 投手===
+Meaning: Pitcher
+Nuance_EN: The baseball player who throws the ball to the batter, a key position. Sports term.
+
+===word: 投擲===
+Meaning: Throwing (Sport)
+Nuance_EN: A stiff term for throwing objects, used in athletics (javelin, shot put) or weapon throwing. Not used in daily conversation.
+
+===word: 投書===
+Meaning: Letter to the Editor / Submission
+Nuance_EN: Sending opinions or feedback to newspapers, magazines, or programs. A way for the public to participate in media.
+
+===word: 投書欄===
+Meaning: Letters Column
+Nuance_EN: A section in newspapers or magazines for reader submissions.
+
+===word: 投機筋===
+Meaning: Speculators
+Nuance_EN: People who engage in speculative trading for profit, often with a negative nuance.
+
+===word: 投獄===
+Meaning: Imprisonment
+Nuance_EN: Being sent to prison as punishment for a crime. Formal legal term, implying serious, long-term confinement.
+
+===word: 投球===
+Meaning: Pitch (Baseball)
+Nuance_EN: The act of a pitcher throwing the ball in baseball, analyzed for speed, course, and spin.
+
+===word: 投石===
+Meaning: Stone Throwing
+Nuance_EN: The act of throwing stones, historically as a weapon. Also metaphorically for raising issues or provoking discussion.
+
+===word: 投稿する===
+Meaning: To Submit / To Post
+Nuance_EN: Sending articles, writings, or content to newspapers, magazines, or online platforms for publication.
+
+===word: 投稿家===
+Meaning: Frequent Poster
+Nuance_EN: A person who frequently posts articles or comments on blogs, forums, or social media. Casual term.
+
+===word: 高い===
+Meaning: High / Expensive
+Nuance_EN: Basic adjective meaning high in cost, value, or level.
+
+===word: 投資信託===
+Meaning: Investment Trust / Mutual Fund
+Nuance_EN: A financial product where pooled money from investors is managed by professionals in diversified assets, popular for beginners.
+
+===word: 託する===
+Meaning: To Entrust / To Consign
+Nuance_EN: Same as "托する", a legal/financial term for entrusting property or rights for management, used in "信託銀行".
+
+===word: 抗う===
+Meaning: To Resist / To Defy
+Nuance_EN: To resist against force or authority, more literary and forceful than "反抗する".
+
+===word: 抗うつ剤===
+Meaning: Antidepressant
+Nuance_EN: Medication for depression that adjusts neurotransmitter balance, requiring a prescription.
+
+===word: 抗争===
+Meaning: Conflict / Strife
+Nuance_EN: A struggle between groups or organizations, often used in news. Somewhat stiff.
+
+===word: 抗体===
+Meaning: Antibody
+Nuance_EN: Proteins produced to fight viruses or bacteria, used in medical/health contexts.
+
+===word: 抗力===
+Meaning: Drag / Resistance
+Nuance_EN: The force resisting movement through air or water, a physics/engineering term.
+
+===word: 抗原===
+Meaning: Antigen
+Nuance_EN: A substance that triggers an immune response, a medical term common in vaccine and allergy contexts.
+
+===word: 抗炎症===
+Meaning: Anti-inflammatory
+Nuance_EN: Effect or property of reducing inflammation, used in medicine and health product descriptions.
+
+===word: 抗菌===
+Meaning: Antibacterial
+Nuance_EN: The effect of suppressing bacterial growth, used for products or materials.
+
+===word: 抗議===
+Meaning: Protest / Objection
+Nuance_EN: Expressing dissatisfaction or opposition to someone's actions, formal and used in petitions or statements.
+
+===word: 折しも===
+Meaning: Just at That Time
+Nuance_EN: An adverb meaning "coincidentally at that moment," used in writing to describe events overlapping. Somewhat formal.
+
+===word: 折り入って===
+Meaning: Earnestly / Specially
+Nuance_EN: An adverb used as a preface for serious requests or important talks, as in "折り入ってお願いがあります".
+
+===word: 折り合う===
+Meaning: To Compromise / To Get Along
+Nuance_EN: To reach an agreement through mutual concessions.
+
+===word: 折り畳み===
+Meaning: Folding / Collapsible
+Nuance_EN: Refers to folding items to make them compact, used in products like folding umbrellas or chairs. Common in compound words.
+
+===word: 出かける===
+Meaning: To Go Out
+Nuance_EN: To leave one's home to go somewhere.
+
+===word: 折り畳む===
+Meaning: To Fold Up
+Nuance_EN: To fold paper, cloth, etc. into a compact size, frequently used for folding umbrellas or chairs. A very common verb.
+
+===word: 折り紙を付ける===
+Meaning: To Guarantee / To Certify
+Nuance_EN: Literally to attach origami, but idiomatically means to vouch for quality. See "折り紙付き".
+
+===word: 折り紙付き===
+Meaning: Guaranteed / Certified
+Nuance_EN: An expression meaning that quality or ability is assured, derived from artisans attaching paper to guarantee products.
+
+===word: 折り返し===
+Meaning: Turnaround / Reply Soon
+Nuance_EN: Means to change direction and return, or to reply promptly. Used in various contexts like transport or communication.
+
+===word: 折り鶴===
+Meaning: Origami Crane
+Nuance_EN: A paper crane made by origami, symbol of Japanese tradition. Thousand cranes represent wishes for peace or recovery.
+
+===word: 折る===
+Meaning: To Break / To Fold
+Nuance_EN: A basic verb for bending and separating or shaping long objects. Used for bones, branches, paper, or figuratively for records.
+
+===word: 折れる===
+Meaning: To Break / To Give In
+Nuance_EN: First meaning is physical breaking. Second meaning is to yield one's opinion for compromise, very common in daily conversation.
+
+===word: 折れ線グラフ===
+Meaning: Line Graph
+Nuance_EN: A graph showing data changes with lines, suitable for trends over time like temperature or sales.
+
+===word: 折半（する）===
+Meaning: To Split Equally
+Nuance_EN: To share costs equally, similar to "割り勘" but more formal, usable in writing and business.
+
+===word: 折檻===
+Meaning: Severe Punishment / Beating
+Nuance_EN: Originating from a Chinese story, now means harsh scolding or physical punishment. Negative term, used in education or parenting contexts with caution.
+
+===word: 折衝===
+Meaning: Negotiation / Diplomacy
+Nuance_EN: To negotiate with parties having different interests for problem-solving, often in business or diplomacy.
+
+===word: 折衷===
+Meaning: Compromise / Eclecticism
+Nuance_EN: To harmoniously combine different positions or styles, taking good points from both sides.
+
+===word: 折角===
+Meaning: Precious Opportunity / Despite Effort
+Nuance_EN: Written form of "せっかく", emphasizing not wasting a valuable chance or effort.
+
+===word: 抜かす===
+Meaning: To Omit / To Say Recklessly
+Nuance_EN: Two meanings: to skip or omit steps, or a rude way to say "speak" (e.g., "よくも抜かしたな"). In Kansai dialect, also means to lose.
+
+===word: 抜かり===
+Meaning: Oversight / Negligence
+Nuance_EN: A failure or carelessness in doing something that should have been done, implying a slip in attention.
+
+===word: 抜かる===
+Meaning: To Make a Slip / To Be Careless
+Nuance_EN: An old-fashioned verb meaning to blunder, often used in past tense "抜かった" to express regret. Feels theatrical.
+
+===word: 抜きネタ===
+Meaning: Scoop / Exclusive Story
+Nuance_EN: A journalism term for a breaking story or exclusive scoop obtained before competitors. From "抜く" (to beat) + "ネタ" (story material).

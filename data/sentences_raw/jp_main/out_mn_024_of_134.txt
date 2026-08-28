@@ -1,0 +1,799 @@
+===word: 普段着===
+Meaning: Casual Clothes
+Nuance_EN: Refers to everyday clothing worn in daily life, as opposed to formal wear like suits or dresses. Used in contexts like shopping, housework, or relaxing.
+
+===word: 洗濯日和===
+Meaning: Laundry Day
+Nuance_EN: A phrase meaning "good weather for doing laundry," often used to describe a sunny, dry day perfect for washing and drying clothes.
+
+===word: 真ん丸===
+Meaning: Perfectly Round
+Nuance_EN: Describes a completely round shape, often used for the moon, faces, or balls. Carries a cute or friendly nuance.
+
+===word: 的===
+Meaning: Target / Goal
+Nuance_EN: Refers to a physical target for archery or shooting practice, or metaphorically a goal or objective. Common in both literal and figurative contexts.
+
+===word: 沿岸===
+Meaning: Coast / Shore
+Nuance_EN: A geographical term referring to the area along the edge of a sea or lake, broader than "beach." Often used in weather forecasts and news.
+
+===word: 流通===
+Meaning: Distribution
+Nuance_EN: Refers to the process of goods moving from producers to consumers, including logistics and sales channels. A business term.
+
+===word: 掃除===
+Meaning: Cleaning
+Nuance_EN: A very common word for removing dirt from rooms or objects. Used in daily life, with compounds like "大掃除" (big cleaning) and "掃除機" (vacuum cleaner). Suitable for casual to formal contexts.
+
+===word: 立て続け===
+Meaning: In Succession
+Nuance_EN: Describes events happening one after another without a break. Emphasizes continuity and lack of interruption.
+
+===word: 筆記用具===
+Meaning: Writing Utensils
+Nuance_EN: A general term for tools used for writing, such as pens, pencils, and markers. Commonly used in school or office settings.
+
+===word: 組合===
+Meaning: Union / Association
+Nuance_EN: Refers to an organization formed by people with a common purpose, such as labor unions or agricultural cooperatives.
+
+===word: 絶えず===
+Meaning: Constantly / Unceasingly
+Nuance_EN: Means "without interruption or pause," emphasizing continuousness. Slightly formal and often used in written language.
+
+===word: 鈍い===
+Meaning: Dull / Slow
+Nuance_EN: An adjective with multiple meanings: physically blunt, slow movement, insensitive senses, or unclear sound. Used broadly from physical to mental contexts.
+
+===word: 人出===
+Meaning: Crowd / Turnout
+Nuance_EN: Refers to a large number of people gathering at a place, like a park or event. Often used in phrases like "大変な人出" (a huge crowd).
+
+===word: 限り===
+Meaning: As a Limit / Last
+Nuance_EN: Indicates a point in time as the final moment, after which a different state begins. Used in expressions like "今日を限りに" (as of today).
+
+===word: 限り===
+Meaning: As a Limit / Last
+Nuance_EN: Same as above; indicates a final point in time, often used for resolutions or farewells.
+
+===word: 願書===
+Meaning: Application Form
+Nuance_EN: A formal document for applying to schools or jobs. Commonly used for "入学願書" (school application) or "就職願書" (job application).
+
+===word: 着物===
+Meaning: Kimono
+Nuance_EN: Traditional Japanese clothing, ranging from formal to casual styles. Worn for special occasions like festivals or ceremonies.
+
+===word: 今日明日===
+Meaning: Today or Tomorrow
+Nuance_EN: Means "today and tomorrow" or "the very near future," emphasizing urgency or immediacy.
+
+===word: 商魂===
+Meaning: Business Spirit / Guts
+Nuance_EN: Refers to a strong drive or tenacity in business, including the will to sell and seize opportunities. Can be positive (praising ambition) or negative (criticizing pushiness).
+
+===word: 今更===
+Meaning: Now (Too Late)
+Nuance_EN: An adverb meaning "now, after it's too late," often used in negative contexts implying regret or futility.
+
+===word: 今更===
+Meaning: Now (Too Late)
+Nuance_EN: Same as above; used to express that it's pointless to do something now because the time has passed.
+
+===word: 原稿===
+Meaning: Manuscript / Draft
+Nuance_EN: Refers to the original text or draft for printing or publication, such as for newspapers, magazines, or books.
+
+===word: 支出===
+Meaning: Expenditure
+Nuance_EN: The act of spending money or the amount spent. Opposite of income, commonly used in household or business accounting.
+
+===word: 売り上げ===
+Meaning: Sales / Revenue
+Nuance_EN: The total amount of money earned from selling goods or services. A key metric in business and management.
+
+===word: 夫===
+Meaning: Husband
+Nuance_EN: Refers to a married man, specifically one's spouse. Used for both one's own husband and someone else's.
+
+===word: 震度===
+Meaning: Seismic Intensity
+Nuance_EN: A scale measuring the strength of earthquake shaking at a specific location, ranging from 0 to 7 in Japan. Different from magnitude, which measures the earthquake's size.
+
+===word: ひょっこり===
+Meaning: Suddenly / Unexpectedly
+Nuance_EN: A mimetic word describing something appearing or happening unexpectedly and lightly. Often used for people appearing or events occurring without warning.
+
+===word: 発声===
+Meaning: Vocalization / Voice Production
+Nuance_EN: Refers to producing sound with the voice, especially in singing or acting contexts. Used in "発声練習" (vocal exercises) and medical terms like "発声器官" (vocal organs).
+
+===word: 悪===
+Meaning: Evil / Wrong
+Nuance_EN: Refers to something incorrect or morally wrong, like an evil deed or mind. Used in serious contexts.
+
+===word: 入金===
+Meaning: Deposit / Payment
+Nuance_EN: The act of depositing money into a bank account or the amount deposited. Frequently used in business and accounting.
+
+===word: 今際===
+Meaning: Deathbed / Moment of Death
+Nuance_EN: A somewhat archaic and literary word meaning the moment just before death. Used in novels or dramatic scenes, not in everyday conversation.
+
+===word: 介す===
+Meaning: Mediate / Interpose
+Nuance_EN: Means to act as an intermediary or to handle something by inserting it between. Used in phrases like "手を介す" (to use one's hands).
+
+===word: 介入する===
+Meaning: Intervene
+Nuance_EN: A formal term meaning a third party enters a situation to influence it, often in politics or economics. Used for government or international intervention.
+
+===word: 介助===
+Meaning: Assistance / Care
+Nuance_EN: Refers to helping disabled or elderly people with daily activities. Used in welfare and medical settings.
+
+===word: 介在===
+Meaning: Interposition / Involvement
+Nuance_EN: Means something existing between two things or people, often with a nuance of mediation or intervention.
+
+===word: 介抱する===
+Meaning: Nurse / Care For
+Nuance_EN: Means to take care of someone who is sick or injured, especially temporarily. Warmer and more personal than "看護" (nursing).
+
+===word: 介添え===
+Meaning: Attendant / Assistant
+Nuance_EN: Refers to helping someone by staying by their side, often as a wedding or ceremony assistant.
+
+===word: 介護福祉士===
+Meaning: Certified Care Worker
+Nuance_EN: A national qualification for professionals providing care to the elderly or disabled. Used in the caregiving field.
+
+===word: 介護離職===
+Meaning: Caregiving Resignation
+Nuance_EN: Refers to quitting a job due to the need to care for a family member. A modern social issue in Japan, highlighting the difficulty of balancing work and care.
+
+===word: 仏===
+Meaning: Buddha / Deceased
+Nuance_EN: Can refer to Buddha, a Buddhist statue, or a deceased person. Meaning varies greatly by context.
+
+===word: 仏像===
+Meaning: Buddhist Statue
+Nuance_EN: A sculpture or image of Buddha created as a religious object in Buddhism. Seen in temples and museums.
+
+===word: 仏壇===
+Meaning: Buddhist Altar
+Nuance_EN: A household altar in Buddhism for enshrining memorial tablets and Buddhist items, used to honor ancestors. Common in traditional Japanese homes.
+
+===word: 仏閣===
+Meaning: Buddhist Temple Building
+Nuance_EN: A formal term for a temple building housing Buddhist statues. Often used in the compound "神社仏閣" (shrines and temples).
+
+===word: 仏頂面===
+Meaning: Sullen Face / Grumpy Expression
+Nuance_EN: Describes a person's face that looks displeased or grumpy, often used humorously or critically.
+
+===word: 仔細に===
+Meaning: In Detail / Thoroughly
+Nuance_EN: An adverb meaning to do something carefully and attentively, down to the smallest points. Slightly literary and formal, used for examining important documents or plans.
+
+===word: 仕える===
+Meaning: Serve / Attend
+Nuance_EN: Means to serve or attend to a superior or organization. Has a polite, somewhat old-fashioned tone.
+
+===word: 仕上げ===
+Meaning: Finishing / Final Touch
+Nuance_EN: Refers to the final work or process to complete something, such as in cooking, crafts, or tasks. A common everyday term.
+
+===word: 要===
+Meaning: Essential Point / Core
+Nuance_EN: Refers to the most important part or central point of something. Originates from the pivot of a fan, metaphorically meaning "key point."
+
+===word: 勤しむ===
+Meaning: Devote Oneself To
+Nuance_EN: A somewhat literary expression meaning to work diligently and enthusiastically. Used more in letters or speeches than daily conversation, often with admiration.
+
+===word: 合間===
+Meaning: Interval / Spare Time
+Nuance_EN: Refers to the time or space between two things, often used in phrases like "仕事の合間" (between work tasks).
+
+===word: 仕事の虫===
+Meaning: Workaholic
+Nuance_EN: A colloquial term for a person who only works, loving work and never resting. Informal and slightly critical.
+
+===word: 体得===
+Meaning: Learn Through Experience
+Nuance_EN: Means to acquire knowledge or skills through actual practice, not just reading. Emphasizes practical understanding.
+
+===word: 仕事ぶり===
+Meaning: Work Style / Performance
+Nuance_EN: An expression evaluating how someone approaches their work, including attitude and results. Refers to overall impression.
+
+===word: 郵便局===
+Meaning: Post Office
+Nuance_EN: Refers to the service or system for sending letters and packages. Commonly used in daily life.
+
+===word: こなす===
+Meaning: Handle / Manage
+Nuance_EN: An idiomatic expression meaning to efficiently complete assigned tasks. Implies skill and proficiency.
+
+===word: 仕事量===
+Meaning: Workload
+Nuance_EN: Refers to the amount or volume of work to be done. Often used in workplaces, with a nuance of burden or pressure when large.
+
+===word: 仕入れ===
+Meaning: Stocking / Purchasing
+Nuance_EN: Means buying goods from external sources for resale. A business term used in retail and food industries, where good sourcing is a key skill.
+
+===word: 仕出かす===
+Meaning: Blunder / Mess Up
+Nuance_EN: A colloquial verb meaning to do something bad or problematic, often causing trouble. Carries a nuance of blame or exasperation.
+
+===word: 仕分け===
+Meaning: Sorting / Classification
+Nuance_EN: Refers to categorizing things by type or criteria, such as budget allocation or recycling. Used in practical tasks.
+
+===word: 仕切る人===
+Meaning: Person in Charge / Manager
+Nuance_EN: A colloquial term for someone who manages the flow of a meeting, party, or event. Similar to "仕切り役" (facilitator).
+
+===word: 仕向ける===
+Meaning: Prompt / Induce
+Nuance_EN: Means to cause someone to act in a certain way or to direct something toward a purpose. Often used in business or strategic contexts.
+
+===word: 仕官===
+Meaning: Serve as a Retainer
+Nuance_EN: A historical term meaning to serve a lord or state, especially for samurai in feudal Japan. Rarely used in modern contexts.
+
+===word: 仕打ち===
+Meaning: Treatment / Behavior (Negative)
+Nuance_EN: Refers to how someone is treated, especially badly. Used in negative phrases like "酷い仕打ち" (cruel treatment), stronger than "扱い" (treatment).
+
+===word: 仕掛ける===
+Meaning: Set Up / Start
+Nuance_EN: Means to set up a device or to initiate an action, like setting a trap or starting a conversation.
+
+===word: 仕損じる===
+Meaning: Fail / Mess Up
+Nuance_EN: Means to fail or make a mistake in doing something. Slightly old-fashioned or colloquial, often used for specific errors like craftsmen's mistakes.
+
+===word: 仕業===
+Meaning: Deed / Work (Negative)
+Nuance_EN: Primarily used to mean "crime" or "misdeed," often in phrases like "誰かの仕業" (someone's doing). Implies blame.
+
+===word: 仕様書===
+Meaning: Specification Document
+Nuance_EN: A detailed document describing the specifications of a product or system. Used in engineering and software development.
+
+===word: 仕留める===
+Meaning: Finish Off / Take Down
+Nuance_EN: Means to decisively defeat or kill prey or an enemy, with a sense of certainty and finality. Also used metaphorically for achieving goals.
+
+===word: 仕立てる===
+Meaning: Tailor / Make (Clothes)
+Nuance_EN: A transitive verb meaning to sew and make clothes, especially custom orders like suits or kimonos. Also used metaphorically.
+
+===word: 仕立て上げる===
+Meaning: Build Up / Frame
+Nuance_EN: Means to create or prepare something thoroughly, often with a nuance of manipulation or fabrication.
+
+===word: 仕立て屋===
+Meaning: Tailor Shop / Tailor
+Nuance_EN: Refers to a profession or shop that makes custom clothing from scratch, especially suits or dresses.
+
+===word: 仕組み===
+Meaning: Structure / Mechanism
+Nuance_EN: Refers to the internal structure or workings of something, from machines to economic systems. Broadly applicable.
+
+===word: 仕草===
+Meaning: Gesture / Mannerism
+Nuance_EN: Refers to unconscious physical movements or gestures that reveal emotions or character. Often used in observation or acting contexts.
+
+===word: 仕込む===
+Meaning: Train / Prepare
+Nuance_EN: A broad verb meaning to teach skills or knowledge, or to prepare materials. Used from cooking to training.
+
+===word: 仕返しする===
+Meaning: Retaliate / Get Back At
+Nuance_EN: Means to return harm or insult in kind. More casual than "復讐" (revenge), used in daily life but can sound childish.
+
+===word: 仕送り===
+Meaning: Remittance / Allowance
+Nuance_EN: Refers to sending money to family members living apart, especially from parents to students.
+
+===word: 他でもない===
+Meaning: None Other Than
+Nuance_EN: A phrase used to emphasize a specific person or reason, often in "他でもない〜だから" (precisely because it's...).
+
+===word: 意見===
+Meaning: Opinion / View
+Nuance_EN: Refers to one's thoughts or feelings on a matter. A basic word used in meetings, discussions, and daily conversation.
+
+===word: 他人===
+Meaning: Stranger / Other Person
+Nuance_EN: Refers to someone other than oneself, especially a person unrelated by family or friendship. Used in phrases like "他人事" (someone else's problem).
+
+===word: まして===
+Meaning: Much Less / Even More
+Nuance_EN: An adverb emphasizing that something is even more extreme than a previous statement. Often used with negatives or questions.
+
+===word: 侵す===
+Meaning: Violate / Infringe
+Nuance_EN: A verb meaning to invade or violate rights, territory, or laws. Formal and serious.
+
+===word: 嘲る===
+Meaning: Ridicule / Mock
+Nuance_EN: Means to make fun of someone in a scornful way. Strongly negative, implying contempt.
+
+===word: 他動詞===
+Meaning: Transitive Verb
+Nuance_EN: A grammar term for verbs that require a direct object. Paired with intransitive verbs, like "開ける" (open) vs. "開く" (open). Basic in language education.
+
+===word: 他家===
+Meaning: Another Family / Household
+Nuance_EN: Refers to a different family or household, not one's own.
+
+===word: 他意===
+Meaning: Ulterior Motive
+Nuance_EN: Means "other intention" or "hidden purpose," often used in the negative "他意はない" (no ulterior motive). Common in polite business conversation.
+
+===word: 他愛===
+Meaning: Affection for Others
+Nuance_EN: Refers to love or care for others, especially altruistic feelings. Slightly formal; the negative form "他愛ない" (trivial) is more common.
+
+===word: 他愛ない===
+Meaning: Trivial / Insignificant
+Nuance_EN: An adjective meaning "not worth mentioning" or "simple." Used for conversations or actions that are light and unimportant.
+
+===word: 他殺===
+Meaning: Homicide
+Nuance_EN: A legal term meaning killed by another person, used in news reports to distinguish from suicide.
+
+===word: 他界===
+Meaning: Passing Away / Death
+Nuance_EN: A euphemism for death, especially for elderly or respected people. Formal and respectful, with a literary tone.
+
+===word: 他県===
+Meaning: Other Prefecture
+Nuance_EN: Refers to a prefecture other than one's own, used in geographical contexts.
+
+===word: 社===
+Meaning: Shrine (Building)
+Nuance_EN: Specifically refers to the main building of a Shinto shrine, as opposed to the entire shrine complex.
+
+===word: 他言無用===
+Meaning: Keep It Secret
+Nuance_EN: An idiomatic phrase meaning "do not tell others," used to emphasize confidentiality in private matters.
+
+===word: 他面===
+Meaning: Another Aspect
+Nuance_EN: Refers to a different side or perspective of a matter. Used in formal writing like newspapers or academic papers.
+
+===word: 付きが回る===
+Meaning: Luck Comes Around
+Nuance_EN: An idiom meaning good fortune arrives, emphasizing a turn in luck. Slightly colloquial.
+
+===word: 付きっ切り===
+Meaning: Constantly Attending
+Nuance_EN: Means staying close to someone without leaving, to care for or focus on them. Used for nursing or intense attention.
+
+===word: 付きまとう===
+Meaning: Follow / Haunt
+Nuance_EN: Means to persistently follow or cling to someone or something, often with a negative nuance of annoyance or trouble.
+
+===word: 付き従う===
+Meaning: Follow / Accompany
+Nuance_EN: Means to follow a superior or leader, as a retainer or subordinate.
+
+===word: 付き添い===
+Meaning: Attendant / Caregiver
+Nuance_EN: Refers to a person who stays by someone's side to help, especially for the sick or children. Implies care and attention.
+
+===word: 付き物===
+Meaning: Inseparable Part
+Nuance_EN: Refers to something naturally accompanying a thing or situation, like an inevitable element.
+
+===word: 付く===
+Meaning: Attach / Stick
+Nuance_EN: A basic verb meaning to come into contact and stay, used broadly for dirt, prices, etc.
+
+===word: 付け上がる===
+Meaning: Get Presumptuous
+Nuance_EN: Means to become cheeky or overconfident when treated kindly. Negative nuance.
+
+===word: 付け入る===
+Meaning: Exploit / Take Advantage
+Nuance_EN: Means to exploit someone's weakness or carelessness for personal gain. Often negative and cunning.
+
+===word: 付け加える===
+Meaning: Add / Append
+Nuance_EN: Means to add something extra to existing content, especially supplementary information in speech or writing.
+
+===word: 付け所===
+Meaning: Point of Focus
+Nuance_EN: Refers to the key point or place to pay attention to, used in evaluation or caution.
+
+===word: 付け方===
+Meaning: How to Attach / Record
+Nuance_EN: Refers to the specific method or procedure for attaching or recording something.
+
+===word: 付け根===
+Meaning: Base / Root
+Nuance_EN: Refers to the point where something is attached, like the base of an arm or leg. Common in body or plant descriptions.
+
+===word: 付け爪===
+Meaning: Fake Nails / Nail Tips
+Nuance_EN: Refers to artificial nails attached to natural nails, like gel or sculptured nails. Used in beauty and fashion contexts.
+
+===word: 付け狙う===
+Meaning: Stalk / Shadow
+Nuance_EN: Means to secretly follow or watch someone, waiting for an opportunity. Strongly negative, used for stalkers or criminals.
+
+===word: 付け足す===
+Meaning: Add On / Supplement
+Nuance_EN: Means to add something extra to existing content, like a remark or ingredient, to supplement it.
+
+===word: 付け足す===
+Meaning: Add On / Supplement
+Nuance_EN: Same as above; to add something extra to supplement the original.
+
+===word: 付与===
+Meaning: Grant / Bestow
+Nuance_EN: Means to formally give rights, qualifications, or abilities. Formal, used in business or administrative documents.
+
+===word: 付加===
+Meaning: Addition / Appendage
+Nuance_EN: Means to add something extra to existing content. Formal, often used in "付加価値" (added value).
+
+===word: 付加価値税===
+Meaning: Value-Added Tax (VAT)
+Nuance_EN: A type of consumption tax added to the price of goods and services, widely used in Europe. The Japanese translation of VAT.
+
+===word: 付属===
+Meaning: Attached / Affiliated
+Nuance_EN: Means something attached to or subordinate to a main entity, like a school or organization's branch.
+
+===word: 付属品===
+Meaning: Accessories / Attachments
+Nuance_EN: Refers to items that come with a main product, like cables or manuals. Different from optional extras.
+
+===word: 付着===
+Meaning: Adhesion / Sticking
+Nuance_EN: Means to stick or cling to a surface, often used in scientific or technical contexts.
+
+===word: 付箋===
+Meaning: Sticky Note
+Nuance_EN: Small paper pieces for marking or commenting on books or documents. Commonly used for study or work organization.
+
+===word: 付記===
+Meaning: Postscript / Additional Note
+Nuance_EN: Refers to adding supplementary information at the end of a document. Formal, used in business or academic writing.
+
+===word: 付近===
+Meaning: Vicinity / Neighborhood
+Nuance_EN: Refers to the area around a specific location, useful for indicating vague ranges.
+
+===word: 付随===
+Meaning: Accompany / Be Incidental
+Nuance_EN: Means to naturally accompany a main matter, with a subordinate relationship. Used in "付随的な問題" (incidental issues).
+
+===word: 仙人===
+Meaning: Hermit / Immortal
+Nuance_EN: A figure from Chinese Taoism who lives in seclusion, cultivates supernatural powers, and is often depicted in manga and games.
+
+===word: 代り映え===
+Meaning: Change / Variety
+Nuance_EN: Refers to something becoming better or fresher when replaced. Often used in the negative "代り映えがしない" (no change, boring).
+
+===word: 代わり番===
+Meaning: Taking Turns
+Nuance_EN: Describes doing things in rotation, with a nuance of alternating roles. Also used as "代わり番こ."
+
+===word: 代わる代わる===
+Meaning: Alternately / In Turn
+Nuance_EN: An adverb meaning multiple people take turns doing the same thing. Slightly literary.
+
+===word: 代代===
+Meaning: Generations / Hereditary
+Nuance_EN: Refers to continuing through many generations in a family or lineage. Formal and respectful.
+
+===word: 代休===
+Meaning: Compensatory Holiday
+Nuance_EN: A day off taken later in exchange for working on a holiday or weekend. Common in workplaces.
+
+===word: 代価===
+Meaning: Price / Cost
+Nuance_EN: Refers to money paid for something, or the sacrifice made to achieve something. More abstract than "代金" (payment).
+
+===word: 代償===
+Meaning: Compensation / Sacrifice
+Nuance_EN: Means the price or sacrifice paid to obtain something, often non-monetary like emotional or physical burden.
+
+===word: 代入する===
+Meaning: Substitute / Assign
+Nuance_EN: Means to assign a specific value to a variable in mathematics or programming.
+
+===word: 代名詞===
+Meaning: Pronoun
+Nuance_EN: A grammar term for words that replace nouns, like "he" or "it." Also used metaphorically for a representative example.
+
+===word: 代弁===
+Meaning: Speak for / Pay on Behalf
+Nuance_EN: Means to express someone's opinions or feelings on their behalf, or to make a payment for them.
+
+===word: 代弁者===
+Meaning: Spokesperson / Representative
+Nuance_EN: A person who conveys the opinions or thoughts of another, often in an organizational context.
+
+===word: 代打===
+Meaning: Pinch Hitter
+Nuance_EN: In baseball, a player who bats in place of another, often in late-game situations. Also used metaphorically for a substitute.
+
+===word: 代数学===
+Meaning: Algebra
+Nuance_EN: A branch of mathematics studying relationships using letters and symbols instead of numbers.
+
+===word: 代替地===
+Meaning: Substitute Land
+Nuance_EN: Refers to alternative land provided in place of the originally intended plot, often in compensation or relocation contexts.
+
+===word: 代案===
+Meaning: Alternative Plan
+Nuance_EN: A different proposal to replace the current one, used in meetings or discussions. Formal.
+
+===word: 代物===
+Meaning: Thing / Article
+Nuance_EN: Refers to an item or object, often with a nuance of quality or value. Can be used in "代物" (substitute item).
+
+===word: 代理人===
+Meaning: Agent / Proxy
+Nuance_EN: A person authorized to act on behalf of another, often in legal or business contexts.
+
+===word: 代理戦争===
+Meaning: Proxy War
+Nuance_EN: A political/military term for a conflict where major powers fight indirectly through third parties, like during the Cold War.
+
+===word: 代筆===
+Meaning: Ghostwriting / Writing on Behalf
+Nuance_EN: Means to write something for someone else, like letters or contracts, often by request.
+
+===word: 代紋===
+Meaning: Emblem / Crest (Yakuza)
+Nuance_EN: A symbol used by yakuza organizations to represent their group. Rarely used in general society, appearing in movies or news.
+
+===word: 代行する===
+Meaning: Act as Proxy
+Nuance_EN: Means to perform someone's duties or roles on their behalf. Formal, used in business for agency services.
+
+===word: 代表作===
+Meaning: Representative Work
+Nuance_EN: Refers to the most outstanding work of an artist or creator that best represents their style. Widely recognized.
+
+===word: 代表格===
+Meaning: Typical Example
+Nuance_EN: Refers to a representative or typical example within a group or category.
+
+===word: 代議士===
+Meaning: Diet Member / Legislator
+Nuance_EN: A term for a member of the Japanese Diet (parliament). Formal and political.
+
+===word: 代走===
+Meaning: Pinch Runner
+Nuance_EN: In sports like baseball, a player who runs in place of another, often used for speed in late-game situations.
+
+===word: 代金===
+Meaning: Payment / Price
+Nuance_EN: Refers to money paid for goods or services, emphasizing the concept of "consideration" or "price." More specific than "料金" (fee).
+
+===word: 手数料===
+Meaning: Fee / Commission
+Nuance_EN: Refers to a charge for services or handling, like a processing fee. Common in banking or transactions.
+
+===word: 分割===
+Meaning: Division / Installment
+Nuance_EN: Means dividing something into parts, such as land, payments, or data. Used for easier management.
+
+===word: 期日===
+Meaning: Due Date / Deadline
+Nuance_EN: Refers to a specific predetermined date or deadline. Slightly formal.
+
+===word: 代金引換===
+Meaning: Cash on Delivery
+Nuance_EN: A payment method where the buyer pays upon receiving the goods. Commonly used in mail order, abbreviated as "代引き."
+
+===word: 令嬢===
+Meaning: Daughter (of a Noble Family)
+Nuance_EN: A respectful term for an unmarried woman from a high-status family. Literary and somewhat theatrical.
+
+===word: 令状===
+Meaning: Warrant
+Nuance_EN: An official document issued by a court authorizing actions like arrest or search. Common in legal dramas.
+
+===word: 同じ===
+Meaning: Same
+Nuance_EN: Indicates identity or equivalence. A basic word used in comparisons.
+
+===word: 一節===
+Meaning: Passage / Verse
+Nuance_EN: Refers to a specific part of a text or story, often quoted or referenced.
+
+===word: 以南===
+Meaning: South of
+Nuance_EN: Indicates the area south of a certain point. Formal, used in geographical descriptions.
+
+===word: 以後===
+Meaning: After / Since
+Nuance_EN: Refers to time after a certain point. Formal, used in documents and speeches.
+
+===word: 以心伝心===
+Meaning: Telepathy / Heart-to-Heart
+Nuance_EN: A four-character idiom meaning understanding each other without words, often between close friends or long-term partners.
+
+===word: 以降===
+Meaning: After / Since
+Nuance_EN: Indicates a period from a certain point onward. Used for time boundaries.
+
+===word: 仮===
+Meaning: Temporary / Provisional
+Nuance_EN: A prefix or noun indicating a temporary or provisional state, like "仮の住まい" (temporary housing). Implies future change.
+
+===word: 仮に===
+Meaning: If / Supposing
+Nuance_EN: An adverb used to set up a hypothetical condition, often for unlikely or undecided situations.
+
+===word: 仮に===
+Meaning: If / Supposing
+Nuance_EN: Same as above; used for hypothetical conditions.
+
+===word: 仮の申し込み===
+Meaning: Provisional Application
+Nuance_EN: A temporary or tentative application, subject to change later.
+
+===word: 仮名===
+Meaning: Pseudonym / Pen Name
+Nuance_EN: A temporary name used to hide one's real identity, common among writers or performers.
+
+===word: 仮名遣い===
+Meaning: Kana Usage / Orthography
+Nuance_EN: Refers to the rules for writing Japanese in kana, like historical vs. modern usage. A term in language education.
+
+===word: 仮定===
+Meaning: Assumption / Hypothesis
+Nuance_EN: Means to suppose something as a premise, even if not certain. Used in logical discussions and daily conversation.
+
+===word: 仮定の話===
+Meaning: Hypothetical Talk
+Nuance_EN: Refers to discussion based on assumptions, not facts.
+
+===word: 仮想===
+Meaning: Virtual / Imaginary
+Nuance_EN: Means something that doesn't exist in reality but is assumed. Used in computing like "仮想空間" (virtual space).
+
+===word: 仮想現実===
+Meaning: Virtual Reality
+Nuance_EN: An artificial environment created by computer technology that feels real.
+
+===word: 仮想現実感===
+Meaning: Sense of Virtual Reality
+Nuance_EN: The feeling of being in a computer-generated artificial environment.
+
+===word: 仮死===
+Meaning: Apparent Death / Suspended Animation
+Nuance_EN: A medical term for a temporary state where breathing and heartbeat stop, but resuscitation is possible.
+
+===word: 仮病===
+Meaning: Feigning Illness
+Nuance_EN: Pretending to be sick to avoid school or work. A common excuse.
+
+===word: 仮眠する===
+Meaning: Take a Nap
+Nuance_EN: Means to sleep for a short time, like during a lunch break or long drive. Refers to brief rest.
+
+===word: 仮装===
+Meaning: Costume / Disguise
+Nuance_EN: Means to dress up as a different character or thing, often for fun at Halloween or parties.
+
+===word: 仮設の===
+Meaning: Temporary / Makeshift
+Nuance_EN: An adjective describing something set up temporarily, like event venues or emergency housing.
+
+===word: 仮説===
+Meaning: Hypothesis
+Nuance_EN: A provisional idea or proposition to explain a phenomenon, not yet proven.
+
+===word: 仮面===
+Meaning: Mask / Facade
+Nuance_EN: Refers to a physical mask or a metaphorical false appearance. Used from carnivals to idioms like "仮面をかぶる" (wear a mask).
+
+===word: 仰々しい===
+Meaning: Exaggerated / Pompous
+Nuance_EN: Describes something overly grand or dramatic, to the point of being unnatural or pretentious. Negative nuance.
+
+===word: 仰け反る===
+Meaning: Lean Back / Recoil
+Nuance_EN: Refers to bending the body backward, often in surprise or shock. Used in idiomatic expressions.
+
+===word: 仰せ付かる===
+Meaning: Be Ordered (Humble)
+Nuance_EN: A very formal and archaic humble verb meaning to receive a command from a superior. Used in period dramas or formal settings.
+
+===word: 仰る===
+Meaning: Say (Honorific)
+Nuance_EN: The respectful form of "言う" (to say), used when referring to a superior's speech. Common in conversation and writing.
+
+===word: 仰向け===
+Meaning: Face Up / Supine
+Nuance_EN: Refers to a lying position with the face upward, opposite of prone.
+
+===word: 仰向けになる===
+Meaning: Lie on One's Back
+Nuance_EN: The action of lying face up, with the back on the ground.
+
+===word: 仰天===
+Meaning: Astonishment / Shock
+Nuance_EN: Being extremely surprised and speechless, often from an unexpected event.
+
+===word: 仲===
+Meaning: Relationship / Friendship
+Nuance_EN: Refers to the relationship between people, often used in phrases like "仲がいい" (good relationship).
+
+===word: 仲人===
+Meaning: Matchmaker / Go-Between
+Nuance_EN: A person who mediates between two families for marriage, or metaphorically for business introductions.
+
+===word: 仲介===
+Meaning: Mediation / Intermediation
+Nuance_EN: Means to act as a go-between to facilitate relationships or transactions, often in business like real estate.
+
+===word: 仲介者===
+Meaning: Intermediary / Broker
+Nuance_EN: A person who mediates between two parties in transactions or negotiations, like a real estate agent.
+
+===word: 仲直り（する）===
+Meaning: Make Up / Reconcile
+Nuance_EN: Means to restore a good relationship after a quarrel, commonly used among friends or couples.
+
+===word: 仲睦まじい===
+Meaning: Harmonious / Affectionate
+Nuance_EN: Describes a close and loving relationship, often between family or couples. Literary and warm.
+
+===word: 仲良く===
+Meaning: Get Along Well
+Nuance_EN: An adverb describing a good, friendly relationship between people, used for friends, family, or colleagues.
+
+===word: 仲良し===
+Meaning: Close Friend / Good Friends
+Nuance_EN: A friendly term for a very good relationship, often used among children or close friends.
+
+===word: 仲裁===
+Meaning: Arbitration / Mediation
+Nuance_EN: Means to intervene in a dispute as a neutral third party to help reach a resolution. Used in labor, family, or international conflicts.
+
+===word: 仲買===
+Meaning: Brokerage / Middleman
+Nuance_EN: Refers to a person or business that buys and sells goods as an intermediary, like a stockbroker.
+
+===word: 仲違い===
+Meaning: Falling Out / Quarrel
+Nuance_EN: Refers to a relationship deteriorating between friends or colleagues due to disagreement.
+
+===word: 論じる===
+Meaning: Discuss / Argue
+Nuance_EN: Means to discuss or debate a topic in detail, often in formal or intellectual contexts.
+
+===word: 仲間割れ===
+Meaning: Internal Split / Division
+Nuance_EN: Means a group of friends or allies splitting due to conflict, implying internal strife.
+
+===word: 件===
+Meaning: Passage / Part
+Nuance_EN: Refers to a specific section or part of a text or conversation, like "この件" (this part). Different from the business usage "件" (matter).
+
+===word: 件名===
+Meaning: Subject Line
+Nuance_EN: The title or subject of an email, letter, or document. Essential in business communication.
+
+===word: 任を解かれる===
+Meaning: Be Relieved of Duty
+Nuance_EN: A formal expression meaning to be released from a position or task, often implying dismissal or completion.

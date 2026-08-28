@@ -1,0 +1,799 @@
+===word: 時報===
+Meaning: Time signal
+Nuance_EN: A signal or broadcast that announces the exact time, such as radio/TV time signals, telephone time service (117), or setting watches.
+
+===word: 時差ぼけ===
+Meaning: Jet lag
+Nuance_EN: A state where the body's internal clock is disrupted due to time zone changes from long-distance travel, causing sleepiness and fatigue.
+
+===word: 時折===
+Meaning: Occasionally
+Nuance_EN: An adverb meaning "once in a while" or "sometimes," indicating that something happens irregularly. It has a somewhat literary and calm tone.
+
+===word: 時既に遅し===
+Meaning: Too late
+Nuance_EN: An idiom meaning that it is already too late to take action. It has a classical ring and carries feelings of regret or frustration.
+
+===word: 時期===
+Meaning: Time / Period
+Nuance_EN: Refers to a specific point or period when something occurs. It covers a broad range of time-related concepts, including seasons, timing, and duration.
+
+===word: 時期尚早===
+Meaning: Too early (to do)
+Nuance_EN: A four-character idiom meaning that it is too early to do something. Used in business or planning contexts to indicate cautious judgment.
+
+===word: 時機===
+Meaning: Opportunity
+Nuance_EN: Refers to a suitable time or chance to do something. It is used in the sense of "opportunity" or "timing."
+
+===word: 時短===
+Meaning: Time-saving
+Nuance_EN: An abbreviation of "時間短縮" (time reduction), meaning to reduce the time required for tasks. Commonly used in business and daily life, often in contexts like "時短レシピ" (time-saving recipes) or "時短テクニック" (time-saving techniques).
+
+===word: 時空===
+Meaning: Spacetime
+Nuance_EN: A physics concept that unifies time and space, famous from Einstein's theory of relativity. Also frequently appears in sci-fi contexts involving time travel and dimensions.
+
+===word: 時空世界===
+Meaning: Spacetime world
+Nuance_EN: A sci-fi and physics term referring to a four-dimensional world where time and space are fused. Often abbreviated as "時空," it is used in sci-fi and theoretical physics, rarely in everyday conversation.
+
+===word: 時節===
+Meaning: Season / Circumstances
+Nuance_EN: Refers to the season, time, or current social situation. Often used in the set phrase "時節柄" (given the times) as a polite greeting. It has a somewhat formal tone.
+
+===word: 時系列===
+Meaning: Chronological order
+Nuance_EN: The order of events arranged along a timeline. Used in data analysis and historical explanations, as in "to arrange in chronological order."
+
+===word: 時給===
+Meaning: Hourly wage
+Nuance_EN: Refers to wages per hour. Commonly used for part-time or temporary work compensation.
+
+===word: 時計が12時を指してる。===
+Meaning: Sum / Total
+Nuance_EN: A word that indicates total or sum, showing the result of adding numerical values. Often seen on receipts and statements.
+
+===word: 時計仕掛け===
+Meaning: Clockwork
+Nuance_EN: Refers to the internal mechanism of a clock that runs on springs and gears, but also used metaphorically to mean an elaborately arranged system or automatic device.
+
+===word: 時計台===
+Meaning: Clock tower
+Nuance_EN: A tower or building with a clock attached, often serving as a city symbol.
+
+===word: 時計方向===
+Meaning: Clockwise
+Nuance_EN: The direction of rotation same as the movement of clock hands, also called "right turn." The opposite is counterclockwise.
+
+===word: 時速===
+Meaning: Speed per hour
+Nuance_EN: Speed expressed as distance traveled per hour. Commonly used for vehicles like cars and trains.
+
+===word: 時針===
+Meaning: Hour hand
+Nuance_EN: The short hand of a clock that indicates the hour.
+
+===word: 時間の問題===
+Meaning: A matter of time
+Nuance_EN: An expression meaning that a result will inevitably happen as time passes.
+
+===word: 時間を引き延ばす===
+Meaning: Prolong / Extend
+Nuance_EN: A verb meaning to lengthen something, such as extending a deadline or growing hair. Used in various contexts.
+
+===word: 時間を潰す===
+Meaning: Kill time
+Nuance_EN: A colloquial expression meaning to spend waiting time or leisure time doing something.
+
+===word: 時間を空ける===
+Meaning: Make time
+Nuance_EN: An expression meaning to adjust one's schedule to secure a specific time slot. Used when making time for someone or creating space in one's schedule.
+
+===word: 時間割===
+Meaning: Timetable
+Nuance_EN: A plan of classes by day and period in school, also used metaphorically for daily schedules.
+
+===word: 時間稼ぎ===
+Meaning: Stalling / Buying time
+Nuance_EN: The act of intentionally gaining time to achieve a goal. Often used tactically, with a negative nuance, such as making someone wait or delaying an answer.
+
+===word: 時限爆弾===
+Meaning: Time bomb
+Nuance_EN: A bomb designed to explode after a set time. Also used metaphorically for situations that may become big problems later.
+
+===word: 晒し者===
+Meaning: Public shame
+Nuance_EN: Being subjected to public humiliation or exposed to shameful conditions. Historically, it referred to a punishment of exposing criminals in public, but now used metaphorically.
+
+===word: 晒す===
+Meaning: Expose
+Nuance_EN: To expose something to wind, rain, sunlight, etc., or to put oneself in danger or criticism. Also means to reveal secrets or shame publicly.
+
+===word: 晩婚===
+Meaning: Late marriage
+Nuance_EN: A noun meaning marrying at an older age than the typical marriageable age. In Japan, the trend of late marriage is increasing due to economic reasons and diverse values. Often used in news and social commentary.
+
+===word: 晩年===
+Meaning: Later years
+Nuance_EN: Refers to the final period of a person's life, especially the latter part of old age, often focusing on how they spent their last years. Slightly formal.
+
+===word: 晩酌===
+Meaning: Evening drink
+Nuance_EN: The habit or act of drinking alcohol at home during dinner. Often associated with middle-aged Japanese men; a culturally significant term.
+
+===word: 晩餐===
+Meaning: Dinner (formal)
+Nuance_EN: A somewhat formal term for an evening meal or dinner. Unlike casual terms like "夕食" or "晩ごはん," it is used in formal gatherings like "晩餐会" (banquet) or in literary/historical contexts.
+
+===word: 晩餐会===
+Meaning: Banquet
+Nuance_EN: An official dinner party, especially a high-class dinner party. It often has a dress code and limited guests, and is frequently hosted by royalty or government officials.
+
+===word: 普及===
+Meaning: Spread / Diffusion
+Nuance_EN: The widespread adoption of something (technology, ideas, etc.) among the general public. Used broadly from technology (smartphones, internet) to education and culture.
+
+===word: 普及啓発===
+Meaning: Public awareness
+Nuance_EN: Activities to broadly inform people about knowledge, technology, or ideas and promote understanding. Used in official campaigns and education, especially in fields like environment, disaster prevention, and health promotion.
+
+===word: 普段===
+Meaning: Usually / Normally
+Nuance_EN: Refers to a normal state or daily life without special events. Commonly used in everyday conversation to mean "usually" or "normally."
+
+===word: 普段から厚着しないようにしています。===
+Meaning: Thick clothing
+Nuance_EN: Wearing many layers of clothes to keep warm. A common word for winter, opposite is "薄着."
+
+===word: 普段着===
+Meaning: Casual clothes
+Nuance_EN: Clothing worn in daily life, as opposed to formal wear like suits. It refers to casual clothes for shopping, housework, or relaxing.
+
+===word: 普通のアメリカの Party で、日本語を話すわけにはいかない===
+Meaning: Squid
+Nuance_EN: A marine mollusk widely eaten as food, essential in Japanese cuisine like squid noodles and sashimi.
+
+===word: 普通兄は優しい反面、卑しいところもある。===
+Meaning: Mask / Aspect
+Nuance_EN: A mask used in Noh or masked drama, also meaning "side" or "aspect" of things. Here it can also mean "face."
+
+===word: 普遍的===
+Meaning: Universal
+Nuance_EN: An adjective that describes qualities that apply widely across time, place, and culture. Used for universal values or truths that are common to everyone.
+
+===word: 景品===
+Meaning: Free gift
+Nuance_EN: A noun referring to a free item given as a bonus with a purchase or as part of a campaign. Used as promotional gifts or prizes in crane games, typically not expensive.
+
+===word: 景気===
+Meaning: Economic conditions
+Nuance_EN: Refers to the overall vitality and state of the economy. Used in phrases like "好景気" (boom) or "不景気" (recession).
+
+===word: 景気が回復してきたね。===
+Meaning: Economic recovery
+Nuance_EN: Refers to the overall vitality and state of the economy. Used in phrases like "好景気" (boom) or "不景気" (recession).
+
+===word: 景気づけ===
+Meaning: Morale booster
+Nuance_EN: The act of lifting spirits or adding vitality. Often done before events or at the start of work to brighten the atmosphere.
+
+===word: 景気付け===
+Meaning: Boosting morale
+Nuance_EN: Similar to 景気づけ, meaning to lift spirits or add momentum. Especially used before starting something or when the atmosphere is down.
+
+===word: 景況===
+Meaning: Economic situation
+Nuance_EN: An economic term referring to the state of the economy. Often used in "景況感" (business sentiment) to describe how companies perceive the economy. Slightly formal, seen in news and reports.
+
+===word: 景色===
+Meaning: Scenery
+Nuance_EN: Refers to visible surroundings such as nature or townscapes. Commonly used to describe beautiful landscapes.
+
+===word: 景色が良かったので途中下車したよ。===
+Meaning: Getting off midway
+Nuance_EN: A somewhat formal expression meaning to get off a train or bus at a station or stop. Used at stations or stops.
+
+===word: 景観===
+Meaning: Landscape
+Nuance_EN: Refers to visible scenery, especially beautiful views or townscapes.
+
+===word: 晴らす===
+Meaning: Clear up
+Nuance_EN: To clear away clouds or fog, and metaphorically to dispel doubts or unease. Used in phrases like "疑いを晴らす" (clear up suspicion) or "気分を晴らす" (clear one's mood).
+
+===word: 晴れがましい===
+Meaning: Showy / Embarrassingly grand
+Nuance_EN: Describes a feeling of being too flashy or embarrassed by attention. Derived from "晴れ" (formal occasion), it implies that something is suitable for a special occasion but feels too much for oneself.
+
+===word: 晴れる===
+Meaning: Clear up
+Nuance_EN: A very common verb meaning the weather becomes sunny and cloudless, or metaphorically, one's mood or doubts are cleared up.
+
+===word: 晴れ姿===
+Meaning: Festive attire
+Nuance_EN: Refers to glamorous clothing or appearance on a special occasion. Used to praise one's outfit at life events like weddings or graduations.
+
+===word: 晴れ晴れしい===
+Meaning: Refreshed / Cheerful
+Nuance_EN: An adjective describing a state of mind that is bright, clear, and refreshed. Used when the weather is nice or after a problem is resolved. Similar to "晴れやか" but more focused on internal feelings.
+
+===word: 晴れ舞台===
+Meaning: Big stage
+Nuance_EN: Refers to a glamorous opportunity or place where one's talents and efforts are highlighted. Used for special life milestones like debut performances, graduations, or weddings; always positive.
+
+===word: 晴天===
+Meaning: Clear sky
+Nuance_EN: Refers to weather with no clouds and a clear sky. An everyday word describing a pleasant blue sky.
+
+===word: 智謀===
+Meaning: Cunning / Strategy
+Nuance_EN: Refers to excellent wisdom, stratagem, or clever tactics for managing affairs. Often used in military or political contexts, with a nuance of outsmarting opponents.
+
+===word: 暁===
+Meaning: Dawn
+Nuance_EN: The time around daybreak. Has an archaic and poetic ring, used more in literary expressions than daily conversation.
+
+===word: 暇つぶし===
+Meaning: Killing time
+Nuance_EN: The act of spending spare time doing something. It implies using time on less important activities or entertainment, and can be used positively or negatively.
+
+===word: 暇を出す===
+Meaning: Fire / Dismiss (euphemism)
+Nuance_EN: A euphemistic expression for firing an employee or a husband divorcing his wife.
+
+===word: 暇乞い===
+Meaning: Farewell (formal)
+Nuance_EN: The act of saying goodbye or offering a resignation, an archaic and formal expression. In modern times, "別れの挨拶" or "辞任" are more common.
+
+===word: 暇人===
+Meaning: Idle person
+Nuance_EN: Refers to a person with a lot of free time and nothing to do. Can carry a slight disdain or teasing nuance, used casually in phrases like "暇人だね."
+
+===word: 暈かす===
+Meaning: Blur
+Nuance_EN: To make outlines or boundaries unclear, showing things vaguely. Used in photo or painting editing, or to intentionally obscure the meaning of words. Note the distinction from "誤魔化す" (to deceive) for figurative blurring.
+
+===word: 暑いせいか、食欲が無い===
+Meaning: Squid
+Nuance_EN: A marine mollusk widely eaten as food, essential in Japanese cuisine like squid noodles and sashimi.
+
+===word: 暑い日が続いたので夏ばてしてしまった===
+Meaning: Summer fatigue
+Nuance_EN: A condition of physical decline or loss of appetite due to summer heat, often written as "夏バテ." A common seasonal term in Japan.
+
+===word: 暑い日には冷たいビールを飲むに限る===
+Meaning: To limit / The best is
+Nuance_EN: A verb meaning to limit something to a specific range, and in the form "〜に限る" it means "the best is ~." Commonly used in daily conversation.
+
+===word: 暑い盛り===
+Meaning: Peak of summer heat
+Nuance_EN: A natural expression referring to the hottest period of summer.
+
+===word: 暑さと忙しさでぐったりした===
+Meaning: Exhausted
+Nuance_EN: An onomatopoeia describing a state of complete physical exhaustion, limp and powerless. Used for heat, illness, or long work.
+
+===word: 暑中見舞い===
+Meaning: Summer greeting card
+Nuance_EN: A greeting card sent during the hot summer to inquire about the recipient's health. A seasonal custom in Japan, often sent by postcard or email.
+
+===word: 暑苦しい===
+Meaning: Stifling hot
+Nuance_EN: An adjective describing heat that is uncomfortable and accompanied by breathlessness or pressure. Caused not only by high temperature but also humidity, poor ventilation, crowds, etc. Also used metaphorically for a person's heavy character.
+
+===word: 暑苦しい部屋===
+Meaning: Stifling room
+Nuance_EN: Describes a state of being painfully oppressive, from physical pressure to economic or mental hardship.
+
+===word: 暖かい===
+Meaning: Warm
+Nuance_EN: Describes a state of being comfortably warm, not cold. Used for climate, room temperature, and also a person's warm personality.
+
+===word: 暖まる===
+Meaning: Get warm
+Nuance_EN: An intransitive verb meaning to become warm as temperature rises. Describes the body or a room warming up.
+
+===word: 暖冬===
+Meaning: Warm winter
+Nuance_EN: A meteorological term for a winter with higher temperatures than average. While it saves on heating costs, ski resorts face snow shortages.
+
+===word: 暖房===
+Meaning: Heating
+Nuance_EN: Equipment or the action of heating a room in winter, such as air conditioners or stoves.
+
+===word: 暖機===
+Meaning: Warm-up (engine)
+Nuance_EN: The act of warming up a machine or engine with preliminary operation before full use. Often used in "暖機運転" (warm-up operation), a technical term for vehicles and industrial machinery.
+
+===word: 暖炉===
+Meaning: Fireplace
+Nuance_EN: A indoor facility for burning fire to keep warm, commonly seen in Western-style houses.
+
+===word: 暖簾===
+Meaning: Noren curtain
+Nuance_EN: A short cloth curtain hung at the entrance of a shop. Also used metaphorically in business contexts like "暖簾分け" (branching off as an independent business).
+
+===word: 暖色===
+Meaning: Warm colors
+Nuance_EN: A collective term for colors that evoke warmth, such as red, orange, and yellow. Opposite of cool colors. Used in color theory, interior design, and fashion. Warm colors make spaces feel cozier.
+
+===word: 暗い===
+Meaning: Dark / Gloomy
+Nuance_EN: Describes a state with little light making it hard to see, or a personality that is gloomy and pessimistic. Opposite is "明るい".
+
+===word: 暗いので足下に気を付けてください。===
+Meaning: Dark
+Nuance_EN: Describes a state with little light making it hard to see, or a personality that is gloomy and pessimistic. Opposite is "明るい".
+
+===word: 暗がり===
+Meaning: Dimness
+Nuance_EN: Refers to a place with little light, not completely dark. Compared to "暗闇" (total darkness), "暗がり" implies a dimness where objects are faintly visible. Has a literary and sensory ring.
+
+===word: 暗に。。===
+Meaning: Implicitly
+Nuance_EN: An adverb meaning to hint or suggest indirectly, avoiding direct expression. Used in phrases like "暗に批判する" (implicitly criticize) or "暗に示唆する" (implicitly suggest).
+
+===word: 暗ます===
+Meaning: Deceive
+Nuance_EN: A verb meaning to deceive or cleverly trick someone to hide the truth. It carries a strong nuance of fraud or scheming, derived from the image of "making dark to hide." Rarely used in modern conversation, seen in period dramas and classical literature.
+
+===word: 暗中模索する===
+Meaning: Grope in the dark
+Nuance_EN: To search for a solution through trial and error without any clues. Originally from "groping in the dark," used metaphorically.
+
+===word: 暗号===
+Meaning: Code / Cipher
+Nuance_EN: Refers to characters or symbols transformed under specific rules so that third parties cannot understand the content.
+
+===word: 暗号化===
+Meaning: Encryption
+Nuance_EN: The process of converting data using a specific method so that only authorized people can read it. A term used mainly in information security and computing.
+
+===word: 暗唱===
+Meaning: Recitation
+Nuance_EN: The act of reciting something from memory. Used in a wide range of contexts from daily conversation to writing.
+
+===word: 暗喩===
+Meaning: Metaphor
+Nuance_EN: A noun meaning "hidden comparison" or metaphor. Unlike a simile, it does not use "like" or "as" but indirectly compares things. A literary and rhetorical term, often replaced by "メタファー" or "たとえ" in daily conversation.
+
+===word: 暗夜===
+Meaning: Dark night
+Nuance_EN: A literary expression for a night without moonlight, very dark. In daily conversation, "暗い夜" is more common.
+
+===word: 暗幕===
+Meaning: Blackout curtain
+Nuance_EN: A thick curtain or cloth to block light, used in theaters, projection rooms, and museums to completely block external light. Not common in daily life, but seen in school gymnasiums.
+
+===word: 暗所===
+Meaning: Dark place
+Nuance_EN: A somewhat formal term for a dark place. Often used in compounds like "暗所恐怖症" (nyctophobia). In daily speech, "暗いところ" is more common.
+
+===word: 暗所恐怖症===
+Meaning: Nyctophobia
+Nuance_EN: A symptom of abnormal fear of dark places. Often confused with claustrophobia, but specifically the fear factor is darkness.
+
+===word: 暗殺する===
+Meaning: Assassinate
+Nuance_EN: To plan and kill an important person for political reasons.
+
+===word: 暗澹===
+Meaning: Gloomy
+Nuance_EN: Describes a state of being dark without light or a feeling of deep depression without hope. Often used in "暗澹たる気持ち" to express pessimism or despair about the future.
+
+===word: 暗礁===
+Meaning: Reef / Hidden obstacle
+Nuance_EN: A reef hidden beneath the sea surface that poses a danger to navigation. Metaphorically, it refers to unexpected obstacles in negotiations or plans.
+
+===word: 暗示===
+Meaning: Suggestion / Hint
+Nuance_EN: The act of making someone aware indirectly without stating directly. In psychology, it is a technique to influence the subconscious.
+
+===word: 暗算===
+Meaning: Mental arithmetic
+Nuance_EN: Performing calculations in one's head without using pen, paper, or calculator. Mental arithmetic skills are useful in daily life.
+
+===word: 暗視===
+Meaning: Night vision
+Nuance_EN: Technology or devices that allow seeing in dark places, such as night vision goggles or cameras. Used in military, police, and nighttime wildlife observation.
+
+===word: 暗記する===
+Meaning: Memorize
+Nuance_EN: To memorize entirely, rather than understanding the content. Used for exam study or recitation, with a nuance of repeating to fix in memory.
+
+===word: 暗証番号===
+Meaning: PIN number
+Nuance_EN: A secret numeric combination used for identity verification, such as for bank cards or smartphone unlock.
+
+===word: 暗躍===
+Meaning: Secret maneuvering
+Nuance_EN: To act secretly and influence matters without appearing in public. Carries a nuance of conspiracy or scheming, used in formal contexts like politics or organizational backstage.
+
+===word: 暗転===
+Meaning: Blackout (theater)
+Nuance_EN: A technical term for lights suddenly going dark in theater. Metaphorically, it means a sudden deterioration or unexpected shift to a darker direction.
+
+===word: 暗部===
+Meaning: Dark side
+Nuance_EN: Refers to the dark parts of things or hidden negative aspects. Used for a person's bad traits or society's dark side. Note: not to be confused with "陰部" (genitals). Slightly formal and literary.
+
+===word: 暗闇===
+Meaning: Total darkness
+Nuance_EN: A state of complete darkness, stronger than just "暗い." It evokes deep darkness where nothing is visible. Metaphorically used for situations with no future prospects or despair.
+
+===word: 暗闇を手探りで進みました===
+Meaning: Groping
+Nuance_EN: To feel by touching with hands, or to proceed by trial and error in a situation without clear direction. Often used in the form "手探り状態."
+
+===word: 暗黒物質===
+Meaning: Dark matter
+Nuance_EN: A substance hypothesized to exist in the universe that cannot be observed optically. The Japanese translation of "dark matter," a term in astronomy and physics.
+
+===word: 暗黙===
+Meaning: Tacit / Implicit
+Nuance_EN: The act of mutually indicating something without using words or explicit expressions. Especially used in the idiom "暗黙の了解" (tacit understanding), symbolizing the indirect communication style in Japanese culture.
+
+===word: 暢達===
+Meaning: Fluent
+Nuance_EN: A somewhat formal expression describing speech or writing that is smooth and skillful. Similar to "流暢" but with a more elegant nuance.
+
+===word: 暦===
+Meaning: Calendar
+Nuance_EN: Refers to a calendar or almanac showing dates, days, and seasonal events. Also refers to the Japanese lunar calendar.
+
+===word: 暦の上では今日から冬ですね。===
+Meaning: Calendar
+Nuance_EN: Refers to a calendar or almanac showing dates, days, and seasonal events. Also refers to the Japanese lunar calendar.
+
+===word: 暫し===
+Meaning: For a moment (literary)
+Nuance_EN: A literary adverb meaning "for a short while." More common in daily speech is "しばらく," but "暫し" is used in poetry, novels, and speeches for a refined tone, emphasizing a brief pause or silence.
+
+===word: 暫定===
+Meaning: Provisional
+Nuance_EN: Something established temporarily until a final decision is made. Indicates makeshift measures or provisional status.
+
+===word: 暫定政府===
+Meaning: Provisional government
+Nuance_EN: A temporary government that rules until a formal government is established after a political change or revolution. A technical term used in political and international news, rarely in daily conversation.
+
+===word: 暮しに困る===
+Meaning: Struggle to make ends meet
+Nuance_EN: Describes a state of economic hardship due to insufficient money for living expenses. Rather than directly saying "poor," it depicts the specific situation of lacking daily necessities.
+
+===word: 暮らす===
+Meaning: Live / Spend one's days
+Nuance_EN: A broad verb meaning to pass one's days or live a life. Used regarding the circumstances or place of living.
+
+===word: 暮れ===
+Meaning: Dusk / Year-end
+Nuance_EN: The time when the sun sets and it starts to get dark, referring to the period from evening to night. Also used for the end of the year.
+
+===word: 暮れは用事が多くて忙しいです。===
+Meaning: Dusk / Year-end
+Nuance_EN: The time when the sun sets and it starts to get dark, referring to the period from evening to night. Also used for the end of the year.
+
+===word: 暮れる===
+Meaning: Get dark / End (time)
+Nuance_EN: To become dark as the sun sets, or to approach the end of a season or year. Also used metaphorically to be dominated by emotion, as in "悲しみに暮れる" (be lost in grief).
+
+===word: 暮色===
+Meaning: Twilight glow
+Nuance_EN: A literary word for the dim light of dusk or the scenery when it starts to get dark. A Sino-Japanese expression used in poetry and novels for emotional effect. In daily speech, "夕暮れ" or "たそがれ時" is more common.
+
+===word: 暴く===
+Meaning: Expose (secrets)
+Nuance_EN: To bring hidden facts or secrets to light. Used especially for exposing scandals or wrongdoing, with a strong sense of initiative and impact.
+
+===word: 暴れだす===
+Meaning: Start raging
+Nuance_EN: To suddenly begin to act violently. Describes a sudden shift from a calm state to wild behavior.
+
+===word: 暴れる===
+Meaning: Rampage
+Nuance_EN: To be unable to control intense emotions or actions, causing a commotion and moving around without regard for surroundings.
+
+===word: 暴れん坊===
+Meaning: Wild child
+Nuance_EN: A colloquial term for a restless and rough person, especially a mischievous child or young person. Not entirely malicious, often implying they are overly energetic. Famous from the period drama "暴れん坊将軍," it carries a somewhat endearing image.
+
+===word: 暴れ回る===
+Meaning: Run amok
+Nuance_EN: To move around violently and rampantly. Used from children running excitedly to rioters causing destruction. Implies uncontrollable intense movement.
+
+===word: 暴利===
+Meaning: Excessive profit
+Nuance_EN: Earning abnormally high profit relative to the price of goods. A negative word used for malicious business practices.
+
+===word: 暴力===
+Meaning: Violence
+Nuance_EN: The act of causing harm to others using physical force or attack. It can include both physical and psychological violence.
+
+===word: 暴力団(員)===
+Meaning: Gangster
+Nuance_EN: The formal Japanese term for a criminal organization or gang member. Used by police and media.
+
+===word: 暴力行為は反対です。===
+Meaning: Opposition
+Nuance_EN: A particle-like noun indicating two things facing or comparing each other, used in "A対B" for matchups, comparisons, or ratios. Also used as a prefix in compounds like "対称" (symmetry).
+
+===word: 暴動===
+Meaning: Riot
+Nuance_EN: A state of disturbance where a crowd disrupts order and engages in destruction or violence. A formal word used in news and official announcements, more serious than a demonstration.
+
+===word: 暴君===
+Meaning: Tyrant
+Nuance_EN: A monarch or leader who abuses power and governs cruelly and arrogantly. Used for dictators or despotic rulers, and metaphorically for domineering people at home or work.
+
+===word: 暴挙===
+Meaning: Outrage
+Nuance_EN: Refers to a violent action or treatment that ignores reason and common sense. Carries a very strong tone of condemnation.
+
+===word: 暴漢===
+Meaning: Assailant
+Nuance_EN: A person who commits violent acts, especially a sudden attacker or violent criminal.
+
+===word: 暴落===
+Meaning: Crash (price)
+Nuance_EN: A sudden and sharp decline in stock prices or commodity prices. Mainly used in economics and finance, emphasizing the violent and rapid nature of the drop.
+
+===word: 暴虐===
+Meaning: Cruelty
+Nuance_EN: Extremely cruel and heartless acts or behavior. A formal expression.
+
+===word: 暴虐を極める===
+Meaning: Reach height of cruelty
+Nuance_EN: To commit cruel acts to the extreme, doing everything inhuman. Used to condemn the evils of rulers or those in power.
+
+===word: 暴虐非道===
+Meaning: Atrocious
+Nuance_EN: A four-character idiom describing extremely cruel and inhumane acts. Used to condemn actions that deviate from humanity. A very stiff expression, rarely used in daily conversation.
+
+===word: 暴行===
+Meaning: Assault
+Nuance_EN: The act of illegally using violence against another person. A legal term, frequently used in news, formal and weighty.
+
+===word: 暴言===
+Meaning: Abusive language
+Nuance_EN: Rough and irresponsible words that hurt others. Often used in contexts of workplace or relationship troubles. Somewhat formal.
+
+===word: 暴走===
+Meaning: Runaway
+Nuance_EN: To proceed without control, such as a car running wild or a computer malfunctioning.
+
+===word: 暴走族===
+Meaning: Biker gang
+Nuance_EN: A group of young people who ride modified cars or motorcycles, making noise and driving dangerously. A unique Japanese subculture often covered in media, though declining in recent years.
+
+===word: 暴露===
+Meaning: Exposure
+Nuance_EN: The act of revealing something hidden, such as secrets or scandals. Often used in journalism or gossip.
+
+===word: 暴風===
+Meaning: Storm
+Nuance_EN: Extremely strong wind. As a meteorological term, it refers to storm-level winds that warrant warnings.
+
+===word: 暴風雨===
+Meaning: Storm
+Nuance_EN: A stormy weather with strong winds and heavy rain, caused by typhoons or developed low-pressure systems. A formal meteorological term used in warnings and news.
+
+===word: 暴飲暴食のせいで。。。===
+Meaning: Excessive eating and drinking
+Nuance_EN: Extreme overconsumption of food and drink, especially when it harms health. Strongly negative, often used in health checkup or lifestyle disease discussions.
+
+===word: 暴騰===
+Meaning: Soar / Skyrocket
+Nuance_EN: A term in economics and news indicating a sudden and large rise in prices or values. Opposite of "暴落," stronger than "急騰." Used for abnormal increases, carrying surprise or concern. Common in economic news; in daily speech, "急に値上がりした" is more common.
+
+===word: 曇らす===
+Meaning: Cloud / Fog
+Nuance_EN: The transitive form of "曇る," meaning to make something transparent become cloudy or opaque, or to cloud one's mind or judgment. Used physically (fogging glass) and abstractly (clouding judgment).
+
+===word: 曖昧な===
+Meaning: Vague
+Nuance_EN: An adjective describing something unclear or hazy. Used both for intentional evasion and simple lack of clarity. Often considered an attitude to avoid in business and relationships.
+
+===word: 曖昧模糊===
+Meaning: Ambiguous
+Nuance_EN: A state of being unclear, with boundaries and content of things being vague and indistinct.
+
+===word: 曰く===
+Meaning: Say / There is a story
+Nuance_EN: A somewhat archaic and literary expression meaning "to say." Rarely used alone in modern times, but common in the idiom "曰く付きの" (with a story/history). Also used in writing for quoting, like "曰く、～".
+
+===word: 曲===
+Meaning: Tune / Piece
+Nuance_EN: A basic word for a musical composition, such as a song or instrumental piece. Used across genres from pop to classical.
+
+===word: 曲がりくねる===
+Meaning: Wind / Meander
+Nuance_EN: A verb describing a road or river that bends repeatedly, not straight. Also used metaphorically for complexly intertwined matters.
+
+===word: 曲がりなりにも===
+Meaning: In a makeshift way
+Nuance_EN: An expression meaning "in a rough way" or "though not perfect," used to indicate something done with difficulty or inadequacy.
+
+===word: 曲げる===
+Meaning: Bend / Compromise
+Nuance_EN: A transitive verb meaning to bend something straight. Used physically (bending wire) and metaphorically (bending one's principles). Often in negative contexts for compromise.
+
+===word: 曲折===
+Meaning: Twists and turns
+Nuance_EN: Refers to winding paths or a series of difficulties and changes in a process. Often used in "曲折を経て" (after many twists and turns), indicating results after overcoming hardships.
+
+===word: 曲目===
+Meaning: Program (of pieces)
+Nuance_EN: The list of musical pieces performed at a concert or the names of individual pieces. Refers to the official titles in the program, used in "曲目リスト" or "曲目紹介."
+
+===word: 曲線===
+Meaning: Curve
+Nuance_EN: A line that is not straight but curved. Used from mathematical figures to the silhouette of a woman's body.
+
+===word: 曲線===
+Meaning: Curve
+Nuance_EN: A line that is not straight but curved. Used from mathematical figures to the silhouette of a woman's body.
+
+===word: 曲者===
+Meaning: Suspicious person
+Nuance_EN: Refers to a suspicious person or a troublesome opponent not easily dealt with. Often used in period dramas and novels, and metaphorically in modern speech to warn about a person or thing.
+
+===word: 曲芸===
+Meaning: Acrobatics
+Nuance_EN: Artistic performances using skillful body movements and balance, such as acrobatics, juggling, and plate spinning. Includes Chinese "雑技." Also used metaphorically in "言葉の曲芸" (verbal acrobatics) to praise clever handling of difficult tasks.
+
+===word: 曲芸団===
+Meaning: Acrobatic troupe
+Nuance_EN: A group that performs acrobatics and juggling, such as a circus.
+
+===word: 曲芸師===
+Meaning: Acrobat
+Nuance_EN: A person who performs skillful body movements to entertain audiences, such as acrobats and jugglers in circuses.
+
+===word: 曲解===
+Meaning: Misinterpretation
+Nuance_EN: The act of twisting or misinterpreting someone's words or intentions. Often used in misunderstandings or deliberate distortion.
+
+===word: 曲面===
+Meaning: Curved surface
+Nuance_EN: A shape that is not flat but has a curved surface. A technical term used in mathematics, architecture, and design, including spheres and cylinders.
+
+===word: 更ける===
+Meaning: Grow late / Deepen
+Nuance_EN: The progression of time deepening, such as night deepening or autumn advancing. Used for seasons and time of day.
+
+===word: 更なる===
+Meaning: Further
+Nuance_EN: A prenominal adjective meaning going further or beyond the current state. Often used in positive contexts like "更なる努力" (further effort) or "更なる発展" (further development).
+
+===word: 更に===
+Meaning: Furthermore
+Nuance_EN: An adverb indicating that the degree or extent of something is advancing or that there is an addition. Commonly used in written language and formal contexts.
+
+===word: 更地===
+Meaning: Vacant lot
+Nuance_EN: A plot of land with no buildings, cleared of structures. A technical term in real estate transactions.
+
+===word: 更年期===
+Meaning: Menopause / Middle age
+Nuance_EN: The period in middle age (40s-50s) when hormonal changes cause various physical and mental symptoms. Often discussed in health and family contexts; the term "更年期障害" (menopause disorder) is also common. Requires sensitivity.
+
+===word: 更新===
+Meaning: Renewal / Update
+Nuance_EN: To replace old things with new ones, or to renew contracts or records. Used in a wide range of contexts, like license renewal, software updates, etc.
+
+===word: 更新履歴===
+Meaning: Update history
+Nuance_EN: A record of changes made to software, websites, or documents, showing when, who, and what was changed in chronological order.
+
+===word: 更生===
+Meaning: Rehabilitation
+Nuance_EN: The process of a person who committed a mistake turning over a new leaf and starting a new life. Used for social reintegration after prison, etc.
+
+===word: 更衣室===
+Meaning: Locker room
+Nuance_EN: A room for changing clothes, found in school pools, gyms, and workplaces. Designed for privacy, often with booths and lockers.
+
+===word: 更迭===
+Meaning: Dismissal (of personnel)
+Nuance_EN: The act of removing or reassigning someone from a position, often due to scandal or poor performance. Used in corporate or political contexts.
+
+===word: 書き写す===
+Meaning: Copy (by hand)
+Nuance_EN: To write down text from an original onto another paper or notebook. Focuses on the manual writing action, not just copying.
+
+===word: 書き出し===
+Meaning: Opening (of writing)
+Nuance_EN: The beginning part of a written text, such as the opening lines of a story or document.
+
+===word: 書き取り===
+Meaning: Dictation
+Nuance_EN: A practice method of writing down heard words or seen text directly onto paper. Commonly used in language learning and kanji practice.
+
+===word: 書き取る===
+Meaning: Write down
+Nuance_EN: To record heard words or seen text by writing them on paper. Used for taking notes in class or recording interview content.
+
+===word: 書き味===
+Meaning: Writing feel
+Nuance_EN: The tactile sensation and ease of writing when using a pen or writing instrument. Used in stationery reviews and product descriptions, like "smooth writing feel."
+
+===word: 書き換える===
+Meaning: Rewrite
+Nuance_EN: To change written content to something else. Often used when modifying data or text.
+
+===word: 書き殴る===
+Meaning: Scribble
+Nuance_EN: To write hastily and roughly, not carefully. Used when in a hurry or writing emotionally, with a nuance of messy writing.
+
+===word: 書き留める===
+Meaning: Jot down
+Nuance_EN: To write down important things so as not to forget. Focuses on the act of taking notes.
+
+===word: 書き置き===
+Meaning: Leave a note
+Nuance_EN: A note left for someone who is absent, containing a message. Functions like a memo.
+
+===word: 書き記す===
+Meaning: Record (formally)
+Nuance_EN: To write down and preserve text or records. Used for formal writing like diaries or historical records.
+
+===word: 書き連ねる===
+Meaning: List / Write in succession
+Nuance_EN: To write things one after another, as in a list. Adds the nuance of "many" or "in sequence." Used in letters, emails, diaries, or applications. Somewhat formal but used in daily conversation.
+
+===word: 書名===
+Meaning: Book title
+Nuance_EN: The title of a book, written on the cover, used to identify the book.
+
+===word: 書店===
+Meaning: Bookstore
+Nuance_EN: A store that sells books. A slightly more formal term than "本屋," used regardless of size or type.
+
+===word: 書店で日本画全集を立ち読みした===
+Meaning: Complete works (collection)
+Nuance_EN: A publication that collects all works of a specific author or field into one series, such as literary or art collections. Highly valuable as a book collection.
+
+===word: 書庫===
+Meaning: Book repository
+Nuance_EN: A room or facility for storing books in a library or private home. In libraries, often off-limits to the general public.
+
+===word: 書式===
+Meaning: Format (document)
+Nuance_EN: Refers to the form or style of documents. Used in word processing "format settings" or application forms, covering both appearance and templates.
+
+===word: 書式付け===
+Meaning: Formatting
+Nuance_EN: The act of arranging the appearance and format of documents or data. Used in word processing and programming contexts.
+
+===word: 書房===
+Meaning: Study (room)
+Nuance_EN: A room for reading and writing, often used in Chinese contexts. Less common than 書斎.
+
+===word: 書斎===
+Meaning: Study (room)
+Nuance_EN: A room in a house set aside for reading, studying, or writing. Typically quiet with bookshelves and a desk. Has a somewhat formal ring, implying an intellectual adult space.
+
+===word: 書架===
+Meaning: Bookshelf
+Nuance_EN: A shelf for organizing books. A formal term used in libraries; at home, "本棚" is more common. Often used in library systems like "書架番号."
+
+===word: 書状===
+Meaning: Letter (formal)
+Nuance_EN: A formal letter or document. Used in business or official contexts.
+
+===word: 書生===
+Meaning: Student (living-in)
+Nuance_EN: A term used from Meiji to early Showa for a student who studies while doing chores. Rarely used now, seen in period dramas and literature.
+
+===word: 書簡===
+Meaning: Letter / Correspondence
+Nuance_EN: A somewhat formal term for a letter or document. Often used in business or official correspondence.
+
+===word: 書籍===
+Meaning: Book / Publication
+Nuance_EN: A somewhat formal term for books or publications. Used in business, libraries, and publishing. In daily conversation, "本" is sufficient; "書籍" is used in formal documents.
+
+===word: 書見台===
+Meaning: Book stand
+Nuance_EN: A stand for opening and viewing books or documents. Placed on a desk with an angle, used for reading or copying sutras.

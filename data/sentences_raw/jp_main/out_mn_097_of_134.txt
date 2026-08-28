@@ -1,0 +1,799 @@
+===word: 知恵は小出しにせよ===
+Meaning: Dole out wisdom bit by bit
+Nuance_EN: A proverb advising to reveal knowledge gradually rather than all at once, often to maintain interest or strategic advantage. The reading "こだ" likely refers to 小出し (kōdashi), meaning "to dole out little by little."
+
+===word: 知恵者===
+Meaning: Wise person / Sage
+Nuance_EN: Refers to someone with abundant knowledge and sound judgment, especially skilled in practical, life-oriented wisdom. It emphasizes real-world savvy over bookish learning.
+
+===word: 知略===
+Meaning: Strategic wisdom / Cunning
+Nuance_EN: Denotes wisdom and clever tactics used to advance one's position or achieve goals, often implying resourcefulness and strategic planning. Used in contexts of military strategy, business, or competitive situations.
+
+===word: 知的===
+Meaning: Intellectual / Intelligent
+Nuance_EN: An adjectival verb describing a person, atmosphere, or activity characterized by rich knowledge and rationality. Almost always used positively, e.g., "an intellectual person" or "intellectual work."
+
+===word: 知的財産権===
+Meaning: Intellectual property rights
+Nuance_EN: A legal term encompassing rights that protect intellectual creations such as inventions and literary works, including patents, copyrights, trademarks, and design rights. Important in business and creative fields.
+
+===word: 知能===
+Meaning: Intelligence / Cognitive ability
+Nuance_EN: Refers to the mental capacity to understand, think, and judge. Used broadly for human intellect, animal intelligence, or artificial intelligence.
+
+===word: 知見===
+Meaning: Knowledge / Insight
+Nuance_EN: Knowledge and views gained through research or experience. Often used in academic or business contexts, implying practical and specialized understanding beyond mere information.
+
+===word: 知覚===
+Meaning: Perception / Sensation
+Nuance_EN: The recognition of external information through sensory organs (eyes, ears, etc.). Commonly used in psychology and physiology.
+
+===word: 知識===
+Meaning: Knowledge
+Nuance_EN: Information or understanding acquired through learning or experience. A general term covering a wide range of fields.
+
+===word: 矩形===
+Meaning: Rectangle
+Nuance_EN: A mathematical term for a quadrilateral with all right angles, i.e., a rectangle. Read as "くけい," it is more technical than the common "長方形" and used in design blueprints, architecture, and UI design.
+
+===word: 短刀===
+Meaning: Short sword / Tanto
+Nuance_EN: A short Japanese blade used mainly for self-defense or ceremonial purposes, including ritual suicide (seppuku). A type of nihontō (Japanese sword).
+
+===word: 短剣===
+Meaning: Dagger
+Nuance_EN: A short-bladed sword primarily used as a weapon, appearing in fantasy and historical contexts. Shorter than a sword and designed for thrusting.
+
+===word: 短大===
+Meaning: Junior college
+Nuance_EN: Abbreviation of 短期大学, a higher education institution offering specialized programs over two to three years, focusing on practical skills and qualifications. Traditionally associated with female students, but now increasingly coeducational.
+
+===word: 短慮===
+Meaning: Impetuous / Shortsighted
+Nuance_EN: A noun describing a tendency to act without deep thought, emphasizing insufficient reflection rather than the outcome. Often used in business contexts as a warning ("avoid shortsighted decisions"). More formal than the colloquial "考えなし."
+
+===word: 短所===
+Meaning: Weakness / Shortcoming
+Nuance_EN: Refers to negative aspects or defects in a person's character or in things. The opposite of 長所 (strength), often seen as something to improve or overcome.
+
+===word: 短気===
+Meaning: Short temper / Irascibility
+Nuance_EN: A tendency to become angry or irritated quickly, implying impatience and lack of restraint. Always used negatively, viewed as a flaw to be corrected.
+
+===word: 短筒===
+Meaning: Pistol / Short firearm
+Nuance_EN: An old term for a short-barreled gun, especially a handgun. Commonly appears in period dramas (jidaigeki).
+
+===word: 短絡的===
+Meaning: Simplistic / Hasty
+Nuance_EN: An adjectival verb describing a tendency to draw oversimplified conclusions without deep thought. Used critically for reasoning that jumps to conclusions or judges complex issues too quickly.
+
+===word: 短編===
+Meaning: Short work / Short story
+Nuance_EN: Refers to literary or film works of short length, such as short stories or short films. The antonym is 長編 (long work).
+
+===word: 短調===
+Meaning: Minor key
+Nuance_EN: A musical term for a key (minor key) that typically conveys a sadder, darker impression compared to major keys. Used in classical and popular music.
+
+===word: 短髪===
+Meaning: Short hair
+Nuance_EN: Having short hair; a hairstyle cut short.
+
+===word: 矮小===
+Meaning: Tiny / Petty / Inferior
+Nuance_EN: A somewhat formal word meaning physically or figuratively very small or inferior. Often used in critical contexts.
+
+===word: 矯めつ眇めつ===
+Meaning: Scrutinize / Examine closely
+Nuance_EN: An idiom describing the act of observing something carefully from every angle, often squinting to catch details. Implies thorough inspection without missing anything.
+
+===word: 矯める===
+Meaning: Straighten / Correct
+Nuance_EN: To straighten something bent or correct bad habits/posture. Used for physical correction as well as behavioral improvement.
+
+===word: 矯正===
+Meaning: Correction / Rectification
+Nuance_EN: (No nuance provided in input; likely to be treated as a standalone entry.) The reading is "きょうせい" and it means correction, often in the context of fixing bad habits, posture, or criminal behavior.
+
+===word: 矯正施設===
+Meaning: Correctional facility / Reformatory
+Nuance_EN: A facility for housing and rehabilitating juvenile delinquents, such as a reform school. Unlike prisons, the focus is on correctional education and social reintegration.
+
+===word: 矯正職員===
+Meaning: Correctional officer / Prison staff
+Nuance_EN: Formal term for staff working in prisons or juvenile institutions who manage and rehabilitate inmates. Often used in news and official contexts; more formal than "刑務官."
+
+===word: 矯正視力===
+Meaning: Corrected visual acuity
+Nuance_EN: Refers to vision after correction with glasses or contact lenses. Used in eye exams and driver's license tests.
+
+===word: 石ころ===
+Meaning: Pebble / Stone
+Nuance_EN: A small, ordinary stone lying on the ground, often implying lack of value. A friendly, colloquial term.
+
+===word: 石にかじりついても===
+Meaning: Even if I have to cling to a stone
+Nuance_EN: An idiom expressing a strong determination to see something through no matter how difficult the circumstances.
+
+===word: 石化===
+Meaning: Petrification / Fossilization
+Nuance_EN: The process of becoming stone-like, either literally (organisms turning to fossils) or in fantasy contexts (turning to stone by magic). Has a technical, academic ring.
+
+===word: 石器時代===
+Meaning: Stone Age
+Nuance_EN: A prehistoric period when stone tools were used. Also used metaphorically to describe something extremely outdated or primitive.
+
+===word: 石塔===
+Meaning: Stone tower / Stone monument
+Nuance_EN: A tower or stele made of stone, often found in temple grounds, cemeteries, or historical sites. Larger than a typical tombstone.
+
+===word: 石川県===
+Meaning: Ishikawa Prefecture
+Nuance_EN: A prefecture in the Hokuriku region of Japan, with Kanazawa as its capital. Known for traditional crafts and tourism.
+
+===word: 石工===
+Meaning: Stone mason
+Nuance_EN: A craftsman who processes stone to create buildings, sculptures, etc. An ancient profession involved in constructing temples, castles, and tombstones. More formal and prestigious than "石屋."
+
+===word: 石橋を叩いて渡る===
+Meaning: Knock on a stone bridge before crossing
+Nuance_EN: An idiom meaning to take extreme caution, even when a situation appears safe. Used in the expression "石橋を叩いて渡る" (to exercise excessive prudence). The word "橋" (bridge) itself is also used metaphorically as a connector between people.
+
+===word: 石油===
+Meaning: Petroleum / Oil
+Nuance_EN: A natural fossil fuel extracted from underground, refined into gasoline, kerosene, etc. A major global resource frequently appearing in economic and political news.
+
+===word: 石油はいろいろな製品の原料になります。===
+Meaning: Petroleum becomes raw material for various products
+Nuance_EN: This appears to be a sentence example, not a standalone word. The reading "げんりょう" refers to 原料 (raw material), and the nuance explanation mentions a conjunctive particle. Possibly a parsing error.
+
+===word: 石油を２、３リッターばかり融通してもらえますか===
+Meaning: Can you spare a few liters of oil?
+Nuance_EN: Another sentence example. The key word is 融通 (yūzū), which has two meanings: lending money/things, or being flexible. The nuance explains the term in context.
+
+===word: 石灰===
+Meaning: Lime
+Nuance_EN: A white powder made from burning limestone, used in construction, agriculture, and industry.
+
+===word: 石炭===
+Meaning: Coal
+Nuance_EN: (No explanation provided; likely a common word for coal, a fossil fuel used for energy.)
+
+===word: 石畳===
+Meaning: Cobblestone / Stone pavement
+Nuance_EN: A road or floor paved with flat stones. Found in historical areas such as European old towns or Japanese castle towns, adding to the historic landscape.
+
+===word: 石碑===
+Meaning: Stone monument / Stele
+Nuance_EN: A stone monument inscribed with poems, events, or achievements. Includes various types like poetry monuments, commemorative steles, often seen at tourist sites and historical spots.
+
+===word: 石礫===
+Meaning: Gravel / Pebbles
+Nuance_EN: Small stones or gravel, either as individual pieces or collectively when thrown. Has a somewhat literary or formal tone.
+
+===word: 石綿===
+Meaning: Asbestos
+Nuance_EN: A mineral fiber (asbestos) once widely used in building materials for its fire and heat resistance. Now heavily regulated due to health hazards.
+
+===word: 石膏===
+Meaning: Gypsum / Plaster
+Nuance_EN: A white powder used in construction materials, sculpture, and medical casts. Hardens when mixed with water.
+
+===word: 石造り===
+Meaning: Stone construction / Made of stone
+Nuance_EN: Building or structure made of stone, implying durability and a heavy, solid aesthetic.
+
+===word: 石頭===
+Meaning: Stubborn person / Hard head
+Nuance_EN: A colloquial term for someone who is inflexible and unwilling to change their mind. Derived from "stone-like head," used critically.
+
+===word: 石鹸===
+Meaning: Soap (bar)
+Nuance_EN: A solid cleaning agent used for washing the body or objects. Liquid variants are called body soap, etc.
+
+===word: 砂===
+Meaning: Sand
+Nuance_EN: Fine particles of rock found on beaches, deserts, and riverbanks. A basic, frequently used vocabulary word.
+
+===word: 砂ぼこり===
+Meaning: Dust (from sand)
+Nuance_EN: Sand particles kicked up by wind or movement, creating dust. Common in dry areas, construction sites, or beaches. Also written as "砂埃."
+
+===word: 砂ぼこりで机がざらざらしているね。===
+Meaning: The desk is gritty from sand dust.
+Nuance_EN: A sentence example showing "砂ぼこり" in context. The nuance repeats the previous entry.
+
+===word: 砂丘===
+Meaning: Sand dune
+Nuance_EN: A hill formed by wind-deposited sand, mainly found on coasts or in deserts. Used in geography and tourism contexts.
+
+===word: 砂利===
+Meaning: Gravel
+Nuance_EN: Crushed stone larger than sand but smaller than pebbles, used for driveways, garden paths, and concrete. Produces a crunching sound underfoot.
+
+===word: 砂利道===
+Meaning: Gravel road
+Nuance_EN: A road surfaced with gravel, unpaved with asphalt or concrete. Common in rural Japan, parks, and shrine grounds, making a characteristic crunching sound.
+
+===word: 砂場===
+Meaning: Sandbox / Sandpit
+Nuance_EN: A play area filled with sand in parks or kindergartens for children. Used literally, rarely metaphorically.
+
+===word: 砂塵===
+Meaning: Dust cloud / Sandstorm
+Nuance_EN: Sand and dust airborne in a cloud, seen in deserts, dry areas, or construction sites. Ranges from small gusts to vision-obscuring storms.
+
+===word: 砂岩===
+Meaning: Sandstone
+Nuance_EN: A sedimentary rock formed from compacted sand, used in building materials and sculpture. A basic rock type in geology.
+
+===word: 砂浜===
+Meaning: Sandy beach
+Nuance_EN: A sandy shore along the sea or lake. Common term for beach.
+
+===word: 砂浜を裸足でかけ回ったんだ。===
+Meaning: I ran around barefoot on the sandy beach.
+Nuance_EN: A sentence example. The key word is 砂浜 (sandy beach), as explained.
+
+===word: 砂漠===
+Meaning: Desert
+Nuance_EN: A region with extremely low rainfall, covered in sand or rock. Famous examples include the Sahara and Gobi. Also used metaphorically for emptiness.
+
+===word: 砂漠化===
+Meaning: Desertification
+Nuance_EN: The process by which land becomes drier and desert-like, often due to climate change or over-farming.
+
+===word: 砂糖===
+Meaning: Sugar
+Nuance_EN: The most common sweetener, used widely in cooking and drinks. Includes white sugar, brown sugar, etc. A basic daily vocabulary word.
+
+===word: 砂糖の分量を間違えました===
+Meaning: I got the amount of sugar wrong.
+Nuance_EN: A sentence example. The nuance likely refers to 間違える (to make a mistake).
+
+===word: 砂糖の衣===
+Meaning: Icing / Sugar coating
+Nuance_EN: A sweet coating on cakes and pastries made from powdered sugar, giving a decorative finish.
+
+===word: 砂金===
+Meaning: Gold dust / Placer gold
+Nuance_EN: Granular gold found in riverbeds or sand. Unlike nuggets from mines, it appears as fine particles.
+
+===word: 砒素===
+Meaning: Arsenic
+Nuance_EN: A semi-metallic element (As) known for its extreme toxicity. Historically used in poisons; modern applications include wood preservatives and semiconductors, though safety is a concern.
+
+===word: 研ぎ澄ます===
+Meaning: Sharpen (blade) / Heighten (senses)
+Nuance_EN: To sharpen a blade on a whetstone. Metaphorically, to sharpen one's senses or abilities, as in "感覚を研ぎ澄ます."
+
+===word: 研ぐ===
+Meaning: Sharpen / Polish / Wash (rice)
+Nuance_EN: To rub a blade or tool on a stone to make it sharp. Also used for washing rice (米を研ぐ).
+
+===word: 研修===
+Meaning: Training / Workshop
+Nuance_EN: Practical training or study programs conducted in workplaces, more formal than "勉強." Commonly used in business for new employees or skill development.
+
+===word: 研磨===
+Meaning: Polishing / Grinding
+Nuance_EN: (No nuance provided; likely a technical term for polishing or grinding surfaces to make them smooth.)
+
+===word: 研究===
+Meaning: Research / Study
+Nuance_EN: To investigate and clarify truths through detailed examination. Used not only in academia but also in business for market research. A broad, important term.
+
+===word: 研究グループ単位に特別端末が1台設置された。===
+Meaning: One special terminal was installed per research group.
+Nuance_EN: A sentence example. The key word here seems to be 単位 (as a unit/per) and 設置 (installation). The nuance explanation mentions 位 (rank/order), possibly a misparse.
+
+===word: 研究班が川の地質を調査している===
+Meaning: The research team is surveying the river's geology.
+Nuance_EN: A sentence example. The key word is 地質 (geology), a technical term for the properties of rocks and strata used in construction, mining, and seismology.
+
+===word: 研究者は頭脳の新しい受容器の複合体を識別する===
+Meaning: Researchers identify new receptor complexes in the brain.
+Nuance_EN: A sentence example. The key word is 頭脳 (brain/intellect), used both literally and metaphorically. Also 識別 (identification), a formal term.
+
+===word: 研鑽===
+Meaning: Study / Training / Diligence
+Nuance_EN: Deep study and refinement of academic or technical skills, implying serious effort toward higher goals. Used in business and academic self-improvement contexts.
+
+===word: 砕く===
+Meaning: Crush / Shatter / Break
+Nuance_EN: To break hard objects into pieces by force. Also used metaphorically for thwarting plans or dreams. A basic verb in daily conversation.
+
+===word: 砕けた===
+Meaning: Casual / Informal / Relaxed
+Nuance_EN: An adjective describing a person or manner that is not stiff or formal, but friendly and natural. Used positively for relaxed attitudes or speech.
+
+===word: 砕ける===
+Meaning: Break / Smash / Become informal
+Nuance_EN: Hard objects breaking into pieces due to impact. Metaphorically, to become approachable or less formal.
+
+===word: 砕け散る===
+Meaning: Shatter / Break into pieces
+Nuance_EN: Hard objects breaking and scattering due to strong impact, like glass or ice. Also used metaphorically for hopes being dashed.
+
+===word: 砕氷船===
+Meaning: Icebreaker (ship)
+Nuance_EN: A special ship designed to break thick ice while navigating, used in polar regions to clear routes and transport supplies.
+
+===word: 砕石===
+Meaning: Crushed stone / Aggregate
+Nuance_EN: Artificially crushed rock used as construction aggregate for concrete, roadbeds, and railway ballast. Industrial material rather than natural rubble.
+
+===word: 砥石===
+Meaning: Whetstone / Grindstone
+Nuance_EN: A stone used for sharpening blades like knives and sickles. Traditional tool for tool maintenance.
+
+===word: 砦===
+Meaning: Fort / Stronghold
+Nuance_EN: A defensive structure built to protect against enemy attacks, smaller than a castle. Often appears in historical or military contexts; also used metaphorically as "last bastion."
+
+===word: 砲丸===
+Meaning: Cannonball / Shell
+Nuance_EN: A spherical projectile fired from a cannon. Also used metaphorically for something extremely heavy or fast-moving.
+
+===word: 砲丸投げ===
+Meaning: Shot put
+Nuance_EN: A track and field event where a heavy iron ball (shot) is thrown for distance. Requires strength and technique.
+
+===word: 砲声===
+Meaning: Gunfire sound / Cannon roar
+Nuance_EN: The sound of firing a cannon, often used in military or historical descriptions. Also used for ceremonial salutes.
+
+===word: 砲弾===
+Meaning: Shell / Projectile
+Nuance_EN: Ammunition fired from a cannon; heavy and dangerous. Associated with war and military contexts.
+
+===word: 砲手===
+Meaning: Gunner / Artilleryman
+Nuance_EN: A person who operates and fires a cannon. A specialized military term used in historical or modern armed forces contexts.
+
+===word: 砲撃===
+Meaning: Shelling / Bombardment
+Nuance_EN: Attacking a target with artillery fire. A military term; also used metaphorically for severe criticism ("come under fire").
+
+===word: 砲門===
+Meaning: Gun port / Cannon
+Nuance_EN: An opening for a cannon on a warship or fortress, or the cannon itself. Metaphorically, a position for attack in debate or criticism ("open the gun ports").
+
+===word: 破る===
+Meaning: Tear / Break / Defeat
+Nuance_EN: To physically tear paper or cloth, or metaphorically to break records, promises, etc. A very basic, high-frequency verb.
+
+===word: 破れかぶれ===
+Meaning: Reckless / Desperate
+Nuance_EN: A state of being desperate and not caring about consequences ("couldn't care less"). Colloquial expression for a give-up attitude.
+
+===word: 破城槌===
+Meaning: Battering ram
+Nuance_EN: A siege weapon used to break down walls or gates. A heavy log with a metal head, swung by several people.
+
+===word: 破天荒===
+Meaning: Unprecedented / Daring
+Nuance_EN: Describes something that has never been done before, bold and impactful. Can be positive ("groundbreaking") or critical ("outrageous").
+
+===word: 破局===
+Meaning: Catastrophe / Rupture
+Nuance_EN: A definitive end to a relationship, a major failure, or a disastrous outcome. Used for breakups, business failures, or international conflicts.
+
+===word: 破廉恥===
+Meaning: Shameless / Scandalous
+Nuance_EN: A strong negative word for morally unacceptable, shameless acts. Used for crimes or scandals; too strong for everyday situations.
+
+===word: 破戒===
+Meaning: Breaking religious precepts / Violation
+Nuance_EN: Violating religious commandments or laws, especially for monks (e.g., drinking, eating meat, sexual relations).
+
+===word: 破戒僧===
+Meaning: Apostate monk
+Nuance_EN: A monk who breaks Buddhist precepts, criticized for not observing the rules. A critical term.
+
+===word: 破損===
+Meaning: Damage / Breakage
+Nuance_EN: Physical damage such as cracks, chips, or breaks. Often used for product defects or shipping accidents.
+
+===word: 破格===
+Meaning: Exceptional / Unprecedented (price/treatment)
+Nuance_EN: Exceeding normal standards, usually in a positive sense for prices, treatment, or ability. Emphasizes being extraordinarily favorable.
+
+===word: 破滅===
+Meaning: Ruin / Destruction
+Nuance_EN: Complete ruin or fall into a miserable state, often on a large scale (life, company, plans). Very strong negative connotation.
+
+===word: 破片===
+Meaning: Fragment / Splinter
+Nuance_EN: Small pieces from something broken, like glass, pottery, or rock.
+
+===word: 破産者===
+Meaning: Bankrupt person
+Nuance_EN: A person who has undergone legal bankruptcy proceedings. Formal term used in law and economic news; somewhat sensitive.
+
+===word: 破砕===
+Meaning: Crushing / Pulverization
+Nuance_EN: Breaking hard materials into smaller pieces, used in industrial processes like rock crushing.
+
+===word: 破算===
+Meaning: Reset / Start over
+Nuance_EN: To cancel a plan or calculation and start anew from scratch. Used in business or strategy, implying a fresh start.
+
+===word: 破綻する===
+Meaning: Fail / Collapse / Go bankrupt
+Nuance_EN: A verb meaning to fall apart or go bankrupt. Used broadly from daily conversation to formal writing.
+
+===word: 破綻寸前===
+Meaning: On the brink of collapse
+Nuance_EN: A very dangerous state just before failure, especially regarding a company's finances or an organization's stability.
+
+===word: 破綻手続き===
+Meaning: Bankruptcy proceedings
+Nuance_EN: Legal procedures when a company or individual cannot repay debts, including bankruptcy or corporate reorganization.
+
+===word: 破綻申請===
+Meaning: Bankruptcy filing
+Nuance_EN: The act of applying for legal insolvency procedures due to financial failure. A specialized term in law and business.
+
+===word: 破線===
+Meaning: Dotted line / Dashed line
+Nuance_EN: A line made of dashes or dots, used in maps and diagrams to indicate boundaries or routes.
+
+===word: 破茶滅茶===
+Meaning: Messy / Outrageous
+Nuance_EN: An emphatic version of "めちゃくちゃ," describing a completely disordered or excessive state. Strongly negative but can be used humorously.
+
+===word: 破落戸===
+Meaning: Thug / Hoodlum
+Nuance_EN: Read as "ごろつき," a derogatory term for a person with bad behavior who uses violence. The kanji are ateji (phonetic matching). Very negative.
+
+===word: 破裂===
+Meaning: Burst / Explode
+Nuance_EN: (No nuance provided; likely a common word for bursting or splitting, like a pipe or balloon.)
+
+===word: 破談===
+Meaning: Broken off (negotiations/marriage)
+Nuance_EN: When a marriage arrangement or business deal falls through. Often used for engagement cancellations.
+
+===word: 破門===
+Meaning: Expulsion / Excommunication
+Nuance_EN: Being expelled from an organization or group. A severe punishment, used in master-disciple or religious contexts.
+
+===word: 破顔===
+Meaning: Breaking into a smile
+Nuance_EN: A literary expression for when a tense expression relaxes into a natural smile. Describes an involuntary, warm smile.
+
+===word: 硝煙===
+Meaning: Gunpowder smoke
+Nuance_EN: Smoke from burned gunpowder, evoking battlefields or shooting ranges.
+
+===word: 硝石===
+Meaning: Saltpeter / Potassium nitrate
+Nuance_EN: A mineral used in gunpowder production (black powder). Also used in fertilizers and food preservatives.
+
+===word: 硝薬===
+Meaning: Gunpowder
+Nuance_EN: (No nuance provided; likely a synonym for gunpowder or explosive substances.)
+
+===word: 硫黄===
+Meaning: Sulfur
+Nuance_EN: A yellow crystalline element found near volcanoes, used in matches, gunpowder, and chemicals.
+
+===word: 硬い===
+Meaning: Hard / Stiff / Formal
+Nuance_EN: Describes objects that are not soft and resist deformation. Also used for a stiff expression or rigid attitude.
+
+===word: 硬化===
+Meaning: Hardening / Sclerosis
+Nuance_EN: Soft material becoming hard. Also used metaphorically for attitudes or opinions becoming inflexible.
+
+===word: 硬木===
+Meaning: Hardwood
+Nuance_EN: (No nuance provided; likely refers to dense wood from deciduous trees, used in furniture and flooring.)
+
+===word: 硬派===
+Meaning: Stern faction / Hardliner
+Nuance_EN: Refers to overly serious, earnest people or tough, uncompromising positions. In student slang, the opposite of 軟派 (playboy). In politics, means hardliners.
+
+===word: 硬直===
+Meaning: Stiffness / Rigidity
+Nuance_EN: The body or object becoming stiff and immobile. Metaphorically, loss of flexibility in thinking or organization.
+
+===word: 硬貨===
+Meaning: Coin
+Nuance_EN: Metal currency, as opposed to paper money (紙幣). Commonly called "小銭" in daily life, but "硬貨" is used in banking and formal contexts.
+
+===word: 碁を打つ===
+Meaning: Play Go (board game)
+Nuance_EN: To play the board game Go, where players alternately place stones. The verb "打つ" is uniquely used for Go.
+
+===word: 碌でなし===
+Meaning: Good-for-nothing
+Nuance_EN: A strong insult for a useless, incompetent person. Very negative, used to denigrate someone.
+
+===word: 碌な===
+Meaning: Decent / Satisfactory (with negation)
+Nuance_EN: A pre-noun adjectival used only with negative forms, meaning "not any decent ~." Indicates denial of good results or states.
+
+===word: 碑===
+Meaning: Monument / Stele / Tombstone
+Nuance_EN: A stone or metal plate engraved with letters or pictures, erected for commemoration or honor. Includes stone monuments, memorials, and tombstones.
+
+===word: 碧眼===
+Meaning: Blue eyes
+Nuance_EN: A Sino-Japanese term for blue or green eyes, particularly describing Westerners. Somewhat literary or poetic.
+
+===word: 確かめる===
+Meaning: Confirm / Verify
+Nuance_EN: To check something uncertain by seeing or hearing directly. A very common, important verb in daily life.
+
+===word: 確保 (する)===
+Meaning: Secure / Ensure
+Nuance_EN: To obtain something necessary and keep it in a safe state. Widely used in business and daily life.
+
+===word: 確信===
+Meaning: Conviction / Strong belief
+Nuance_EN: Believing firmly with confidence, leaving no room for doubt. Deeper than simple "自信," used for religious, philosophical, or life viewpoints.
+
+===word: 確固===
+Meaning: Firm / Steadfast
+Nuance_EN: Describes a will or attitude that is solid and unshakable. Often used with "たる" in phrases like "確固たる信念." Preferred in business and writing.
+
+===word: 確執===
+Meaning: Feud / Rivalry / Discord
+Nuance_EN: Long-standing, deep conflict between parties who refuse to compromise, often with lingering emotional resentment.
+
+===word: 確定===
+Meaning: Decision / Finalization
+Nuance_EN: Becoming clearly decided and unchangeable. Used for schedules, results, or facts.
+
+===word: 確実===
+Meaning: Certain / Reliable
+Nuance_EN: Free from error and clear; a state where information or plans are trustworthy and dependable.
+
+===word: 確率===
+Meaning: Probability
+Nuance_EN: A numerical expression of the likelihood of an event. A basic concept in mathematics and statistics.
+
+===word: 確立===
+Meaning: Establishment / Firm establishment
+Nuance_EN: To firmly establish a system, position, or idea into a stable state.
+
+===word: 確約===
+Meaning: Firm promise / Guarantee
+Nuance_EN: A strong promise or assurance of definite execution, more certain than a simple "約束." Used in formal or contractual contexts.
+
+===word: 確約===
+Meaning: Firm promise / Guarantee
+Nuance_EN: (Duplicated entry) Even stronger than a mere promise, a definite and binding commitment. Often documented and formal, carrying weight.
+
+===word: 確証===
+Meaning: Conclusive evidence / Proof
+Nuance_EN: Sure evidence or basis that leaves no doubt. Often used in legal or investigative contexts; also in negative phrases like "確証がない."
+
+===word: 磁力===
+Meaning: Magnetic force
+Nuance_EN: The force by which a magnet attracts iron. A scientific term in physics.
+
+===word: 磁場===
+Meaning: Magnetic field
+Nuance_EN: The space where magnetic force operates. Invisible but defined region, used in physics.
+
+===word: 磁気===
+Meaning: Magnetism / Magnetic property
+Nuance_EN: The property of magnets attracting or repelling. Also used metaphorically for personal charisma.
+
+===word: 磁気の===
+Meaning: Magnetic (attributive)
+Nuance_EN: An attributive form of 磁気, describing magnetic properties.
+
+===word: 磁気カード===
+Meaning: Magnetic stripe card
+Nuance_EN: A card with a magnetic stripe that stores data, used for credit cards, key cards, etc. Increasingly replaced by IC cards.
+
+===word: 磁気ディスク===
+Meaning: Magnetic disk
+Nuance_EN: A storage medium with a magnetic coating on a rotating disk, such as hard drives or floppy disks.
+
+===word: 磁気嵐===
+Meaning: Magnetic storm
+Nuance_EN: A disturbance of Earth's magnetic field caused by solar wind, leading to communication disruptions and auroras.
+
+===word: 磁石===
+Meaning: Magnet
+Nuance_EN: An object that attracts iron. Used in science class and daily life (refrigerator magnets, compasses).
+
+===word: 磐石===
+Meaning: Solid / Rock-solid
+Nuance_EN: (No nuance provided; likely means very solid, unshakable, like a rock.)
+
+===word: 磔===
+Meaning: Crucifixion
+Nuance_EN: An ancient punishment of nailing or tying limbs to a cross or frame, famously used for Jesus.
+
+===word: 磔になる===
+Meaning: Be crucified
+Nuance_EN: To be executed by crucifixion. Mainly in Christian contexts; also used metaphorically.
+
+===word: 磨き上げる===
+Meaning: Polish up / Refine
+Nuance_EN: To polish a surface to a shine, or to refine skills/abilities to a higher level.
+
+===word: 磨く===
+Meaning: Polish / Brush / Refine
+Nuance_EN: Rub a surface to produce shine or remove dirt. Also used metaphorically for improving skills.
+
+===word: 磯===
+Meaning: Rocky shore / Beach
+Nuance_EN: A coastline with many rocks, contrasted with sandy beaches. Associated with fishing, shell gathering, and poetry.
+
+===word: 磯臭い===
+Meaning: Smelling of the sea / Fishy
+Nuance_EN: The smell of a rocky shore or seaweed, a mix of seaweed and salty air. Can be unpleasant or nostalgic.
+
+===word: 磯辺巻き===
+Meaning: Seaweed-wrapped (mochi or food)
+Nuance_EN: Grilled mochi or other food wrapped in nori (seaweed) and seasoned with soy sauce. A simple dish.
+
+===word: 礎===
+Meaning: Foundation / Cornerstone
+Nuance_EN: (No nuance provided; likely refers to a base or foundation, literal or metaphorical.)
+
+===word: 示し合わす===
+Meaning: Show each other / Display mutually
+Nuance_EN: A slightly archaic expression for mutually showing one's thoughts or abilities. More common in literary or formal contexts than modern speech.
+
+===word: 示し合わせる===
+Meaning: Coordinate / Prearrange
+Nuance_EN: To confirm plans or timing with others in advance, coordinating signals for joint action.
+
+===word: 示す===
+Meaning: Show / Indicate / Demonstrate
+Nuance_EN: To show something to others or make it clear. Used both for physical display and for presenting evidence or data. Common in formal writing.
+
+===word: 示唆===
+Meaning: Suggestion / Implication
+Nuance_EN: Hinting at something indirectly rather than stating outright. Often used as "示唆に富む" (thought-provoking), giving an intellectual impression.
+
+===word: 示唆に富む===
+Meaning: Thought-provoking / Full of insight
+Nuance_EN: Describing a statement or work that provides many hints and insights, encouraging deep thinking. Used for writing, remarks, or research findings.
+
+===word: 示談===
+Meaning: Settlement / Private compromise
+Nuance_EN: A legal term for resolving disputes through negotiation without going to court, such as traffic accident settlements. More flexible than formal legal procedures.
+
+===word: 礼を出しても彼は固辞して取らぬ===
+Meaning: Even when I offered a gift, he firmly refused.
+Nuance_EN: A sentence example. The key word is 固辞 (firm refusal), a formal expression for politely and strongly declining an offer.
+
+===word: 礼儀===
+Meaning: Etiquette / Courtesy
+Nuance_EN: Proper manners and respectful behavior in social interactions, important in daily life and business.
+
+===word: 礼拝堂===
+Meaning: Chapel / Place of worship
+Nuance_EN: A building or room for Christian worship, typically within a larger church complex.
+
+===word: 礼服===
+Meaning: Formal wear / Dress suit
+Nuance_EN: Appropriate clothing for formal ceremonies such as weddings or funerals.
+
+===word: 礼状===
+Meaning: Thank-you letter
+Nuance_EN: A letter written to express gratitude, often after receiving gifts or favors. Formal and follows specific manners.
+
+===word: 礼節===
+Meaning: Decorum / Propriety
+Nuance_EN: Proper etiquette and moderation, including inner morality and dignity beyond surface manners. Used in business and international relations.
+
+===word: 礼賛===
+Meaning: Praise / Adoration
+Nuance_EN: Extolling someone or something highly. Somewhat formal or literary.
+
+===word: 社===
+Meaning: Shrine building / Company
+Nuance_EN: The physical shrine building (やしろ) as opposed to the entire shrine (じんじゃ). Can also mean "company" (しゃ) in compounds.
+
+===word: 社の弁護士に暫定合意の内容を吟味してもらおう。===
+Meaning: Let's have the company lawyer scrutinize the contents of the provisional agreement.
+Nuance_EN: A sentence example. The key word is 吟味 (scrutiny/examination), meaning careful inspection of details.
+
+===word: 社主===
+Meaning: Owner / Proprietor (of a company)
+Nuance_EN: Refers to the owner or majority shareholder of a business, often for small to medium enterprises. Distinct from 社長 (president).
+
+===word: 社交ダンス===
+Meaning: Ballroom dance
+Nuance_EN: Partner dances like waltz, tango, and cha-cha, performed at parties or competitions. Emphasizes social etiquette.
+
+===word: 社交的（な）===
+Meaning: Sociable / Outgoing
+Nuance_EN: Describes a personality that enjoys interacting with others, active in groups. Positive in business. Opposite of 内向的.
+
+===word: 社交辞令===
+Meaning: Social niceties / Lip service
+Nuance_EN: Polite words said out of social obligation, not from the heart (e.g., "Let's do this again sometime"). A common Japanese communication habit.
+
+===word: 社会人===
+Meaning: Working adult / Member of society
+Nuance_EN: A person who works after graduating, as opposed to a student. Implies responsibility and proper manners.
+
+===word: 社会党の猛烈な反対にもかかわらず、その議案は過半数で可決された。===
+Meaning: Despite fierce opposition from the Socialist Party, the bill was passed by a majority.
+Nuance_EN: A sentence example. The key word is 可決 (passage of a bill) and 過半数 (majority). Also 猛烈 (fierce).
+
+===word: 社会福祉制度は抜本的な改革が必要です。===
+Meaning: The social welfare system needs radical reform.
+Nuance_EN: A sentence example. The key word is 抜本的 (fundamental/radical), meaning thorough change from the root.
+
+===word: 社会科学===
+Meaning: Social science
+Nuance_EN: A field of academic study that scientifically examines human society and its phenomena, including political science, economics, and sociology.
+
+===word: 社会科学の分野に関心があります。===
+Meaning: I am interested in the field of social sciences.
+Nuance_EN: A sentence example. The key word is 関心 (interest/concern).
+
+===word: 社会通念は変わるべくして変わるのだから、地域社会の通念を行政的に改革しようとしても無理だ。===
+Meaning: Since social common sense changes as it should, it's impossible to administratively reform local community norms.
+Nuance_EN: A sentence example. The key word is 通念 (common understanding) and べくして (as it should).
+
+===word: 社債===
+Meaning: Corporate bond
+Nuance_EN: A bond issued by a corporation to raise funds from investors, with interest obligations. Different from bank loans.
+
+===word: 社内で異動の発表があった===
+Meaning: There was an announcement of a transfer within the company.
+Nuance_EN: A sentence example. The key word is 異動 (personnel change) and 発表 (announcement).
+
+===word: 社務所===
+Meaning: Shrine office
+Nuance_EN: The building on a shrine's grounds where priests conduct business, sell amulets, and receive prayer requests.
+
+===word: 社員にとっては、給料は高い方がいい===
+Meaning: For employees, higher salary is better.
+Nuance_EN: A sentence example. The nuance likely references the particle にとって (for/as for).
+
+===word: 社員の要求にこたえて労働時間を短縮した。===
+Meaning: In response to employee demands, working hours were shortened.
+Nuance_EN: A sentence example. The key word is 短縮 (shortening) and the expression こたえて (responding to). Also mentions 要 (the most important point), possibly a misparse.
+
+===word: 社員の親睦のために宴会をします===
+Meaning: We will hold a party to promote friendship among employees.
+Nuance_EN: A sentence example. The key word is 親睦 (friendship/goodwill) and 宴会 (banquet/party).
+
+===word: 社外===
+Meaning: Outside the company
+Nuance_EN: Refers to external parties or places not within the company. Used in business contexts, opposite of 社内.
+
+===word: 社宅===
+Meaning: Company housing
+Nuance_EN: Housing provided by a company for its employees, often at low rent. Common in companies with frequent transfers or remote offices.
+
+===word: 社屋===
+Meaning: Office building / Company premises
+Nuance_EN: The physical building of a company, such as headquarters or branch office. Emphasizes the structure rather than the organization.
+
+===word: 社畜===
+Meaning: Corporate slave
+Nuance_EN: A derogatory slang term for employees who are overworked and exploited, like livestock. A blend of "company" (社) and "livestock" (畜).
+
+===word: 社説===
+Meaning: Editorial (newspaper)
+Nuance_EN: An opinion article expressing the official stance of a newspaper or media outlet on political, economic, or social issues. Formal and serious in tone.
+
+===word: 社長の代理をする===
+Meaning: Act as the president's proxy
+Nuance_EN: To temporarily perform the duties of the company president on their behalf.
+
+===word: 社長の話はいつも前置きが長い===
+Meaning: The president's speeches always have long preambles.
+Nuance_EN: A sentence example. The key word is 前置き (preface/introduction).
+
+===word: 社長の話ぶりでは、今年のボーナスはないようだ。===
+Meaning: Judging by how the president speaks, it seems there will be no bonus this year.
+Nuance_EN: A sentence example. The key word is 話ぶり (way of speaking) and 今年 (this year).

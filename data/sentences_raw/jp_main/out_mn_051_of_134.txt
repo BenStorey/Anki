@@ -1,0 +1,799 @@
+===word: 小糠雨===
+Meaning: Fine drizzle
+Nuance_EN: Refers to a very fine, gentle rain that falls steadily, similar to mist but specifically used for early spring rains. It has a literary, poetic quality, evoking a quiet rain that barely wets you.
+
+===word: 小耳に挟む===
+Meaning: Overhear
+Nuance_EN: An idiomatic expression meaning to accidentally hear something, often someone else's conversation, without intending to listen. Commonly used in everyday conversation.
+
+===word: 小腸===
+Meaning: Small intestine
+Nuance_EN: The part of the digestive tract between the stomach and large intestine, responsible for nutrient absorption. Used mainly in medical or health contexts.
+
+===word: 小蝿===
+Meaning: Small fly
+Nuance_EN: A general term for small flies that appear around kitchens and garbage, like fruit flies. A common word with a negative, unpleasant connotation.
+
+===word: 小言===
+Meaning: Nagging
+Nuance_EN: Refers to repeated complaints or criticisms about small matters, often from a superior to a subordinate. Though negative, it can come from affection; commonly used in the verb form "小言を言う".
+
+===word: 小説===
+Meaning: Novel
+Nuance_EN: A literary work of prose narrative created by an author. Includes various forms like novels and short stories, central to reading culture.
+
+===word: 小説を書いても、おもしろくないことには売れませんよ。===
+Meaning: Even if you write a novel, it won't sell if it's not interesting.
+Nuance_EN: A proverbial-sounding sentence emphasizing that quality matters; used to stress that without interest or appeal, success is unlikely.
+
+===word: 小論===
+Meaning: Short essay
+Nuance_EN: Refers to a short, concise piece of writing, not a full academic paper. Can also mean an opinion piece.
+
+===word: 小賢しい===
+Meaning: Sly
+Nuance_EN: Describes someone who shows off small cleverness in a sneaky way, with contemptuous nuance. Not a compliment; used to criticize know-it-all behavior.
+
+===word: 小走り===
+Meaning: Jog
+Nuance_EN: Walking faster than normal but not running; a quick, short-stepped pace. Used to describe hurrying without full running.
+
+===word: 小道===
+Meaning: Path
+Nuance_EN: A narrow path mainly for pedestrians, such as alleys in residential areas or trails in parks.
+
+===word: 小道具===
+Meaning: Small tool
+Nuance_EN: Has two meanings: everyday small tools/implements, and props used in theater or film.
+
+===word: 小遣い===
+Meaning: Allowance
+Nuance_EN: Money given regularly to children by parents, or small amounts of personal spending money. Casual, everyday term.
+
+===word: 小部屋===
+Meaning: Small room
+Nuance_EN: A small room, such as a storage closet or a tiny private room in a house.
+
+===word: 小銭===
+Meaning: Small change
+Nuance_EN: Refers to low-denomination coins or a small amount of coins on hand. Commonly used in shopping or change contexts.
+
+===word: 小銭入れ===
+Meaning: Coin purse
+Nuance_EN: A small container for carrying coins, either as part of a wallet or as a separate pouch.
+
+===word: 小難しい===
+Meaning: Fussy
+Nuance_EN: Describes something that is unnecessarily detailed, troublesome, and hard to handle. Negative connotation.
+
+===word: 小雨===
+Meaning: Light rain
+Nuance_EN: Rain that is weak and scattered, not heavy enough to require an umbrella. Used in weather forecasts as a formal term.
+
+===word: 小食===
+Meaning: Light eater
+Nuance_EN: Refers to someone who naturally or habitually eats small amounts. Opposite of 大食 (big eater). Often due to constitution or health.
+
+===word: 小首===
+Meaning: Tilt of the head
+Nuance_EN: Used almost exclusively in the idiom "小首をかしげる" (to tilt one's head slightly), expressing doubt, confusion, or thoughtfulness. Not used alone.
+
+===word: 小馬鹿===
+Meaning: Slight contempt
+Nuance_EN: Used in the phrase "小馬鹿にする" meaning to look down on someone or make light of them. Negative nuance.
+
+===word: 小馬鹿にする===
+Meaning: Make fun of
+Nuance_EN: To treat someone with mild contempt, teasing or not taking them seriously. Lighter than "馬鹿にする" but still disrespectful.
+
+===word: 小高い===
+Meaning: Slightly elevated
+Nuance_EN: Describes something a bit higher than its surroundings, like a small hill. Used for terrain that is not flat but not mountainous.
+
+===word: 小鳥===
+Meaning: Small bird
+Nuance_EN: An affectionate term for small birds, especially familiar wild birds like sparrows and white-eyes.
+
+===word: 小鳥が囀る===
+Meaning: Birds sing
+Nuance_EN: Describes birds singing beautifully, often associated with spring. Literary/poetic, more common in writing than speech.
+
+===word: 小鹿===
+Meaning: Fawn
+Nuance_EN: Refers to a young deer, with a cute image. Used metaphorically in "fawn-like cute".
+
+===word: 小麦===
+Meaning: Wheat
+Nuance_EN: A staple grain used for bread, noodles, sweets, etc. Most consumed among grains; processed into flour. Basic vocabulary.
+
+===word: 小麦粉===
+Meaning: Wheat flour
+Nuance_EN: Powder made from grinding wheat, used daily for baking, noodles, sweets. Basic cooking ingredient.
+
+===word: 少ない===
+Meaning: Few
+Nuance_EN: An adjective meaning quantity or degree is below standard. Used for money, time, people, etc. Opposite of 多い. Basic word.
+
+===word: 少なからず===
+Meaning: Considerably
+Nuance_EN: An adverb meaning "quite a lot" despite the negative form. More formal/literary than "少なくない".
+
+===word: 少なくとも===
+Meaning: At least
+Nuance_EN: Adverb indicating the minimum amount or degree. Used to state a conservative estimate or condition. Common in both speech and writing.
+
+===word: 少女===
+Meaning: Young girl
+Nuance_EN: Refers to a young female. Often used in literature, with a formal, poetic tone.
+
+===word: 少子化===
+Meaning: Declining birthrate
+Nuance_EN: Social phenomenon of decreasing number of children. Major issue in Japan, used in news and political discussion.
+
+===word: 少尉===
+Meaning: Second lieutenant
+Nuance_EN: The lowest officer rank in military. In Japan's Self-Defense Forces, corresponds to Third Lieutenant (Army/Navy/Air).
+
+===word: 少年===
+Meaning: Boy
+Nuance_EN: Refers to a young male child, typically elementary to middle school age. Formal term used in legal and police contexts.
+
+===word: 少年たちは「万難を排して決行しましょう」と言った。===
+Meaning: The boys said, "Let's overcome all difficulties and carry it out."
+Nuance_EN: A dramatic, determined statement. "万難を排して" is a set phrase meaning overcoming all obstacles.
+
+===word: 少年は終日その仕事を根気よくやった。===
+Meaning: The boy did the work persistently all day.
+Nuance_EN: Describes doing a task with patience and perseverance. "根気" means mental endurance to continue despite difficulty.
+
+===word: 少年よ大志を抱け。===
+Meaning: Boy, cherish great ambitions.
+Nuance_EN: An inspirational phrase urging young people to have lofty goals. "大志" is a lofty, formal word for ambition.
+
+===word: 少年老い易く学成り難し===
+Meaning: Youth passes quickly, learning is hard to achieve.
+Nuance_EN: A proverbial saying warning that youth is fleeting and mastering learning is difficult. Classical Chinese style, used as a quotation.
+
+===word: 少数===
+Meaning: Minority
+Nuance_EN: Indicates a small quantity. Opposite of 多数. Used in compounds like minority opinion, ethnic minority, etc.
+
+===word: 少数===
+Meaning: Minority
+Nuance_EN: Indicates a small quantity. Opposite of 多数. Used in compounds like minority opinion, ethnic minority, etc.
+
+===word: 少量===
+Meaning: Small amount
+Nuance_EN: Indicates a small volume or amount. Used for cooking ingredients, medicine doses, business transactions. Opposite of 大量.
+
+===word: 尖り===
+Meaning: Point
+Nuance_EN: The sharp, tapered end of something, like a pencil tip or mountain peak. Physical sense.
+
+===word: 尖り帽子===
+Meaning: Pointed hat
+Nuance_EN: A hat with a pointed tip, associated with witches and wizards. Seen in children's books and costumes.
+
+===word: 尖る===
+Meaning: To sharpen
+Nuance_EN: Verb meaning to become sharp or pointed. Also used metaphorically for senses or attitude becoming acute.
+
+===word: 尖兵===
+Meaning: Vanguard
+Nuance_EN: A unit or person that advances ahead. Metaphorically, a pioneer in a field.
+
+===word: 尖塔===
+Meaning: Spire
+Nuance_EN: A pointed tower on churches or castles, iconic in Gothic architecture. Used in descriptions of scenery and tourism.
+
+===word: 尚且つ===
+Meaning: Moreover
+Nuance_EN: A conjunction meaning "in addition". The kanji form is more formal, used in writing and official documents.
+
+===word: 尚更===
+Meaning: Even more
+Nuance_EN: Adverb emphasizing that something is even more true given a reason. Similar to "ますます" but with a causal nuance.
+
+===word: 尤もらしい===
+Meaning: Plausible-sounding
+Nuance_EN: Describes something that sounds reasonable but may not be true. Used to express skepticism.
+
+===word: 就く===
+Meaning: To assume
+Nuance_EN: Verb meaning to formally take a position or role, or to set out on a journey. Somewhat formal.
+
+===word: 就任===
+Meaning: Appointment
+Nuance_EN: Formal term for taking a new position, like president or manager. Used in career and organizational contexts.
+
+===word: 就労する===
+Meaning: To work
+Nuance_EN: A stiff, formal expression for working or being employed. Used in official documents and news.
+
+===word: 就労時間===
+Meaning: Working hours
+Nuance_EN: Formal term for hours spent working, similar to "労働時間". Used in business and legal contexts.
+
+===word: 就労許可証===
+Meaning: Work permit
+Nuance_EN: Official permit required for foreigners to work in Japan. Issued by immigration authorities as part of residence status.
+
+===word: 就寝===
+Meaning: Going to bed
+Nuance_EN: Formal expression for going to sleep or bedtime.
+
+===word: 就職===
+Meaning: Getting a job
+Nuance_EN: Refers to starting work after graduation. Job hunting (就活) is a major event for Japanese students.
+
+===word: 就職難===
+Meaning: Difficulty finding employment
+Nuance_EN: A socio-economic term for a tough job market, especially during recessions. Opposite is "売り手市場" (seller's market).
+
+===word: 就職難など、能力がある学生にとっては、恐れるに足りない===
+Meaning: For capable students, employment difficulties are nothing to fear.
+Nuance_EN: A phrase expressing that talented individuals need not worry about a tough job market.
+
+===word: 就航===
+Meaning: Commissioning
+Nuance_EN: Technical term for a newly built ship or aircraft entering service on a route. Used in transportation.
+
+===word: 尺八===
+Meaning: Shakuhachi
+Nuance_EN: A traditional Japanese bamboo flute. Also a vulgar slang term for a sexual act; context determines meaning, but the slang is crude and should be used with caution.
+
+===word: 尺度===
+Meaning: Scale
+Nuance_EN: A measure or standard for evaluation, from physical rulers to abstract value judgments.
+
+===word: 尻===
+Meaning: Buttocks
+Nuance_EN: The buttocks; a common but direct word. Also used metaphorically for the end or back of something. Appears in idioms like "尻を叩く" (to spur on) and "尻拭いをする" (to clean up after someone).
+
+===word: 尻に敷く===
+Meaning: To have under one's thumb
+Nuance_EN: Idiom meaning to dominate one's spouse, often "wife dominates husband". Humorous, slightly old-fashioned.
+
+===word: 尻に火がつく===
+Meaning: To be in a panic
+Nuance_EN: Idiom for being in a desperate situation, like a deadline approaching, forcing hasty action.
+
+===word: 尻取り===
+Meaning: Word chain game
+Nuance_EN: A Japanese word game where players take turns saying a word that starts with the last character of the previous word. Casual, popular among children and at parties.
+
+===word: 尻尾===
+Meaning: Tail
+Nuance_EN: The tail of an animal. Used in idioms like "尻尾を出す" (to show one's true colors) and "尻尾を巻いて逃げる" (to retreat with tail between legs).
+
+===word: 尻尾を巻く===
+Meaning: To tuck tail and run
+Nuance_EN: Idiom meaning to admit defeat and flee, from a dog tucking its tail between its legs.
+
+===word: 尻拭い===
+Meaning: Cleaning up after someone
+Nuance_EN: An emotional colloquial expression for being forced to deal with someone else's mistakes or mess. Often used with frustration.
+
+===word: 尻目===
+Meaning: Side glance
+Nuance_EN: Often used in the phrase "尻目にかける" meaning to ignore or treat with contempt.
+
+===word: 尻込み===
+Meaning: Hesitation
+Nuance_EN: The act of flinching or retreating from danger or difficulty due to fear.
+
+===word: 尻餅を付く===
+Meaning: To fall on one's bottom
+Nuance_EN: To slip or trip and fall backwards onto one's buttocks.
+
+===word: 尼===
+Meaning: Nun
+Nuance_EN: A woman who has entered Buddhist monastic life. Often called "尼さん". Slightly old-fashioned.
+
+===word: 尼が着る法衣===
+Meaning: Nun's robe
+Nuance_EN: The robe worn by Buddhist nuns. "法衣" generally refers to clerical robes.
+
+===word: 尽くす===
+Meaning: To exhaust
+Nuance_EN: Verb meaning to use all one's power or resources. Common in idioms like "全力を尽くす" (do one's best).
+
+===word: 尽力===
+Meaning: Great effort
+Nuance_EN: Formal term for exerting oneself for a cause. Used in business to express gratitude or contribution. Stronger than just "努力".
+
+===word: 尾ひれ===
+Meaning: Tail and fin
+Nuance_EN: In the idiom "尾ひれが付く", it means a story gets exaggerated or embellished as it spreads.
+
+===word: 尾を引く===
+Meaning: To linger
+Nuance_EN: Idiom meaning the influence or aftermath of something persists long after it's over. Used for lingering negative effects or emotions.
+
+===word: 尾根===
+Meaning: Ridge
+Nuance_EN: The elongated crest of a mountain, often followed by hikers.
+
+===word: 尾籠===
+Meaning: Vulgar
+Nuance_EN: An old-fashioned word for crude, indecent speech or behavior, especially about excretion or sex. Rare in modern use, seen in period dramas or literature.
+
+===word: 尾翼===
+Meaning: Tail fin
+Nuance_EN: The tail assembly of an aircraft, including horizontal and vertical stabilizers. Technical term, not common in daily conversation.
+
+===word: 尾行する===
+Meaning: To tail
+Nuance_EN: To secretly follow someone, as in detective or police work. Covert action.
+
+===word: 尿路===
+Meaning: Urinary tract
+Nuance_EN: Medical term for the entire passage of urine from kidneys to urethra. Specialized, not used in daily conversation.
+
+===word: 尿路結石===
+Meaning: Urinary tract stones
+Nuance_EN: Hard mineral deposits in the urinary tract, causing severe pain. Medical term.
+
+===word: 尿道===
+Meaning: Urethra
+Nuance_EN: The duct through which urine exits the body. Medical term, rarely used in daily conversation.
+
+===word: 局地===
+Meaning: Local area
+Nuance_EN: A limited part of a larger region. Often used in weather reports for localized rain.
+
+===word: 局所化===
+Meaning: Localization
+Nuance_EN: The process of limiting a phenomenon or function to a specific area. Used in medicine (brain localization) and IT (software localization).
+
+===word: 局所的===
+Meaning: Local
+Nuance_EN: Adjective describing something limited to a part of the whole. Used for localized heavy rain or localized pain.
+
+===word: 局部麻酔===
+Meaning: Local anesthesia
+Nuance_EN: Anesthesia applied to a specific part of the body, common in dentistry and minor surgeries.
+
+===word: 局部麻酔をします。===
+Meaning: I will administer local anesthesia.
+Nuance_EN: The kanji 麻 in 麻酔 relates to numbness, from Chinese origin. 麻 also means hemp plant, used for cloth and drugs.
+
+===word: 局面===
+Meaning: Phase
+Nuance_EN: Refers to a specific stage or aspect of a developing situation. From board game terminology, used in business and politics.
+
+===word: 屁っ放り===
+Meaning: Fart
+Nuance_EN: Vulgar slang for farting or a person who farts. Used in jokes or insults, not polite.
+
+===word: 屁でもない===
+Meaning: Nothing at all
+Nuance_EN: A coarse colloquial expression meaning "it's nothing", dismissing something as worthless or insignificant.
+
+===word: 屁理屈===
+Meaning: Sophistry
+Nuance_EN: Unreasonable or twisted logic used to argue a point. Negative connotation.
+
+===word: 屁理屈ばかり並べて、お前の言ってること全然筋が通ってないよ。===
+Meaning: You're just spouting sophistry; what you're saying doesn't make any sense at all.
+Nuance_EN: "筋が通る" means to be logical or coherent. This phrase criticizes someone's argument as illogical.
+
+===word: 屁理屈をこねる===
+Meaning: To quibble
+Nuance_EN: Idiom meaning to force illogical arguments to push one's point, using nitpicking or excuses. Negative, used in arguments.
+
+===word: 居たたまれない===
+Meaning: Unable to stay
+Nuance_EN: Describes a feeling of being unable to remain in a place due to embarrassment, guilt, or discomfort.
+
+===word: 居たたまれない===
+Meaning: Unable to stay
+Nuance_EN: Describes a state where strong emotions like shame, awkwardness, or grief make it physically impossible to remain. A very human, empathetic expression.
+
+===word: 居を構える===
+Meaning: To establish a residence
+Nuance_EN: A literary expression meaning to build a home or establish a base. More formal than just "住む", implying a solid foundation.
+
+===word: 居並ぶ===
+Meaning: To sit in a row
+Nuance_EN: Describes many people sitting in a row, used in formal settings like ceremonies.
+
+===word: 居住===
+Meaning: Residence
+Nuance_EN: Formal term for living in a place. Used in legal and administrative documents. In daily conversation, "住む" is more natural.
+
+===word: 居候===
+Meaning: Live-in dependent
+Nuance_EN: Someone who lives in another's home and is supported, often with a negative connotation of freeloading. Can also refer to a boarding student or helper.
+
+===word: 居合わせる===
+Meaning: To happen to be present
+Nuance_EN: Verb meaning to be at a place by chance, often witnessing an event. Somewhat literary; in speech, "たまたまいた" is common.
+
+===word: 居座る===
+Meaning: To stay put
+Nuance_EN: To stay in a place or position persistently, often against others' wishes.
+
+===word: 居心地の「良い／悪い」===
+Meaning: Comfort / Discomfort
+Nuance_EN: Describes how one feels in a place. "居心地が良い" means comfortable, "居心地が悪い" means uncomfortable.
+
+===word: 居留守===
+Meaning: Pretending to be out
+Nuance_EN: The act of ignoring visitors or calls by pretending no one is home, to avoid interaction.
+
+===word: 居眠り===
+Meaning: Dozing
+Nuance_EN: Falling asleep unintentionally while sitting, e.g., in class or on a train. Light sleep, not deep.
+
+===word: 居眠り運転===
+Meaning: Drowsy driving
+Nuance_EN: Dangerous act of falling asleep while driving, a major cause of accidents. Strongly condemned.
+
+===word: 居着く===
+Meaning: To settle in
+Nuance_EN: To settle into a new place and stay long-term. Used for people or animals becoming accustomed and staying. Casual.
+
+===word: 居間===
+Meaning: Living room
+Nuance_EN: The family room in a house where people gather and relax. Japanese equivalent of "living room".
+
+===word: 屈する===
+Meaning: To yield
+Nuance_EN: To give in to pressure and change one's stance. Used in contexts of willpower.
+
+===word: 屈み込む===
+Meaning: To stoop down
+Nuance_EN: The action of bending at the waist to look at or touch something low. Used for tasks like picking up items.
+
+===word: 屈める===
+Meaning: To bend
+Nuance_EN: Transitive verb form of "かがむ" (to stoop). Often used as "腰を屈める" (to bend one's waist). Focuses on bending the waist rather than squatting.
+
+===word: 屈伸===
+Meaning: Bending and stretching
+Nuance_EN: The action of bending and extending joints, as in exercise or warm-up.
+
+===word: 屈強===
+Meaning: Sturdy
+Nuance_EN: Describes a large, strong physique with solid bone structure, not just muscular.
+
+===word: 屈折===
+Meaning: Refraction
+Nuance_EN: From physical refraction to psychological distortion. Used for light, personality (twisted), or linguistic inflection. For personality, it implies a warped, complex inner nature.
+
+===word: 屈指（の）===
+Meaning: Among the best
+Nuance_EN: A phrase meaning one of the top few in a field, like "Japan's leading". Used to indicate excellence.
+
+===word: 屈曲===
+Meaning: Bending
+Nuance_EN: The state of being bent or curved. Used in anatomy or geometry.
+
+===word: 屈服===
+Meaning: Submission
+Nuance_EN: To submit to someone's power or pressure, often against one's will.
+
+===word: 屈託===
+Meaning: Worry
+Nuance_EN: Refers to worries or concerns. Often used in negative form "屈託なく" meaning without a care.
+
+===word: 屈託のない===
+Meaning: Carefree
+Nuance_EN: Describes a person who is free from worries, innocent and cheerful.
+
+===word: 屈辱===
+Meaning: Humiliation
+Nuance_EN: A feeling of deep shame that hurts one's pride.
+
+===word: 届く===
+Meaning: To reach
+Nuance_EN: Verb meaning something reaches its destination, like mail, communication, or physical reach.
+
+===word: 届け出る===
+Meaning: To report
+Nuance_EN: To formally inform an official body or superior. Used for government procedures or school notices.
+
+===word: 屋台===
+Meaning: Food stall
+Nuance_EN: A mobile small shop selling food or drinks outdoors, common at festivals. Examples: ramen stall, takoyaki stall.
+
+===word: 屋外===
+Meaning: Outdoors
+Nuance_EN: The space outside a building. Common word, opposite of indoor.
+
+===word: 屋根===
+Meaning: Roof
+Nuance_EN: The top covering of a building that protects from weather. Basic word for building structure.
+
+===word: 屋根が雨漏りしている===
+Meaning: The roof is leaking
+Nuance_EN: "雨漏り" means water leaking through the roof. Common topic with old houses or typhoons.
+
+===word: 屋根裏===
+Meaning: Attic
+Nuance_EN: The space between roof and ceiling, often used for storage. In fiction, a secret room or hideout.
+
+===word: 屍===
+Meaning: Corpse
+Nuance_EN: A word for a dead human body, more raw and literary than "遺体".
+
+===word: 屍体愛好===
+Meaning: Necrophilia
+Nuance_EN: A sensitive technical term for sexual attraction to corpses. Used in medical or psychological contexts, not in daily conversation.
+
+===word: 屎尿===
+Meaning: Excrement
+Nuance_EN: Human or animal waste. Often used in waste treatment contexts.
+
+===word: 屏風===
+Meaning: Folding screen
+Nuance_EN: A folding room divider used in Japanese rooms, for wind protection, privacy, or decoration, often painted.
+
+===word: 屑===
+Meaning: Scrap
+Nuance_EN: Pieces of waste material. Also used as a derogatory term for a worthless person ("human trash").
+
+===word: 展望===
+Meaning: View
+Nuance_EN: Both a physical view (from a lookout) and a future outlook. Used in "展望台" (observation deck) and "展望が明るい" (bright prospects).
+
+===word: 展望台===
+Meaning: Observation deck
+Nuance_EN: A high place for viewing scenery, common at tourist spots. Everyday tourism term.
+
+===word: 展示する===
+Meaning: To exhibit
+Nuance_EN: A formal verb for displaying works or products in museums or exhibitions. In casual speech, "飾る" is more common.
+
+===word: 展覧会===
+Meaning: Exhibition
+Nuance_EN: An event where artworks or crafts are displayed to the public.
+
+===word: 展覧会は連日賑わいました。===
+Meaning: The exhibition was bustling day after day.
+Nuance_EN: "連日" means consecutive days. The sentence describes a busy, lively exhibition.
+
+===word: 展開===
+Meaning: Development
+Nuance_EN: The process of things progressing and expanding, like a story or situation.
+
+===word: 属す===
+Meaning: To belong to
+Nuance_EN: Verb meaning to be a member of a group or category.
+
+===word: 属国===
+Meaning: Vassal state
+Nuance_EN: A country that is subordinate to a more powerful one.
+
+===word: 属性===
+Meaning: Attribute
+Nuance_EN: Inherent characteristics of things or people. In IT/gaming, used for data or character traits.
+
+===word: 屠る===
+Meaning: To slaughter
+Nuance_EN: To kill animals for meat or to massacre. The verb form is literary/old-fashioned; noun "屠殺" is more common. Also used metaphorically for defeating enemies.
+
+===word: 履き潰す===
+Meaning: To wear out
+Nuance_EN: To use shoes until they are completely worn out. Emphasizes using something to the fullest.
+
+===word: 履き違える===
+Meaning: To misunderstand
+Nuance_EN: From putting on the wrong shoes, metaphorically means to misunderstand the meaning or position of something.
+
+===word: 履修===
+Meaning: Course enrollment
+Nuance_EN: Formal academic term for officially taking a course to earn credits. More formal than "受講".
+
+===word: 履歴書===
+Meaning: Resume
+Nuance_EN: A document listing education, work history, and skills, submitted for job applications. Essential for job hunting.
+
+===word: 履歴書には賞罰記入の欄がある===
+Meaning: There is a section for rewards and punishments on the resume.
+Nuance_EN: "賞罰" means rewards and punishments. The phrase refers to a field on some Japanese resumes for listing any disciplinary actions or honors.
+
+===word: 履物===
+Meaning: Footwear
+Nuance_EN: General term for shoes, sandals, slippers, etc. Includes traditional Japanese footwear. Slightly formal; in casual speech, specific terms are used.
+
+===word: 履物は靴箱に入れてください。===
+Meaning: Please put your footwear in the shoe box.
+Nuance_EN: A polite instruction to store shoes in the designated box.
+
+===word: 履行===
+Meaning: Fulfillment
+Nuance_EN: Formal term for carrying out a contract, promise, or duty.
+
+===word: 屯する===
+Meaning: To gather
+Nuance_EN: A literary verb for a crowd gathering temporarily, like troops or youths hanging out. In speech, "集まる" is more common.
+
+===word: 山ごもり===
+Meaning: Mountain retreat
+Nuance_EN: Originally religious ascetic practice, now also used for creative work retreats. Implies silence and solitude.
+
+===word: 山の中腹===
+Meaning: Mountainside
+Nuance_EN: The middle part of a mountain between base and summit. Used in hiking and tourism descriptions.
+
+===word: 山は鮮やかな緑でした。===
+Meaning: The mountain was a vivid green.
+Nuance_EN: "鮮やか" describes clear, beautiful colors or impressive actions.
+
+===word: 山下先生は昨日何を食べたか覚えていません===
+Meaning: Professor Yamashita doesn't remember what he ate yesterday.
+Nuance_EN: The nuance provided is about "べた" meaning cliché or stereotypical, but this sentence doesn't directly relate. Possibly a data error.
+
+===word: 山伏===
+Meaning: Mountain ascetic
+Nuance_EN: Practitioners of Shugendo, a traditional Japanese religion, who perform harsh training in mountains. Wear distinctive robes and bells.
+
+===word: 山分け===
+Meaning: Equal share
+Nuance_EN: Colloquial term for dividing profits or spoils equally, from dividing hunted game. Casual, used among friends.
+
+===word: 山口県===
+Meaning: Yamaguchi Prefecture
+Nuance_EN: A prefecture in western Honshu, known for historical cities like Shimonoseki and Hagi. Official administrative name.
+
+===word: 山地===
+Meaning: Mountainous region
+Nuance_EN: Geographic term for terrain with many mountains, distinct from plains and hills. Broader than "山岳地帯".
+
+===word: 山場===
+Meaning: Climax
+Nuance_EN: The most important or peak moment of something, like a story's climax or a business turning point. From mountain peak metaphor.
+
+===word: 山塊===
+Meaning: Massif
+Nuance_EN: A large, compact group of mountains forming a block. Technical term in geography and mountaineering.
+
+===word: 山奥===
+Meaning: Deep in the mountains
+Nuance_EN: A remote, deep part of the mountains, far from human habitation, with rich nature.
+
+===word: 山寺===
+Meaning: Mountain temple
+Nuance_EN: A temple built in the mountains, a quiet place for training surrounded by nature.
+
+===word: 山山===
+Meaning: Very much
+Nuance_EN: An adverb meaning "a great deal", used to emphasize strong desire or feeling. Colloquial reduplication.
+
+===word: 山岳===
+Meaning: Mountains
+Nuance_EN: A somewhat formal term for high mountains or mountain ranges. Used in climbing and geography.
+
+===word: 山岳救助隊は２４時間待機している。===
+Meaning: The mountain rescue team is on standby 24 hours.
+Nuance_EN: "山岳" means mountains; the sentence describes a rescue team ready at all times.
+
+===word: 山崎氏はこの分野の政策立案にかけては政界随一の見識と経験を持っている。===
+Meaning: Mr. Yamazaki has unparalleled insight and experience in policy-making in this field.
+Nuance_EN: "随一" means the foremost or best in a group, more formal than "一番".
+
+===word: 山師===
+Meaning: Speculator
+Nuance_EN: A person who engages in risky ventures for quick profit, like a gold digger or speculator.
+
+===word: 山札===
+Meaning: Draw pile
+Nuance_EN: The face-down stack of cards not yet used in card games. Essential game term.
+
+===word: 山村===
+Meaning: Mountain village
+Nuance_EN: A small settlement in the mountains, surrounded by nature with a small population.
+
+===word: 山梨県===
+Meaning: Yamanashi Prefecture
+Nuance_EN: A prefecture in central Honshu, known for Mt. Fuji, grapes, peaches, and tourism.
+
+===word: 山水画===
+Meaning: Landscape painting
+Nuance_EN: Traditional painting of mountains and water, often in ink. Used in art and calligraphy contexts.
+
+===word: 山田さんは通勤に1時間半かかるそうだが、驚くには当たらない。これは日本で珍しくない。===
+Meaning: I hear Yamada-san takes 1.5 hours to commute, but that's not surprising. It's not uncommon in Japan.
+Nuance_EN: "通勤" means commuting. The sentence comments on long commutes being common in Japan.
+
+===word: 山田先生は日本語の教え方が上手だ。アメリカの大学で20年近く日本語を教えていらしただけのことはある。===
+Meaning: Professor Yamada is good at teaching Japanese. As expected from someone who taught Japanese at an American university for nearly 20 years.
+Nuance_EN: "先生" is a respectful term for a teacher or superior. The phrase "だけのことはある" means "as expected from".
+
+===word: 山積===
+Meaning: Piled up
+Nuance_EN: Things stacked like a mountain, or problems/work piling up.
+
+===word: 山積み===
+Meaning: Piled high
+Nuance_EN: A state of being piled up like a mountain, both physically and metaphorically for problems.
+
+===word: 山羊===
+Meaning: Goat
+Nuance_EN: A domesticated mammal used for milk, meat, and hair. Known for beard and horns.
+
+===word: 山肌===
+Meaning: Mountain surface
+Nuance_EN: The exposed rock or soil on a mountain, not covered by trees. Used in climbing and landscape descriptions, evoking ruggedness.
+
+===word: 山脈===
+Meaning: Mountain range
+Nuance_EN: A chain of connected mountains, not a single peak.
+
+===word: 山葵===
+Meaning: Wasabi
+Nuance_EN: A Japanese spice, grated and used with sushi and sashimi. Strong pungency and antibacterial properties.
+
+===word: 山行===
+Meaning: Mountain excursion
+Nuance_EN: The act of going to the mountains for hiking or climbing. Slightly literary, used among enthusiasts.
+
+===word: 山開き===
+Meaning: Mountain opening ceremony
+Nuance_EN: The start of the climbing season after winter closure. A Japanese cultural event with safety prayers. Not common in daily conversation.
+
+===word: 山間===
+Meaning: Mountain valley
+Nuance_EN: The area between mountains, suggesting a remote, nature-rich place. Literary/poetic.
+
+===word: 山頂===
+Meaning: Summit
+Nuance_EN: The highest point of a mountain. Common in hiking and climbing.
+
+===word: 山頂から見ると、その島はとても美しい。===
+Meaning: Seen from the summit, the island is very beautiful.
+Nuance_EN: Describes a scenic view from a mountain top.
+
+===word: 山頂に霞がかかっている===
+Meaning: The mountain peak is shrouded in haze.
+Nuance_EN: "霞" is a natural haze, often poetically associated with spring in Japanese literature.
+
+===word: 屹立===
+Meaning: Towering
+Nuance_EN: A powerful literary verb for something standing tall and firm, like a mountain or tree. Also used metaphorically for unwavering will.
+
+===word: 岐路===
+Meaning: Crossroads
+Nuance_EN: A literal or metaphorical fork, often used for life decisions. Literary tone.
+
+===word: 岐阜県===
+Meaning: Gifu Prefecture
+Nuance_EN: A prefecture in central Japan, known for nature and tourist spots like Shirakawa-go.
+
+===word: 岡山県===
+Meaning: Okayama Prefecture
+Nuance_EN: A prefecture in western Japan, known as "Land of Sunshine" for its many clear days, and fruit cultivation.
+
+===word: 岡目===
+Meaning: Onlooker's perspective
+Nuance_EN: A term for a third-party viewpoint, from the proverb "岡目八目" meaning a spectator sees more than the player.
+
+===word: 岩===
+Meaning: Rock
+Nuance_EN: A large, hard stone mass. Used metaphorically for firmness. Bigger than "石", more common than "巨石".
+
+===word: 岩が風化して奇異な形になる。===
+Meaning: The rock weathers into a strange shape.
+Nuance_EN: "異な" is an old-fashioned literary word meaning strange or unusual.
+
+===word: 岩は無生物に分類される。===
+Meaning: Rocks are classified as non-living things.
+Nuance_EN: "分類" means classification, a basic concept in academic and practical contexts.
+
+===word: 岩場===
+Meaning: Rocky area
+Nuance_EN: Ground with many exposed rocks, used in climbing, fishing, and scenic descriptions.
+
+===word: 岩屑===
+Meaning: Rock debris
+Nuance_EN: Fragments of rock from weathering, a geological term. Natural, unlike "砕石" (crushed stone).
+
+===word: 岩手県===
+Meaning: Iwate Prefecture
+Nuance_EN: A prefecture in Tohoku, known for nature, rice, apples, and tourist sites like Chuson-ji in Hiraizumi.
+
+===word: 岩板===
+Meaning: Rock slab
+Nuance_EN: A slab of rock; in geology, refers to tectonic plates.

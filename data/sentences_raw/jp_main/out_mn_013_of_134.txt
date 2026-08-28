@@ -1,0 +1,799 @@
+===word: まれ===
+Meaning: Rare / Seldom
+Nuance_EN: Indicates an extremely low frequency of occurrence; can be used in both negative and positive contexts but often carries a nuance of rarity and value.
+
+===word: まんじりともしない===
+Meaning: Unable to sleep a wink
+Nuance_EN: An idiomatic expression describing a state of being completely unable to close one's eyes or sleep, often due to tension, anxiety, or excitement.
+
+===word: まんべんなく===
+Meaning: Evenly / Universally
+Nuance_EN: Describes a state where something is distributed equally across all parts without bias; covers all areas or elements uniformly.
+
+===word: まんまと===
+Meaning: Successfully / Neatly
+Nuance_EN: An adverb describing a situation where a scheme succeeds exactly as planned; it carries a slightly cunning nuance and can be used in both good and bad contexts.
+
+===word: まんまとこちらの計略に引っかかった===
+Meaning: To be caught by one's scheme
+Nuance_EN: Uses "まんまと" to describe how someone fell perfectly into a trap or scheme; implies a clever or cunning success from the trapper's perspective.
+
+===word: まんまとだまされた===
+Meaning: To be completely deceived
+Nuance_EN: Uses "まんまと" to emphasize that someone was fooled exactly as planned; carries that slightly cunning nuance of the deceiver's success.
+
+===word: みじん切り===
+Meaning: Fine chopping / Mincing
+Nuance_EN: A cooking technique of cutting ingredients, especially aromatic vegetables like onions and garlic, into very small pieces to distribute flavor evenly; a basic knife skill.
+
+===word: みすぼらしい===
+Meaning: Shabby / Squalid
+Nuance_EN: An adjective describing an appearance or condition that gives a visibly poor and impoverished impression; used for clothes, buildings, or looks, carrying a negative evaluation of neglect.
+
+===word: みそ汁にねぎを入れました。===
+Meaning: I put green onion in miso soup.
+Nuance_EN: This sentence uses "ねぎ" (green onion), a common aromatic vegetable in Japanese cooking, often used as a garnish or in hot pot dishes.
+
+===word: みっしり===
+Meaning: Tightly / Densely
+Nuance_EN: An onomatopoeia describing something packed without gaps; can be used for physical objects or schedules, conveying solidity and density.
+
+===word: みっしり鍛えれたのかな===
+Meaning: I wonder if (he) trained hard/densely.
+Nuance_EN: Uses "みっしり" to emphasize intense, dense training; colloquial expression expressing speculation.
+
+===word: みっともない===
+Meaning: Unseemly / Shameful
+Nuance_EN: Describes an appearance or behavior that is embarrassingly uncool; used to criticize actions that cause public embarrassment.
+
+===word: みなさん、着席してください。===
+Meaning: Please be seated.
+Nuance_EN: "着席" is a somewhat formal word for sitting down; often used in schools, meetings, or ceremonies. In everyday conversation, "座る" is more common.
+
+===word: みなさんどしどしご応募ください===
+Meaning: Please feel free to apply.
+Nuance_EN: Uses "どしどし" to encourage proactive, unhesitating action; invites people to apply without reservation.
+
+===word: みみっちい===
+Meaning: Stingy / Pettifogging
+Nuance_EN: An adjective meaning stingy or overly concerned with trivial details; can refer to both financial stinginess and narrow-minded attitudes. More colloquial.
+
+===word: みんなが彼の指差す方を見たんだ。===
+Meaning: Everyone looked in the direction he was pointing.
+Nuance_EN: A simple sentence illustrating the verb "指差す" (to point at).
+
+===word: みんなでわいわい騒いだ===
+Meaning: Everyone made a lively noise together.
+Nuance_EN: "わいわい" is an onomatopoeia for a cheerful, noisy gathering; often used in fun, lively atmospheres.
+
+===word: みんなで例題を解いてみましょう。===
+Meaning: Let's try solving the example problem together.
+Nuance_EN: "例題" means example problem; "題" is a suffix for titles or problems.
+
+===word: みんなで力を合わせて、平和で住みやすい社会を作ろうではないか。===
+Meaning: Let's join forces and create a peaceful, livable society, shall we?
+Nuance_EN: Uses "社" (society) in a rhetorical invitation; the phrase "作ろうではないか" is a classical, persuasive suggestion.
+
+===word: みんなで決めた規則だから、守らざるを得ない。===
+Meaning: Since it's a rule we all decided, we have no choice but to follow it.
+Nuance_EN: "得" in "守らざるを得ない" means "cannot avoid"; it's a set pattern meaning "must" or "cannot help but."
+
+===word: みんなで製品の名称を考えました。===
+Meaning: We thought of the product name together.
+Nuance_EN: "名称" is a formal word for "name" as designated officially; more formal than 名前.
+
+===word: みんなの意見がまとまりました。===
+Meaning: Everyone's opinions were consolidated.
+Nuance_EN: "意見" means opinion or view; a basic word used in meetings and discussions.
+
+===word: みんなの意見はまちまちです===
+Meaning: Everyone's opinions are varied.
+Nuance_EN: "まちまち" means diverse or various; describes opinions or conditions that differ from person to person.
+
+===word: みんなの話からすると、それは真実だろう。===
+Meaning: Based on everyone's talk, that is probably the truth.
+Nuance_EN: "真実" means truth, but nuances subjective/inner truth more than objective fact.
+
+===word: みんな出払って事務所はがらんとしていた===
+Meaning: Everyone was out, and the office was empty and desolate.
+Nuance_EN: "がらんと" describes a spacious, deserted state; onomatopoeia for emptiness and silence.
+
+===word: みんな口々に意見を言った===
+Meaning: Everyone spoke their opinions one after another.
+Nuance_EN: "口々に" means "each in turn" or "simultaneously speaking."
+
+===word: みんな口を極めて彼女を褒めちぎった。===
+Meaning: Everyone praised her to the skies using the strongest words.
+Nuance_EN: "口を極めて" means "using every possible word"; often used for strong praise or criticism.
+
+===word: みんな彼が勝つと思っていた。ところが、簡単に負けてしまった===
+Meaning: Everyone thought he would win. However, he easily lost.
+Nuance_EN: "ところが" is a conjunction meaning "however," indicating a contrary result.
+
+===word: みんな彼の温かい人柄が大好きだよ。===
+Meaning: Everyone really loves his warm personality.
+Nuance_EN: "大好き" means "love" or "like very much," a strong emotional attachment.
+
+===word: むき出す===
+Meaning: To expose / Bare
+Nuance_EN: A verb meaning to show or expose something that is normally hidden; often used for teeth, fangs, or true intentions.
+
+===word: むく===
+Meaning: To peel
+Nuance_EN: Refers to the action of peeling fruits or vegetables; a simpler, everyday alternative to "皮を剥く."
+
+===word: むける===
+Meaning: To come off / Peel off
+Nuance_EN: Intransitive verb meaning that a surface or covering peels off naturally or by force; pairs with transitive "むく."
+
+===word: むさい===
+Meaning: Musty / Stale / Unkempt
+Nuance_EN: An adjective describing a state of being unclean with sweat and dirt, often with a bad smell; used mainly for men's sweaty appearance, colloquial.
+
+===word: むさ苦しい===
+Meaning: Stuffy / Messy / Stale
+Nuance_EN: Describes a room or place that is unclean and cluttered to the point of being stifling; often used for a man's messy room.
+
+===word: むしゃくしゃ===
+Meaning: Irritated / Frustrated
+Nuance_EN: A mimetic word describing a state of irritation and anger that won't settle; used for vague frustration rather than clear anger. Casual.
+
+===word: むしろ===
+Meaning: Rather / Instead
+Nuance_EN: An adverb used to express that, when comparing two options, the latter is more applicable; used in both speech and writing.
+
+===word: むずむず===
+Meaning: Itchy / Restless
+Nuance_EN: A mimetic word for a tickling, itchy sensation on the skin, or a restless urge to do something.
+
+===word: むず痒い===
+Meaning: Tickling / Itchy
+Nuance_EN: An adjective describing an irritating, persistent itch that makes one unable to sit still; used for allergies or insect bites.
+
+===word: むせび泣く===
+Meaning: To sob convulsively
+Nuance_EN: Means to cry violently while choking on one's sobs; a literary expression.
+
+===word: むせる===
+Meaning: To choke / To be choked
+Nuance_EN: Refers to the state of violently coughing when food, drink, or smoke enters the airway.
+
+===word: むせ返る===
+Meaning: To be suffocated by smoke/odor / To sob heavily
+Nuance_EN: Describes difficulty breathing due to smoke or strong smell; also means to cry violently.
+
+===word: むっくり===
+Meaning: Suddenly sitting up (from sleep)
+Nuance_EN: A mimetic word describing the abrupt, sometimes grudging motion of sitting up from lying down.
+
+===word: むっくりと起き上がった===
+Meaning: Sat up abruptly
+Nuance_EN: Uses むっくり to emphasize a sudden, somewhat sulky rising from a lying position.
+
+===word: むっちり===
+Meaning: Plump / Chubby but firm
+Nuance_EN: A mimetic word describing a well-padded, elastic, healthy body shape; used approvingly for women or children, but casual.
+
+===word: むっと===
+Meaning: Huffed / Sulkily
+Nuance_EN: An adverb describing a sudden rush of displeasure or anger; from stuffy air to being offended by someone's words.
+
+===word: むやみやたら===
+Meaning: Recklessly / Excessively
+Nuance_EN: An adverb meaning to act without thought, indiscriminately, or excessively; an emphatic combination of むやみ and やたら.
+
+===word: むろん、この両極端の間に多くのバリエーションがある。===
+Meaning: Of course, there are many variations between these two extremes.
+Nuance_EN: "端" means "end" or "edge"; here used in "両極端" meaning "both extremes."
+
+===word: むんず===
+Meaning: Firmly / Grabbing tightly
+Nuance_EN: An adverb used mainly in "むんずと掴む" to describe a strong, relentless grip on someone.
+
+===word: めくる===
+Meaning: To turn over / Flip
+Nuance_EN: Action of turning pages or lifting an edge to show the other side.
+
+===word: めくれ上がる===
+Meaning: To curl up / Turn up
+Nuance_EN: Describes the edge of fabric, paper, or metal curling upward due to wind or force.
+
+===word: めげる===
+Meaning: To be discouraged / To be daunted
+Nuance_EN: A colloquial verb meaning to lose heart or become discouraged when facing failure or difficulty.
+
+===word: めずらしい猫について百科事典で調べたの。===
+Meaning: I looked up the rare cat in the encyclopedia.
+Nuance_EN: The Japanese explanation discusses "べた" (cliché, overly predictable), which is slang for something standard and unoriginal, often used critically or affectionately.
+
+===word: めそめそ===
+Meaning: Whimpering / Sniveling
+Nuance_EN: A mimetic word for persistently crying in a weak, pathetic manner; often with a negative evaluation, unlike quiet sobbing.
+
+===word: めちゃくちゃ美味しい===
+Meaning: Super delicious
+Nuance_EN: "めちゃくちゃ" intensifies "美味しい" (delicious); very casual slang for "extremely tasty."
+
+===word: めちゃくちゃ（な）===
+Meaning: Messed up / Ridiculous / Extreme
+Nuance_EN: A very casual adjectival noun describing a chaotic, terrible state or an excessive degree; used to emphasize something is a mess or over the top.
+
+===word: めっきり===
+Meaning: Markedly / Noticeably
+Nuance_EN: An adverb emphasizing a clear change in a state, especially seasonal or physical; e.g., "めっきり寒くなった" (It's become noticeably cold).
+
+===word: めっきり寒くなった。===
+Meaning: It has become noticeably cold.
+Nuance_EN: Uses めっきり to emphasize the clear change in weather.
+
+===word: めっきり春らしくなった。===
+Meaning: It has become noticeably spring-like.
+Nuance_EN: Uses めっきり to emphasize the clear seasonal shift.
+
+===word: めでたい===
+Meaning: Auspicious / Joyful
+Nuance_EN: An adjective expressing a celebratory feeling for happy events like weddings, births, etc.; can also be used sarcastically for someone overly optimistic.
+
+===word: めまい===
+Meaning: Dizziness / Vertigo
+Nuance_EN: A noun referring to the sensation of spinning or lightheadedness; used in medical and everyday contexts.
+
+===word: めり込む===
+Meaning: To sink in / Dig in
+Nuance_EN: To sink or press into a soft surface due to weight or force; to embed.
+
+===word: もういい加減に許してやれよ。彼だって悪気があってやったわけじゃないんだから。===
+Meaning: Forgive him already. It's not like he did it out of malice.
+Nuance_EN: "いい加減" here means "already" or "enough"; "悪気" means ill will or malicious intent.
+
+===word: もうこうなりゃ破れかぶれだ===
+Meaning: At this point, I'm reckless / I've abandoned hope.
+Nuance_EN: "破れかぶれ" means being desperate and reckless; a state of giving up and not caring about consequences.
+
+===word: もうこの会社に未練はない===
+Meaning: I have no more attachment to this company.
+Nuance_EN: "未練" means lingering attachment or regret; used when one has moved on.
+
+===word: もうじき===
+Meaning: Soon / Shortly
+Nuance_EN: An adverb indicating something will happen soon; more colloquial than "やがて."
+
+===word: もうすぐ夜が明けるね。===
+Meaning: It'll be dawn soon.
+Nuance_EN: "夜が明ける" means night ends and day begins; also used metaphorically for new beginnings.
+
+===word: もうすぐ目標の地点に到達します。===
+Meaning: We will soon reach the target point.
+Nuance_EN: "地点" means point or location; neutral and objective.
+
+===word: もうそろそろで準備万端だけど、後はブーツを入れるだけというところです。===
+Meaning: I'm almost fully prepared, just need to put in the boots.
+Nuance_EN: "準備万端" means everything is ready; "端" is the end/edge, but here in "万端" meaning "all aspects."
+
+===word: もう使わないなら、人にあげるなり捨てるなりしたほうがいいと思う。===
+Meaning: If you're not going to use it, I think you should either give it away or throw it away.
+Nuance_EN: "〜なり〜なり" means "either ... or ..."; offers options.
+
+===word: もう少し具体的な説明を聞いてからでないと、その計画には賛成できません。===
+Meaning: I can't agree to the plan until I hear a more specific explanation.
+Nuance_EN: "具体的" means concrete or specific; "賛成" means agreement or approval.
+
+===word: もう少し頑張れば1位になれたものを、惜しかったですね。===
+Meaning: If you had tried a little harder, you could have gotten first place. What a shame.
+Nuance_EN: "位" here is a suffix for rank or order; "惜しかった" expresses regret.
+
+===word: もう我慢の限界です。===
+Meaning: I've reached my limit of patience.
+Nuance_EN: "限界" means limit or boundary; used for physical, mental, or temporal limits.
+
+===word: もぎ取る===
+Meaning: To pluck off / To snatch
+Nuance_EN: To twist and pick fruit from a tree, or to forcibly take something away.
+
+===word: もくもく(と)===
+Meaning: Billowing / Puffing
+Nuance_EN: Onomatopoeia for large amounts of smoke or clouds rising up in fluffy masses.
+
+===word: もぐもぐ===
+Meaning: Mumbling / Chewing with mouth full
+Nuance_EN: Onomatopoeia for the motion of chewing with food in the mouth, or speaking unclearly with a full mouth; casual, often used in children's contexts.
+
+===word: もげる===
+Meaning: To be torn off / To come off
+Nuance_EN: Describes a part that is violently ripped off; used for doll limbs or plant branches.
+
+===word: もごもご===
+Meaning: Mumbling / Moving mouth indistinctly
+Nuance_EN: Onomatopoeia for speaking unclearly as if having something in the mouth, or hesitating to speak.
+
+===word: もし、もう一度生まれ変われるとしたら、男と女とどちらがいいですか===
+Meaning: If you could be reborn, would you rather be male or female?
+Nuance_EN: The nuance provided discusses "まれ" (rare), but here it appears in the verb "生まれ変われる" (be reborn); this mismatch suggests the example may focus on the word "まれ" as part of the verb.
+
+===word: もしも===
+Meaning: If / Suppose
+Nuance_EN: An emphatic form of "もし" used to imagine hypothetical situations that are not real.
+
+===word: もしも彼女と結婚できたらどんなに嬉しいだろう。===
+Meaning: If I could marry her, how happy I would be.
+Nuance_EN: Uses もしも for a hypothetical wish; "嬉しい" expresses happiness.
+
+===word: もし差し支えないようでしたら===
+Meaning: If it is not inconvenient / If you don't mind
+Nuance_EN: A polite, cautious phrase used to ask permission or make a request; "差し支えない" means no hindrance.
+
+===word: もし気を付けなければ彼女はそんなことをしているうちに靭帯を切ってしまうだろう。===
+Meaning: If she's not careful, she'll tear a ligament doing that.
+Nuance_EN: "靭帯" means ligament; anatomical term.
+
+===word: もし水がなければ、人間は存続できないだろう===
+Meaning: Without water, humans probably cannot survive.
+Nuance_EN: "存続" means continued existence; used in contexts of survival or sustainability.
+
+===word: もじもじ===
+Meaning: Fidgeting / Wriggling
+Nuance_EN: A mimetic word for being restless and twisting one's body due to embarrassment or nervousness.
+
+===word: もぞもぞ===
+Meaning: Squirming / Fidgeting
+Nuance_EN: A mimetic word for small, restless movements like a crawling insect or nervous shifting.
+
+===word: もたつく===
+Meaning: To be sluggish / To be slow
+Nuance_EN: A colloquial verb for movement or processing that is slow and not smooth.
+
+===word: もたもた（する）===
+Meaning: Dawdling / Moving slowly
+Nuance_EN: Describes slow, clumsy actions that irritate; implies annoyance at the delay.
+
+===word: もたらす===
+Meaning: To bring about / To cause
+Nuance_EN: A transitive verb meaning to bring or cause a certain result or state; used for both good and bad outcomes.
+
+===word: もちろん利潤は生産費を上回るべきです。===
+Meaning: Of course, profit should exceed production costs.
+Nuance_EN: "上回る" means to exceed or surpass a benchmark.
+
+===word: もちろん彼はその頃放埓な仲間連中と付き合っていた===
+Meaning: Of course, at that time he was associating with dissolute companions.
+Nuance_EN: "放埓" means dissolute or licentious; a rather old-fashioned, literary expression for a decadent lifestyle.
+
+===word: もっこりパワー===
+Meaning: Bulge power (slang)
+Nuance_EN: A vulgar term describing a visible bulge in a man's crotch area through clothing; used in very casual conversation.
+
+===word: もっとも===
+Meaning: However / That said
+Nuance_EN: A conjunction used to partially correct or add to a previous statement; means "although" or "but."
+
+===word: もっとも (grammar)===
+Meaning: However / That said
+Nuance_EN: Same as above; a grammatical conjunction.
+
+===word: もっとも重要なことは、脳にはこれらの解剖学的組織を結合する全体的な再入経路が必要である。===
+Meaning: The most important thing is that the brain needs a global reentrant pathway to connect these anatomical structures.
+Nuance_EN: "もっとも" here means "most" (supremely); "必要" means necessary.
+
+===word: もっと他の町との交流を深めましょう。===
+Meaning: Let's deepen exchanges with other towns.
+Nuance_EN: "交流" means exchange or interaction; positive and formal/informal.
+
+===word: もっと案を出し合いましょう。===
+Meaning: Let's brainstorm more ideas.
+Nuance_EN: "案" means plan or idea; "出し合う" means to offer ideas mutually.
+
+===word: もっと照明を明るくしてください。===
+Meaning: Please make the lighting brighter.
+Nuance_EN: "照明" means lighting or illumination.
+
+===word: もっと真面目に勉強にしなさい。さもないと卒業できませんよ===
+Meaning: Study more seriously. Otherwise, you can't graduate.
+Nuance_EN: "さもないと" means "otherwise"; "卒業" graduation.
+
+===word: もっと範囲を狭めて探しましょう===
+Meaning: Let's narrow the range and search.
+Nuance_EN: "範囲" means range or scope.
+
+===word: もっと繊維質をとりなさい。===
+Meaning: Eat more fiber.
+Nuance_EN: "繊維質" means dietary fiber.
+
+===word: もっぱらのうわさだ===
+Meaning: It's the talk of the town / widely rumored
+Nuance_EN: An expression meaning that something is the exclusive topic of gossip; "もっぱら" means exclusively or mainly.
+
+===word: もてる===
+Meaning: To be popular (with the opposite sex)
+Nuance_EN: A colloquial expression meaning to be popular, especially in romantic contexts.
+
+===word: もどかしい===
+Meaning: Frustrating / Vexing
+Nuance_EN: An adjective describing impatience or irritation when things don't go as desired; can be used for oneself or others.
+
+===word: もぬけの殻===
+Meaning: Empty shell / Abandoned husk
+Nuance_EN: An idiom describing a state where the occupant is gone, leaving only the outer shell; originally from cicada molting.
+
+===word: ものごとは根気よく継続することが大切です。===
+Meaning: It's important to continue things patiently.
+Nuance_EN: "根気" means perseverance or stamina.
+
+===word: ものごとをいつも悪く受け取るのは僻みです===
+Meaning: Always taking things negatively is jealousy/spite.
+Nuance_EN: "僻み" means a twisted view or envy; inability to be happy for others.
+
+===word: もはや===
+Meaning: Already / No longer
+Nuance_EN: Means "by now" or "now that it's come to this," often with a nuance of irreversibility or resignation; used in negative or reflective contexts.
+
+===word: もはや彼の助けは必要じゃないの。===
+Meaning: I no longer need his help.
+Nuance_EN: Uses もはや to emphasize that the situation has changed and the need is gone.
+
+===word: もみじの葉っぱが赤くなりましたね。===
+Meaning: The maple leaves have turned red, haven't they?
+Nuance_EN: "もみじ" means maple leaf; mentions seasonal change.
+
+===word: もみじ饅頭===
+Meaning: Maple leaf-shaped bun (sweet)
+Nuance_EN: A famous souvenir from Miyajima, Hiroshima; cake-like dough filled with bean paste shaped like a maple leaf.
+
+===word: もらい事故===
+Meaning: Accident caused by the other party
+Nuance_EN: A traffic accident that is not one's own fault but the other party's responsibility.
+
+===word: もらい泣き===
+Meaning: Crying in sympathy
+Nuance_EN: Crying because you are moved by someone else's sadness or joy; shows empathy.
+
+===word: もりもり===
+Meaning: Heartily / Energetically
+Nuance_EN: Onomatopoeia for doing something vigorously, especially eating or working.
+
+===word: やかましい===
+Meaning: Noisy / Loud
+Nuance_EN: An adjective for a loud sound; also used for someone who is fussy or nagging. In Kansai dialect, often used as "shut up."
+
+===word: やかんから湯気が出ていますよ。===
+Meaning: Steam is coming out of the kettle.
+Nuance_EN: "湯気" means steam or vapor from hot liquid; evokes a homey feeling.
+
+===word: やがて===
+Meaning: Soon / Eventually
+Nuance_EN: An adverb meaning after a short time; implies a natural progression or fateful outcome, more literary than "すぐに."
+
+===word: やがてその事件は忘却された===
+Meaning: Eventually that incident was forgotten.
+Nuance_EN: "忘却" means oblivion or being forgotten; literary.
+
+===word: やがて彼は高名な学者になった===
+Meaning: Eventually he became a renowned scholar.
+Nuance_EN: "高名" means famous and highly regarded; somewhat classical.
+
+===word: やがて雪も止むでしょう。===
+Meaning: Eventually the snow will stop, I think.
+Nuance_EN: Uses やがて for natural expectation.
+
+===word: やきもき===
+Meaning: Fret / Fidget
+Nuance_EN: Onomatopoeia for feeling impatient and anxious about how things will turn out.
+
+===word: やけに===
+Meaning: Excessively / Strangely
+Nuance_EN: An adverb indicating something is overdone without reason; often negative connotation.
+
+===word: やさぐれる===
+Meaning: To become delinquent / To turn cynical
+Nuance_EN: A slang verb meaning to become rebellious and jaded due to a troubled life; originally from Kansai dialect.
+
+===word: やさしい口調で===
+Meaning: In a gentle tone
+Nuance_EN: "口調" means tone of voice or speaking style.
+
+===word: やせ細る===
+Meaning: To become emaciated
+Nuance_EN: To become extremely thin due to illness or malnutrition.
+
+===word: やたらと===
+Meaning: Excessively / Recklessly
+Nuance_EN: An adverb meaning indiscriminately or to an abnormal degree; negative nuance of excess.
+
+===word: やたらに===
+Meaning: Recklessly / Unnecessarily
+Nuance_EN: Similar to やたらと; means overdone or without proper thought.
+
+===word: やっかむ===
+Meaning: To envy / To be jealous
+Nuance_EN: A verb meaning to feel jealousy or resentment towards someone's success.
+
+===word: やって退ける===
+Meaning: To accomplish / Pull off
+Nuance_EN: Means to achieve something difficult splendidly.
+
+===word: やっと在留許可が下りました===
+Meaning: Finally received the residence permit.
+Nuance_EN: "在留許可" means permission to stay in a country; formal legal term.
+
+===word: やっと宿題を終えた。===
+Meaning: Finally finished homework.
+Nuance_EN: "やっと" means finally after effort.
+
+===word: やっぱりこの人生には、人脈が物言う===
+Meaning: After all, in this life, connections matter.
+Nuance_EN: "物言う" means to have influence; "人脈" means network of contacts.
+
+===word: やつは時間どおりに来たためしがないんだよ===
+Meaning: That guy has never come on time.
+Nuance_EN: "ためしがない" means there has never been a case; negative pattern.
+
+===word: やぶ蛇===
+Meaning: Stirring up trouble / Unnecessary provocation
+Nuance_EN: A proverbial expression meaning "to stir up a hornet's nest"; doing something unnecessary that backfires.
+
+===word: やむを得ない事由により手続が遅れた場合、必ずご連絡下さい===
+Meaning: If the procedure is delayed due to unavoidable circumstances, please be sure to contact us.
+Nuance_EN: "やむを得ない" means unavoidable; "事由" means reason.
+
+===word: やや===
+Meaning: Slightly / Somewhat
+Nuance_EN: An adverb meaning a little or somewhat; more literary than "ちょっと."
+
+===word: ややあって===
+Meaning: After a little while
+Nuance_EN: An adverbial expression meaning after a short time; literary.
+
+===word: ややこしい===
+Meaning: Complicated / Troublesome
+Nuance_EN: A colloquial adjective describing something complex and hard to understand; originally from Kansai dialect.
+
+===word: ややもすれば===
+Meaning: Easily / Apt to
+Nuance_EN: A literary adverbial expression meaning "with just a little, tends to..."; implies carelessness.
+
+===word: やらしい===
+Meaning: Disgusting / Nasty
+Nuance_EN: An adjective for causing discomfort or disgust; used for unclean things or offensive behavior.
+
+===word: やらなくてはならないことが多かったので、私は気が重い。===
+Meaning: There were many things I had to do, so I felt heavy-hearted.
+Nuance_EN: "気が重い" means feeling depressed or weighed down by obligations.
+
+===word: やりとも===
+Meaning: Fuck buddy (slang)
+Nuance_EN: A vulgar term for a regular sexual partner without romantic involvement.
+
+===word: やり切れない===
+Meaning: Unbearable / Too much to handle
+Nuance_EN: Expresses that feelings or situations are too painful or frustrating to endure.
+
+===word: やり取り===
+Meaning: Exchange / Interchange
+Nuance_EN: A noun meaning mutual exchange of things, words, or actions; bidirectional.
+
+===word: やり場===
+Meaning: Target (for emotions)
+Nuance_EN: A metaphorical expression for a place to direct feelings, especially anger; often used in "やり場のない怒り" (anger with no outlet).
+
+===word: やり手===
+Meaning: Go-getter / Able person
+Nuance_EN: A noun for someone capable and efficient; positive evaluation of skill.
+
+===word: やり残す===
+Meaning: To leave unfinished
+Nuance_EN: To fail to complete all tasks; implies regret.
+
+===word: やり込み===
+Meaning: Deep play / Completionist play
+Nuance_EN: In gaming, refers to playing beyond normal completion to fully explore content.
+
+===word: やろうかやるまいかは自分で決めてくれ。===
+Meaning: Decide for yourself whether to do it or not.
+Nuance_EN: "やるまいか" is a classical negative volitional; the phrase offers a choice.
+
+===word: やんちゃ===
+Meaning: Naughty / Mischievous
+Nuance_EN: Describes a child who is overly energetic and unruly; often used affectionately.
+
+===word: やんわりと===
+Meaning: Gently / Tactfully
+Nuance_EN: An adverb for conveying something softly, avoiding directness; used for polite refusals or criticism.
+
+===word: や否や===
+Meaning: As soon as / The moment
+Nuance_EN: A grammatical conjunction meaning "no sooner than"; formal and written.
+
+===word: ゆうべあいつの店に手入れがあって、書類ぐるみ監獄へ持ってゆかれましたぜ===
+Meaning: Last night there was a raid on that guy's shop, and he was taken to prison with all his documents.
+Nuance_EN: "手入れ" here means a police raid; "ぐるみ" means together with.
+
+===word: ゆうべはろくに寝ていない。===
+Meaning: I didn't sleep well last night.
+Nuance_EN: "ろくに" with negative means not properly/sufficiently.
+
+===word: ゆさゆさ===
+Meaning: Swaying gently
+Nuance_EN: Onomatopoeia for large or soft objects swaying slowly and rhythmically.
+
+===word: ゆすぐ===
+Meaning: To rinse
+Nuance_EN: To lightly wash with water or detergent to remove dirt; used for dishes, mouth, cloth.
+
+===word: ゆず湯===
+Meaning: Yuzu bath (winter solstice tradition)
+Nuance_EN: A Japanese tradition of floating yuzu fruits in the bath on the winter solstice to ward off colds.
+
+===word: ゆったり===
+Meaning: Spacious / Leisurely
+Nuance_EN: Describes a state of having ample space or time, relaxing; used for clothes, seating, or mood.
+
+===word: ゆったりとしたスカートを履く===
+Meaning: To wear a loose-fitting skirt
+Nuance_EN: Uses ゆったり to describe a comfortable, roomy fit.
+
+===word: ゆとり===
+Meaning: Leeway / Slack
+Nuance_EN: A state of having spare time, money, or mental space; also used for "yutori generation" (born after 1987, associated with relaxed education).
+
+===word: ゆめゆめ (忘れてはいけませんよ)===
+Meaning: Never / By no means
+Nuance_EN: An adverb emphasizing strong prohibition or negation; archaic and formal.
+
+===word: ゆるり===
+Meaning: Slowly / At leisure
+Nuance_EN: An adverb indicating taking one's time with a relaxed attitude.
+
+===word: よい映画は人の視野を広げる。===
+Meaning: Good movies broaden one's perspective.
+Nuance_EN: "視野" means field of vision, but metaphorically one's outlook.
+
+===word: よからぬ===
+Meaning: Unwholesome / Bad
+Nuance_EN: An archaic/euphemistic way of saying "not good"; used to imply something sinister or unfavorable.
+
+===word: よくも===
+Meaning: How dare / How could you
+Nuance_EN: An adverb expressing strong anger or reproach towards someone's action.
+
+===word: よくよく===
+Meaning: Very / Especially / Thoroughly
+Nuance_EN: An adverb intensifying the degree; often used in "よくよくのことがない限り" (unless absolutely necessary) or "よくよく考えた" (after careful thought).
+
+===word: よくよく考えた末===
+Meaning: After very careful thought
+Nuance_EN: "末" means after; emphasizes thorough deliberation.
+
+===word: よくよく考えてみるとこの転職は間違いだった===
+Meaning: Upon very careful thought, this job change was a mistake.
+Nuance_EN: Uses よくよく to emphasize the thoroughness of reflection.
+
+===word: よく似た家が隣り合わせに建っています===
+Meaning: Two very similar houses stand next to each other.
+Nuance_EN: "隣り合わせ" means adjacent or side by side.
+
+===word: よく考えた上でご返事いたします。===
+Meaning: I will reply after careful consideration.
+Nuance_EN: "上で" means after; "返事" means reply.
+
+===word: よける===
+Meaning: To dodge / To avoid
+Nuance_EN: A verb meaning to move out of the way of danger or obstacles; also used abstractly.
+
+===word: よける (another meaning)===
+Meaning: To avoid / To shirk
+Nuance_EN: Same nuance: to physically or mentally avoid.
+
+===word: よしとする===
+Meaning: To consider acceptable / To deem good
+Nuance_EN: Means to approve or accept something as good based on one's judgment.
+
+===word: よせよ===
+Meaning: Stop it / Cut it out
+Nuance_EN: A colloquial expression to lightly stop someone's action or speech; often playful.
+
+===word: よそ===
+Meaning: Elsewhere / Another place
+Nuance_EN: Means another place; also used in "よそにする" (to ignore/treat as unrelated).
+
+===word: よそ者===
+Meaning: Outsider / Stranger
+Nuance_EN: Refers to a person not from the area/group; can carry exclusive nuance.
+
+===word: よそ行き===
+Meaning: Best clothes / Formal manners
+Nuance_EN: Originally "clothes for going out"; metaphorically means putting on a formal or reserved demeanor.
+
+===word: よそ行きのお辞儀をする===
+Meaning: To bow in a formal, reserved manner
+Nuance_EN: "よそ行き" implies extra politeness; sometimes humorous.
+
+===word: よそ見===
+Meaning: Looking away / Distraction
+Nuance_EN: Looking in a different direction from where one should; often negative, e.g., while driving.
+
+===word: よたよた===
+Meaning: Staggering / Tottering
+Nuance_EN: Onomatopoeia for walking unsteadily; used for tired, drunk, or elderly people.
+
+===word: よちよち===
+Meaning: Toddling
+Nuance_EN: Onomatopoeia for a baby's first unsteady steps; cute. Also metaphorical for beginners.
+
+===word: よっこいしょ===
+Meaning: Heave-ho / Upsy-daisy
+Nuance_EN: A spontaneous grunt when standing up or lifting something heavy; associated with elderly people.
+
+===word: よほど===
+Meaning: Very much / Greatly
+Nuance_EN: An adverb indicating a significant degree; used in both speech and writing, often in "よほど〜ない限り" (unless extremely...).
+
+===word: よもや===
+Meaning: Surely not / By no means
+Nuance_EN: An adverb expressing strong disbelief that something could happen; classical nuance.
+
+===word: よもやうそではあるまい。===
+Meaning: It can't be a lie, surely.
+Nuance_EN: Uses よもや and archaic "あるまい" to express strong disbelief.
+
+===word: よもや本当であるまい===
+Meaning: It surely cannot be true.
+Nuance_EN: Same pattern; literary.
+
+===word: よりけり===
+Meaning: Depends on / Varies
+Nuance_EN: A colloquial expression meaning "it depends"; from "〜による" plus old copula "けり."
+
+===word: よりによって===
+Meaning: Of all things / Of all people
+Nuance_EN: An expression used when someone chooses the worst possible option; shows dismay.
+
+===word: より好み　を　する===
+Meaning: To pick and choose / To be particular
+Nuance_EN: "より好み" means preference or selectivity; often used in negative "より好みをするな" (don't be picky).
+
+===word: より好みをしてはいけません===
+Meaning: You must not be picky.
+Nuance_EN: Prohibition of being choosy.
+
+===word: より糸===
+Meaning: Twisted thread / Yarn
+Nuance_EN: Thread made by twisting multiple strands together for strength; technical term in textiles.
+
+===word: より良い===
+Meaning: Better
+Nuance_EN: A comparative form of "good"; more formal than "もっと良い," used in writing and speeches.
+
+===word: よる===
+Meaning: To be due to / To depend on
+Nuance_EN: A verb used in the pattern "〜による" meaning caused by or depending on.
+
+===word: よろめく===
+Meaning: To stagger / To totter
+Nuance_EN: To lose balance and almost fall; used for physical or metaphorical unsteadiness.
+
+===word: よろよろ===
+Meaning: Staggering / Stumbling
+Nuance_EN: Onomatopoeia for walking unsteadily as if about to fall.
+
+===word: ろうそく===
+Meaning: Candle
+Nuance_EN: A lighting tool made of wax or paraffin with a wick; used in festivals, religious events, or power outages.
+
+===word: ろうそくの炎が部屋を照らしたんだ。===
+Meaning: The candle flame lit up the room.
+Nuance_EN: "炎" means flame; "照らす" means to illuminate.
+
+===word: ろくに===
+Meaning: Properly / Sufficiently (with negative)
+Nuance_EN: An adverb used with negatives to mean "not properly" or "not adequately."
+
+===word: わいせつ画像は、それそのものが問題なのではなく、それを誰が見るかが問題だと思う。===
+Meaning: I think the problem isn't the obscene images themselves, but who sees them.
+Nuance_EN: "わいせつ" means obscene or pornographic.
+
+===word: わいわい===
+Meaning: Noisily / Cheerfully (group)
+Nuance_EN: Onomatopoeia for a lively, enjoyable clamor of many people talking.
+
+===word: わが国の国土は70%が森林です。===
+Meaning: 70% of our country's land is forest.
+Nuance_EN: "森林" means forest; more formal than "林."

@@ -1,0 +1,803 @@
+===word: 調子をこく===
+Meaning: Get Carried Away
+Nuance_EN: A casual, colloquial phrase meaning to get overly excited or go too far after being praised or successful, synonymous with "調子に乗る."
+
+===word: 調子を合わせる===
+Meaning: Go Along With
+Nuance_EN: Means to align with someone's opinion or mood, often insincerely, by reading the atmosphere. It's a metaphorical expression from tuning instruments in music.
+
+===word: 調度品===
+Meaning: Furnishings
+Nuance_EN: A somewhat formal term for household items like furniture, tableware, and decorations used in daily life, collectively referring to interior goods.
+
+===word: 調教===
+Meaning: Training
+Nuance_EN: Refers to training animals (e.g., racehorses or dogs) for specific behaviors. Metaphorically, it can have a negative connotation of manipulating people to one's will.
+
+===word: 調書===
+Meaning: Official Record
+Nuance_EN: A formal document recording the progress and results of an investigation or incident, especially created by public institutions like the police or courts, emphasizing accuracy.
+
+===word: 調査===
+Meaning: Investigation
+Nuance_EN: Refers to examining something in detail to clarify it, used in various contexts like research or news.
+
+===word: 調査した資料に基づいて、レポートを書かなければならない===
+Meaning: (Sentence)
+Nuance_EN: This is a sentence example using "調査" (investigation), meaning "I have to write a report based on the investigated materials."
+
+===word: 調査の前夜から飲食禁止です。もっとも水は飲んでもかまいません===
+Meaning: However
+Nuance_EN: "もっとも" is a conjunction that partially corrects or supplements a previous statement, meaning "that said" or "however," used in both spoken and written language.
+
+===word: 調査団===
+Meaning: Investigation Team
+Nuance_EN: Refers to a team or group organized to investigate a specific purpose or incident.
+
+===word: 調査結果は出来ました、プリントだけすればいいというところです。===
+Meaning: (Sentence)
+Nuance_EN: This is a sentence example using "調査" (investigation), meaning "The investigation results are done; we just need to print them."
+
+===word: 調査課===
+Meaning: Research Department
+Nuance_EN: A department within a company or organization specializing in investigation and research, found in various entities like police, newspapers, and private companies.
+
+===word: 調理===
+Meaning: Cooking
+Nuance_EN: Refers to the series of processes involved in preparing ingredients to make dishes.
+
+===word: 調理台===
+Meaning: Kitchen Counter
+Nuance_EN: A worktop or counter in a kitchen used for cutting ingredients and plating dishes, common in both home and professional settings.
+
+===word: 調理場===
+Meaning: Kitchen
+Nuance_EN: Another term for a kitchen, especially a professional one in restaurants or hotels, implying a specialized cooking space rather than a home kitchen.
+
+===word: 調理法===
+Meaning: Cooking Method
+Nuance_EN: Refers to cooking techniques like grilling, boiling, or steaming, as opposed to a specific recipe. It's a term used in cooking schools and cookbooks.
+
+===word: 調理用食塩===
+Meaning: Cooking Salt
+Nuance_EN: Refined salt specifically for cooking, with higher purity than regular salt, used in everyday shopping and cooking contexts.
+
+===word: 調達===
+Meaning: Procurement
+Nuance_EN: (No nuance provided in input, but generally means to procure or supply items, often in business contexts.)
+
+===word: 調達先===
+Meaning: Supplier
+Nuance_EN: A business term referring to the source or vendor from which goods, parts, or services are procured, more formal than "仕入先" and used in supply chain management.
+
+===word: 調達部===
+Meaning: Procurement Department
+Nuance_EN: A formal business term for the department responsible for purchasing raw materials, supplies, and services from external sources, especially important in manufacturing and construction.
+
+===word: 諂い===
+Meaning: Flattery
+Nuance_EN: A literary term with strong contempt, meaning insincere flattery or fawning behavior to gain favor, similar to "おべっか" but more formal and negative.
+
+===word: 諂う===
+Meaning: Fawn Over
+Nuance_EN: A negative verb meaning to act in an unnaturally ingratiating way to please someone, implying calculated flattery rather than genuine feeling.
+
+===word: 談合===
+Meaning: Collusion
+Nuance_EN: Refers to illegal pre-bidding agreements among companies, especially in public works, or more neutrally, consultation and discussion.
+
+===word: 談笑===
+Meaning: Chatting
+Nuance_EN: Means to converse pleasantly and relaxed, often with laughter, used in casual or comfortable settings among friends.
+
+===word: 談話===
+Meaning: Talk
+Nuance_EN: A relatively formal term for conversation or its content, used in official settings like interviews or speeches.
+
+===word: 談話室===
+Meaning: Lounge
+Nuance_EN: A room for conversation and relaxation, found in hotels, companies, or schools, similar to "ラウンジ" but with a more Japanese or institutional feel.
+
+===word: 請け合い===
+Meaning: Undertaking
+Nuance_EN: Means taking responsibility for something or guaranteeing it, used in contexts like undertaking work or debts.
+
+===word: 請け負う===
+Meaning: Contract
+Nuance_EN: Means to take on work or responsibility, especially in business contexts based on contracts.
+
+===word: 請求する===
+Meaning: Claim
+Nuance_EN: Means to formally demand payment or return of money or rights, used in business and legal contexts.
+
+===word: 請求書===
+Meaning: Invoice
+Nuance_EN: A document requesting payment for goods or services, commonly used in business transactions, including payment deadlines and bank details.
+
+===word: 請託===
+Meaning: Entreaty
+Nuance_EN: A very formal term meaning a request or entreaty, often with a shady connotation of asking for favors from officials, used in legal contexts like bribery cases.
+
+===word: 請負人===
+Meaning: Contractor
+Nuance_EN: A person or business that undertakes work under contract, such as construction or system development, emphasizing independent responsibility for results.
+
+===word: 請願===
+Meaning: Petition
+Nuance_EN: A formal procedure to make public requests or appeals to administrative bodies or parliaments, often through submitting a petition.
+
+===word: 諌める===
+Meaning: Admonish
+Nuance_EN: A literary verb meaning to give advice to a superior or loved one for their own good, more polite than "注意する" and implying care for their growth.
+
+===word: 諍う===
+Meaning: Quarrel
+Nuance_EN: Means to argue or dispute verbally, less intense than a fight, with a somewhat literary tone.
+
+===word: 諒恕===
+Meaning: Pardon
+Nuance_EN: An extremely formal term meaning to understand and forgive, used almost exclusively in set phrases like "ご諒恕ください" in letters or official documents.
+
+===word: 論じる===
+Meaning: Discuss
+Nuance_EN: Means to explain or argue about a topic logically and systematically, presenting opinions.
+
+===word: 論より証拠===
+Meaning: Evidence Over Argument
+Nuance_EN: "証" refers to proof or evidence for facts, more formal than "証拠," used in both legal and daily contexts.
+
+===word: 論を待たない===
+Meaning: Needless to Say
+Nuance_EN: (No nuance provided, but means something is obvious and doesn't require discussion.)
+
+===word: 論争===
+Meaning: Controversy
+Nuance_EN: Refers to intense debate or argument due to conflicting opinions, often emotional and hard to resolve, common in academic, political, or social topics.
+
+===word: 論外===
+Meaning: Out of the Question
+Nuance_EN: A strong negative expression meaning something is beyond discussion or unacceptable, used in both business and casual conversation.
+
+===word: 論拠===
+Meaning: Rationale
+Nuance_EN: A formal term for the basis or reason supporting a claim, used in logical arguments, more specific than "根拠."
+
+===word: 論敵===
+Meaning: Opponent
+Nuance_EN: A somewhat formal term for an opponent in debate or discussion, used in academic or argumentative contexts.
+
+===word: 論文にその本を引用したの。===
+Meaning: (Sentence)
+Nuance_EN: "引用" means to quote someone else's work in your own, used in academic papers, with emphasis on citing sources.
+
+===word: 論文のまとめを書いています。===
+Meaning: (Sentence)
+Nuance_EN: This is a sentence example meaning "I am writing a summary of the thesis."
+
+===word: 論文の項目を分かりやすく整理したわ。===
+Meaning: (Sentence)
+Nuance_EN: "整理" means to organize or arrange logically, used here as "I organized the thesis items clearly."
+
+===word: 論旨===
+Meaning: Gist
+Nuance_EN: A formal term for the central argument or main point in a discussion or text, used in logical contexts like speeches or papers.
+
+===word: 論点===
+Meaning: Point of Argument
+Nuance_EN: Refers to the central issue or point of contention in a discussion, used to clarify what is being debated.
+
+===word: 論理===
+Meaning: Logic
+Nuance_EN: Refers to coherent reasoning or the principles of valid inference, used in philosophy, math, and computer science.
+
+===word: 論理和===
+Meaning: Logical OR
+Nuance_EN: A logical operation in computer science and math where the result is true if at least one operand is true.
+
+===word: 論理的に===
+Meaning: Logically
+Nuance_EN: Describes thinking in a rational, consistent manner, based on reason rather than emotion or intuition.
+
+===word: 論理積===
+Meaning: Logical AND
+Nuance_EN: A technical term in logic and computer science for the AND operation, appearing in specialized contexts.
+
+===word: 論破===
+Meaning: Refute
+Nuance_EN: Means to defeat an opponent in debate by exposing logical contradictions, commonly used in discussions and on social media.
+
+===word: 論者===
+Meaning: Advocate
+Nuance_EN: A noun referring to a person with a specific opinion or who argues about a field, often used as a suffix (e.g., "慎重論者"), with a formal tone.
+
+===word: 論鋒===
+Meaning: Edge of Argument
+Nuance_EN: A formal, literary term for the sharpness or aggressiveness of a debate, using "鋒" (blade) to describe intense discussion.
+
+===word: 諜報===
+Meaning: Intelligence
+Nuance_EN: Refers to espionage or the collection of secret information for national security, used in novels, movies, and news, not daily life.
+
+===word: 諭す===
+Meaning: Admonish
+Nuance_EN: Means to gently correct someone's mistake by explaining reason, guiding them kindly rather than scolding.
+
+===word: 諭吉===
+Meaning: Ten Thousand Yen
+Nuance_EN: A slang term for a 10,000 yen bill, derived from Fukuzawa Yukichi's portrait, used in casual money talk.
+
+===word: 諮問機関===
+Meaning: Advisory Body
+Nuance_EN: An organization that investigates and reports on matters upon request from a government or leader, without direct decision-making power.
+
+===word: 諳んじる===
+Meaning: Recite from Memory
+Nuance_EN: Means to recite memorized content without looking at text, more than just remembering, used for poems or speeches, somewhat literary.
+
+===word: 諸に===
+Meaning: Directly
+Nuance_EN: An adverb meaning to receive something directly or completely, often in phrases like "諸に受ける," used in casual conversation.
+
+===word: 諸共===
+Meaning: Together
+Nuance_EN: Means "together with," often in the form "諸共に," with a slightly old-fashioned feel, emphasizing shared fate.
+
+===word: 諸刃===
+Meaning: Double-Edged
+Nuance_EN: Refers to a blade with edges on both sides, famously used in "諸刃の剣" as a metaphor for something with both benefits and risks.
+
+===word: 諸君===
+Meaning: Gentlemen
+Nuance_EN: A somewhat old-fashioned, formal address for multiple people, used in speeches or addresses.
+
+===word: 諸島===
+Meaning: Archipelago
+Nuance_EN: A geographical term for a group of islands forming a region.
+
+===word: 諸悪の根源===
+Meaning: Root of All Evil
+Nuance_EN: An idiom meaning the cause of all bad things, used when one source leads to many problems.
+
+===word: 諸条件===
+Meaning: Various Conditions
+Nuance_EN: A formal term for multiple conditions or terms, used in contracts and business documents.
+
+===word: 諸行無常===
+Meaning: Impermanence
+Nuance_EN: A Buddhist four-character idiom meaning everything in the world is transient, famous from the opening of "Hōjōki," used in philosophical contexts.
+
+===word: 諸説===
+Meaning: Various Theories
+Nuance_EN: Refers to multiple theories or interpretations coexisting, used for topics without a single conclusion.
+
+===word: 諸賢===
+Meaning: Distinguished Colleagues
+Nuance_EN: An extremely formal honorific for multiple wise people, used in speeches or letters, not in daily conversation.
+
+===word: 謀===
+Meaning: Scheme
+Nuance_EN: Refers to a strategy or plan to achieve a goal, often with a negative connotation of conspiracy, used in historical or literary contexts.
+
+===word: 謀る===
+Meaning: Deceive
+Nuance_EN: Means to plot evil or deceive someone, with a strong negative nuance.
+
+===word: 謀反===
+Meaning: Rebellion
+Nuance_EN: A historical term for rebelling against a state or lord, rarely used in modern daily life.
+
+===word: 謀殺===
+Meaning: Premeditated Murder
+Nuance_EN: A legal term for planned killing with intent, involving preparation and design.
+
+===word: 謀略===
+Meaning: Stratagem
+Nuance_EN: Means a cunning scheme to deceive or trap others, used in competitive fields like politics, war, or business.
+
+===word: 謁見===
+Meaning: Audience
+Nuance_EN: A lofty term for a formal meeting with a high-ranking person like a monarch or noble.
+
+===word: 謂れ===
+Meaning: Reason
+Nuance_EN: Refers to the reason, cause, or origin of something, often used in contexts questioning justification (e.g., "謂れのない非難").
+
+===word: 謄本===
+Meaning: Certified Copy
+Nuance_EN: An official copy of a public document, such as a family register or land registry, used in administrative procedures.
+
+===word: 謎の物体が空を飛んでいます。===
+Meaning: (Sentence)
+Nuance_EN: "物体" refers to any physical object with form, including solids, liquids, or gases.
+
+===word: 謎を解明する===
+Meaning: Solve a Mystery
+Nuance_EN: Means to clarify the truth of something mysterious, more formal than "謎を解く," implying thorough investigation.
+
+===word: 謗る===
+Meaning: Slander
+Nuance_EN: A somewhat formal verb meaning to speak ill of others or criticize without basis.
+
+===word: 謙る===
+Meaning: Humble Oneself
+Nuance_EN: Means to act modestly by downplaying one's abilities to elevate others, reflecting Japanese virtue of humility, used in formal settings.
+
+===word: 謙虚===
+Meaning: Humble
+Nuance_EN: Describes a modest, unassuming attitude, often praised as a virtue.
+
+===word: 謙虚な物腰で===
+Meaning: With Humble Demeanor
+Nuance_EN: "物腰" refers to one's attitude and mannerisms, reflecting character and refinement through speech and actions.
+
+===word: 謙譲===
+Meaning: Modesty
+Nuance_EN: Refers to self-deprecating behavior to show respect to others, a type of Japanese honorific language.
+
+===word: 謙譲語===
+Meaning: Humble Language
+Nuance_EN: A type of Japanese honorific where the speaker lowers their own actions to show respect, e.g., "いたす," "申す," a challenging area for learners.
+
+===word: 謙遜する===
+Meaning: Be Modest
+Nuance_EN: Means to downplay one's abilities or achievements to honor others, considered a virtue in Japanese culture, used in formal settings.
+
+===word: 講〜===
+Meaning: Lecture
+Nuance_EN: A prefix used in words like "講義" (lecture) or "講演" (speech), also historically referring to religious or mutual aid groups.
+
+===word: 講和===
+Meaning: Peace
+Nuance_EN: Means to end a war and make peace, often in "講和条約" (peace treaty), a formal historical term.
+
+===word: 講堂===
+Meaning: Auditorium
+Nuance_EN: A large room in schools or universities for lectures and ceremonies, with a formal tone.
+
+===word: 講師===
+Meaning: Instructor
+Nuance_EN: Refers to a teacher or lecturer, often below a professor or part-time, emphasizing a professional role.
+
+===word: 講演===
+Meaning: Lecture
+Nuance_EN: Means to speak to an audience on a specific topic, common at conferences or seminars, aiming to convey specialized content.
+
+===word: 講演者は時折メモを参照した。===
+Meaning: (Sentence)
+Nuance_EN: "参照" means to refer to, used here as "The lecturer occasionally referred to notes."
+
+===word: 講義===
+Meaning: Lecture
+Nuance_EN: A teaching format where a teacher explains academic topics to students, typically one-way.
+
+===word: 講習会===
+Meaning: Workshop
+Nuance_EN: A short-term gathering to learn specific knowledge or skills.
+
+===word: 講談===
+Meaning: Storytelling
+Nuance_EN: A traditional Japanese performing art where a storyteller narrates historical events or hero tales using a fan and clapper.
+
+===word: 講釈===
+Meaning: Commentary
+Nuance_EN: Means to explain the meaning of texts or events in detail, sometimes with a pompous nuance.
+
+===word: 謝る===
+Meaning: Apologize
+Nuance_EN: A basic verb meaning to admit fault and seek forgiveness, used daily as "ごめんなさい."
+
+===word: 謝恩会===
+Meaning: Appreciation Party
+Nuance_EN: A gathering to thank teachers or benefactors, often held at graduation, with a formal tone.
+
+===word: 謝意===
+Meaning: Gratitude
+Nuance_EN: A formal expression of thanks, used in business documents, less casual than "ありがとう."
+
+===word: 謝礼===
+Meaning: Reward
+Nuance_EN: Means to give money or gifts as thanks, especially to doctors or lecturers.
+
+===word: 謝罪する===
+Meaning: Apologize
+Nuance_EN: A formal verb meaning to admit fault and apologize to someone.
+
+===word: 謝金===
+Meaning: Compensation
+Nuance_EN: Money paid as an apology, similar to settlement money but more casual.
+
+===word: 謳われる===
+Meaning: Stipulated
+Nuance_EN: Means clearly stated in laws or contracts, or widely said in society, used in formal written language.
+
+===word: 謳歌===
+Meaning: Enjoy
+Nuance_EN: A positive term meaning to fully enjoy a favorable situation, like "青春を謳歌する," with a literary feel.
+
+===word: 謹慎===
+Meaning: Suspension
+Nuance_EN: Means to be cautious in behavior or be punished by restriction, used for students or celebrities in trouble.
+
+===word: 謹慎処分===
+Meaning: Disciplinary Suspension
+Nuance_EN: A disciplinary action restricting activities or outings for a period, imposed at schools or workplaces.
+
+===word: 識別する===
+Meaning: Identify
+Nuance_EN: Means to distinguish and recognize differences, used in technical or professional contexts like IT and security.
+
+===word: 識者===
+Meaning: Expert
+Nuance_EN: Refers to a person with deep knowledge in a field, like scholars or commentators, used in public discourse.
+
+===word: 譜面===
+Meaning: Sheet Music
+Nuance_EN: A musical term for notation on a staff, used among musicians, more specialized than "楽譜."
+
+===word: 警備===
+Meaning: Security
+Nuance_EN: Means to guard places or people from danger, used daily with terms like "警備員."
+
+===word: 警備兵===
+Meaning: Guard
+Nuance_EN: Refers to soldiers or guards on security duty, especially at military facilities.
+
+===word: 警告===
+Meaning: Warning
+Nuance_EN: Means to notify of danger or problems in advance, with a strong cautionary tone, used in official or urgent contexts.
+
+===word: 警報===
+Meaning: Alarm
+Nuance_EN: Refers to signals or devices warning of danger, like fire alarms or tsunami warnings.
+
+===word: 警官===
+Meaning: Police Officer
+Nuance_EN: A somewhat informal term for a police officer, common in daily conversation and news.
+
+===word: 警官たちは群衆をおしとどめた。===
+Meaning: (Sentence)
+Nuance_EN: "群衆" refers to a crowd of many people gathered together.
+
+===word: 警官は怪しい男の後を追ったよ。===
+Meaning: (Sentence)
+Nuance_EN: "怪しい" means suspicious, untrustworthy, or dangerous, used for actions, objects, or weather.
+
+===word: 警官は懐中電灯で車に止まれと合図をした。===
+Meaning: (Sentence)
+Nuance_EN: "懐中" means to carry something in a pocket or bosom, used in compounds like "懐中電灯" (flashlight).
+
+===word: 警官は犯人にピストルを向けた。するとその犯人が、こんどは警官に直接自分のピストルをつきつけた。どちらも勝ち目はなかった。絶体絶命だった===
+Meaning: (Sentence)
+Nuance_EN: "絶体絶命" means a desperate, hopeless situation with no way out, used dramatically.
+
+===word: 警察がやって来て騒動を静めたんだ。===
+Meaning: (Sentence)
+Nuance_EN: "騒動" refers to a commotion or incident with many people causing chaos, more formal than "騒ぎ."
+
+===word: 警察はいままで一度だって彼を見つけたためしがないじゃないか===
+Meaning: (Sentence)
+Nuance_EN: "しがない" means insignificant or worthless, often used humbly like "しがないサラリーマン."
+
+===word: 警察は彼の失踪を調査している。===
+Meaning: (Sentence)
+Nuance_EN: This is a sentence example using "調査" (investigation), meaning "The police are investigating his disappearance."
+
+===word: 警察は犯人を特定したらしいよ。===
+Meaning: (Sentence)
+Nuance_EN: "特定" means to clearly identify one thing from many, or to specify specially.
+
+===word: 警察官なのに振り込め詐欺にあって、泣くにも泣けない。===
+Meaning: (Sentence)
+Nuance_EN: "振り込め詐欺" is a Japanese crime term for phone scams impersonating relatives or officials, a social issue.
+
+===word: 警察沙汰===
+Meaning: Police Matter
+Nuance_EN: Refers to a problem escalating to the level of police involvement, indicating a serious situation.
+
+===word: 警察署===
+Meaning: Police Station
+Nuance_EN: A local police facility larger than a police box, where investigations and paperwork are done, with a formal tone.
+
+===word: 警戒===
+Meaning: Vigilance
+Nuance_EN: Means to watch carefully for danger or problems, used in contexts like disaster or crime prevention, somewhat formal.
+
+===word: 警戒するに越したことはない。===
+Meaning: (Sentence)
+Nuance_EN: This is a sentence example using "警戒" (vigilance), meaning "There's nothing better than being vigilant."
+
+===word: 警戒心===
+Meaning: Wariness
+Nuance_EN: Refers to a cautious feeling of potential danger, similar to a defensive instinct in animals and humans.
+
+===word: 警棒===
+Meaning: Baton
+Nuance_EN: A defensive stick carried by police officers, used in security and law enforcement.
+
+===word: 警視庁===
+Meaning: Metropolitan Police Department
+Nuance_EN: The Tokyo Metropolitan Police headquarters, at the top of Japan's police organization, responsible for the capital's security.
+
+===word: 警護===
+Meaning: Escort
+Nuance_EN: Means to guard and protect VIPs or important places, like by SP or police.
+
+===word: 警部===
+Meaning: Police Inspector
+Nuance_EN: A police rank below superintendent and above assistant inspector, often in charge of investigations or field command.
+
+===word: 警鐘===
+Meaning: Warning Bell
+Nuance_EN: Literally a bell warning of danger, metaphorically a cautionary signal, used in news and commentary.
+
+===word: 議事妨害===
+Meaning: Obstruction
+Nuance_EN: A formal political term for deliberately hindering the progress of a meeting or parliament, like filibustering.
+
+===word: 議事録===
+Meaning: Minutes
+Nuance_EN: A document recording discussions and decisions in meetings, essential in business for sharing with participants.
+
+===word: 議会===
+Meaning: Parliament
+Nuance_EN: A representative body for enacting laws and deliberating policies.
+
+===word: 議会で区の来年の予定が話し合われたんだ。===
+Meaning: (Sentence)
+Nuance_EN: This is a sentence example using "議会" (parliament), meaning "Next year's plans for the ward were discussed in the assembly."
+
+===word: 議員===
+Meaning: Member of Parliament
+Nuance_EN: A person elected to a legislative body, a formal term in politics.
+
+===word: 議員の記者会見は言い逃れに終始した===
+Meaning: (Sentence)
+Nuance_EN: "記者会見" is a formal press conference where officials or celebrities announce information and answer questions.
+
+===word: 議場===
+Meaning: Assembly Hall
+Nuance_EN: (No nuance provided, but refers to the hall where a legislative body meets.)
+
+===word: 議定===
+Meaning: Decision
+Nuance_EN: A formal term meaning to officially decide through discussion, often used in "議定書" (protocol) in international contexts.
+
+===word: 議席===
+Meaning: Seat
+Nuance_EN: Refers to a seat in a legislative body, also metaphorically to the position of a member, common in election news.
+
+===word: 議案===
+Meaning: Bill
+Nuance_EN: A formal term for a proposal submitted for deliberation and voting in a meeting or parliament.
+
+===word: 議論===
+Meaning: Discussion
+Nuance_EN: Means to exchange opinions on a topic, more purposeful than casual conversation, sometimes involving conflict.
+
+===word: 議長===
+Meaning: Chairperson
+Nuance_EN: The person responsible for presiding over a meeting or parliament, maintaining order and managing proceedings.
+
+===word: 議題===
+Meaning: Agenda
+Nuance_EN: Refers to topics or issues to be discussed in a meeting, set in advance for efficiency.
+
+===word: 譲り受ける===
+Meaning: Inherit
+Nuance_EN: Means to receive something like property or rights from someone, used in inheritance or transfer contexts, formal.
+
+===word: 譲る===
+Meaning: Yield
+Nuance_EN: Means to give one's possessions, rights, or position to another, often voluntarily for the other's benefit.
+
+===word: 譲歩===
+Meaning: Concession
+Nuance_EN: Means to partially withdraw one's position to accommodate the other, used in negotiations or discussions.
+
+===word: 譲渡===
+Meaning: Transfer
+Nuance_EN: A legal/business term for transferring property or rights to another, including both sales and gifts.
+
+===word: 譲渡す===
+Meaning: Transfer
+Nuance_EN: Means to transfer ownership or rights to another, referring to formal transfers of money or property.
+
+===word: 譲渡人===
+Meaning: Transferor
+Nuance_EN: A legal term for the person transferring property or rights to another, paired with "譲受人" (transferee).
+
+===word: 護憲===
+Meaning: Constitutionalism
+Nuance_EN: Means to protect the constitution, especially in Japanese politics referring to maintaining the current constitution.
+
+===word: 護符===
+Meaning: Amulet
+Nuance_EN: A charm or talisman worn to ward off evil or bring luck, obtained at shrines or temples.
+
+===word: 護衛===
+Meaning: Guard
+Nuance_EN: Means to protect people or things from danger, used in security and military contexts, like "護衛艦" (escort ship).
+
+===word: 護身===
+Meaning: Self-Defense
+Nuance_EN: Refers to protecting oneself, often in compounds like "護身術" (self-defense techniques) or "護身用" (for self-defense).
+
+===word: 護送===
+Meaning: Escort
+Nuance_EN: A formal term for transporting prisoners or suspects under guard, also used for valuable items.
+
+===word: 讃える===
+Meaning: Praise
+Nuance_EN: Means to admire and praise the excellence of people or things.
+
+===word: 谷底===
+Meaning: Valley Bottom
+Nuance_EN: The lowest part of a valley, also metaphorically used for the most difficult situation, like "人生の谷底."
+
+===word: 谷間===
+Meaning: Valley
+Nuance_EN: A noun for the low area between mountains, also used metaphorically like "世代間の谷間" (generation gap).
+
+===word: 谷間　- again!===
+Meaning: Valley
+Nuance_EN: Same as above, a noun for the low area between mountains, also used metaphorically.
+
+===word: 豆===
+Meaning: Bean
+Nuance_EN: A general term for legume seeds like soybeans and azuki beans, used in various foods like tofu and miso.
+
+===word: 豆乳===
+Meaning: Soy Milk
+Nuance_EN: A milky beverage made from soaked and ground soybeans, popular as a dairy alternative.
+
+===word: 豆知識<br>===
+Meaning: Trivia
+Nuance_EN: Refers to little-known but useful or interesting bits of knowledge, used in daily conversation and quizzes.
+
+===word: 豆腐は栄養のある食べ物です。===
+Meaning: (Sentence)
+Nuance_EN: "栄養" refers to nutrients needed for life, like proteins and vitamins, used in health contexts.
+
+===word: 豊かな===
+Meaning: Abundant
+Nuance_EN: An adjective describing a state of plenty and fulfillment, used for money, emotions, or talents.
+
+===word: 豊作===
+Meaning: Bumper Crop
+Nuance_EN: Refers to a large harvest of crops, used in agriculture and metaphorically for abundance.
+
+===word: 豊富===
+Meaning: Abundant
+Nuance_EN: A na-adjective meaning rich in quantity or variety, used for experience, knowledge, or resources, positive in tone.
+
+===word: 豊満===
+Meaning: Plump
+Nuance_EN: Describes a full, curvaceous body, especially for women, positive but requires careful use due to directness.
+
+===word: 豊満な体つき===
+Meaning: Curvy Figure
+Nuance_EN: Describes a woman's body as plump and feminine, praising healthy curves rather than being overweight.
+
+===word: 豊満に曲線のある女性===
+Meaning: Curvaceous Woman
+Nuance_EN: A somewhat literary description of a woman with full, feminine curves, avoiding direct terms.
+
+===word: 豊穣===
+Meaning: Fertility
+Nuance_EN: Means abundant harvest of grains and fruits, also metaphorically for fruitful results, with a literary tone.
+
+===word: 豊胸手術===
+Meaning: Breast Augmentation
+Nuance_EN: A cosmetic surgery term for enlarging the chest, used in medical contexts.
+
+===word: 豚の気持ちがよく解る、食いっぱぐれはないが飢えている。===
+Meaning: (Sentence)
+Nuance_EN: "食いっぱぐれ" means missing a meal or lacking livelihood, used for situations without food or income.
+
+===word: 豚箱===
+Meaning: Jail
+Nuance_EN: A slang term for a police detention cell or lockup, used in casual conversation.
+
+===word: 象る===
+Meaning: Model
+Nuance_EN: Means to shape something after a form or pattern, used in crafts or art, emphasizing intentional resemblance.
+
+===word: 象使い===
+Meaning: Elephant Trainer
+Nuance_EN: A person who trains and handles elephants, seen in circuses or tourist spots.
+
+===word: 象徴===
+Meaning: Symbol
+Nuance_EN: A concrete representation of an abstract concept or value, like a representative symbol.
+
+===word: 象牙===
+Meaning: Ivory
+Nuance_EN: Material from elephant tusks, used in crafts and piano keys, now restricted by CITES.
+
+===word: 象限===
+Meaning: Quadrant
+Nuance_EN: A technical term in math and astronomy for one of four regions on a coordinate plane.
+
+===word: 豪傑===
+Meaning: Hero
+Nuance_EN: A term for a very brave and bold person with extraordinary ability, with a heroic image.
+
+===word: 豪勢な===
+Meaning: Luxurious
+Nuance_EN: An adjective describing something very lavish and extravagant, emphasizing scale and quantity.
+
+===word: 豪州===
+Meaning: Australia
+Nuance_EN: A kanji abbreviation for Australia, used in newspaper headlines.
+
+===word: 豪快===
+Meaning: Bold
+Nuance_EN: Describes something large-scale and vigorous, giving a sense of excitement and strength, positive.
+
+===word: 豪放磊落===
+Meaning: Magnanimous
+Nuance_EN: A four-character idiom describing a broad-minded, carefree personality, not bothered by details.
+
+===word: 豪然===
+Meaning: Grand
+Nuance_EN: A literary term for a grand, impressive scale or style, used in formal writing, not daily conversation.
+
+===word: 豪華===
+Meaning: Luxurious
+Nuance_EN: Describes a flashy, extravagant appearance with rich facilities or content.
+
+===word: 豪華絢爛===
+Meaning: Gorgeous
+Nuance_EN: A four-character idiom for extremely flashy and luxurious, used for visual splendor like palaces or costumes.
+
+===word: 豪語===
+Meaning: Boast
+Nuance_EN: Means to say big things confidently, often with a negative nuance of exaggeration.
+
+===word: 豪遊===
+Meaning: Lavish Play
+Nuance_EN: Means to play extravagantly without sparing money, with a hint of envy or disapproval.
+
+===word: 豪雨===
+Meaning: Heavy Rain
+Nuance_EN: A meteorological term for very intense rainfall, often leading to disasters.
+
+===word: 豪雪===
+Meaning: Heavy Snow
+Nuance_EN: Refers to very heavy snowfall, used in weather reports, especially for Japan's Sea of Japan coast.
+
+===word: 豹はその斑点を変えることはできない。===
+Meaning: (Sentence)
+Nuance_EN: "斑点" refers to small round spots or patches on surfaces, like animal fur or fabric.
+
+===word: 豹変===
+Meaning: Sudden Change
+Nuance_EN: Means a dramatic change in attitude or opinion, often for the worse, from the leopard's spotted pattern.
+
+===word: 貝===
+Meaning: Shellfish
+Nuance_EN: A general term for aquatic animals with hard shells, familiar at beaches and markets.
+
+===word: 貝殻===
+Meaning: Seashell
+Nuance_EN: (No nuance provided, but refers to the shell of shellfish.)
+
+===word: 貞操観念===
+Meaning: Chastity
+Nuance_EN: Refers to moral values about sexual conduct, with an old-fashioned tone, used in ethical contexts.
+
+===word: 負い目===
+Meaning: Guilt
+Nuance_EN: Refers to a feeling of indebtedness or guilt from causing trouble, implying psychological burden.
+
+===word: 負える===
+Meaning: Can Bear
+Nuance_EN: The potential form of "負う," meaning able to take on responsibility or burden, physically or metaphorically.
+
+===word: 負かす===
+Meaning: Defeat
+Nuance_EN: Means to beat an opponent in competition or battle, more active than simply "win."
+
+===word: 負ける===
+Meaning: Lose
+Nuance_EN: (Not in input, but standard meaning is to be defeated in competition or battle.)

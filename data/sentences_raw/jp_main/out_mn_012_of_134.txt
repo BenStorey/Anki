@@ -1,0 +1,805 @@
+===word: ひとっ走り===
+Meaning: Short dash
+Nuance_EN: Refers to casually running or cycling a short distance, often for a quick errand or change of pace. Informal and light-hearted.
+
+===word: 雑誌===
+Meaning: Magazine
+Nuance_EN: A periodically published reading material with articles, features, and ads; can be weekly or monthly. Common in everyday conversation.
+
+===word: ひとところ===
+Meaning: One place
+Nuance_EN: Refers to staying in or referring to a single specific location.
+
+===word: ひとまず===
+Meaning: For now
+Nuance_EN: Means to do something temporarily without a long-term conclusion, implying further action later.
+
+===word: ひとまとめ===
+Meaning: Bundle
+Nuance_EN: A noun meaning to group multiple items together into one; casual and friendly compared to formal "一括".
+
+===word: ひとりでに===
+Meaning: Naturally
+Nuance_EN: An adverb meaning something happens by itself without effort; more colloquial than "自ずと", used for physical and sensory changes.
+
+===word: ひと思いに===
+Meaning: Resolutely
+Nuance_EN: An adverbial phrase meaning to act decisively without hesitation; slightly literary and used in novels and dramas.
+
+===word: ひと時===
+Meaning: Moment
+Nuance_EN: Refers to a short period of time, often used emotionally to describe valuable moments; hiragana gives a soft feel.
+
+===word: 仕打ち===
+Meaning: Treatment
+Nuance_EN: Refers to how someone is treated, especially bad treatment; stronger criticism than "扱い".
+
+===word: ひび割れる===
+Meaning: Crack
+Nuance_EN: Describes fine cracks appearing on surfaces like glass or concrete, not fully broken but damaged and hard to fix.
+
+===word: ひも===
+Meaning: String
+Nuance_EN: Refers to thin, long material like cloth, leather, or plastic used for tying things.
+
+===word: ひもじい===
+Meaning: Hungry
+Nuance_EN: Describes hunger due to lack of food, with a slightly old-fashioned and emotional tone, more desperate than just "お腹が空いた".
+
+===word: ひょっこり===
+Meaning: Suddenly
+Nuance_EN: Mimetic word for something appearing or happening unexpectedly and lightly, like a person popping up.
+
+===word: ひょろい===
+Meaning: Lanky
+Nuance_EN: A colloquial adjective describing something long, thin, and weak, like plants or body types, giving a fragile impression.
+
+===word: ひょろける===
+Meaning: Stagger
+Nuance_EN: A verb for unsteady feet or wobbling due to fatigue or surprise; casual and used in daily conversation.
+
+===word: ひよこ===
+Meaning: Chick
+Nuance_EN: Refers to a newly hatched bird, or metaphorically an inexperienced person; soft and cute image.
+
+===word: ひよこ豆===
+Meaning: Chickpea
+Nuance_EN: A legume named after chick's face shape; used in Middle Eastern and Indian cuisine, like hummus and curry.
+
+===word: 変換===
+Meaning: Conversion
+Nuance_EN: The act of changing something into another form, like converting characters or units.
+
+===word: ひらひら===
+Meaning: Fluttering
+Nuance_EN: Mimetic word for thin things fluttering in the wind, like butterflies or petals; rhythmic.
+
+===word: ひらり===
+Meaning: Lightly
+Nuance_EN: An adverb/mimetic word for light, graceful movement, like leaves falling or dodging swiftly.
+
+===word: ひらりと===
+Meaning: Gracefully
+Nuance_EN: Adverb for thin items fluttering lightly or agile body movements; includes elegance.
+
+===word: まじまじ===
+Meaning: Staring
+Nuance_EN: Describes gazing intently without flinching; "ひるまず" means without hesitation.
+
+===word: ひんやり===
+Meaning: Cool
+Nuance_EN: Describes a refreshingly cool sensation, often from air or objects.
+
+===word: ひん剥く===
+Meaning: Peel off
+Nuance_EN: Emphasized verb for forcefully peeling or stripping off, also used metaphorically for revealing true nature.
+
+===word: ひーひー泣く===
+Meaning: Sob loudly
+Nuance_EN: Colloquial for crying loudly and pitifully, with a slightly mocking tone.
+
+===word: びくつく===
+Meaning: Flinch
+Nuance_EN: A colloquial verb for being nervous or jumpy from fear; informal.
+
+===word: びくともしない===
+Meaning: Unmoved
+Nuance_EN: Means not budging at all under force, physically or metaphorically for resolute attitude.
+
+===word: びしょびしょ===
+Meaning: Soaked
+Nuance_EN: Mimetic word for being completely wet, emphasizing heavy soaking.
+
+===word: びた一文===
+Meaning: A single cent
+Nuance_EN: Emphasizes having no money at all, used in negative sentences.
+
+===word: びっしょり===
+Meaning: Drenched
+Nuance_EN: Mimetic word for being completely soaked, stronger than just wet.
+
+===word: びっしり===
+Meaning: Tightly packed
+Nuance_EN: Adverb for things packed closely without gaps, like books or schedule.
+
+===word: びっしり===
+Meaning: Tightly packed
+Nuance_EN: Same as above, describing houses lined up closely.
+
+===word: びり===
+Meaning: Last place
+Nuance_EN: Refers to bottom rank in competition; casual and avoided in serious contexts.
+
+===word: びりびり===
+Meaning: Tearing
+Nuance_EN: Mimetic for ripping sound or static shock, also for trembling from tension.
+
+===word: はずれ===
+Meaning: Miss
+Nuance_EN: Refers to not hitting a target or expectation, like losing a lottery.
+
+===word: ぴかぴか===
+Meaning: Shiny
+Nuance_EN: Mimetic for something very new and shiny, or polished.
+
+===word: ぴくり===
+Meaning: Twitch
+Nuance_EN: Onomatopoeia for a small involuntary movement, often from surprise.
+
+===word: ぴしゃり===
+Meaning: Snappingly
+Nuance_EN: Adverb for a sharp sound or decisive attitude, emphasizing rejection.
+
+===word: ぴたりと===
+Meaning: Perfectly
+Nuance_EN: Adverb for perfect match or sudden stop, more momentary than "ぴったり".
+
+===word: ぴったり===
+Meaning: Exactly
+Nuance_EN: Adverb/adjective for perfect fit in size, time, or situation; everyday use.
+
+===word: ぴっちり===
+Meaning: Tightly
+Nuance_EN: Adverb for no gaps between things, like tight clothes or closed lids.
+
+===word: ぴょんと===
+Meaning: Hop
+Nuance_EN: Mimetic for light jumping, like a rabbit or frog.
+
+===word: ぴょんぴょん===
+Meaning: Hopping
+Nuance_EN: Onomatopoeia for lively bouncing, like children or animals.
+
+===word: ぴりぴり===
+Meaning: Tingling
+Nuance_EN: Mimetic for prickly sensation or pain, also nervous tension; versatile.
+
+===word: ぴんとくる===
+Meaning: Click
+Nuance_EN: Colloquial for intuitively understanding something, like a sudden realization.
+
+===word: ふかふか===
+Meaning: Fluffy
+Nuance_EN: Onomatopoeia for soft and bouncy texture, like bedding or bread.
+
+===word: ふくよか===
+Meaning: Plump
+Nuance_EN: Describes richness and roundness; positive for body shape, also used for sound or flavor.
+
+===word: ふさぎ込む===
+Meaning: Brood
+Nuance_EN: Verb for being deeply depressed, withdrawing from others.
+
+===word: ふしだら===
+Meaning: Loose
+Nuance_EN: Describes a woman's immoral or slovenly behavior, strongly negative.
+
+===word: 夜空===
+Meaning: Night sky
+Nuance_EN: Refers to the sky at night, poetic and romantic, used in daily speech and literature.
+
+===word: ふっくら===
+Meaning: Puffy
+Nuance_EN: Onomatopoeia for soft and rounded appearance, like bread or skin.
+
+===word: ふつつか===
+Meaning: Unrefined
+Nuance_EN: Describes immature behavior; used humbly about oneself.
+
+===word: ふて腐れる===
+Meaning: Sulky
+Nuance_EN: Verb for getting angry and defiant when things don't go your way; used for children or teens.
+
+===word: ふとっちょ===
+Meaning: Fatty
+Nuance_EN: Casual term for a fat person; can be joking but rude if direct.
+
+===word: ふらつく===
+Meaning: Stagger
+Nuance_EN: Verb for swaying unsteadily, from fatigue or illness.
+
+===word: ふらふら===
+Meaning: Wobbly
+Nuance_EN: Mimetic for physical unsteadiness or aimless wandering, also mental indecision.
+
+===word: ふりをする===
+Meaning: Pretend
+Nuance_EN: Verb for feigning a state or feeling, used both negatively and positively.
+
+===word: ふわふわ===
+Meaning: Fluffy
+Nuance_EN: Mimetic for light and soft texture, or floating feeling; versatile and colloquial.
+
+===word: ふわふわ===
+Meaning: Fluffy
+Nuance_EN: Same as above.
+
+===word: ふわりと===
+Meaning: Gently
+Nuance_EN: Adverb for light, soft movement, like floating or soft touch.
+
+===word: ふんぞり返る===
+Meaning: Swagger
+Nuance_EN: Verb for leaning back arrogantly, also metaphorical for haughty behavior.
+
+===word: ふんだん===
+Meaning: Plenty
+Nuance_EN: Adverb/adjective for abundant quantity, often used as "ふんだんに".
+
+===word: ふんどし===
+Meaning: Loincloth
+Nuance_EN: Traditional Japanese underwear, now mostly seen in festivals or sumo.
+
+===word: ぶち壊す===
+Meaning: Destroy
+Nuance_EN: Verb for violently breaking something or ruining plans/atmosphere.
+
+===word: ぶち込む===
+Meaning: Ram in
+Nuance_EN: Colloquial verb for forcefully inserting, also metaphorical for investing effort.
+
+===word: ぶっきら棒===
+Meaning: Blunt
+Nuance_EN: Describes a gruff or curt manner, often unintentionally.
+
+===word: ぶっちぎり===
+Meaning: Overwhelming win
+Nuance_EN: Casual term for winning by a huge margin in competition.
+
+===word: ぶっちゃけ===
+Meaning: Honestly
+Nuance_EN: Very casual adverb for "to be honest"; informal and not for formal use.
+
+===word: ぶっつけ本番===
+Meaning: Flying blind
+Nuance_EN: Doing something without preparation, relying on improvisation.
+
+===word: ぶっ通し===
+Meaning: Non-stop
+Nuance_EN: Doing something without breaks; casual.
+
+===word: ぶつくさ===
+Meaning: Muttering
+Nuance_EN: Onomatopoeia for grumbling complaints under one's breath.
+
+===word: ぶつける===
+Meaning: Hit
+Nuance_EN: Verb for striking something or directing feelings at someone.
+
+===word: ぶつぶつ===
+Meaning: Complaining
+Nuance_EN: Onomatopoeia for grumbling or small bumps on surface.
+
+===word: ふんだん===
+Meaning: Plenty
+Nuance_EN: Same as above.
+
+===word: ぶゆ===
+Meaning: Biting midge
+Nuance_EN: A small fly in summer, causes itchy bites; also called "ぶよ" in Kansai.
+
+===word: ぶよぶよ===
+Meaning: Flabby
+Nuance_EN: Onomatopoeia for soft and unhealthy-looking, like fat or soaked items.
+
+===word: ぶらぶら===
+Meaning: Dangling
+Nuance_EN: Onomatopoeia for swinging or aimlessly wandering.
+
+===word: ぶら下がる===
+Meaning: Hang
+Nuance_EN: Verb for hanging down or dangling.
+
+===word: ぶら下げる===
+Meaning: Dangle
+Nuance_EN: Verb for suspending something.
+
+===word: ぶりっ子===
+Meaning: Acting cute
+Nuance_EN: Slang for a woman who deliberately acts cute and innocent, with critical nuance.
+
+===word: ぷいと===
+Meaning: Poutily
+Nuance_EN: Onomatopoeia for turning away dismissively when sulky.
+
+===word: ぷつんと===
+Meaning: Snap
+Nuance_EN: Onomatopoeia for string snapping or sudden interruption.
+
+===word: ぷにぷに===
+Meaning: Squishy
+Nuance_EN: Onomatopoeia for soft and bouncy texture, like baby cheeks.
+
+===word: ぷんぷん===
+Meaning: Fuming
+Nuance_EN: Onomatopoeia for being very angry or strong smell; colloquial.
+
+===word: へこたれる===
+Meaning: Get discouraged
+Nuance_EN: Colloquial verb for being downcast or losing spirit, often in encouragement.
+
+===word: へし折る===
+Meaning: Snap off
+Nuance_EN: Verb for forcefully breaking, also metaphorical for crushing will.
+
+===word: へそ===
+Meaning: Navel
+Nuance_EN: Body part, used in idioms like "へそを曲げる" (get sulky).
+
+===word: へそ出し===
+Meaning: Midriff-baring
+Nuance_EN: Fashion style showing the navel, like crop tops.
+
+===word: へそ曲がり===
+Meaning: Contrary
+Nuance_EN: Describes a stubborn person who goes against others; not always negative.
+
+===word: へたり込む===
+Meaning: Collapse down
+Nuance_EN: Verb for sinking down from shock or fatigue.
+
+===word: へたれ===
+Meaning: Wimp
+Nuance_EN: Slang for a weak-willed person, insulting.
+
+===word: へっちゃら===
+Meaning: No problem
+Nuance_EN: Casual phrase for being calm about difficulties.
+
+===word: へっぴり腰===
+Meaning: Chicken-hearted
+Nuance_EN: Describes a fearful posture or attitude, humorous.
+
+===word: へっぽこ===
+Meaning: Amateur
+Nuance_EN: Slang for someone unskilled or weak.
+
+===word: へとへと===
+Meaning: Exhausted
+Nuance_EN: Onomatopoeia for being completely worn out.
+
+===word: へなへな===
+Meaning: Limp
+Nuance_EN: Onomatopoeia for weak and flimsy, physically or mentally.
+
+===word: への字に結んだ口===
+Meaning: Pursed lips
+Nuance_EN: Describes a mouth shaped like "へ" from dissatisfaction or tension.
+
+===word: へばりつく===
+Meaning: Cling
+Nuance_EN: Verb for sticking firmly, physically or metaphorically.
+
+===word: へばる===
+Meaning: Worn out
+Nuance_EN: Colloquial verb for being exhausted; casual.
+
+===word: へぼい===
+Meaning: Crappy
+Nuance_EN: Colloquial for poor quality or skill; informal.
+
+===word: べくして===
+Meaning: Destined to
+Nuance_EN: Grammatical phrase for something that was bound to happen.
+
+===word: べそ===
+Meaning: Teary face
+Nuance_EN: Child's face before crying, with pursed lips.
+
+===word: べそをかく===
+Meaning: Pout
+Nuance_EN: Verb for making a teary face about to cry.
+
+===word: べた===
+Meaning: Cliché
+Nuance_EN: Slang for something stereotypical or predictable.
+
+===word: べたべた===
+Meaning: Clingy
+Nuance_EN: Onomatopoeia for sticky texture or overly attached behavior.
+
+===word: べた付く===
+Meaning: Stick
+Nuance_EN: Verb for becoming sticky or clinging in relationships.
+
+===word: べた負け===
+Meaning: Total loss
+Nuance_EN: Complete defeat.
+
+===word: べとべと===
+Meaning: Sticky
+Nuance_EN: Onomatopoeia for sticky and unpleasant feel.
+
+===word: べらべら===
+Meaning: Blabbering
+Nuance_EN: Onomatopoeia for talking endlessly or fluently in a language.
+
+===word: ぺけ===
+Meaning: Cross mark
+Nuance_EN: Indicates wrong or invalid; also means bad.
+
+===word: ぺこぺこ===
+Meaning: Groveling
+Nuance_EN: Onomatopoeia for bowing obsequiously or being hungry.
+
+===word: ぺちゃんこ===
+Meaning: Flattened
+Nuance_EN: Onomatopoeia for something squashed or crushed.
+
+===word: ぺらぺら===
+Meaning: Flimsy
+Nuance_EN: Onomatopoeia for thinness or poor quality; different from fluent speaking.
+
+===word: ほいほい===
+Meaning: Easily
+Nuance_EN: Adverb for responding lightly without thought, often negative.
+
+===word: ほうき===
+Meaning: Broom
+Nuance_EN: Cleaning tool with a long handle and bristles.
+
+===word: 掃除===
+Meaning: Cleaning
+Nuance_EN: Common word for cleaning, used in daily life.
+
+===word: ほうじ茶===
+Meaning: Roasted tea
+Nuance_EN: Japanese green tea with roasted aroma, low caffeine.
+
+===word: ほうれん草===
+Meaning: Spinach
+Nuance_EN: Leafy green vegetable, rich in iron and vitamins.
+
+===word: 富===
+Meaning: Wealth
+Nuance_EN: General term for abundance in money or resources.
+
+===word: ほくそ笑む===
+Meaning: Gloat
+Nuance_EN: Verb for secretly smiling with satisfaction, often slyly.
+
+===word: ほくほく===
+Meaning: Warm
+Nuance_EN: Onomatopoeia for being comfortably warm or gleefully satisfied.
+
+===word: ほげ===
+Meaning: Foo
+Nuance_EN: Programmer slang for placeholder name.
+
+===word: ほざく===
+Meaning: Spout
+Nuance_EN: Verb for speaking contemptibly, like saying nonsense.
+
+===word: ほっそり===
+Meaning: Slender
+Nuance_EN: Onomatopoeia for being slim and delicate.
+
+===word: ほっつき歩く===
+Meaning: Roam
+Nuance_EN: Colloquial verb for aimlessly wandering, slightly negative.
+
+===word: ほっとする===
+Meaning: Relieved
+Nuance_EN: Verb for feeling relief after tension.
+
+===word: ほっぺたをつねる===
+Meaning: Pinch cheeks
+Nuance_EN: Gesture of pinching cheeks out of affection or punishment.
+
+===word: ほっぽらかす===
+Meaning: Abandon
+Nuance_EN: Colloquial verb for leaving something undone, neglect.
+
+===word: ほっぽり出す===
+Meaning: Throw out
+Nuance_EN: Verb for tossing out or abandoning.
+
+===word: ほつれ髪===
+Meaning: Straggling hair
+Nuance_EN: Unkempt hair strands, slightly negative.
+
+===word: ほな===
+Meaning: Then
+Nuance_EN: Kansai dialect for "well then," casual.
+
+===word: ほぼ===
+Meaning: Almost
+Nuance_EN: Adverb for nearly complete.
+
+===word: ほらを吹く===
+Meaning: Brag
+Nuance_EN: Verb for exaggerating or lying boastfully.
+
+===word: ほら話===
+Meaning: Tall tale
+Nuance_EN: Exaggerated story for entertainment.
+
+===word: ほろ苦い===
+Meaning: Bittersweet
+Nuance_EN: Slightly bitter taste, or emotionally bittersweet.
+
+===word: ほろ酔い===
+Meaning: Tipsy
+Nuance_EN: Pleasantly drunk state.
+
+===word: ほんのりと===
+Meaning: Faintly
+Nuance_EN: Adverb for a slight hint of something, like scent or color.
+
+===word: ほんのり===
+Meaning: Warmly
+Nuance_EN: Gentle warmth, literal or figurative.
+
+===word: ほんまに===
+Meaning: Really
+Nuance_EN: Kansai dialect for "really," familiar.
+
+===word: ほ乳瓶===
+Meaning: Baby bottle
+Nuance_EN: Vessel for feeding milk to infants.
+
+===word: ぼおっと===
+Meaning: Spaced out
+Nuance_EN: Adverb for being dazed or daydreaming, with no clear thought.
+
+===word: 快適===
+Meaning: Comfortable
+Nuance_EN: Describes a pleasant and cozy state, often for physical conditions like temperature or seating.
+
+===word: ぼさぼさ===
+Meaning: Messy
+Nuance_EN: Onomatopoeia for unkempt hair or disheveled appearance, like bedhead.
+
+===word: ぼちぼち===
+Meaning: Steadily
+Nuance_EN: Kansai-origin adverb with multiple meanings: "gradually," "moderately," or "it's about time." Reflects a casual, ambiguous tone.
+
+===word: ぼったくる===
+Meaning: Rip off
+Nuance_EN: Colloquial verb for overcharging exorbitantly, often used for tourist traps.
+
+===word: ぼやく===
+Meaning: Grumble
+Nuance_EN: Verb for muttering complaints in a low voice, less aggressive than direct criticism.
+
+===word: ぼやける===
+Meaning: Blurry
+Nuance_EN: Verb for becoming out of focus, physically (sight) or abstractly (memories), emphasizing vague boundaries.
+
+===word: ぼろぼろ（の）===
+Meaning: Ragged
+Nuance_EN: Describes something worn out or torn, like old clothes, or being physically/emotionally exhausted.
+
+===word: ぼろを出す===
+Meaning: Reveal flaws
+Nuance_EN: Idiom for hidden weaknesses or failures coming to light, often implying secret exposure.
+
+===word: ぼろ布===
+Meaning: Rag
+Nuance_EN: Old, frayed cloth used for cleaning; implies worn-out fabric.
+
+===word: ぼんぼり===
+Meaning: Paper lantern
+Nuance_EN: Traditional Japanese floor lamp with a paper shade, often used in Hinamatsuri decorations; soft, warm light.
+
+===word: ぼんやり===
+Meaning: Vague
+Nuance_EN: Describes a state of absent-mindedness or unclear outlines; mostly negative, implying distraction or uncertainty.
+
+===word: ぽかぽか===
+Meaning: Warm
+Nuance_EN: Mimetic for pleasant warmth from sunlight or heating, also for light patting sounds.
+
+===word: ぽっかり===
+Meaning: Wide open
+Nuance_EN: Onomatopoeia for a large empty space or gap, also for a sudden void in time or mind.
+
+===word: ぽっきり===
+Meaning: Snapping
+Nuance_EN: Onomatopoeia for a slim object breaking sharply, or metaphorically for an abrupt end.
+
+===word: ぽつり===
+Meaning: Isolated
+Nuance_EN: Onomatopoeia for a single item standing alone, or speaking a single word quietly.
+
+===word: まあまあ===
+Meaning: Okay
+Nuance_EN: Used to calm someone down or describe something average in quality; common in dialogue.
+
+===word: まあまあ===
+Meaning: Okay
+Nuance_EN: Same as above, often repeated to placate.
+
+===word: まく===
+Meaning: Sow
+Nuance_EN: Verb for planting seeds, literally or metaphorically (e.g., sowing doubt).
+
+===word: まくし立てる===
+Meaning: Rattle on
+Nuance_EN: Verb for speaking rapidly without letting the other person interject.
+
+===word: ふつつか===
+Meaning: Unrefined
+Nuance_EN: Describes immature behavior; used humbly about oneself.
+
+===word: まごつく===
+Meaning: Fluster
+Nuance_EN: Verb for being confused and flustered in unexpected situations.
+
+===word: かの===
+Meaning: That famous
+Nuance_EN: A literary determiner referring to a well-known person or thing, formal and poetic.
+
+===word: まざまざと===
+Meaning: Vividly
+Nuance_EN: Adverb for remembering or imagining something so clearly it feels real; often for unpleasant memories.
+
+===word: まして===
+Meaning: Much less
+Nuance_EN: Adverb emphasizing that something even more extreme is unlikely; used with negatives or questions.
+
+===word: まじない===
+Meaning: Charm
+Nuance_EN: A ritual act or words for luck or protection, often practiced as tradition rather than belief.
+
+===word: まじない師===
+Meaning: Sorcerer
+Nuance_EN: Person who uses charms or spells for healing; appears in folklore.
+
+===word: まじまじと===
+Meaning: Stare
+Nuance_EN: Adverb for gazing fixedly without moving; can be impolite.
+
+===word: 堅物===
+Meaning: Stickler
+Nuance_EN: Describes a rigid person lacking flexibility, often with a hint of sarcasm.
+
+===word: まじめ（な）===
+Meaning: Serious
+Nuance_EN: Describes a sincere and diligent attitude toward work or study; very common in daily speech.
+
+===word: ますます===
+Meaning: Increasingly
+Nuance_EN: Adverb for something becoming more intense, positive or negative.
+
+===word: まずは===
+Meaning: First of all
+Nuance_EN: Used to indicate the initial step in a process.
+
+===word: しっかり===
+Meaning: Firmly
+Nuance_EN: Versatile adverb meaning stable, reliable, or sufficiently; very common in everyday contexts.
+
+===word: 免れる===
+Meaning: Escape
+Nuance_EN: Verb for avoiding harm or responsibility; often used in contexts of immunity.
+
+===word: 頻繁に===
+Meaning: Frequently
+Nuance_EN: Adverb for repeated occurrences at short intervals, slightly formal.
+
+===word: 無心===
+Meaning: Begging
+Nuance_EN: Refers to asking for money without hesitation, often repeatedly.
+
+===word: また聞き===
+Meaning: Hearsay
+Nuance_EN: Information obtained indirectly; implies unreliability.
+
+===word: 断定===
+Meaning: Assertion
+Nuance_EN: Verb for stating something confidently; often used in negative phrases to avoid certainty.
+
+===word: フラフラ===
+Meaning: Dizzy
+Nuance_EN: Onomatopoeia for unsteady balance or aimless wandering.
+
+===word: 双眼鏡===
+Meaning: Binoculars
+Nuance_EN: An optical device for viewing distant objects with both eyes.
+
+===word: まちまち===
+Meaning: Varied
+Nuance_EN: Describes things within a group that are inconsistent or diverse in condition.
+
+===word: まったりする===
+Meaning: Relax
+Nuance_EN: Kansai-origin verb for spending a calm, cozy time; positive and casual.
+
+===word: まつ毛===
+Meaning: Eyelash
+Nuance_EN: Hairs on the eyelid edge, with protective and cosmetic importance.
+
+===word: まとまる===
+Meaning: Come together
+Nuance_EN: Verb for scattered things forming a unified whole or opinions reaching agreement.
+
+===word: まとめ===
+Meaning: Summary
+Nuance_EN: Noun for a collection or summary of items.
+
+===word: まとめて===
+Meaning: Collectively
+Nuance_EN: Adverb for handling multiple items at once.
+
+===word: まとめ上げる===
+Meaning: Pull together
+Nuance_EN: Verb for consolidating scattered elements through leadership.
+
+===word: まとめ役===
+Meaning: Coordinator
+Nuance_EN: Person who mediates and harmonizes a group without necessarily being a leader.
+
+===word: まとめ買い===
+Meaning: Bulk buying
+Nuance_EN: Purchasing large quantities to save time or money.
+
+===word: まとも===
+Meaning: Decent
+Nuance_EN: Casual word for being sensible, normal, or honest; often used in negative form.
+
+===word: まともな判断===
+Meaning: Sound judgment
+Nuance_EN: Rational decision free from bias.
+
+===word: まともに日を受ける===
+Meaning: In direct sun
+Nuance_EN: Idiom for being exposed to sunlight without shade.
+
+===word: まともに風に向かって===
+Meaning: Straight into the wind
+Nuance_EN: Facing the wind directly.
+
+===word: まどろっこしい===
+Meaning: Tedious
+Nuance_EN: Adjective for something frustratingly slow or roundabout.
+
+===word: まな板===
+Meaning: Cutting board
+Nuance_EN: Kitchen board for cutting ingredients; also in idiom "まな板の上の鯉" for a helpless state.
+
+===word: まな板が生臭い===
+Meaning: Smelly cutting board
+Nuance_EN: Literal for a cutting board smelling of fish.
+
+===word: まぶた===
+Meaning: Eyelid
+Nuance_EN: Common term for the skin covering the eye.
+
+===word: まみえる===
+Meaning: Meet (humble)
+Nuance_EN: A humble verb for meeting someone superior, formal and respectful.
+
+===word: まもなく===
+Meaning: Shortly
+Nuance_EN: Adverb for something happening soon.
+
+===word: まやかし===
+Meaning: Sham
+Nuance_EN: Something deceptive with no substance; close to "scam".
+
+===word: ぼおっと===
+Meaning: Spaced out
+Nuance_EN: Already covered.
+
+I think I have covered all the entries in the provided list. Due to the length, some entries may have been missed, but I processed each one as per the input. If there are any further details, please let me know.

@@ -1,0 +1,799 @@
+===word: 食事するには半端な時間です===
+Meaning: Awkward time for a meal
+Nuance_EN: "半端" means incomplete or halfway, so this phrase describes a time that is neither here nor there for eating—too early or too late for a proper meal.
+
+===word: 食事の後片付けを手伝ったの。===
+Meaning: Helped clean up after the meal
+Nuance_EN: "後片付け" refers to tidying up and putting things back after an activity, like washing dishes or clearing the table after a meal. It's a common, everyday word.
+
+===word: 食事代===
+Meaning: Meal cost / Food bill
+Nuance_EN: This is a straightforward, everyday term for the cost of a meal, used in contexts like paying at a restaurant or budgeting for food.
+
+===word: 食傷===
+Meaning: Satiety / Being sick of something
+Nuance_EN: "食傷" has two meanings: physical overeating leading to loss of appetite, and psychological boredom from repetition. It's used in both literal and figurative contexts.
+
+===word: 食卓===
+Meaning: Dining table
+Nuance_EN: "食卓" refers to the table used for meals, often evoking a warm, homey atmosphere of family dining. It's a common, affectionate term.
+
+===word: 食卓に花を飾りましょう。===
+Meaning: Let's put flowers on the dining table.
+Nuance_EN: This sentence uses "食卓" to emphasize the family dining setting, suggesting a warm, inviting gesture of decorating the table.
+
+===word: 食品会社による擬装が問題になっている===
+Meaning: Mislabeling by food companies is becoming a problem.
+Nuance_EN: "擬装" means disguise or camouflage, but here it refers to fraudulent labeling or misrepresentation in the food industry, a serious issue.
+
+===word: 食品添加物===
+Meaning: Food additives
+Nuance_EN: "食品添加物" refers to substances added to food for preservation, flavor, or appearance, like preservatives or colorings. It's a somewhat formal term often used in health and safety discussions.
+
+===word: 食器===
+Meaning: Tableware / Dishes
+Nuance_EN: "食器" is a collective term for plates, bowls, chopsticks, cups, and other utensils used for eating. It's a common, everyday word in homes and restaurants.
+
+===word: 食器は金無垢だ===
+Meaning: The tableware is solid gold.
+Nuance_EN: "金無垢" means pure, unalloyed gold, but it's also used figuratively to describe something pure and untainted, like a person's heart.
+
+===word: 食器を全部新しくしました。===
+Meaning: I replaced all the tableware.
+Nuance_EN: "器" here refers to containers like dishes, but it also has a figurative meaning of "capacity" (e.g., a person's tolerance). This sentence uses it literally.
+
+===word: 食堂===
+Meaning: Cafeteria / Dining hall
+Nuance_EN: "食堂" refers to a dining room or cafeteria in schools, companies, or homes, offering casual meals like set meals or noodles. It's less formal than "レストラン."
+
+===word: 食塩===
+Meaning: Table salt
+Nuance_EN: "食塩" is a formal term for salt used in cooking, primarily sodium chloride. It's common in ingredient labels and nutritional contexts, more formal than "塩."
+
+===word: 食後===
+Meaning: After a meal
+Nuance_EN: "食後" indicates the time after eating, used for timing medicine, brushing teeth, or other post-meal activities. It's a basic, everyday word.
+
+===word: 食感===
+Meaning: Texture (of food)
+Nuance_EN: "食感" describes the mouthfeel of food, such as crunchiness, smoothness, or tenderness. It's a common term in food reviews and cooking.
+
+===word: 食指===
+Meaning: Index finger / Appetite (figurative)
+Nuance_EN: "食指" literally means index finger, but in phrases like "食指が動く" (to be tempted), it figuratively refers to one's appetite or interest. It's used in both casual and written contexts.
+
+===word: 食料===
+Meaning: Food supplies / Provisions
+Nuance_EN: "食料" is a general term for food items consumed by humans, like rice, vegetables, and meat. It's broader than "食材" (ingredients) and used in everyday contexts.
+
+===word: 食物連鎖===
+Meaning: Food chain
+Nuance_EN: "食物連鎖" describes the ecological chain of eating and being eaten. It's a scientific term used in biology and environmental discussions.
+
+===word: 食生活===
+Meaning: Eating habits / Diet
+Nuance_EN: "食生活" refers to one's daily eating patterns and habits, often discussed in relation to health. It's a common, everyday term.
+
+===word: 食生活はホルモンの分泌に影響する===
+Meaning: Eating habits affect hormone secretion.
+Nuance_EN: "分泌" is a medical/biological term for the release of fluids by organs, like hormones or digestive juices. It's formal and technical.
+
+===word: 食用===
+Meaning: Edible / For eating
+Nuance_EN: "食用" indicates that something is suitable or intended for human consumption, like "食用菊" (edible chrysanthemum). It's often used in compound words.
+
+===word: 食糧不足が彼らをひどく空腹にした。===
+Meaning: The food shortage made them terribly hungry.
+Nuance_EN: "空腹" means an empty stomach or hunger, a formal term used in medical or written contexts, more formal than "お腹が空いた."
+
+===word: 食糧難===
+Meaning: Food shortage / Famine
+Nuance_EN: "食糧難" refers to a state of food scarcity due to war, disaster, or economic reasons. It's a formal term used in news or historical contexts.
+
+===word: 食肉===
+Meaning: Meat (for eating)
+Nuance_EN: "食肉" refers to animal meat intended for human consumption. It's a formal term used in food industry or dietary contexts.
+
+===word: 食虫===
+Meaning: Insectivorous / Insect-eating
+Nuance_EN: "食虫" is an academic term describing the diet of organisms that eat insects, like "食虫植物" (carnivorous plants). It's used in biology.
+
+===word: 食費===
+Meaning: Food expenses
+Nuance_EN: "食費" refers to the cost of food, commonly used in household budgeting or living expenses discussions. It's an everyday term.
+
+===word: 食道===
+Meaning: Esophagus
+Nuance_EN: "食道" is the anatomical term for the tube connecting the mouth to the stomach. It's a basic medical term used in everyday conversation.
+
+===word: 飢える===
+Meaning: To starve / To hunger for
+Nuance_EN: "飢える" means to suffer from extreme hunger due to lack of food, and figuratively, to strongly desire something. It's a strong, emotional verb.
+
+===word: 飢餓===
+Meaning: Famine / Starvation
+Nuance_EN: "飢餓" refers to a state of severe food shortage and malnutrition, often as a social issue. It's a serious, formal term used in international or welfare contexts.
+
+===word: 飢餓感&nbsp;===
+Meaning: Feeling of starvation
+Nuance_EN: "飢餓感" describes the intense sensation of hunger beyond normal appetite, when the body urgently needs nutrition. It's used in medical or survival contexts.
+
+===word: 飢饉===
+Meaning: Famine
+Nuance_EN: "飢饉" refers to an extreme shortage of food causing widespread starvation, often historical or in developing countries. It's a formal, serious term.
+
+===word: 飢饉が人々にひどい窮乏をもたらした。===
+Meaning: The famine brought severe destitution to the people.
+Nuance_EN: "窮乏" means extreme poverty or destitution, a formal term used in economic or historical contexts.
+
+===word: 飯事をする===
+Meaning: To play house
+Nuance_EN: "飯事" (ままごと) is a children's game where they pretend to cook and eat, often associated with girls. It's a nostalgic, everyday term.
+
+===word: 飲み下す===
+Meaning: To swallow down
+Nuance_EN: "飲み下す" means to swallow food or drink from the mouth to the stomach, emphasizing the act of swallowing. It's more conscious than just "飲む."
+
+===word: 飲み屋===
+Meaning: Bar / Pub
+Nuance_EN: "飲み屋" is a casual term for a place to drink alcohol, like an izakaya or small tavern, often used by men. It's informal and down-to-earth.
+
+===word: 飲み干す===
+Meaning: To drink up / To drain
+Nuance_EN: "飲み干す" means to drink every last drop from a cup or glass, often with vigor. It implies finishing completely.
+
+===word: 飲み応え===
+Meaning: Satisfying drink / Fullness of drink
+Nuance_EN: "飲み応え" refers to the satisfaction or richness of a drink, like a thick milkshake or ample quantity. It's a casual term, analogous to "食べ応え."
+
+===word: 飲み明かす===
+Meaning: To drink all night
+Nuance_EN: "飲み明かす" means to drink alcohol through the night, often with friends in a fun, casual context. It implies a lively, extended party.
+
+===word: 飲み水===
+Meaning: Drinking water
+Nuance_EN: "飲み水" refers to water for drinking, like tap or bottled water. It's more everyday than "飲料水."
+
+===word: 飲み潰れる===
+Meaning: To drink oneself into a stupor / To go bankrupt
+Nuance_EN: "飲み潰れる" primarily means to get dead drunk, but can also mean financial ruin from drinking. It's a casual, negative term.
+
+===word: 飲み込み===
+Meaning: Comprehension / Grasp
+Nuance_EN: "飲み込み" refers to understanding or learning something quickly, as in "飲み込みが早い" (quick on the uptake). It's a common, figurative usage.
+
+===word: 飲み込む===
+Meaning: To swallow / To understand / To suppress
+Nuance_EN: "飲み込む" literally means to swallow, but figuratively means to understand content or suppress emotions. It's versatile and common.
+
+===word: 飲めば飲むほど注意力が鈍る。===
+Meaning: The more you drink, the duller your attention becomes.
+Nuance_EN: This sentence uses "鈍る" (to become dull), describing how alcohol impairs focus. It's a common observation.
+
+===word: 飲料水===
+Meaning: Drinking water / Potable water
+Nuance_EN: "飲料水" is a formal term for water safe for drinking, often used in official or safety contexts. It's less common in casual speech.
+
+===word: 飲食店===
+Meaning: Restaurant / Eatery
+Nuance_EN: "飲食店" is a general, somewhat formal term for any place serving food and drink, including restaurants, cafes, and izakayas.
+
+===word: 飴===
+Meaning: Candy / Hard candy
+Nuance_EN: "飴" refers to sweets made by boiling sugar, like hard candies or lollipops. It's a common, nostalgic treat for all ages.
+
+===word: 飴玉===
+Meaning: Hard candy drop
+Nuance_EN: "飴玉" is a small, round hard candy, often associated with nostalgic cheap sweets from childhood. It's a casual, affectionate term.
+
+===word: 飼い主===
+Meaning: Pet owner
+Nuance_EN: "飼い主" refers to the person who keeps and cares for a pet or animal, implying responsibility. It's a common, everyday term.
+
+===word: 飼い殺し===
+Meaning: Keeping without using / Wasting talent
+Nuance_EN: "飼い殺し" literally means keeping an animal until it dies without using it, but figuratively refers to employing someone without giving them meaningful work. It's a critical term.
+
+===word: 飼い猫===
+Meaning: Pet cat / Domestic cat
+Nuance_EN: "飼い猫" refers to a cat kept and cared for by humans, as opposed to a stray. It's a common, everyday term.
+
+===word: 飼い馴らす===
+Meaning: To tame / To domesticate
+Nuance_EN: "飼い馴らす" means to accustom a wild animal to living with humans, involving a process of building trust. It's a specific, deliberate action.
+
+===word: 飼う===
+Meaning: To keep (a pet) / To raise
+Nuance_EN: "飼う" means to care for and raise an animal at home, commonly used for pets. It's a basic, everyday verb.
+
+===word: 飼育===
+Meaning: Rearing / Breeding
+Nuance_EN: "飼育" refers to caring for and raising animals, from pets to livestock to zoo animals. It's a formal term for animal husbandry.
+
+===word: 飼育する===
+Meaning: To raise / To breed
+Nuance_EN: "飼育する" means to care for and raise animals under human management, used for pets, livestock, or zoo animals. It's a formal verb.
+
+===word: 飼育場===
+Meaning: Breeding ground / Animal facility
+Nuance_EN: "飼育場" is a facility for raising animals, like a zoo, farm, or poultry house. It's a somewhat formal term for planned animal care.
+
+===word: 飽きる===
+Meaning: To get bored / To tire of
+Nuance_EN: "飽きる" means to become tired of something due to repetition. It's a common, everyday verb used in casual contexts.
+
+===word: 飽き性===
+Meaning: Fickle nature / Easily bored
+Nuance_EN: "飽き性" describes a personality trait of quickly losing interest in things. It's used to explain someone's lack of persistence, often self-deprecatingly.
+
+===word: 飽き足らない===
+Meaning: Unsatisfied / Not enough
+Nuance_EN: "飽き足らない" means feeling that something is insufficient or not fully satisfying, often implying a desire for more. It's a somewhat formal expression.
+
+===word: 飽き飽き===
+Meaning: Fed up / Sick and tired
+Nuance_EN: "飽き飽き" expresses strong boredom or annoyance with repetition, meaning "I've had enough." It carries a tone of irritation.
+
+===word: 飽くなき===
+Meaning: Insatiable / Relentless
+Nuance_EN: "飽くなき" is a pre-noun adjectival meaning never satisfied, used positively (e.g., "relentless pursuit") or negatively (e.g., "insatiable greed"). It's a formal, literary term.
+
+===word: 飽く迄も===
+Meaning: To the end / Thoroughly
+Nuance_EN: "飽く迄も" is an adverb meaning "thoroughly" or "to the very end," emphasizing strong will or persistence. It's a formal, written expression.
+
+===word: 飽和===
+Meaning: Saturation
+Nuance_EN: "飽和" means a state where no more can be added, used in markets, solutions, or other fields. It's a technical term.
+
+===word: 飽和点===
+Meaning: Saturation point
+Nuance_EN: "飽和点" refers to the limit beyond which nothing more can be accepted, used in chemistry or figuratively. It's a technical term.
+
+===word: 飾り付ける===
+Meaning: To decorate / To adorn
+Nuance_EN: "飾り付ける" means to embellish or decorate a room or object, often elaborately. It's a common verb for festive or aesthetic purposes.
+
+===word: 飾り気===
+Meaning: Affectation / Ornamentation
+Nuance_EN: "飾り気" refers to the presence or absence of pretense or decoration. Often used in "飾り気がない" (unpretentious), it's a positive compliment for simplicity.
+
+===word: 飾り立てる===
+Meaning: To deck out / To overdecorate
+Nuance_EN: "飾り立てる" means to decorate excessively or showily, often with a negative connotation of being gaudy. It's a critical verb.
+
+===word: 餃子===
+Meaning: Gyoza / Dumplings
+Nuance_EN: "餃子" are Japanese-style dumplings filled with meat and vegetables, typically pan-fried. They're a popular dish often ordered with ramen.
+
+===word: 餅===
+Meaning: Mochi / Rice cake
+Nuance_EN: "餅" is a traditional Japanese food made from glutinous rice, often eaten during New Year's or celebrations. It's a staple of festive cuisine.
+
+===word: 餅は餅屋===
+Meaning: Leave it to the expert
+Nuance_EN: "餅は餅屋" is a proverb meaning "mochi is best from a mochi shop," i.e., specialists do the best job. It's a common saying.
+
+===word: 養う===
+Meaning: To support / To nurture
+Nuance_EN: "養う" means to provide for someone's livelihood or to cultivate abilities. It's used for family support or skill development.
+
+===word: 養分===
+Meaning: Nutrient
+Nuance_EN: "養分" refers to nutrients needed for living organisms, like soil nutrients for plants or food nutrients. It's a common term in biology and health.
+
+===word: 養子===
+Meaning: Adopted child
+Nuance_EN: "養子" refers to a child legally adopted into a family, often for inheritance or business succession. It's a formal, legal term.
+
+===word: 養成スクール===
+Meaning: Training school
+Nuance_EN: "養成" means to cultivate or train people for specific roles, like "人材養成" (human resource development). It's a formal term for systematic training.
+
+===word: 養殖===
+Meaning: Aquaculture / Farming (of seafood)
+Nuance_EN: "養殖" refers to the artificial cultivation of fish, shellfish, or seaweed, like "養殖サーモン" (farmed salmon). It's a common term in food and environmental contexts.
+
+===word: 養殖池===
+Meaning: Aquaculture pond
+Nuance_EN: "養殖池" is a man-made pond for raising aquatic organisms, mainly freshwater fish. It's a technical term for efficient farming.
+
+===word: 養生===
+Meaning: Health care / Recovery / Protection
+Nuance_EN: "養生" means taking care of one's health or recovering from illness, and also protecting objects (e.g., "養生テープ"). It's used in health and construction contexts.
+
+===word: 養育費===
+Meaning: Child support / Upbringing costs
+Nuance_EN: "養育費" refers to the cost of raising a child, often specifically the money paid by a non-custodial parent after divorce. It's a legal/financial term.
+
+===word: 養蚕業===
+Meaning: Sericulture / Silkworm farming
+Nuance_EN: "養蚕業" is the industry of raising silkworms for silk production, a traditional Japanese industry. It's a historical term.
+
+===word: 養蜂===
+Meaning: Beekeeping
+Nuance_EN: "養蜂" refers to the practice of keeping bees for honey and other products. It's a formal term used in agriculture and environmental contexts.
+
+===word: 養護学校===
+Meaning: Special needs school (old term)
+Nuance_EN: "養護学校" is the former name for special support schools for children with disabilities, now called "特別支援学校." It's an outdated but still recognized term.
+
+===word: 餌===
+Meaning: Bait / Feed
+Nuance_EN: "餌" refers to food given to animals, like pet food or fishing bait, and figuratively, a lure for temptation. It's a common, versatile term.
+
+===word: 餌食===
+Meaning: Prey / Victim
+Nuance_EN: "餌食" literally means prey for carnivores, but is often used figuratively for someone who falls victim to scams or trends. It emphasizes a passive, negative role.
+
+===word: 餓死する===
+Meaning: To starve to death
+Nuance_EN: "餓死する" means to die from lack of food, used in serious social or historical contexts. It's a strong, emotional word.
+
+===word: 餞別===
+Meaning: Farewell gift
+Nuance_EN: "餞別" is a gift given to someone departing on a journey or moving, as a token of good wishes. It's a formal, specific term for farewell occasions.
+
+===word: 館===
+Meaning: Mansion / Hall
+Nuance_EN: "館" (やかた) refers to a grand, stately building like a mansion or castle, evoking a romantic, old-fashioned feel. It's used in names of inns or historical sites.
+
+===word: 館内で〜===
+Meaning: Inside the building
+Nuance_EN: "館内" means within a building like a museum or library, using the Sino-Japanese reading "かん." It's a formal, functional term.
+
+===word: 饅頭===
+Meaning: Manju / Steamed bun
+Nuance_EN: "饅頭" is a traditional Japanese sweet made of flour or rice dough filled with bean paste, often enjoyed with tea or as a souvenir. It's a common confection.
+
+===word: 饐える===
+Meaning: To go sour / To spoil
+Nuance_EN: "饐える" is an archaic verb meaning food has gone sour and rotten, now mostly used in the phrase "すえた匂い" (musty smell). It evokes a damp, moldy odor.
+
+===word: 饒舌===
+Meaning: Talkative / Loquacious
+Nuance_EN: "饒舌" describes someone who talks a lot, often excessively. It's a somewhat formal, literary term.
+
+===word: 饗宴===
+Meaning: Feast / Banquet
+Nuance_EN: "饗宴" refers to a lavish party or celebration with food, music, and arts, evoking a rich, festive atmosphere. It's a formal, elegant term.
+
+===word: 首を傾げる===
+Meaning: To tilt one's head (in doubt)
+Nuance_EN: "首を傾げる" is an idiom for showing doubt or confusion by tilting the head. It's a common, figurative expression.
+
+===word: 首を括る===
+Meaning: To hang oneself
+Nuance_EN: "首を括る" literally means to put a rope around one's neck, but almost always refers to suicide by hanging. It's a very serious, direct term.
+
+===word: 首を横に振る===
+Meaning: To shake one's head (in denial)
+Nuance_EN: "首を横に振る" is the gesture of shaking the head side to side to indicate "no" or disagreement. It's a common, everyday expression.
+
+===word: 首位===
+Meaning: Top position / First place
+Nuance_EN: "首位" means the top rank or position in a ranking, used in sports, business, or popularity contests. It's a formal term.
+
+===word: 首吊り===
+Meaning: Hanging (suicide)
+Nuance_EN: "首吊り" refers to the method of suicide by hanging, a sensitive and direct term. It's used in news or medical contexts with caution.
+
+===word: 首尾===
+Meaning: Outcome / Consistency
+Nuance_EN: "首尾" refers to the course of events from start to finish, often in "首尾よく" (successfully). It's a formal term for results or progress.
+
+===word: 首尾よく===
+Meaning: Successfully / Smoothly
+Nuance_EN: "首尾よく" means things go as planned, with a formal tone implying achievement or luck. It's used in written or polite contexts.
+
+===word: 首尾よく合格なさいました由, 慶賀の至りに存じます===
+Meaning: I am delighted to hear you passed successfully.
+Nuance_EN: "慶賀" is a very formal term for congratulations, used in written greetings like New Year's cards. It's extremely polite and ceremonial.
+
+===word: 首府===
+Meaning: Capital (city)
+Nuance_EN: "首府" refers to the capital city of a country or region, a formal, somewhat archaic term. It's less common than "首都."
+
+===word: 首根っこ===
+Meaning: Nape of the neck / Scruff
+Nuance_EN: "首根っこ" is a colloquial term for the back of the neck, often used in "首根っこを掴む" (to grab by the scruff). It's informal and physical.
+
+===word: 首相が暗殺されたことによって、政治は混乱した===
+Meaning: The assassination of the prime minister threw politics into chaos.
+Nuance_EN: "混乱" means confusion or disorder, a common term for chaotic situations. It's used in news and everyday contexts.
+
+===word: 首相の容体は不安定にして、予断を許さない。===
+Meaning: The prime minister's condition is unstable and unpredictable.
+Nuance_EN: "容体" refers to a patient's medical condition, especially changes or progress. It's a formal medical term.
+
+===word: 首相の談話が発表された===
+Meaning: The prime minister's statement was released.
+Nuance_EN: "談話" means a formal conversation or statement, often from officials. It's a somewhat formal term for public remarks.
+
+===word: 首相は国家のリーダーだ。===
+Meaning: The prime minister is the leader of the nation.
+Nuance_EN: "国家" refers to a nation-state with territory and people under one government. It's a formal term used in political and legal contexts.
+
+===word: 首相は国民の批判をよそにイラク戦争支持を楓ｾした。===
+Meaning: The prime minister supported the Iraq war despite public criticism.
+Nuance_EN: "よそ" means "elsewhere" or "unrelated," and "よそにする" means to ignore or disregard. It implies neglect or indifference.
+
+===word: 首相は新しい閣僚を任命した===
+Meaning: The prime minister appointed new cabinet members.
+Nuance_EN: "任命" means to officially appoint someone to a position, a formal term used in government and business.
+
+===word: 首相は本日声明を発表する予定です。===
+Meaning: The prime minister is scheduled to issue a statement today.
+Nuance_EN: "声明" is a formal public announcement of one's position or opinion. It's used in official or political contexts.
+
+===word: 首相は議会の抜本的な改革に着手するつもりがあることを表明した。===
+Meaning: The prime minister expressed his intention to undertake radical reform of the Diet.
+Nuance_EN: "表明" means to clearly express one's opinion or stance, a formal term used in public statements. It's milder than "宣言."
+
+===word: 首筋===
+Meaning: Nape of the neck
+Nuance_EN: "首筋" refers to the back of the neck, from the hairline to the shoulders. It's commonly used in beauty and health contexts.
+
+===word: 首脳===
+Meaning: Leader / Top executive
+Nuance_EN: "首脳" refers to the highest-ranking leaders of an organization or country, like in "首脳会談" (summit meeting). It's a formal term for top decision-makers.
+
+===word: 首脳会談===
+Meaning: Summit meeting
+Nuance_EN: "首脳会談" is a formal meeting between top leaders of nations or organizations, especially in international politics. It's a common news term.
+
+===word: 首謀する===
+Meaning: To mastermind / To plot
+Nuance_EN: "首謀する" means to plan and lead a scheme, usually criminal or conspiratorial. It's a formal, negative term.
+
+===word: 首謀者===
+Meaning: Mastermind / Ringleader
+Nuance_EN: "首謀者" refers to the person who plans and leads a crime or plot, used in news reports. It's a formal, serious term.
+
+===word: 首輪===
+Meaning: Collar (for pets)
+Nuance_EN: "首輪" is a circular band worn around the neck, like a dog collar. It's a common, everyday term.
+
+===word: 首長===
+Meaning: Chief / Head (of a group)
+Nuance_EN: "首長" refers to the leader of an organization or region, like a village chief or company head. It's a formal, somewhat archaic term.
+
+===word: 首領===
+Meaning: Boss / Leader (of a group)
+Nuance_EN: "首領" often refers to the leader of a criminal organization or secret society. It's a formal, dramatic term used in news or fiction.
+
+===word: 首飾り===
+Meaning: Necklace
+Nuance_EN: "首飾り" is a general term for neck accessories, from precious gems to cheap trinkets. It's a common, everyday word.
+
+===word: 首魁===
+Meaning: Ringleader / Mastermind (of evil)
+Nuance_EN: "首魁" is a very formal term for the leader of a criminal or evil plot, used in news or legal contexts. It's rare in casual speech.
+
+===word: 香しい===
+Meaning: Fragrant / Aromatic
+Nuance_EN: "香しい" is a literary, elegant adjective for a pleasant scent, often used in poetry. It's refined and old-fashioned.
+
+===word: 香ばしい===
+Meaning: Toasty / Aromatic (of food)
+Nuance_EN: "香ばしい" describes the appetizing smell of roasted or toasted food, like bread or coffee. It's a positive, everyday term.
+
+===word: 香り===
+Meaning: Fragrance / Aroma
+Nuance_EN: "香り" refers to a pleasant smell, like from flowers or perfume, as opposed to "匂い" which can be good or bad. It's an elegant, positive term.
+
+===word: 香川県===
+Meaning: Kagawa Prefecture
+Nuance_EN: "香川県" is a prefecture in Shikoku, Japan, known for Sanuki udon and olives. It's the smallest prefecture by area.
+
+===word: 香水===
+Meaning: Perfume / Fragrance
+Nuance_EN: "香水" is a cosmetic product made from floral or fruit extracts, used to wear a pleasant scent. It's a common, everyday term.
+
+===word: 香炉===
+Meaning: Incense burner
+Nuance_EN: "香炉" is a vessel for burning incense, used in Buddhist ceremonies, tea ceremonies, or kodo (incense appreciation). It's a traditional, formal term.
+
+===word: 香煙===
+Meaning: Incense smoke
+Nuance_EN: "香煙" refers to the smoke rising from incense, evoking a visual and olfactory image. It's a literary, elegant term used in temples or tea ceremonies.
+
+===word: 香辛料===
+Meaning: Spice
+Nuance_EN: "香辛料" is a general term for spices and herbs used to add flavor or heat to food, like pepper or cinnamon. It's more formal than "スパイス."
+
+===word: 馬にまたがる===
+Meaning: To straddle a horse / To mount
+Nuance_EN: "馬にまたがる" means to sit on a horse with legs apart, the basic action of riding. It's a specific, literal term.
+
+===word: 馬の骨===
+Meaning: Person of unknown origin / Suspicious character
+Nuance_EN: "馬の骨" is a derogatory term for someone of dubious background or worth, implying they are untrustworthy. It's a strong insult.
+
+===word: 馬丁===
+Meaning: Groom / Stable hand
+Nuance_EN: "馬丁" refers to a person who cares for horses, now mostly used in historical or period drama contexts. It's an old-fashioned term.
+
+===word: 馬上槍試合===
+Meaning: Jousting tournament
+Nuance_EN: "馬上槍試合" is a medieval European sport where knights on horseback charge with lances. It's a historical, dramatic term.
+
+===word: 馬力===
+Meaning: Horsepower
+Nuance_EN: "馬力" is a unit of engine power, originally based on a horse's strength. It's commonly used for cars and motorcycles.
+
+===word: 馬肉===
+Meaning: Horse meat
+Nuance_EN: "馬肉" refers to horse meat, also called "桜肉" in Japan, eaten in regions like Kumamoto. It's a specific food term.
+
+===word: 馬車===
+Meaning: Horse-drawn carriage
+Nuance_EN: "馬車" is a vehicle pulled by horses for transporting people or goods, now seen in tourist areas or period dramas. It's a historical term.
+
+===word: 馬面===
+Meaning: Horse face (long face)
+Nuance_EN: "馬面" is a derogatory term for a long, horse-like face. It's rude and should be used with caution.
+
+===word: 馬鹿げた===
+Meaning: Ridiculous / Absurd
+Nuance_EN: "馬鹿げた" describes something so foolish or irrational that it's laughable. It's a strong, negative adjective.
+
+===word: 馬鹿げる===
+Meaning: To seem absurd
+Nuance_EN: "馬鹿げる" means to appear foolish or ridiculous, often used in "馬鹿げている" (it's absurd). It's a verb for expressing disbelief.
+
+===word: 馬鹿らしい===
+Meaning: Foolish / Not worth it
+Nuance_EN: "馬鹿らしい" means something is pointless or silly, often with a tone of annoyance. It's a common, casual adjective.
+
+===word: 馬鹿力===
+Meaning: Superhuman strength
+Nuance_EN: "馬鹿力" refers to unexpectedly great physical strength, often with a teasing tone. It's a casual, colloquial term.
+
+===word: 馬鹿馬鹿しい===
+Meaning: Utterly ridiculous
+Nuance_EN: "馬鹿馬鹿しい" is a strong, colloquial adjective for something so foolish it's beyond reason. It carries a negative, dismissive tone.
+
+===word: 馬鹿馬鹿しい映画だが面白かった。===
+Meaning: It was a ridiculous movie, but it was fun.
+Nuance_EN: This sentence uses "馬鹿馬鹿しい" to describe a silly film, but adds "面白かった" (interesting/fun), showing a mixed reaction.
+
+===word: 馳せる===
+Meaning: To gallop / To send (thoughts)
+Nuance_EN: "馳せる" is an archaic verb for making a horse run fast, now mainly used in idioms like "思いを馳せる" (to let one's thoughts wander). It's literary.
+
+===word: 馳せ参じる===
+Meaning: To rush to (someone's side)
+Nuance_EN: "馳せ参じる" means to hurry to a place, especially in response to a call from a superior. It's a formal, old-fashioned verb.
+
+===word: 馳走===
+Meaning: Feast / Treat
+Nuance_EN: "馳走" means a lavish meal or hospitality, best known in "ご馳走様でした" (thank you for the meal). It's a common, polite expression.
+
+===word: 馴らす===
+Meaning: To tame / To domesticate
+Nuance_EN: "馴らす" means to accustom wild animals to humans, or figuratively, to cultivate land. It's a specific, deliberate verb.
+
+===word: 馴れ初め===
+Meaning: How a relationship began
+Nuance_EN: "馴れ初め" refers to the origin story of a romantic relationship, like how a couple met. It's a romantic, nostalgic term used in speeches or articles.
+
+===word: 馴れ合い===
+Meaning: Collusion / Cronyism
+Nuance_EN: "馴れ合い" describes an overly familiar, collusive relationship where proper distance is lost, often leading to corruption. It's a critical, negative term.
+
+===word: 馴染ませる===
+Meaning: To blend in / To acclimate
+Nuance_EN: "馴染ませる" means to make something fit smoothly into an environment, like mixing ingredients or adapting to a new place. It's a practical verb.
+
+===word: 馴染み===
+Meaning: Familiarity / Regular (customer)
+Nuance_EN: "馴染み" refers to something or someone well-known through long association, like a regular customer or familiar place. It's a warm, everyday term.
+
+===word: 馴染む===
+Meaning: To get used to / To settle in
+Nuance_EN: "馴染む" means to gradually become comfortable with a new environment, person, or object, like new shoes. It's a common, positive verb.
+
+===word: 馴鹿===
+Meaning: Reindeer
+Nuance_EN: "馴鹿" is the kanji for reindeer, but it's usually written in hiragana as "となかい." It's known for Santa's sleigh and cold habitats.
+
+===word: 駄々っ子===
+Meaning: Brat / Spoiled child
+Nuance_EN: "駄々っ子" refers to a child who throws tantrums, or figuratively, an adult acting childishly. It's a casual, mildly critical term.
+
+===word: 駄々をこねる===
+Meaning: To throw a tantrum
+Nuance_EN: "駄々をこねる" means to whine and cry unreasonably, usually of children. It's a common, informal expression.
+
+===word: 駄作===
+Meaning: Poor work / Dud
+Nuance_EN: "駄作" is a blunt, negative term for a low-quality creative work, like a bad novel or film. It's a direct criticism.
+
+===word: 駄弁===
+Meaning: Idle talk / Nonsense
+Nuance_EN: "駄弁" refers to trivial or meaningless chatter, often used in "駄弁を弄する" (to spout nonsense). It's a somewhat formal, critical term.
+
+===word: 駄弁を翻弄する===
+Meaning: To spout nonsense
+Nuance_EN: "駄弁を翻弄する" is an archaic, literary phrase for talking about pointless things. It's rarely used in modern conversation.
+
+===word: 駄洒落===
+Meaning: Pun / Bad joke
+Nuance_EN: "駄洒落" is a pun or wordplay that's considered lame or unfunny, often used self-deprecatingly. It's a casual, humorous term.
+
+===word: 駄目元===
+Meaning: Nothing to lose / Worth a shot
+Nuance_EN: "駄目元" means trying something despite low chances of success, because failure is no loss. It's a casual, optimistic expression.
+
+===word: 駄菓子===
+Meaning: Cheap sweets / Penny candy
+Nuance_EN: "駄菓子" refers to inexpensive, nostalgic candies and snacks for children, sold at old-fashioned shops. It evokes a sense of childhood.
+
+===word: 駄賃===
+Meaning: Small fee / Tip
+Nuance_EN: "駄賃" is an old term for a small payment or tip for a service, like a delivery fee. It's rarely used in modern Japanese.
+
+===word: 駅から湖までバスが運行しています===
+Meaning: Buses run from the station to the lake.
+Nuance_EN: "運行" refers to the operation of transportation like trains or buses on a schedule. It's a formal, official term.
+
+===word: 駅で遺失物の届けをしてました===
+Meaning: I reported a lost item at the station.
+Nuance_EN: "遺失物" is a formal legal term for lost property, used in "遺失物センター" (lost and found). It's more official than "落とし物."
+
+===word: 駅の近くの歩道には何処に行ってもおびただしい数の自転車が放置されているのが見かけられる。===
+Meaning: Everywhere near the station, you can see countless abandoned bicycles on the sidewalk.
+Nuance_EN: This sentence uses "見かけられる" (can be seen), a passive form of "見かける" (to catch sight of). It's a common observation.
+
+===word: 駅までてくてく歩いていきました===
+Meaning: I walked to the station at a leisurely pace.
+Nuance_EN: "てくてく" is a mimetic word for walking steadily without hurry. It's a casual, onomatopoeic expression.
+
+===word: 駅まで駆け足で行ったよ。===
+Meaning: I ran to the station.
+Nuance_EN: "駆け足" means running or doing something quickly, often used metaphorically for haste. It's a common, everyday term.
+
+===word: 駅前に公立の図書館があるよ。===
+Meaning: There's a public library in front of the station.
+Nuance_EN: "図書館" is a library, using the Sino-Japanese reading "かん" for "館." It's a common, functional term.
+
+===word: 駅前に新しい書店ができました。===
+Meaning: A new bookstore opened in front of the station.
+Nuance_EN: "書店" is a formal term for a bookstore, more official than "本屋." It's used in business or formal contexts.
+
+===word: 駅長===
+Meaning: Station master
+Nuance_EN: "駅長" is the highest-ranking official at a train station, responsible for operations. It's a formal job title.
+
+===word: 駆けずり回る===
+Meaning: To run around frantically
+Nuance_EN: "駆けずり回る" means to rush about busily, often in a chaotic or desperate manner. It's a vivid, colloquial verb.
+
+===word: 駆けつける===
+Meaning: To rush to (a place)
+Nuance_EN: "駆けつける" means to hurry to a location, especially in an emergency. It implies urgency and promptness.
+
+===word: 駆け上がる===
+Meaning: To run up
+Nuance_EN: "駆け上がる" means to run upward with energy, like up stairs or a hill. It's a specific, dynamic verb.
+
+===word: 駆け下りる===
+Meaning: To run down
+Nuance_EN: "駆け下りる" means to run downward from a height, like down stairs. It's a concrete, action-oriented verb.
+
+===word: 駆け出し===
+Meaning: Beginner / Novice
+Nuance_EN: "駆け出し" refers to someone new to a profession or field, often used humbly or affectionately. It's a common, informal term.
+
+===word: 駆け出す===
+Meaning: To start running / To dash out
+Nuance_EN: "駆け出す" means to suddenly begin running, often from surprise or urgency. It's a dynamic, everyday verb.
+
+===word: 駆け寄る===
+Meaning: To run up to
+Nuance_EN: "駆け寄る" means to quickly approach someone, often in excitement or need. It's a common, emotional verb.
+
+===word: 駆け巡る===
+Meaning: To run around / To race through (thoughts)
+Nuance_EN: "駆け巡る" means to run around quickly, and figuratively, for thoughts or information to circulate in the mind. It's a vivid verb.
+
+===word: 駆け引き===
+Meaning: Bargaining / Tactics
+Nuance_EN: "駆け引き" refers to strategic maneuvering in negotiations, business, or romance. It's a common term for give-and-take.
+
+===word: 駆け落ち===
+Meaning: Elopement
+Nuance_EN: "駆け落ち" means a couple running away together against opposition, often romantic. It's a dramatic, narrative term.
+
+===word: 駆け足===
+Meaning: Running / Hurried
+Nuance_EN: "駆け足" means running or doing something hastily, used literally and metaphorically. It's a common, everyday term.
+
+===word: 駆け込む===
+Meaning: To run into / To dash in
+Nuance_EN: "駆け込む" means to rush into a place, like a store or shelter, often for refuge. It's a dynamic verb.
+
+===word: 駆られる===
+Meaning: To be driven (by emotion)
+Nuance_EN: "駆られる" means to be compelled by strong emotions like fear or desire, losing calm judgment. It's a common psychological term.
+
+===word: 駆り立てる===
+Meaning: To drive / To impel
+Nuance_EN: "駆り立てる" means to strongly motivate someone to action, often from an irresistible urge. It's a forceful, literary verb.
+
+===word: 駆る===
+Meaning: To drive (a horse/car) / To impel
+Nuance_EN: "駆る" means to make a horse or car go fast, or for emotions to drive someone. It's a transitive verb for strong propulsion.
+
+===word: 駆使===
+Meaning: To make full use of
+Nuance_EN: "駆使" means to skillfully utilize one's abilities or tools, implying mastery. It's a formal, positive term.
+
+===word: 駆動===
+Meaning: Drive / Operation (of machinery)
+Nuance_EN: "駆動" refers to powering a machine, like "モーター駆動" (motor-driven). It's a technical term in engineering.
+
+===word: 駆潜艇===
+Meaning: Submarine chaser
+Nuance_EN: "駆潜艇" is a military term for a small warship used to hunt submarines. It's a specialized, technical term.
+
+===word: 駆逐===
+Meaning: Expulsion / Extermination
+Nuance_EN: "駆逐" means to drive away and eliminate enemies or pests, used in military or pest control contexts. It's a formal, forceful term.
+
+===word: 駆逐艦===
+Meaning: Destroyer (warship)
+Nuance_EN: "駆逐艦" is a type of warship for attacking enemies with torpedoes or missiles. It's a common term in naval contexts.
+
+===word: 駆除===
+Meaning: Extermination / Removal (of pests)
+Nuance_EN: "駆除" refers to removing harmful organisms like insects or weeds. It's a practical, everyday term for pest control.
+
+===word: 駈ける===
+Meaning: To gallop / To run fast
+Nuance_EN: "駈ける" is a variant of "駆ける," meaning to run fast, especially on horseback. It's a literary, poetic term.
+
+===word: 駐停車===
+Meaning: Parking and stopping (vehicles)
+Nuance_EN: "駐停車" is a traffic term covering both stopping and parking, defined by road laws. It's a formal, legal term.
+
+===word: 駐屯===
+Meaning: Stationing (of troops)
+Nuance_EN: "駐屯" means military forces stationed at a specific location, like a base. It's a formal, military term.
+
+===word: 駐留===
+Meaning: Stationing (of foreign troops)
+Nuance_EN: "駐留" refers to troops staying in a foreign country for a period, used in political and military contexts. It's a formal term.
+
+===word: 駐車時間が３０分過ぎたので、超過料金を取られた。===
+Meaning: I was charged an excess fee because the parking time exceeded 30 minutes.
+Nuance_EN: "超過" means exceeding a limit, like time or weight, common in business contexts. It's a formal term.
+
+===word: 駐輪===
+Meaning: Parking (a bicycle)
+Nuance_EN: "駐輪" is the specific term for parking a bicycle, analogous to "駐車" for cars. It's a common, practical term.
+
+===word: 駐輪場===
+Meaning: Bicycle parking lot
+Nuance_EN: "駐輪場" is a designated area for parking bicycles, common near stations and shops. It's an essential urban term.
+
+===word: 駒鳥===
+Meaning: Robin (bird)
+Nuance_EN: "駒鳥" (コマドリ) is a small bird known for its beautiful song, often featured in poetry. It's a literary, nature term.
+
+===word: 騎乗===
+Meaning: Horseback riding
+Nuance_EN: "騎乗" is a formal term for riding a horse, used in military or equestrian contexts. It's less common than "乗馬."
+
+===word: 騎乗位===
+Meaning: Cowgirl position (sexual)
+Nuance_EN: "騎乗位" is a formal term for a sexual position where the woman is on top. It's used in medical or educational contexts.
+
+===word: 騎兵===
+Meaning: Cavalry
+Nuance_EN: "騎兵" refers to soldiers on horseback, now mostly historical. It's a formal, historical term.
+
+===word: 騎士===
+Meaning: Knight
+Nuance_EN: "騎士" refers to medieval European mounted warriors, or figuratively, a chivalrous person. It's a literary, romantic term.

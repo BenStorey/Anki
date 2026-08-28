@@ -1,0 +1,803 @@
+===word: 相手===
+Meaning: Partner / Opponent
+Nuance_EN: A highly versatile noun referring to someone you interact with, such as a partner, opponent, or negotiation counterpart. It can be used in both positive and adversarial contexts, from casual conversation to business.
+
+===word: 納得===
+Meaning: Conviction / Acceptance
+Nuance_EN: Refers to understanding and sincerely agreeing with someone's explanation or reasoning. Unlike simple "understanding," it includes an emotional sense of satisfaction and being convinced.
+
+===word: 理===
+Meaning: Reason / Principle
+Nuance_EN: Refers to the logical order, reasoning, or natural law of things. In scientific contexts, it can mean "principle" or "law," and is used in phrases like "筋が通る" (to be logical).
+
+===word: 待つ===
+Meaning: Wait
+Nuance_EN: A basic verb meaning to wait for someone or something. In strategic contexts, "相手の出方を待つ" (wait to see how the other side acts) implies a tactical observation before deciding one's own move.
+
+===word: 戦===
+Meaning: War / Battle
+Nuance_EN: A Sino-Japanese term for war or battle, commonly used in compound words like "戦争" (war), "戦闘" (combat), or "作戦" (strategy). It appears in formal or literary contexts rather than casual speech.
+
+===word: 見事===
+Meaning: Splendid / Skillful
+Nuance_EN: Describes something done with remarkable skill or beauty, often with a sense of admiration. It can be used both positively (e.g., "a splendid performance") and ironically (e.g., "skillfully tricked").
+
+===word: 相手取る===
+Meaning: Take on / Sue
+Nuance_EN: A verb meaning to take a specific person or organization as an opponent in a lawsuit or conflict. Primarily used in legal or competitive contexts, such as "相手取って訴訟を起こす" (to sue someone).
+
+===word: 相打ち===
+Meaning: Mutual strike / Draw
+Nuance_EN: Originally from martial arts (e.g., kendo), meaning both parties strike each other simultaneously, resulting in a draw. Metaphorically, it refers to any situation where both sides suffer equal damage or reach a stalemate, often used in games or debates.
+
+===word: 相撲===
+Meaning: Sumo wrestling
+Nuance_EN: Japan's traditional national sport where two wrestlers (rikishi) compete in a ring (dohyo) to force each other out or to the ground. Deeply tied to Japanese culture and rituals, it is a formal term used in sports and cultural contexts.
+
+===word: 有利===
+Meaning: Advantageous
+Nuance_EN: Describes a situation or condition that gives an advantage or benefit. Used in various contexts, from sports to business, to indicate a favorable position.
+
+===word: 厳しい===
+Meaning: Strict / Harsh
+Nuance_EN: Describes something that is severe, demanding, or rigorous, such as strict training or harsh conditions. It can also refer to a tough but fair attitude.
+
+===word: 相棒===
+Meaning: Partner / Buddy
+Nuance_EN: A casual term for a companion or partner, especially one with a long-term, trusted relationship (e.g., a police duo or work partner). It has a slightly masculine tone and implies mutual reliance.
+
+===word: 相殺===
+Meaning: Offset / Cancel out
+Nuance_EN: Refers to positive and negative elements canceling each other out, resulting in a zero or balanced state. Commonly used in accounting, law, or abstract contexts like interests or effects.
+
+===word: 相続する===
+Meaning: Inherit
+Nuance_EN: A legal verb meaning to inherit property, rights, or obligations from a deceased person. Used in formal contexts related to inheritance law, estate division, and taxes.
+
+===word: 相続税===
+Meaning: Inheritance tax
+Nuance_EN: A tax imposed on heirs who inherit assets from a deceased person. Relevant to families with significant wealth, it is a formal term used in legal and financial discussions.
+
+===word: 相続財産===
+Meaning: Inherited assets
+Nuance_EN: Refers to the property, rights, and obligations that a deceased person leaves to their family or relatives. Used in legal and financial contexts.
+
+===word: 相談役===
+Meaning: Advisor / Consultant
+Nuance_EN: A person who provides advice or opinions when someone is in trouble. It can be a formal position in a company or organization, offering guidance and support.
+
+===word: 相貌===
+Meaning: Countenance / Features
+Nuance_EN: Refers to the overall impression of a person's facial features and expression, including their aura and personality. A somewhat formal, literary term used in written descriptions.
+
+===word: 相違===
+Meaning: Difference / Discrepancy
+Nuance_EN: A noun meaning a difference or inconsistency between two things. The negative form "相違ない" (no mistake) expresses certainty. It is a somewhat formal, written-language expression.
+
+===word: 相違点===
+Meaning: Point of difference
+Nuance_EN: Refers to the specific points where two or more things differ when compared. Used in business or academic contexts to objectively describe discrepancies.
+
+===word: 相関===
+Meaning: Correlation
+Nuance_EN: Refers to a mutual relationship between two things, where a change in one is associated with a change in the other. Often used in statistical or scientific contexts.
+
+===word: 盾===
+Meaning: Shield
+Nuance_EN: A defensive tool used to protect against attacks, historically in combat. Metaphorically, it can mean protecting someone (e.g., "盾になる" - to become a shield for someone).
+
+===word: 省く===
+Meaning: Omit / Skip
+Nuance_EN: Means to remove unnecessary parts or simplify something, often to save time or effort. Used in phrases like "説明を省く" (omit an explanation) or "手続きを省く" (skip procedures).
+
+===word: 省エネ===
+Meaning: Energy saving
+Nuance_EN: Short for "省エネルギー" (energy conservation), referring to reducing consumption of electricity, fuel, etc. Commonly used in daily life due to growing environmental awareness.
+
+===word: 省略===
+Meaning: Omission / Abbreviation
+Nuance_EN: Refers to simplifying by omitting unnecessary parts in procedures or explanations. Used in business and daily contexts, and also in writing with symbols like "…" or "略".
+
+===word: 眇める===
+Meaning: Squint / Peer
+Nuance_EN: An archaic, literary verb meaning to narrow one's eyes and look intently at something, often with suspicion or to examine details. Rarely used in everyday conversation.
+
+===word: 眉を寄せる===
+Meaning: Knit one's brows
+Nuance_EN: An idiomatic expression describing the unconscious action of furrowing one's brows due to worry, displeasure, concentration, or deep thought. More delicate than simply "frowning," it conveys unspoken emotions in a literary, elegant way.
+
+===word: 眉を顰める===
+Meaning: Frown / Scowl
+Nuance_EN: Means to furrow one's brows in displeasure or discomfort, expressing negative feelings through facial expression without words. Often used in written descriptions.
+
+===word: 眉唾===
+Meaning: Dubious / Fishy
+Nuance_EN: A colloquial term (short for "眉唾物") meaning something is suspicious or untrustworthy. Originating from the action of putting saliva on one's eyebrows (a folk remedy), it is used for dubious stories or scams.
+
+===word: 眉庇===
+Meaning: Visor / Brim
+Nuance_EN: Refers to the front part of a helmet or hat that protects the eyes, like a visor or brim. A specialized term in historical or military contexts.
+
+===word: 眉毛 / 眉===
+Meaning: Eyebrow
+Nuance_EN: Refers to the hair above the eyes. "眉毛" is the full term, while "眉" is used alone or in compounds. A common word in daily conversation, especially in discussions about facial features or makeup.
+
+===word: 眉目秀麗===
+Meaning: Handsome features
+Nuance_EN: A four-character idiom describing a man's well-proportioned, beautiful facial features. A classical, formal expression primarily used in written language.
+
+===word: 眉間===
+Meaning: Glabella / Between the eyebrows
+Nuance_EN: Refers to the area between the eyebrows, an important part of the face for reading expressions. Used in both medical and descriptive contexts.
+
+===word: 看取===
+Meaning: Perception / Observation
+Nuance_EN: A formal noun meaning to perceive or discern something, often in a medical or observational context. Less common in daily speech.
+
+===word: 看取る===
+Meaning: Perceive / Discern
+Nuance_EN: A verb meaning to perceive or understand something by careful observation. Often used in medical contexts (e.g., to discern a patient's condition) or literary descriptions.
+
+===word: 看守===
+Meaning: Prison guard / Warden
+Nuance_EN: Refers to a staff member who supervises inmates in a prison or detention center. In sports reporting, it can also be a slang term for a baseball team manager, so context is crucial.
+
+===word: 看板===
+Meaning: Signboard / Front
+Nuance_EN: A physical sign displaying a store's name or services. Metaphorically, it refers to a representative person or thing of an organization (e.g., "看板商品" - flagship product).
+
+===word: 看板娘===
+Meaning: Shop girl / Attractive employee
+Nuance_EN: A colloquial term for a cute female employee who attracts customers as the "face" of a shop. Used in traditional stores or restaurants, with a friendly, nostalgic tone.
+
+===word: 看病===
+Meaning: Nursing / Care
+Nuance_EN: Refers to taking care of someone who is sick or injured, typically by family or friends at home. It conveys warmth and compassion, focusing on daily care rather than medical treatment.
+
+===word: 看破===
+Meaning: See through / Discern
+Nuance_EN: A formal verb meaning to see through deception or discern the truth of a situation. Often used in contexts like "看破する" (to see through a lie) or in Buddhist philosophy.
+
+===word: 看護===
+Meaning: Nursing (medical)
+Nuance_EN: Refers to caring for sick or injured people to aid recovery, primarily performed by nurses as part of medical treatment. A formal medical term including patient care and health management.
+
+===word: 看護婦===
+Meaning: Nurse (female, traditional)
+Nuance_EN: A traditional term for a female medical professional who provides nursing care. Now largely replaced by the gender-neutral "看護師" (nurse) as the official term.
+
+===word: 詰め所===
+Meaning: Staff room / Duty room
+Nuance_EN: Refers to a room in a hospital where nurses wait and perform their duties. "看護婦の詰め所" is an older term; "看護師" is now standard.
+
+===word: 看護師===
+Meaning: Nurse
+Nuance_EN: A medical professional who assists doctors and cares for patients. Formerly called "看護婦" (female nurse), but now "看護師" is the official gender-neutral term. One of the most patient-facing roles in hospitals.
+
+===word: 看過===
+Meaning: Overlook / Ignore
+Nuance_EN: Means to ignore or overlook a problem or wrongdoing, often intentionally. A somewhat formal expression used in business or legal contexts.
+
+===word: 県外===
+Meaning: Outside the prefecture
+Nuance_EN: Refers to areas outside one's home prefecture. Commonly used in contexts like travel, commuting, or job transfers.
+
+===word: 県庁===
+Meaning: Prefectural office
+Nuance_EN: The central building where a prefecture's administrative and political work is conducted, where the governor and staff work.
+
+===word: 県立（の）===
+Meaning: Prefectural
+Nuance_EN: Indicates that something is established and operated by a prefecture, such as schools, libraries, or hospitals. Used for public facilities.
+
+===word: 真っしぐら===
+Meaning: Headlong / Full speed
+Nuance_EN: An adverb describing moving straight ahead with tremendous speed and focus, without looking aside. Used both literally (physical speed) and metaphorically (e.g., "破滅へ真っしぐら" - heading straight for ruin), in positive or negative contexts.
+
+===word: 真っ二つに===
+Meaning: In two / Cleanly split
+Nuance_EN: An adverb describing something being split or cut cleanly in half from the center. Carries a dramatic image of destruction or cutting, often used in manga or anime.
+
+===word: 真っ先===
+Meaning: First / Foremost
+Nuance_EN: Emphasizes being the very first among many people or things. Used in phrases like "真っ先に走り出す" (to be the first to run out) or "真っ先に名乗り出る" (to be the first to volunteer).
+
+===word: 真っ只中===
+Meaning: Midst / Thick of
+Nuance_EN: Refers to being in the very center of an event or situation, at its most intense or active point. Used for both physical locations and abstract states.
+
+===word: 真っ向から===
+Meaning: Head-on / Directly
+Nuance_EN: Describes facing someone or something directly and dealing with it straightforwardly, without evasion. Often used in confrontational or decisive contexts.
+
+===word: 真っ平===
+Meaning: Absolutely not / No way
+Nuance_EN: An adverbial expression of strong refusal or dislike. Used in casual speech to firmly reject something, often with a sense of "I really don't want to."
+
+===word: 真っ新===
+Meaning: Brand new
+Nuance_EN: Means completely new, unused, or untouched. Used in a wide range of contexts from daily conversation to written language.
+
+===word: 真っ青===
+Meaning: Deep blue / Pale
+Nuance_EN: Describes a deep blue color (e.g., sky, sea) or a pale, shocked complexion (e.g., from fear or illness). Context determines the meaning.
+
+===word: 真に受ける===
+Meaning: Take literally / Believe naively
+Nuance_EN: An idiomatic expression meaning to take someone's words at face value, especially when they are joking or lying. Commonly used in daily conversation with a cautionary nuance.
+
+===word: 真の===
+Meaning: True / Genuine
+Nuance_EN: Means authentic or real, used before nouns to emphasize genuineness (e.g., "真のマリオ" - the real Mario). Has a somewhat formal, emphatic tone.
+
+===word: 市民===
+Meaning: Citizen
+Nuance_EN: Refers to the general people who make up a nation or society. Used in political or social contexts, with a somewhat formal, Sino-Japanese tone.
+
+===word: 真ん丸===
+Meaning: Perfectly round
+Nuance_EN: Describes something that is completely round in shape, like a full moon or a ball. Carries a cute, friendly, and approachable nuance.
+
+===word: 真ん前===
+Meaning: Right in front
+Nuance_EN: Emphasizes that something is directly in front of or very close to another object or person. Used in daily conversation to indicate extreme proximity.
+
+===word: 真一文字===
+Meaning: Straight line / Tight-lipped
+Nuance_EN: Describes a straight line, especially the mouth pressed tightly together in a serious expression. Often used in "口を真一文字に結ぶ" (to press one's lips into a straight line), showing determination or tension.
+
+===word: 真上===
+Meaning: Directly above
+Nuance_EN: Refers to the position straight above something. Emphasizes vertical alignment and is commonly used in daily conversation for physical locations.
+
+===word: 真似し===
+Meaning: Mimicry / Imitation
+Nuance_EN: A colloquial, slightly informal form of "真似" (imitation), often used in playful or childish contexts like "真似っこ" (copycat). In standard writing, "模倣" or "物真似" is more appropriate.
+
+===word: 真似る===
+Meaning: Imitate / Copy
+Nuance_EN: A verb meaning to copy someone's actions or words. Ranges from learning through imitation to simple mimicry, used broadly in daily life.
+
+===word: 真価===
+Meaning: True worth
+Nuance_EN: Refers to one's real value or ability, often tested in challenging situations. Used in phrases like "真価を発揮する" (to demonstrate true worth) or "真価が問われる" (to be put to the test).
+
+===word: 真偽のほど===
+Meaning: Degree of truth
+Nuance_EN: An expression meaning "whether something is true or not," used when the veracity of information or rumors is uncertain. A euphemistic, indirect way to question credibility.
+
+===word: 真偽不明===
+Meaning: Authenticity unknown
+Nuance_EN: A Sino-Japanese term describing a state where it is unclear whether something is genuine or false. Used in contexts like art appraisal, rumors, or historical documents, often in news or commentary.
+
+===word: 真偽値===
+Meaning: Boolean value
+Nuance_EN: A technical term in programming and logic referring to a data type that takes either true or false values. Essential for controlling conditional branches and loops.
+
+===word: 真剣===
+Meaning: Serious / Earnest
+Nuance_EN: A na-adjective describing a sincere, wholehearted approach to something, without joking or half-heartedness. Used for attitudes, expressions, or efforts.
+
+===word: 真善美===
+Meaning: Truth, goodness, beauty
+Nuance_EN: A philosophical concept summarizing three ultimate values that humanity pursues. Used in art, education, and ethical discussions, representing the highest ideals.
+
+===word: 真四角===
+Meaning: Perfect square
+Nuance_EN: Means a perfect square or something very close to a square shape. A casual alternative to "正方形" (square), often used in daily conversation to describe objects.
+
+===word: 真夏===
+Meaning: Midsummer
+Nuance_EN: Refers to the hottest period of summer, typically from late July to early August. The prefix "真" emphasizes the peak of summer, used in phrases like "真夏の太陽" (midsummer sun).
+
+===word: 真夏のビールはおいしい。===
+Meaning: Midsummer beer is delicious.
+Nuance_EN: A sentence example using "真夏" to describe the peak of summer. The phrase highlights the enjoyment of beer during the hottest season.
+
+===word: 真夜中===
+Meaning: Midnight
+Nuance_EN: Refers to the middle of the night, around midnight. Carries an image of stillness and darkness, commonly used in daily conversation.
+
+===word: 真実===
+Meaning: Truth
+Nuance_EN: Refers to the real, unvarnished fact or essence, often with a subjective or inner dimension rather than just objective fact. Used in philosophical, ethical, and personal contexts.
+
+===word: 真実は一つです。===
+Meaning: There is only one truth.
+Nuance_EN: A sentence example using "真実" to emphasize the singularity of truth. Often used in debates or philosophical statements.
+
+===word: 真心===
+Meaning: Sincerity / Heartfelt
+Nuance_EN: Means pure, genuine feelings without pretense. Represents sincere care or service, often used in "真心を込めて" (with all one's heart) and symbolizes the spirit of Japanese hospitality (omotenashi).
+
+===word: 真性===
+Meaning: Genuine / True
+Nuance_EN: Means truly possessing a certain quality, not fake or imitation. Used in medical diagnoses (e.g., true diabetes) or to emphasize authenticity, with a somewhat formal tone.
+
+===word: 真意===
+Meaning: True intention
+Nuance_EN: Refers to the real intention or feeling behind someone's words, often hidden behind a facade. Used in contexts where one seeks to understand the deeper meaning in communication.
+
+===word: 真打===
+Meaning: Top performer / Headliner
+Nuance_EN: Originally the top-ranked rakugo (comic storytelling) performer, now used metaphorically for the leading figure or final act in any field. Used in a wide range of contexts.
+
+===word: 真摯===
+Meaning: Sincere / Earnest
+Nuance_EN: Describes a sincere, honest attitude toward things, without pretense. Used to evaluate someone's approach in business or academic settings, with a somewhat formal tone.
+
+===word: 真新しい===
+Meaning: Brand new
+Nuance_EN: Means completely new, with no signs of use. Used for new items or recently created things, emphasizing freshness.
+
+===word: 真横===
+Meaning: Directly to the side
+Nuance_EN: Refers to the position immediately to the side of something, opposite of directly in front. Used to describe very close lateral proximity.
+
+===word: 真珠===
+Meaning: Pearl
+Nuance_EN: A gemstone harvested from shellfish, either cultured or natural. Known as an elegant, high-class jewel.
+
+===word: 真珠貝===
+Meaning: Pearl oyster
+Nuance_EN: A general term for shellfish that produce pearls, such as the Akoya pearl oyster. Used in pearl cultivation contexts.
+
+===word: 真理===
+Meaning: Truth / Principle
+Nuance_EN: Refers to universal, unchanging truth or principles. Commonly used in philosophy, religion, and academic fields.
+
+===word: 真相===
+Meaning: Truth / Facts
+Nuance_EN: Refers to the hidden truth or core facts of a matter, especially in investigations of incidents or accidents. Implies uncovering what lies beneath surface information.
+
+===word: 真空===
+Meaning: Vacuum
+Nuance_EN: A physics term for a space completely devoid of matter. Metaphorically, it can describe an empty, isolated state.
+
+===word: 真紅===
+Meaning: Crimson / Deep red
+Nuance_EN: A deep, vivid red color, often associated with passion and intensity. A literary term; "真っ赤" (bright red) is more common in daily speech.
+
+===word: 真贋===
+Meaning: Authenticity / Genuine vs. fake
+Nuance_EN: A term related to distinguishing genuine from fake, especially in art and antiques. Used in phrases like "真贋を見極める" (to determine authenticity), with a specialized, formal nuance.
+
+===word: 真逆===
+Meaning: Complete opposite
+Nuance_EN: A colloquial expression emphasizing that something is entirely opposite. The prefix "真" strengthens the contrast beyond simple "逆" (reverse).
+
+===word: 真鍮===
+Meaning: Brass
+Nuance_EN: An alloy of copper and zinc with a beautiful golden color. Used in decorative items, musical instruments, and faucets, valued for its appearance and workability.
+
+===word: 真顔===
+Meaning: Serious face
+Nuance_EN: Refers to a facial expression without jokes or smiles, showing seriousness. Used when someone suddenly becomes serious after joking.
+
+===word: 真骨頂===
+Meaning: True worth / Real talent
+Nuance_EN: Refers to the point where a person's true value or ability is most fully demonstrated. Used in contexts where pressure brings out one's best performance.
+
+===word: 真髄===
+Meaning: Essence / Core
+Nuance_EN: Refers to the most essential and important part of something, such as a skill, art, or field of study. A formal expression used in writing or speeches rather than daily conversation.
+
+===word: 眠りこける===
+Meaning: Sleep soundly / Be dead asleep
+Nuance_EN: Means to be deeply asleep and unaware of surroundings. The suffix "こける" emphasizes being completely in that state.
+
+===word: 眠りに突く===
+Meaning: Fall asleep
+Nuance_EN: An expression meaning to enter sleep, emphasizing the instantaneous moment of losing consciousness. The verb "突く" (to thrust) highlights the sudden transition.
+
+===word: 眠り薬===
+Meaning: Sleeping pill
+Nuance_EN: Refers to medication used to induce sleep. A general term, typically used under a doctor's prescription.
+
+===word: 眠剤===
+Meaning: Sleep medication
+Nuance_EN: A medical abbreviation for sleep-inducing drugs. "睡眠薬" (sleeping pills) is more common in daily conversation; "眠剤" has a clinical tone.
+
+===word: 眩い===
+Meaning: Dazzling / Glaring
+Nuance_EN: Describes something so bright or beautiful that it is hard to look at directly. Used for light, beauty, or brilliance.
+
+===word: 眩む===
+Meaning: Dazzled / Dizzy
+Nuance_EN: Describes both physical dizziness from strong light or impact and metaphorical blindness from temptation or desire. Commonly used in "目が眩む" (to be dazzled/blinded).
+
+===word: 眷属===
+Meaning: Retainers / Followers
+Nuance_EN: A formal term for dependents, followers, or family members under someone's protection. Used in historical or literary contexts.
+
+===word: 眺め===
+Meaning: View / Scenery
+Nuance_EN: Refers to the overall scene visible from a particular vantage point, similar to "景色" or "景観." It focuses more on the specific view from "here and now," often of open, distant landscapes.
+
+===word: 眺める===
+Meaning: Gaze / Stare
+Nuance_EN: Means to look at something intently or to gaze into the distance absentmindedly. Implies a relaxed, contemplative observation.
+
+===word: 眺め渡す===
+Meaning: Survey / Scan
+Nuance_EN: Means to look over a wide area, taking in the entire scene. Typically used for viewing landscapes from a high place, evoking a leisurely, expansive feeling.
+
+===word: 眺望===
+Meaning: Panoramic view
+Nuance_EN: Refers to a wide, far-reaching view from a high place, like a mountaintop or skyscraper. Used for scenery that offers an expansive vista.
+
+===word: 眼中===
+Meaning: In one's view / Attention
+Nuance_EN: Refers to the range of one's interest or attention. Almost always used in the negative "眼中にない" (not in one's view), meaning to completely ignore or disregard someone, with a strong dismissive nuance.
+
+===word: 眼光===
+Meaning: Glare / Sharp eyes
+Nuance_EN: Refers to the gleam in one's eyes or a piercing gaze, especially one that sees through others. Implies sharpness and intensity.
+
+===word: 眼前===
+Meaning: Before one's eyes
+Nuance_EN: A literary expression meaning right in front of one's eyes, very close. Used in written or formal language to convey vividness or urgency.
+
+===word: 眼力===
+Meaning: Discernment / Insight
+Nuance_EN: Refers to the sharp ability to see through to the essence of things, like judging authenticity or value. A more formal version of "目が利く" (to have a good eye), used in business or art contexts.
+
+===word: 眼差し===
+Meaning: Gaze / Look
+Nuance_EN: A gentle, literary word for a person's gaze or look that conveys emotion, such as "冷たい眼差し" (cold gaze) or "優しい眼差し" (gentle look). More poetic than "目つき" (look).
+
+===word: 眼帯===
+Meaning: Eye patch
+Nuance_EN: A band-like item used to cover one eye for medical or decorative purposes. Known for medical treatment of eye injuries or as a fashion accessory (e.g., pirates).
+
+===word: 眼球===
+Meaning: Eyeball
+Nuance_EN: A medical term for the spherical organ of the eye itself. In daily conversation, "目" or "眼" is more common, but "眼球" is used in medical or metaphorical contexts.
+
+===word: 眼瞼===
+Meaning: Eyelid (medical)
+Nuance_EN: A medical term for the skin folds covering the eye, i.e., the eyelids. Used in clinical or anatomical contexts; "まぶた" is the common everyday term.
+
+===word: 眼福===
+Meaning: Visual delight
+Nuance_EN: Expresses the joy of seeing something beautiful or rare, literally "eyes receiving good fortune." Used for art, scenery, or beautiful people, with a somewhat literary, formal tone. Often seen in phrases like "眼福でした" (it was a feast for the eyes).
+
+===word: 眼窩===
+Meaning: Eye socket
+Nuance_EN: An anatomical term for the bony cavity in the skull that holds the eyeball. A specialized medical term rarely used in daily conversation, known in contexts like "眼窩底骨折" (orbital floor fracture).
+
+===word: 骨===
+Meaning: Bone
+Nuance_EN: Refers to the hard tissue forming the skeleton. Used in both literal (anatomical) and metaphorical (e.g., "骨の髄まで" - to the bone) contexts.
+
+===word: 眼鏡===
+Meaning: Glasses / Spectacles
+Nuance_EN: A basic everyday word for vision-correcting or protective eyewear. Often written in katakana as "メガネ" in modern usage, covering both functional and fashion purposes.
+
+===word: 着々と===
+Meaning: Steadily / Progressively
+Nuance_EN: An adverb describing things progressing reliably and smoothly. Used positively to evaluate steady progress in plans or preparations, like "準備が着々と進んでいる" (preparations are steadily advancing).
+
+===word: 着ぐるみ===
+Meaning: Costume / Mascot suit
+Nuance_EN: A full-body character costume worn at theme parks or events. Typically used for mascots or promotional characters.
+
+===word: 着ける===
+Meaning: Park / Dock
+Nuance_EN: A verb meaning to stop or park a vehicle, especially a car, in a designated spot. Used in contexts like "車を着ける" (to park a car).
+
+===word: 着こなし===
+Meaning: Style / Way of dressing
+Nuance_EN: Refers to how one wears clothes, including their sense of style. The same clothes can give a different impression depending on the wearer's "着こなし."
+
+===word: 表す===
+Meaning: Express / Represent
+Nuance_EN: A verb meaning to show or express something outwardly, such as feelings, thoughts, or characteristics. Also used for data representation in charts.
+
+===word: 着の身着の儘===
+Meaning: With only the clothes on one's back
+Nuance_EN: An idiomatic expression meaning having nothing but the clothes one is wearing, often used in emergencies like fires or disasters. A somewhat literary phrase.
+
+===word: 着任===
+Meaning: Assume a post
+Nuance_EN: Means to arrive at a new post or duty station, especially for a job transfer or assignment. A formal business or government term implying responsibility for a new role.
+
+===word: 着信拒否===
+Meaning: Call blocking / Rejection
+Nuance_EN: Refers to the setting or act of rejecting incoming calls or messages from a specific person. Used for spam prevention or as an expression of relationship conflict.
+
+===word: 着古す===
+Meaning: Wear out (clothes)
+Nuance_EN: Means to wear the same clothes for a long time until they become old or worn. Often carries a warm nuance of affection or attachment, unlike simply "old."
+
+===word: 着地===
+Meaning: Landing
+Nuance_EN: Refers to touching the ground after a jump or fall, or an airplane landing. Metaphorically, it means the final outcome or settling point of a situation.
+
+===word: 着実===
+Meaning: Steady / Reliable
+Nuance_EN: Describes a methodical, step-by-step approach that is reliable and low-risk. Used positively in business or learning contexts to evaluate trustworthy methods.
+
+===word: 着工===
+Meaning: Start construction
+Nuance_EN: Means to officially begin construction or building work. Often preceded by safety rituals at construction sites.
+
+===word: 着席===
+Meaning: Take a seat
+Nuance_EN: A somewhat formal word for sitting down. Used in schools, meetings, or ceremonies (e.g., "着席してください" - please take your seat). "座る" is more common in daily conversation.
+
+===word: 着床===
+Meaning: Implantation
+Nuance_EN: A medical term for the process where a fertilized egg attaches to the uterine lining, establishing pregnancy. Used in fertility and pregnancy contexts, rarely in daily conversation.
+
+===word: 着弾===
+Meaning: Impact / Hit
+Nuance_EN: A military term for a bullet, shell, or missile reaching and hitting its target. Focuses on the result of impact, used in ballistic or weaponry contexts.
+
+===word: 着想===
+Meaning: Idea / Conception
+Nuance_EN: Refers to obtaining a new idea or creative inspiration, especially as the starting point for art, invention, or business. Implies the initial spark of creativity.
+
+===word: 着手===
+Meaning: Start / Commence
+Nuance_EN: A somewhat formal expression meaning to begin a new task or project. Used in business or project contexts with a formal tone.
+
+===word: 着払い===
+Meaning: Cash on delivery
+Nuance_EN: A payment method where the recipient pays for shipping costs, common in parcel delivery services.
+
+===word: 着替える===
+Meaning: Change clothes
+Nuance_EN: A verb meaning to change from one set of clothes to another. Frequently used in daily life.
+
+===word: 着服===
+Meaning: Embezzle / Misappropriate
+Nuance_EN: Refers to the illegal act of taking someone else's money or property for oneself, especially in corporate contexts. A legal term for embezzlement.
+
+===word: 着潰す===
+Meaning: Wear out (by frequent use)
+Nuance_EN: Means to wear clothes so frequently that they become frayed or lose shape. Implies long-term use with affection, rather than wastefulness.
+
+===word: 着火===
+Meaning: Ignition
+Nuance_EN: Refers to lighting a fire or starting combustion. Used in contexts like lighting a stove or lighter.
+
+===word: 着物===
+Meaning: Kimono
+Nuance_EN: Japan's traditional garment, ranging from formal to casual styles. A cultural term with deep historical significance.
+
+===word: 破る===
+Meaning: Tear / Break
+Nuance_EN: A verb meaning to tear, break, or violate something, such as fabric, rules, or records. Used in both physical and abstract contexts.
+
+===word: 着用する===
+Meaning: Wear (formal)
+Nuance_EN: A somewhat formal verb meaning to wear clothes, accessories, or watches. Often used in contexts like school uniforms or company regulations.
+
+===word: 着目===
+Meaning: Focus / Pay attention
+Nuance_EN: Means to focus on a particular point or aspect of something. Used in research or analysis contexts, with a formal tone.
+
+===word: 着脱===
+Meaning: Attachment and removal
+Nuance_EN: A noun referring to putting on and taking off clothes or parts, mainly used in product manuals or instructions. Similar to "取り付け・取り外し" with a technical feel.
+
+===word: 着脱可能===
+Meaning: Removable / Detachable
+Nuance_EN: Means something can be attached and detached easily, used for machine parts or accessories that are interchangeable.
+
+===word: 着色===
+Meaning: Coloring
+Nuance_EN: Refers to adding color, especially artificially, to paintings, crafts, or food. Used in phrases like "着色料" (coloring agent) or "着色する" (to color).
+
+===word: 着衣===
+Meaning: Clothing (formal)
+Nuance_EN: A formal term for the clothes one is wearing. In daily conversation, "服" or "衣類" is more common, but "着衣" appears in formal contexts or idioms like "着衣のまま" (as is, with clothes on).
+
+===word: 着陸===
+Meaning: Landing (aircraft)
+Nuance_EN: Refers to an airplane or helicopter descending from the air to the ground. A critical stage of safe arrival.
+
+===word: 着順===
+Meaning: Order of arrival
+Nuance_EN: A noun meaning the order in which people or things arrive. Used in competitions or events to determine rankings.
+
+===word: 着飾る===
+Meaning: Dress up / Deck out
+Nuance_EN: Means to wear fancy clothes to improve one's appearance, often to stand out. Can be used both positively (elegant) and negatively (showy).
+
+===word: 睡眠時無呼吸症候群===
+Meaning: Sleep apnea syndrome
+Nuance_EN: A medical term for a condition where breathing repeatedly stops during sleep. Used in health checkups or lifestyle discussions.
+
+===word: 睡魔===
+Meaning: Sleepiness / Drowsiness
+Nuance_EN: A personification of the urge to sleep, referring to strong drowsiness that attacks when one should stay awake, like during work or class.
+
+===word: 督促===
+Meaning: Reminder / Demand
+Nuance_EN: A noun/verb meaning to urge someone to fulfill an obligation or promise, especially for payments (e.g., "督促状" - demand letter). A formal business term, while "催促" is more casual.
+
+===word: 督戦===
+Meaning: Urge into battle
+Nuance_EN: A military term for commanders urging frontline troops to fight harder. Used in historical or war literature, often in compounds like "督戦隊" (supervisory squad).
+
+===word: 睥睨===
+Meaning: Look down upon / Domineer
+Nuance_EN: Means to look down over something from a high place, or to intimidate others with authority or power. A formal, Sino-Japanese expression used in writing.
+
+===word: 睦み合う===
+Meaning: Get along harmoniously
+Nuance_EN: Refers to being close and friendly with each other, spending time peacefully. Used for couples, families, or close relationships, conveying warmth and affection.
+
+===word: 睦む===
+Meaning: Be intimate / Harmonize
+Nuance_EN: Means to be close and friendly together, especially in family or romantic relationships. Has an old-fashioned, literary feel; "仲良くする" is more common in modern speech.
+
+===word: 睨む===
+Meaning: Glare / Stare
+Nuance_EN: Means to stare at someone with anger or suspicion, intimidating them. Also used metaphorically in "犯人だと睨む" (to suspect someone as the culprit).
+
+===word: 睨めっこ===
+Meaning: Staring contest
+Nuance_EN: A game where two people stare at each other, and the first to laugh loses. Metaphorically, it can mean a tense standoff or confrontation.
+
+===word: 睨める===
+Meaning: Glare (variant)
+Nuance_EN: A variant of "睨む" (to glare), with a slightly archaic or dialectal feel. Implies hostility or wariness.
+
+===word: 睫毛===
+Meaning: Eyelash
+Nuance_EN: Refers to the hair growing on the edge of the eyelids, protecting the eyes. Important in beauty contexts, where long, thick lashes are considered attractive.
+
+===word: 睾丸===
+Meaning: Testicle
+Nuance_EN: A medical term for the male reproductive organ. Used in anatomical or medical contexts.
+
+===word: 瞑想===
+Meaning: Meditation
+Nuance_EN: Refers to a mental practice of calming the mind or focusing on a specific object, associated with yoga or Buddhist training. Also used as a modern stress-relief method.
+
+===word: 瞬き（を）する===
+Meaning: Blink
+Nuance_EN: The action of quickly closing and opening the eyelids, a physiological reflex to protect the eyes. Metaphorically, it can mean "an instant" (e.g., "瞬きの間に" - in the blink of an eye).
+
+===word: 瞬く===
+Meaning: Blink / Twinkle
+Nuance_EN: A verb meaning to blink or flicker (like stars). The noun "瞬き" is more common, but "瞬く" is used in literary contexts or in "瞬く間に" (in an instant).
+
+===word: 瞬く間に===
+Meaning: In the blink of an eye
+Nuance_EN: An adverbial phrase meaning something happens or changes in the brief time it takes to blink. Similar to "あっという間に" but with a slightly more literary tone.
+
+===word: 瞬ぐ===
+Meaning: Blink (literary)
+Nuance_EN: A literary verb meaning to blink or flutter one's eyes. Usually "まばたきする" is more common; "瞬ぐ" appears in poetry or literature. The negative form "まじろぎもせず" (without blinking) expresses intense focus.
+
+===word: 瞬時===
+Meaning: Instant / Moment
+Nuance_EN: A noun meaning an extremely short time, a split second. Also used adverbially as "瞬時に" (instantly) to mean immediately.
+
+===word: 瞬殺===
+Meaning: Instant kill
+Nuance_EN: A colloquial term meaning to defeat an opponent in an instant, or to finish something immediately. Used in games, anime, or metaphorically (e.g., products selling out instantly). Casual and exaggerated.
+
+===word: 瞬発===
+Meaning: Instantaneous burst
+Nuance_EN: Refers to exerting explosive power in an instant or something happening suddenly. Commonly used in "瞬発力" (explosive power/reflexes).
+
+===word: 瞬発力===
+Meaning: Explosive power / Reflexes
+Nuance_EN: Refers to the ability to exert maximum power in an instant, such as quick starts in sports or immediate decision-making in business.
+
+===word: 瞬間===
+Meaning: Moment / Instant
+Nuance_EN: Refers to an extremely short period of time, almost an instant. Emphasizes the exact moment when something happens, rather than a precise time unit.
+
+===word: 瞬間的===
+Meaning: Instantaneous
+Nuance_EN: A na-adjective describing something that happens in a very short time. Often used adverbially as "瞬間的に" (instantly) for sudden events or reactions.
+
+===word: 瞳===
+Meaning: Pupil / Eye
+Nuance_EN: Refers to the dark center of the eye, including the iris and pupil. A poetic, literary term often used to express emotions or gaze, softer and more beautiful than the medical "瞳孔" (pupil).
+
+===word: 瞳孔===
+Meaning: Pupil (medical)
+Nuance_EN: The black circular part in the center of the iris that regulates light entry. Known to dilate with excitement or surprise, used in medical contexts.
+
+===word: 瞼===
+Meaning: Eyelid
+Nuance_EN: Refers to the skin covering the eye. A common body part term used in daily conversation.
+
+===word: 矍鑠===
+Meaning: Vigorous (in old age)
+Nuance_EN: A Sino-Japanese expression describing an elderly person who is full of energy and vitality. Almost exclusively used in the form "矍鑠としている" (to be vigorous), it is a high compliment in formal writing or speeches.
+
+===word: 矛先===
+Meaning: Spearhead / Target
+Nuance_EN: Literally the tip of a spear, but now mainly metaphorical for the target of attack or criticism (e.g., "批判の矛先を向ける" - to direct criticism at someone). A vivid expression used in business or relationship conflict descriptions.
+
+===word: 矛盾===
+Meaning: Contradiction
+Nuance_EN: Refers to a state where things are inconsistent or don't make logical sense. Used when statements conflict or actions don't match words, in phrases like "矛盾する" (to contradict).
+
+===word: 矜持===
+Meaning: Pride / Dignity
+Nuance_EN: A formal Sino-Japanese term for unwavering pride and confidence in one's work or beliefs. Used in phrases like "職人としての矜持" (pride as a craftsman), with a lofty, literary tone.
+
+===word: 矢先に===
+Meaning: Just as / At the moment
+Nuance_EN: An adverbial expression meaning "just as one is about to do something," often when an unexpected event interrupts. Used in phrases like "出かけようとした矢先に" (just as I was about to leave).
+
+===word: 矢印===
+Meaning: Arrow (symbol)
+Nuance_EN: A symbol indicating direction, like → or ←. Used in signs, diagrams, and computer screens, distinct from the arrow used in archery.
+
+===word: 矢筒===
+Meaning: Quiver
+Nuance_EN: A cylindrical container for carrying arrows, used in kyudo (Japanese archery) or archery. A historical weapon accessory, rarely used in daily conversation.
+
+===word: 矢継ぎ早===
+Meaning: Rapid-fire / One after another
+Nuance_EN: Describes doing things in quick succession without pause, especially in questioning or giving instructions. Implies a relentless pace.
+
+===word: 知ったかぶり===
+Meaning: Know-it-all / Pretending to know
+Nuance_EN: Refers to pretending to know something when one actually doesn't. Used with a negative connotation, often to criticize someone's bluffing.
+
+===word: 知らず知らず===
+Meaning: Unconsciously / Unknowingly
+Nuance_EN: An adverb describing something happening naturally without one's awareness. Implies a gradual, unnoticed process.
+
+===word: 疲れ===
+Meaning: Fatigue / Tiredness
+Nuance_EN: Refers to physical or mental exhaustion. Used in daily conversation to describe accumulated tiredness.
+
+===word: 知らん顔===
+Meaning: Pretend not to know
+Nuance_EN: A casual form of "知らぬ顔" (to pretend ignorance), meaning to act as if one doesn't know or care about something. Often carries a critical nuance of feigned indifference.
+
+===word: 倒れる===
+Meaning: Fall / Collapse
+Nuance_EN: A verb meaning to fall down or collapse, used for people (fainting) or things (buildings). Also used metaphorically for business failure.
+
+===word: 知り合う===
+Meaning: Get to know / Meet
+Nuance_EN: A verb meaning to meet someone for the first time and become acquainted. Used for starting relationships like friends, lovers, or business contacts.
+
+===word: 知れ渡る===
+Meaning: Become widely known
+Nuance_EN: Means that information or facts become known to many people, spreading naturally rather than intentionally. Used for rumors, reputation, or fame.
+
+===word: 知事===
+Meaning: Governor (prefectural)
+Nuance_EN: Refers to the head of a prefecture's administration, elected by residents. A key political figure, frequently appearing in news.
+
+===word: 知人===
+Meaning: Acquaintance
+Nuance_EN: Refers to someone you know but are not close friends with, ranging from a nodding acquaintance to someone met a few times. A useful word in both business and daily life.
+
+===word: 知名度===
+Meaning: Name recognition / Fame
+Nuance_EN: An indicator of how widely known a person, product, or company is. Important in marketing and advertising, often measured through surveys.
+
+===word: 知将===
+Meaning: Wise commander
+Nuance_EN: A term for a military commander or leader known for wisdom and strategy rather than brute force. Used in historical contexts or metaphorically for modern leaders.
+
+===word: 知己===
+Meaning: Close friend / Confidant
+Nuance_EN: A somewhat literary term for a close friend who understands you well. Implies a deeper relationship than a mere acquaintance.
+
+===word: 知性===
+Meaning: Intelligence / Intellect
+Nuance_EN: Refers to the ability to think logically, judge, and understand things. A foundational concept for intellectual activity, distinct from knowledge or education, used in academic to daily contexts.
+
+===word: 知恵===
+Meaning: Wisdom / Knowledge
+Nuance_EN: Refers to the ability to judge correctly and handle things appropriately, gained through experience and learning. Implies practical, applied knowledge.
+
+===word: 知恵の輪===
+Meaning: Puzzle ring / Brain teaser
+Nuance_EN: A puzzle toy made of interlocking metal rings, requiring ingenuity to separate them. Used for mental exercise or passing time.

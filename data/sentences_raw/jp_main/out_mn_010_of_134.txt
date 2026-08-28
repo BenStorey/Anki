@@ -1,0 +1,799 @@
+===word: 思い知る===
+Meaning: Learn from experience
+Nuance_EN: To deeply understand through personal experience, often used in the passive form 思い知らされる when learning through painful experiences.
+
+===word: 羽===
+Meaning: Feather / Wing
+Nuance_EN: Refers to a bird's flight organs and covering feathers; also used as a counter for birds (一羽, 二羽). Usually read as はね.
+
+===word: それとなく===
+Meaning: Indirectly / Subtly
+Nuance_EN: Adverb meaning to do something indirectly or subtly without being obvious, typical of Japanese harmonious communication where direct expression is avoided.
+
+===word: 対===
+Meaning: Versus / Against
+Nuance_EN: Particle-like noun indicating opposition or comparison, used in "A対B" for matchups or ratios; also as a prefix in compounds like 対称.
+
+===word: 大成===
+Meaning: Great achievement / Success
+Nuance_EN: Refers to accomplishing a great undertaking after effort; formal, used in career and personal evaluation contexts with a sense of admiration.
+
+===word: いかにも===
+Meaning: Indeed / Truly
+Nuance_EN: Adverb strongly affirming or emphasizing typicality; used with らしい or そうだ; somewhat formal, common in both business and daily conversation.
+
+===word: 問題===
+Meaning: Problem / Issue
+Nuance_EN: The character 題 refers to a topic or title, forming compounds like 問題, 話題, 題名; 問題 itself is a versatile noun for a problem or question.
+
+===word: さぞ===
+Meaning: Surely / Must be
+Nuance_EN: Adverb expressing supposition based on imagining someone's situation, often with empathy or sympathy.
+
+===word: 内包===
+Meaning: Inclusion / Containment
+Nuance_EN: Formal term meaning something contained within; used in academic fields like philosophy and logic; 含む is more common in daily conversation.
+
+===word: めでたい===
+Meaning: Joyful / Auspicious
+Nuance_EN: Adjective expressing celebration for happy events like marriage, birth, passing exams; also used sarcastically for overly optimistic people.
+
+===word: 傷===
+Meaning: Wound / Injury
+Nuance_EN: Damage or crack on skin or surface; also used metaphorically for emotional trauma (心の傷).
+
+===word: 不正===
+Meaning: Fraud / Injustice
+Nuance_EN: Refers to illegal or unethical acts like fraud, embezzlement; somewhat formal, used in business and administrative contexts.
+
+===word: 主観的===
+Meaning: Subjective
+Nuance_EN: Judgment based on personal feelings or opinions; opposite of 客観的, implying lack of fairness.
+
+===word: 日保ち===
+Meaning: Shelf life / Freshness duration
+Nuance_EN: Refers to how long food maintains quality; everyday word for preservation period.
+
+===word: 収束===
+Meaning: Convergence / Resolution
+Nuance_EN: Means things coming together or problems settling; used in math (convergence) and social issues (resolution); positive nuance.
+
+===word: 売名行為===
+Meaning: Self-promotion / Fame-seeking
+Nuance_EN: Actions done to gain fame, often criticizing seemingly good deeds as self-serving; strongly negative.
+
+===word: 習性===
+Meaning: Habit / Trait
+Nuance_EN: Innate behavioral tendencies or habitual patterns in animals and humans.
+
+===word: 打撃===
+Meaning: Blow / Strike
+Nuance_EN: A damaging impact, often used metaphorically for a setback or heavy loss.
+
+===word: 話===
+Meaning: Story / Talk
+Nuance_EN: Refers to a story or topic of conversation; commonly used.
+
+===word: 期待===
+Meaning: Expectation / Hope
+Nuance_EN: Feeling of looking forward to a desired outcome; includes positive anticipation.
+
+===word: 想定===
+Meaning: Assumption / Presumption
+Nuance_EN: To anticipate or assume possible future situations; frequently used in business and academic contexts.
+
+===word: 学説===
+Meaning: Theory / Doctrine
+Nuance_EN: A theory or idea proposed in an academic field; specialized term used in scientific research and scholarly discussion.
+
+===word: 端===
+Meaning: Edge / End
+Nuance_EN: Noun referring to the beginning, end, or periphery of something; used for physical objects and abstract things like 話の端.
+
+===word: 規範===
+Meaning: Norm / Standard
+Nuance_EN: A criterion or model for behavior and judgment; refers to social rules, morals, laws; used in compounds like 行動規範.
+
+===word: 対===
+Meaning: Versus / Against
+Nuance_EN: Particle-like noun indicating opposition or comparison, used in "A対B" for matchups or ratios; also as a prefix in compounds like 対称.
+
+===word: 籠===
+Meaning: Basket / Cage
+Nuance_EN: Container woven from bamboo, rattan, or wire; used for shopping baskets, birdcages, etc.
+
+===word: 間接的===
+Meaning: Indirect
+Nuance_EN: Done through an intermediary, not directly; often used in the form 間接的.
+
+===word: 蔓===
+Meaning: Vine / Tendril
+Nuance_EN: The climbing stem of plants; metaphorically used for spreading networks; also used for eyeglass temples.
+
+===word: それほど===
+Meaning: That much / So
+Nuance_EN: Adverb emphasizing degree; synonymous with とても/そんなに; often used in negative form それほど〜ない.
+
+===word: 驚く===
+Meaning: To be surprised
+Nuance_EN: To be astonished; the given nuance describes a conjunctive particle, but the word itself means to be surprised.
+
+===word: 吐息===
+Meaning: Sigh / Breath
+Nuance_EN: Deep exhalation expressing emotions like relief, fatigue, disappointment.
+
+===word: 硬化===
+Meaning: Hardening / Stiffening
+Nuance_EN: Becoming hard; also used metaphorically for attitudes or opinions becoming inflexible.
+
+===word: 一日===
+Meaning: First day of the month
+Nuance_EN: The first day of the month; read as ついたち; used in calendars and schedules.
+
+===word: そわそわ===
+Meaning: Restlessly / Fidgety
+Nuance_EN: Onomatopoeia for being restless and distracted due to tension, anticipation, or worry.
+
+===word: そわそわ===
+Meaning: Restlessly / Fidgety
+Nuance_EN: Onomatopoeia for being restless and distracted due to tension, anticipation, or worry.
+
+===word: かえって===
+Meaning: On the contrary / Rather
+Nuance_EN: Adverb indicating that an action produces an opposite result than expected; used in comparative contexts.
+
+===word: 無恥===
+Meaning: Shameless
+Nuance_EN: Hard expression meaning lacking sense of shame; strong criticism for morally problematic behavior.
+
+===word: ぞんざい===
+Meaning: Careless / Rough
+Nuance_EN: Na-adjective describing sloppy treatment or rude attitude; negative evaluation.
+
+===word: たっぷり===
+Meaning: Plenty / Ample
+Nuance_EN: Adverb/adjectival noun indicating sufficient quantity or time; positive nuance of having enough leeway.
+
+===word: 切れ===
+Meaning: Sharpness / Edge
+Nuance_EN: Noun referring to the sharpness of a blade; metaphorically used for mental sharpness.
+
+===word: 虫歯===
+Meaning: Cavity / Tooth decay
+Nuance_EN: Dental caries; the given nuance describes a conjunctive particle, but the word itself means tooth decay.
+
+===word: 行===
+Meaning: Line (of text)
+Nuance_EN: A continuous string of characters in a text; in vertical writing, horizontal rows; in horizontal writing, vertical columns.
+
+===word: 多額===
+Meaning: Large amount (of money)
+Nuance_EN: Formal expression for a very large sum; used in official documents and news.
+
+===word: 子供じみた===
+Meaning: Childish / Immature
+Nuance_EN: Adjective critically evaluating adult behavior as幼稚 and immature; stronger negative connotation than 子供っぽい; used for blame or contempt.
+
+===word: 恥知らず===
+Meaning: Shameless
+Nuance_EN: Refers to a person who acts without regard for shame or public opinion; strong condemnation.
+
+===word: 業者===
+Meaning: Business / Contractor
+Nuance_EN: Refers to a company or individual engaged in a specific business; commonly used in business contexts.
+
+===word: 汚らわしい===
+Meaning: Disgusting / Filthy
+Nuance_EN: Morally repulsive or unclean; used more for ethical/mental discomfort than physical dirt; strong disgust.
+
+===word: 甘口===
+Meaning: Sweet (taste)
+Nuance_EN: Refers to strong sweetness in sake, curry, sauce; also metaphorically for sweet words.
+
+===word: いかにも===
+Meaning: Indeed / Truly
+Nuance_EN: Adverb strongly affirming or emphasizing typicality; used with らしい or そうだ; somewhat formal.
+
+===word: 箆棒===
+Meaning: Outrageous / Extreme
+Nuance_EN: Colloquial adjectival noun meaning extremely severe or absurd; used since Edo period.
+
+===word: 軽はずみ===
+Meaning: Thoughtless / Rash
+Nuance_EN: Refers to acting without careful thought; used critically for impulsive behavior often followed by regret.
+
+===word: 陰気===
+Meaning: Gloomy / Morose
+Nuance_EN: Describes dark, cheerless atmosphere or personality; also used for weather or places.
+
+===word: ぞっこん===
+Meaning: Head over heels / Madly in love
+Nuance_EN: State of being completely captivated; used in ぞっこん惚れる for strong romantic feelings; cute and slightly lighthearted.
+
+===word: ぞろぞろ===
+Meaning: In a long line / In droves
+Nuance_EN: Onomatopoeia for a large group moving slowly in a line; used for people, children, animals.
+
+===word: ぞわり===
+Meaning: Creepy / Shudder
+Nuance_EN: Adverb/mimetic word for goosebumps from fear or cold; often used with とする for unpleasant sensations.
+
+===word: ぞんざい===
+Meaning: Careless / Rough
+Nuance_EN: Na-adjective describing sloppy treatment or rude attitude; negative evaluation.
+
+===word: たいてい===
+Meaning: Usually / Mostly
+Nuance_EN: Adverb indicating majority or high frequency; basic word used in daily conversation.
+
+===word: 喫煙===
+Meaning: Smoking
+Nuance_EN: The act of smoking tobacco; subject to regulation due to health and passive smoking issues.
+
+===word: 深刻===
+Meaning: Serious / Grave
+Nuance_EN: Adverb (with に) meaning to take something as serious; emphasizes the gravity of a situation.
+
+===word: たかり===
+Meaning: Extortion / Shakedown
+Nuance_EN: Slang for forcibly taking money or goods through threats; used for gang behavior; strongly negative.
+
+===word: 切れ===
+Meaning: Sharpness / Edge
+Nuance_EN: Noun referring to the sharpness of a blade; metaphorically used for mental sharpness.
+
+===word: たじたじ===
+Meaning: Overwhelmed / Backing down
+Nuance_EN: Onomatopoeia for being overwhelmed and retreating; used when receiving strong criticism or pressure.
+
+===word: たじろぐ===
+Meaning: To flinch / To recoil
+Nuance_EN: To involuntarily step back or freeze due to surprise or fear; to be momentarily daunted.
+
+===word: たたく===
+Meaning: To hit / To tap
+Nuance_EN: Verb for repeatedly striking something; also used metaphorically like 心を打つ (to move someone's heart).
+
+===word: 成績===
+Meaning: Grade / Performance
+Nuance_EN: Evaluation of results in study or work; used for test scores and achievements.
+
+===word: 照会===
+Meaning: Inquiry / Reference
+Nuance_EN: Somewhat formal expression for seeking information; used in business and administrative documents.
+
+===word: ただでさえ===
+Meaning: Even without that / Already
+Nuance_EN: Adverb indicating a situation is already bad, and additional negative conditions make it worse; used in causal contexts.
+
+===word: ただで済む===
+Meaning: To get off scot-free
+Nuance_EN: To avoid punishment or代价; to escape without loss.
+
+===word: ただならぬ===
+Meaning: Unusual / Abnormal
+Nuance_EN: Meaning 'not ordinary'; emphasizes deviation from normal, often in tense or negative situations.
+
+===word: たちが悪い===
+Meaning: Nasty / Malicious
+Nuance_EN: Colloquial expression for undesirable nature; used for stubborn illnesses, bad personalities, troublesome situations.
+
+===word: たちまち===
+Meaning: Instantly / In no time
+Nuance_EN: Adverb for something happening in a very short time; similar to あっという間に; somewhat literary.
+
+===word: 情け===
+Meaning: Compassion / Mercy
+Nuance_EN: Gentle feeling of empathy and desire to help; known in proverb 情けは人の為ならず.
+
+===word: たっぷり===
+Meaning: Plenty / Ample
+Nuance_EN: Adverb/adjectival noun indicating sufficient quantity or time; positive nuance of having enough leeway.
+
+===word: たとえ〜でも===
+Meaning: Even if
+Nuance_EN: Concessive conditional; same as もし〜でも; used to show that something holds regardless of condition.
+
+===word: 大富豪===
+Meaning: Billionaire / Tycoon
+Nuance_EN: Noun for a person with immense wealth; stronger than 金持ち.
+
+===word: 兄弟===
+Meaning: Siblings / Brothers
+Nuance_EN: Read as きょうだい; refers to children of the same parents; includes brothers and can extend to sisters.
+
+===word: 難し===
+Meaning: Difficult (archaic)
+Nuance_EN: Archaic form of 難しい; seen in classical literature; root of modern むずかしい.
+
+===word: たどたどしい===
+Meaning: Clumsy / Awkward
+Nuance_EN: Adjective describing awkward, unsteady movements or speech.
+
+===word: たどり着く===
+Meaning: To finally reach / To arrive after struggle
+Nuance_EN: To reach a destination or goal after difficulties and effort.
+
+===word: たまげる===
+Meaning: To be astonished / Flabbergasted
+Nuance_EN: Colloquial verb for being greatly surprised.
+
+===word: たまたま===
+Meaning: By chance / Coincidentally
+Nuance_EN: Casual adverb for unexpected events; softer and more everyday than 偶然.
+
+===word: たまに===
+Meaning: Occasionally / Sometimes
+Nuance_EN: Adverb for low frequency; very common in daily conversation.
+
+===word: たまに===
+Meaning: Occasionally / Sometimes
+Nuance_EN: Adverb for low frequency; very common in daily conversation.
+
+===word: 鬱憤===
+Meaning: Pent-up frustration / Resentment
+Nuance_EN: Long-held dissatisfaction and anger that builds up from suppressed feelings; often used with 晴らす or 溜まる.
+
+===word: たまりかねる===
+Meaning: Cannot bear / Unbearable
+Nuance_EN: Archaic expression for reaching the limit of endurance.
+
+===word: たまり場===
+Meaning: Hangout / Gathering place
+Nuance_EN: A place where people naturally gather to spend time; a hub for friends or community.
+
+===word: ためらう===
+Meaning: To hesitate / To waver
+Nuance_EN: To be indecisive or reluctant due to anxiety or fear; also used as ためらわずに.
+
+===word: ため息===
+Meaning: Sigh
+Nuance_EN: Deep exhalation expressing disappointment, fatigue, or resignation; considered impolite.
+
+===word: ため息を付く===
+Meaning: To sigh
+Nuance_EN: To exhale deeply expressing tiredness, disappointment, or relief.
+
+===word: たゆまぬ===
+Meaning: Untiring / Unremitting
+Nuance_EN: Adjective meaning without slackening; used in wide contexts from daily to written.
+
+===word: たらしめる===
+Meaning: To cause to be / To make
+Nuance_EN: Literary causative form; to bring about a state.
+
+===word: たんと===
+Meaning: Plenty / Lots (archaic/dialect)
+Nuance_EN: Archaic or dialectal adverb meaning 'a lot'; used in period dramas and Kansai dialect; warm and rustic.
+
+===word: たんまり===
+Meaning: Plenty / Heaps (colloquial)
+Nuance_EN: Adverb meaning a large amount, especially of money or profit; casual speech.
+
+===word: たん瘤===
+Meaning: Lump / Bump
+Nuance_EN: A round swelling on the body surface from injury or illness; commonly called こぶ.
+
+===word: 凋落===
+Meaning: Decline / Fall
+Nuance_EN: Somewhat literary expression for the decline of something once prosperous; especially loss of power or fame.
+
+===word: だだっ広い===
+Meaning: Too spacious / Vast and empty
+Nuance_EN: Describes an uncomfortably large space; implies dissatisfaction or unease.
+
+===word: だぶだぶ===
+Meaning: Baggy / Loose
+Nuance_EN: Onomatopoeia for clothes too large with excess fabric; also for liquid sloshing.
+
+===word: だらける===
+Meaning: To slack off / To become lazy
+Nuance_EN: Verb for becoming loose and undisciplined; often due to heat or after holidays.
+
+===word: だらしない===
+Meaning: Sloppy / Untidy
+Nuance_EN: Describes disheveled appearance or lax attitude; also for unkempt lifestyle.
+
+===word: だらだら===
+Meaning: Dripping / Dragging on
+Nuance_EN: Mimetic word for liquid dripping or things dragging on tediously; negative connotation.
+
+===word: だらり===
+Meaning: Limp / Drooping
+Nuance_EN: Describes limbs or objects hanging loosely; can imply laziness or relaxation.
+
+===word: だるい===
+Meaning: Lethargic / Heavy
+Nuance_EN: Colloquial adjective for feeling heavy and unmotivated; used for illness or fatigue.
+
+===word: 不満===
+Meaning: Dissatisfaction / Complaint
+Nuance_EN: Feeling of discontent with current situation or others' actions; very common emotion.
+
+===word: 暗い===
+Meaning: Dark
+Nuance_EN: Adjective for lack of light; the given nuance describes a conjunctive particle, but the word itself means dark.
+
+===word: ちかん===
+Meaning: Molester / Groper
+Nuance_EN: Person who commits sexual harassment in public transport; refers to the act or person.
+
+===word: ちぎる===
+Meaning: To tear / To shred
+Nuance_EN: To pull apart with hands; also metaphorically in 約束をちぎる (to make a firm promise).
+
+===word: ちぎれる===
+Meaning: To be torn off / To come apart
+Nuance_EN: Intransitive verb for something separating under tension; counterpart of ちぎる.
+
+===word: ちっこい===
+Meaning: Tiny / Little (colloquial)
+Nuance_EN: Colloquial adjective for small; cute but can be derogatory when used for body or achievements.
+
+===word: ちっとも===
+Meaning: Not at all
+Nuance_EN: Adverb used with negative to mean 'not a bit'.
+
+===word: ちっぱい===
+Meaning: Small breasts (slang)
+Nuance_EN: Vulgar slang combining ちっちゃい and おっぱい; very casual and potentially offensive.
+
+===word: ちっぽけ===
+Meaning: Tiny / Insignificant
+Nuance_EN: Adjectival noun for very small and unimportant; used for physical size or value; can be self-deprecating.
+
+===word: ちと===
+Meaning: A little (colloquial/dialect)
+Nuance_EN: Casual variant of ちょっと; used in Kansai dialect and informal speech.
+
+===word: ちびる===
+Meaning: To leak urine / To pee a little
+Nuance_EN: Casual verb for involuntary urine leakage; used for children or embarrassing situations.
+
+===word: ちまちま===
+Meaning: In small amounts / Tightly
+Nuance_EN: Onomatopoeia for doing things in small, detailed steps; also for cramped spaces.
+
+===word: ちゃっかり===
+Meaning: Shrewdly / Opportunistically
+Nuance_EN: Adverb/adjectival noun for being clever in securing one's own benefit; not malicious but savvy.
+
+===word: ちゃらんぽらん===
+Meaning: Irresponsible / Sloppy
+Nuance_EN: Adjectival noun for lacking responsibility and treating things carelessly; critical colloquial term.
+
+===word: ちゃり===
+Meaning: Bicycle (slang)
+Nuance_EN: Slang for bicycle, from the sound of a bell.
+
+===word: ちょくちょく===
+Meaning: Every now and then
+Nuance_EN: Adverb for something happening at intervals; more colloquial than 時々.
+
+===word: ちょこちょこ===
+Meaning: Fidgety / In small quick steps
+Nuance_EN: Mimetic word for quick, small movements or restless behavior; used for small animals or children.
+
+===word: ちょこまか===
+Meaning: Bustling / Nimbly
+Nuance_EN: Onomatopoeia for repeating small quick actions; can imply restlessness or endearing agility.
+
+===word: ちょこん===
+Meaning: Perched / Sitting cutely
+Nuance_EN: Mimetic word for something small sitting neatly and adorably.
+
+===word: ちょっかい===
+Meaning: Meddling / Interference
+Nuance_EN: Casual noun for unnecessary interference or teasing; used in ちょっかいを出す.
+
+===word: ちょっかいを出す===
+Meaning: To meddle / To hit on
+Nuance_EN: To interfere unnecessarily or tease; also to lightly approach someone romantically.
+
+===word: 怪我===
+Meaning: Injury / Wound
+Nuance_EN: Everyday word for physical injury; includes cuts, bruises, fractures.
+
+===word: 小便===
+Meaning: Urine / Pee
+Nuance_EN: Direct everyday word for urine; coarser than おしっこ; not used in formal settings.
+
+===word: 古===
+Meaning: Ancient times
+Nuance_EN: Refers to olden days; used in literary or compound expressions.
+
+===word: 済む===
+Meaning: To end / To be settled
+Nuance_EN: Intransitive verb for something finishing or being resolved; also used in apology 済みません.
+
+===word: ちょっぴり===
+Meaning: A tiny bit
+Nuance_EN: Adverb for a very small amount; cute and slightly childish tone.
+
+===word: ちょろい===
+Meaning: Easy / Simple (slang)
+Nuance_EN: Slang for something easy or trivial.
+
+===word: ちょろまかす===
+Meaning: To pilfer / To swindle
+Nuance_EN: Colloquial verb for secretly stealing or cheating in a sly way; petty crime.
+
+===word: ちらちら===
+Meaning: Flickering / Glancing
+Nuance_EN: Onomatopoeia for weak flickering light or intermittent peeking; also for light snowfall.
+
+===word: ちらっと===
+Meaning: Briefly / Glimpse
+Nuance_EN: Onomatopoeia for a quick glance or fleeting sensation; casual.
+
+===word: ちらつく===
+Meaning: To flicker / To waver
+Nuance_EN: Verb for light or image flickering unsteadily; used for screen or lighting issues.
+
+===word: ちらほら===
+Meaning: Sparsely / Here and there
+Nuance_EN: Mimetic word for things appearing sporadically; e.g., people gathering gradually, flowers blooming.
+
+===word: 国語===
+Meaning: Japanese language (as school subject)
+Nuance_EN: The school subject teaching Japanese reading, writing, and expression.
+
+===word: ちんたら===
+Meaning: Slowly / Dawdling
+Nuance_EN: Adverb for slow, sluggish movement; implies impatience or irritation.
+
+===word: ちんちくりん===
+Meaning: Short / Too small (derogatory slang)
+Nuance_EN: Slang for short stature or too-short clothes; cute sound but insulting; use with caution.
+
+===word: 潰える===
+Meaning: To collapse / To be dashed
+Nuance_EN: Literary verb for plans or hopes being wasted; more common in writing than speech.
+
+===word: ついさっき===
+Meaning: Just now / A moment ago
+Nuance_EN: Adverbial expression for very recent past; refers to minutes ago.
+
+===word: ついつい===
+Meaning: Inadvertently / Against one's better judgment
+Nuance_EN: Adverb for doing something unconsciously or giving in to temptation; implies regret.
+
+===word: ついに===
+Meaning: Finally / At last
+Nuance_EN: Adverb emphasizing that a long-awaited event has come to pass after time and effort.
+
+===word: ついに===
+Meaning: Finally / At last
+Nuance_EN: Adverb emphasizing that a long-awaited event has come to pass after time and effort.
+
+===word: 露===
+Meaning: Dew
+Nuance_EN: Water droplets on plants in morning/evening; metaphor for fleeting life or tears; used in poetry.
+
+===word: つかつか===
+Meaning: Boldly / Without hesitation
+Nuance_EN: Adverb for approaching someone directly without regard for personal space; audacious.
+
+===word: つかまり立ち===
+Meaning: Cruising / Standing while holding
+Nuance_EN: Baby's action of pulling up to stand while holding onto something; developmental milestone.
+
+===word: つかまる===
+Meaning: To hold on / To be caught
+Nuance_EN: To grasp something for support or to be captured; used physically and metaphorically.
+
+===word: つぎ込む===
+Meaning: To pour in / To invest heavily
+Nuance_EN: To devote money or effort generously into something; implies passion or significant investment.
+
+===word: つくづく===
+Meaning: Deeply / Thoroughly
+Nuance_EN: Adverb for feeling or thinking deeply; often with strong emotions like admiration or regret.
+
+===word: つけ込む===
+Meaning: To take advantage of
+Nuance_EN: To exploit someone's weakness or gap for personal gain; negative.
+
+===word: つじつまが合う===
+Meaning: To be consistent / To add up
+Nuance_EN: For a story or explanation to be logically coherent; often used in negative.
+
+===word: つじつまを合わせる===
+Meaning: To make things consistent / To fudge
+Nuance_EN: To forcibly adjust a story to maintain consistency; often for excuses or lies; somewhat negative.
+
+===word: つつき回す===
+Meaning: To poke around / To pry
+Nuance_EN: To repeatedly poke or probe; metaphorically to snoop into secrets.
+
+===word: つつく===
+Meaning: To poke / To prod
+Nuance_EN: To lightly jab with finger or stick; also to nag or meddle.
+
+===word: つばめ===
+Meaning: Swallow (bird)
+Nuance_EN: Migratory bird that nests under eaves; considered auspicious in Japan.
+
+===word: つばめ===
+Meaning: Swallow (bird)
+Nuance_EN: Migratory bird that nests under eaves; considered auspicious in Japan.
+
+===word: つぶしが利く===
+Meaning: Versatile / Transferable skills
+Nuance_EN: Having skills or qualifications useful in other fields; opposite is つぶしが利かない.
+
+===word: つぶる===
+Meaning: To close (eyes)
+Nuance_EN: To shut eyes; also metaphorically to overlook something.
+
+===word: つべこべ===
+Meaning: Nitpicking / Complaining
+Nuance_EN: Adverb for grumbling about trivial matters; often in command つべこべ言うな.
+
+===word: つぼ型===
+Meaning: Pot-shaped / Bulbous
+Nuance_EN: Shape like a jar; used for containers or designs.
+
+===word: つまみ出す===
+Meaning: To pick out / To eject
+Nuance_EN: To take out by pinching; also to forcibly remove someone.
+
+===word: つまみ食い===
+Meaning: Snitching / Sampling
+Nuance_EN: Secretly tasting food while cooking; metaphorically picking up bits of knowledge.
+
+===word: つまむ===
+Meaning: To pinch / To pick up
+Nuance_EN: To hold lightly with fingers; also to eat a small amount; metaphorically to grasp the point.
+
+===word: つまらせる===
+Meaning: To clog / To block
+Nuance_EN: To cause a hole or passage to become blocked; used for throat or drain.
+
+===word: つま先===
+Meaning: Toe / Tiptoe
+Nuance_EN: The tip of the foot; important for walking, ballet, sports.
+
+===word: つらつら===
+Meaning: Thoughtfully / Contemplatively
+Nuance_EN: Adverb for thinking deeply and carefully; implies reflection.
+
+===word: つるつる===
+Meaning: Smooth / Slippery
+Nuance_EN: Onomatopoeia for smooth, slippery surface; used widely.
+
+===word: てきぱき===
+Meaning: Efficiently / Promptly
+Nuance_EN: Mimetic word for quick, efficient actions; used for work or customer service.
+
+===word: てくてく===
+Meaning: Trudging / Walking steadily
+Nuance_EN: Mimetic word for walking step by step without hurry; for pedestrian travel.
+
+===word: てんで===
+Meaning: Not at all (colloquial)
+Nuance_EN: Colloquial adverb emphasizing negation; used to deny ability or possibility.
+
+===word: でかい面をする===
+Meaning: To put on airs / To act arrogant
+Nuance_EN: To behave arrogantly; literally 'make a big face'.
+
+===word: でかでかと===
+Meaning: Prominently / Boldly
+Nuance_EN: Adverb for something large and conspicuous; used for text, signs, decorations.
+
+===word: 引き受ける===
+Meaning: To undertake / To accept
+Nuance_EN: To willingly take on a task or responsibility; used for accepting requests.
+
+===word: 理===
+Meaning: Reason / Principle
+Nuance_EN: The logical path or truth; used in science as principle or law.
+
+===word: 表===
+Meaning: Surface / Table
+Nuance_EN: The outward appearance or a chart; readings vary by context.
+
+===word: でこぼこ===
+Meaning: Uneven / Bumpy
+Nuance_EN: Onomatopoeia for uneven surface; also metaphorically for rough progress or relationships.
+
+===word: でたらめ===
+Meaning: Nonsense / Rubbish
+Nuance_EN: Unfounded, careless content or disorder; critical expression for unreliability.
+
+===word: でっち上げる===
+Meaning: To fabricate / To trump up
+Nuance_EN: To intentionally create false stories or evidence; used for framing someone; very negative.
+
+===word: イカ===
+Meaning: Squid
+Nuance_EN: Marine mollusk commonly eaten in Japanese cuisine; used in dishes like イカそうめん.
+
+===word: あえて===
+Meaning: Dare to / Deliberately
+Nuance_EN: Adverb for choosing to do something despite risks; implies accepting negative consequences.
+
+===word: でんぐり返し===
+Meaning: Somersault / Roll
+Nuance_EN: A forward roll; children's play or basic gymnastics; also called でんぐり返り.
+
+===word: ぱちくり===
+Meaning: Blinking (in surprise)
+Nuance_EN: Mimetic word for blinking eyes in surprise; cute nuance.
+
+===word: とうとう===
+Meaning: Finally / Eventually
+Nuance_EN: Adverb for reaching a result after a long process; similar to ついに but with more emotional nuance.
+
+===word: とうもろこし===
+Meaning: Corn / Maize
+Nuance_EN: Summer vegetable with yellow kernels; eaten boiled or used for popcorn and cornflakes.
+
+===word: とかく===
+Meaning: Tend to / Apt to
+Nuance_EN: Adverb for being prone to something; often negative tendency; used in writing or formal speech.
+
+===word: ときめく===
+Meaning: To flutter / To thrill
+Nuance_EN: Beautiful verb for heart racing with love or anticipation; romantic and positive.
+
+===word: とげ抜き===
+Meaning: Splinter tweezers
+Nuance_EN: Tool for removing splinters; Japanese word for tweezers.
+
+===word: とことん===
+Meaning: Thoroughly / To the end
+Nuance_EN: Adverb for doing something completely; casual; can be positive or negative.
+
+===word: として + Verb-ないform===
+Meaning: Not a single / Not at all
+Nuance_EN: Grammar pattern for complete negation; e.g., 一つとしてない.
+
+===word: とじる===
+Meaning: To bind / To fasten
+Nuance_EN: To bind documents or books together; homophone with 閉じる but different meaning.
+
+===word: とっさに===
+Meaning: Instantly / Reflexively
+Nuance_EN: Adverb for acting in a split second without thinking; immediate reaction.
+
+===word: とっさに===
+Meaning: Instantly / Reflexively
+Nuance_EN: Adverb for acting in a split second without thinking; immediate reaction.
+
+===word: とっちめる===
+Meaning: To scold / To dress down
+Nuance_EN: Colloquial verb for giving a severe scolding.
+
+===word: とっておき===
+Meaning: Special / One's best
+Nuance_EN: Something kept for special occasions or one's best skill; used as noun or prefix.
+
+===word: とっとと===
+Meaning: Hurry up / Quickly (blunt)
+Nuance_EN: Blunt adverb urging quick action; not polite; used to rush someone.
+
+===word: とっ散らかる===
+Meaning: To be in a mess / To be scattered
+Nuance_EN: Emphatic verb for things being extremely disorganized; stronger than 散らかる.
+
+===word: となる===
+Meaning: To become
+Nuance_EN: Formal variant of になる; used in literary or formal contexts.
+
+===word: とぼける===
+Meaning: To play dumb / To feign ignorance
+Nuance_EN: To pretend not to know something; to act innocent.
+
+===word: 目上===
+Meaning: Superior / Senior
+Nuance_EN: Person of higher status; used in workplace or social hierarchy; polite.
+
+===word: ともすると===
+Meaning: Tend to / Apt to
+Nuance_EN: Adverbial expression for being prone to something; often used for negative tendencies.
+
+===word: ともすると===
+Meaning: Tend to / Apt to
+Nuance_EN: Adverbial expression for being prone to something; often used for negative tendencies.

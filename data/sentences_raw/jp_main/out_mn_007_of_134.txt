@@ -1,0 +1,795 @@
+===word: 筆順===
+Meaning: Stroke order
+Nuance_EN: Refers to the order in which strokes are written for kanji. It is an important concept in Japanese language education and calligraphy.
+
+===word: 字引===
+Meaning: Dictionary
+Nuance_EN: A somewhat old-fashioned term for a book used to look up the meanings and usage of words. In modern Japanese, "辞書" is more common.
+
+===word: 特産===
+Meaning: Specialty (product)
+Nuance_EN: Refers to a product or good that is particularly famous in a specific region. Used in forms like "特産品" or "特産物," it applies to agricultural products or crafts that leverage the local climate and culture.
+
+===word: 年代===
+Meaning: Era / Age
+Nuance_EN: A noun referring to a specific historical period or an age group of people. Used in contexts like "1960年代" (the 1960s) or "十代" (teenage years), it is convenient for expressing a temporal range, applicable in historical, social, and age-related discussions.
+
+===word: 促進===
+Meaning: Promotion / Acceleration
+Nuance_EN: Refers to speeding up the progress or development of something. A formal word often used in business, policy, and economics, such as in "販売促進" (sales promotion) or "成長促進" (growth promotion), indicating proactive efforts to achieve a goal.
+
+===word: 性質===
+Meaning: Nature / Disposition
+Nuance_EN: Refers to the inherent characteristics or tendencies of a person or thing. Similar to "性格" (personality), but "性質" is used in a broader range of contexts.
+
+===word: 困難===
+Meaning: Difficulty
+Nuance_EN: Refers to a state of being hard to accomplish or deal with. Used in various contexts from daily life to business, describing challenging situations or problems.
+
+===word: 雌===
+Meaning: Female (animal)
+Nuance_EN: A general term for the female of an animal. Commonly used in biological contexts and is rarely used for humans.
+
+===word: 滑らか===
+Meaning: Smooth
+Nuance_EN: Describes a surface that is even and slippery without bumps, or an action/progress that is seamless and without interruption. A versatile na-adjective used from physical textures (smooth skin) to abstract flows (smooth speech, smooth movement).
+
+===word: 用紙===
+Meaning: Form / Sheet
+Nuance_EN: Refers to paper prepared for a specific purpose, especially a document format. A common word used in various situations like application forms, exam papers, and questionnaires, indicating paper with a predetermined format, as opposed to just "紙" (paper).
+
+===word: 紡績===
+Meaning: Spinning
+Nuance_EN: The process or industry of spinning fibers like cotton or wool into thread.
+
+===word: 人情===
+Meaning: Human kindness / Sympathy
+Nuance_EN: Refers to the natural compassion and warm-heartedness that humans possess. Used to express human warmth, kindness, and emotional aspects like joy, anger, and sorrow.
+
+===word: 何ら===
+Meaning: Any / (not) at all
+Nuance_EN: An adverb that strengthens the meaning of "少しも" (not at all) or "まったく" (completely) in negative or interrogative contexts. Used in expressions like "何ら問題ない" (no problem at all) or "何らの影響もない" (no influence whatsoever), appearing in formal writing or stiff conversation.
+
+===word: 病===
+Meaning: Illness / Disease
+Nuance_EN: A literary and concise expression for sickness or disease. Shorter and more forceful than "病気," it is often used in compound words like "持病" (chronic illness), "悪病" (malignant disease), or "難病" (intractable disease), and is favored in written or formal language.
+
+===word: かの===
+Meaning: That (famous) / The aforementioned
+Nuance_EN: A pre-noun adjectival that refers to distant existence or past events in a somewhat literary manner. Used in phrases like "かの有名な" (that famous), "かの地" (that land), or "かの人" (that person), it points to a specific object known to both speaker and listener with a formal tone. Rare in daily conversation, it appears in speeches, writing, or slightly archaic expressions, similar to "that famous..." or "the aforementioned..." in English.
+
+===word: 恐れ===
+Meaning: Fear / Risk
+Nuance_EN: Refers to a feeling of fear or anxiety, or the possibility of something bad happening. Often used in formal contexts like "恐れがある" (there is a risk of...).
+
+===word: 看護===
+Meaning: Nursing
+Nuance_EN: The act of caring for the sick or injured. Commonly used in medical contexts, such as "看護師" (nurse) or "看護する" (to nurse).
+
+===word: 真珠===
+Meaning: Pearl
+Nuance_EN: A type of gemstone harvested from inside shellfish shells, including both cultured and natural varieties. Known as an elegant and high-class gem.
+
+===word: 打破===
+Meaning: Breaking / Overcoming
+Nuance_EN: Refers to breaking down or overturning an existing state, obstacle, or contradiction. Used in formal or intellectual contexts, such as "矛盾を打破する" (to overcome a contradiction).
+
+===word: 設備===
+Meaning: Equipment / Facilities
+Nuance_EN: Refers to machinery and instruments installed in buildings or factories. A business and daily-life term indicating the level of facilities and equipment.
+
+===word: 祭る===
+Meaning: Enshrine / Worship
+Nuance_EN: Means to enshrine a deity or spirit in a shrine, or to hold a festival in honor of them. Often used in religious or cultural contexts.
+
+===word: 模様===
+Meaning: Pattern / Design
+Nuance_EN: Refers to a design or pattern drawn on a surface. Also used metaphorically to mean "situation" or "appearance," as in "空模様" (weather conditions).
+
+===word: 笛===
+Meaning: Flute / Whistle
+Nuance_EN: A general term for wind instruments that produce sound by blowing air into them, including flutes, recorders, and whistles.
+
+===word: 釣り合い===
+Meaning: Balance / Equilibrium
+Nuance_EN: Refers to a state where weight, force, or proportion is evenly distributed. Used both physically (e.g., balance of a paper airplane) and abstractly (e.g., balance in a relationship).
+
+===word: 持ち===
+Meaning: Durability / Keeping quality
+Nuance_EN: Refers to how long something lasts or maintains its condition. Used in contexts like "持ちがよい" (has good durability) for materials, food, or products.
+
+===word: 画家===
+Meaning: Painter / Artist
+Nuance_EN: A person whose profession is creating paintings. Refers to anyone who paints, regardless of technique (oil, watercolor, Japanese painting, etc.).
+
+===word: 対比===
+Meaning: Contrast
+Nuance_EN: Refers to comparing two things to highlight their differences. Used in art, literature, and analysis, such as "赤と黒の対比" (contrast of red and black).
+
+===word: 軸===
+Meaning: Axis / Pivot
+Nuance_EN: Refers to the central rod or line around which something rotates, or a central, important element of something. Used in mathematics, physics, and metaphorical contexts.
+
+===word: 自画像===
+Meaning: Self-portrait
+Nuance_EN: A painting or portrait of oneself, primarily created by the artist using themselves as a model. Famous self-portraits by artists like Van Gogh and Rembrandt are well-known worldwide.
+
+===word: 主===
+Meaning: Master / Owner / Proprietor
+Nuance_EN: A somewhat old-fashioned word referring to the master, owner, or person in charge of a house, shop, or organization. More common in modern Japanese as "主人," it appears in literature and period dramas, and can also refer to a host, employer, or husband, emphasizing the role of the person in charge relative to guests.
+
+===word: 芝居===
+Meaning: Play / Drama
+Nuance_EN: A general term for theatrical performances, meaning a work performed by actors on stage. Also used metaphorically to mean "pretentious acting" or "deception."
+
+===word: 茸===
+Meaning: Mushroom
+Nuance_EN: Refers to mushrooms, including both edible and poisonous varieties. Cherished as an autumn delicacy.
+
+===word: 目方===
+Meaning: Weight
+Nuance_EN: A casual word for the weight of an object. While "体重" is specific to human weight, "目方" is used for objects in general, often in informal contexts discussing approximate weight rather than precise measurement.
+
+===word: 丁寧===
+Meaning: Polite / Careful
+Nuance_EN: Describes a manner that is courteous, attentive, and meticulous toward others. Implies being careful not to be rude in speech and actions, and is highly valued in business and customer service settings.
+
+===word: 解熱===
+Meaning: Antipyretic / Fever reduction
+Nuance_EN: Means to reduce fever. Used in medical and health contexts to describe the effects of medicine or improvement of symptoms.
+
+===word: 効き目===
+Meaning: Effectiveness / Efficacy
+Nuance_EN: Refers to the degree or result of an effect from medicine, treatment, or effort. Used in expressions like "効き目がある" (is effective) or "効き目が現れる" (effect appears), evaluating whether the expected effect is actually manifesting.
+
+===word: 差し支えない===
+Meaning: No problem / Acceptable
+Nuance_EN: An adjective-like expression meaning there is no issue or it is permissible. Used to modestly indicate permission or agreement, or to convey that there is no hindrance.
+
+===word: 認可===
+Meaning: Authorization / Approval
+Nuance_EN: Means official permission from a public institution or authorized organization for a certain act or business. A formal word used in legal and administrative contexts, with "許可" being more common in daily conversation.
+
+===word: 副作用===
+Meaning: Side effect
+Nuance_EN: Refers to secondary, often undesirable effects of a drug or treatment. Commonly used in medical contexts.
+
+===word: 作用===
+Meaning: Action / Effect
+Nuance_EN: Refers to the functioning or influence of something on another thing. Used in scientific, medical, and general contexts, such as "神経に作用する" (acts on the nerves).
+
+===word: 問屋===
+Meaning: Wholesaler
+Nuance_EN: A business that purchases goods from manufacturers and sells them to retailers. An intermediate distributor positioned between production and retail.
+
+===word: 区分===
+Meaning: Division / Classification
+Nuance_EN: Refers to dividing things by type or nature, or the resulting framework. Similar to "分類" (classification) or "区別" (distinction), it is a practical word used in various contexts like data organization, document sorting, and land use.
+
+===word: 価値===
+Meaning: Value / Worth
+Nuance_EN: A word expressing the price or worth of an object, or the importance of something. Also used as a component in compound words like "価値" (value) and "価格" (price).
+
+===word: 含む===
+Meaning: Include / Contain
+Nuance_EN: Means to have something as a part or component. Used for physical substances, abstract concepts, or emotions.
+
+===word: 襟巻き===
+Meaning: Muffler / Scarf
+Nuance_EN: A piece of clothing worn around the neck for warmth. Often used in winter contexts.
+
+===word: 当てはめる===
+Meaning: Apply / Fit
+Nuance_EN: Means to apply a rule, standard, or condition to a specific case. Used in logical, legal, or practical contexts.
+
+===word: 見える===
+Meaning: Visible / Can see
+Nuance_EN: Means to be able to see or to appear. Used in both literal visual contexts and metaphorical ones.
+
+===word: 証===
+Meaning: Evidence / Proof
+Nuance_EN: Refers to grounds or clues that prove a fact or truth. Used in both legal and daily contexts, with a slightly stiffer impression than "証拠."
+
+===word: 解釈===
+Meaning: Interpretation
+Nuance_EN: The act of explaining or understanding the meaning of something, such as a poem, statement, or situation. Used in academic, literary, and everyday contexts.
+
+===word: 論議===
+Meaning: Discussion / Debate
+Nuance_EN: Refers to discussing or debating a topic, often involving different opinions. Used in formal or intellectual contexts.
+
+===word: 講義===
+Meaning: Lecture
+Nuance_EN: Refers to a form of class in universities or schools where a teacher explains an academic topic to students, typically in a one-way format.
+
+===word: 雲散霧消===
+Meaning: Vanishing without a trace
+Nuance_EN: A four-character idiom meaning that things disappear completely, like clouds scattering and mist clearing. Used poetically to describe memories or influences fading away entirely.
+
+===word: 硬貨===
+Meaning: Coin
+Nuance_EN: Refers to metal currency, i.e., coins, as opposed to "紙幣" (banknotes). Commonly called "小銭" in daily life, but "硬貨" is used in banking and official contexts.
+
+===word: 術===
+Meaning: Art / Technique / Means
+Nuance_EN: Refers to methods, techniques, or means to achieve something. Ranges from systematized skills like martial arts or arts to everyday know-how like survival skills. The kanji "術" carries a more systematic and refined nuance than "技."
+
+===word: 題===
+Meaning: Topic / Title / Problem
+Nuance_EN: A noun referring to the subject or title of a story, text, or work. Commonly used as a component in compound words like "話題" (topic), "問題" (problem), or "題名" (title). A simple, versatile word used from daily conversation to academic contexts.
+
+===word: 得===
+Meaning: Profit / Gain / Advantage
+Nuance_EN: Refers to profit, gain, or something beneficial to oneself. Used for financial gains as well as knowledge or experience. Used in expressions like "得をする" (to profit) or "得だ" (it's a bargain). The opposite is "損" (loss).
+
+===word: 改訂===
+Meaning: Revision / Amendment
+Nuance_EN: Refers to correcting or updating the content of books, laws, or plans. Used especially for textbooks, dictionaries, and rulebooks, implying a more formal and systematic review than simple "修正" (correction).
+
+===word: 産出===
+Meaning: Output / Yield / Production
+Nuance_EN: Refers to producing or yielding something, such as crops, minerals, or goods. Used in agricultural, industrial, and economic contexts.
+
+===word: 要===
+Meaning: Core / Essential point
+Nuance_EN: Refers to the most important part or central point of something. Originating from the pivot of a fan (扇子の要), it has shifted to mean "the crucial point."
+
+===word: 無害===
+Meaning: Harmless
+Nuance_EN: Means causing no harm or danger. Used in contexts like safety assessments, chemicals, or animals.
+
+===word: 立て込む===
+Meaning: Be crowded / Be congested
+Nuance_EN: Refers to a state where many things or people are packed closely together, such as houses in a neighborhood. Used for physical crowding.
+
+===word: 田圃===
+Meaning: Rice paddy
+Nuance_EN: A field used for growing rice, typically flooded with water. A common term in agricultural contexts.
+
+===word: 見事===
+Meaning: Splendid / Admirable
+Nuance_EN: Describes something that is done excellently or beautifully, often exceeding expectations. Used to praise skill, appearance, or results.
+
+===word: 相場===
+Meaning: Market price / Going rate
+Nuance_EN: Refers to the standard or prevailing price in a market. Used in business, real estate, and daily life for typical costs.
+
+===word: おっかない===
+Meaning: Scary / Frightening
+Nuance_EN: A colloquial adjective meaning scary or frightening, originating mainly from the Kanto dialect. More casual than "恐ろしい," it is used for intimidating people, angry expressions, or dangerous situations, with a slightly masculine image.
+
+===word: 一帯===
+Meaning: Whole area / Entire region
+Nuance_EN: A word referring to a broad area or region including its surroundings. Used to vaguely indicate a unified expanse.
+
+===word: 事態===
+Meaning: Situation / State of affairs
+Nuance_EN: A noun referring to the state or course of events, often used for unexpected or serious situations.
+
+===word: 週刊誌===
+Meaning: Weekly magazine
+Nuance_EN: A magazine published weekly, positioned between newspapers and monthly magazines. Covers topics like politics, economy, entertainment, and sports, balancing timeliness with depth. Easily available at station kiosks and bookstores.
+
+===word: でこぼこ===
+Meaning: Bumpy / Uneven
+Nuance_EN: An onomatopoeia describing a surface that is not flat but has bumps and hollows. Used for road conditions, ground unevenness, or wood surfaces, and metaphorically for non-smooth progress or strained relationships.
+
+===word: 通行===
+Meaning: Passage / Traffic
+Nuance_EN: Refers to moving through a road or passage. Used in contexts related to traffic and pedestrian movement.
+
+===word: 国道===
+Meaning: National highway
+Nuance_EN: Refers to major roads managed by the national government, forming important arterial routes among general roads.
+
+===word: たりとも===
+Meaning: (Not) even a single
+Nuance_EN: A formal expression meaning "not even one," used with negative verbs to emphasize that not even a small amount is allowed. Used in strict or emphatic contexts.
+
+===word: 埃===
+Meaning: Dust
+Nuance_EN: Refers to fine particles floating in the air or accumulating on surfaces. Commonly used in cleaning and hygiene contexts.
+
+===word: 日当たり===
+Meaning: Sunlight exposure
+Nuance_EN: The condition of how sunlight hits a room or land. Good exposure is expressed as "日当たりがいい."
+
+===word: 防音===
+Meaning: Soundproofing
+Nuance_EN: Refers to preventing sound from leaking out or outside noise from coming in. Used in the context of room or building structures.
+
+===word: 匹敵===
+Meaning: Comparable / Rival
+Nuance_EN: Means being equal in ability or value, with no clear superiority. Used in the form "〜に匹敵する" to indicate a level that rivals the comparison target.
+
+===word: 尖る===
+Meaning: To be sharp / To be pointed
+Nuance_EN: Means to have a sharp point or tip. Also used metaphorically for becoming irritable or tense.
+
+===word: 観賞===
+Meaning: Viewing / Appreciation (visual)
+Nuance_EN: The act of carefully looking at and enjoying art, nature, or flowers. Similar to "鑑賞" (appreciation), but "観賞" focuses on visual enjoyment.
+
+===word: 機能===
+Meaning: Function / Capability
+Nuance_EN: Refers to the role or capability of a machine or system. Commonly used to describe product performance.
+
+===word: 鐘の音===
+Meaning: Sound of a bell
+Nuance_EN: The sound produced by a metal instrument struck to produce sound, such as temple bells, school bells, or clock tower bells.
+
+===word: 難し===
+Meaning: Difficult (archaic)
+Nuance_EN: The classical Japanese form of the modern "難しい," seen in literature from the ancient and medieval periods. Considered the etymological origin of "むずかし," it appears in classical texts and period dramas but is rarely used in modern conversation.
+
+===word: 段===
+Meaning: Step / Stage / Level
+Nuance_EN: Refers to a single step of stairs, or a stage or degree of something. Also used for platforms, ranks, or grades.
+
+===word: たいした===
+Meaning: Great / Remarkable (often in negative)
+Nuance_EN: Used to emphasize something is significant or impressive, but very commonly used in negative forms like "たいしたことない" (nothing special) to downplay something.
+
+===word: 入る===
+Meaning: To enter / To fit
+Nuance_EN: Means to go inside or to be contained. Used for physical entry or fitting into a space.
+
+===word: 爪先===
+Meaning: Toe / Tip of the toe
+Nuance_EN: Refers to the tip of the foot's toes, playing an important role in walking direction and balance.
+
+===word: 鞄===
+Meaning: Bag / Suitcase
+Nuance_EN: A general term for tools used to carry items, including handbags, backpacks, and bags. One of the most commonly used words in daily life.
+
+===word: 機嫌===
+Meaning: Mood / Temper
+Nuance_EN: A word focusing on a person's emotional state or mood, particularly whether it is good or bad. Very commonly used in "機嫌がいい" (in a good mood) and "機嫌が悪い" (in a bad mood).
+
+===word: 希求===
+Meaning: Earnest desire / Aspiration
+Nuance_EN: Means to strongly wish for or seek something, especially ideals or goals. A somewhat stiff expression used in formal or literary contexts.
+
+===word: 勢力===
+Meaning: Power / Influence
+Nuance_EN: Refers to the strength or influence in politics, economics, or military contexts. Often used when discussing the power of organizations or groups rather than individuals, and appears in compounds like "勢力争い" (power struggle) or "勢力拡大" (expansion of influence).
+
+===word: 乗り降り===
+Meaning: Boarding and alighting
+Nuance_EN: A word that collectively refers to getting on and off vehicles. Used when using transportation like buses, trains, or taxis.
+
+===word: 偏差値===
+Meaning: Standard score / Deviation value
+Nuance_EN: A numerical value based on statistical standard deviation, commonly used in Japanese education to relatively evaluate academic test results. Very common as an indicator of school difficulty or one's own academic standing.
+
+===word: 出入り口===
+Meaning: Entrance/Exit
+Nuance_EN: A point for entering and leaving a place. Commonly used for buildings, rooms, or areas.
+
+===word: 職員===
+Meaning: Staff / Employee
+Nuance_EN: Refers to people employed by a company, organization, or government office. Broader than "従業員" (employee) or "社員" (company employee), including civil servants and school teachers.
+
+===word: こびりつく===
+Meaning: To stick firmly / To cling
+Nuance_EN: Describes something sticking tightly to a surface and not coming off easily. Used for physical dirt or burnt food, and metaphorically for memories sticking in the mind. Stronger than "くっつく," implying difficulty in removal.
+
+===word: こびり付く===
+Meaning: To adhere stubbornly
+Nuance_EN: Describes something sticking firmly to a surface and not easily separating. Stronger than just "付く," with a nuance of being hard to remove. Applicable to both physical dirt and abstract things like habits or impressions.
+
+===word: 保存===
+Meaning: Preservation / Storage
+Nuance_EN: Means to keep something in its original state for a long time. Used for food, data, cultural properties, and various other objects.
+
+===word: こめかみ===
+Meaning: Temple (of the head)
+Nuance_EN: The slightly hollow area on the side of the head, near the eyes. The gesture of placing a finger here is depicted as a symbol of deep thought. Used in medical and daily contexts.
+
+===word: こよない===
+Meaning: Unparalleled / Supreme
+Nuance_EN: An archaic adjective meaning "the best" or "unsurpassed." Used to express extremely strong praise or gratitude, with a formal and literary ring. In daily conversation, "この上ない" is more common.
+
+===word: こよなく===
+Meaning: Deeply / Exceedingly
+Nuance_EN: An adverb meaning "most" or "exceedingly," used in the phrase "こよなく愛する" (to love deeply). A somewhat literary expression emphasizing the depth of affection or attachment.
+
+===word: こらえる===
+Meaning: To endure / To bear
+Nuance_EN: Means to withstand pain, hardship, or anger, suppressing emotions. Used for physical and emotional endurance.
+
+===word: 配信===
+Meaning: Distribution (digital)
+Nuance_EN: The act of delivering information or content to many people via the internet or broadcasting. A frequently used word in modern society for video streaming, email distribution, and news delivery.
+
+===word: 合理化===
+Meaning: Rationalization / Streamlining
+Nuance_EN: Refers to making something more efficient, logical, or reasonable by eliminating waste or inconsistency. Used in business, management, and industrial contexts.
+
+===word: 節約===
+Meaning: Saving / Economy
+Nuance_EN: Refers to reducing the use of resources like money, time, or energy. A common term in daily life and business.
+
+===word: 親善===
+Meaning: Friendship / Goodwill
+Nuance_EN: Means deepening friendly relations and building good relationships between countries, organizations, or individuals. Used in contexts like "親善試合" (friendly match) or "親善大使" (goodwill ambassador), with a peaceful connotation.
+
+===word: 申請===
+Meaning: Application / Request
+Nuance_EN: Means to formally apply for permission or approval. Widely used in situations like passport or visa applications, subsidy applications, and school admissions, involving submitting documents to public institutions or organizations.
+
+===word: 測定===
+Meaning: Measurement
+Nuance_EN: Means to accurately measure length, weight, time, etc., using instruments. Frequently used in science and industry.
+
+===word: 星===
+Meaning: Star
+Nuance_EN: A basic noun referring to celestial bodies shining in the night sky. Includes astronomical meanings (stars and planets excluding the sun and moon), star-shaped marks or ratings (e.g., hotel stars), and metaphorical meanings like celebrities (芸能界のスター).
+
+===word: 名簿===
+Meaning: Name list / Roster
+Nuance_EN: A list compiling the names of multiple people. Used in schools, companies, and organizations to manage members.
+
+===word: 側面===
+Meaning: Side / Aspect
+Nuance_EN: Refers to the side surface of an object or a particular aspect or facet of a situation. Used in both physical and abstract contexts.
+
+===word: 単車===
+Meaning: Motorcycle
+Nuance_EN: A two-wheeled motor vehicle, i.e., a motorcycle. Once widely used as an abbreviation for "自動二輪車," but now "バイク" is more common. Has a slightly old-fashioned ring.
+
+===word: これといった===
+Meaning: Particular / Notable (usually negative)
+Nuance_EN: A phrase meaning "particularly worth mentioning" or "noteworthy." Almost always used with the negative "ない" in the form "これといった〜ない," meaning "nothing in particular" or "no notable...". Very common in daily conversation.
+
+===word: 強いて===
+Meaning: Forcibly / By force
+Nuance_EN: An adverb meaning to do something against one's will or despite difficulty. Often used in "強いて言えば" (if I had to say) to reluctantly express an opinion.
+
+===word: 是が非でも===
+Meaning: By all means / No matter what
+Nuance_EN: An adverbial expression showing a strong will to achieve something by any means necessary. The common reading is "ぜがひでも." Used in both written and spoken language, but due to its strong determination, it can feel excessive in light contexts.
+
+===word: 症状===
+Meaning: Symptom
+Nuance_EN: Refers to signs or indications of a medical condition. Commonly used in medical and health contexts.
+
+===word: 直感===
+Meaning: Intuition / Gut feeling
+Nuance_EN: Refers to an immediate understanding or judgment without conscious reasoning. Used in daily conversation and decision-making contexts.
+
+===word: 手間===
+Meaning: Time and effort / Labor
+Nuance_EN: Refers to the time and trouble required to do something. Used in contexts like cooking, work, or chores.
+
+===word: 寺院===
+Meaning: Temple (Buddhist)
+Nuance_EN: A Buddhist religious facility where monks live and Buddhist statues are enshrined, including the buildings and grounds. Also called "お寺."
+
+===word: 器具===
+Meaning: Tool / Appliance / Instrument
+Nuance_EN: Tools or machines used for a specific purpose. Refers to items with limited uses, such as kitchen utensils, medical instruments, or laboratory equipment.
+
+===word: 人工===
+Meaning: Artificial / Man-made
+Nuance_EN: Means created by human technology or hands, as opposed to natural. Used for lakes, materials, intelligence, etc.
+
+===word: 取り決め===
+Meaning: Agreement / Arrangement
+Nuance_EN: Refers to a decision or rule made through discussion between parties. Used in business, personal, or formal contexts.
+
+===word: 一種===
+Meaning: A kind of / A sort of
+Nuance_EN: Used to indicate that something belongs to a certain category or type, often with a nuance of hedging or approximation. Common in both speech and writing.
+
+===word: わけにはいかない===
+Meaning: Cannot (due to circumstances)
+Nuance_EN: A grammatical pattern meaning "cannot do something because it would be inappropriate or against one's duty." Expresses a strong sense of obligation or social constraint.
+
+===word: 図書===
+Meaning: Books / Library materials
+Nuance_EN: Refers to books and printed materials, especially in a library context. Used in formal or institutional settings.
+
+===word: 誕生===
+Meaning: Birth
+Nuance_EN: Refers to the act of being born, for people or animals. Also used metaphorically for the creation of new organizations, systems, or works. More formal than "生まれる," often used in official announcements or celebratory contexts.
+
+===word: 外部===
+Meaning: Outside / External
+Nuance_EN: Refers to the outside of a certain range or organization. Used for the exterior of companies, schools, machines, or buildings.
+
+===word: 特有===
+Meaning: Peculiar / Characteristic
+Nuance_EN: Refers to a quality or feature that only a specific person or thing possesses. Indicates unique elements not shared with others.
+
+===word: 思いがけない===
+Meaning: Unexpected / Unforeseen
+Nuance_EN: An adjective describing something that happens completely beyond expectation. Can be used positively or negatively. Has a stronger nuance of "catching off guard" than "突然の" (sudden), and is common in both speech and writing.
+
+===word: 想定===
+Meaning: Assumption / Hypothesis
+Nuance_EN: Refers to presupposing or hypothesizing about possible future situations. Frequently used in business and academic contexts.
+
+===word: 資格===
+Meaning: Qualification / Certification
+Nuance_EN: Refers to officially recognized ability or right required for a specific job or activity. Often obtained by passing licenses or examinations.
+
+===word: 人名===
+Meaning: Person's name
+Nuance_EN: Refers to the name of an individual person. Used in contexts like forms, databases, or general reference.
+
+===word: 固有===
+Meaning: Inherent / Indigenous
+Nuance_EN: Refers to qualities or characteristics that something naturally possesses exclusively. Indicates uniqueness to that object, not shared with others.
+
+===word: 極めて===
+Meaning: Extremely
+Nuance_EN: An adverb meaning "very" or "exceedingly," used to emphasize the degree of something. Formal and often used in written language.
+
+===word: 内部===
+Meaning: Inside / Internal
+Nuance_EN: Refers to the inner part of something, such as a machine, organization, or space. Used in technical and abstract contexts.
+
+===word: 正当===
+Meaning: Just / Legitimate / Fair
+Nuance_EN: Refers to something that is correct, reasonable, and based on proper grounds. Used in legal, moral, and business contexts.
+
+===word: 気骨===
+Meaning: Spirit / Backbone
+Nuance_EN: Refers to a strong, principled character that does not yield to pressure. Used to describe someone with integrity and courage.
+
+===word: 生前===
+Meaning: During one's lifetime
+Nuance_EN: Read as "せいぜん," it refers to the period when a person was alive, especially used in reference to the deceased. Commonly used in contexts of remembering the departed.
+
+===word: 破天荒===
+Meaning: Unprecedented / Daring
+Nuance_EN: Describes doing something with no precedent, that no one has ever achieved. Used for large-scale, bold, and impactful actions. Can be positive but may also carry a nuance of being "outrageous."
+
+===word: 教訓===
+Meaning: Lesson / Moral
+Nuance_EN: Refers to teachings or warnings learned from experiences or events. Contains wisdom or advice to encourage good behavior or avoid bad outcomes. Often used at the end of stories as "the moral of the story."
+
+===word: 直通===
+Meaning: Direct connection
+Nuance_EN: Refers to being directly connected to a destination without stops or transfers. Used for train lines, bus routes, or telephone lines.
+
+===word: 見るにたえない===
+Meaning: Unbearable to look at
+Nuance_EN: An expression meaning something is so bad or ugly that it is painful to see. Used for poor quality work or distressing scenes.
+
+===word: 当社===
+Meaning: Our company
+Nuance_EN: A formal term used in business contexts to refer to one's own company. Common in corporate communications and documents.
+
+===word: 事柄===
+Meaning: Matter / Affair / Topic
+Nuance_EN: Refers to specific matters, events, or topics. A somewhat stiff expression often used in writing. In daily conversation, "こと" is more common, but "事柄" is used in formal situations.
+
+===word: 分類===
+Meaning: Classification / Sorting
+Nuance_EN: Refers to dividing things into groups according to type or nature, or the resulting groups. A basic concept used in various academic and practical fields like library book classification, biological classification, and data sorting.
+
+===word: 不十分===
+Meaning: Insufficient / Inadequate
+Nuance_EN: Means not enough or lacking in quantity or quality. Used in evaluations and assessments.
+
+===word: 開く===
+Meaning: To open / To begin
+Nuance_EN: Means to open something or for an event to begin. Used in various contexts from physical objects to ceremonies.
+
+===word: 這う===
+Meaning: To crawl
+Nuance_EN: Means to move on hands and knees or with the body close to the ground. Used for insects, babies, or injured people.
+
+===word: 順番===
+Meaning: Order / Turn
+Nuance_EN: Refers to the sequence in which things are arranged or done. Commonly used in daily life for queues, tasks, or sequences.
+
+===word: からかう===
+Meaning: To tease / To make fun of
+Nuance_EN: Means to joke with someone to make them laugh or embarrass them, usually without malice. Used for light-hearted teasing or affectionate ribbing, but can become bullying if excessive.
+
+===word: これ見よがし===
+Meaning: Ostentatiously / Showily
+Nuance_EN: Describes behaving in a way that is deliberately conspicuous to attract attention. Used critically for showy or performative actions.
+
+===word: ころころ===
+Meaning: Rolling / Changeable
+Nuance_EN: An onomatopoeia describing small objects rolling, or things/opinions changing frequently. Used for physical rolling or metaphorical changes in mood or weather.
+
+===word: ころり===
+Meaning: Lightly rolling / Easily changing
+Nuance_EN: An onomatopoeia describing something rolling lightly, a person easily changing their attitude, or an illness completely healing. Meaning changes with context.
+
+===word: こんがらがる===
+Meaning: To get tangled / To become complicated
+Nuance_EN: Describes threads or matters becoming entangled and complex, making resolution difficult. A colloquial expression used for physical items (threads, cords) to abstract things (conversations, plans, relationships).
+
+===word: 光栄===
+Meaning: Honor / Glory
+Nuance_EN: Expresses feeling honored or proud. Commonly used in formal situations.
+
+===word: 物価===
+Meaning: Prices (of goods)
+Nuance_EN: Refers to the general price level of goods and services in an economy. Used in economic and daily life contexts.
+
+===word: 倒産===
+Meaning: Bankruptcy
+Nuance_EN: Refers to a company going bankrupt or failing financially. Used in business and economic contexts.
+
+===word: 発想===
+Meaning: Idea / Conception
+Nuance_EN: The act of conceiving a new idea or way of thinking. Refers to how one perceives or approaches things.
+
+===word: 脱出===
+Meaning: Escape
+Nuance_EN: Means to get out of a confined or difficult situation. Used for physical escape from a place or metaphorical escape from a predicament.
+
+===word: ならでは===
+Meaning: Unique to / Peculiar to
+Nuance_EN: A phrase meaning something is characteristic or typical of a particular person or thing, emphasizing its distinctive quality. Used in positive contexts.
+
+===word: 頂きかねる===
+Meaning: Cannot accept (humbly)
+Nuance_EN: A polite expression meaning it is difficult or inappropriate to accept something, often due to its value or the situation. Used in formal refusals.
+
+===word: こん畜生===
+Meaning: Damn it / You beast
+Nuance_EN: A strong curse word expressing intense anger or frustration. Mainly used by men in rough speech, unsuitable for public or formal situations. Common in anime and manga dialogue but very harsh in real conversation.
+
+===word: ごくんと===
+Meaning: Gulp / Swallow
+Nuance_EN: An onomatopoeia representing the sound or action of swallowing liquid in one gulp, often with an audible throat movement.
+
+===word: ごそごそ===
+Meaning: Rustling / Scrabbling
+Nuance_EN: An onomatopoeia for faint sounds of dragging or searching through things. Also used for restless movements.
+
+===word: ごちゃごちゃ===
+Meaning: Messy / Cluttered / Jumbled
+Nuance_EN: An onomatopoeia describing a state where things are disorganized and mixed up, or thoughts/speech are not well-ordered. Used both physically (messy room) and abstractly (jumbled thoughts). Almost always negative, suggesting a need for tidying or organization. More casual than "散らかっている," often carrying a hint of irritation or confusion.
+
+===word: ごった返す===
+Meaning: To be in chaos / To be crowded
+Nuance_EN: Describes a state where many people or things are mixed together in confusion. Used especially for crowded, bustling places like festivals or stations. Has a slightly old-fashioned ring.
+
+===word: ごにょごにょ===
+Meaning: Mumbling / Murmuring
+Nuance_EN: An onomatopoeia for speaking in a low, indistinct voice, often because of reluctance or embarrassment. Used when someone is being evasive.
+
+===word: ごまかす===
+Meaning: To deceive / To fudge
+Nuance_EN: Means to hide the truth and deceive someone, or to temporarily patch up something imperfect to make it look better. A casual verb commonly used in daily conversation.
+
+===word: 分別===
+Meaning: Sorting / Discretion
+Nuance_EN: Refers to the judgment to discern right from wrong, or the act of separating things by type. Used in contexts like garbage sorting or wise decision-making.
+
+===word: 際し===
+Meaning: On the occasion of / When
+Nuance_EN: A formal expression meaning "at the time of" or "when doing something." Used in written or polite contexts.
+
+===word: ご免あそばせ===
+Meaning: Excuse me / I'm sorry (very polite)
+Nuance_EN: An extremely polite and archaic expression of apology or excuse, used by upper-class women in historical contexts. Rare in modern conversation.
+
+===word: かたがた===
+Meaning: Partly... and partly... / While
+Nuance_EN: A formal conjunction meaning to do something while also doing another, often used in polite requests or explanations.
+
+===word: ご多忙中===
+Meaning: Amidst your busy schedule
+Nuance_EN: A respectful greeting acknowledging the recipient's busyness. Used in business letters or emails as a set phrase like "ご多忙中とは存じますが" (I know you are busy, but...).
+
+===word: ご愁傷様===
+Meaning: My condolences
+Nuance_EN: An expression of sympathy used when someone has lost a loved one. A formal greeting used at funerals or wakes, often alongside "お悔やみ申し上げます."
+
+===word: 賛成===
+Meaning: Agreement / Approval
+Nuance_EN: Means to agree with an opinion or proposal. Used in meetings or discussions as a sign of consent, opposite of "反対" (opposition). A basic word frequently used in business and political contexts.
+
+===word: 感想===
+Meaning: Impression / Thoughts
+Nuance_EN: A word expressing feelings or thoughts after seeing, hearing, or experiencing something. Used for book reports, movie reviews, travel impressions, etc. Differs from objective "評価" (evaluation) or "批評" (criticism) in that it includes subjective opinions. Very common in daily conversation.
+
+===word: 一言===
+Meaning: One word / A few words
+Nuance_EN: Refers to a short word or a brief statement. Commonly used when expressing gratitude or opinions concisely.
+
+===word: 注===
+Meaning: Note / Annotation
+Nuance_EN: Refers to supplementary explanations or annotations to the main text. Used in footnotes or endnotes of books and papers, as opposed to oral "注意" (caution). Common in academic and business documents.
+
+===word: ご無沙汰===
+Meaning: Long time no see (polite)
+Nuance_EN: An expression used to apologize for not contacting someone for a long time, or as a greeting upon reunion. "ご無沙汰しています" conveys "I'm sorry for not being in touch." Mainly used in letters, emails, or greetings to people not seen for a while.
+
+===word: ご縁===
+Meaning: Fateful connection / Karma
+Nuance_EN: A polite word for a destined connection or relationship between people. Used in contexts like marriage or encounters.
+
+===word: 炊く===
+Meaning: To cook (rice)
+Nuance_EN: A daily expression meaning to cook rice by boiling it in water. Refers to the basic cooking action of preparing rice, the staple food of Japan, using a rice cooker or pot.
+
+===word: さくっと===
+Meaning: Quickly and efficiently
+Nuance_EN: An onomatopoeia describing acting swiftly and neatly. Carries an image of finishing troublesome tasks in a short time.
+
+===word: ささくれ立つ===
+Meaning: To become frayed / To get irritable
+Nuance_EN: Literally means the surface of wood or skin becoming rough and splintered, but metaphorically describes a person's mind or emotions becoming irritated, unsettled, and easily hurt or angered. A literary expression for delicate emotional instability.
+
+===word: さざれ波===
+Meaning: Ripple / Small wave
+Nuance_EN: Refers to small ripples or gentle waves on the surface of calm lakes or seas, created by the wind. A poetic term used in classical Japanese poetry and literature, evoking tranquility and delicate beauty, more common in artistic contexts than daily conversation.
+
+===word: さざれ石===
+Meaning: Small pebble / Gravel
+Nuance_EN: Refers to small stones or gravel. Also refers to large rocks formed by small stones gathering and solidifying over long periods, appearing in the lyrics of Japan's national anthem "君が代" as a traditional term.
+
+===word: さしあたって===
+Meaning: For now / For the time being
+Nuance_EN: An adverb meaning "for the present" or "for the moment." Carries a nuance of making do with something temporarily, though not urgent.
+
+===word: さしずめ===
+Meaning: For now / After all
+Nuance_EN: An adverb meaning "for the time being" or "in the end," used to summarize or give a provisional conclusion.
+
+===word: さじを投げる===
+Meaning: To give up / To throw in the towel
+Nuance_EN: An idiom meaning to abandon something as hopeless, originating from a doctor giving up on treatment by putting down their spoon (spatula).
+
+===word: さす===
+Meaning: To pour / To fill
+Nuance_EN: A colloquial expression meaning to pour liquid into a container. More casual than "注ぐ."
+
+===word: 匙を投げる===
+Meaning: To give up on
+Nuance_EN: An idiom meaning to abandon something as unmanageable, originating from a doctor giving up treatment by putting down their spoon.
+
+===word: 体力===
+Meaning: Physical strength / Stamina
+Nuance_EN: Refers to the physical power and endurance of the body. Used in health, sports, and daily life contexts.
+
+===word: さぞ===
+Meaning: I imagine / Surely
+Nuance_EN: An adverb expressing the speaker's assumption that something must be true based on the situation, often with empathy or sympathy. Common in spoken language.
+
+===word: さぞかし===
+Meaning: I'm sure / Must be
+Nuance_EN: An adverb expressing strong empathy or sympathy, imagining the other person's situation and thinking "it must be..." Common in spoken language.
+
+===word: さなか===
+Meaning: Midst / Height of
+Nuance_EN: Refers to the most intense or active part of an event or state. A somewhat written-style expression meaning "in the middle of" something, like "試合のさなか" (in the midst of a game) or "議論のさなか" (in the heat of a discussion).
+
+===word: さまよえる===
+Meaning: Wandering / Roaming
+Nuance_EN: The attributive form of "さまよう" (to wander aimlessly), describing a state of moving around without a fixed goal or place. Used in literary expressions like "さまよえる魂" (wandering soul), carrying nuances of loneliness and anxiety.
+
+===word: さも===
+Meaning: As if / Very
+Nuance_EN: An adverb synonymous with "いかにも" (indeed), emphasizing a typical or obvious state. Somewhat literary and archaic in tone.
+
+===word: さもないと===
+Meaning: Otherwise / Or else
+Nuance_EN: A conjunction meaning "if not" or "otherwise," used to present an alternative or warning. Common in both speech and writing.
+
+===word: さもなくば===
+Meaning: Otherwise / If not
+Nuance_EN: A somewhat archaic conjunction meaning "if that is not the case." Used in formal documents like laws and contracts, or in literary writing, rarely in daily conversation.
+
+===word: さらけ出す===
+Meaning: To reveal / To expose
+Nuance_EN: To completely reveal hidden things or one's inner self without concealment. Strongly implies exposing one's weaknesses, true feelings, or secrets, carrying a nuance of openness but also risk.
+
+===word: さらば===
+Meaning: Farewell
+Nuance_EN: An archaic greeting used at parting, the old form of "さようなら." Rarely used in modern daily conversation, but appears in literature, period dramas, or humorous contexts with a dramatic, theatrical ring.
+
+===word: さらり===
+Meaning: Smoothly / Lightly / Nonchalantly
+Nuance_EN: An adverb describing something proceeding smoothly without obstruction, or acting lightly and casually. Used for dry textures, quick emotional shifts, or effortless actions.

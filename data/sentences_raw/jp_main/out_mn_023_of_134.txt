@@ -1,0 +1,663 @@
+===word: ひと===
+Meaning: Static electricity
+Nuance_EN: Refers to an object becoming charged with static electricity. Used in physics and scientific contexts; in daily life, it is familiar as the static electricity phenomenon in winter.
+
+===word: ひつよう===
+Meaning: Necessity
+Nuance_EN: Means preventive measures or countermeasures prepared in advance for problems or difficult situations. Used across a wide range of fields like "typhoon measures," "traffic congestion measures," and "declining birthrate measures," implying a proactive stance to avoid being caught off guard.
+
+===word: まな===
+Meaning: Learn
+Nuance_EN: Refers to knowledge and skills gained through actual seeing, hearing, or doing. Considered an important element in work and life, and is a common term used in resumes.
+
+===word: い===
+Meaning: Squid
+Nuance_EN: A marine mollusk widely enjoyed as food. It's an essential ingredient in Japanese cuisine, such as squid somen and squid sashimi.
+
+===word: み===
+Meaning: Appearance
+Nuance_EN: Refers to the outward look or impression, often implying that the true nature may differ from what is seen.
+
+===word: ひと===
+Meaning: Tease
+Nuance_EN: "からかう" means to jokingly make someone laugh or embarrass them. Used for lighthearted, harmless jokes or playful teasing with familiarity. However, if overdone, it can become bullying, so consideration of the relationship and moderation is important.
+
+===word: み===
+Meaning: Stare
+Nuance_EN: An onomatopoeia describing the act of staring intently at a person or thing without restraint or rudely. Carries a negative nuance.
+
+===word: たいど===
+Meaning: Attitude
+Nuance_EN: Refers to one's demeanor or posture toward others, as well as one's mindset toward things. Includes external aspects like tone of speech, facial expressions, and actions.
+
+===word: かげん===
+Meaning: Manipulate
+Nuance_EN: "弄する" is a somewhat literary verb meaning to skillfully handle or manipulate dishonestly. Often used with a negative connotation, like altering data or facts to one's advantage, as in "manipulating numbers" or "manipulating the truth." It can also mean doing something bizarre to attract attention, like in "doing something eccentric." Seen in formal writing and news.
+
+===word: ひといちばい===
+Meaning: Twice as much as others
+Nuance_EN: Means more than double the average person. Can be used for various traits like effort, sensitivity, or anxiety.
+
+===word: じんじ===
+Meaning: Personnel affairs
+Nuance_EN: Refers to management tasks related to hiring, placement, evaluation, and transfer of people in a company or organization. Also used as an abbreviation for "personnel changes."
+
+===word: じんじぶ===
+Meaning: Human Resources department
+Nuance_EN: The department in a company or organization responsible for personnel matters such as hiring, transfers, evaluations, and salaries.
+
+===word: たいしょく===
+Meaning: Resignation
+Nuance_EN: An expression indicating that a certain point is the last, after which a different state begins.
+
+===word: じんけんひ===
+Meaning: Labor costs
+Nuance_EN: Refers to the total costs related to employees in a company or organization, including salaries, bonuses, and social insurance premiums. An important business term used in management and accounting.
+
+===word: じんたい===
+Meaning: Human body
+Nuance_EN: Refers to the entire body of a human. Commonly used in medicine, biology, and anatomy, with a scientific and objective tone. Used in compound words like "human body structure" and "human experimentation."
+
+===word: じんたいじっけん===
+Meaning: Human experimentation
+Nuance_EN: Refers to medical or scientific experiments conducted on human bodies. A term often accompanied by ethical concerns.
+
+===word: じんりん===
+Meaning: Human ethics
+Nuance_EN: [No nuance provided; a placeholder entry.]
+
+===word: ひとで===
+Meaning: Crowd
+Nuance_EN: Refers to the number of people gathered in a place. Describes the turnout at festivals or events.
+
+===word: ひとまえ===
+Meaning: Inexperienced
+Nuance_EN: Refers to a state where one's skills or experience are insufficient to be recognized as a full-fledged person. Often used for trainees or beginners.
+
+===word: お===
+Meaning: Topic
+Nuance_EN: Refers to the subject or title of a conversation, text, or work. Commonly used as part of compounds like "topic," "problem," or "title." A simple, versatile word used from everyday conversation to academic contexts.
+
+===word: じゅうりょく===
+Meaning: Artificial gravity
+Nuance_EN: A concept used in science fiction works, referring to gravity created artificially. A technical term for technology that recreates a gravitational environment similar to Earth's on spaceships or space stations.
+
+===word: ゆき===
+Meaning: Artificial snow
+Nuance_EN: Refers to snow made artificially, used at ski resorts or events when natural snow is insufficient. Although typically written as "人工雪," here it's written as "人口雪." Refers to snow produced by snow machines.
+
+===word: じんいんさくげん===
+Meaning: Staff reduction
+Nuance_EN: Means reducing the number of employees in a company or organization. Often implemented as a restructuring measure due to economic downturns or rationalization, it is a somewhat gloomy term frequently used in news and business reports.
+
+===word: ひとがき===
+Meaning: Human wall
+Nuance_EN: Refers to a situation where a large number of people stand lined up, looking like a hedge. Describes a dense crowd, such as spectators lining a street or a ring of people around a celebrity.
+
+===word: じんがい===
+Meaning: Non-human
+Nuance_EN: Refers to being beyond the human realm, or beings other than humans (like monsters or gods). Figuratively, it can also be used for people who act cruelly, lacking humanity.
+
+===word: ひとづま===
+Meaning: Married woman
+Nuance_EN: Means "a married woman" or "another's wife." Carries a strong nuance of "a married woman from the perspective of a man other than her husband," often used in contexts of romance or infidelity. Slightly direct in everyday conversation, but common in literary works.
+
+===word: じんか===
+Meaning: Dwelling
+Nuance_EN: Means "a house where people live," focusing on whether people reside there. A somewhat literary expression used in geographical descriptions or official documents.
+
+===word: じんこう===
+Meaning: Artificial
+Nuance_EN: Indicates that something is made by human technology or hands, rather than by nature.
+
+===word: じんこうこきゅう===
+Meaning: Artificial respiration
+Nuance_EN: Refers to a life-saving procedure where air is externally delivered to someone who has stopped breathing. An important term used in medical and emergency contexts.
+
+===word: じんこうじゅせい===
+Meaning: Artificial insemination
+Nuance_EN: Refers to a type of assisted reproductive technology where sperm is medically injected into the uterus, rather than through natural intercourse. A specialized term in infertility treatment, also used for animal breeding, with a formal, medical tone.
+
+===word: じんこうちのう===
+Meaning: Artificial intelligence
+Nuance_EN: Technology or systems that replicate human intelligence on computers. Also called AI.
+
+===word: じんこうしば===
+Meaning: Artificial turf
+Nuance_EN: Material made artificially to mimic natural grass. Easy to maintain and keeps its green year-round, widely used in sports facilities, parks, and balconies.
+
+===word: うちあ===
+Meaning: Satellite
+Nuance_EN: Refers to a celestial body that orbits a planet. Earth's moon is the most famous. Figuratively, it also refers to artificial satellites launched for communication or observation, widely known as "satellites."
+
+===word: ひとさしゆび===
+Meaning: Index finger
+Nuance_EN: The second finger next to the thumb on the hand. Named for its use in pointing at things.
+
+===word: ひとあ===
+Meaning: Demeanor
+Nuance_EN: Refers to one's attitude or impression when interacting with others. "Good demeanor" means being approachable and giving a favorable impression.
+
+===word: にんぎょう===
+Meaning: Doll
+Nuance_EN: An object made in the shape of a human or animal. Comes in various types, including children's toys, artworks, and traditional crafts.
+
+===word: ひとかげ===
+Meaning: Silhouette
+Nuance_EN: Refers to the form or shape of a person. Often used to describe a figure seen from a distance or a vague human presence in the dark.
+
+===word: にんじょう===
+Meaning: Human kindness
+Nuance_EN: Refers to the natural compassion and warmth in human hearts. Used when describing human warmth, kindness, and emotional aspects like joy, anger, sadness, and pleasure.
+
+===word: ひとで===
+Meaning: Labor
+Nuance_EN: Refers to human hands or labor force for work. Often used in situations where there is a shortage of workers.
+
+===word: いそが===
+Meaning: Busy
+Nuance_EN: Refers to human hands or labor force for work. Often used in situations where there is a shortage of workers.
+
+===word: ひとでぶそく===
+Meaning: Labor shortage
+Nuance_EN: A state where the number of workers is insufficient. An expression used to describe problems in industries and workplaces.
+
+===word: ひとばら===
+Meaning: Clearing the area
+Nuance_EN: Means "to make people leave a place" or "to ensure no one is around." Done before secret conversations or important meetings. Used as a noun, typically in the form "do a clearing."
+
+===word: そろ===
+Meaning: Set of figures
+Nuance_EN: Refers to a matching set of figures or dolls. Also indicates that the cast for a play is well-assembled.
+
+===word: ひとさら===
+Meaning: Kidnapping
+Nuance_EN: Refers to the criminal act of abducting someone, or the person who does it. Often used in warnings about child safety.
+
+===word: へいさ===
+Meaning: Closure
+Nuance_EN: Means to stop the functions of an organization, facility, or road, making it unusable. Used for temporary closures (e.g., road closures due to construction) to permanent closures (e.g., business closure). Also has abstract meanings like "closed economy," implying cutting off external contact. Often has negative connotations; "closed-minded" criticizes exclusive, unaccepting attitudes.
+
+===word: じんぶんかがく===
+Meaning: Humanities
+Nuance_EN: A general term for academic fields studying human culture, thought, and history, including literature, philosophy, history, and linguistics. A major category of study alongside natural and social sciences.
+
+===word: じんぼう===
+Meaning: Popularity
+Nuance_EN: Trust and respect from many people. Used in forms like "has strong popularity" or "gathers popularity," to evaluate a leader's qualities.
+
+===word: じんざいはけん===
+Meaning: Temporary staffing
+Nuance_EN: Refers to a business model where staffing companies provide needed personnel to companies. Temporary workers are employed by the staffing agency and work at the client company. A common employment type in Japan's labor market.
+
+===word: ひとばしら===
+Meaning: Human sacrifice
+Nuance_EN: In ancient rituals or construction, burying a living person as an offering to the gods. Figuratively, can also refer to a person sacrificed for an organization or project.
+
+===word: じんかく===
+Meaning: Personality
+Nuance_EN: A word referring to the overall character, disposition, and mental traits of a person. May include moral evaluations.
+
+===word: じんけん===
+Meaning: Human rights
+Nuance_EN: Refers to the basic rights humans are born with, such as freedom, equality, and the right to life, essential for a dignified human life. A formal term commonly used in legal and political contexts.
+
+===word: じんけんだんたい===
+Meaning: Human rights organization
+Nuance_EN: A private organization that works to protect and promote human rights, such as eliminating discrimination and protecting freedom of expression.
+
+===word: じんけんようご===
+Meaning: Human rights protection
+Nuance_EN: Means to protect human basic rights and defend against violations. A formal expression used in legal and international contexts. Similar to "human rights protection," but "擁護" has a more active connotation of supporting and safeguarding.
+
+===word: じんみん===
+Meaning: People
+Nuance_EN: A general term for the people constituting a nation or society. Often used in political contexts, with a slightly more formal, societal-group feel than "citizens."
+
+===word: にんき===
+Meaning: Deserted
+Nuance_EN: A state with no people, lonely. Describes a place that is empty and quiet.
+
+===word: まちう===
+Meaning: Trend
+Nuance_EN: Refers to the overall flow or tendency of things. Indicates the big-picture direction, rather than individual details.
+
+===word: にんきとうひょう===
+Meaning: Popularity vote
+Nuance_EN: Refers to determining the popularity of a specific person or work through voting. Commonly used in events and contests.
+
+===word: じんかいせんじゅつ===
+Meaning: Human wave tactics
+Nuance_EN: A method of achieving goals by deploying a large amount of human labor, rather than relying on equipment or technology. Originally a military term, but also used in business and projects (e.g., "get through with human wave tactics"). Not necessarily efficient.
+
+===word: じんいてき===
+Meaning: Artificial
+Nuance_EN: Means caused by human intention or action, not by natural forces. Used when distinguishing between natural and man-made disasters, or describing artificial environments.
+
+===word: じんぶつ===
+Meaning: Person
+Nuance_EN: Read as "じんぶつ," it refers to a person, especially focusing on their character or abilities. Often used in contexts evaluating specific individuals, like "notable person" or "historical figure."
+
+===word: じんろう===
+Meaning: Werewolf
+Nuance_EN: Refers to the legendary wolf-human creature. Also widely known as the name of the popular tabletop game "Werewolf," where players split into villagers and werewolves to debate.
+
+===word: さか===
+Meaning: Prime of life
+Nuance_EN: Refers to the most fulfilling and active period in one's life.
+
+===word: ぎ===
+Meaning: Once in a lifetime
+Nuance_EN: An expression meaning life only comes once, carrying a moral to live without regrets. Also written as "人生一度きり."
+
+===word: じんせいはつ===
+Meaning: First time in life
+Nuance_EN: An expression emphasizing experiencing something for the first time in one's life. Used for both positive and negative events, commonly in spoken language.
+
+===word: じんちくむがい===
+Meaning: Harmless to humans and animals
+Nuance_EN: A four-character idiom meaning no harm to humans or animals. Describes something safe and harmless, sometimes used with a humorous nuance.
+
+===word: ひとめ===
+Meaning: Public eye
+Nuance_EN: Refers to the attention or gaze of others. Commonly used in idiomatic expressions like "care about public opinion," "attract attention," or "be noticed," implying awareness of others' looks and evaluations.
+
+===word: にんそうが===
+Meaning: Wanted poster description
+Nuance_EN: Refers to a written description of a person's facial features and physical characteristics, used in wanted posters. A specialized term in police and investigation contexts.
+
+===word: ひとまね===
+Meaning: Imitation
+Nuance_EN: Means to mimic someone's actions, speech, or habits. Used broadly from children's play ("copycat") to performers' impersonation acts. Slightly casual; "ものまね" is the more formal term for performance art. "人真似" has a somewhat childish nuance.
+
+===word: じんち===
+Meaning: Human wisdom
+Nuance_EN: A somewhat elevated noun referring to the power of human intelligence and knowledge. Often used in idiomatic expressions like "beyond human wisdom."
+
+===word: じんしゅ===
+Meaning: Race
+Nuance_EN: A noun referring to groups of humans classified by skin color or physical characteristics. A sensitive topic, so caution is needed in its use.
+
+===word: じんしゅしゅぎ===
+Meaning: Racism
+Nuance_EN: A social and academic term referring to ideologies that justify discrimination or prejudice based on race. A translation of the English word "racism"; in daily conversation, "人種差別" is more common.
+
+===word: ひとぎ===
+Meaning: Reputation
+Nuance_EN: A noun meaning social reputation or evaluation from others. Almost always used in the idiomatic expression "人聞きが悪い" (bad reputation, sounds bad), rarely used alone.
+
+===word: じんみゃく===
+Meaning: Network
+Nuance_EN: Refers to a network of human relationships and connections useful in work or life. Commonly used in business and career contexts, positively evaluating broad connections across various fields.
+
+===word: ひとみし===
+Meaning: Shy
+Nuance_EN: The trait of being nervous or embarrassed around strangers. Often used to describe children or introverted people.
+
+===word: ひとか===
+Meaning: Human trafficking
+Nuance_EN: Refers to the act of buying and selling people like goods, or the person who does so. A very serious term referring to the slave trade or human trafficking, used in historical contexts or discussing social issues.
+
+===word: ひとじち===
+Meaning: Hostage
+Nuance_EN: Refers to detaining someone dear to the opponent to guarantee demands, holding their life or safety as collateral. Often used in crime or terrorism contexts, indicating a very serious situation. Figuratively, also refers to a state of being bound and losing freedom.
+
+===word: かいほう===
+Meaning: Release
+Nuance_EN: Refers to detaining someone dear to the opponent to guarantee demands, holding their life or safety as collateral. Often used in crime or terrorism contexts, indicating a very serious situation. Figuratively, also refers to a state of being bound and losing freedom.
+
+===word: ひとご===
+Meaning: Crowd
+Nuance_EN: Refers to a place or state where many people gather.
+
+===word: ひとどお===
+Meaning: Pedestrian traffic
+Nuance_EN: Refers to the flow or volume of people walking on roads or sidewalks. Indicates the amount of human passage, as opposed to vehicle traffic.
+
+===word: じんどうてき===
+Meaning: Humanitarian
+Nuance_EN: An adjectival verb describing actions or thoughts based on human morality and compassion. Often used in serious contexts like international aid or responses to war and disasters.
+
+===word: ひとちが===
+Meaning: Mistaken identity
+Nuance_EN: Refers to confusing one person with another. Used when mistaking a stranger for someone you know.
+
+===word: はな===
+Meaning: Remote
+Nuance_EN: A basic noun referring to a rural settlement or hometown. "さと" is also used as part of compounds like "hometown" or "native place." Evokes an image of nature-rich countryside, contrasted with urban areas.
+
+===word: にんげん===
+Meaning: Human being
+Nuance_EN: A broad term meaning person, humanity, or the world. While "人" refers more to individual persons, "人間" tends to focus on the human species, human-ness, or human nature.
+
+===word: たいせつ===
+Meaning: Important
+Nuance_EN: A broad term meaning person, humanity, or the world. While "人" refers more to individual persons, "人間" tends to focus on the human species, human-ness, or human nature.
+
+===word: たよう===
+Meaning: Diverse
+Nuance_EN: Means being varied in type or nature. Commonly used in modern contexts like "diversity."
+
+===word: き===
+Meaning: That famous
+Nuance_EN: A pre-noun adjectival that refers to distant things or past events in a somewhat literary way. Used like "that famous person," "that place," or "that person," it points to a specific subject known to both speaker and listener with a formal tone. Rare in everyday conversation, appearing in speeches, writing, or slightly archaic expressions. Similar to English "that famous..." or "the aforementioned."
+
+===word: どうぶつ===
+Meaning: Animal
+Nuance_EN: The mental faculty of thinking and judging logically. A concept contrasted with emotions and impulses.
+
+===word: びょうどう===
+Meaning: Equality
+Nuance_EN: "まれ" (also written "稀") means extremely low frequency or rarity. Used in both negative and positive contexts, but often carries a nuance of valuable scarcity.
+
+===word: ばんのう===
+Meaning: Omnipotent
+Nuance_EN: "万能" means being capable of anything or usable for all purposes. A strong expression literally meaning "has all abilities," used for tools, people, medicines, etc., often as hyperbole.
+
+===word: い===
+Meaning: Higher
+Nuance_EN: Means high in degree or rank, or being advanced. Commonly used in education and technology, like "higher education" or "higher mathematics." Also carries a nuance of sophistication.
+
+===word: にんげんこくほう===
+Meaning: Living National Treasure
+Nuance_EN: A colloquial term for individuals certified by the Japanese government as holders of Important Intangible Cultural Properties under the Cultural Properties Protection Law. Selected from fields like traditional crafts and performing arts for their high skill and artistry. A very honorable title.
+
+===word: じんるい===
+Meaning: Humankind
+Nuance_EN: A word referring to all humans living on Earth. Used from biological and social perspectives.
+
+===word: じんるいがく===
+Meaning: Anthropology
+Nuance_EN: The academic field that studies human origins, evolution, and culture.
+
+===word: ひとだま===
+Meaning: Will-o'-the-wisp
+Nuance_EN: A type of ghost or strange fire in Japanese folklore, where a bluish-white ball of fire in human shape flies through the air. Often told during summer ghost stories or the Obon season; scientifically explained as spontaneous combustion of marsh gas, but sightings are still reported. A traditional weird phenomenon, also featured in films and manga.
+
+===word: にんぎょ===
+Meaning: Mermaid
+Nuance_EN: A legendary creature with a human upper body and fish lower body. Appears in fairy tales and folk stories, often depicted as beautiful but tragic.
+
+===word: ひとし===
+Meaning: Benevolence
+Nuance_EN: One of the central Confucian virtues, meaning compassion and charity. Considered the most important concept in Confucius's teachings, representing "altruistic heart" as an ideal human state. Used more in moral and philosophical contexts than in everyday conversation.
+
+===word: におうだ===
+Meaning: Defiant stance
+Nuance_EN: Describes a posture like a Deva king statue, standing firmly with legs apart and imposing. Used when not yielding one's ground or intimidating an opponent. Gives a brave or stubborn impression.
+
+===word: じんぎ===
+Meaning: Humanity and justice
+Nuance_EN: A word referring to the morality and duty that humans should uphold. Particularly known as an important concept in the chivalry and yakuza worlds, but also used generally.
+
+===word: き===
+Meaning: Formally greet
+Nuance_EN: Originally refers to a ritual of self-introduction and greeting performed by criminal organizations upon first meeting, but in general society, it is used figuratively to mean "to formally greet" or "to fulfill one's duty." A term often seen in movies and novels.
+
+===word: じんじゅつ===
+Meaning: Benevolent art
+Nuance_EN: Refers to medical or healing techniques based on compassion and charity. "仁" is a central Confucian virtue meaning compassion for others. A beautifully resonant word expressing the ideal that medical practice should not just be a technique but accompanied by a warm heart from the practitioner.
+
+===word: ほのぼの===
+Meaning: Heartwarming
+Nuance_EN: [No nuance provided; a placeholder entry.]
+
+===word: ほの===
+Meaning: Faint
+Nuance_EN: Describes light, scent, color, or memory existing faintly. Conveys a vague, barely perceptible nuance, often used in literary expressions.
+
+===word: ほの===
+Meaning: Hint
+Nuance_EN: Means to suggest indirectly without saying directly. Has a nuance of intentionally being vague, leaving implications. The common form is "ほのめかす," with "仄か" meaning "faint."
+
+===word: ぐら===
+Meaning: Dim
+Nuance_EN: A lyrical adjective describing a slightly dim, not completely dark, state. Suitable for depicting melancholic atmospheres at dusk or in faint light.
+
+===word: きゅう===
+Meaning: Enemy
+Nuance_EN: Refers to someone who has harmed you or holds a grudge against you. Indicates an enemy targeted for revenge.
+
+===word: あだ===
+Meaning: Harm
+Nuance_EN: To cause harm or damage to someone. An archaic expression rarely used in modern times, often seen in forms like "take revenge."
+
+===word: な===
+Meaning: Backfire
+Nuance_EN: Means that well-intentioned actions have the opposite effect, resulting in bad consequences for oneself. Implies efforts backfiring.
+
+===word: きゅうてき===
+Meaning: Archenemy
+Nuance_EN: An enemy with deep hatred or resentment. A strong word for someone one holds lifelong, unforgiving hostility toward.
+
+===word: ふけいき===
+Meaning: Recession
+Nuance_EN: Refers to the overall vitality or state of the economy. Used in terms like boom or recession.
+
+===word: こうしょう===
+Meaning: Negotiation
+Nuance_EN: Refers to a person authorized to act or conduct procedures on behalf of another. Commonly used in legal and business settings.
+
+===word: よ===
+Meaning: Trend
+Nuance_EN: Refers to the direction of movement or change in things. Used in fields like markets, society, and politics.
+
+===word: おも===
+Meaning: Think
+Nuance_EN: A marine mollusk widely enjoyed as food. An essential ingredient in Japanese cuisine such as squid somen and squid sashimi.
+
+===word: したが===
+Meaning: Draft
+Nuance_EN: Refers to a preliminary version of writing or rough sketches before finalizing. Used in the preparation stages of writing or drawing.
+
+===word: お===
+Meaning: Turmoil
+Nuance_EN: Refers to a state of social or national instability and disturbance. Includes large-scale social changes like war, revolution, or riots. More significant than simple "confusion" and often used in historical contexts.
+
+===word: いま===
+Meaning: Impatiently
+Nuance_EN: An adverbial expression indicating a strong eagerness for something to happen. Expresses a mix of anticipation and anxiety in a situation where something seems about to happen. An emotionally rich expression commonly used in conversation.
+
+===word: いま===
+Meaning: Just now
+Nuance_EN: An adverb meaning very recently, just a few minutes ago. More literary and formal than "さっき." Used with present perfect or past tenses.
+
+===word: いま===
+Meaning: Soon
+Nuance_EN: An adverb meaning "in the near future" or "before long," used to predict or declare future events. Often used with confidence or certainty, as in "you'll see" or "just wait."
+
+===word: いま===
+Meaning: Just about to
+Nuance_EN: An adverb describing a state where something seems about to happen immediately. Used to depict urgent situations about to occur, like "it's about to rain" or "on the verge of tears." Always used with expressions of appearance like "seems" or "looking."
+
+===word: すがた===
+Meaning: Figure
+Nuance_EN: An adverb meaning "in the near future" or "before long," used to predict or declare future events. Often used with confidence or certainty, as in "you'll see" or "just wait."
+
+===word: お===
+Meaning: Look like
+Nuance_EN: An adverb meaning "in the near future" or "before long," used to predict or declare future events. Often used with confidence or certainty, as in "you'll see" or "just wait."
+
+===word: なに===
+Meaning: Nothing
+Nuance_EN: An adverb meaning "in the near future" or "before long," used to predict or declare future events. Often used with confidence or certainty, as in "you'll see" or "just wait."
+
+===word: へいせい===
+Meaning: Era name
+Nuance_EN: The Japanese system of era names (gengo). Examples include Reiwa, Heisei, Showa. Changed upon imperial succession. Used alongside the Western calendar in official documents and resumes.
+
+===word: ぶんせき===
+Meaning: Analysis
+Nuance_EN: Means to break something down into components and examine in detail. A basic term used widely in academia, business, and science.
+
+===word: くら===
+Meaning: Performance
+Nuance_EN: Refers to the quality or capability of a machine or product's functions. A formal word for evaluating technical products, like computer processing performance or car driving performance.
+
+===word: すいせん===
+Meaning: Flush
+Nuance_EN: Means to wash away using water. Refers in particular to flush toilets or water-based processing in laundry, etc.
+
+===word: あ===
+Meaning: Get bored
+Nuance_EN: A verb meaning to become tired of repeating the same thing. Commonly used in everyday situations.
+
+===word: せいかつ===
+Meaning: Living
+Nuance_EN: "まとも" is a casual word meaning serious, sensible, and normal. Used broadly for people, ideas, or conditions, with the negative form ("not right") being especially frequent.
+
+===word: はや===
+Meaning: Trend
+Nuance_EN: Refers to a specific style or habit temporarily spreading among many people. Used in various fields like fashion, music, and language. Can be read as "はやり" (kun) or "りゅうこう" (on), with "りゅうこう" being more common.
+
+===word: まっさいちゅう===
+Meaning: In the midst of
+Nuance_EN: Means being genuine and real, or true. Often used before a noun in the form "true ~," with a somewhat formal tone.
+
+===word: じき===
+Meaning: Formation
+Nuance_EN: Refers to shaping something or the process of forming it. Used from concrete objects (bone formation, terrain formation) to abstract concepts (personality formation, team formation). Strongly implies building from scratch.
+
+===word: いま===
+Meaning: Still
+Nuance_EN: An adverb emphasizing that a state or situation has continued unchanged from a past point to the present. A somewhat formal written expression used in letters or speeches.
+
+===word: まな===
+Meaning: Basics
+Nuance_EN: Refers to the foundation or fundamental parts of something. Used in various fields like learning, construction, and sports.
+
+===word: かんたん===
+Meaning: Easy
+Nuance_EN: Refers to the ratio or proportion of a part to the whole. A formal term in math and statistics, often expressed as percentages or fractions. As an adverb "割合に," it can also mean "relatively."
+
+===word: い===
+Meaning: Damage
+Nuance_EN: Refers to harm or negative effects on people or things. Used in expressions like "harmful to health" or "cause harm," and often seen in compounds like harm, hazard, or pollution.
+
+===word: せいと===
+Meaning: Student
+Nuance_EN: Refers to pupils from elementary to high school. "児童" is used for elementary, "生徒" for middle and high school, and "学生" for university students. One of the most basic terms in education.
+
+===word: にん===
+Meaning: Number of people
+Nuance_EN: Means to join a group, event, or activity as a member. A very versatile word used in various settings like meetings, parties, and competitions.
+
+===word: わる===
+Meaning: Bad
+Nuance_EN: A number indicating evaluation in tests or games. A common word for school grades or sports scores used in various everyday situations.
+
+===word: けん===
+Meaning: Bid
+Nuance_EN: The act of companies competing by bidding prices for contracts in public works or procurement. A formal business term.
+
+===word: たいざい===
+Meaning: Stay
+Nuance_EN: Refers to temporarily staying in a place for travel or business.
+
+===word: ふつう===
+Meaning: Normal
+Nuance_EN: A general term for precipitation like rain or snow falling from the sky. A specialized term in weather forecasts and meteorology.
+
+===word: きが===
+Meaning: Pajamas
+Nuance_EN: Refers to clothing worn for sleeping, including pajamas or nightgowns. A common word.
+
+===word: い===
+Meaning: Go
+Nuance_EN: [No nuance provided; a placeholder entry.]
+
+===word: さむ===
+Meaning: Freezing
+Nuance_EN: Means to be so cold that the body becomes chilled to numbness, shivering. A stronger expression than just "cold," used for severe winter cold or situations involving risk of hypothermia.
+
+===word: み===
+Meaning: Heavenly
+Nuance_EN: "天の" is a form with the possessive particle "の" attached to "heaven," modifying things related to heaven like "heavenly god" or "Milky Way." Has an archaic, sacred tone, used in literary, mythological, and astronomical expressions. Rarely used alone, appearing as part of set phrases.
+
+===word: むり===
+Meaning: Impossible
+Nuance_EN: [No nuance provided; a placeholder entry.]
+
+===word: お===
+Meaning: Sharply
+Nuance_EN: An adverb describing a sudden, large change in quantity or state. Used when prices, temperatures, or speeds drop rapidly.
+
+===word: こよい===
+Meaning: Tonight
+Nuance_EN: A refined, literary expression for "tonight." Used in poetry, formal settings, or period dramas as a formal-sounding term. Rare in everyday conversation.
+
+===word: たか===
+Meaning: Level
+Nuance_EN: Refers to the degree or standard of quality, ability, or quantity. Used to evaluate whether something is high or low compared to a benchmark or standard.
+
+===word: ふさく===
+Meaning: Poor harvest
+Nuance_EN: Refers to a state where crop yields are significantly lower than average. Figuratively, it can also mean poor results despite effort or a bad year for something. The antonym of "bumper harvest." A formal expression commonly seen in agricultural news and economic reports.
+
+===word: あ===
+Meaning: Rank
+Nuance_EN: Refers to status, rank, or grade in society or organizations. Used in expressions like "high rank" or "take a position." Also used as a counter for ranking or order.
+
+===word: てんこうふじゅん===
+Meaning: Unseasonable weather
+Nuance_EN: Refers to a state where the order or condition of things is abnormal, especially weather not matching the season. A somewhat formal term often used in weather forecasts and agricultural topics in the form "unseasonable weather."
+
+===word: さ===
+Meaning: Price
+Nuance_EN: A word referring to the price or value of things, or the importance of something. Also used as a component of compounds like "value" or "price tag."
+
+===word: しゅうかん===
+Meaning: Week
+Nuance_EN: A verb meaning to leave unused, to spare. In the idiomatic expression "余すところなく," it means to use up everything.
+
+===word: きび===
+Meaning: Severe
+Nuance_EN: The lingering heat after the beginning of autumn. Used from early August to September in the Japanese calendar.
+
+===word: こんねんど===
+Meaning: Current fiscal year
+Nuance_EN: Refers to the fiscal year one currently belongs to. In Japan, the fiscal and school year usually starts in April.
+
+===word: で===
+Meaning: Hourly wage
+Nuance_EN: Refers to wages per hour. A common word for part-time job compensation.
+
+===word: か===
+Meaning: Meticulous
+Nuance_EN: A state of paying attention to small details, being thorough and careful. Used for plans, investigations, or preparations. More positive than just "detailed," conveying care and reliability.
+
+===word: よ===
+Meaning: Excellent
+Nuance_EN: Refers to the quality or capability of a machine or product's functions. A formal word for evaluating technical products, like computer processing performance or car driving performance.
+
+===word: い===
+Meaning: Vacation
+Nuance_EN: Refers to taking time off from work or school, or the period of that break. Includes various types like paid leave, summer vacation, and parental leave, with recommended planned use.
+
+===word: ぜんぜん===
+Meaning: Completely (not)
+Nuance_EN: Refers to the outward side or part of something. Also means a chart organizing data for easy viewing, with two readings depending on context: "surface" and "chart."
+
+===word: じょうでき===
+Meaning: Well done
+Nuance_EN: Refers to a branch of traditional Japanese Noh theater, mainly comedic plays centered on humor. In contrast to Noh's solemnity, it uses everyday language and movements to entertain. Also used figuratively in "fake kidnapping" to mean "fake" or "staged."
+
+===word: かえ===
+Meaning: Return
+Nuance_EN: Refers to a period of consecutive holidays, like Golden Week, Obon, or New Year's.
+
+===word: ふあん===
+Meaning: Anxious
+Nuance_EN: An adverb indicating a very small amount or degree. Has a cute, somewhat childlike tone.
+
+===word: かとき===
+Meaning: Transitional period
+Nuance_EN: Refers to the intermediate period when moving from one state to another. Used to describe unstable periods of change in society, technology, or organizations.
+
+===word: はっぴょう===
+Meaning: Announcement
+Nuance_EN: The basic direction or idea for proceeding with something. The fundamental policy for executing a plan.
+
+===word: い===
+Meaning: Packing
+Nuance_EN: Refers to wrapping items

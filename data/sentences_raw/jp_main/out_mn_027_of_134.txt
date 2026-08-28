@@ -1,0 +1,799 @@
+===word: 保健===
+Meaning: Health maintenance / Public health
+Nuance_EN: Refers to efforts and systems for maintaining and improving health and preventing illness. Used in contexts like school health, workplace wellness, and public health management.
+
+===word: 保健所===
+Meaning: Public health center
+Nuance_EN: A government-run facility that protects regional health and hygiene, handling infectious disease control, food sanitation inspections, and health consultations. It's a formal administrative service found nationwide.
+
+===word: 保全する===
+Meaning: Preserve / Conserve
+Nuance_EN: Means to maintain and protect the current good state of something. Used formally for environments, machinery, or data, emphasizing keeping things in their existing condition.
+
+===word: 保冷===
+Meaning: Cold storage / Keeping cool
+Nuance_EN: Refers to keeping items in a cold state. The antonym of "保温" (heat retention), commonly used for products like cool bags or ice packs to keep food and drinks cold while carrying them.
+
+===word: 保存する===
+Meaning: Preserve / Store
+Nuance_EN: Means to keep something in its original form for a long time. Used for a wide range of objects including food, data, and cultural properties.
+
+===word: 保存期間===
+Meaning: Storage period / Shelf life
+Nuance_EN: The period during which a food or product can be stored while maintaining quality. Used in relation to expiration dates and best-before dates.
+
+===word: 保守===
+Meaning: Conservatism
+Nuance_EN: A stance or position that seeks to maintain existing systems and traditions. Commonly used in political contexts, contrasted with innovation or reform.
+
+===word: 保守契約===
+Meaning: Maintenance contract
+Nuance_EN: A periodic contract for regular inspection and repair of machinery or systems. Primarily used in corporate service contexts.
+
+===word: 保守性===
+Meaning: Conservativeness
+Nuance_EN: Refers to a tendency or nature that values traditional methods and values while being cautious about new changes. Used in political and social contexts, as well as to describe organizational or personal thinking styles.
+
+===word: 保守的===
+Meaning: Conservative
+Nuance_EN: Describes an attitude that prioritizes traditional ways and values over new changes. Used across various fields including politics, ideology, and fashion.
+
+===word: 保安官===
+Meaning: Sheriff
+Nuance_EN: Refers to a law enforcement officer in American Westerns who maintains regional order. Also called "シェリフ" in Japanese, it denotes the chief law enforcement officer of a county in the US, distinct from Japanese police officers.
+
+===word: 保安検査===
+Meaning: Security check
+Nuance_EN: An inspection to ensure safety at places like airports. Refers to baggage checks and passing through metal detectors, aimed at preventing dangerous items from being brought onto aircraft. Commonly encountered when flying.
+
+===word: 保有する===
+Meaning: Possess / Hold
+Nuance_EN: Means to own and continuously hold rights or property. Carries a nuance of long-term maintenance, used for assets, qualifications, or data.
+
+===word: 保母===
+Meaning: Female nursery teacher (archaic)
+Nuance_EN: An older term for a female childcare worker at nurseries. Now replaced by the gender-neutral "保育士" (childcare worker) as the official term. Still used occasionally in casual conversation, especially by older generations. N1 learners should know it but use "保育士" in modern contexts.
+
+===word: 保活===
+Meaning: Nursery school hunting
+Nuance_EN: A Japanese-made word referring to activities parents undertake to secure a spot for their child in a nursery school, including information gathering, visits, and applications. Arises from the shortage of daycare spots (待機児童問題).
+
+===word: 保温===
+Meaning: Heat retention / Keeping warm
+Nuance_EN: Means to maintain a constant temperature or heat. Used when keeping food or the body from getting cold.
+
+===word: 保留する===
+Meaning: Hold / Suspend / Reserve
+Nuance_EN: Means to leave something undecided or postpone it temporarily. Used when deferring decisions or processing.
+
+===word: 保管する===
+Meaning: Store / Keep safe
+Nuance_EN: Means to take charge of and safely store/manage items or documents. Stronger in responsibility nuance than "保存" (preserve), used for warehouse storage or safekeeping of important documents. Common in business and legal contexts.
+
+===word: 保管庫===
+Meaning: Storage / Repository
+Nuance_EN: A facility or place for safely storing important documents, valuables, or items. Used broadly from physical safes and warehouses to digital data storage.
+
+===word: 保育園===
+Meaning: Nursery school / Daycare center
+Nuance_EN: A facility that cares for infants and children who cannot be cared for at home during the day due to reasons like both parents working. Unlike kindergarten (幼稚園), it accepts children from a few months old up to preschool age.
+
+===word: 保証付===
+Meaning: With guarantee / Warranty included
+Nuance_EN: Indicates that a product or service comes with a guarantee. Conveys a sense of security that quality or performance is assured.
+
+===word: 保護===
+Meaning: Protection
+Nuance_EN: The act of guarding from danger or harm. Involves ensuring safety and treating something with care.
+
+===word: 保護機能===
+Meaning: Protection function
+Nuance_EN: A function or mechanism designed to protect something from danger or damage. Used across a wide range of fields including machinery, electronics, software, and insurance.
+
+===word: 保護者===
+Meaning: Guardian / Parent
+Nuance_EN: Refers to a person responsible for a child's care and education, primarily parents but also grandparents or legal guardians. A formal term commonly used on school and hospital documents.
+
+===word: 保身===
+Meaning: Self-preservation
+Nuance_EN: Focusing solely on protecting one's own position or safety. Often used in critical contexts, carrying a nuance of avoiding responsibility.
+
+===word: 保身に走る===
+Meaning: Resort to self-preservation
+Nuance_EN: A critical expression describing someone who acts only to protect their own safety or position. Carries a negative nuance of trying to escape responsibility or risk.
+
+===word: 保身術===
+Meaning: Art of self-preservation
+Nuance_EN: Refers to techniques or strategies for protecting one's own position or safety. Implies clever maneuvering to avoid danger or responsibility, often with a slightly negative connotation. Commonly used to describe people skilled at self-defense in politics or organizations.
+
+===word: 保釈===
+Meaning: Bail
+Nuance_EN: The temporary release of a defendant from detention under certain conditions in criminal trials. Often involves paying bail money.
+
+===word: 保険===
+Meaning: Insurance
+Nuance_EN: A system where you pay money in advance to prepare for illness, accidents, or disasters, and receive benefits when actual damage occurs. Commonly used in financial and daily life contexts.
+
+===word: 保険計理人===
+Meaning: Actuary
+Nuance_EN: A professional at insurance companies who specializes in calculating insurance premiums and evaluating reserves. Requires advanced math and statistics knowledge, also called "アクチュアリー" in Japanese. A highly specialized qualified profession.
+
+===word: 保険証===
+Meaning: Health insurance card
+Nuance_EN: A card proving enrollment in health insurance, presented when receiving medical treatment at hospitals. An essential document in Japan's healthcare system.
+
+===word: 保険金は被害状況に応じて、払われる===
+Meaning: Insurance payout depends on damage
+Nuance_EN: "害" refers to harm or negative effects on people or things. Used in compounds like 害悪 (harm), 危害 (injury), 公害 (public nuisance), and commonly in phrases like "健康に害を及ぼす" (harm health).
+
+===word: 保養===
+Meaning: Recuperation / Relaxation
+Nuance_EN: Refers to resting or recuperating to maintain physical and mental health. Used in contexts like hot spring resorts or retreat facilities.
+
+===word: 信じてもらえないだろうけど、茂みの中から怪獣が現れたのだ。===
+Meaning: Monster appeared from bushes
+Nuance_EN: "獣 (しし)" is an archaic term for four-legged wild animals, especially fierce ones or large game. In modern Japanese, "獣 (けもの)" is more common, but "しし" remains in compounds like "猪 (いのしし, wild boar)" and "鹿 (しか, deer)". Also referred to meat, as in "しし肉" (game meat).
+
+===word: 信ずる===
+Meaning: Believe / Trust
+Nuance_EN: An older form of "信じる" meaning to trust people/things, have religious faith, or accept as true. "信じる" is common in conversation, but "信ずる" is used in writing and idiomatic expressions.
+
+===word: 信を置く===
+Meaning: Place trust in
+Nuance_EN: A somewhat literary expression meaning to trust and rely on a person or organization.
+
+===word: 信仰===
+Meaning: Faith / Religious belief
+Nuance_EN: Refers to the heart and actions of believing in and revering supernatural beings like gods or Buddhas. Includes both specific religious beliefs and personal inner faith. Commonly used in phrases like "信仰が厚い" (devout) or "信仰を持つ" (have faith).
+
+===word: 信仰は心の支えです。===
+Meaning: Faith is a mental support
+Nuance_EN: "信仰" refers to believing in and revering supernatural beings like gods or Buddhas. Includes both specific religious beliefs and personal inner faith. Commonly used in phrases like "信仰が厚い" (devout) or "信仰を持つ" (have faith).
+
+===word: 信仰者===
+Meaning: Believer / Devotee
+Nuance_EN: Refers to a person who believes in a specific religion or god. Carries a nuance of being devout.
+
+===word: 信号が点滅している時は停止してください===
+Meaning: Stop when signal is flashing
+Nuance_EN: Describes lights repeatedly turning on and off. Used for traffic signals, warning lights, etc.
+
+===word: 信号弾===
+Meaning: Signal flare
+Nuance_EN: A general term for projectiles fired from guns or bows. "銃弾" (bullet) is most common, but "たま" can also refer to spherical objects like rubber bullets or golf balls. Note that "財布のタマが痛い" (wallet hurts) has a different etymology (玉 = money).
+
+===word: 信号待ち===
+Meaning: Waiting for the traffic light
+Nuance_EN: Refers to waiting for a traffic signal to turn green. A common everyday expression.
+
+===word: 信号機===
+Meaning: Traffic light / Signal
+Nuance_EN: A device that controls traffic flow at intersections using red, yellow, and green lights. Essential for road safety.
+
+===word: 信奉者===
+Meaning: Follower / Devotee
+Nuance_EN: Refers to someone who deeply believes in and follows a specific religion, ideology, or doctrine. Carries a stronger sense of devoutness than "fan," including deep reverence.
+
+===word: 信徒===
+Meaning: Believer / Follower
+Nuance_EN: Refers to an individual who believes in a specific religion. A general term usable for followers of any religion, including Christianity, Buddhism, and Islam.
+
+===word: 信心深い===
+Meaning: Devout / Pious
+Nuance_EN: Describes someone who is deeply religious and fervently prays or visits shrines/temples.
+
+===word: 信念===
+Meaning: Conviction / Belief
+Nuance_EN: Means a firm, unwavering belief or mindset that one holds as correct. Used broadly from religious faith to life philosophies and values, conveying seriousness and strong will.
+
+===word: 信憑性===
+Meaning: Credibility / Reliability
+Nuance_EN: The degree to which information or testimony can be trusted. Used to evaluate the reliability of news, evidence, or sources. Appears in forms like "信憑性が高い/低い/疑わしい" (high/low/doubtful credibility).
+
+===word: 信望===
+Meaning: Trust and popularity
+Nuance_EN: A formal word meaning trust and popularity, describing someone who is trusted and admired by those around them.
+
+===word: 信条===
+Meaning: Creed / Principle
+Nuance_EN: A way of thinking or doctrine that an individual or group cherishes as a belief. Refers to long-held life guidelines or codes of conduct, focusing more on inner conviction than "主義" (ism).
+
+===word: 信用===
+Meaning: Trust / Credit
+Nuance_EN: The act of trusting a person or organization and evaluating their ability and integrity. An important concept in business and relationships.
+
+===word: 信用調査===
+Meaning: Credit check / Background check
+Nuance_EN: Refers to investigating the credit status of an individual or company. A specialized term mainly used in business and finance contexts.
+
+===word: 信管===
+Meaning: Fuse / Detonator
+Nuance_EN: A device that initiates the explosion of bombs or bullets. A military term used in contexts like military affairs, novels, and movies. Includes types like time fuses and detonators. Rarely used in everyday conversation.
+
+===word: 信義===
+Meaning: Faith / Integrity
+Nuance_EN: Means keeping promises and acting with sincerity and moral integrity. A word expressing moral values, commonly used in phrases like "信義に反する" (violate faith) or "信義を守る" (keep faith). Important in business and relationships.
+
+===word: 信者===
+Meaning: Believer / Follower
+Nuance_EN: Refers to someone who believes in and follows a specific religion or teaching. Also used figuratively for strong supporters of a particular idea or person.
+
+===word: 信託===
+Meaning: Trust (legal/financial)
+Nuance_EN: A legal and financial term referring to entrusting property or rights to a trusted person or institution for management/operation. Used in contexts like "信託銀行" (trust bank) and "信託財産" (trust property), with a formal and specialized tone.
+
+===word: 信頼===
+Meaning: Trust / Reliance
+Nuance_EN: A feeling or relationship of trusting and relying on someone. Develops through long association and proven track records.
+
+===word: 信頼するに足る人物だと思っていた、その人にだまされてしまった===
+Meaning: I trusted someone enough, but was deceived
+Nuance_EN: A feeling or relationship of trusting and relying on someone. Develops through long association and proven track records.
+
+===word: 信頼度===
+Meaning: Trust level / Reliability
+Nuance_EN: The degree or extent to which something or someone can be trusted. Used in various contexts including product quality, information accuracy, and relationships. Often quantified.
+
+===word: 信頼性===
+Meaning: Reliability / Dependability
+Nuance_EN: The degree to which something or someone can be trusted. A formal word used to evaluate product/system quality or a person's integrity. Common in business and technical fields.
+
+===word: 修める===
+Meaning: Master / Cultivate
+Nuance_EN: A verb meaning to acquire learning or skills, or to correct one's mind and behavior. Used in forms like "学問を修める" (master an academic field) or "腕前を修める" (master a skill), implying effortful acquisition. Used in formal settings.
+
+===word: 修士号===
+Meaning: Master's degree
+Nuance_EN: An academic degree awarded to those who complete a master's program in graduate school. One level below a doctorate, equivalent to "master's degree" in English. Important for employment and research, used in formal academic contexts.
+
+===word: 修士課程===
+Meaning: Master's program
+Nuance_EN: The first stage of graduate school, a two-year course taken after earning a bachelor's degree. Completion grants a master's degree.
+
+===word: 修学旅行===
+Meaning: School trip
+Nuance_EN: An overnight educational trip for students as part of school events, involving visits and experiential learning. Part of Japan's educational curriculum.
+
+===word: 修復===
+Meaning: Repair / Restore
+Nuance_EN: Returning broken or damaged things to their original state. Used for physical objects (buildings, artworks) as well as relationships.
+
+===word: 修業===
+Meaning: Training / Apprenticeship
+Nuance_EN: Means striving to learn and master academic subjects or arts. Deeper than mere "study," implying long-term practical training and mental discipline through apprenticeship. Favored in traditional fields like martial arts and performing arts.
+
+===word: 修正===
+Meaning: Correction / Revision
+Nuance_EN: Fixing mistakes or inadequacies to make something correct or better. Used for documents, plans, laws, programs, and various other things.
+
+===word: 修理===
+Meaning: Repair / Fix
+Nuance_EN: Fixing broken or malfunctioning items. Commonly used in contexts like home appliances, machinery, and cars.
+
+===word: 修練===
+Meaning: Training / Discipline
+Nuance_EN: Repeated practice and training to improve skills and abilities. Often used in traditional fields like martial arts and performing arts, carrying a deep nuance of mental discipline. Implies long-term effort and self-cultivation beyond mere "practice."
+
+===word: 修繕===
+Meaning: Repair / Mend
+Nuance_EN: Fixing broken or damaged parts to restore them to their original condition.
+
+===word: 修羅場===
+Meaning: Chaotic scene / Hellish situation
+Nuance_EN: Originally from Buddhist mythology referring to the battlefield of the Asura realm, now used figuratively as slang for chaotic situations like work deadlines or intense interpersonal conflicts.
+
+===word: 修行===
+Meaning: Ascetic training / Discipline
+Nuance_EN: Accumulating rigorous training and effort to polish skills and spirit. Commonly used in martial arts, arts, and religious contexts.
+
+===word: 修辞===
+Meaning: Rhetoric
+Nuance_EN: The technique of using words effectively to make expressions beautiful or persuasive. Also called "レトリック" (rhetoric).
+
+===word: 修辞技法===
+Meaning: Rhetorical device
+Nuance_EN: A general term for expressive techniques that make writing or speeches more effective and appealing. Includes metaphor, repetition, hyperbole, inversion, etc. A specialized term used in literature and rhetoric, rarely in daily conversation but appears when discussing writing or presentation skills.
+
+===word: 修辞法===
+Meaning: Rhetoric / Figure of speech
+Nuance_EN: (No additional nuance provided in input)
+
+===word: 修辞疑問===
+Meaning: Rhetorical question
+Nuance_EN: A question asked not to get an answer but to emphasize a point or emotion. In Japanese, forms like "〜じゃないか" (isn't it?) are typical.
+
+===word: 修道士===
+Meaning: Monk
+Nuance_EN: A male religious who belongs to a Christian monastery and lives a life of prayer and labor. Common in Catholic and Orthodox churches, taking vows of poverty, chastity, and obedience.
+
+===word: 修道院===
+Meaning: Monastery / Convent
+Nuance_EN: A religious facility where monks or nuns live communally while engaging in prayer and work. Based on Catholic and Orthodox Christian traditions, often located in secluded places.
+
+===word: 俯く===
+Meaning: Look down / Hang one's head
+Nuance_EN: Describes the action of looking down due to embarrassment, sadness, or deep thought. Characterized by accompanying emotional movement, not just "looking down." A friendly, commonly used word in daily conversation.
+
+===word: 俯瞰===
+Meaning: Overlook / Bird's-eye view
+Nuance_EN: Means to look down from a high place and see the whole. Used both literally and figuratively for objective, big-picture perspectives. A somewhat formal expression.
+
+===word: 俳優===
+Meaning: Actor / Actress
+Nuance_EN: A person who performs roles in movies, theater, or TV dramas. Has a more professional ring than "役者" (performer).
+
+===word: 俳句===
+Meaning: Haiku
+Nuance_EN: A uniquely Japanese short poetic form consisting of 17 syllables in a 5-7-5 pattern. Seasonal words (季語) and cutting words (切れ字) are key elements, known worldwide as part of Japanese culture.
+
+===word: 俺には何のコネもないから、就職するのが大変だ。===
+Meaning: It's hard to get a job with no connections
+Nuance_EN: "就職" means starting work at a company or organization after graduating school. Job hunting (就職活動/就活) is a major event for Japanese students, typically involving interviews and exams to get a job offer (内定).
+
+===word: 俺の手首を掴んできた。 驚いて思わずビクンと体がすくんでしまった…===
+Meaning: He grabbed my wrist; I flinched
+Nuance_EN: Refers to the joint between the hand and forearm, where watches and bracelets are worn.
+
+===word: 俺は友達に日記をよまれた===
+Meaning: My friend read my diary
+Nuance_EN: "まれ" (also written "稀") means very low frequency or rarity. Used in both negative and positive contexts, often carrying a nuance of scarcity value.
+
+===word: 俺を洗い清めろ！俺を解放しろ！俺を自由にしろ！===
+Meaning: Cleanse me! Free me! Liberate me!
+Nuance_EN: Means becoming free from束缚 (restraints) or restrictions.
+
+===word: 倅===
+Meaning: My son (humble) / That brat
+Nuance_EN: Primarily used as a humble term for one's own son. Can also be used for someone else's son with contempt or familiarity (somewhat archaic). In modern usage, "せがれ" sounds old-fashioned and is limited to contexts like introducing one's son to superiors.
+
+===word: 倉庫===
+Meaning: Warehouse / Storage
+Nuance_EN: A building or facility for storing and preserving items. Used broadly from large storage spaces behind factories and shops to home storage rooms. In business, used in phrases like "在庫を倉庫に保管する" (store inventory in a warehouse).
+
+===word: 個々===
+Meaning: Individual / Each
+Nuance_EN: Refers to each individual element within a group. Used when focusing on individual cases or persons rather than the whole.
+
+===word: 個々の問題を解決しましょう。===
+Meaning: Let's solve each problem individually
+Nuance_EN: "題" is a noun referring to the theme or title of a story, text, or work. Commonly used in compounds like "話題" (topic), "問題" (problem), "題名" (title). A simple, versatile word used from daily conversation to academic contexts.
+
+===word: 個人===
+Meaning: Individual / Personal
+Nuance_EN: Refers to each individual person as opposed to a group or organization. Used to emphasize the person as an independent entity, as in "個人の権利" (individual rights) or "個人の意見" (personal opinion).
+
+===word: 個人差===
+Meaning: Individual differences
+Nuance_EN: Refers to differences in ability, nature, or preferences among people. A commonly used word for when not everyone reacts the same way to something.
+
+===word: 個人情報===
+Meaning: Personal information
+Nuance_EN: Information that can identify an individual, including name, address, phone number, and email address. Important from a privacy protection perspective.
+
+===word: 個人情報保護法===
+Meaning: Personal Information Protection Law
+Nuance_EN: The abbreviated name for Japan's law protecting personal information. Officially "個人情報の保護に関する法律" (Act on the Protection of Personal Information), requiring companies and organizations to handle personal data appropriately.
+
+===word: 個体===
+Meaning: Individual (organism/object)
+Nuance_EN: A scientific term referring to each individual unit of a living thing or object. Biologically, it refers to a single organism within a population. Note that it differs from "固体" (solid state); it refers to individual units, not physical states.
+
+===word: 個別===
+Meaning: Individual / Separate
+Nuance_EN: Means handling each item separately. The antonym of "一括" (batch) or "全体" (whole). Commonly used in business and education, appearing in compounds like "個別指導" (individual instruction), "個別面談" (individual interview), "個別対応" (individual response).
+
+===word: 個室===
+Meaning: Private room
+Nuance_EN: A room partitioned for individual use. Used in hospitals, restaurants, offices, etc.
+
+===word: 個展===
+Meaning: Solo exhibition
+Nuance_EN: An exhibition displaying works by a single artist. Most commonly used in the art field.
+
+===word: 個性的な===
+Meaning: Individualistic / Unique
+Nuance_EN: An adjective describing people or things with distinctive charm or characteristics different from others. Used positively in design, fashion, and personal evaluations. Unlike "変わり者" (eccentric), it evaluates uniqueness favorably.
+
+===word: 倍増===
+Meaning: Doubling / Increase twofold
+Nuance_EN: Refers to quantity or degree becoming twice as much, or making it double. Used for income, production volume, effects, etc.
+
+===word: 倍率===
+Meaning: Magnification / Ratio
+Nuance_EN: A numerical value indicating the ratio to a standard value. Used to show degrees of enlargement/reduction or competition intensity.
+
+===word: 倍返し===
+Meaning: Double return / Payback double
+Nuance_EN: Means returning twice what was received. Used in contexts of gifts or revenge, widely known due to a popular TV drama.
+
+===word: 倍音===
+Meaning: Overtone / Harmonic
+Nuance_EN: Refers to sound components with frequencies that are integer multiples of the fundamental frequency. A key element characterizing the timbre of musical instruments.
+
+===word: 倒れこむ===
+Meaning: Collapse / Fall over
+Nuance_EN: Means to lose strength from a standing position and fall as is. Describes the body giving out from fatigue or impact.
+
+===word: 倒れ伏す===
+Meaning: Fall prostrate
+Nuance_EN: Describes falling to the ground from exhaustion and being unable to move. Emphasizes falling forward and lying prone after battle, accidents, or fatigue. Stronger than "倒れる," implying the state after falling.
+
+===word: 倒壊===
+Meaning: Collapse / Destruction
+Nuance_EN: Means buildings or structures breaking and falling down. Commonly used in contexts of earthquakes and accidents.
+
+===word: 倒立===
+Meaning: Handstand / Headstand
+Nuance_EN: Refers to a posture of standing upside down, with head down and feet up. Common in gymnastics and yoga. Also called "逆立ち," but "倒立" is more formal.
+
+===word: 倒置===
+Meaning: Inversion / Reversal
+Nuance_EN: Means reversing normal word order or turning something upside down. As a grammatical term, it refers to changing sentence order for emphasis. Also describes physically placing things upside down.
+
+===word: 倒錯===
+Meaning: Perversion / Deviation
+Nuance_EN: A somewhat formal noun meaning distortion against normal order or morality. Used in psychology as "性的倒錯" (sexual perversion), but also in general contexts like "価値観の倒錯" (perversion of values).
+
+===word: 借り===
+Meaning: Borrowing / Debt (of gratitude)
+Nuance_EN: The state of temporarily borrowing money or items from others, or the borrowed thing itself. Also used in the sense of obligation, as in "借りを作る" (create a debt of gratitude).
+
+===word: 借りたCDを返し忘れ延滞料金を取られた===
+Meaning: Forgot to return borrowed CD and got late fee
+Nuance_EN: Refers to a state where payment or return is overdue past the deadline. Commonly used for late fees on rent or library books.
+
+===word: 借り上げる===
+Meaning: Lease / Rent (for a period)
+Nuance_EN: Means to borrow something for a necessary period. Used especially when a company or government rents housing for employees.
+
+===word: 借入れ===
+Meaning: Borrowing (money)
+Nuance_EN: The act of borrowing money, especially from banks. A formal expression used in business and financial contexts.
+
+===word: 借入金と預金を相殺した===
+Meaning: Offset borrowings and deposits
+Nuance_EN: Refers to depositing money into a financial institution account, or the deposited amount. Frequently used in business and accounting.
+
+===word: 借地===
+Meaning: Leased land
+Nuance_EN: Refers to the right to use borrowed land or the land itself being rented. A term used in real estate and law, with related words like "借地権" (leasehold right) and "借地料" (land rent).
+
+===word: 借家===
+Meaning: Rented house
+Nuance_EN: (No additional nuance provided in input)
+
+===word: 借用書===
+Meaning: Promissory note / IOU
+Nuance_EN: A document proving that money or items have been borrowed. A legally binding document exchanged between borrower and lender.
+
+===word: 借財===
+Meaning: Debt / Borrowings
+Nuance_EN: A somewhat formal word meaning debt or liabilities. Nearly synonymous with "借金" but more formal, often used in business documents or official contexts. Tends to refer to large debts of companies or governments rather than personal loans.
+
+===word: 借金に利子をつけて返したの。===
+Meaning: I repaid the loan with interest
+Nuance_EN: Refers to the money received as compensation for lending money. Commonly used when discussing bank deposits or bond interest.
+
+===word: 借金を踏み倒す===
+Meaning: Default on a loan / Welshing
+Nuance_EN: Running away or refusing to repay borrowed money. An ethically problematic act with strong negative connotations.
+
+===word: 倣う===
+Meaning: Follow / Imitate (a model)
+Nuance_EN: Means to do the same as others' methods, precedents, or models. Carries a positive nuance of following traditions, customs, or good examples, stronger than mere "真似" (imitation).
+
+===word: 値する===
+Meaning: Be worth / Deserve
+Nuance_EN: Having value or being worthy of something. Carries a nuance of evaluation that something is worth the effort or attention. A somewhat formal expression.
+
+===word: 値上げ===
+Meaning: Price increase / Hike
+Nuance_EN: Raising the price of goods or services. Done for various reasons including inflation or increased raw material costs.
+
+===word: 値切る===
+Meaning: Haggle / Bargain
+Nuance_EN: Means to negotiate the price of an item to get it cheaper. A common verb used in markets or individual shops where price negotiation is possible.
+
+===word: 値動き===
+Meaning: Price fluctuation
+Nuance_EN: Refers to the movement of stock prices, commodity prices, or exchange rates going up and down over time. Used especially in finance and economics, in phrases like "値動きが激しい" (volatile) or "値動きを注視する" (monitor price movements).
+
+===word: 値引き===
+Meaning: Discount / Price reduction
+Nuance_EN: Refers to lowering the price of a product. Similar to "割引" (discount), but specifically refers to the act of reducing the price.
+
+===word: 値打ち===
+Meaning: Value / Worth
+Nuance_EN: (No additional nuance provided in input)
+
+===word: 値札===
+Meaning: Price tag
+Nuance_EN: A tag attached to a product displaying its price. Commonly seen in clothing stores and retail shops. Also called "値段シール" or "プライスタグ." Basic shopping vocabulary.
+
+===word: 値段===
+Meaning: Price
+Nuance_EN: The amount of money assigned to a product or service. One of the most commonly used words in daily life, frequently appearing in shopping and price negotiation contexts.
+
+===word: 値段が高いほど品物がいいと限らない===
+Meaning: Expensive doesn't always mean good
+Nuance_EN: "段" refers to a step or level, as in stairs, or stages/degrees of things. Also used for platforms, ranks, or grades.
+
+===word: 値踏み===
+Meaning: Valuation / Appraisal
+Nuance_EN: Means assessing the value of something to determine its price. Often used for antiques or art valuation, but also figuratively for evaluating people's abilities.
+
+===word: 値鞘===
+Meaning: Price spread / Margin
+Nuance_EN: An economic/financial term referring to the difference between selling and buying prices, i.e., profit margin or spread. Used especially in stock, forex, and commodity futures trading. The kanji "鞘" (sheath) conveys the image of a "gap" or "space," making it apt for price differences. A specialized, business-oriented expression.
+
+===word: 倦む===
+Meaning: Get tired of / Grow weary
+Nuance_EN: A literary verb meaning to become tired and fed up with prolonged difficulty or monotony. More commonly used in compound verbs or idiomatic expressions than standalone, such as "待ち倦む" (tired of waiting) or "倦むことを知らない" (tireless). Appears in writing and literary works rather than daily conversation.
+
+===word: 倦怠感===
+Meaning: Fatigue / Lethargy
+Nuance_EN: (No additional nuance provided in input)
+
+===word: 倫理観===
+Meaning: Ethical sense / Morality
+Nuance_EN: Refers to one's sense of correct behavior and morality as a human being. Includes standards of good and evil and social norms, used in contexts like "高い倫理観が求められる" (high ethical standards are required) in business, medicine, and research.
+
+===word: 倹しい===
+Meaning: Frugal / Thrifty
+Nuance_EN: An adjective describing a lifestyle of avoiding waste and living simply. Used positively, evaluating the attitude of spending wisely and cutting back. The opposite of wastefulness.
+
+===word: 倹約===
+Meaning: Thrift / Frugality
+Nuance_EN: Means to suppress unnecessary spending and use money and resources planfully. Carries a stronger nuance of conscious, continuous effort than mere "節約" (saving), often evaluated as a virtue.
+
+===word: 偉い===
+Meaning: Great / Admirable / Important
+Nuance_EN: Used to praise someone for superior status, ability, or admirable actions. Also used respectfully for superiors ("偉い人") or to praise children ("well done"). More casual than formal.
+
+===word: 偉人===
+Meaning: Great person / Historical figure
+Nuance_EN: An outstanding person who left remarkable achievements. A great figure who left their name in history.
+
+===word: 偉業===
+Meaning: Great achievement / Feat
+Nuance_EN: Means an extremely admirable and significant accomplishment. Used to praise extraordinary achievements by individuals or organizations, suitable for discussing historical figures or innovative companies. A dignified expression.
+
+===word: 偏に===
+Meaning: Entirely / Solely
+Nuance_EN: (No additional nuance provided in input)
+
+===word: 偏る===
+Meaning: Lean / Be biased
+Nuance_EN: Being inclined to one side with poor balance. Describes unfair opinions or imbalanced distribution.
+
+===word: 偏執===
+Meaning: Paranoia / Obsession
+Nuance_EN: Refers to a pathological state of being fixated on a single idea or emotion, unable to see other things. Related to the psychiatric term "偏執症" (paranoia), and when excessive, impairs relationships and social life.
+
+===word: 偏執病===
+Meaning: Paranoia / Paranoid disorder
+Nuance_EN: A mental illness characterized by abnormal fixation on a single idea or belief, distorting reality perception. Also called "パラノイア" in Japanese, often involving delusions of persecution or grandeur. Used figuratively in daily conversation, like "偏執的な性格" (paranoid personality).
+
+===word: 偏屈===
+Meaning: Stubborn / Eccentric
+Nuance_EN: A noun/adjectival noun describing a twisted, unyielding personality that won't accept things straightforwardly. Used to describe people, like "偏屈爺" (stubborn old man), sometimes with affectionate nuance but basically negative.
+
+===word: 偏差値===
+Meaning: Standard score / Deviation value
+Nuance_EN: A statistical value based on standard deviation, commonly used for relative evaluation of academic test results. Very common in Japanese education as an indicator of school difficulty and personal ability.
+
+===word: 偏狭===
+Meaning: Narrow-minded / Bigoted
+Nuance_EN: An adjectival noun describing a narrow-minded person who cannot accept others' opinions or different values. A critical word for evaluating personality or attitude, used in forms like "偏狭な人" or "偏狭な考え方." Slightly more formal than similar "狭量," usable in business and academic contexts. Strong criticism when used toward others.
+
+===word: 偏狭な人===
+Meaning: Narrow-minded person
+Nuance_EN: Someone with a narrow perspective who believes only their own opinions and values are correct, refusing to accept different views. Often accompanied by exclusivity, not just narrow-mindedness. A negative evaluation appearing when discussing relationship problems.
+
+===word: 偏狭な考えを持っている===
+Meaning: Has narrow-minded thinking
+Nuance_EN: Refers to a state of having a narrow perspective, being fixated on one's own ideas and values while rejecting others' opinions. "偏狭" means biased and narrow, used critically toward people's thinking and attitudes.
+
+===word: 偏見===
+Meaning: Prejudice / Bias
+Nuance_EN: A preconceived or distorted view of specific people or things without objective basis. Often causes discrimination and misunderstanding.
+
+===word: 偏頭痛===
+Meaning: Migraine
+Nuance_EN: A medical term for paroxysmal headaches occurring on one side of the head. Characterized by throbbing, pulsating pain, sometimes with sensitivity to light and sound. A commonly used symptom name, also written as "片頭痛."
+
+===word: 偏食===
+Meaning: Picky eating / Imbalanced diet
+Nuance_EN: A dietary habit of eating only specific foods and avoiding others. Often problematic during children's growth, with improvement recommended from a nutritional balance perspective. Adults can also develop picky eating due to stress.
+
+===word: 偕老同穴===
+Meaning: Growing old together in the same grave
+Nuance_EN: A four-character idiom meaning a couple living happily together until old age and being buried in the same grave after death. A formal expression used in wedding speeches.
+
+===word: 停戦===
+Meaning: Ceasefire
+Nuance_EN: Refers to temporarily stopping war or combat. A formal word used in international politics and military contexts, important as a first step toward peaceful resolution.
+
+===word: 停戦協定===
+Meaning: Ceasefire agreement
+Nuance_EN: Read as "ていせんきょうてい," a formal agreement between warring parties to cease armed conflict. A key term frequently appearing in international politics and military news.
+
+===word: 停泊（する）===
+Meaning: Anchor / Berth
+Nuance_EN: Refers to a ship staying or mooring at a port or shore. A maritime term used in travel and logistics contexts.
+
+===word: 停滞===
+Meaning: Stagnation / Standstill
+Nuance_EN: Refers to the progress or flow of things stopping or slowing down. A versatile word used in various fields including economic stagnation, discussion deadlock, and traffic congestion.
+
+===word: 停留所===
+Meaning: Bus stop / Stop
+Nuance_EN: A place where buses or trams regularly stop. Distinguished from railway "駅" (stations), often specifically referring to bus stops. Pronounced "ていりゅうじょ."
+
+===word: 停電===
+Meaning: Power outage / Blackout
+Nuance_EN: When electricity supply stops for some reason.
+
+===word: 健やか===
+Meaning: Healthy / Sound
+Nuance_EN: An adjectival noun describing a healthy and energetic state of body or mind. Somewhat literary and formal, used especially in phrases like "健やかに育つ" (grow healthily) or "健やかな体" (healthy body), implying sustained good condition.
+
+===word: 健全（な）===
+Meaning: Sound / Healthy
+Nuance_EN: Describes a normal, healthy state of mind, body, organization, or condition. Used broadly for physical/mental health as well as evaluating systems like "健全な財政" (sound finances) or "健全な社会" (healthy society).
+
+===word: 健勝===
+Meaning: Good health (formal)
+Nuance_EN: A somewhat formal Sino-Japanese word meaning being healthy and vigorous. Mainly used in letters and greetings as a set phrase like "ご健勝のこととお慶び申し上げます" (I am pleased to hear of your good health). Rarely used in conversation, strongly associated with formal written language.
+
+===word: 健在===
+Meaning: Alive and well / Still active
+Nuance_EN: Being healthy and actively existing. Used for elderly people still in good shape, or figuratively for things or techniques still being effective.
+
+===word: 健在===
+Meaning: Alive and well / Still going strong
+Nuance_EN: Being healthy and firmly present. Typically used as "ご健在ですか" (Are you still well?) for elderly people. Also used figuratively for things or technologies still in active use. A somewhat formal, polite expression not disrespectful to superiors.
+
+===word: 健常者===
+Meaning: Able-bodied person
+Nuance_EN: Refers to a person who is physically and mentally healthy without disabilities. Used in medical, welfare, and accessibility contexts, but requires care as a term contrasting with "障害者" (disabled person). Somewhat formal.
+
+===word: 健康===
+Meaning: Health
+Nuance_EN: A state of good physical and mental condition without illness or abnormality. Used as a noun ("健康を保つ") or adjectival noun ("健康な体"). A very common basic word in greetings and daily conversation.
+
+===word: 健康のため、適度な運動が必要です。===
+Meaning: Moderate exercise is necessary for health
+Nuance_EN: General health advice stating that moderate exercise is essential for maintaining health.
+
+===word: 健康は富に勝ることは言うまでもない。===
+Meaning: Health is better than wealth, needless to say
+Nuance_EN: "健康" refers to good physical and mental condition without illness. Used as a noun or adjectival noun. A very common basic word in greetings and daily conversation.
+
+===word: 健康を害さないように、常日頃から、体に対して様々な気配りをしています。===
+Meaning: I take daily care of my body to avoid harming my health
+Nuance_EN: "常日頃" is an adverb meaning "always" or "usually." Used in forms like "常日頃から" or "常日頃の," expressing habitual actions or continuous states. Often used when expressing gratitude ("常日頃お世話になっている") or long-held thoughts ("常日頃から思っていた"). Somewhat formal; "普段" is more casual in daily conversation.
+
+===word: 健康を損なう===
+Meaning: Damage one's health
+Nuance_EN: An expression meaning to worsen one's health, referring to falling ill due to intemperance or overwork. A somewhat stiff phrasing.
+
+===word: 健康上の理由で、引退することにした。===
+Meaning: Decided to retire for health reasons
+Nuance_EN: "健康" refers to good physical and mental condition. Used as a noun or adjectival noun. A very common basic word in greetings and daily conversation.
+
+===word: 健康診断===
+Meaning: Health checkup / Medical examination
+Nuance_EN: Regular physical examinations to detect diseases early and manage health. Commonly conducted annually at schools and workplaces, including height/weight measurements, blood tests, urine tests, and vision/hearing tests. Abbreviated as "健診."
+
+===word: 健忘症===
+Meaning: Amnesia / Memory loss
+Nuance_EN: A disease causing loss of memory. Symptoms of being unable to remember things.
+
+===word: 健気（な）===
+Meaning: Admirable / Brave (in a touching way)
+Nuance_EN: Describes someone in a weak or difficult situation who tries their best, expressed with endearment. Often used to praise the efforts of children or women, with a gentle, affectionate tone.
+
+===word: 健闘===
+Meaning: Good fight / Valiant effort
+Nuance_EN: Means fighting with all one's strength and putting up a good fight. Used in sports and competition contexts, including consolation for losers.
+
+===word: 側近===
+Meaning: Close aide / Inner circle
+Nuance_EN: People who serve close to a person of status or power, acting as advisors with influence. Refers to important figures around leaders in politics and business.
+
+===word: 側面===
+Meaning: Side / Aspect
+Nuance_EN: Refers to the side of an object or one aspect of a matter. Used for both physical sides and abstract aspects.
+
+===word: 側頭葉===
+Meaning: Temporal lobe
+Nuance_EN: A medical term for one of the lobes on the side of the cerebrum, primarily involved in auditory processing, language comprehension, and memory formation. The formal medical term in Japanese, rarely used in daily conversation but appears in brain science and psychology topics. Gives a specialized, precise impression.
+
+===word: 偵察===
+Meaning: Reconnaissance / Scouting
+Nuance_EN: Refers to secretly investigating enemy situations or terrain as a military action. Also used figuratively in business or exploration contexts for gathering competitor information. Implies covert information-gathering activities.
+
+===word: 偶像===
+Meaning: Idol / Icon
+Nuance_EN: Statues of gods or Buddhas made of wood or stone, or objects of worship. Used in religious contexts like "偶像崇拝" (idolatry), and figuratively for celebrities or famous people fervently admired.
+
+===word: 偶像化===
+Meaning: Idolization
+Nuance_EN: Means treating people or things as idols to be worshipped. Often used critically toward excessive adoration of celebrities or historical figures. A somewhat formal expression used in commentary and essays.
+
+===word: 偶数===
+Meaning: Even number
+Nuance_EN: Integers divisible by 2, such as 0, 2, 4, 6, 8. The antonym is "奇数" (odd number). Used in daily life like "偶数月" (even-numbered months) or "偶数のページ" (even-numbered pages).
+
+===word: 偶数は2で割り切れます。===
+Meaning: Even numbers are divisible by 2
+Nuance_EN: "偶数" refers to integers divisible by 2. The antonym is "奇数" (odd number). Used in daily life like "偶数月" (even-numbered months) or "偶数のページ" (even-numbered pages).
+
+===word: 偶然===
+Meaning: Coincidence / By chance
+Nuance_EN: Refers to events happening unintentionally or unexpected coincidences. Used as both noun and adverb. Can be used for good or bad events, but often carries positive surprise like "偶然の一致" (coincidental match).
+
+===word: 偶然符合したに過ぎぬ===
+Meaning: Merely coincided by chance
+Nuance_EN: Two things matching or coinciding perfectly. Agreement.
+
+===word: 偶発===
+Meaning: Accidental / Fortuitous
+Nuance_EN: Means occurring unexpectedly by chance. Used for events that are hard to predict or explain, like "偶発的な事故" (accidental incident) or "偶発的な出会い" (chance encounter). Similar to "偶然" but focuses on "unpredictable occurrence," often used as a technical term in insurance and risk management like "偶発的事故" (fortuitous accident).
+
+===word: 偽り===
+Meaning: Falsehood / Deceit
+Nuance_EN: A noun meaning hiding the truth by lying or being fake. Represents things that are not true or not genuine.
+
+===word: 偽名===
+Meaning: Alias / False name
+Nuance_EN: A fake name used to conceal one's real name. Commonly used in spy novels and crime contexts.
+
+===word: 偽善===
+Meaning: Hypocrisy
+Nuance_EN: Pretending to be good on the surface while harboring malice or selfish motives inside.
+
+===word: 偽善的な===
+Meaning: Hypocritical
+Nuance_EN: An adjectival noun describing the appearance of pretending to be good while having different inner thoughts. Contains a morally critical nuance.
+
+===word: 偽善者===
+Meaning: Hypocrite
+Nuance_EN: A person who acts like a good person outwardly while harboring malice or selfishness inside. A strongly negative word.
+
+===word: 偽悪===
+Meaning: Pretending to be bad
+Nuance_EN: Means pretending to be evil while actually being good. The opposite concept of hypocrisy.
+
+===word: 偽悪趣味===
+Meaning: Affected villainy / Posing as bad
+Nuance_EN: Refers to an attitude or tendency of making oneself appear worse than one actually is. Motivated by a desire to attract attention or appear cool. The opposite is "偽善趣味" (affected goodness). A somewhat specialized term used in literary and art criticism.
+
+===word: 偽札===
+Meaning: Counterfeit bill
+Nuance_EN: Forged paper money. A criminal act, with strict legal penalties for manufacturing or using counterfeit bills. Commonly used in phrases like "偽札をつかまされる" (be given counterfeit money). Also used in contexts like "偽札防止技術" (anti-counterfeiting technology).
+
+===word: 偽者のブランド品が公然と売られている===
+Meaning: Fake brand goods are openly sold
+Nuance_EN: Describes doing something openly in public without concealment. Often used in "公然の秘密" (open secret), referring to situations everyone knows but isn't officially acknowledged.
+
+===word: 偽装工作===
+Meaning: Cover-up operation / Camouflage
+Nuance_EN: Organized and intentional activities to hide facts and create a false appearance.
+
+===word: 偽証===
+Meaning: Perjury / False testimony
+Nuance_EN: Giving false testimony in court. A serious legal violation, constituting the crime of perjury.
+
+===word: 偽造===
+Meaning: Forgery / Counterfeiting
+Nuance_EN: A legal/crime-related term meaning to create fakes resembling the real thing. Targets include currency, documents, signatures, and artworks. Very negative, recognized as criminal activity.
+
+===word: 偽造する===
+Meaning: Forge / Counterfeit
+Nuance_EN: Means to create fakes that appear genuine. Used for documents, currency, artworks, etc. A somewhat formal word.
+
+===word: 偽造カードと暗証番号が揃えば、口座にある限りの現金が引き出されてしまう。===
+Meaning: With a forged card and PIN, all cash can be withdrawn
+Nuance_EN: "偽造" means creating fakes resembling the real thing, a legal/crime term. Targets include currency, documents, signatures, and artworks. Very negative, recognized as criminal activity.

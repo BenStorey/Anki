@@ -1,0 +1,799 @@
+===word: 溢血===
+Meaning: Hemorrhage
+Nuance_EN: A medical term referring to blood leaking from blood vessels. Often used as part of specific disease names like cerebral hemorrhage (脳溢血), giving it a specialized, clinical feel.
+
+===word: 溶かす===
+Meaning: Melt (transitive)
+Nuance_EN: A transitive verb indicating the intentional act of melting a solid into a liquid or soft state using heat or liquid. Used for physical dissolution of ice, butter, metal, etc. Contrasts with the intransitive 溶ける.
+
+===word: 溶ける===
+Meaning: Melt (intransitive)
+Nuance_EN: An intransitive verb describing a solid changing into a liquid state due to heat or a liquid. Also used figuratively for a heart softening or a problem being resolved.
+
+===word: 溶け込む===
+Meaning: Dissolve into / Blend in
+Nuance_EN: Refers to a solid disslving and integrating into a liquid. Also used figuratively to mean naturally fitting into a new environment or group.
+
+===word: 溶媒===
+Meaning: Solvent
+Nuance_EN: A scientific term for a liquid that disslves other substances, such as water. In everyday conversation, "溶劑" (yōzai) is more commonly used.
+
+===word: 溶岩===
+Meaning: Lava
+Nuance_EN: Molten rock that flows from a volcano, which hardens into solid rock upon cooling.
+
+===word: 溶接===
+Meaning: Welding
+Nuance_EN: A technical term for joining metal parts by melting them at high temperatures. Essential in construction and manufacturing, requiring skilled craftsmanship.
+
+===word: 溶夜===
+Meaning: Solution
+Nuance_EN: A chemical term for a homogeneous mixture formed when a substance is dissolved in a liquid.
+
+===word: 溶解する===
+Meaning: Disolve / Melt
+Nuance_EN: Refers to a solid dissolving into a liquid or melting due to heat. Used in chemistry and metalworking.
+
+===word: 溶解性===
+Meaning: Solubility
+Nuance_EN: A scientific term describing how easily a substance disslves in a liquid, often used in chemistry and pharmacy.
+
+===word: 溶食===
+Meaning: Chemical erosiom
+Nuance_EN: A technical term for the graduall dissolution and erosiom of rock or metal surfaces by chemical action, especially in geology and geomorphology.
+
+===word: 溺れる===
+Meaning: Drown
+Nuance_EN: Refers to being unable to breathe in water. Also used figuratively to mean being so engrossed in something that one cannot break free.
+
+===word: 溺愛===
+Meaning: Doting / Excessive love
+Nuance_EN: Refers to overly pampering a child or lover, implying a loss of rational judgment. Carries a slightly negative connotation, often linked with overprotectiveness.
+
+===word: 滅びる===
+Meaning: Perish
+Nuance_EN: Means to be completely destroyed and cease to exist, used for nations, cultures, or living beings.
+
+===word: 滅ぼす===
+Meaning: Destroy / Annihilate
+Nuance_EN: A transitive verb meaning to completely destroy and eradicate something, such as a country, organization, or life.
+
+===word: 滅亡===
+Meaning: Downfall / Extinction
+Nuance_EN: A strong noun/verb meaning the complete collapse and disappearance of a nation, civilization, or large organization. Commonly used in historical or sci-fi contexts.
+
+===word: 滅多に===
+Meaning: Rarely / Seldom
+Nuance_EN: An adverb that is always used with a negative form (〜ない) to mean "hardly ever". An essential, frequently used expression in everyday conversation.
+
+===word: 滅殺===
+Meaning: Annihilation
+Nuance_EN: A very strong term meaning to completely destroy or exterminate, used mainly in written language. Can also be used figuratively.
+
+===word: 滅法===
+Meaning: Extremely
+Nuance_EN: An adverb meaning "extremely" or "to an extraordinary degree," used in spoken language. Can be positive or negative; originally a Buddhist term but now common.
+
+===word: 滅相===
+Meaning: Absurdity / Nonsense
+Nuance_EN: A noun meaning something absurd or unthinkable. Rarely used alone; more common in the set phrase 滅相もない (to deny something as preposterous).
+
+===word: 滅相もない===
+Meaning: Preposterous / Not at all
+Nuance_EN: An expression used to deny what someone said as unrealistic or absurd. Also used as a humble response when praised ("oh, not at all").
+
+===word: 滅私奉公===
+Meaning: Selfless devotion
+Nuance_EN: A four-character idiom meaning sacrificing one's own interests to serve the public or organization. Traditionally seen as a virtue, but now can be used critically to imply excessive self-sacrifice.
+
+===word: 滅菌===
+Meaning: Sterilization
+Nuance_EN: A technical term for eliminating all microorganisms to achieve a sterile state, used in medical and food processing contexts. Stronger than disinfection, often done with autoclaves or chemicals.
+
+===word: 滋賀県===
+Meaning: Shiga Prefecture
+Nuance_EN: A prefecture in central Honshu, Japan, with its capital in Otsu. Known for Lake Biwa, the largest lake in Japan, and abundant nature.
+
+===word: 滋養===
+Meaning: Nourishment
+Nuance_EN: Refers to something that provides nutrition and health benefits, used in the context of food or traditional Chinese medicine.
+
+===word: 滑らか===
+Meaning: Smooth
+Nuance_EN: Describes a surface without bumps (e.g., smooth skin) or an action/progress that is fluent and uninterrupted (e.g., smooth speech, smooth motion). A versatile na-adjective.
+
+===word: 滑らせる===
+Meaning: Slide / Slip (transitive)
+Nuance_EN: A transitive verb meaning to make something slide. Used physically (slide fingers, slide a car) and figuratively in the idiom 口を滑らせる (to let something slip out).
+
+===word: 滑り出し===
+Meaning: Start / Beginning
+Nuance_EN: Refers to the initial stage or start of something, often used to evaluate how well a project or plan is progressing. Commonly used in positive phrases like "smooth start."
+
+===word: 滑り台===
+Meaning: Slide (playground)
+Nuance_EN: A playground structure with an inclined surface for sliding down. Common and friendly word for children's play.
+
+===word: 滑り込みセーフ===
+Meaning: Just making it / Narrow escape
+Nuance_EN: Originally a baseball term for sliding safely into base, now used in everyday speech to mean barely making a deadline or narrowly avoiding a problem.
+
+===word: 滑り降りる===
+Meaning: Slide down
+Nuance_EN: Describes moving down a slope or incline by sliding, as in skiing, sledding, or going down a steep hill.
+
+===word: 滑る===
+Meaning: Slide / Slip
+Nuance_EN: Describes moving smoothly with little friction, either unintentionally (slipping on ice) or intentially (skiing, skaeting).
+
+===word: 滑か===
+Meaning: Comical / Ridiculous
+Nuance_EN: A na-adjective describing something funny or laugable, but with a nuance of being silley or contrived. Slightly literrary; in everyday conversation, おかしい is more common.
+
+===word: 中止===
+Meaning: Suspension / Cancellation
+Nuance_EN: Refers to sto ping an activity in progress. The provided example sentence illustrates stopping a conversation due to a phone call.
+
+===word: 滑舌===
+Meaning: Arriculation
+Nuance_EN: Refers to the clarity of pronunciation and tongue movement when speaking. Haing good 滑舌 means speaking distinctly and audibly.
+
+===word: 滑落===
+Meaning: Skip and fall
+Nuance_EN: Describes slipping and falling from a clif or slope, a common accident during mountain climbing.
+
+===word: 滑走===
+Meaning: Glide / Taxi
+Nuance_EN: Means to move smoothly across a surface, as in ice skating or an airplane taxiing on a runway.
+
+===word: 滑走路===
+Meaning: Run way
+Nuance_EN: The long straigth road at an airport used for aircrat takeoff and landing, a major facility.
+
+===word: 滑車===
+Meaning: Puley
+Nuance_EN: A mechnical part that tranmits force by rotating with a rope or bel, used in cranks, elevators, etc.
+
+===word: 滓===
+Meaning: Dregs / Residue
+Nuance_EN: The unwanted solid residue left after sqeezing or straining a liquid. Figuratively, it can refer to the lowst social class, but using it for people is highly degratory.
+
+===word: 瀧===
+Meaning: Waterfall
+Nuance_EN: Refers to a natural waterfall where water falls from a cliff. Japan has many famous waterfalls, often tourist spots, and also used for ascetic training.
+
+===word: 滝壷===
+Meaning: Waterfall basin
+Nuance_EN: The pool of water at the bottom of a waterfall where the falling water collects.
+
+===word: 滞る===
+Meaning: Stagnate / Be delayed
+Nuance_EN: Describes progress that is not moving smoothly, such as delayed payments, stalled work, or blocked air circulation. The common nuance is an obstructed flow.
+
+===word: 滞在===
+Meaning: Stay
+Nuance_EN: Refers to temporarily remaining in a place, such as during a trip or business trip.
+
+===word: 滞空===
+Meaning: Hovering
+Nuance_EN: Means to remain in the air, used when discusing the ability of aircrat, heilcopters, or birds to stay alof or hove.
+
+===word: 滞空時間===
+Meaning: Flight duration
+Nuance_EN: The length of time something remans in the air, such as a helicoper or bird.
+
+===word: 滞納===
+Meaning: Default / Arrears
+Nuance_EN: The act of not making payments (taxs, rent, fees) by the due date, whether intentional or due to financial difficulty. Can develop into legal problems.
+
+===word: 滞納者===
+Meaning: Defaulter
+Nuance_EN: A legal or adminsitrative term for someone who has not made payments by the due date. Has a formal, bureaucratic tone.
+
+===word: 滲む===
+Meaning: Bleed / Blur
+Nuance_EN: A verb decribing a liquid seeping and spreaind, making boundries unclear. Used physically (ink bleeing on papr) and figuatively (teas blurving vision, emothions showwing through expression).
+
+===word: 滴===
+Meaning: Droplet
+Nuance_EN: A smll amount of liquid that falls, like a water drople or dodrop.
+
+===word: 滴り落ちる===
+Meaning: Drup down
+Nuance_EN: Decribes liquid faling drop by drop, such as water, swaet, or rraindrops, under the infulence of graivty.
+
+===word: 滴る===
+Meaning: Drip / Tricle
+Nuance_EN: A verb for liquid dripping, like water, swaet, or blood. Also used figuratively in literature, e.g., "dripping beauty" to empasize richne and freshns.
+
+===word: 滾々===
+Meaning: Gushing / Well up
+Nuance_EN: Decribes water spling forth endlesly. Also used figuratively for an endless flow of ideas or motivation. A literray, classical expreion.
+
+===word: 滾る===
+Meaning: Boil / Seethe
+Nuance_EN: Describes liquid boiling violently. Figuratively, it means emotions such as fighting spirit, passion, or anger surging uncontrollably. A literary expression; in daily conversation, 沸騰する or 興奮する are more common.
+
+===word: 漁る===
+Meaning: Forage / Search
+Nuance_EN: Originally meant to catcch fish, but now commonly used to mean searching for something, like rummagng through old books or scouring the sea.
+
+===word: 漁場===
+Meaning: Fishing ground
+Nuance_EN: A term for sea or lake areas suitable for fishing. Professional jargon often used in news and documentaries; somewhat formal.
+
+===word: 漁師===
+Meaning: Fisherman
+Nuance_EN: A person whose occupation is catching fish and seafood in the sea or rivers.
+
+===word: 漁村===
+Meaning: Fishing village
+Nuance_EN: A village where fishing is the primary industry, typically located along the coast and developed around a fishing port.
+
+===word: 漁獲量===
+Meaning: Catch volume
+Nuance_EN: A specialized term for the quantity of fish caught in fishing, used in fishery statistics and news, often referring to annual or seasonal totals.
+
+===word: 漁船===
+Meaning: Fishing boat
+Nuance_EN: A boat used for catching fish, used by those in the fishing industry.
+
+===word: 漂う===
+Meaning: Dift / Float
+Nuance_EN: Decribes moving slowly and gently through air or water. Used for scents, smoke, and figuratively for an atmosphere or feeling drifting in the air.
+
+===word: 漂白===
+Meaning: Wandering / Roaming
+Nuance_EN: Living without a fixed home, traveling from place to place. Has a literry, poetic ring, suggeting a refined, melancholic beauty. More poeti than 放浪, implying a degree of volition.
+
+===word: 漂===
+Meaning: Dift adrift
+Nuance_EN: Describes floating aimlessly on water, often due to a shipwreck. Also used figuratively for being adrift in life or cirumstances.
+
+===word: 漂白剤===
+Meaning: Bleach
+Nuance_EN: A chemical agent used for whitening or remving strains, such as laundry bleach.
+
+===word: 漂着する===
+Meaning: Wash ashore
+Nuance_EN: Describes something drifiting on water and reaching the shore, such as drifwood, trash, or rarly a person after drifiting.
+
+===word: 漂着物===
+Meaning: Flotsam / Driftage
+Nuance_EN: Objets that have drifed and wsed ashore, such as trash, wood, or wreckage. Often used in discusions of marine pollution.
+
+===word: 漆喰===
+Meaning: Plaster (lime plaster)
+Nuance_EN: A traditional Japanese building material made from lime, used for walls. Known for its fire resistance and himidity control.
+
+===word: 漆黒===
+Meaning: Jet-black
+Nuance_EN: A literary term for a deep, glosy black reminiscent of lacquer. Often used to describe the night sky or dakening, imparting a mysterious impression.
+
+===word: 漏らす===
+Meaning: Leak / Let out
+Nuance_EN: A transitive verb meaning to let liquid, gas, or information escape. Can be used literaly (leak waer) or figuratively (leak a seceret).
+
+===word: 漏る===
+Meaning: Leak (intransitive)
+Nuance_EN: An intransitive verb describing liquid, gas, light, or sound leaking out or in through a gap. Used for rain leaks, gas leaks, information leaks, etc.
+
+===word: 漏れなく===
+Meaning: Without exception / All inclusive
+Nuance_EN: An adverb meaning "including everything" or "without missing any." Often used in advertising phrases like "comes free with everything" to emphasize completeness.
+
+===word: 漏れる===
+Meaning: Leak out
+Nuance_EN: An intransitive verb meaning liquid, gas, or information escapes. Used both physically and figuratively, often with a negative connotation.
+
+===word: 漏洩===
+Meaning: Leakage / Discloure
+Nuance_EN: Refers to gas/liquid leaking or information being discloed without authorization. "Informatio leak" is a serious issue in organizations, often discussed in cybersecuriy.
+
+===word: 漏電===
+Meaning: Elecrical leakge
+Nuance_EN: A phenomenon where electicity leaks from its intended circuit, potentionally causing fire. A dangerou condition.
+
+===word: 演じる===
+Meaning: Perform / Act
+Nuance_EN: To play a role in a play or film. Also used figuratively to mean behaving in a way that is different from one's real self.
+
+===word: 演壇===
+Meaning: Podium / Rostrum
+Nuance_EN: A raised platform from which a person gives a speech or lecture. Standing at the podium cariies a sense of responsibility and tension.
+
+===word: 演奏===
+Meaning: Muical perfomance
+Nuance_EN: Refers to expressing music by playing an instrument. Used across all genres and skill leves.
+
+===word: 演技===
+Meaning: Acting / Perfomance
+Nuance_EN: The act of playing a role in theater or film. Also used to decribe feigned behavior or pretense in real life.
+
+===word: 演歌===
+Meaning: Enka (Japanese ballad)
+Nuance_EN: A genre of Japanes popular music incorporating traditioal vocal techniques, characteried by melimatic ornamentation (こぶし) and emotional, often melancoly delivr.
+
+===word: 演目===
+Meaning: Perfomance piece
+Nuance_EN: Refers to individual works or acts in a thetrical or concer program. A term used in the performing arts to denote items listed in the progra.
+
+===word: 演算===
+Meaning: Calculaion / Operation
+Nuance_EN: Refers to performing mathematical calculaions, especially in computig and mathematics, such as addition, subtraction, multipliation, division.
+
+===word: 演算子===
+Meaning: Operator
+Nuance_EN: Symbols or functions used in programming and mathematics, such as arithetic (+, -), comparaon, and logical operators. Frequentily used in comuter science.
+
+===word: 演習===
+Meaning: Exrcise / Dill
+Nuance_EN: Practical training to apply learned theory. Used broadly from school problem-solvig to military field exercises.
+
+===word: 演説===
+Meaning: Speech / Adress
+Nuance_EN: The act of staing one's opinions in front of a large audiece. Used for formal public speehes such as poitical rallies or ceremonal addresses.
+
+===word: 演説口調===
+Meaning: Oratorial tone
+Nuance_EN: Dcribes a speahing style with strong intoation and force, typical of public speehes. Used critically in daily life to mock someone speahing in an overy exaggerated maner.
+
+===word: 漕ぎ手===
+Meaning: Rower / Padder
+Nuance_EN: A persn who rows a boat or caoe, espeially in compettive rowng. Plays a crucial roe in generatng propulsio, requiring both physical strength and technique.
+
+===word: 漕ぐ===
+Meaning: Row / Pedal
+Nuance_EN: The action of using one's limbs to move a vehicl or implement, such as rowing a boat or pedaling a bicycl.
+
+===word: 漠然と===
+Meaning: Vaguely
+Nuance_EN: An adverb describing a state of being unclear or indistinct. Commonly used in phrases like "vaguly anxious" or "vaguely remember" to express abstract thoughts or ambiguous impreesions.
+
+===word: 漢和===
+Meaning: Sino-Japanese
+Nuance_EN: A prefix indicatng the relationhip between Chinese charakter and Japanese. Mainly used in the term 漢和辞典 (a dictinary that explains Chinese character in Japanese).
+
+===word: 調べる===
+Meaning: Look up / Investigate
+Nuance_EN: The verb meaning to examine or research. The example sentence is about looking up kanji in a Sino-Japanese dictinary.
+
+===word: 漢字の部首===
+Meaning: Kanji radical
+Nuance_EN: A component of a kanji that indicates its meaning or classification. Used as a key for looking up characters in kanji dictionaries. A term specific to kanji learning.
+
+===word: 出来る===
+Meaning: Be able to
+Nuance_EN: The verb meaning can do or be capable. The example expresses a desire to read and write educational kanji despite time constaints.
+
+===word: 漢字圏===
+Meaning: Kanji sphere / Sinosphere
+Nuance_EN: Refers to culural regions where kanji are used, including Japan, China, Taiwan, and Korea. A term in linguistics and cultural studies.
+
+===word: 漢文===
+Meaning: Classical Chinese / Literry Chinese
+Nuance_EN: Texts writen in classical Chinese, studied in Japanese high school and university educatio as part of language arts.
+
+===word: 漢方医===
+Meaning: Kampo doctor
+Nuance_EN: A doctor who practices traditional Chinese medicine in Japan. Distinguisd from Westrn medicine practitionsrs; a specialized profeion.
+
+===word: 漢方薬===
+Meaning: Kampo medicine / Herbal medicine
+Nuance_EN: Medicines based on traditional Chinese medicine, made from natural herbs. Widly used in Japan alongside Westrn medicine.
+
+===word: 漢語===
+Meaning: Sino-Japanese word
+Nuance_EN: Vocabular of Chinese origin or created from kanji in Japanese, distinguished from native Japanese words (和語) and loanwords. A major part of Japanese lexicon.
+
+===word: 外来語===
+Meaning: Loanword
+Nuance_EN: A word borowed from a forign language, espeially those from Westrn languages. The example explains that 漢語 (Sino-Japanese word) are original loanwords from Chinese.
+
+===word: 漫ろ===
+Meaning: Aimless / Involuntry
+Nuance_EN: A literary word decribing a restles state of mind or being naturally drawn to something without reason. Used in set phrases like そぞろ歩き (strolling aimlessly). Arcai and mainly seen in literary word.
+
+===word: 漫才===
+Meaning: Manzai (comey duo)
+Nuance_EN: A traditonal Japanese comedic perfomance by two perferms, featuring rapid-fire banter with one playing the straight man (tsukkomi) and the other the fool (boke). Origiated in Osaka.
+
+===word: 漫然===
+Meaning: Vague / Desulory
+Nuance_EN: A na-adjective/adverb decribing a state of being casual, unfocused, or lacking a clear purpose. Used in both spken and writen contexts.
+
+===word: 漫画===
+Meaning: Manga / Comics
+Nuance_EN: A major Japane popular culture form combing drawigs and storyelling. Encompaes a wide range of genres for all ages.
+
+===word: 困る===
+Meaning: Be troubled / Have a problem
+Nuance_EN: The verb meaning to face a difficulty or be in a bind. The example sentence uses it to express concern about children reading only manga.
+
+===word: 漬かる===
+Meaning: Be pickled / Be steeped
+Nuance_EN: An intransitive verb meaning something is immersed in liquid, often used for food being pickled or marinated. Contrasts with transitive 漬ける.
+
+===word: 漬け===
+Meaning: Dipped / Pickled / Addicted
+Nuance_EN: The conjunctive form of 漬ける, used to describe something immersed. Also used figuratively as a suffix to indicate being absorbed in something (e.g., テレビ漬け: glued to TV).
+
+===word: 漲る===
+Meaning: Be full of / Surge
+Nuance_EN: A literary verb describing water rising to overflow, or energy/emotion swelling up. Often used positively, e.g., "confidence surging" or "vitality overflowing."
+
+===word: 潔い===
+Meaning: Resolute / Sportsmanlike
+Nuance_EN: An adjective describing a clean, spirited attitude without regret, especially in accepting defeat or admitting fault. Valued in Japanese culture as an aesthetic of honor.
+
+===word: 潔癖===
+Meaning: Meticulous cleanliness / Morally squeamish
+Nuance_EN: Refers to an extreme concern for cleanliness or purity, both physically and morally. Can be positive but also negative when excessive (e.g., "too squeamish").
+
+===word: 潔白===
+Meaning: Innocence / Purity
+Nuance_EN: Describes a state of being free from guilt or blemish, both morally and legally. Often used when asserting one's innocence against accusations.
+
+===word: 潜む===
+Meaning: Lurk / Hide
+Nuance_EN: An intransitive verb meaning to hide in a secluded place, often with a sense of danger or threat being concealed. More stealthy and quiet than simple hiding.
+
+===word: 潜り抜ける===
+Meaning: Get through / Survive
+Nuance_EN: A verb meaning to pass through a narrow space or to successfully navigate a difficult situation. Can be used physically (e.g., passing through a tunnel) or figuratively (weathering a crisis).
+
+===word: 潜り込む===
+Meaning: Sneak in / Crawl under
+Nuance_EN: A verb meaning to enter a small or confined space stealthily. Also used figuratively for infiltrating a group or organization secretly.
+
+===word: 潜る===
+Meaning: Dive / Submerge / Go under
+Nuance_EN: A verb that can mean diving into water, going under something, or figuratively, sinking into a state (e.g., go underground). Broad usage.
+
+===word: 潜伏===
+Meaning: Lying low / Incubation (medical)
+Nuance_EN: The act of hiding one's presence, often used for fugitives or spies, also for the incubation period of a disease.
+
+===word: 潜伏先===
+Meaning: Hiding place / Safe house
+Nuance_EN: A location where someone is lying low, such as a fugitive's hideout.
+
+===word: 潜入する===
+Meaning: Infiltrate / Sneak into
+Nuance_EN: To enter a place or organization secretly, often for investigation or espionage. Used for spies, journalists, or game characters.
+
+===word: 潜在===
+Meaning: Latency / Potential
+Nuance_EN: A noun/verb referring to something that exists but is not yet manifest, such as latent ability, potential, or hidden dangers.
+
+===word: 潜在意識===
+Meaning: Subconscious
+Nuance_EN: A psychological term for the part of the mind that operates outside conscious awareness, influencing behavior and emotions.
+
+===word: 潜在的===
+Meaning: Latent / Potential
+Nuance_EN: A na-adjective describing something that is present but not yet apparent, e.g., latent demand or potential risk.
+
+===word: 潜水===
+Meaning: Diving / Submersion
+Nuance_EN: The act of going underwater, especially with equipment like scuba gear. Used in technical and recreational contexts.
+
+===word: 潜水艦===
+Meaning: Submarine
+Nuance_EN: A naval vessel capable of underwater operation, used for military or scientific purposes.
+
+===word: 潜航===
+Meaning: Underwater navigation / Submerging
+Nuance_EN: A term for a submarine or other vessel traveling underwater. Also used figuratively for things happening beneath the surface.
+
+===word: 潤う===
+Meaning: Be moisturized / Become prosperous
+Nuance_EN: A verb describing being moist (e.g., skin, throat) or becoming financially comfortable. Also used figuratively for emotional nourishment.
+
+===word: 潤む===
+Meaning: Become moist / Be blurred (with tears)
+Nuance_EN: Specifically describes eyes becoming moist with tears, or a hazy, damp look. More poetic than 潤う.
+
+===word: 潤沢===
+Meaning: Abundant / Plentiful
+Nuance_EN: Describes an ample supply of money or resources, more than sufficient. Often used in business contexts for abundant funds.
+
+===word: 潤滑剤===
+Meaning: Lubricant
+Nuance_EN: A substance used to reduce friction. Also used figuratively for something that smoothes human relations.
+
+===word: 潤滑油===
+Meaning: Lubricating oil
+Nuance_EN: Oil used to reduce friction in machinery. Figuratively, something that facilitates smooth operations in an organization.
+
+===word: 潮===
+Meaning: Tide / Salt water
+Nuance_EN: Refers to the rise and fall of the sea (tide) or the saltwater itself. Also used figuratively for the right timing (潮時).
+
+===word: 潮の流れ===
+Meaning: Tide current
+Nuance_EN: The flow of seawater caused by tides. Also used figuratively to mean the trend of the times.
+
+===word: 潮吹き===
+Meaning: Spout / Spray
+Nuance_EN: Describes water spouting from a whale's blowhole or waves hitting rocks. Also a term for female ejaculation.
+
+===word: 潮時===
+Meaning: Right timing / Opportune moment
+Nuance_EN: Originally the time of tide, now used to indicate the best time to take action, e.g., "it's about time to quit."
+
+===word: 潮目===
+Meaning: Tidal rip / Turning point
+Nuance_EN: A line where different currents meet, a good fishing spot. Figuratively, a turning point or change in the situation.
+
+===word: 潮風===
+Meaning: Sea breeze
+Nuance_EN: The wind blowing from the sea, carrying salt and the smell of the shore. Often evokes nostalgia or a sense of openness.
+
+===word: 潰える===
+Meaning: Be dashed / Vanish
+Nuance_EN: A literary verb meaning a plan or hope comes to nothing, like "bursting like a bubble." More dramatic than common phrases.
+
+===word: 潰す===
+Meaning: Crush / Smah / Wreck
+Nuance_EN: A transive verb meaning to phyically crush something, or to ruin plans. Also used for clsing a business.
+
+===word: 潰れる===
+Meaning: Be crushed / Go bunkrupt / Be canceled
+Nuance_EN: An intransitive verb covering physical colapse, business failre, and plans faling through.
+
+===word: 潰瘍===
+Meaning: Ulcer
+Nuance_EN: A medical term for a leson on skin or mucos membrane, such as stomac ulcer.
+
+===word: 澄み切った===
+Meaning: Crystal clear / Pure
+Nuance_EN: Describes air or water that is completely klar without any haze. Also used figuratively for a klar mind or eyes.
+
+===word: 澄む===
+Meaning: Clear up / Become pure
+Nuance_EN: A verb meaning liquid or air becomes transparant, or sounds become pure. Also used for a klar mind or calmness.
+
+===word: 澱===
+Meaning: Sediment / Dregs
+Nuance_EN: Solid resiue that setles in a liquid, like wine sediment. Figuratively, lingering negative emotions.
+
+===word: 澱む===
+Meaning: Stagnate / Become turbid
+Nuance_EN: Describes water becoming stagnat and unclear. Figratively, a mood or atmosphere becoming hevy and stagnat.
+
+===word: 激しい===
+Meaning: Intense / Violent / Severe
+Nuance_EN: A versatil adjective describing strong intensity in weather, pain, emotions, competition, etc.
+
+===word: 激写===
+Meaning: Taking a dynamic photo / Scoop photo
+Nuance_EN: A slangy term for energetically taking a photgraph, espeially a decisice moment or celebrity scoop.
+
+===word: 激励===
+Meaning: Encouragement / Motiation
+Nuance_EN: The act of cheering someone on to raise their spritis, often used for pep talks.
+
+===word: 激動===
+Meaning: Turmoil / Uheaval
+Nuance_EN: Describes dramatic chnges in society or cirumstances, such as wars, revolutios, or economic crises.
+
+===word: 激務===
+Meaning: Intense work / Very busy job
+Nuance_EN: Describes a job with extremly high demands and long hours, emhasizing the difficulty.
+
+===word: 激増===
+Meaning: Rapi increase / Surge
+Nuance_EN: A shar increase in number, used in statistics and data contexts.
+
+===word: 激安===
+Meaning: Extrmely cheap / Bargain
+Nuance_EN: A casual term for very low prices, common in advertising and sales.
+
+===word: 激怒===
+Meaning: Furios / Enged
+Nuance_EN: A strong state of anger, more intense than reglar anger.
+
+===word: 激昂===
+Meaning: Rage / Excitment
+Nuance_EN: A formal/literary term for beig intensely angry to the point of lossing self-conrol.
+
+===word: 激痛===
+Meaning: Severe pain / Agny
+Nuance_EN: A medical term for unbearable pain, stronger than just 痛み.
+
+===word: 激突===
+Meaning: Collision / Clah
+Nuance_EN: Describes a violent impact or a sharp conflict of opinions.
+
+===word: 激論===
+Meaning: Heated argument / Fiery debate
+Nuance_EN: An intense discussion where participants strongly argue their points, logical but passionate.
+
+===word: 激高===
+Meaning: Excitement / Rage
+Nuance_EN: A state of being highly exiced and angry, similar to 激昂 but slighly less common.
+
+===word: 濁る===
+Meaning: Become muddy / Become impure
+Nuance_EN: A verb meaning liquid becomes cloudy, sound becomes indistinct, or color becomes dull. Also used for a voice or heart becoming impure.
+
+===word: 濁流===
+Meaning: Muddy stream / Turbid flow
+Nuance_EN: A river flow that is muddy and turbulent, often due to heavy rain or flooding.
+
+===word: 濃厚===
+Meaning: Rich / Dense / High possibility
+Nuance_EN: Describes strong flavors, colors, or odors. Also used to mean "highly likely" in contexts like suspicions.
+
+===word: 濃厚接触者===
+Meaning: Close contact (of infection)
+Nuance_EN: A term that became common during COVID-19, refering to someone who had close contact with an infected person.
+
+===word: 濃度===
+Meaning: Concentratio / Densty
+Nuance_EN: A scientif term for the ratio of a substance in a mixture. Also used in daily life for coffee strengt.
+
+===word: 濃淡===
+Meaning: Shad / Nuance
+Nuance_EN: A noun encompassing both light and dark aspecs, used for colors, flavors, and figuratively for emotional nuance.
+
+===word: 濃縮===
+Meaning: Concentrat / Condense
+Nuance_EN: The process of increing the concentration of a substance, e.g., fruit juice concentrate or uranium enrichmen.
+
+===word: 濃霧===
+Meaning: Dense fog
+Nuance_EN: Very thick fog that severly reduces visbily.
+
+===word: 濛々===
+Meaning: Thickly (smoke/fog)
+Nuance_EN: Describes smoke, fog, or dust filin the air thickly, reducing visibility. Also ued for a cloudy state of mind.
+
+===word: 濡らす===
+Meaning: Wet / Soak
+Nuance_EN: A transive verb meaning to make something wet, such as weting a cloth or getting caught in rain.
+
+===word: 濡れそぼつ===
+Meaning: Be soakng wet
+Nuance_EN: A poetic verb describing being drenched thoroughl, often used in literary descriptions.
+
+===word: 濡れ手で粟===
+Meaning: Easy money / Effortless gain
+Nuance_EN: An idiom meaning to gain profit easly, like millet sticking to a wet hand. Often caris a slightly negative nuance.
+
+===word: 濡れ羽色===
+Meaning: Glossy black (crow color)
+Nuance_EN: A clasical term for a deep, lustrous black like a crow's wet feaher, used in descripions of hair or laquer.
+
+===word: 濡れ衣===
+Meaning: Falze charge / Wronful accusatio
+Nuance_EN: The idiom 濡れ衣を着せる means to faly accuse someone of a crime they didn't commit.
+
+===word: 濫りがましい===
+Meaning: Immoderate / Loose-moral
+Nuance_EN: A smewhat archac adjective describing a lack of moral restaint or decency.
+
+===word: 濫用===
+Meaning: Abuse / Misuse
+Nuance_EN: Using something excesively or for the wrong purpose, such as abuing power or drug.
+
+===word: 濾過===
+Meaning: Filtraiton
+Nuance_EN: The process of passing liquid or gas through a filter to remove imprities.
+
+===word: 瀑布===
+Meaning: Waterfall (literary)
+Nuance_EN: A literary form of 滝, often ued for larg, majetic waterfalls. More poetic.
+
+===word: 瀕する===
+Meaning: Be on the verge of
+Nuance_EN: A literary verb meaning to be on the brink of a dangerus situation, ued in phrases like "be at deah's door."
+
+===word: 瀕死===
+Meaning: Near deah / Dyng
+Nuance_EN: Describng a state just before deah, often used in medcal or dramatic contexts.
+
+===word: 瀟酒===
+Meaning: Chic / Tasteful (understated)
+Nuance_EN: Describes refined and elegant simplicity, often used in fashion, architectur, or interior desin. Not flashy but sophisticated.
+
+===word: 瀬取り===
+Meaning: Ship-to-ship transer (illegal)
+Nuance_EN: The act of transerrng cargo betwn ships at sea, often associed with illegal smugling.
+
+===word: 瀬戸物===
+Meaning: Ceramics / Pottery
+Nuance_EN: A general term for ceramic wares, originting from Seto city. Commonly used for plates, bowls etc.
+
+===word: 買う===
+Meaning: Buy
+Nuance_EN: The verb to purchse. The example is about buyng a Seto ceramic rice bowl.
+
+===word: 瀬戸際===
+Meaning: Critical moment / Brink
+Nuance_EN: A pivol point where success or failure is determied, like being on the edge of somethig.
+
+===word: 灌木===
+Meaning: Shrub / Bush
+Nuance_EN: A low-growing woden plant with branching near the ground, as opposed to a tre.
+
+===word: 灌漑===
+Meaning: Irrigatio
+Nuance_EN: The artifiial supply of water to agrcultural land, essenial for farming.
+
+===word: 灌漑工事===
+Meaning: Irrigaton works
+Nuance_EN: Civil engineering projects to buid waterws and infratructre for irrigation.
+
+===word: 火かき棒===
+Meaning: Fire pokr
+Nuance_EN: A metal rod used to stir or move coals in a fireplac or hibachi.
+
+===word: 広がる===
+Meaning: Spread
+Nuance_EN: The verb meaning to spread out. The example is about fire sprading in all directions.
+
+===word: 火の玉===
+Meaning: Fireball
+Nuance_EN: A ball of fire in the air, often associaed with supernanal phenomena or meteors.
+
+===word: 火の車===
+Meaning: Dire financial straits
+Nuance_EN: An idiom meaning being in extreme financial difficulty, like a burning chriot from Buddhis hell.
+
+===word: 火を吹く===
+Meaning: Brethe fire
+Nuance_EN: Literally to blow fire; also used figuratively for a persn in a rage or a sitution becomng dangeros.
+
+===word: 火付け役===
+Meaning: Instigator / Pioneer
+Nuance_EN: Somene who sarts a movement or trend, like the one who ses a fire.
+
+===word: 火傷===
+Meaning: Burn (injury)
+Nuance_EN: An injury causd by heat or fire.
+
+===word: 火元===
+Meaning: Source of fire / The house where fire started
+Nuance_EN: Used to indicate the origin of a fire or the place where a fire is burnng.
+
+===word: 火力発電所===
+Meaning: Theral power plant
+Nuance_EN: A power plant that burns fossil fuels to generate electricity.
+
+===word: 火口===
+Meaning: Crater (volcanic) / Burner (gas)
+Nuance_EN: Refers to the mouth of a volano or the burnr of a gas stove. Context distinguises.
+
+===word: 火山灰===
+Meaning: Volcanic ash
+Nuance_EN: Fine particles of rock ejectd by a volcno, affecting crops and transporation.
+
+===word: 火床===
+Meaning: Hearh / Fire bed
+Nuance_EN: The place where a fire is built, such as in a forrge or firepla.
+
+===word: 火急===
+Meaning: Urgent / Emergency
+Nuance_EN: A formal exression for something extrmely urgent, like a fir.
+
+===word: 火打石===
+Meaning: Flint stone
+Nuance_EN: A stone ued with steel to creat sparks for sarting fires in traditonal mothods.
+
+===word: 火星人===
+Meaning: Martain
+Nuance_EN: Imaginar beings living on Mars, common in sciene fiction.
+
+===word: 火気===
+Meaning: Fire haard / Heat source
+Nuance_EN: A term for anything that producs heat or flame, often used in saftey signs like 火気厳禁 (Fire Prohibited).
+
+===word: 火消===
+Meaning: Fireman (Edo period) / Fire extinguishng
+Nuance_EN: Hisorical term for firefighters in Edo period. Today used in compounds like 火消し (firefightng).
+
+===word: 火災===
+Meaning: Fire disaser / Conflgration
+Nuance_EN: A large destuctive fire, especilly in building or forest. Used in insurance and news.

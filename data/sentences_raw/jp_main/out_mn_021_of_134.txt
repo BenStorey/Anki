@@ -1,0 +1,799 @@
+===word: 並列計算===
+Meaning: Parallel Computing
+Nuance_EN: This is a technical term in computer science referring to computation that carries out multiple processes simultaneously.
+
+===word: 並外れる===
+Meaning: Surpass / Be Extraordinary
+Nuance_EN: This verb describes something that greatly exceeds normal standards, used for abilities, efforts, or scale. It can be positive (e.g., extraordinary talent) or negative (e.g., extreme heat). Slightly more common in written language than casual speech, and focuses on abstract superiority rather than visual impression.
+
+===word: 並大抵===
+Meaning: Ordinary / Average
+Nuance_EN: This noun is most commonly used in the negative form "並大抵ではない" meaning "extraordinarily difficult" or "far from ordinary". It emphasizes that something is not just average in intensity or effort.
+
+===word: 並木===
+Meaning: Tree-Lined Street
+Nuance_EN: This refers to trees planted in a row along one or both sides of a road, river, etc., providing shade and beautifying the streetscape.
+
+===word: 並行===
+Meaning: Parallel / Concurrent
+Nuance_EN: Describes two or more things proceeding side by side, such as parallel lines or simultaneous tasks. Predominantly used adverbially as "並行して" (in parallel with).
+
+===word: 並走===
+Meaning: Run Side by Side
+Nuance_EN: This word describes two or more things running alongside each other or progressing simultaneously, whether literally or figuratively.
+
+===word: 中世===
+Meaning: Medieval Period
+Nuance_EN: This historical term refers to the period between ancient and modern times. In Western history, it spans the 5th–15th centuries; in Japanese history, it covers from the Kamakura to the Azuchi-Momoyama period.
+
+===word: 中二病===
+Meaning: Adolescent Delusions
+Nuance_EN: This slang term refers to a stage of adolescent self-consciousness and pretentious behavior, often characterized by grandiose fantasies or affected mannerisms. Commonly used in pop culture for middle-school-aged children who act as if they have special powers or deep insights.
+
+===word: 中傷===
+Meaning: Slander / Defamation
+Nuance_EN: Refers to the act of spreading malicious, factually false rumors to damage someone's reputation. It carries a strong negative nuance and can have legal consequences.
+
+===word: 中傷合戦===
+Meaning: Slander Battle
+Nuance_EN: This term describes a situation where two or more parties engage in mutual slanderous remarks, often in public or political contexts.
+
+===word: 中古===
+Meaning: Used / Secondhand
+Nuance_EN: Describes items that have been previously owned and are not new. Commonly used in compounds like "中古車" (used car) or "中古本" (used book).
+
+===word: 中和===
+Meaning: Neutralization
+Nuance_EN: Primarily refers to the chemical reaction where an acid and a base cancel each other out. Also used metaphorically for softening opposing opinions or emotions. Has a somewhat technical or formal nuance.
+
+===word: 参拝===
+Meaning: Shrine Visit
+Nuance_EN: This word refers to visiting a Shinto shrine, and is often used in politically or religiously sensitive contexts, such as visits to Yasukuni Shrine. The nuance of the shrine's name itself means "pacifying the nation."
+
+===word: 中坊===
+Meaning: Junior High Student (slang)
+Nuance_EN: A casual, somewhat rough slang term for a junior high school student, mainly used among younger speakers to refer to early teens.
+
+===word: 中堅===
+Meaning: Core / Mid-Level
+Nuance_EN: Refers to the central, experienced layer within an organization, especially mid-career employees who form the backbone of a company. Used in formal business contexts.
+
+===word: 中堅手===
+Meaning: Center Fielder
+Nuance_EN: A baseball position referring to the player who defends center field. It requires a wide defensive range and a strong arm, and is a critical outfield position.
+
+===word: 革===
+Meaning: Leather
+Nuance_EN: This word refers to animal hide processed for use in products like wallets, shoes, bags, and jackets. It is valued for durability and a sense of luxury, and is often specified as "本革" (genuine leather) to distinguish from synthetic alternatives.
+
+===word: 中央値===
+Meaning: Median
+Nuance_EN: A statistical term for the middle value when data is sorted in order. Unlike the mean, it is less affected by extreme values. Used in mathematics and statistics.
+
+===word: 札===
+Meaning: Tag / Label / Note
+Nuance_EN: A polysemous word referring to a small piece of paper or board displaying information such as price, name, or notice. It can mean price tag, name tag, talisman, or banknote depending on context.
+
+===word: 度重なる===
+Meaning: Repeated / Frequent (negative)
+Nuance_EN: This adjective describes something that occurs repeatedly, especially undesirable events. It has a somewhat formal tone and is often used in reports or apologies.
+
+===word: 中州===
+Meaning: Sandbar / Mid-River Island
+Nuance_EN: Refers to a small island formed by sediment deposits in a river. Used in geography and landscape descriptions.
+
+===word: 中年===
+Meaning: Middle Age
+Nuance_EN: Refers to the period of life roughly between one's 40s and 60s. Commonly used in compounds like "中年太り" (middle-age spread) and "中年男性" (middle-aged man).
+
+===word: 中座===
+Meaning: Leaving One's Seat Temporarily
+Nuance_EN: This word means to step away from a meeting, meal, or conference temporarily (e.g., for a restroom or phone call), not permanently leaving. It is a polite expression.
+
+===word: 中庭===
+Meaning: Courtyard
+Nuance_EN: Refers to an inner yard surrounded by a building, often a private space not visible from outside. Common in schools and homes.
+
+===word: 中庸===
+Meaning: Moderation / Golden Mean
+Nuance_EN: This word denotes a balanced, unbiased state or way of thinking, derived from ancient Chinese Confucian philosophy. It is used to advise avoiding extremes in daily life.
+
+===word: 中心核===
+Meaning: Core (celestial)
+Nuance_EN: An astronomical/geological term for the densest central part of a celestial body, such as Earth's iron-nickel core or a star's fusion region. Used in scientific contexts.
+
+===word: 中心点===
+Meaning: Center Point
+Nuance_EN: Refers to the exact middle point of an object or the central focus of activity or interest. Used broadly from geometry to figurative expressions.
+
+===word: 標的===
+Meaning: Target
+Nuance_EN: This word originally means a target for archery, but is also used metaphorically for a goal or objective. It is common in both literal and figurative contexts.
+
+===word: 中性===
+Meaning: Neutral
+Nuance_EN: In chemistry, it describes a state that is neither acidic nor alkaline. More broadly, it can refer to being unbiased in gender or stance.
+
+===word: 中手===
+Meaning: Mid-Season Crop Variety
+Nuance_EN: An agricultural term for crop varieties that ripen between early and late harvest seasons. Used in farming contexts, rarely in everyday conversation.
+
+===word: 中指===
+Meaning: Middle Finger
+Nuance_EN: Refers to the longest finger at the center of the hand. Commonly used for pointing or gestures, though the anatomical term is neutral.
+
+===word: 挟む===
+Meaning: To Pinch / To Insert
+Nuance_EN: This verb means to catch something between two objects (e.g., a finger in a door) or to insert something. It is a common daily verb.
+
+===word: 中断する===
+Meaning: Interrupt / Suspend
+Nuance_EN: Means to temporarily stop an ongoing activity, with the possibility of resuming later. Unlike "中止" (cancel), it implies the action may continue. Used in daily speech and business.
+
+===word: 中旬===
+Meaning: Mid-Month
+Nuance_EN: Refers to the period from around the 11th to the 20th of a month, dividing the month into three ten-day segments: beginning, middle, and end.
+
+===word: 中枢===
+Meaning: Center / Hub
+Nuance_EN: This word denotes the central, vital part of a system or organization, such as the central nervous system or a central administrative body. It implies a core that controls or integrates.
+
+===word: 中止===
+Meaning: Cancel / Abort
+Nuance_EN: Means to stop something partway or not carry out a planned event. Used for events, broadcasts, etc., implying complete cessation.
+
+===word: 中毒===
+Meaning: Poisoning / Addiction
+Nuance_EN: Refers to a state of dependence on a substance or behavior, making it hard to stop. Used for both physical addiction (e.g., alcohol) and psychological dependence (e.g., gambling). Has a strong medical nuance.
+
+===word: 中火===
+Meaning: Medium Heat
+Nuance_EN: A cooking term for a heat level between high and low, essential for many Japanese dishes like stir-fries and simmered foods. It is a basic concept in Japanese home cooking.
+
+===word: 中略===
+Meaning: Omission (in the middle)
+Nuance_EN: This word means to omit the middle part of a text or speech. Commonly used in formal documents and citations.
+
+===word: 中破===
+Meaning: Moderate Damage
+Nuance_EN: Refers to damage about halfway to total destruction, especially for ships or machinery. Often used in gaming or military contexts.
+
+===word: 中立===
+Meaning: Neutrality
+Nuance_EN: Means maintaining a fair stance without siding with either party in a conflict. Used in international relations (non-aligned countries) and everyday discussions where one refuses to take sides.
+
+===word: 取る===
+Meaning: To Take
+Nuance_EN: This verb means to take, pick up, or obtain something. In the given context, it appears in the phrase "カラスを取った" meaning "took the crow" (as in scoring in a game). It is a highly common, multi-purpose verb.
+
+===word: 中絶===
+Meaning: Abortion
+Nuance_EN: This medical term refers to artificially terminating a pregnancy. It is a sensitive topic and used cautiously, often in medical or social discussions.
+
+===word: 中継===
+Meaning: Relay / Live Broadcast
+Nuance_EN: Refers to receiving information from a distance and transmitting it elsewhere, most commonly in TV/radio "生中継" (live broadcast). Also used for telephone relay. Very common in sports and news contexts.
+
+===word: 中腹===
+Meaning: Mid-Slope (of a mountain)
+Nuance_EN: Describes a location halfway between the summit and the foot of a mountain or hill. Used in hiking or landscape descriptions.
+
+===word: 中華人民共和国===
+Meaning: People's Republic of China
+Nuance_EN: This is the official name of China. Used in diplomatic or formal contexts. (No additional nuance given in input.)
+
+===word: 中足骨===
+Meaning: Metatarsal Bones
+Nuance_EN: The five bones in the central part of the foot, connecting the toes to the ankle. A medical/anatomical term.
+
+===word: 中身===
+Meaning: Contents / Substance
+Nuance_EN: Refers to what is inside a container, or the substantive content of something. Very common in daily conversation for both physical and figurative uses.
+
+===word: 中近東===
+Meaning: Middle and Near East
+Nuance_EN: A geographic term combining the Middle East and Near East, covering regions from West Asia to North Africa. Used in geography and international news.
+
+===word: 中退===
+Meaning: Dropout (from school)
+Nuance_EN: Means leaving an educational institution before graduation, most commonly "大学中退" (college dropout). A formal expression.
+
+===word: 中途===
+Meaning: Halfway / In the Middle
+Nuance_EN: This word means the middle or midway of a process. Used in compounds like "中途半端" (half-baked) or "中途採用" (mid-career hiring). Rarely used alone.
+
+===word: 中部===
+Meaning: Central Part / Region
+Nuance_EN: Refers to the middle section of an area or object. In Japan, it often denotes the Chubu region, including Nagoya and the Japanese Alps.
+
+===word: 中間===
+Meaning: Middle / Intermediate
+Nuance_EN: Indicates a position in between two things, whether in distance, time, or order. Broadly used in various contexts.
+
+===word: 中黒===
+Meaning: Middle Dot (punctuation)
+Nuance_EN: This is the Japanese punctuation mark "・" used to separate items in lists or foreign words. Also called "なかぽち". Practical for typing and document writing.
+
+===word: 串===
+Meaning: Skewer
+Nuance_EN: A thin, pointed stick used to pierce and fix food (e.g., yakitori, dango) or in crafts. A familiar, everyday word.
+
+===word: 串刺し===
+Meaning: Skewered (food)
+Nuance_EN: Refers to the act of piercing food items onto a skewer, as done for yakitori or kushikatsu. A cooking method term.
+
+===word: 丸々===
+Meaning: Entirely / Completely (emphasis)
+Nuance_EN: An adverb emphasizing that something is whole or fully characterized by a quality, e.g., "丸々一ヶ月" (a full month) or "丸々太っている" (completely fat).
+
+===word: 丸ごと===
+Meaning: Whole / Entirely
+Nuance_EN: Describes taking or accepting something in its entirety without dividing or processing it. Also used figuratively for accepting something as a whole.
+
+===word: 丸っきり===
+Meaning: Completely (negative)
+Nuance_EN: An emphatic adverb meaning "completely" or "entirely," used almost exclusively in negative contexts, e.g., "丸っきりダメ" (completely no good). Casual spoken language.
+
+===word: 丸っこい===
+Meaning: Roundish / Chubby
+Nuance_EN: Describes something that is not perfectly round but has rounded contours, often giving a cute or soft impression.
+
+===word: 丸っ切り===
+Meaning: Completely (negative)
+Nuance_EN: Alternate spelling of "丸っきり," meaning "absolutely (not)." Used with negatives for strong denial, e.g., "丸っ切り分からない" (I have absolutely no idea).
+
+===word: 丸み===
+Meaning: Roundness / Curve
+Nuance_EN: Refers to the quality of being rounded or having smooth curves, often used in design to convey softness or friendliness.
+
+===word: 車体===
+Meaning: Body (of a vehicle)
+Nuance_EN: This word refers to the main framework or body of a car, train, etc., excluding the engine and interior. Used in automotive and transportation contexts.
+
+===word: 丸め込む===
+Meaning: To Wheedle / To Cajole
+Nuance_EN: This verb means to cleverly talk someone into doing what you want, often using flattery or smooth talk. It has a slightly casual nuance and implies manipulation rather than outright deception.
+
+===word: 丸わかり===
+Meaning: Completely Obvious / Fully Understanding
+Nuance_EN: A casual expression meaning that everything is completely clear, often implying that a secret or hidden situation is fully exposed. The "丸" prefix serves as an intensifier.
+
+===word: 丸一日===
+Meaning: A Full Day
+Nuance_EN: Means an entire day from morning till night. Used to emphasize the length of time spent on something, often contrasting with "半日" (half day).
+
+===word: 丸儲け===
+Meaning: Pure Profit / Easy Money
+Nuance_EN: A colloquial term for making a large profit with little or no capital investment, implying all gain and no loss.
+
+===word: 丸出し===
+Meaning: Fully Exposed / Blatant
+Nuance_EN: Means to completely reveal something without concealment, often used critically for undesirable traits like "下品丸出し" (vulgarity fully exposed). Has a negative nuance.
+
+===word: 丸太===
+Meaning: Log (unprocessed timber)
+Nuance_EN: Refers to a tree trunk with bark still on, used as raw material for buildings, furniture, or campfires. Familiar from "丸太小屋" (log cabin).
+
+===word: 丸投げ===
+Meaning: Outsourcing Everything (irresponsibly)
+Nuance_EN: Means to pass all work or responsibility onto someone else without own involvement. Used critically in business contexts, implying neglect of one's own role.
+
+===word: 丸抱え===
+Meaning: Full Support (financial or otherwise)
+Nuance_EN: Refers to taking complete responsibility for all expenses or matters, often implying dependency (e.g., a parent supporting a child fully). Can be used in passive form.
+
+===word: 丸括弧===
+Meaning: Parentheses (round brackets)
+Nuance_EN: The Japanese term for the punctuation marks ( ), used for supplementary explanations or quotations. Also called "まるかっこ".
+
+===word: 丸焼き===
+Meaning: Whole Roasted
+Nuance_EN: This word describes roasting an entire animal or food item without cutting, such as a whole roasted chicken or pig. A cooking term.
+
+===word: 丸腰===
+Meaning: Unarmed / Defenseless
+Nuance_EN: Literally means carrying no weapons, such as no sword or gun. Metaphorically used for a situation with no preparation or defense.
+
+===word: 飛び込む===
+Meaning: To Jump Into / To Rush Into
+Nuance_EN: This verb means to jump or rush into a place or situation. It can be physical (e.g., into water) or figurative (e.g., into a quarrel). The given context describes entering a fight unarmed.
+
+===word: 丸薬===
+Meaning: Pill (medicine)
+Nuance_EN: Refers to medicine formed into a spherical shape, often associated with traditional Chinese medicine or handmade remedies. Less common than modern tablets or capsules.
+
+===word: 丸裸にする===
+Meaning: To Strip Naked / To Leave Defenseless
+Nuance_EN: Means to remove all covering, literally (undress) or figuratively (take away all resources). Strong emphasis on complete exposure.
+
+===word: 丸見え===
+Meaning: Completely Visible
+Nuance_EN: This word means something is fully visible and cannot be hidden, used when a secret or private matter is exposed to view.
+
+===word: 丹念===
+Meaning: Diligent / Painstaking
+Nuance_EN: This adjectival noun describes doing something with careful attention to detail, emphasizing thoroughness and effort. Used in phrases like "丹念に調べる" (examine meticulously). Similar to "念入り" but more devoted.
+
+===word: 丹精===
+Meaning: Devoted Effort / Care
+Nuance_EN: Refers to putting one's heart into meticulous work, often in the phrase "丹精込めて" (with devoted effort). Praises careful, time-consuming craftsmanship.
+
+===word: 主===
+Meaning: Master / Owner / Husband
+Nuance_EN: A somewhat old-fashioned word for the master of a house, shop, or organization, or a husband. Common in literature and period dramas; modern usage prefers "主人".
+
+===word: 主として===
+Meaning: Mainly / Chiefly
+Nuance_EN: An adverb meaning "mainly" or "for the most part," used in formal writing and speeches. More literary than the plain "主に".
+
+===word: 主に===
+Meaning: Mainly / Primarily
+Nuance_EN: An adverb indicating the central element among multiple factors. Widely used in both casual and formal contexts.
+
+===word: 主人===
+Meaning: Master / Husband / Proprietor
+Nuance_EN: Refers to the head of a household, employer, or shop owner. Commonly used by a wife to refer to her husband, or to address the owner of a shop.
+
+===word: 行く===
+Meaning: To Go
+Nuance_EN: This verb means "to go." In the given sentence, it is used in the phrase "主人の使いで市役所に行くところです" (I am on my way to city hall on an errand for the master). A basic, everyday verb.
+
+===word: 主人公===
+Meaning: Protagonist / Main Character
+Nuance_EN: Refers to the central character in a story, play, movie, etc. Also used metaphorically for someone who lives their life proactively as "the protagonist of their own life."
+
+===word: 主任===
+Meaning: Chief / Supervisor
+Nuance_EN: A job title for someone in charge of a specific team or task within an organization, ranking below section manager. Used in professional contexts like "主任研究員" (chief researcher).
+
+===word: 主体===
+Meaning: Main Agent / Subject
+Nuance_EN: Refers to the person or organization that takes the central role in actions or decisions. Used in contexts of initiative and responsibility.
+
+===word: 難しい===
+Meaning: Difficult
+Nuance_EN: This is the modern form of the classical adjective "むずかし". It means hard to do or understand. The classical form appears in old literature and period works.
+
+===word: 主体的===
+Meaning: Proactive / Autonomous
+Nuance_EN: An adjectival noun describing the state of acting independently and positively. Important in business and education for emphasizing self-initiated action.
+
+===word: 主催===
+Meaning: Sponsorship / Organization
+Nuance_EN: Refers to planning and running an event or gathering as the main organizer.
+
+===word: 主力部隊===
+Meaning: Main Force (military/organizational)
+Nuance_EN: The most important unit within an army or organization, serving as the core strength in battle or projects.
+
+===word: 主君===
+Meaning: Lord / Feudal Master
+Nuance_EN: A historical term for the master whom a vassal serves, especially in samurai society. Refers to a feudal lord or general.
+
+===word: 主婦===
+Meaning: Housewife
+Nuance_EN: Refers to a woman whose main role is managing the household and childcare, whether full-time or part-time.
+
+===word: 主宰===
+Meaning: Director / Manager (of an event or group)
+Nuance_EN: The person who takes leadership in running a meeting, event, or cultural circle, emphasizing the role of conduction rather than mere sponsorship. Also used for religious ceremonies.
+
+===word: 主宰者===
+Meaning: Director / Person in Charge
+Nuance_EN: Same as above, specifically the individual who leads and manages an event or organization, with a focus on operational control.
+
+===word: 主導===
+Meaning: Leadership / Initiative
+Nuance_EN: Refers to taking the central role in guiding a project or situation, controlling the direction. Formal, used in business and politics.
+
+===word: 握る===
+Meaning: To Grip / To Hold
+Nuance_EN: This verb means to grasp or take control of something, physically or metaphorically. In "主導権を握る" (seize the initiative), it means to take control of the flow.
+
+===word: 主席===
+Meaning: Chairperson / President (of a nation)
+Nuance_EN: Refers to the highest-ranking person in an organization or meeting, most notably the President of China. Also used for a conference chair.
+
+===word: 主張===
+Meaning: Assertion / Claim
+Nuance_EN: A noun and suru-verb meaning to strongly state one's opinion or belief, often in discussions or debates. Implies firm conviction.
+
+===word: 主役===
+Meaning: Lead Role / Star
+Nuance_EN: Refers to the central actor in a play or film, or metaphorically the most important person or thing in a given situation.
+
+===word: 主従関係===
+Meaning: Master-Servant Relationship
+Nuance_EN: Describes a hierarchical relationship between a master and a servant, often feudal. Used historically or metaphorically for strict power dynamics.
+
+===word: 主我===
+Meaning: Egoism / Self-Centeredness
+Nuance_EN: Means prioritizing one's own desires and opinions above others. A somewhat philosophical term.
+
+===word: 主戦論===
+Meaning: Pro-War Stance / Hawkish View
+Nuance_EN: Refers to the opinion advocating active military action or war, opposed to peaceful resolution. Used in political and military discussions.
+
+===word: 主教===
+Meaning: Bishop (Christianity)
+Nuance_EN: A high-ranking clergyman in Christian churches, equivalent to "bishop" in English. Also translated as "superintendent" in some Protestant denominations.
+
+===word: 主治医===
+Meaning: Primary Physician / Attending Doctor
+Nuance_EN: The main doctor responsible for a patient's ongoing treatment and medical management. Implies a long-term care relationship, more specific than a general practitioner.
+
+===word: 主流===
+Meaning: Mainstream
+Nuance_EN: Refers to the central current or prevailing trend among many people. Used for ideas, fashions, and movements.
+
+===word: 主演===
+Meaning: Starring (role)
+Nuance_EN: Means to perform the leading role in a film, play, or drama. A common term in the entertainment industry.
+
+===word: 主義===
+Meaning: Principle / Doctrine
+Nuance_EN: Refers to a fundamental policy or belief guiding one's actions and thinking. Widely used in political, ideological, and artistic contexts.
+
+===word: 主要（な）===
+Meaning: Principal / Main
+Nuance_EN: An adjectival noun meaning the most important or central part of something. Originates from the key (要) of a fan, signifying a vital point.
+
+===word: 主要業務===
+Meaning: Core Business / Primary Operations
+Nuance_EN: A business term for the central activities of an organization. Used in formal corporate documents and reports, not casual conversation.
+
+===word: 見る===
+Meaning: To See / To Look
+Nuance_EN: This verb means to see, observe, or judge. In "主観だけで物事を見てはいけない" (You must not look at things only through subjective views), it implies making judgments.
+
+===word: 主観的===
+Meaning: Subjective
+Nuance_EN: Describes judgments based on personal feelings and opinions, opposite of "客観的" (objective). Often implies lack of impartiality.
+
+===word: 目的語===
+Meaning: Object (grammar)
+Nuance_EN: A grammatical term for the noun that receives the action in a sentence, such as the direct or indirect object. Used in language learning.
+
+===word: 主賓===
+Meaning: Guest of Honor
+Nuance_EN: The most important guest at a banquet or ceremony, who receives special treatment such as seating and speech order.
+
+===word: 主題===
+Meaning: Theme / Subject
+Nuance_EN: The central topic or theme of a work or discussion, used in literature, music, research, and other fields.
+
+===word: 曲===
+Meaning: Song / Tune
+Nuance_EN: This word refers to a piece of music. In "主題歌 / 主題曲", it is used for theme songs (vocal) or theme music (instrumental). "主題歌" is more common for vocal themes.
+
+===word: 主食===
+Meaning: Staple Food
+Nuance_EN: The main food that forms the center of a daily diet, such as rice in Japan, bread in Western countries, or noodles. Used in nutrition and cultural discussions.
+
+===word: 丼ぶり===
+Meaning: Rice Bowl Dish (Donburi)
+Nuance_EN: A casual term for a Japanese dish where ingredients are served over rice in a bowl, e.g., "牛丼" (beef bowl). Represents popular, everyday cuisine.
+
+===word: 久々===
+Meaning: After a Long Time
+Nuance_EN: A casual expression indicating that something happens after a long interval. Commonly used in spoken language.
+
+===word: 久しい===
+Meaning: Long (time) / Longstanding
+Nuance_EN: An adjective with a somewhat literary, classical feel, meaning a long time has passed. In daily speech, "久しぶり" is more common; "久しい" appears in formal writing.
+
+===word: 美しい===
+Meaning: Beautiful
+Nuance_EN: This adjective means beautiful. In "以前にもまして美しかった" (more beautiful than before), it describes physical attractiveness or elegance.
+
+===word: 全速力===
+Meaning: Full Speed
+Nuance_EN: A noun meaning the maximum possible speed. Used for vehicles and running. "速力" is a somewhat formal term for speed.
+
+===word: 時間===
+Meaning: Time
+Nuance_EN: This word means time. In the sentence about mountain climbing, it refers to the amount of time taken to reach the summit.
+
+===word: 久方振り===
+Meaning: After a Very Long Time (emphatic)
+Nuance_EN: An emphatic, slightly old-fashioned version of "久しぶり", conveying that a very long time has passed since the last event.
+
+===word: 久濶を叙す===
+Meaning: To Chat After a Long Separation (classical)
+Nuance_EN: A highly formal, archaic literary phrase meaning to enjoy conversation with someone after a long time apart. Almost only used in letters or period dramas.
+
+===word: 久遠===
+Meaning: Eternity / Perpetuity
+Nuance_EN: A word with strong Buddhist overtones, describing an infinite span of time extending into the past and future. Suggests a grand, timeless scale.
+
+===word: 乏しい===
+Meaning: Scarce / Poor
+Nuance_EN: An adjective meaning lacking in quantity or richness, used for resources, money, knowledge, etc. More formal and emphatic than "少ない".
+
+===word: 乖離===
+Meaning: Discrepancy / Divergence
+Nuance_EN: Describes a gap between things that should coincide, such as ideal vs. reality, or differences in perception. Used in somewhat specialized, abstract contexts.
+
+===word: 乗じる===
+Meaning: To Take Advantage of / To Multiply
+Nuance_EN: This verb has two meanings: to exploit an opportunity (e.g., "機に乗じる") and to multiply in mathematics. The first is more common and slightly formal.
+
+===word: 乗っかる===
+Meaning: To Join In / To Ride On (casual)
+Nuance_EN: A casual verb meaning to take advantage of a trend or movement and participate. Has a slightly light, bandwagon nuance.
+
+===word: 乗っ取り===
+Meaning: Hijacking / Takeover
+Nuance_EN: Refers to illegally seizing control of something, such as a plane hijacking or corporate takeover.
+
+===word: 乗りが良い===
+Meaning: Responsive / Good at Joining In
+Nuance_EN: Describes a person who readily joins the mood or activity, e.g., in karaoke or events. Used as a compliment for being cooperative and fun.
+
+===word: 乗り出す===
+Meaning: To Lean Forward / To Embark On
+Nuance_EN: This verb can mean physically leaning forward, or figuratively starting a new endeavor. Derived from "putting out to sea" (on a boat). Used in both literal and proactive senses.
+
+===word: 乗り切る===
+Meaning: To Get Through / To Ride Out
+Nuance_EN: Means to endure and overcome a difficult or critical situation, focusing on surviving a temporary period of adversity.
+
+===word: 乗り気===
+Meaning: Enthusiasm / Eagerness
+Nuance_EN: A casual noun describing a positive, willing attitude toward a proposal or activity. Indicates proactive interest.
+
+===word: 乗り物酔い===
+Meaning: Motion Sickness
+Nuance_EN: Refers to dizziness, nausea, etc., caused by riding in vehicles, ships, or planes. A common everyday term.
+
+===word: 乗り移る===
+Meaning: To Possess / To Inhabit (spirit)
+Nuance_EN: This verb describes a spirit or soul moving into another object or person, often used in supernatural or possession contexts.
+
+===word: 乗り越える===
+Meaning: To Overcome / To Get Over
+Nuance_EN: Means to physically climb over an obstacle or, more often, to conquer difficulties and trials. A common metaphorical usage.
+
+===word: 乗り越し===
+Meaning: Overshoot (on public transport)
+Nuance_EN: Refers to passing the station or stop where you intended to get off. A daily-life word for train/bus travel.
+
+===word: 精算する===
+Meaning: To Settle / To Adjust Accounts
+Nuance_EN: This verb means to perform a precise calculation of charges or payments to settle a balance, e.g., adjusting a fare at a ticket machine. Different from "清算" (liquidation/closure).
+
+===word: 乗り込む===
+Meaning: To Get On (forcefully/in large numbers)
+Nuance_EN: Describes boarding a vehicle energetically or in a crowd. Conveys the image of entering and settling in.
+
+===word: 乗り遅れる===
+Meaning: To Miss (a ride/opportunity)
+Nuance_EN: Literally means to fail to board a vehicle in time; metaphorically, to be too late for a trend or opportunity.
+
+===word: 乗り降り===
+Meaning: Getting On and Off
+Nuance_EN: A collective term for boarding and alighting from vehicles. Used in transportation contexts.
+
+===word: 乗務===
+Meaning: Duty (driving/operating a vehicle)
+Nuance_EN: Refers to performing work involving driving or operating a train, bus, taxi, etc. A formal term for professional drivers.
+
+===word: 乗客===
+Meaning: Passenger
+Nuance_EN: A neutral, objective term for a person riding a vehicle (train, bus, plane, etc.). Commonly used in announcements.
+
+===word: 悪くなる===
+Meaning: To Become Unwell / To Deteriorate
+Nuance_EN: This phrase means to become bad, ill, or worse. In "具合が悪くなった" (feel sick), it refers to sudden illness.
+
+===word: 乗算===
+Meaning: Multiplication
+Nuance_EN: A mathematical term for the operation of multiplying numbers. Used in arithmetic contexts.
+
+===word: 乗組員===
+Meaning: Crew Member
+Nuance_EN: Refers to people who work on a ship, plane, or other vehicle, such as sailors or flight crew. Also called "船員" or "クルー".
+
+===word: 乗船する===
+Meaning: To Board a Ship
+Nuance_EN: The verb for getting on a ship, corresponding to "搭乗" (board a plane) and "乗車" (board a train). Used for ferries and cruises.
+
+===word: 乗降===
+Meaning: Boarding and Alighting
+Nuance_EN: A combined term for getting on and off vehicles, used in transportation signs and announcements.
+
+===word: 乗馬===
+Meaning: Horse Riding
+Nuance_EN: Refers to riding a horse for transport or sport. Used as a noun for the activity or hobby.
+
+===word: 乙===
+Meaning: "Yes" / "Agreed" (formal response)
+Nuance_EN: An old-fashioned, formal reply meaning "agreed" or "no objection," used in meetings. Now mainly used by men in some formal contexts.
+
+===word: 九死に一生===
+Meaning: Narrow Escape / Survival Against All Odds
+Nuance_EN: A set phrase meaning to survive a situation where death seemed almost certain, often used in the form "九死に一生を得る" (escape by a hair's breadth).
+
+===word: 乞う===
+Meaning: To Beg / To Request
+Nuance_EN: A formal, classical verb meaning to earnestly request something from someone. Used in official writing and speeches, e.g., "ご協力を乞う" (seek cooperation).
+
+===word: 乞食===
+Meaning: Beggar
+Nuance_EN: A word for a person who lives by begging. Considered a discriminatory term in modern usage.
+
+===word: 寝る===
+Meaning: To Sleep / To Lie Down
+Nuance_EN: This verb means to sleep or be lying down. In the sentence about a beggar sleeping on a park bench, it indicates a state of rest.
+
+===word: 乱す===
+Meaning: To Disturb / To Disrupt
+Nuance_EN: A transitive verb meaning to break order or neatness, used for physical spaces (mess up a room) and abstract things (disturb peace, disrupt rhythm). Common in idioms.
+
+===word: 乱れる===
+Meaning: To Be Disordered / To Be Disturbed
+Nuance_EN: An intransitive verb meaning to lose order or neatness, used for hair, clothes, mind, social order, etc. A daily-life word.
+
+===word: 乱パ===
+Meaning: Orgy Party (slang)
+Nuance_EN: A vulgar abbreviation for "乱交パーティー" (orgy party). Extremely casual and not for public use.
+
+===word: 乱世===
+Meaning: Turbulent Times / War Era
+Nuance_EN: Refers to an era of constant war and social chaos, often contrasted with "治世" (peaceful reign). Used in historical contexts.
+
+===word: 乱入===
+Meaning: Forced Entry / Intrusion
+Nuance_EN: Means to enter a place without permission, roughly or violently, implying annoyance or aggression. Much stronger than just "入る."
+
+===word: 乱心===
+Meaning: Insanity / Madness
+Nuance_EN: A strong word for a state of mental derangement leading to aberrant behavior. Used in period dramas and novels, not in modern conversation.
+
+===word: 乱心者===
+Meaning: Madman (derogatory/archaic)
+Nuance_EN: An old-fashioned term for a person who has lost their sanity. Highly derogatory and rarely used in modern speech.
+
+===word: 乱戦===
+Meaning: Melee / Free-for-All Battle
+Nuance_EN: Describes a chaotic, disorganized fight where many participants battle in confusion.
+
+===word: 乱打===
+Meaning: Fierce Hitting (baseball/typing)
+Nuance_EN: Means to strike repeatedly with force, such as consecutive hits in baseball or pounding on a keyboard. Emphasizes vigor.
+
+===word: 乱数===
+Meaning: Random Number
+Nuance_EN: Refers to numbers that appear without pattern or predictability, important in computing and cryptography.
+
+===word: 乱暴===
+Meaning: Rough / Violent / Reckless
+Nuance_EN: Describes rough, rude, or violent behavior or actions, lacking care and politeness.
+
+===word: 乱獲===
+Meaning: Overfishing / Overhunting
+Nuance_EN: Refers to excessive taking of fish or animals, causing resource depletion. Used in environmental discussions.
+
+===word: 乱痴気パーティー===
+Meaning: Wild Party / Raucous Party
+Nuance_EN: A slang term for a noisy, disorderly party with heavy drinking and chaos.
+
+===word: 乱痴気騒ぎ===
+Meaning: Loud Revelry / Wild Frolic
+Nuance_EN: Refers to a noisy, boisterous commotion made by a crowd, often involving drinking. Has a slightly comical, disorderly nuance.
+
+===word: 乱発===
+Meaning: Indiscriminate Issuance
+Nuance_EN: Means to issue or do something repeatedly without restraint, such as decrees, tickets, or actions. Carries a negative meaning of lack of control.
+
+===word: 乱立===
+Meaning: Excessive Proliferation (candidates, shops)
+Nuance_EN: Describes many similar entities appearing in quick succession without order, leading to overheated competition.
+
+===word: 乱立している===
+Meaning: Are Proliferating (excessively)
+Nuance_EN: The present continuous form of "乱立," indicating a state of many things appearing in a disorderly fashion.
+
+===word: 乱舞する===
+Meaning: To Dance Wildly / To Swirl
+Nuance_EN: A verb describing many things moving violently and chaotically, like butterflies, snowflakes, or emotions.
+
+===word: 乱視===
+Meaning: Astigmatism
+Nuance_EN: An eye condition where the cornea or lens is irregularly shaped, causing blurred or doubled vision.
+
+===word: 乱闘===
+Meaning: Brawl / Free-for-All Fight
+Nuance_EN: Refers to a disorderly physical fight involving many people, often triggered by emotion rather than organization. Common in bars or after sports events.
+
+===word: 乱闘する===
+Meaning: To Brawl / To Scuffle
+Nuance_EN: The verb form of "乱闘," meaning to engage in a chaotic physical fight with multiple participants.
+
+===word: 乱雑===
+Meaning: Disordered / Messy (with carelessness)
+Nuance_EN: Describes a state of disorganization and disorder, emphasizing a rough, haphazard quality. More negative than just "散らかった."
+
+===word: 乱高下===
+Meaning: Wild Fluctuation (prices, stocks)
+Nuance_EN: Refers to violent, unpredictable ups and downs in values like stock prices, evoking instability and investor anxiety.
+
+===word: 乳児===
+Meaning: Infant
+Nuance_EN: A medical term for a very young baby, generally under one year old.
+
+===word: 乳房===
+Meaning: Breast (anatomical)
+Nuance_EN: A formal, medical term for the mammary organ on a woman's chest. More clinical than "おっぱい" or "胸," often used in healthcare contexts.
+
+===word: 乳母===
+Meaning: Wet Nurse
+Nuance_EN: A historical term for a woman who breastfeeds and cares for another's child, typically in aristocratic households. Common in period dramas and literature.
+
+===word: 乳母車===
+Meaning: Baby Carriage / Pram
+Nuance_EN: A traditional Japanese term for a baby stroller, now largely replaced by "ベビーカー." Has an old-fashioned ring.
+
+===word: 乳糖不耐症===
+Meaning: Lactose Intolerance
+Nuance_EN: A medical condition where the body lacks enough lactase enzyme to digest lactose, causing stomach issues after consuming dairy. Common in Japanese adults.
+
+===word: 乳製品===
+Meaning: Dairy Products
+Nuance_EN: A general term for foods made from milk, such as cheese, butter, yogurt, and cream. Used in shopping and food categories.
+
+===word: 乳酸===
+Meaning: Lactic Acid
+Nuance_EN: An organic acid known as a fatigue substance accumulating in muscles after intense exercise. Also involved in fermentation (yogurt, pickles) and gut health.
+
+===word: 乳首===
+Meaning: Nipple
+Nuance_EN: The protruding part at the tip of the breast, a standard anatomical term for the body part.
+
+===word: 乾かす===
+Meaning: To Dry (something)
+Nuance_EN: A transitive verb meaning to remove moisture from something, e.g., drying laundry, hair, or dishes. Pairs with the intransitive "乾く."
+
+===word: 乾く===
+Meaning: To Become Dry
+Nuance_EN: An intransitive verb meaning to lose moisture, used for laundry, ground, throat, etc. A basic daily verb.
+
+===word: 乾季===
+Meaning: Dry Season
+Nuance_EN: The period of little rainfall in regions with distinct wet and dry seasons.
+
+===word: 埃っぽい===
+Meaning: Dusty
+Nuance_EN: An adjective meaning full of dust or having a dusty feeling, used in weather and room descriptions.
+
+===word: 乾燥===
+Meaning: Dryness / Drying
+Nuance_EN: A noun and suru-verb meaning the state of being dry or the process of drying. Applies to weather, skin, and food.
+
+===word: 乾物===
+Meaning: Dried Foods
+Nuance_EN: Foods preserved by drying, such as dried shiitake, dried daikon radish, and hijiki. Essential in Japanese cuisine.
+
+===word: 乾物屋===
+Meaning: Dried Goods Store
+Nuance_EN: A shop that specializes in dried foods like mushrooms and seaweed. Nowadays usually found within supermarkets.
+
+===word: 乾電池===
+Meaning: Dry Cell Battery
+Nuance_EN: Refers to disposable batteries used in household electronics (remotes, clocks, etc.), as opposed to rechargeable batteries.
+
+===word: 亀の子たわし===
+Meaning: Tawashi (scrubbing brush)
+Nuance_EN: A traditional scrubbing brush shaped like a turtle shell, originally a trademark but now generic. Used for kitchen cleaning, familiar from older homes and 100-yen shops.
+
+===word: 亀裂===
+Meaning: Crack / Fissure
+Nuance_EN: A crack in a physical object, or a metaphorical rift in relationships or organizations.
+
+===word: 了承する===
+Meaning: To Approve / To Acknowledge
+Nuance_EN: A polite verb meaning to understand and accept a proposal or explanation. Common in business documents and meetings.
+
+===word: 了見===
+Meaning: Attitude / Outlook
+Nuance_EN: A noun referring to a person's way of thinking or tolerance, often used in the negative "了見が狭い" (narrow-minded). Somewhat old-fashioned.

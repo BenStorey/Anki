@@ -1,0 +1,783 @@
+===word: 素っ頓狂===
+Meaning: Outlandish / Absurd
+Nuance_EN: A na-adjective describing something extremely eccentric, nonsensical, or comically foolish. It carries a tone of disbelief or amused mockery rather than harsh criticism, often used in phrases like "素っ頓狂な声" (a crazy voice) or "素っ頓狂な格好" (ridiculous outfit).
+
+===word: 素人===
+Meaning: Amateur / Beginner
+Nuance_EN: Refers to a person without specialized training or experience in a field. It is the antonym of "玄人" (professional/expert) and carries a nuance of being a novice or layperson.
+
+===word: 素人目===
+Meaning: Layperson's eye
+Nuance_EN: Indicates the perspective or viewpoint of an ordinary person without specialized knowledge. Used in contexts like "素人目には〜に見える" (it looks like ~ to an amateur) to contrast with an expert's view.
+
+===word: 素寒貧===
+Meaning: Penniless / Destitute
+Nuance_EN: A strong emphatic expression meaning completely broke or extremely poor. The prefix "素" intensifies the state, giving it a somewhat old-fashioned or colloquial ring. It often carries a slightly humorous tone, though "一文無し" is more common in modern speech.
+
+===word: 素性===
+Meaning: Background / Lineage
+Nuance_EN: Refers to a person's origins, social status, or personal history, with a strong implication of family background or past. It often carries a slightly secretive nuance, as in knowing someone's hidden background.
+
+===word: 素手===
+Meaning: Bare hands
+Nuance_EN: Describes a state of having nothing in one's hands or not using any tools. Commonly used in martial arts or manual labor contexts, e.g., "素手で戦う" (fight with bare hands).
+
+===word: 素振り===
+Meaning: Demeanor / Gesture
+Nuance_EN: Refers to the outward signs of one's feelings or thoughts through facial expressions and actions. It captures the subtle, visible hints of a person's inner state.
+
+===word: 素描===
+Meaning: Sketch / Outline
+Nuance_EN: Refers to a rough drawing or a simplified preliminary sketch, often as a draft for a painting. It can also be used metaphorically to describe a concise summary or outline of a subject.
+
+===word: 素数===
+Meaning: Prime number
+Nuance_EN: A mathematical term for a positive integer greater than 1 that has no positive divisors other than 1 and itself. It is a fundamental concept in number theory and cryptography, rarely used in daily conversation but familiar through games like "素数大富豪" (Prime Number Millionaire).
+
+===word: 素早い===
+Meaning: Swift / Quick
+Nuance_EN: An adjective describing very fast physical movements or rapid mental responses. It carries a positive connotation, often used in phrases like "素早い対応" (swift response) to praise efficiency.
+
+===word: 素書き===
+Meaning: Rough sketch / Draft
+Nuance_EN: A specialized term in art and design meaning a preliminary drawing or simple outline, as opposed to a finished work. It refers to the rough conceptual stage of a piece.
+
+===word: 素朴===
+Meaning: Simple / Rustic
+Nuance_EN: Describes something unsophisticated, natural, or innocent. It often has a positive connotation of unaffected charm or simplicity, like "素朴な味" (simple taste).
+
+===word: 素材===
+Meaning: Material / Ingredient
+Nuance_EN: A highly versatile word meaning raw materials for making something—food ingredients, fabric, building materials, or even topics for writing. It is often used in contexts emphasizing the inherent value of the material, e.g., "素材の味を活かす" (bring out the flavor of the ingredients).
+
+===word: 素泊まり===
+Meaning: Room only / No meals
+Nuance_EN: A lodging term meaning staying at an inn or hotel without any meals. It is chosen when travelers want to save money or eat out, commonly used in travel planning.
+
+===word: 素直===
+Meaning: Obedient / Honest
+Nuance_EN: Describes a person's nature as straightforward, unpretentious, and willing to follow or accept things without resistance. It is a positive trait, often used like "素直な性格" (an honest personality).
+
+===word: 素知らぬ===
+Meaning: Pretending not to know
+Nuance_EN: A rentaishi (pre-noun adjectival) meaning to feign ignorance. Used in the phrase "素知らぬ顔をする" (to put on an innocent face), it carries a strong negative nuance of deceit or irresponsibility.
+
+===word: 素粒子===
+Meaning: Elementary particle
+Nuance_EN: A physics term for the smallest known units of matter, such as electrons, quarks, and neutrinos. It is rarely used in everyday conversation, appearing mainly in academic or scientific contexts.
+
+===word: 素粒子加速器===
+Meaning: Particle accelerator
+Nuance_EN: A large experimental device used in physics to accelerate elementary particles like protons and electrons to high speeds for collision, used to study the fundamental components of matter. The Large Hadron Collider at CERN is a famous example.
+
+===word: 素行===
+Meaning: Conduct / Behavior
+Nuance_EN: Refers to a person's daily actions and moral conduct, often used in contexts evaluating character, such as "素行が悪い" (bad behavior).
+
+===word: 素質===
+Meaning: Aptitude / Natural talent
+Nuance_EN: Denotes innate ability or suitability for something, focusing on inherent qualities rather than learned skills. It is used to describe natural potential, e.g., "音楽の素質" (musical talent).
+
+===word: 素足===
+Meaning: Barefoot
+Nuance_EN: Refers to the state of having no socks, stockings, or footwear on the feet. It is a straightforward term for bare feet.
+
+===word: 素通り===
+Meaning: Passing by / Ignoring
+Nuance_EN: Means to go past without stopping, both physically (e.g., passing a store) and metaphorically (e.g., ignoring a matter). It can imply neglect or disregard.
+
+===word: 素面===
+Meaning: Sober face / Bare face
+Nuance_EN: Refers to a state of not being drunk, or a face without makeup. It is often used in drinking contexts, contrasting with someone who is intoxicated, e.g., "素面でいらっしゃいますね" (You're sober, aren't you?).
+
+===word: 素顔===
+Meaning: Bare face / True self
+Nuance_EN: Literally means a face without makeup, and metaphorically, one's unadorned true nature or personality. It is used among close acquaintances to imply seeing someone's real self.
+
+===word: 素養===
+Meaning: Cultural knowledge / Foundation
+Nuance_EN: Refers to basic knowledge or training in a field, not as deep as an expert but sufficient for general understanding. Used in phrases like "音楽の素養がある" (have a grounding in music) to discuss general education or foundational skills.
+
+===word: 素麺===
+Meaning: Somen noodles
+Nuance_EN: Thin, white dried noodles typically eaten cold in summer, dipped in a soy-based sauce. Ibonoito is a famous brand, and it is a staple Japanese summer dish.
+
+===word: 紡ぐ===
+Meaning: To spin / To weave
+Nuance_EN: Originally meaning to spin fibers into thread, this verb is used metaphorically to describe carefully building up words, stories, or time. It has a gentle and poetic tone, like "物語を紡ぐ" (weave a story).
+
+===word: 紡績===
+Meaning: Spinning (textile)
+Nuance_EN: Refers to the process or industry of spinning fibers like cotton or wool into thread. It is a technical term in the textile industry.
+
+===word: 索===
+Meaning: Rope / Cable
+Nuance_EN: A classical, Sino-Japanese word meaning a rope or cable. It is more commonly used in compounds like "探索" (search) or "索敵" (enemy search) where the meaning shifts to "seek."
+
+===word: 索具===
+Meaning: Rigging (ship)
+Nuance_EN: A specialized maritime term for the sails, ropes, and other equipment on a ship. It is used in nautical contexts.
+
+===word: 索引===
+Meaning: Index
+Nuance_EN: A list at the end of a book or document that arranges items or terms in order (e.g., alphabetical) and shows their page numbers, useful for reference.
+
+===word: 本の===
+Meaning: Mere / Just
+Nuance_EN: An adverbial expression emphasizing that the quantity or degree is very small, as in "ほんの少し" (just a little) or "ほんの一時" (a mere moment). It is used to downplay the scale.
+
+===word: 索敵===
+Meaning: Reconnaissance / Search for enemy
+Nuance_EN: A military term meaning to locate the position and movements of an enemy. It is also widely used in gaming contexts to describe searching for enemy characters.
+
+===word: 索道===
+Meaning: Ropeway / Cable car
+Nuance_EN: The formal name for transportation systems using steel cables, such as ropeways and cable cars. It is a technical term for aerial lifts.
+
+===word: 紫外線===
+Meaning: Ultraviolet rays
+Nuance_EN: Invisible light rays from the sun that are harmful to skin and eyes, causing sunburn and skin cancer. It is commonly discussed in daily life in the context of sunscreen.
+
+===word: 紫煙===
+Meaning: Smoke (of tobacco)
+Nuance_EN: A poetic and literary term for cigarette smoke, derived from its purplish hue. It is used to describe smoking scenes in a beautiful or nostalgic way, often in novels or song lyrics, but less common in modern health-conscious speech.
+
+===word: 累々===
+Meaning: In piles / Heaped up
+Nuance_EN: A Sino-Japanese adverb/na-adjective describing things stacked in layers like a mountain, often with a negative image (e.g., corpses or rubble). It is mainly used in written language.
+
+===word: 累乗===
+Meaning: Exponentiation
+Nuance_EN: A mathematical operation of multiplying a number by itself repeatedly, e.g., 2³ (2 to the power of 3). It is used in math classes and textbooks.
+
+===word: 累積===
+Meaning: Accumulation
+Nuance_EN: Refers to the repeated piling up of the same kind of thing, often with a negative connotation (e.g., defects or burdens). It implies a gradual increase over time.
+
+===word: 累計===
+Meaning: Cumulative total
+Nuance_EN: The total sum obtained by adding repeatedly over time, used for things like sales, visitor numbers, or production volume. It is common in business and statistics.
+
+===word: 累進===
+Meaning: Progressive (increase)
+Nuance_EN: Means to increase step by step, often used in compound terms like "累進課税" (progressive taxation) where the rate rises with income. It is a specialized term rarely used in daily conversation.
+
+===word: 細々と===
+Meaning: Meticulously / In detail
+Nuance_EN: Describes doing something carefully, paying attention to small points, or building up small things gradually. Used for plans, explanations, or work methods.
+
+===word: 細い===
+Meaning: Thin / Narrow
+Nuance_EN: A basic adjective describing small width or thickness, used for objects like sticks, threads, roads, fingers, or body parts. It can also mean a thin voice (low volume) and is a gentle way to describe someone as slender.
+
+===word: 細かい===
+Meaning: Detailed / Small
+Nuance_EN: Indicates that something is thorough down to the smallest details, or that items are small (e.g., "細かいお金" = small change). It can also mean petty or nitpicky.
+
+===word: かく言う===
+Meaning: Thus saying / This very speaker
+Nuance_EN: A somewhat archaic, literary expression used when the speaker refers to themselves, meaning "I who say this" or "thus speaking." It is used to self-reference or modestly apply a previous statement to oneself, often in speeches or essays.
+
+===word: 細める===
+Meaning: To narrow / To squint
+Nuance_EN: Means to make something thinner or narrower. It is most commonly used in the phrase "目を細める" (to squint one's eyes) when smiling or focusing, though "口を細める" (purse lips) also exists.
+
+===word: 細やか（な）===
+Meaning: Attentive / Delicate
+Nuance_EN: A na-adjective describing careful attention to fine details, especially in emotional care or thoughtfulness. It differs from "ささやか" (modest), so caution is needed.
+
+===word: 細る===
+Meaning: To become thin / To dwindle
+Nuance_EN: An intransitive verb meaning to gradually become thinner. It is used both physically (e.g., a body or object) and metaphorically (e.g., "収入が細る" = income dwindles, "望みが細る" = hopes fade). It focuses on the change of state.
+
+===word: 細分化===
+Meaning: Subdivision / Segmentation
+Nuance_EN: Refers to dividing a single whole into smaller units or categories for analysis, organization, or management. It is used as a method to achieve more precise understanding or control.
+
+===word: 細切れ===
+Meaning: Shredded / Fragmented
+Nuance_EN: Describes a physical state of being cut into small pieces, and also metaphorically refers to time or schedules that are broken into small, unconnected segments, e.g., "細切れの時間" (fragmented time).
+
+===word: 細字===
+Meaning: Small characters / Fine writing
+Nuance_EN: Refers to small or minute writing. In calligraphy, it means writing with thin lines, and in printing, it refers to small type.
+
+===word: 細密画===
+Meaning: Miniature painting / Detailed painting
+Nuance_EN: An art term for a painting that is meticulously detailed, often with fine brushwork, resembling a miniature. It is a specialized term in art history.
+
+===word: 細工===
+Meaning: Craftsmanship / Fine work
+Nuance_EN: Means adding careful touches to create something, but can also imply secret manipulation or scheming behind the scenes, e.g., "裏細工" (underhanded work).
+
+===word: 細心===
+Meaning: Meticulous / Scrupulous
+Nuance_EN: Describes being extremely careful and attentive to details, often used in the fixed phrase "細心の注意を払う" (pay scrupulous attention). It implies a high level of concentration required in critical situations, more intense than just "careful."
+
+===word: 細目===
+Meaning: Detailed items / Fine print
+Nuance_EN: Refers to detailed items or specific conditions, often used in contracts or plans to describe fine specifications. It is a somewhat formal term.
+
+===word: 細粒===
+Meaning: Fine grain / Granule
+Nuance_EN: A technical/industrial term for very fine granular substances, used in fields like pharmacy, materials engineering, and geology to classify particle size. It appears in contexts like "細粒の砂" (fine-grained sand).
+
+===word: 細胞===
+Meaning: Cell (biology)
+Nuance_EN: The basic unit of life in biology, commonly used in medical and health contexts. It also appears in everyday speech, e.g., "細胞レベルで" (at the cellular level).
+
+===word: 細菌===
+Meaning: Bacteria
+Nuance_EN: Microscopic organisms invisible to the naked eye, which can cause disease or be used in fermentation. It is a common term in medical and everyday contexts.
+
+===word: 数===
+Meaning: Number / Several
+Nuance_EN: A basic word for number or quantity. In this entry, the nuance incorrectly describes bacteria, but the word "数" (suu) means "number" or "several." It is used in phrases like "数ミクロン" (several microns).
+
+===word: 細身===
+Meaning: Slim / Slender
+Nuance_EN: Describes a body or object that is thin and sleek in shape. It is used for people's physiques, clothing silhouettes, or designs like slim glasses.
+
+===word: 細部===
+Meaning: Detail / Fine point
+Nuance_EN: Refers to the small, detailed parts of something, which often hold significant importance within the whole. It is used in contexts like "細部まで気を配る" (pay attention to every detail).
+
+===word: 細部===
+Meaning: Detail / Fine point
+Nuance_EN: Refers to the small, detailed parts of something, which often hold significant importance within the whole. It is used in contexts like "細部まで気を配る" (pay attention to every detail).
+
+===word: 紳士協定===
+Meaning: Gentleman's agreement
+Nuance_EN: An informal agreement based on trust and mutual respect, without legal binding force. It is often used in business or international relations contexts.
+
+===word: 紳士淑女===
+Meaning: Ladies and gentlemen
+Nuance_EN: A term for polite, refined men and women, used in formal addresses or to describe an ideal. Equivalent to "ladies and gentlemen" in English, it is often used at the start of ceremonies or speeches, but has a somewhat old-fashioned, formal tone.
+
+===word: 紺===
+Meaning: Dark blue / Navy blue
+Nuance_EN: A traditional Japanese color name for a deep blue, close to indigo. It is commonly used for suits and uniforms, and is often referred to as "紺色" (kon-iro) in daily life, similar to navy blue.
+
+===word: 紺青===
+Meaning: Prussian blue / Deep blue
+Nuance_EN: A very deep blue, close to indigo. It is a traditional Japanese color derived from indigo dyeing in the Edo period, identical to Prussian blue. Used in art, dyeing, and design, it conveys a subdued yet refined elegance.
+
+===word: 終える===
+Meaning: To finish (transitive)
+Nuance_EN: A transitive verb meaning to complete or bring something to an end, as opposed to the intransitive "終わる" (to end). It implies a deliberate action to finish a task.
+
+===word: 終ぞ===
+Meaning: Never (with negative)
+Nuance_EN: An adverb used with negative expressions to mean "never once" or "never in one's life." It has a literary, old-fashioned tone and is rarely used in spoken language, but appears in written or formal contexts.
+
+===word: 終わりを告げる===
+Meaning: To announce the end
+Nuance_EN: An idiomatic expression meaning to signal or bring about the end of a period or state. It is used metaphorically in literary contexts to describe the conclusion of an era or event.
+
+===word: 終世===
+Meaning: One's whole life / Lifetime
+Nuance_EN: A Sino-Japanese word meaning the entire span of one's life, until death. It emphasizes permanence, as in "終世忘れない" (never forget for life). It is more formal than "生涯" and carries a stronger sense of "until the very end."
+
+===word: 終値===
+Meaning: Closing price
+Nuance_EN: The last traded price of a stock or commodity at the end of a trading day. It is a key indicator for investors, along with opening, high, and low prices, and is commonly used in financial news.
+
+===word: 終息===
+Meaning: End / Abatement
+Nuance_EN: Refers to the conclusion of an epidemic, phenomenon, or disaster, often used in official announcements. It implies that the situation has calmed down and ended.
+
+===word: 終日===
+Meaning: All day long
+Nuance_EN: An adverb meaning "from morning to night" or "the entire day." It is a somewhat formal expression used in business documents, signs, and news, while "一日中" is more common in casual speech.
+
+===word: 終止符===
+Meaning: Period / Full stop
+Nuance_EN: Literally the punctuation mark at the end of a sentence. Metaphorically, it is used in the phrase "終止符を打つ" (put an end to something) to mean bringing something to a close.
+
+===word: 終止符を打つ===
+Meaning: To put an end to
+Nuance_EN: An idiomatic phrase meaning to conclude something definitively, like placing a period at the end of a sentence. It is used for ending activities, relationships, or events.
+
+===word: 終焉===
+Meaning: End / Demise
+Nuance_EN: A literary word for the end or final stage of something, often with a solemn or grand tone. It is used for the end of an era, civilization, or life, and is more formal than "終わり."
+
+===word: 終盤===
+Meaning: Final stage / Endgame
+Nuance_EN: Refers to the phase near the end of a process, such as the endgame in chess or go, or the final stages of a project or negotiation. It contrasts with "序盤" (opening) and "中盤" (middle).
+
+===word: 終端===
+Meaning: Terminal / End point
+Nuance_EN: The final point at the end of a line, such as a railway or road. It also refers to the ultimate destination or terminus of something.
+
+===word: 終結===
+Meaning: Conclusion / Termination
+Nuance_EN: Means the end of a long-standing matter or conflict, such as a war or prolonged negotiation. It is a somewhat formal word used for significant events.
+
+===word: 終身刑===
+Meaning: Life imprisonment
+Nuance_EN: A legal term for a punishment of imprisonment for the remainder of a person's life. It is the second most severe penalty after the death penalty, and varies by country regarding parole eligibility.
+
+===word: 終身雇用===
+Meaning: Lifetime employment
+Nuance_EN: Refers to the traditional Japanese employment practice where an employee stays with one company until retirement. It is a somewhat formal business term.
+
+===word: 終電===
+Meaning: Last train
+Nuance_EN: The final train of the day, commonly used in urban areas when considering the time to return home. It is a very common daily word.
+
+===word: 組===
+Meaning: Class / Group
+Nuance_EN: Refers to a class division in schools, or a group, team, or work unit. It is a basic word for a collection of people organized together.
+
+===word: 組み上げる===
+Meaning: To assemble / To build up
+Nuance_EN: Means to combine multiple parts or elements to create a single whole, used for machines, systems, or programs. It implies a constructive process.
+
+===word: 組み伏せる===
+Meaning: To pin down / To overpower
+Nuance_EN: Means to use force to press an opponent down, immobilizing them. It is used in martial arts or fighting contexts.
+
+===word: 組み合わせ===
+Meaning: Combination / Pairing
+Nuance_EN: Refers to combining multiple elements into a single unit. It is used for colors, flavors, numbers, or people, implying synergy when a good combination is found.
+
+===word: 組み換え===
+Meaning: Rearrangement / Recombination
+Nuance_EN: Means to change the arrangement or composition of elements, reorganizing them. Used in genetics (recombination) or scheduling (reshuffling), it spans daily and technical contexts.
+
+===word: 組み立て===
+Meaning: Assembly / Construction
+Nuance_EN: The process of putting parts together to form a finished product or structure, such as furniture, models, or machinery. It describes building from separate pieces into a unified form.
+
+===word: 組み立てライン===
+Meaning: Assembly line
+Nuance_EN: A production method in factories where processes are arranged in sequence for efficient mass production, often using conveyor belts.
+
+===word: 組み込み===
+Meaning: Built-in / Embedding
+Nuance_EN: Refers to incorporating something as a part of a larger system, often used in technology (e.g., embedded software) or planning.
+
+===word: 組み込む===
+Meaning: To incorporate / To embed
+Nuance_EN: Means to include something as an integral part of a system, plan, or equipment. It is commonly used in business and technical contexts.
+
+===word: 組む===
+Meaning: To assemble / To team up
+Nuance_EN: Means to bring people or things together to do something. It can mean cooperating with others, assembling machinery, or crossing one's legs. It has a wide range of uses.
+
+===word: 組んず解れつ===
+Meaning: Wrestling / Tussling
+Nuance_EN: A fixed expression describing a chaotic struggle where people grapple, break apart, and re-engage in a fierce fight. It is used to depict a tumultuous brawl with constant movement.
+
+===word: 組合===
+Meaning: Union / Association
+Nuance_EN: An organization formed by people with a common purpose, such as labor unions or agricultural cooperatives. It is a general term for collective groups.
+
+===word: 組成===
+Meaning: Composition / Constituents
+Nuance_EN: Refers to what elements or components make up something, from chemical composition to team membership. It is an academic and business term used broadly.
+
+===word: 組織的===
+Meaning: Systematic / Organized
+Nuance_EN: Describes a planned, orderly, and cohesive approach, often used in group activities. It has a positive connotation of efficiency and coordination, common in business and sports.
+
+===word: 組長===
+Meaning: Group leader / Boss
+Nuance_EN: Refers to the head of a group or organization, such as a neighborhood association leader or a construction team foreman. It can also refer to the head of a crime syndicate, so context is crucial.
+
+===word: 組閣===
+Meaning: Cabinet formation
+Nuance_EN: The act of a prime minister selecting ministers to form a cabinet. It is a term often used in political news.
+
+===word: 絆===
+Meaning: Bond / Tie
+Nuance_EN: Represents a strong, unbreakable connection between people, such as family, friends, or lovers. It is a warm, positive word that has become widely used in modern contexts.
+
+===word: 絆創膏===
+Meaning: Bandage / Adhesive plaster
+Nuance_EN: A medical product consisting of adhesive tape and gauze for protecting small wounds. It is a common household item, analogous to "Band-Aid" in English, though "band-aid" is a brand name.
+
+===word: 経る===
+Meaning: To pass through / To undergo
+Nuance_EN: Means to go through a place or to experience a period or process. It is used for physical passage or temporal/experiential progression.
+
+===word: 経口の===
+Meaning: Oral (administration)
+Nuance_EN: Refers to taking something into the body through the mouth, primarily used in medical and pharmaceutical contexts. It is a technical term.
+
+===word: 経口避妊薬===
+Meaning: Oral contraceptive / Birth control pill
+Nuance_EN: A medication taken orally to prevent pregnancy by suppressing ovulation. The formal name is "経口避妊薬," but it is commonly called "ピル" (pill) in daily conversation.
+
+===word: 経営===
+Meaning: Management / Operation
+Nuance_EN: Refers to running and managing a company or organization. It is a central concept in business and economics, encompassing strategy, finance, and administration.
+
+===word: 種をまく===
+Meaning: To sow seeds
+Nuance_EN: Literally means to scatter seeds into soil for planting. Metaphorically, it is used to describe initiating something, like "疑念の種をまく" (sow seeds of doubt) or "混乱をまく" (sow chaos).
+
+===word: 社===
+Meaning: Shrine / Company
+Nuance_EN: The character "社" can mean "shrine" (especially the main building) or "company." In the context of this entry, it refers to the shrine building itself, as opposed to "神社" (the entire shrine).
+
+===word: 経営費===
+Meaning: Operating expenses
+Nuance_EN: The total costs required to run a business or organization, including personnel, rent, utilities, and advertising. It is used in accounting and business contexts.
+
+===word: 経営陣===
+Meaning: Management team
+Nuance_EN: Refers to the group of executives and senior managers responsible for making important business decisions. It is a common term in business settings.
+
+===word: 経歴===
+Meaning: Career / Background
+Nuance_EN: A summary of one's education, work history, and positions held, often listed on a resume. It is a formal record of professional experience, distinct from mere "experience."
+
+===word: 経済力===
+Meaning: Economic power / Financial strength
+Nuance_EN: Refers to the economic capability or financial resources of an individual, organization, or country. It encompasses income, assets, and economic influence.
+
+===word: 経済学科===
+Meaning: Department of Economics
+Nuance_EN: A university department specializing in the study of economics. It is a standard academic term.
+
+===word: 経済情勢===
+Meaning: Economic conditions
+Nuance_EN: The overall state and trends of an economy, including factors like business cycles, inflation, and employment. It is a term frequently used in news reports.
+
+===word: 情勢===
+Meaning: Situation / Circumstances
+Nuance_EN: A formal noun describing the current state and development of affairs, often used in broad contexts like "国際情勢" (international situation) or "経済情勢" (economic conditions).
+
+===word: 経済特区===
+Meaning: Special Economic Zone
+Nuance_EN: A designated area with special economic policies and incentives to attract investment and trade, commonly seen in China and other countries.
+
+===word: 的===
+Meaning: Target / Mark
+Nuance_EN: Refers to an aim or goal, such as in archery practice. It can also be used metaphorically to mean an objective or purpose.
+
+===word: 経済面===
+Meaning: Economic section / Economic aspect
+Nuance_EN: Refers to the economics page of a newspaper, or the economic viewpoint of a matter. It is an important source of information for business professionals.
+
+===word: 経理===
+Meaning: Accounting / Finance department
+Nuance_EN: The department or function responsible for managing a company's financial transactions, including expense accounting, payroll, and tax processing. It is a vital business function.
+
+===word: 経理課===
+Meaning: Accounting department
+Nuance_EN: The specific department within a company that handles financial records and bookkeeping. It is a common departmental name.
+
+===word: 経由===
+Meaning: Via / Through
+Nuance_EN: Means to go through a place to reach a destination, or to accomplish something through a person or means. It is used for routes and intermediaries.
+
+===word: 経由地===
+Meaning: Transit point / Stopover
+Nuance_EN: A place passed through or visited on the way to a destination, often used in travel or shipping contexts. It is a convenient term for official itinerary descriptions.
+
+===word: 経緯===
+Meaning: Details / Circumstances
+Nuance_EN: Refers to the sequence of events and background leading to a current situation. It is used in explanations and reports, and has a somewhat formal tone.
+
+===word: 経膣分娩===
+Meaning: Vaginal delivery
+Nuance_EN: A natural childbirth method where the baby is born through the vagina, as opposed to a cesarean section. It is a medical term.
+
+===word: 経費===
+Meaning: Expenses / Costs
+Nuance_EN: Refers to the costs incurred in conducting business or activities. It is a basic term used in accounting and business contexts.
+
+===word: 経路===
+Meaning: Route / Path
+Nuance_EN: The way or course taken to move from one point to another, used in transportation, communication, and information flow. It is a relatively formal word.
+
+===word: 経過===
+Meaning: Progress / Course
+Nuance_EN: The passage of time or the process of events unfolding. It is often used in "経過観察" (follow-up observation) or "経過報告" (progress report), common in medical and business settings.
+
+===word: 経験===
+Meaning: Experience
+Nuance_EN: Knowledge or skills gained through direct personal involvement. It is an important factor in work and life, frequently mentioned on resumes.
+
+===word: 経験人数===
+Meaning: Number of sexual partners
+Nuance_EN: A slang term referring to the number of people one has had sexual experience with, used in casual conversations among close friends.
+
+===word: 経験談===
+Meaning: Anecdote / Personal account
+Nuance_EN: A story about one's own real experiences, especially valuable or instructive ones, shared in lectures or dialogues.
+
+===word: 結う===
+Meaning: To tie up (hair/obi)
+Nuance_EN: An old-fashioned verb meaning to tie or arrange hair or a sash, such as in Japanese hairstyles or kimono. It is more formal than "結ぶ" and is mainly used in traditional contexts.
+
+===word: 結びつける===
+Meaning: To connect / To link
+Nuance_EN: Means to physically tie things together or abstractly associate ideas. It implies establishing a relationship or connection between two things.
+
+===word: 結び目===
+Meaning: Knot
+Nuance_EN: The part formed when tying a rope or string. It can also be used metaphorically, like "話の結び目" (the knot of a story).
+
+===word: 結ぶ===
+Meaning: To tie / To bind
+Nuance_EN: Refers to the action of intertwining strings or ropes to make them one. It is also used metaphorically to form relationships or conclude something.
+
+===word: 結わえる===
+Meaning: To bind fast
+Nuance_EN: An old-fashioned verb meaning to firmly tie something with a rope or string. It is rarely used in everyday conversation.
+
+===word: 結合===
+Meaning: Combination / Union
+Nuance_EN: Refers to the act of joining things together, whether physically or abstractly. It is a general term for linking elements.
+
+===word: 相手===
+Meaning: Partner / Opponent
+Nuance_EN: A highly versatile noun referring to a person you interact with, whether in collaboration, competition, or negotiation. It is used in both friendly and adversarial contexts.
+
+===word: 戸籍===
+Meaning: Family register
+Nuance_EN: A Japanese official document recording family relationships, including births, marriages, and deaths. It is a legal record of personal status.
+
+===word: や否や===
+Meaning: As soon as / No sooner
+Nuance_EN: A literary conjunction indicating that one action occurs immediately after another, equivalent to "as soon as." It is a somewhat formal, written expression.
+
+===word: 段取り===
+Meaning: Arrangements / Plan
+Nuance_EN: Refers to the procedure, steps, or plan for advancing a matter. It involves preparing the flow of events in advance.
+
+===word: 結婚披露宴===
+Meaning: Wedding reception
+Nuance_EN: A celebratory banquet held after the wedding ceremony, where the couple invites relatives and friends. It typically includes food, speeches, and entertainment, and guests are expected to dress formally.
+
+===word: 結婚願望===
+Meaning: Desire to marry
+Nuance_EN: Refers to the wish or hope to get married, often used when single people talk about their aspirations regarding marriage.
+
+===word: 結実===
+Meaning: Fruition / Bear fruit
+Nuance_EN: Means that efforts or plans yield concrete results, derived from the literal meaning of plants bearing fruit. It is used metaphorically.
+
+===word: 結尾===
+Meaning: Ending / Conclusion (of a text)
+Nuance_EN: Refers to the closing part of a piece of writing or story. It focuses on the final wrap-up, and is a somewhat formal written word used in literary criticism.
+
+===word: 宝石===
+Meaning: Jewel / Gemstone
+Nuance_EN: Precious stones like diamonds or rubies, processed into decorative items. They are used in accessories and are associated with luxury and high value.
+
+===word: 結成===
+Meaning: Formation (of a group)
+Nuance_EN: Refers to organizing or establishing a group, such as a team, club, or party. It implies bringing people together for a common purpose.
+
+===word: 結晶===
+Meaning: Crystal / Crystallization
+Nuance_EN: The process of solid forming from a liquid or gas, or the resulting solid. Metaphorically, it represents the fruit of effort or research. It is a somewhat formal word.
+
+===word: 結末===
+Meaning: Outcome / Ending
+Nuance_EN: The final result or conclusion of a story or event. It is used for novels, movies, incidents, etc.
+
+===word: 結束===
+Meaning: Unity / Solidarity
+Nuance_EN: Refers to a state where people unite for a common purpose, cooperating closely. It emphasizes the binding together of a group, often used in team sports or business contexts.
+
+===word: 悔い===
+Meaning: Regret / Remorse
+Nuance_EN: A feeling of regret or repentance about past actions or choices. It is somewhat literary and implies deep reflection.
+
+===word: 結果的===
+Meaning: Resultant / In the end
+Nuance_EN: A na-adjective used to focus on the final outcome, often in the adverbial form "結果的に" (as a result). It highlights the conclusion rather than the process.
+
+===word: 結果論===
+Meaning: Hindsight reasoning
+Nuance_EN: An opinion expressed after the outcome is known, like "I knew it all along" or "I should have done this." It is considered unfair in discussions because it ignores the decision-making context.
+
+===word: 結核===
+Meaning: Tuberculosis
+Nuance_EN: An infectious disease caused by the tuberculosis bacterium, primarily affecting the lungs. Once incurable, it now has established treatments. It is often discussed in medical and public health contexts.
+
+===word: 結氷===
+Meaning: Freezing over
+Nuance_EN: A phenomenon where a water surface or object becomes covered with ice, seen in severe winter cold.
+
+===word: 結界===
+Meaning: Barrier / Enclosure (spiritual)
+Nuance_EN: A concept from fantasy works, Shinto, and Buddhism, referring to a barrier that protects or isolates a specific area. It frequently appears in anime and games as a magical shield.
+
+===word: 結社===
+Meaning: Association / Society
+Nuance_EN: A group of people organized around a common purpose or ideology, such as political societies, literary clubs, or secret societies. It has a formal, historical tone, often associated with Meiji-era groups.
+
+===word: 結節点===
+Meaning: Node / Junction
+Nuance_EN: A point where multiple elements or routes intersect and converge. It is a technical term used in transportation networks, network theory, and anatomy (lymph nodes), but "拠点" (hub) is more common in daily speech.
+
+===word: 結膜炎===
+Meaning: Conjunctivitis
+Nuance_EN: An inflammation of the conjunctiva of the eye, commonly known as "pink eye." It causes redness, itching, and discharge, and is a common eye condition.
+
+===word: 結託する===
+Meaning: To collude / To conspire
+Nuance_EN: Means multiple people secretly cooperate for a malicious purpose. It carries a strong negative connotation, often used in news or novels about illegal schemes.
+
+===word: 結論===
+Meaning: Conclusion
+Nuance_EN: The final judgment or result after discussion or reasoning. It is often stated at the end of reports or presentations, representing the core of the argument.
+
+===word: 結論付ける===
+Meaning: To conclude / To determine
+Nuance_EN: Means to make a final judgment or decision based on comprehensive information. It is used in the final stages of discussions or investigations.
+
+===word: 結集===
+Meaning: Concentration / Rallying
+Nuance_EN: The act of gathering people or resources for a single purpose, often used for military forces or teams. In business, it appears in phrases like "全社の力を結集する" (rally the entire company's power).
+
+===word: 結露===
+Meaning: Condensation
+Nuance_EN: The phenomenon where warm air touches a cold surface and forms water droplets, commonly seen on windows in winter. It is a common household occurrence.
+
+===word: 絞め殺す===
+Meaning: To strangle to death
+Nuance_EN: A very violent expression meaning to kill by squeezing the neck. It is a strong, graphic term.
+
+===word: 絞りたて===
+Meaning: Freshly squeezed
+Nuance_EN: Describes something that has just been squeezed, like juice. It emphasizes freshness and immediacy.
+
+===word: 絞り込む===
+Meaning: To narrow down / To squeeze out
+Nuance_EN: Means to reduce choices to find the best option, or to squeeze liquid out. It is commonly used in search, selection, and filtering contexts.
+
+===word: 絞る===
+Meaning: To squeeze / To narrow
+Nuance_EN: A verb meaning to press out liquid, or to limit range or quantity. It is used both physically and abstractly.
+
+===word: 絞刑===
+Meaning: Strangulation (execution)
+Nuance_EN: A method of execution by strangling. In Japan, hanging (絞首刑) is currently used, so this term appears in legal history and criminology, not daily conversation.
+
+===word: 絞殺する===
+Meaning: To strangle
+Nuance_EN: A formal term for killing by strangulation, used in crime reports. It can also refer to plants that kill other trees by entwining them.
+
+===word: 絡まる===
+Meaning: To become entangled
+Nuance_EN: A verb describing strings, threads, or plants wrapping around complicatedly, making them hard to untangle. It is also used metaphorically for relationships.
+
+===word: 絡み合う===
+Meaning: To intertwine / To be entangled
+Nuance_EN: Describes multiple things becoming complexly entangled, influencing each other. It implies mutual interaction.
+
+===word: 絡む===
+Meaning: To get tangled / To pick a fight
+Nuance_EN: Means for objects to wrap around each other, or for a person to persistently bother or provoke someone, often used negatively like a drunk person harassing others.
+
+===word: 絢爛===
+Meaning: Gorgeous / Brilliant
+Nuance_EN: A Sino-Japanese expression describing very showy and beautiful splendor, often used in the four-character compound "絢爛豪華" (gorgeous and luxurious). It is a written-language term used in art, architecture, and fashion.
+
+===word: 給う===
+Meaning: To give (honorific)
+Nuance_EN: A classical honorific verb meaning "to give" when a superior gives something to an inferior. It is now mainly found in literature and period dramas.
+
+===word: 給与===
+Meaning: Salary / Compensation
+Nuance_EN: The regular payment received in exchange for labor, including base salary plus allowances and bonuses. It is broader than "給料" (basic salary).
+
+===word: 給料===
+Meaning: Salary / Wages
+Nuance_EN: Money paid regularly as compensation for work. It comes in forms like monthly salary or annual income.
+
+===word: 目上===
+Meaning: Superior / Senior
+Nuance_EN: A word referring to people of higher status, such as bosses or elders. It is used to indicate social hierarchy in workplaces and society.
+
+===word: 社===
+Meaning: Company / Shrine
+Nuance_EN: The character "社" can mean "company" (e.g., 会社) or "shrine" (the main building). In the context of this entry, it refers to the company.
+
+===word: 首===
+Meaning: Neck / Dismissal
+Nuance_EN: In the context of "首になる" (to be fired), it means dismissal from a job. It is a colloquial term for losing one's position.
+
+===word: 仕事===
+Meaning: Work / Job
+Nuance_EN: A basic noun referring to occupation, task, or employment. It is used in a wide range of contexts.
+
+===word: 前借する===
+Meaning: To borrow in advance
+Nuance_EN: Means to receive money (e.g., salary) before it is due, essentially an advance payment. It is used in the context of loans or advances.
+
+===word: 給油===
+Meaning: Refueling
+Nuance_EN: The act of supplying fuel to vehicles or aircraft. The most common example is refueling at a gas station.
+
+===word: 給油船===
+Meaning: Oil tanker / Refueling ship
+Nuance_EN: A ship used to supply fuel to other vessels, or a tanker for transporting oil. It is a maritime industry term, while "タンカー" (tanker) is more common in general speech.
+
+===word: 給湯器===
+Meaning: Water heater
+Nuance_EN: A device that heats water for domestic or facility use, available in gas, electric, or heat pump types. It is an essential household appliance.
+
+===word: 給湯室===
+Meaning: Pantry / Kitchenette
+Nuance_EN: A room or space in offices or facilities for boiling water and preparing simple drinks. It is a common term in workplace settings.
+
+===word: 給湯設備===
+Meaning: Hot water supply system
+Nuance_EN: A technical term for the entire system that supplies hot water in a building, including heaters, pipes, and faucets. It is used in real estate and building descriptions, though in daily conversation people say "お湯が出るかどうか" (whether hot water comes out).
+
+===word: 給食===
+Meaning: School lunch / Meals provided
+Nuance_EN: Meals provided at schools or workplaces, most commonly referring to school lunches in elementary and junior high schools.
+
+===word: 絨毯===
+Meaning: Carpet / Rug
+Nuance_EN: A thick woven fabric laid on the floor, often with a more formal tone than "カーペット" (carpet). It is used for high-quality rugs like Persian carpets.
+
+===word: 統べる===
+Meaning: To rule / To govern
+Nuance_EN: Means to control and manage a whole group or organization, uniting them under one authority. It is a somewhat literary expression.
+
+===word: 統一===
+Meaning: Unification / Unity
+Nuance_EN: A noun meaning to bring multiple things together into one consistent whole. It is used in fields from business to politics, referring to alignment of ideas, methods, or designs.
+
+===word: 統制===
+Meaning: Control / Regulation
+Nuance_EN: Means to manage and regulate a group or organization under a unified policy. It implies top-down direction and oversight.
+
+===word: 統合===
+Meaning: Integration / Consolidation
+Nuance_EN: Means to combine multiple things into one, often used in IT and business contexts for merging systems or organizations. It implies a unified whole.
+
+===word: 統合参謀本部===
+Meaning: Joint Chiefs of Staff
+Nuance_EN: The military command organization that oversees the army, navy, and air force jointly. It is a formal military term.
+
+===word: 統合失調症===
+Meaning: Schizophrenia
+Nuance_EN: A medical name for a mental disorder affecting thought, emotion, and reality perception. Formerly called "精神分裂病," the name was changed in 2002. It is a serious condition not to be used lightly.
+
+===word: 統廃合===
+Meaning: Consolidation and abolition
+Nuance_EN: Refers to the combined process of merging and abolishing organizations or facilities, often in corporate restructuring or administrative efficiency. It implies rationalization, sometimes with staff reductions.
+
+===word: 統括===
+Meaning: Overall supervision / General control
+Nuance_EN: Means to oversee and manage an entire organization or project comprehensively. It implies a high-level coordinating role.
+
+===word: 統治(する)===
+Meaning: Rule / Governance
+Nuance_EN: A noun meaning to govern and control a country or region. It is a formal word used in political and historical contexts, referring to dominion by a monarch or government.
+
+===word: 統率===
+Meaning: Leadership / Command
+Nuance_EN: Means to lead and command a group or organization, implying the ability to unite and direct. It is a somewhat formal word related to management and authority.

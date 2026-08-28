@@ -1,0 +1,799 @@
+===word: 岩棚===
+Meaning: Rock Ledge
+Nuance_EN: A natural shelf-like flat area on a cliff or rock face, often used as a resting point or landmark in mountaineering and rock climbing.
+
+===word: 岩登り===
+Meaning: Rock Climbing
+Nuance_EN: The activity of climbing rocks or cliffs, typically in a mountaineering or recreational context.
+
+===word: 岩石===
+Meaning: Rock / Boulder
+Nuance_EN: A geological term for large stones or rocks, intermediate in hardness and size between "stone" and "boulder," but academically refers to solid materials composing the Earth's crust.
+
+===word: 岩礁===
+Meaning: Reef / Rocky Shoal
+Nuance_EN: A collection of rocks protruding from the sea or ocean surface, often hazardous to navigation and marked on maps as caution areas.
+
+===word: 岬===
+Meaning: Cape / Promontory
+Nuance_EN: A point of land projecting into the sea or lake, commonly used in place names (e.g., Cape Muroto, Cape Shiretoko) and often a scenic tourist spot with lighthouses.
+
+===word: 岳===
+Meaning: Peak / Lofty Mountain
+Nuance_EN: An elegant, literary term for a particularly high or majestic mountain peak, often seen in poetry and proper nouns like "Fuji no Take" (Mount Fuji).
+
+===word: 岸===
+Meaning: Shore / Bank
+Nuance_EN: The land along the edge of a sea, river, or lake, specifically the water's edge area.
+
+===word: 岸壁===
+Meaning: Quay / Wharf
+Nuance_EN: A vertical wall-like structure built along a shore for mooring ships, used as a port facility.
+
+===word: 峙つ===
+Meaning: Tower / Soar
+Nuance_EN: A literary verb describing mountains or buildings standing tall and imposing, conveying an overwhelming presence against the surroundings, used mainly in writing.
+
+===word: 峡谷===
+Meaning: Gorge / Canyon
+Nuance_EN: A deep, narrow valley formed by river erosion, such as the Grand Canyon or Kurobe Gorge, often used in tourism and geography contexts.
+
+===word: 峭刻===
+Meaning: Stern / Harsh
+Nuance_EN: A classical Chinese-derived term describing a very strict, unforgiving personality or criticism, similar to "cruel" or "severe," used for attitudes or speech; rarely used in modern language.
+
+===word: 峰===
+Meaning: Peak / Summit
+Nuance_EN: The pointed top of a mountain, often used in geographical or poetic contexts.
+
+===word: 峰からの景色は最高だ===
+Meaning: The view from the peak is the best
+Nuance_EN: A common expression praising the scenery from a mountain summit, used in casual or descriptive contexts.
+
+===word: 島内に火山灰が大量に堆積した===
+Meaning: A large amount of volcanic ash accumulated on the island
+Nuance_EN: Describes the geological process of sediment piling up, specifically volcanic ash deposition, used in scientific or news contexts.
+
+===word: 島国===
+Meaning: Island Nation
+Nuance_EN: A country whose territory consists of one or more islands, like Japan, often discussed in terms of advantages and disadvantages of being surrounded by sea.
+
+===word: 島根県===
+Meaning: Shimane Prefecture
+Nuance_EN: A prefecture in the Chugoku region of Japan, with its capital in Matsue City, known for Izumo Taisha Shrine and Lake Shinji; used in geography, news, and travel contexts.
+
+===word: 島流し===
+Meaning: Exile to an Island
+Nuance_EN: A punishment from the Edo period where criminals were sent to remote islands; now used metaphorically for being banished to an unpleasant place or demotion.
+
+===word: 峻厳===
+Meaning: Severe / Stern
+Nuance_EN: Describes extreme strictness and lack of leniency, especially in attitudes or discipline, derived from steep mountains; more intense than "strict" and somewhat literary.
+
+===word: 峻険===
+Meaning: Steep / Precipitous
+Nuance_EN: A Chinese-derived term for mountains or cliffs that are very steep and towering, also metaphorically for harsh situations or attitudes; formal and dignified.
+
+===word: 崇める===
+Meaning: Worship / Revere
+Nuance_EN: To deeply respect and honor gods, buddhas, or superiors, used for objects of faith or highly respected individuals.
+
+===word: 崇拝する===
+Meaning: Worship / Adore
+Nuance_EN: To deeply revere and devote oneself to gods, great figures, or idols, stronger than "respect" and sometimes implying blind devotion.
+
+===word: 崇拝者===
+Meaning: Worshipper / Admirer
+Nuance_EN: A person who fervently believes in and respects a figure or deity, used in religious contexts or for passionate fans of celebrities.
+
+===word: 崇敬===
+Meaning: Veneration / Reverence
+Nuance_EN: Having deep respect and reverence for superiors or deities, stronger than mere respect, bordering on worship.
+
+===word: 崇高===
+Meaning: Sublime / Lofty
+Nuance_EN: A na-adjective describing extreme spiritual height or moral excellence, more elevated than "admirable," used for aspirations, art, or ideas with reverence.
+
+===word: 崖===
+Meaning: Cliff / Precipice
+Nuance_EN: A steep, vertical slope or sheer face of earth, naturally formed on mountains or coasts, or artificially created by construction.
+
+===word: 崖っぷち===
+Meaning: Cliff Edge / Brink
+Nuance_EN: The edge of a cliff, used literally and metaphorically for a very dangerous or desperate situation, common in casual speech.
+
+===word: 崖下===
+Meaning: Base of a Cliff
+Nuance_EN: The ground at the bottom of a cliff, referring to the lower part of a precipice; a somewhat literary term for geographical location.
+
+===word: 崩れる===
+Meaning: Collapse / Crumble
+Nuance_EN: To break apart and fall into pieces, used for physical structures like buildings or ground, and metaphorically for plans or schedules failing.
+
+===word: 崩れ去る===
+Meaning: Crumble Away / Collapse Completely
+Nuance_EN: To break down and disappear, used for physical structures or metaphorically for organizations or plans being utterly destroyed.
+
+===word: 崩壊===
+Meaning: Collapse / Disintegration
+Nuance_EN: The act of things crumbling and breaking, or organizations, systems, and relationships falling apart; implies an irreparable, catastrophic situation, used broadly from physical to abstract.
+
+===word: 崩御===
+Meaning: Demise (of an Emperor)
+Nuance_EN: The highest honorific term for the death of an emperor or royal family member, not used for commoners; appears in news and official announcements.
+
+===word: 崩折れる===
+Meaning: Collapse / Break Down
+Nuance_EN: To physically or emotionally crumble and fall, used for structures breaking apart or a person collapsing from grief or shock; a dramatic, impactful word.
+
+===word: 崩落===
+Meaning: Cave-in / Landslide
+Nuance_EN: The falling down of cliffs or buildings, also used metaphorically for a sudden drop in markets or prices.
+
+===word: 嵌る===
+Meaning: Fit / Get Stuck / Fall Into
+Nuance_EN: To fit perfectly into something or be caught in a situation, also meaning to fall into a trap or scheme.
+
+===word: 嵐の後には凪が来る===
+Meaning: After the storm comes a calm
+Nuance_EN: A beautiful Japanese expression where "凪" (nagi) refers to wind completely stopping and the sea becoming calm, metaphorically used for a temporary state of peace after turmoil.
+
+===word: 嵩===
+Meaning: Bulk / Volume
+Nuance_EN: Refers to the size, quantity, or bulkiness of something, used for physical volume and abstract amounts or degrees.
+
+===word: 嵩にかかる===
+Meaning: To Take Advantage of Momentum
+Nuance_EN: To act aggressively or forcefully by leveraging one's momentum or advantage, often with a negative nuance of overwhelming the opponent.
+
+===word: 嵩む===
+Meaning: To Increase / To Mount Up
+Nuance_EN: Means for volume or quantity to increase, or for costs and time to exceed expectations, used both physically and metaphorically.
+
+===word: 嵩上げ===
+Meaning: Raising / Increase
+Nuance_EN: To raise the height of a levee or increase a budget or fee, used for physical height increases and metaphorical financial increases.
+
+===word: 嵩張る===
+Meaning: Bulky / Cumbersome
+Nuance_EN: Describes something taking up a lot of space due to its volume, making it difficult to handle.
+
+===word: 川の水をせき止めるために堤防が建設された===
+Meaning: A levee was built to dam the river water
+Nuance_EN: Refers to a structure built along a riverbank to prevent flooding, made of concrete or earth, essential for flood control.
+
+===word: 川下===
+Meaning: Downstream
+Nuance_EN: The direction in which a river flows, the lower part of the river; used in geography, fishing, and flood contexts, distinct from "下流" which has metaphorical uses.
+
+===word: 川原===
+Meaning: Riverbed / Gravel Bar
+Nuance_EN: A flat area of stones and gravel beside a river, commonly known as a place for summer barbecues and fireworks.
+
+===word: 川沿い===
+Meaning: Along the River
+Nuance_EN: Refers to the area or path along both sides of a river, often used to describe scenery like walking paths, cherry blossom trees, or residential areas; a common, practical expression.
+
+===word: 川縁===
+Meaning: River's Edge
+Nuance_EN: The edge or land beside a river, a softer term than "riverbank," evoking images of walking paths or fishing spots.
+
+===word: 川舟===
+Meaning: Riverboat
+Nuance_EN: A small boat used on rivers, often referring to traditional Japanese boats for fishing or sightseeing; somewhat old-fashioned with a literary feel.
+
+===word: 州都===
+Meaning: State Capital
+Nuance_EN: The capital city of a state in a federal system, such as in the US or Germany, referring to the central city at the state level.
+
+===word: 巡らす===
+Meaning: To Surround / To Deploy
+Nuance_EN: To place something around, like a moat, or to engage mentally, like "to ponder"; a somewhat literary and dignified expression.
+
+===word: 巡り合う===
+Meaning: To Meet by Chance / To Encounter Fatefully
+Nuance_EN: To meet someone or something by coincidence or destiny, stronger than "meet," implying a fateful, serendipitous encounter, often used in love or reunion contexts.
+
+===word: 巡り合わせ===
+Meaning: Fate / Serendipity
+Nuance_EN: Refers to a chance encounter or connection with people or events, carrying a sense of destiny.
+
+===word: 巡り巡って===
+Meaning: After Going Around / Eventually
+Nuance_EN: Means after a long time or various paths, finally reaching a state or place; implies causality or fate, like "in the end" or "by a twist of fate."
+
+===word: 巡る===
+Meaning: To Go Around / To Circulate
+Nuance_EN: A verb meaning to go around a place in order or for things to circulate, used for time, seasons, or discussions revolving around a theme; somewhat literary.
+
+===word: 巡回===
+Meaning: Patrol / Round
+Nuance_EN: To go around a fixed area in order to inspect, used for security guards, police patrols, or doctors making rounds; a formal term for regular, planned actions.
+
+===word: 巡査部長===
+Meaning: Police Sergeant
+Nuance_EN: A rank in the police force, above patrol officer and below assistant inspector, serving as a field commander.
+
+===word: 巡業===
+Meaning: Touring (Performances)
+Nuance_EN: Performances or shows that travel to various locations, commonly used for sumo and kabuki.
+
+===word: 巡視===
+Meaning: Inspection / Patrol
+Nuance_EN: To go around and inspect a designated area for safety and order, used for police patrols or factory safety checks.
+
+===word: 巡視船===
+Meaning: Patrol Ship
+Nuance_EN: A ship used for patrolling the sea, in contexts of security and rescue operations.
+
+===word: 巣===
+Meaning: Nest
+Nuance_EN: A dwelling built by birds, insects, or animals for living, made in various places like trees, underground, or building gaps.
+
+===word: 巣窟===
+Meaning: Den / Lair
+Nuance_EN: A hiding place or hangout for criminals or wrongdoers, with a strongly negative nuance, referring to the base of criminal or antisocial groups.
+
+===word: 巣立つ===
+Meaning: To Leave the Nest / To Become Independent
+Nuance_EN: From chicks leaving the nest, metaphorically for children leaving home to become independent or graduates entering society; a warm, emotional expression used in essays and speeches.
+
+===word: 巣箱===
+Meaning: Nest Box
+Nuance_EN: An artificial box set up by humans for birds or small animals to nest in, placed in gardens, parks, or forests for protection and observation.
+
+===word: 巣食う===
+Meaning: To Infest / To Fester
+Nuance_EN: For birds or insects to make a nest and settle, also metaphorically for bad thoughts or emotions to take root deeply in the mind; both literal and psychological uses, the latter being literary.
+
+===word: 工事現場に「立ち入り禁止」の立て札があった===
+Meaning: There was a "No Entry" sign at the construction site
+Nuance_EN: A board or sign placed on the ground to provide information or warnings, such as notices or instructions.
+
+===word: 工作員===
+Meaning: Agent / Operative
+Nuance_EN: A person engaged in secret missions or espionage, similar to a spy but broader, including political manipulation and sabotage; used in spy novels and international news.
+
+===word: 工具箱===
+Meaning: Toolbox
+Nuance_EN: A box or case for storing tools, used for organizing and carrying carpentry, DIY, or mechanical tools.
+
+===word: 工務店===
+Meaning: Construction Company / Builder
+Nuance_EN: A company that contracts for general construction work, typically small to medium-sized, handling home building, renovation, and repairs, distinct from large general contractors.
+
+===word: 工匠===
+Meaning: Artisan / Craftsman
+Nuance_EN: A term for a highly skilled craftsman or artisan, especially in traditional handcrafts like woodworking, metalworking, or pottery; a formal, respectful title.
+
+===word: 工夫===
+Meaning: Ingenuity / Device
+Nuance_EN: To devise good methods or mechanisms within limited conditions, used broadly from daily life to work, with a positive connotation.
+
+===word: 工夫を凝らす===
+Meaning: To Elaborate / To Devise Ingeniously
+Nuance_EN: To use various ideas and techniques to create something better, showing creative effort, with a positive meaning.
+
+===word: 工学===
+Meaning: Engineering
+Nuance_EN: The academic field that applies science and technology to manufacturing and system development.
+
+===word: 工房===
+Meaning: Workshop / Studio
+Nuance_EN: A workspace where craftsmen produce handmade or artistic items, similar to an atelier but with a stronger traditional handicraft image.
+
+===word: 工数===
+Meaning: Man-hours
+Nuance_EN: A business metric combining the number of workers and time needed for a task, commonly used in project management.
+
+===word: 工業===
+Meaning: Industry / Manufacturing
+Nuance_EN: A sector of industry that processes raw materials to produce goods, encompassing manufacturing like automotive, steel, and chemical industries, focusing on factory production.
+
+===word: 工業化が進むにしたがって、自然環境の破壊が広がった===
+Meaning: As industrialization progressed, environmental destruction spread
+Nuance_EN: Describes the process of industrial development leading to broader environmental damage, used in discussions of societal change.
+
+===word: 工法===
+Meaning: Construction Method
+Nuance_EN: Specific methods for construction and civil engineering work, a technical term with a professional nuance.
+
+===word: 工芸===
+Meaning: Craft / Applied Art
+Nuance_EN: The art and technique of making practical items, especially traditional handicrafts and artistic crafts, combining utility and artistry; commonly used as "crafts."
+
+===word: 工芸には細かい手作業が必要です===
+Meaning: Crafts require detailed handwork
+Nuance_EN: Emphasizes the necessity of meticulous manual labor in traditional crafts, used in educational or descriptive contexts.
+
+===word: 工面===
+Meaning: To Arrange / To Raise (Funds)
+Nuance_EN: To manage to prepare necessary items or funds, especially in the phrase "to raise money," implying resourcefulness; somewhat old-fashioned.
+
+===word: 左上隅===
+Meaning: Top-left Corner
+Nuance_EN: The upper left corner of a screen, page, or room, used to specify positions; paired with top-right, bottom-left, and bottom-right, frequent in IT and design.
+
+===word: 左利き===
+Meaning: Left-handed
+Nuance_EN: A person who primarily uses their left hand for actions like writing, eating, or using tools, about 10% of the population; a common, casual expression.
+
+===word: 左右===
+Meaning: Left and Right / Influence
+Nuance_EN: Besides physical left and right, used metaphorically to mean "to influence" or "control," strongly affecting outcomes or decisions.
+
+===word: 左右対称===
+Meaning: Bilateral Symmetry
+Nuance_EN: When the left and right sides are identical in shape and arrangement around a central axis, used for faces, bodies, buildings, and geometric patterns; a basic design concept.
+
+===word: 左官===
+Meaning: Plasterer
+Nuance_EN: A construction craftsman who applies plaster or mortar to walls and floors, preserving traditional Japanese techniques for beautiful finishes like earthen walls, valued in high-end homes.
+
+===word: 左折禁止===
+Meaning: No Left Turn
+Nuance_EN: A traffic sign indicating that left turns are prohibited at that location, common at intersections in Japan due to left-hand traffic; a practical driving term.
+
+===word: 左翼===
+Meaning: Left Wing
+Nuance_EN: A political stance emphasizing equality and social reform, originating from the French Revolution seating, often including socialism and communism; used in news and political discussions.
+
+===word: 左遷===
+Meaning: Demotion / Relegation
+Nuance_EN: To transfer someone to a lower position or department within an organization, often as punishment or cold treatment, implying against the person's will; common in business contexts.
+
+===word: 巧み===
+Meaning: Skillful / Adroit
+Nuance_EN: Describes very skilled and refined techniques or methods, used positively to evaluate abilities or work quality.
+
+===word: 巧妙な===
+Meaning: Ingenious / Cunning
+Nuance_EN: Describes techniques or methods that are so skillful they are hard to detect, used both positively and negatively, often in contexts of fraud or schemes.
+
+===word: 巧妙な手口===
+Meaning: Cunning Method / Trick
+Nuance_EN: A phrase using "巧妙な" to describe a very skillful and hard-to-detect method, often in negative contexts like scams or schemes.
+
+===word: 巧言を用いる===
+Meaning: To Use Flattery / Smooth Talk
+Nuance_EN: To use clever words to deceive or manipulate others for one's own benefit, with a somewhat negative connotation.
+
+===word: 巨万===
+Meaning: Vast (Wealth)
+Nuance_EN: An old-fashioned, literary expression for an extremely large amount of wealth or money, often used in the set phrase "vast fortune."
+
+===word: 巨乳===
+Meaning: Large Breasts
+Nuance_EN: A slang term for very large female breasts, used in casual or media contexts, somewhat direct.
+
+===word: 巨体===
+Meaning: Huge Body
+Nuance_EN: Refers to a very large human or animal body, used for sumo wrestlers or large animals; a somewhat literary expression.
+
+===word: 巨匠===
+Meaning: Master / Grand Master
+Nuance_EN: A term for a person of great skill and achievement in art, music, or other fields, implying high respect and authority.
+
+===word: 巨大===
+Meaning: Gigantic / Enormous
+Nuance_EN: A na-adjective describing size or scale far beyond normal, more emphatic than "big," with a sense of awe or being overwhelmed; used for buildings, animals, or companies.
+
+===word: 巨悪===
+Meaning: Great Evil
+Nuance_EN: Refers to large-scale wrongdoing or a massive evil force, not personal small evils but those affecting society as a whole.
+
+===word: 巨根===
+Meaning: Large Penis
+Nuance_EN: A slang term for a very large male genitalia, used mainly in internet or adult contexts; a very direct expression not used in daily conversation.
+
+===word: 巨漢===
+Meaning: Giant / Hulk
+Nuance_EN: A person with a very large and sturdy build, not just tall but broad and imposing; a somewhat literary term, with "large-built person" being more common in daily speech.
+
+===word: 巨獣===
+Meaning: Giant Beast
+Nuance_EN: A term for a very large animal or beast, used for real large animals like elephants or whales, and also for fictional giant creatures in sci-fi or fantasy.
+
+===word: 巨費===
+Meaning: Huge Expense
+Nuance_EN: Refers to a very large amount of cost or expense, used in formal contexts for public works or large projects.
+
+===word: 巨躯===
+Meaning: Massive Physique
+Nuance_EN: A Chinese-derived term for a very large and impressive body, mainly for men, implying dignity and power beyond just size; literary and somewhat old-fashioned.
+
+===word: 巨額===
+Meaning: Huge Sum (of Money)
+Nuance_EN: A na-adjective/noun describing a very large amount of money, like millions or billions, common in news and business; formal, with "huge amount" being more casual.
+
+===word: 巫女===
+Meaning: Shrine Maiden
+Nuance_EN: A woman who serves at a Shinto shrine, assisting in rituals, wearing a distinctive white outfit with a red hakama; unique to Japanese culture, often appearing in anime and games.
+
+===word: 差し上げる===
+Meaning: To Give (Humble)
+Nuance_EN: The humble form of "to give," used when giving something to a superior, common in business and formal settings.
+
+===word: 差し伸べる===
+Meaning: To Extend / To Offer
+Nuance_EN: To extend a hand or help toward someone, used literally for reaching out and metaphorically for offering assistance, like "extend a helping hand."
+
+===word: 差し入れ===
+Meaning: Gift / Offering (to Workers)
+Nuance_EN: To deliver drinks, food, or supplies to people working or engaged in an activity, often as encouragement or appreciation.
+
+===word: 差し出がましい===
+Meaning: Presumptuous / Meddlesome
+Nuance_EN: An adjective describing being overly forward or intrusive, also used when apologizing for being presumptuous.
+
+===word: 差し出す===
+Meaning: To Present / To Submit
+Nuance_EN: To offer something toward someone or to submit documents, used in various contexts like "extend a hand," "present a business card," or "submit an application."
+
+===word: 差し向ける===
+Meaning: To Dispatch / To Send
+Nuance_EN: To send someone to a specific place or purpose, like dispatching a messenger or support, with a somewhat old-fashioned nuance.
+
+===word: 差し引く===
+Meaning: To Deduct / To Subtract
+Nuance_EN: To subtract or deduct an amount from a total, used in financial or numerical contexts.
+
+===word: 差し当たり===
+Meaning: For Now / For the Time Being
+Nuance_EN: Means temporarily or for the present, indicating a provisional response rather than a complete solution, often used in business as a convenient adverb.
+
+===word: 差し当たり会場だけは確保しました===
+Meaning: For now, we've secured the venue
+Nuance_EN: Indicates a temporary action taken to manage the immediate situation, with the nuance that other matters remain unresolved.
+
+===word: 差し押さえ===
+Meaning: Seizure / Attachment
+Nuance_EN: The legal act of taking possession of property or assets, often for debt recovery or legal enforcement.
+
+===word: 差し掛かる===
+Meaning: To Approach / To Reach
+Nuance_EN: A verb meaning to approach a place or time, or to reach a certain stage, used for both physical locations and temporal situations; common in daily conversation.
+
+===word: 差し控える===
+Meaning: To Refrain / To Hold Back
+Nuance_EN: To moderate or refrain from a certain action, implying self-restraint.
+
+===word: 差し支えない===
+Meaning: No Problem / Acceptable
+Nuance_EN: An adjective-like expression meaning there is no issue or it is permissible, used to politely indicate permission or lack of hindrance.
+
+===word: 差し支える===
+Meaning: To Hinder / To Interfere
+Nuance_EN: To cause obstacles or problems that prevent things from going smoothly, used in the pattern "to interfere with" health, schedules, or work.
+
+===word: 差し替える===
+Meaning: To Replace / To Swap
+Nuance_EN: To exchange something existing for another, used broadly from machine parts to documents or images, more specific than "exchange."
+
+===word: 差し止め===
+Meaning: Injunction / Prohibition
+Nuance_EN: A formal noun for legally or authoritatively prohibiting an act or publication, often by court order or administrative action, with strong coercive force.
+
+===word: 差し歯===
+Meaning: False Tooth / Crown
+Nuance_EN: An artificial tooth (crown) used in dental treatment, especially for front teeth, made of metal or ceramic; also used metaphorically in phrases like "a false tooth falls out."
+
+===word: 差し置く===
+Meaning: To Set Aside / To Ignore
+Nuance_EN: To put aside what should be prioritized and give precedence to something else, often used in the form "setting aside" as a connective expression.
+
+===word: 差し込む===
+Meaning: To Insert / To Shine In / To Stab
+Nuance_EN: A polysemous verb ranging from physically inserting something, to light shining in, to sudden sharp pain.
+
+===word: 差し迫る===
+Meaning: To Impend / To Be Urgent
+Nuance_EN: Describes a deadline or danger approaching closely with no room for delay, emphasizing high urgency; frequent in news and business documents.
+
+===word: 差し違える===
+Meaning: To Misplace / To Mistime
+Nuance_EN: To put something in the wrong place, or in sumo, to mistime the initial charge against an opponent; a specialized term.
+
+===word: 差し金===
+Meaning: (1) Carpenter's Square / (2) Instigation
+Nuance_EN: Has two meanings: physically a metal carpenter's square, but metaphorically refers to someone's instructions or schemes; the latter is more common in conversation.
+
+===word: 差す===
+Meaning: To Shine / To Pour / To Hold Up
+Nuance_EN: A versatile verb meaning for light to shine, to pour liquid, or to hold up an umbrella, among other uses.
+
+===word: 差を付ける===
+Meaning: To Create a Difference / To Outdo
+Nuance_EN: To gain an advantage over a competitor or to make a clear distinction between things.
+
+===word: 差出人===
+Meaning: Sender
+Nuance_EN: The person who sends a letter or package, a common term in postal and delivery contexts.
+
+===word: 差分===
+Meaning: Difference / Diff
+Nuance_EN: An IT and math term for the difference between two things, especially in programming for file changes (diff); increasingly used outside IT for data differences.
+
+===word: 差分ファイル===
+Meaning: Diff File
+Nuance_EN: In computing, a file that records only the differences between original and updated data, used for efficient backups and version control.
+
+===word: 差別===
+Meaning: Discrimination
+Nuance_EN: Unfair treatment of specific groups or individuals based on race, gender, disability, religion, etc., a serious social issue; has derivatives like "discriminate" and "discriminatory."
+
+===word: 差別用語===
+Meaning: Discriminatory Language
+Nuance_EN: Words that carry discriminatory meanings against specific races, ethnicities, genders, etc.
+
+===word: 差異===
+Meaning: Difference / Discrepancy
+Nuance_EN: The difference or gap seen between two or more things, used in comparative contexts with a somewhat formal impression.
+
+===word: 差益===
+Meaning: Margin / Profit Difference
+Nuance_EN: The profit arising from the difference between income and expenditure, such as exchange rate gains or trading margins; a specialized financial term.
+
+===word: 差額===
+Meaning: Difference / Balance
+Nuance_EN: The difference between two amounts or quantities, i.e., the remaining amount after subtraction; a formal term used in business and accounting.
+
+===word: 差額はありますか===
+Meaning: Is there a difference?
+Nuance_EN: A question asking about the difference in amount, often in financial or transactional contexts.
+
+===word: 己===
+Meaning: Self / Oneself
+Nuance_EN: An old-fashioned, literary first-person or reflexive pronoun referring to oneself, used in proverbs like "know thyself" and in written language.
+
+===word: 巴丹===
+Meaning: Cockatoo (Sulfur-crested)
+Nuance_EN: Refers to a type of white cockatoo, specifically the sulfur-crested cockatoo, native to Australia and Southeast Asia; a large white parrot.
+
+===word: 巴戦===
+Meaning: Round-robin Playoff
+Nuance_EN: A three-way battle or round-robin final, especially in sumo or sports tournaments where three competitors face each other in turn.
+
+===word: 巷===
+Meaning: Street / Town / Public
+Nuance_EN: A literary term for street corners, crowded places, or the general public, used in phrases like "street gossip" or "talk of the town"; more poetic than "street corner," mainly in writing.
+
+===word: 巻き===
+Meaning: Roll / Volume
+Nuance_EN: Refers to a rolled-up state or unit of something like a scroll, also the shape resulting from rolling, as in rolled sushi or curled hair.
+
+===word: 巻きひげ===
+Meaning: Tendril
+Nuance_EN: A biological term for an organ that vines or creepers use to wrap around other objects for support, seen in plants like peas and cucumbers, named for its beard-like shape.
+
+===word: 巻き上げる===
+Meaning: To Wind Up / To Extort
+Nuance_EN: To roll up or take in upward, also to forcibly take money or goods from someone.
+
+===word: 巻き付ける===
+Meaning: To Wrap Around
+Nuance_EN: To wind something long and thin, like string or cloth, around something else.
+
+===word: 巻き取り===
+Meaning: Winding / Take-up
+Nuance_EN: The action of winding something up or taking it in, used in various contexts from daily conversation to writing.
+
+===word: 巻き戻す===
+Meaning: To Rewind
+Nuance_EN: To return a rolled item to its original state, especially for tapes, films, or videos; now also used metaphorically for "rewinding time."
+
+===word: 巻き添え===
+Meaning: Collateral Damage / Involvement
+Nuance_EN: To be caught up in a trouble or incident not directly related to oneself, often in the phrase "to suffer collateral damage."
+
+===word: 巻き煙草===
+Meaning: Cigarette / Rolled Tobacco
+Nuance_EN: Tobacco rolled in paper, referring to either commercial cigarettes or hand-rolled ones.
+
+===word: 巻き舌===
+Meaning: Rolled Tongue / Trill
+Nuance_EN: A way of speaking where the tongue vibrates, especially for rolling the "r" sound.
+
+===word: 巻き起こす===
+Meaning: To Stir Up / To Cause
+Nuance_EN: To cause wind or events to arise violently, physically for wind swirling, metaphorically for stirring up topics, sensations, or commotion; often in phrases like "stir up a sensation."
+
+===word: 巻き込まれる===
+Meaning: To Be Caught Up In
+Nuance_EN: To be unwillingly involved in an accident, incident, or trouble, used in passive form, implying victimization without fault.
+
+===word: 巻き込む===
+Meaning: To Involve / To Drag Into
+Nuance_EN: To envelop and bring surrounding things inside, also to draw unrelated people into a problem or incident.
+
+===word: 巻き返す===
+Meaning: To Turn the Tables / To Recover
+Nuance_EN: To recover from a disadvantage or make a comeback, or to catch up in a competition.
+
+===word: 巻き髪===
+Meaning: Curly Hair / Curls
+Nuance_EN: A hairstyle with curled hair, made using a curling iron or rollers, used in beauty and fashion contexts.
+
+===word: 巻尺===
+Meaning: Measuring Tape
+Nuance_EN: A flexible tape for measuring length, made of cloth or vinyl that can be rolled up, used in carpentry and sewing; often refers to cloth tapes as opposed to metal ones.
+
+===word: 巻末===
+Meaning: End of a Volume
+Nuance_EN: The final part of a book or publication, often containing an index or references.
+
+===word: 巻物===
+Meaning: Scroll
+Nuance_EN: A book made of rolled paper or silk, used from ancient to medieval times, including sutras and picture scrolls; important as Japanese cultural heritage.
+
+===word: 巻頭===
+Meaning: Beginning of a Volume
+Nuance_EN: The front part of a book or scroll, often containing introductory material or the start of the content.
+
+===word: 巾着===
+Meaning: Drawstring Pouch
+Nuance_EN: A small cloth bag with a drawstring closure, used as a wallet in the Edo period and now for charms or small items; also appears in metaphorical expressions like "pickpocket."
+
+===word: 市内は物情騒然としている===
+Meaning: The city is in a state of unrest
+Nuance_EN: A four-character idiom describing a society that is unstable, with people restless and agitated due to war, disaster, or political turmoil; a formal, dignified written expression.
+
+===word: 市内を循環バスが走っています===
+Meaning: A circular bus runs within the city
+Nuance_EN: Describes the flow of blood, air, or resources along a fixed path, important in natural sciences and environment, also used metaphorically for economic cycles.
+
+===word: 市場===
+Meaning: Market
+Nuance_EN: Refers to a place where goods are traded or the economic mechanism of supply and demand; has two readings: physical "market" and economic "market"; a basic economic term.
+
+===word: 市場は今日は閑散としていた===
+Meaning: The market was quiet today
+Nuance_EN: Describes a place that is deserted and lacking bustle, used for shops or facilities being empty, or periods like "off-season"; opposite of bustling, a business term.
+
+===word: 市場占有率===
+Meaning: Market Share
+Nuance_EN: A business term for the percentage of sales or quantity a company or product holds in a specific market, equivalent to "market share"; used in formal documents, while "share" is more common casually.
+
+===word: 市外===
+Meaning: Outside the City
+Nuance_EN: The area outside a city's boundaries, used in contexts like long-distance calls or area codes in administration and telecommunications.
+
+===word: 市役所から税金を督促された===
+Meaning: The city hall urged payment of taxes
+Nuance_EN: A noun/verb meaning to urge fulfillment of an obligation, especially for unpaid bills or debts; a formal business term common in billing and debt collection, with "reminder" being more casual.
+
+===word: 市有地===
+Meaning: City-owned Land
+Nuance_EN: Land owned by a city government, a type of public land used for parks, schools, or municipal facilities; a formal term in news and administration, not common in daily life.
+
+===word: 市松人形===
+Meaning: Ichimatsu Doll
+Nuance_EN: A traditional Japanese doll with a body made of wood powder and glue, often dressed in a checkered pattern kimono.
+
+===word: 市民税が未納になっています===
+Meaning: The resident tax is unpaid
+Nuance_EN: A state where payments like fees or taxes have not been made, used for public utilities, insurance, or taxes; a formal term.
+
+===word: 市立===
+Meaning: Municipal / City-run
+Nuance_EN: A prefix indicating facilities or institutions established and operated by a city, like "city library" or "city hospital"; note the similar pronunciation to "private."
+
+===word: 市街===
+Meaning: Urban Area / City Streets
+Nuance_EN: Refers to the densely built-up area of a city where many people live, often used as "urban area," contrasted with suburbs or countryside.
+
+===word: 市販===
+Meaning: Commercially Available
+Nuance_EN: The state of a product being sold on the general market, especially for medicines like "over-the-counter drugs" that don't require a prescription.
+
+===word: 市道===
+Meaning: City Road
+Nuance_EN: A road managed by a city, a category in Japan's road system, usually smaller than national or prefectural roads; used in addresses and maps, in administration and civil engineering.
+
+===word: 市長===
+Meaning: Mayor
+Nuance_EN: The highest executive of a city's administration, typically elected.
+
+===word: 市長は私に身分証明書を交付した===
+Meaning: The mayor issued me an ID card
+Nuance_EN: "証" refers to evidence or proof of a fact or truth, used in legal and daily contexts, slightly more formal than "evidence."
+
+===word: 布===
+Meaning: Cloth / Fabric
+Nuance_EN: A thin material woven from fibers, used as raw material for clothing, towels, curtains, and various products.
+
+===word: 布切れ===
+Meaning: Cloth Scrap / Rag
+Nuance_EN: A small piece or fragment of cloth, like leftover fabric from sewing or a rag; a common word for shapeless cloth pieces.
+
+===word: 布告===
+Meaning: Proclamation / Decree
+Nuance_EN: A noun/verb meaning for a government or authority to announce to the public, or to widely notify a law or decision; a very formal expression used in news and historical contexts.
+
+===word: 布団===
+Meaning: Futon
+Nuance_EN: Traditional Japanese bedding consisting of a mattress and comforter, one of the most common daily words, typically stored in a closet.
+
+===word: 布団をかけないと寝冷えしますよ===
+Meaning: If you don't cover yourself with a futon, you'll catch a cold from sleeping cold
+Nuance_EN: Refers to catching a cold from getting chilled while sleeping, caused by summer air conditioning or insufficient blankets in winter.
+
+===word: 布地===
+Meaning: Fabric / Material
+Nuance_EN: General term for cloth used to make clothes or furniture, focusing on material and texture, common in fashion and handicraft contexts.
+
+===word: 布巾===
+Meaning: Dishcloth / Kitchen Cloth
+Nuance_EN: A cloth used in the kitchen for wiping dishes or countertops.
+
+===word: 布張り===
+Meaning: Upholstery / Fabric Covering
+Nuance_EN: Covering the surface of furniture or items with cloth, like "fabric-covered chair" or "fabric sofa," contrasted with leather or vinyl.
+
+===word: 布教活動===
+Meaning: Missionary Work / Proselytizing
+Nuance_EN: Activities to spread the teachings of a specific religion, used in contexts like Christian missions or Buddhist propagation; a somewhat formal, religious term.
+
+===word: 布石===
+Meaning: Preparation / Groundwork
+Nuance_EN: From the game of Go, meaning to place stones strategically; metaphorically, to make advance preparations or arrangements for future success.
+
+===word: 布陣===
+Meaning: Deployment / Formation
+Nuance_EN: A military term for arranging troops for battle, also used metaphorically for team or member arrangements in business or sports.
+
+===word: 帆===
+Meaning: Sail
+Nuance_EN: A cloth or sheet stretched on a ship's mast to catch wind and propel the vessel, a key component of sailing ships using wind power.
+
+===word: 帆船===
+Meaning: Sailing Ship
+Nuance_EN: A ship propelled by wind on its sails, now often used for tourism or training.
+
+===word: 希代===
+Meaning: Unprecedented / Rare
+Nuance_EN: Means extremely rare or extraordinary, used before nouns to emphasize "unparalleled in the world," both positively and negatively.
+
+===word: 希少===
+Meaning: Rare / Scarce
+Nuance_EN: A na-adjective describing something very few in number and valuable, used in "scarcity value," "rare metals," or "rare species"; somewhat formal but also used daily.
+
+===word: 希求===
+Meaning: Aspiration / Desire
+Nuance_EN: To strongly wish for and seek something, expressing a fervent desire for ideals or goals; a somewhat formal expression.
+
+===word: 希薄===
+Meaning: Thin / Weak / Sparse
+Nuance_EN: Means low density or concentration, also used for lack of emotion or interest, from physical thinness to metaphorical relationship sparseness.
+
+===word: 希覯===
+Meaning: Rare / Uncommon
+Nuance_EN: A Chinese-derived term meaning "rarely seen" or "very rare," used in academic or specialized contexts, not in daily conversation; appears in terms like "rare book."
+
+===word: 希釈===
+Meaning: Dilution
+Nuance_EN: To thin a liquid, a technical term in chemistry and cooking, with "dilute" being more colloquial.
+
+===word: 帝国===
+Meaning: Empire
+Nuance_EN: A state ruled by an emperor, historically like the Roman, British, or Japanese Empires, often characterized by territorial expansion and multi-ethnic rule; less common in modern republics.
+
+===word: 帝国主義===
+Meaning: Imperialism
+Nuance_EN: A political ideology or policy of expanding a nation's territory or influence, used in historical contexts from the 19th to early 20th centuries as an academic term.
+
+===word: 帝王切開===
+Meaning: Cesarean Section
+Nuance_EN: A surgical method of childbirth by cutting open the abdomen, a medical term widely known to the general public.
+
+===word: 帝王切開にしてください===
+Meaning: Please perform a cesarean section
+Nuance_EN: A request for a surgical delivery, used in medical settings.
+
+===word: 帝王学===
+Meaning: Kingship / Leadership Studies
+Nuance_EN: The study or education for cultivating the art of governance and leadership qualities for a monarch or top leader.
+
+===word: 師事===
+Meaning: To Study Under / To Be a Disciple
+Nuance_EN: A somewhat formal verb meaning to learn under a specific master or teacher, implying a deeper master-disciple relationship than just "learn," used in arts, martial arts, and academics.

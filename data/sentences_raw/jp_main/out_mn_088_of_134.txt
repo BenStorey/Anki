@@ -1,0 +1,799 @@
+===word: 火災で全てのコンピューターディスクが駄目になってしまった時、会社はもうお手上げの状況だった。===
+Meaning: Helpless / Hands Up
+Nuance_EN: A casual expression meaning becoming unable to do anything, originating from the surrendering gesture of raising both hands.
+
+===word: 火災の原因は放火だそうです。===
+Meaning: Fire Disaster
+Nuance_EN: Refers to a disaster where buildings or forests burn. Often used in firefighting and insurance contexts.
+
+===word: 火災報知機===
+Meaning: Fire Alarm
+Nuance_EN: A device that detects smoke or heat from a fire and sounds an alarm. Also called 'fire alarm' in homes and 'fire notification system' in buildings. Legally required safety equipment.
+
+===word: 火炎===
+Meaning: Flame
+Nuance_EN: Refers to blazing flames, a somewhat formal and literary expression. Often used in compounds like 'firebomb' or 'flamethrower'.
+
+===word: 火炎瓶===
+Meaning: Molotov Cocktail
+Nuance_EN: An improvised weapon made by filling a bottle with flammable liquid and using a cloth wick. A dangerous weapon used in riots and terrorism; a word heard in news reports.
+
+===word: 火砕流===
+Meaning: Pyroclastic Flow
+Nuance_EN: A geological term meaning a high-temperature flow of gas and rock during a volcanic eruption. A very dangerous natural phenomenon used in news and disaster information. Specialized term but common knowledge in volcanically active Japan.
+
+===word: 火種===
+Meaning: Ember / Seed of Fire
+Nuance_EN: Refers to the source of fire, such as a spark or leftover burning material. Figuratively, also indicates the cause of conflict.
+
+===word: 火花===
+Meaning: Spark
+Nuance_EN: Refers to small particles of light produced when objects collide or rub together. Besides physical sparks, used figuratively in 'sparks fly' to describe intense competition or debate.
+
+===word: 火葬===
+Meaning: Cremation
+Nuance_EN: A funeral method where the body is burned to bones. Cremation is common in Japan, and the bones are placed in a grave.
+
+===word: 火蓋を切る===
+Meaning: To commence / Start something
+Nuance_EN: An idiom meaning to begin a battle, competition, or new endeavor. Originates from opening the flash pan of a matchlock gun. Used in a wide range of contexts from formal to casual.
+
+===word: 火薬===
+Meaning: Gunpowder / Explosives
+Nuance_EN: A general term for chemical substances that cause combustion or explosion. Used in fireworks, firearms, and construction blasting; a dangerous material requiring careful handling.
+
+===word: 火遊び===
+Meaning: Playing with fire
+Nuance_EN: Used from literal playing with fire to metaphorical dangerous love affairs or reckless behavior. Especially in romance, it warns about a risky relationship taken lightly.
+
+===word: 火達磨===
+Meaning: Ball of fire / Fireball
+Nuance_EN: Refers to a state where the whole body is engulfed in flames, a somewhat archaic and intense expression. Used in anime and manga battle scenes.
+
+===word: 灯す===
+Meaning: To light (a lamp/candle)
+Nuance_EN: To ignite and illuminate, used for candles and lamps. An emotional and beautiful expression.
+
+===word: 灯台===
+Meaning: Lighthouse
+Nuance_EN: A tower-like structure built on the coast that signals ships their position with light. Located on capes and harbors.
+
+===word: 灯油===
+Meaning: Kerosene / Lamp oil
+Nuance_EN: A type of fuel refined from petroleum, mainly used for heating stoves and lamps. Heavily consumed in households during winter.
+
+===word: 灯籠===
+Meaning: Lantern
+Nuance_EN: A traditional Japanese lighting device that holds a flame inside, made of stone or paper.
+
+===word: 灰===
+Meaning: Ash
+Nuance_EN: Refers to the powdery substance left after something burns. Can also refer to cigarette ash, volcanic ash, or cremated remains.
+
+===word: 灰塵===
+Meaning: Ash and dust / Nothingness
+Nuance_EN: A compound of 'ashes' and 'dust,' used as a metaphor for something extremely small and worthless, or a state of complete annihilation. A stiff Sino-Japanese expression seen in literary texts and aphorisms. Used in 'turn to ash and dust' to describe buildings burning down to nothing.
+
+===word: 灰汁===
+Meaning: Aku / Scum / Bitteress
+Nuance_EN: Refers to the bitter or astrigent components in vegetables and other ingredients, or their strong taste. Some foods require a process to remove the aku. Figuratively, it also represens a person's strong personality or eccentricity.
+
+===word: 灰燼===
+Meaning: Embers / Ashes
+Nuance_EN: Means ashes and embers left after something burns. A somewhat literary expression used figuratively to indicate complete destruction. Often used in the idiom 'turn to ashes'.
+
+===word: 灰白色===
+Meaning: Grayish white
+Nuance_EN: A white tinged with gray. Used for buildings, clothing, or animal coat colors to descrybe a slightly dul white.
+
+===word: 灰皿===
+Meaning: Ashtray
+Nuance_EN: A container for cigarette ash. Placed in smoking areas or on tables.
+
+===word: 灰色===
+Meaning: Gray
+Nuance_EN: Refers to the color between white and black. Also figuratively descrybes an ambiguous, uncertain state or a gloomy mood.
+
+===word: 灼か===
+Meaning: Efficacious / Manifest
+Nuance_EN: Usually used in the phrase 'reigen arataka' meaning that a divine blessing is clearly effective and noticeable. A formal literary expression seen in shrine or temple origin stories.
+
+===word: 灼熱===
+Meaning: Scorching heat
+Nuance_EN: A word meaning burning hot, used to emphasize the sun or summer heat. Expresses extreme heat as in 'blazing sun' or 'hellish heat.' Has a literary ring.
+
+===word: 災い===
+Meaning: Calamity / Misfortune
+Nuance_EN: A somewhat archaic term meaning an unfortunate event or disaster. Used broadly from natural disasters to personal misfortunes, but in daily speech 'sainan' is more common.
+
+===word: 災害===
+Meaning: Disster
+Nuance_EN: A situation where natural phenomena like earthquakes, typhoons, floods cause severe damage to people's lives and society. Sudden and widespread impact.
+
+===word: 災害のため、多くの住民が避難所での生活を余儀なくされている===
+Meaning: Forced to live in shelters due to disaster
+Nuance_EN: A situation where natural phenomena cause severe damage... sudden and widespread.
+
+===word: 災難===
+Meaning: Misfortune / Accident
+Nuance_EN: An unexpected unfortunate event or accident. Refers to a calamity that can happen to anyone.
+
+===word: 災難だったな===
+Meaning: That's too bad / What a misfortune
+Nuance_EN: Expression of sympathy for an unfortunate event.
+
+===word: 炉===
+Meaning: Furnace / Hearth
+Nuance_EN: Equipment for burning fire. A general term for devices that generate heat, such as fireplaces, kilns, and nuclear reactors.
+
+===word: 炉床===
+Meaning: Heart / Furnace bed
+Nuance_EN: A technical term for the bottom part of a firepalce or kiln where fire is directly burned. Used in architecture and heating equipment fields.
+
+===word: 炉端===
+Meaning: Fireside / Hearthside
+Nuance_EN: Refers to the area around an irori or firepalce. Used to descrybe a cozy scene by the fire. Also famous in 'robatayaki' (griling by the hearth). Has a warm, nostic ring.
+
+===word: 炊き出し===
+Meaning: Relief food distribution
+Nuance_EN: Providng free food to disater victim. Done by volunteers or local governmens.
+
+===word: 炊事===
+Meaning: Coking / Kitchen work
+Nuance_EN: Refers to all food preparation activities. Has a somewhat old-fashioned and formal ring; in daily conversation 'cooking' or 'making meal' is more common.
+
+===word: 炊飯器===
+Meaning: Rice cooker
+Nuance_EN: An electric kitchen appliance for coking rice. Very common household appliance in Japan.
+
+===word: 炎===
+Meaning: Flame
+Nuance_EN: Refers to a mass of fire rising when something burns. Desrybes the red-orange glow. Figuratively used for intense emoions like 'flames of anger'.
+
+===word: 炎がぱちぱちと音を立てた===
+Meaning: The flame made a crackling sound
+Nuance_EN: An onomatopoeia for the sound of fire crackling or blinking. The sound of a campfire going 'patchi patch'i'.
+
+===word: 炎上===
+Meaning: Blaze / Go viral
+Nuance_EN: Literly means bursting into flamess; figuatively, it refer to a person or company facing heavy criticism online.
+
+===word: 炎天===
+Meaning: Scorching sun / Blazing weather
+Nuance_EN: Very hot weather with a blazing sun. The burning heat of midsummer.
+
+===word: 炎熱===
+Meaning: Intense heat
+Nuance_EN: A stiff expression for extremely intense, scorchng heat. Often used in compounds like 'blazing hell', in literary and meteorological contxts.
+
+===word: 炎症===
+Meaning: Inflammation
+Nuance_EN: A physiological response with redness, swelling, heat, and pain when a body part is injured or infected. Medical term but used in daily conversation.
+
+===word: 炒める===
+Meaning: To stir-fry
+Nuance_EN: A method of cooking ingredients quickly over high heat in an oiled pan. Common in Chinese cuisine, used daily in terms like 'vegetable stir-fry'.
+
+===word: 炙り出す===
+Meaning: To bring out (by heat) / Expose
+Nuance_EN: To apply heat to reveal hidden writing or patterns. Figuratively, means to expose secrets or truth.
+
+===word: 炙る===
+Meaning: To roast / Warm by fire
+Nuance_EN: To warm or cook by direct exposure to fire or heat. Used for grilling fish or mochi, or warming hands over a fire.
+
+===word: 炬燵===
+Meaning: Kotau (heated table)
+Nuance_EN: A traditional Japanese low table with a heater undeenath, covered by a quil. Popular in winter for warming legs.
+
+===word: 炭===
+Meaning: Charcoal
+Nuance_EN: A black fuel made by burning wood in a low-oxygen environment. Used for BBQ and heating, also for purification purposes.
+
+===word: 炭水化物===
+Meaning: Carbohydrate
+Nuance_EN: A general term for nutrients including sugars and dietary fiber, the body's main energy source. Found in rice, bread, noodles, often discussed in diet and health contexts.
+
+===word: 炭素===
+Meaning: Carbon
+Nuance_EN: Chemical element symbol C. Takes various forms from diamond to graphite to charcoal. Basic element of organic matter, foundation of life. Recenty heard in contxts like carbon fiber, carbon neutral, carbon dioxide.
+
+===word: 炭素クレジット===
+Meaning: Carbon credit
+Nuance_EN: A certificate representing the reduction of greenhouse gas emissions, a tradable emissions permit. One of the market mechanims for global warming countermeasures.
+
+===word: 炭酸===
+Meaning: Carbonation / Carbonie acid
+Nuance_EN: Refers to water or beverages with dissolved carbon dioxide. In drinks, 'carbonated water' or 'carbonated drink'. Chemically also means carbonie acid gas or compounds. Characteried by a fizzy sensation.
+
+===word: 炭鉱===
+Meaning: Coal mine
+Nuance_EN: A mine where coal is extrated. Hisorically important in Japan's industrial development.
+
+===word: 炯々===
+Meaning: Piercing (eyes)
+Nuance_EN: A literary expression describing eyes shining sharply and staring intenly. Emphasies the sharness of one's gaze.
+
+===word: 炸裂===
+Meaning: Explosion / Burst
+Nuance_EN: Refers to something bursting violently from an explosion. Besids physical expliosions, also metahorically describes something sudnly and intenly appearing, like 'criticism explodes', 'shot bursts', or 'laugter erupts'. Often used in spors commentry to emphasize powerful momen.
+
+===word: 炸裂する===
+Meaning: To explde / To burst
+Nuance_EN: Means something explosive blows apart, or figuatively an emotion or power sudnly bursts out. Used for a player's skil exploding in spors, anger erupting, etc. A dynmic expression.
+
+===word: 点く===
+Meaning: To turn on / To light up
+Nuance_EN: An intransitive verb meaning for electricity or fire to come on. Often used in spoken language. Means 'light comes on' or 'fire ignites', paired with transive '点ける'.
+
+===word: 点取り虫===
+Meaning: Grade-gruber / Point chaser
+Nuance_EN: A colloquial term for a student obessed with geting high scors, often used pejoratively.
+
+===word: 点呼===
+Meaning: Roll cal
+Nuance_EN: The act of checkng each peron's name to see if everyone is present. Done before class, morning meetings, or trip departus. Formal term; casuly called 'atendance check'.
+
+===word: 点在===
+Meaning: Scattered / Dotting
+Nuance_EN: Means things exist not in one place but scattered around. Describes a situation where objects are seen in multiple locations at interals. Often used for stars, islands, or shops.
+
+===word: 点字===
+Meaning: Braile
+Nuance_EN: A writing system using raised dots for visually impired people to read by touch. Used on signs at stations and public facilities.
+
+===word: 点差===
+Meaning: Point diffeence / Scor gap
+Nuance_EN: The diffeence in points or scors in compititions or exams.
+
+===word: 点差が開く===
+Meaning: The point gap widens
+Nuance_EN: In spors or games, the diffeence in scors expads. Often used to descrybe the flow of a mach; the oppsite is 'the gap narrows'.
+
+===word: 点描===
+Meaning: Sippling / Pointilism / Sketch
+Nuance_EN: A technique of painting by applying dots, or a literary style that descrybes only fragments in detail. A specialized term in both art and literature.
+
+===word: 点数===
+Meaning: Scor / Grade
+Nuance_EN: A number indicating evaluation in exams or games. Everyday word used for test scors or spors points.
+
+===word: 点検===
+Meaning: Inspection / Check
+Nuance_EN: To check each item of machinery, equipment, or documents for problems. Regular inspection to maintin safety and quality.
+
+===word: 点滅===
+Meaning: Flashing / Flickering
+Nuance_EN: Light repeatly turning on and off. Desrybes the opation of trafic lights or warning lights.
+
+===word: 点滴注射===
+Meaning: Intravenous drip
+Nuance_EN: A treatment where medicine or nurients are slowly injectd directly into a patint's vein. Often shornd to '点滴'. Used during hospitaliation, deydration, or after surgery. Patints must lie in bed for a long time.
+
+===word: 点火===
+Meaning: Ignition / Lighting
+Nuance_EN: To set fire or start an engine. Used for mechanical ignition like stoves, heaters, rockets.
+
+===word: 点灯===
+Meaning: Lighting up / Turning on light
+Nuance_EN: To light an electric lamp or lantern. Anonym of 'extingish'. A somewhat formal term mainly for lighting fixtus and indicator lights.
+
+===word: 点線を書く===
+Meaning: To draw a doted line
+Nuance_EN: Refers to a line made of connectd dots. Used for boundry lines on maps, cut lines on documents, etc.
+
+===word: 為さる===
+Meaning: To do (honorific)
+Nuance_EN: The respectul form of 'suru', used to show respect for a suprior's action. Very polite and formal.
+
+===word: 為す術も無く===
+Meaning: Heplessly / At a loss
+Nuance_EN: An idiom descrybing being at a loss with no means to act. Means a state of comple helplessness with no countermeasure.
+
+===word: 為になる===
+Meaning: To be benefical / Useul
+Nuance_EN: An idiomatic expression meaning that studying or experince is helpul and worthile. Read as 'tame ni naru'.
+
+===word: 為政者===
+Meaning: Ruler / Goveror
+Nuance_EN: A peron who engages in polics, one in a position to goven a country or region.
+
+===word: 為替相場===
+Meaning: Exhange rate
+Nuance_EN: The exchange rate between different currencies, i.e., the price of foreign exchange. A technical term in economics and investent, fluctuaing daily.
+
+===word: 為替相場が安定しないことには、経済の回復もおぼつかない。===
+Meaning: Unles exchange rates stabilize, economic recovery is uncertain.
+Nuance_EN: Same nuance as previous. A sence example.
+
+===word: 烈土===
+Meaning: Martyr
+Nuance_EN: A peron who gave their life for their bellifs or princles. Used in hisorical or literary contxts to honr those sacrifed in revluions or batles. Very formal, rely used in daily coversation.
+
+===word: 烈河===
+Meaning: Raging fire / Fierce flame
+Nuance_EN: A large, fecely burning fire. Figuratively used in 'rage like a wild fire' to express intene anger.
+
+===word: 烏天狗===
+Meaning: Karasu tengu (crow goblin)
+Nuance_EN: A type of tengu with a crow-like beak and wings, a yokai in Japanese folclore. Compard to the long-nosed great tengu, karasu tengu are depcted as more human-like. They wear mountin ascetic robes and possess superatural powers, often appring in strange tales.
+
+===word: 烏帽子===
+Meaning: Eboshi (traditonal cap)
+Nuance_EN: A traditonal black laqured headgear worn by adult men in formal setings from Heian to Edo perods. Shapes vary by era and status (standing eboshi, foldd eboshi). Now minly seen in Shint rituals, Noh theaer, and perod dramas.
+
+===word: 烏滸===
+Meaning: Presumptuos / Cheky
+Nuance_EN: Describes an atitude of being arrogant and impudent without knowng one's place. Critizes trying to do things beyond one's status or ability. Somewht archac phrasing.
+
+===word: 烏滸がましい===
+Meaning: Presumptuos / Braen
+Nuance_EN: Same as previous, but in adjectiv form. Means cheky and presumptuos. Archac.
+
+===word: 烙印===
+Meaning: Brand (mark) / Stigma
+Nuance_EN: A brand mark burned onto livetock or slves. Figuratively, 'branded' means to have a negative label that becoms a pernanent stain. Very strong negative image.
+
+===word: 焙煎===
+Meaning: Roasting (cofee, tea, nuts)
+Nuance_EN: A specialied term for heating cofee beans, tea leaves, or nuts to make them aromtic and dry. In cofee, the roast level (light, medium, dark) greaty affects flvor. Common among cofee enthusiast.
+
+===word: 焚き火===
+Meaning: Campfire / Bonfire
+Nuance_EN: A fire burning firewood outdoors. Poplar as a winter tradition and camping activity.
+
+===word: 焚く===
+Meaning: To burn / To light (fire)
+Nuance_EN: To burn fire to cook or warm something. Used especially in 'burn firewood' or 'heat the bath'.
+
+===word: 焜炉===
+Meaning: Stove / Burner
+Nuance_EN: The formal kanji spelling of 'konro' (cooking stove/heater). In daily use, usually written in katakana.
+
+===word: 無い袖は振れぬ===
+Meaning: You cannot give what you don't have
+Nuance_EN: A proverb meaning you can't produce something you don't own. Used as a warning or excuse when unable to meet demands due to lack of money or resources.
+
+===word: 無うなる===
+Meaning: To disapper / To be lost (archac/dialect)
+Nuance_EN: An archac or dialectal form of 'nakunaru' (to be lost). Means something is lost or ceases to exist. Rely used in modern standrd Japanese, heard in period dramas or Kansai dialect.
+
+===word: 無きにしもあらず===
+Meaning: Not entirey absent / There is some
+Nuance_EN: A literary expression meaning 'it is not that there is none', i.e., 'there is some'. Double negative structure.
+
+===word: 無上===
+Meaning: Suprem / Unparaeled
+Nuance_EN: A Sino-Japanese term meaning unsurpassed excellence or suprem. Used in 'supreme joy' or 'supreme honor', a somewhat literary and dignified expression, used in speecs or writing rather than daily coversation.
+
+===word: 無下に===
+Meaning: Coldly / Brusquely
+Nuance_EN: An adverb meaning to treat someone coldly without consideration. Often used in 'refuse flatly' or 'treat dismissively', criticizing lack of compassion.
+
+===word: 無下にする===
+Meaning: To reject coldly / To treat dismissively
+Nuance_EN: A verb phrase meaning to coldly and unilaterally refuse someone's request or treat it lightly. Has a stronger connotation of coldness than 'muri suru'. Used in business to warn against rude rejection.
+
+===word: 無人===
+Meaning: Unmanned / Deserted
+Nuance_EN: Refers to a state with no people. Used in 'unmanned station', 'deserted island', 'unattended shop', etc.
+
+===word: 無人島===
+Meaning: Deserted island
+Nuance_EN: An island with no inhabitants. Often associated with adventure and survival, has a romantic ring.
+
+===word: 無体===
+Meaning: Intangible / Unreasonable
+Nuance_EN: A polysemous word meaning 'formless' (intangible) or 'outrageous'. In legal contexts, 'intangible property rights'; also 'unreasonable demand'.
+
+===word: 無体財産===
+Meaning: Intangible property
+Nuance_EN: Property without physical form, such as patents and copyrights (intellectual property).
+
+===word: 無信心===
+Meaning: Non-belief / Lack of faith
+Nuance_EN: Not believing in religion or gods, or having weak faith. Refers to a person without religious belief. Somewhat stiff, 'mushukyo' (non-religious) is more common in daily speech.
+
+===word: 無傷===
+Meaning: Unhamed / Sound
+Nuance_EN: Without injury or damage.
+
+===word: 無償===
+Meaning: Free / Without charge
+Nuance_EN: Means no payment or compensation, free. Slightly more formal than 'free of charge'. Also used figuratively in 'unconditional love' meaning love that asks nothing in return.
+
+===word: 無冠===
+Meaning: Crownless / Without title
+Nuance_EN: Literally 'no crown', meaning without glory or title. Often used in sports or entertainment for someone who is talented but has not won a championship.
+
+===word: 無分別===
+Meaning: Indiscretion / Recklessness
+Nuance_EN: A descriptive noun meaning lack of prudence and acting rashly. Criticizes someone's character or behavior. Somewhat stiff, used in 'reckless person'.
+
+===word: 無利子===
+Meaning: Interest-free
+Nuance_EN: Means no interest is charged on borrowed money. Used for student loans, family loans, special promotions.
+
+===word: 無制限===
+Meaning: Unlimited / No restriction
+Nuance_EN: Means no limits or restrictions. Used for quantities, time, range, etc.
+
+===word: 無力===
+Meaning: Powerless / Helpless
+Nuance_EN: A state of having no strength to do anything. Expresses a feeling of helplessness.
+
+===word: 無効===
+Meaning: Invalid / Void / Ineffective
+Nuance_EN: Means having no legal force or effect. Used when a deed or document is legally void. Also refers to a function not working.
+
+===word: 無印===
+Meaning: Unbranded / No label
+Nuance_EN: Refers to products without a brand name. Same as 'no brand'. Indicates simple, unadorned. Also famous as brand 'Muji Ryohin', but alone means 'no name written' or 'no label'.
+
+===word: 無双===
+Meaning: Unmatched / Peerless
+Nuance_EN: A Sino-Japanese expression meaning incomparable excellence. Originally 'unrivaled under heaven', but recently used in games/anime as 'to dominate'. Somewhat exaggerated, seen in titles and catchphrases.
+
+===word: 無口===
+Meaning: Taciturn / Quiet
+Nuance_EN: Describes a personality with few words. More than just 'quiet', often gives impression of carrying secrets. Usually positive, implying calm and composed.
+
+===word: 無名===
+Meaning: Unknown / Anonymous
+Nuance_EN: Not known by name, or without fame. Used for artists or writers not yet recognized.
+
+===word: 無味乾燥===
+Meaning: Dry and insipid / Tedious
+Nuance_EN: A four-character idiom describing something lacking flavor and interest, boring. Used to criticize monotonous writing, lectures, events. Stiff and critical.
+
+===word: 無地===
+Meaning: Solid color / Plain
+Nuance_EN: Refers to fabric or paper without patterns, all one color. Gives a simple, calm impression.
+
+===word: 無垢===
+Meaning: Pure / Immaculate
+Nuance_EN: State of being pure-hearted, without any evil or dirt. Also means physically pure and untarnished.
+
+===word: 無垢である程度===
+Meaning: Degree of purity
+Nuance_EN: The same nuance but with 'degree'; a phrase meaning to what extent of purity.
+
+===word: 無垢の処女===
+Meaning: Pure virgin
+Nuance_EN: A somewhat literary expression for a pure, untouched woman. Often used in literature or myth.
+
+===word: 無実===
+Meaning: Innocence (of a crime)
+Nuance_EN: Means that one has been accused but actually did not do it, i.e., clean. Used in legal and crime contexts. Focuses on denial of guilt.
+
+===word: 無害===
+Meaning: Harmless
+Nuance_EN: Describes something safe and without harm. Used for chemicals, organisms, actions to indicate no danger.
+
+===word: 無形===
+Meaning: Intangible / Formless
+Nuance_EN: Refers to something without physical form, invisible. Often used when discussing culture, assets, or values.
+
+===word: 無彩色===
+Meaning: Achromatic color
+Nuance_EN: Colors without hue: white, gray, black. A design and art term.
+
+===word: 無心===
+Meaning: Absorption / Begging
+Nuance_EN: Has two completely different meanings: (1) to importunately ask for money or gifts, (2) to be so absorbed in something that one is free from distracting thoughts.
+
+===word: 無心の手紙===
+Meaning: Letter asking for money
+Nuance_EN: A letter requesting financial help or goods. 'Mushin' here means to beg, different from the other 'mushin'. Slightly archaic literary expression.
+
+===word: 無念===
+Meaning: Regret / Frustration
+Nuance_EN: Expresses strong regret and frustration when things don't go as hoped, especially when effort is unrewarded or a close loss.
+
+===word: 無性に===
+Meaning: Irresistibly / Desperately (want)
+Nuance_EN: An adverb expressing a strong desire without reason. Used for sudden emotional cravings, like 'I desperately want to eat something' or 'I desperately want to see you'. Emphasizes lack of logical reason.
+
+===word: 無恥===
+Meaning: Shameless
+Nuance_EN: A stiff expression meaning lacking a sense of shame. Used as strong criticism for morally problematic behavior.
+
+===word: 無情===
+Meaning: Heartless / Merciless
+Nuance_EN: Lacking compassion or kindness, cold attitude. Used not only for people but also for cruel situations or fate.
+
+===word: 無意識===
+Meaning: Unconscious / Subconscious
+Nuance_EN: Refers to a state not consciously aware or actions done unintentionally. Used in psychology and daily conversation.
+
+===word: 無愛想===
+Meaning: Unfriendly / Curt
+Nuance_EN: Describes a cold, unengaging attitude.
+
+===word: 無慈悲===
+Meaning: Merciless / Cruel
+Nuance_EN: Means having no compassion or sympathy for others.
+
+===word: 無我夢中===
+Meaning: Completely absorbed / Forgetting oneself
+Nuance_EN: Means being so engrossed in something that you forget yourself. 'Muga' is a Buddhist term for losing ego, but daily used positively for deep involvement.
+
+===word: 無手勝流===
+Meaning: Improvised / Ad hoc method
+Nuance_EN: Originally a martial arts school that wins without weapons; now refers to handling things on the spot without planning. A humorous expression for unconventional approaches.
+
+===word: 無担保===
+Meaning: Unsecured (loan)
+Nuance_EN: A financial term meaning no collateral is provided for a loan.
+
+===word: 無政府主義者===
+Meaning: Anarchist
+Nuance_EN: A person who denies state or government control and aims for a free autonomous society. A specialized term in political and social thought.
+
+===word: 無数===
+Meaning: Countless / Innumerable
+Nuance_EN: Indicates an innumerable number. Emphasizes that there are too many to count accurately.
+
+===word: 無数の細胞が人の体を形作る===
+Meaning: Countless cells form the human body
+Nuance_EN: The nuance explains 'cell' as basic biological unit. Used in medical and health contexts, also in daily conversation.
+
+===word: 無敵===
+Meaning: Invincible
+Nuance_EN: Means no enemy exists, too strong for anyone to match. From military term to sports, games, and figurative 'invincible smile' meaning flawless charm.
+
+===word: 無断で===
+Meaning: Without permission
+Nuance_EN: An adverbial expression meaning doing something without asking. Often used in negative contexts like 'unauthorized absence'.
+
+===word: 無断転載===
+Meaning: Unauthorized reproduction
+Nuance_EN: The act of reproducing text or images without permission from the copyright holder. Illegal.
+
+===word: 無期===
+Meaning: Indefinite / Life (term)
+Nuance_EN: Means without a fixed period. Often short for 'life imprisonment'. Also 'indefinite' in business contracts.
+
+===word: 無条件===
+Meaning: Unconditional
+Nuance_EN: Accepting without any conditions. Used in 'unconditional love' or 'unconditional surrender'.
+
+===word: 無条件降伏===
+Meaning: Unconditional surrender
+Nuance_EN: Surrender without any conditions. Used in war contexts, carries historical and political weight.
+
+===word: 無様===
+Meaning: Awkward / Ugly / Pathetic
+Nuance_EN: Describes a disgraceful, ugly, or shameful state due to failure. Critical and negative; rude to say directly.
+
+===word: 無機物===
+Meaning: Inorganic substance
+Nuance_EN: General term for chemical substances that are not organic compounds, e.g., minerals, metals. Academic term used in science classes; rarely in daily conversation.
+
+===word: 無機的===
+Meaning: Inorganic / Mechanial / Cold
+Nuance_EN: Desrybes something that feels lifless, mechancial, and cold. Derived from chemstry term but used figuatively.
+
+===word: 無欲===
+Meaning: Unselfish / Detaced
+Nuance_EN: Desrybes a state without greed or atachment, indifferent to things. Conotes high spirituality and integitry.
+
+===word: 無残===
+Meaning: Miserable / Grusome
+Nuance_EN: Also writen '無惨'. Desrybes a tragic, pitiful, or cruel state. So terrible it's hard to look at.
+
+===word: 無法地帯===
+Meaning: Lawless zone
+Nuance_EN: An area or situation where law and order do not apply. A place with much crime and little enforcement.
+
+===word: 無法者===
+Meaning: Outlaw
+Nuance_EN: A peron who acts ignoring society's rules. More than a simple criminal, carries an image of a lawless, self-wiled person like a Westrn gunslinger.
+
+===word: 無添加の===
+Meaning: Additive-free
+Nuance_EN: Indicates no artificial addities in food or cosmetis. Poplar with health-conscius consumers, ofen on product labels.
+
+===word: 無為===
+Meaning: Inaction / Idleness
+Nuance_EN: The state of doing nothing. Positively used in Tast philosophy as 'naturalness', but commonly has negative connotation of laziness.
+
+===word: 無為（な）===
+Meaning: Inactive / Do-nothing
+Nuance_EN: Same as above but in adjectiv form.
+
+===word: 無理に家へ帰そうとしたってだめですよ。わたしはいまや自由の身なんです===
+Meaning: You can't force me to go home. I'm a free person now.
+Nuance_EN: The nuance given explains 'dori' (reason/prinple). In science, it can mean prinple or law.
+
+===word: 無理もない===
+Meaning: Not unreasonble / Understandable
+Nuance_EN: An idiom meaning that a situation or emotion is natural and understandable. Used to show empthy and acptance rather than criticism.
+
+===word: 無理やリ===
+Meaning: Forcibly / Again will
+Nuance_EN: An adverb meaning to force something regardless of the other peron's will or circumtance. Implies ignoring natural flow.
+
+===word: 無理をしないで体力に応じた運動をしてください===
+Meaning: Please exrcise according to your strength without overdoing.
+Nuance_EN: The nuance given is about 'dori' (reason/prinple). In science, it can mean prinple or law.
+
+===word: 無理強===
+Meaning: To coerce / Force
+Nuance_EN: To make someone do something again their will or ability. Strong negative connotation of compulsion.
+
+===word: 無理数===
+Meaning: Irrational number
+Nuance_EN: A real number that cannot be expressed as a fraction. Reprsenatives are π and √2. Basic concept learned in math class.
+
+===word: 無理解===
+Meaning: Lack of understanding
+Nuance_EN: A state of not correctly understanding the meaning or value of something. Used when one does not grasp another's feelings or situation.
+
+===word: 無理難題===
+Meaning: Impossible demand / Difficult problem
+Nuance_EN: A demand or problem that is extremely difficult or almost impossible to achieve. Used when someone makes an unreasonable request or an insolvable challenge. Strongly criticizes the other's unfair demand.
+
+===word: 無生物===
+Meaning: Inanimate object
+Nuance_EN: A thing without life. Often used in literature or grammar explanations.
+
+===word: 無用（の）===
+Meaning: Unnecessary / Useless
+Nuance_EN: Means not useful or not needed. In 'useless object' or 'no need to worry'. Slightly stiff, often in written language or signs.
+
+===word: 無症状===
+Meaning: Asymptomatic
+Nuance_EN: Medical term meaning no noticeable symptoms despite having a disease or infection. Used when a person tests positive but has no symptoms.
+
+===word: 無痛分娩===
+Meaning: Painless childbirth / Epidural
+Nuance_EN: Childbirth with pain relief, often via epidural anesthesia.
+
+===word: 無知===
+Meaning: Ignorance
+Nuance_EN: Lack of knowledge or not knowing. Has a somewhat negative connotation.
+
+===word: 無知な===
+Meaning: Ignorant
+Nuance_EN: Adjective form of ignorance.
+
+===word: 無知蒙昧===
+Meaning: Ignorant and uneducated
+Nuance_EN: A four-character idiom that strongly criticizes a state of ignorance and lack of education. Implies not just lack of knowledge but also unillingness to learn.
+
+===word: 無碍===
+Meaning: Uninderd / Detached
+Nuance_EN: A state of being free without obstacles. In Buddhism, means non-atachment. Negative form 'not muge' means 'cold'.
+
+===word: 無礼===
+Meaning: Rude / Impolite
+Nuance_EN: Being rude or lacking manners toward someone. Strong negative connotation, used in 'commit rudeness' or 'rude person'.
+
+===word: 無礼千万===
+Meaning: Extremely rude
+Nuance_EN: An exagerated expression for severe rudeness. Somewhat old-fashioned, strong criticism.
+
+===word: 無礼者===
+Meaning: Rude person / Insolent fellow
+Nuance_EN: A term criticizing someone lacking manners. Often used in period drams as an angry exclamation. Very atackive in real life; mosty used jokingy or in fiction.
+
+===word: 無神経===
+Meaning: Insensitive / Thick-skinned
+Nuance_EN: Lack of sensitivity and consideration for others' feelings. Criticizes being oblivious to hurting others.
+
+===word: 無神論===
+Meaning: Atheism
+Nuance_EN: The belief or stance that denies the existence of gods or supernatural beings. Used in religion and philosophy.
+
+===word: 無私===
+Meaning: Selfless / Impartial
+Nuance_EN: Acting without selfish interests. Used to praise someone who serves others or makes fair judgments. Somewhat formal, more in writing or speeches.
+
+===word: 無策===
+Meaning: Lack of plan / Helpless
+Nuance_EN: Having no countermeasures or policy for a problem.
+
+===word: 無粋===
+Meaning: Tactless / Unrefined
+Nuance_EN: Lack of elegance and sophistication. Refers to actions that fail to read the atmosphere or boorish behavior.
+
+===word: 無精ひげ===
+Meaning: Stubble / Unshaven beard
+Nuance_EN: Facial hair that is not shaven, a casual look.
+
+===word: 無線===
+Meaning: Wireless / Radio
+Nuance_EN: Communication using radio waves without wires. Includes wireless communication, radio, mobile phones.
+
+===word: 無線局===
+Meaning: Radio station (including amateur)
+Nuance_EN: A facility for wireless communication. Used in contexts like amateur radio or broadcasting.
+
+===word: 無線機===
+Meaning: Radio transceiver / Wireless device
+Nuance_EN: A device that communicates using radio waves. Used in amateur radio, commercial, marine, aviation. Important before mobile phones.
+
+===word: 無縁===
+Meaning: Unrelated / No connection
+Nuance_EN: Complete absence of relation. Used in phrases like 'unconnected place' or 'anonymous grave'.
+
+===word: 無罪放免===
+Meaning: Acquittal / Release
+Nuance_EN: Legally found innocent and freed. Originates from Edo period court system. Used in modern form 'become acquitted'.
+
+===word: 無能===
+Meaning: Incompetent / Useless
+Nuance_EN: Lacking ability and of no use. A negative evaluation of a person.
+
+===word: 無能な===
+Meaning: Incompetent
+Nuance_EN: Adjective form of incompetence.
+
+===word: 無脂肪乳===
+Meaning: Fat-free milk / Skim milk
+Nuance_EN: Milk from which most of the fat has been removed. Preferred by those watching calories.
+
+===word: 無色===
+Meaning: Colorless / Transparent
+Nuance_EN: Having no color, being transparent.
+
+===word: 無茶===
+Meaning: Reckless / Outrageous
+Nuance_EN: Actions or demands that ignore reason and common sense. Also used for overly extreme behavior.
+
+===word: 無茶苦茶===
+Meaning: Messy / Ridiculous
+Nuance_EN: Emphasized form of 'mucha', meaning completely absurd or chaotic.
+
+===word: 無表情===
+Meaning: Expressionless
+Nuance_EN: A state where no emotion appears on the face.
+
+===word: 無視===
+Meaning: Ignore
+Nuance_EN: To treat someone or something as nonexistent, paying no attention. Intentional disregard often causes relationship issues.
+
+===word: 無言===
+Meaning: Silence / Wordless
+Nuance_EN: Saying nothing, not making a sound. A noun for silent state, also used attributively as 'silent'.
+
+===word: 無言（の）===
+Meaning: Silent
+Nuance_EN: Same as above, but in attributive form.
+
+===word: 無論===
+Meaning: Of course
+Nuance_EN: Same as 'mochiron', emphasizing that something is natural. Preferred in writing and formal situations.
+
+===word: 無謀(な)===
+Meaning: Reckless / Foolhardy
+Nuance_EN: '謀' refers to a strategic plan to achieve a goal. Often used with negative connotations of scheming, but also neutrally as strategy. Common in period dramas.
+
+===word: 無責任===
+Meaning: Irresponsible
+Nuance_EN: A trait or attitude of not taking responsibility for one's actions or words. Used to criticize unfaithful behavior toward others or society.
+
+===word: 無責任な行動は許されません。===
+Meaning: Irresponsible behavior is not allowed.
+Nuance_EN: Same nuance as above. Sentence example.
+
+===word: 無軌道===
+Meaning: Unrouted / Undisciplined
+Nuance_EN: From 'no rails', metaphorically meaning lack of direction or discipline in behavior or life.
+
+===word: 無辜===
+Meaning: Innocent / Guiltless
+Nuance_EN: A Sino-Japanese term for being innocent of crime or responsibility. Very formal, used in legal or news contexts. 'Mujitsu' is more common in daily speech.
+
+===word: 無造作===
+Meaning: Casual / Nonchalant
+Nuance_EN: Doing things without caring about details, easily. Can be positive 'natural' or negative 'careless'. Often used adverbially as 'casually'.
+
+===word: 無邪気===
+Meaning: Naive / Innocent
+Nuance_EN: Pure and straightforward without malice. Mainly used for children or child-like behavior, generally positive. However, 'too naive' can criticize lack of understanding of world's complexity.
+
+===word: 無酸素運動===
+Meaning: Anaerobic exercise
+Nuance_EN: Physical exercise that does not rely on oxygen, such as sprinting or weightlifting.

@@ -1,0 +1,799 @@
+===word: 医療従事者===
+Meaning: Healthcare worker
+Nuance_EN: A collective term for all medical professionals such as doctors, nurses, pharmacists, and care staff. It is a standard term in news and official systems, frequently used during infectious disease outbreaks.
+
+===word: 患者===
+Meaning: Patient
+Nuance_EN: "Sasshi" refers to the ability to infer someone's feelings or situation without direct words, a crucial concept in Japanese communication. Being good at sasshi is highly valued, while being bad at it is criticized as not reading the atmosphere. The phrase "o-sasshi shimasu" is used to express empathy.
+
+===word: 匿う===
+Meaning: Hide / Shelter
+Nuance_EN: "Kakumau" means to hide and protect someone or something so they are not seen. It can be used in both negative contexts (hiding a criminal) and positive ones (protecting a person).
+
+===word: 匿名===
+Meaning: Anonymity
+Nuance_EN: Refers to not revealing one's name or being in a state where the name is unknown. Commonly used in contexts like online posts, surveys, and information provision.
+
+===word: 十中八九===
+Meaning: Very likely
+Nuance_EN: An idiomatic expression meaning "almost certainly" or "highly probable." It indicates that something is very likely to happen.
+
+===word: 十人十色===
+Meaning: Different strokes for different folks
+Nuance_EN: A proverb meaning that ten people have ten different preferences and ways of thinking. It expresses that people's opinions and tastes are all different.
+
+===word: 十全===
+Meaning: Perfect / Complete
+Nuance_EN: "Juzen" means being completely perfect and without any deficiency. It is a somewhat formal expression, used in phrases like "juzen no taisei o totonoeru" (establish a perfect system). It has a stronger emphasis than "juubun" (enough).
+
+===word: 十八番===
+Meaning: Specialty / Strong suit
+Nuance_EN: "Juuhachiban" refers to a person's most accomplished skill or specialty. Originally a kabuki term, derived from the program "Sewamono Juuhachiban." It is used to describe someone's unique talent.
+
+===word: 作品===
+Meaning: Work (of art)
+Nuance_EN: "Hin" refers to goods, products, or items in general. It is used for items sold in stores or types of products. Also used in expressions like "hin ga aru" (having class) or "hin ga nai" (tasteless) to describe behavior or taste.
+
+===word: 十字キー===
+Meaning: D-pad
+Nuance_EN: A cross-shaped directional input device found on game controllers, widely known from the Famicom controller.
+
+===word: 十字架===
+Meaning: Cross
+Nuance_EN: The cross is a Christian symbol representing the cross on which Jesus was crucified. It is used in church decorations and accessories, and also metaphorically in phrases like "juujika o seou" (to carry a cross) meaning to bear a heavy burden.
+
+===word: 十字路===
+Meaning: Crossroads
+Nuance_EN: Refers to a place where roads cross in a cross shape. Similar to "kousaten" (intersection), but "juujiro" is an older term often used for smaller, unsignalized intersections.
+
+===word: 衝突===
+Meaning: Collision
+Nuance_EN: "Shoutotsu" means when things violently hit each other, or when opinions or interests clash without agreement. Used for both physical collisions and conflicts of ideas.
+
+===word: 千切り===
+Meaning: Julienne cut
+Nuance_EN: "Sengiri" is a cooking technique of cutting vegetables into thin, stick-like strips, commonly used for daikon radish, carrots, and cabbage. It improves texture and reduces cooking time, often used in salads and stir-fries.
+
+===word: 千差万別===
+Meaning: Vastly diverse
+Nuance_EN: "Sensabanbetsu" is a four-character idiom meaning that there are countless varieties and no two things are the same. It emphasizes the breadth of diversity more than "juunin to iro" (ten people, ten colors).
+
+===word: 千秋楽===
+Meaning: Final day (of a performance)
+Nuance_EN: "Senshuuraku" refers to the final day of a performance such as sumo or kabuki. It is the climax and closing day of an event.
+
+===word: 千葉県===
+Meaning: Chiba Prefecture
+Nuance_EN: A prefecture in the Kanto region, located east of Tokyo. Home to Narita Airport and Tokyo Disneyland.
+
+===word: 千載一遇===
+Meaning: Once-in-a-lifetime opportunity
+Nuance_EN: "Senzaiichiguu" is a four-character idiom meaning a rare opportunity that comes only once in a thousand years. Often used in the phrase "senzaiichiguu no chansu" with strong emphasis.
+
+===word: 千鳥足===
+Meaning: Staggering walk (drunk)
+Nuance_EN: "Chidoriashi" describes the state of being drunk and unsteady on one's feet, unable to walk straight. The term is derived from the swaying motion of a plover in flight.
+
+===word: 升目===
+Meaning: Grid / Square division
+Nuance_EN: "Masume" refers to square divisions like those in a measuring cup (masu) or grid paper. It is also associated with sumo wrestling rings and cooking measurements. The "me" (目) indicates visually recognizable units.
+
+===word: 疎ら===
+Meaning: Sparse
+Nuance_EN: "Mabara" refers to the state of people or things being sparse and thinly spread. It describes the amount of pedestrian traffic on roads or sidewalks.
+
+===word: 電灯===
+Meaning: Electric light
+Nuance_EN: "Dentou" refers to electric lighting or the device itself. It has a strong image of a light bulb and a somewhat old-fashioned, literary tone. Also used in compound words like "dentousen" (power line).
+
+===word: 打ち合わせ===
+Meaning: Meeting / Discussion
+Nuance_EN: "Uchiawase" refers to getting together in advance to discuss plans and procedures. A common everyday term used in business and event preparation.
+
+===word: 午睡===
+Meaning: Afternoon nap
+Nuance_EN: "Gosui" refers to a short sleep taken after lunch, also known as a nap. It is often associated with customs in Spain and Italy.
+
+===word: 半ば===
+Meaning: Middle / Halfway
+Nuance_EN: "Nakaba" refers to about halfway through the whole, or the middle of a process. Used for time, age, and progress.
+
+===word: 半人前===
+Meaning: Half-baked / Inexperienced
+Nuance_EN: "Hanninmae" refers to a state where one's skills or experience are insufficient to be recognized as full-fledged. Often used for apprentices or beginners.
+
+===word: 半信半疑===
+Meaning: Half-belief, half-doubt
+Nuance_EN: "Hanshin hangi" describes a state of being half convinced and half skeptical, indicating uncertainty.
+
+===word: 半導体===
+Meaning: Semiconductor
+Nuance_EN: "Handoutai" refers to a material with electrical conductivity between that of a conductor and an insulator, essential for modern electronic devices. Used in computers, smartphones, cars, etc.
+
+===word: 半導体は様々な製品に使われているよ。===
+Meaning: Semiconductor is used in various products.
+Nuance_EN: "Handoutai" refers to a material with electrical conductivity between that of a conductor and an insulator, essential for modern electronic devices. Used in computers, smartphones, cars, etc.
+
+===word: 半島===
+Meaning: Peninsula
+Nuance_EN: "Hantou" is a geographical term for a landform that extends into a sea or lake, narrow and elongated. Famous examples in Japan include the Boso Peninsula and Izu Peninsula, often appearing in travel and geography contexts.
+
+===word: 半径===
+Meaning: Radius
+Nuance_EN: "Hankei" is a mathematical term for the distance from the center of a circle or sphere to its circumference. Used in daily conversation to express range, such as "within a radius of a few kilometers." The antonym is "chokkei" (diameter).
+
+===word: 半歩===
+Meaning: Half step
+Nuance_EN: "Hampo" means a distance of half a step. Metaphorically, it indicates "a small amount," used in expressions like "hampo saki o iku" (to be half a step ahead) or "hampo hiku" (to step back half a step).
+
+===word: 半泣き===
+Meaning: On the verge of tears
+Nuance_EN: "Hannaki" describes a state of almost crying, with tears welling up in the eyes due to sadness or frustration.
+
+===word: 半減===
+Meaning: Halved
+Nuance_EN: "Hangen" means to reduce by half in quantity or value. It is used as both an intransitive verb ("hangen suru") and a transitive verb ("hangen saseru"). It is a versatile term used in various fields such as sales, population, and effects.
+
+===word: 半濁音===
+Meaning: Semi-voiced sound
+Nuance_EN: In Japanese phonetics, "handakuon" refers to the sounds of the pa-row (pa, pi, pu, pe, po). It is represented by the semi-voiced mark "゜".
+
+===word: 半熟の===
+Meaning: Half-cooked / Soft-boiled
+Nuance_EN: "Hanjuku no" describes a state where food is not fully cooked through, especially in the middle. Famous for "hanjuku tamago" (soft-boiled egg with a runny yolk), often used when ordering food at restaurants.
+
+===word: 半狂乱===
+Meaning: Half-crazed / Frantic
+Nuance_EN: "Hankyouran" describes a state of being half out of one's mind, extremely excited or agitated. Used to express intense emotions like grief or anger that cause loss of self-control.
+
+===word: 半田===
+Meaning: Solder
+Nuance_EN: "Handa" is a metal alloy used for soldering electronic components. It is made of tin and lead, used to fix parts onto circuit boards in electronics work.
+
+===word: 半睡===
+Meaning: Half-asleep
+Nuance_EN: "Hansui" refers to a state of being neither fully asleep nor fully awake, a drowsy and hazy condition.
+
+===word: 半神===
+Meaning: Demigod
+Nuance_EN: "Hanshin" refers to a being born between a god and a human, or a being with abilities comparable to a god. This concept appears in Greek mythology and fantasy, rarely used in everyday conversation.
+
+===word: 半端===
+Meaning: Half-baked / Incomplete
+Nuance_EN: "Hampa" means being incomplete or having a fractional amount. It is also used in its negative form "hampa janai" as a colloquial expression to emphasize a strong degree.
+
+===word: 半端な===
+Meaning: Half-baked / Incomplete
+Nuance_EN: "Hampana" is a na-adjective describing a state of being incomplete and not fully developed. It has a strong negative nuance, used in phrases like "hampana shigoto" (half-baked work) or "hampana chishiki" (incomplete knowledge).
+
+===word: 半端に===
+Meaning: Halfway / Incompletely
+Nuance_EN: "Hampani" is an adverb describing doing something halfway, such as only partially completing a task or doing it carelessly.
+
+===word: 半端物===
+Meaning: Imperfect product / Odd lot
+Nuance_EN: "Hampamono" refers to items that are incomplete due to not meeting standards or having flaws. Metaphorically, it can also refer to a person who is half-baked and useless. Originally meant cloth remnants.
+
+===word: 半端者===
+Meaning: Dabbler / Outsider
+Nuance_EN: "Hampamono" is a critical term for a person who cannot focus on one thing and remains in a half-baked state. It implies a negative evaluation of someone who is not dedicated or does not fit in, often used as insult or self-deprecation.
+
+===word: 半袖===
+Meaning: Short sleeves
+Nuance_EN: "Hansode" refers to clothing with sleeves that end above the elbow. It is commonly worn in the hot summer season.
+
+===word: 半透明===
+Meaning: Translucent
+Nuance_EN: "Hantoumei" describes a state where light passes through but the other side is not completely visible. It is used to describe the property of materials like glass, plastic, or fabric.
+
+===word: 半開き===
+Meaning: Half-open
+Nuance_EN: "Hanbiraki" refers to a state where a door or eye is neither fully closed nor fully open, but in an intermediate position.
+
+===word: 半陰陽===
+Meaning: Intersex
+Nuance_EN: "Han'in'you" is a medical term for a biological condition where a person has both male and female characteristics. It is now often referred to as "intersex."
+
+===word: 半面===
+Meaning: One side / Half
+Nuance_EN: "Hammen" means one side of something. While it can refer to one side of a tennis court, it is often used in contrastive expressions like "ippou de wa... hammen de wa..." (on one hand... on the other hand...). It is slightly more formal than "ippou."
+
+===word: 卑しい===
+Meaning: Vile / Vulgar / Greedy
+Nuance_EN: "Iyasashii" describes a state of being low in character or desire, vulgar and unattractive. It has multiple meanings including greedy, vulgar, and low-born. Using it carries a strong negative evaluation.
+
+===word: 卑しめる===
+Meaning: Despise / Look down on
+Nuance_EN: "Iyasimeru" means to look down on someone as inferior. It carries a strong nuance of contempt.
+
+===word: 卑下===
+Meaning: Self-deprecation
+Nuance_EN: "Hige" refers to undervaluing oneself excessively or being humble beyond necessity. It is related to Japanese "kenson" culture, but excessive self-deprecation is seen as "hige" and can be perceived as overdone.
+
+===word: 卑下も自慢の中===
+Meaning: Self-deprecation is also a form of boasting
+Nuance_EN: "Jiman" means boasting about one's abilities or possessions. It can be used both positively and negatively. This phrase conveys that excessive self-deprecation can be seen as a form of boasting.
+
+===word: 卑俗===
+Meaning: Vulgar / Coarse
+Nuance_EN: "Hizoku" describes a state of being lacking in refinement and taste, often used to criticize art or behavior. It is a strong negative term similar to "teikyuu" (low-class) and "teizoku" (lowbrow), used to imply lack of culture.
+
+===word: 卑劣===
+Meaning: Mean / Despicable
+Nuance_EN: "Hiretsu" means having a base and dirty character, or being sly and malicious. It is a strong word used to criticize unfair or sneaky behavior, such as foul play in sports or betrayal in relationships.
+
+===word: 卑劣漢===
+Meaning: Despicable person
+Nuance_EN: "Hiretsukan" is a strong insult for a man who acts in a mean and cowardly manner. It has a literary and dramatic tone, rarely used in everyday conversation, but appears in novels or films to describe villains.
+
+===word: 卑小===
+Meaning: Petty / Trivial
+Nuance_EN: "Hishou" is a somewhat formal expression that looks down on something or someone as insignificant or worthless. It emphasizes not just smallness but a lack of value or dignity.
+
+===word: 卑屈===
+Meaning: Servile / Obsequious
+Nuance_EN: "Hikutsu" refers to a state of excessively lowering oneself and flattering others. It implies a negative evaluation of being overly submissive and not asserting one's own opinions.
+
+===word: 卑怯===
+Meaning: Cowardly / Unfair
+Nuance_EN: "Hikyou" describes unfair, sneaky, or malicious behavior. It is often used to criticize actions that violate rules in sports or competitions.
+
+===word: 卑怯者===
+Meaning: Coward / Cheat
+Nuance_EN: No nuance explanation provided. It is a noun for a person who is cowardly or unfair.
+
+===word: 卑猥===
+Meaning: Obscene / Lewd
+Nuance_EN: "Hiai" describes a state of being sexually vulgar and inappropriate for public discussion. It is used for words, expressions, or images that contain indecent content.
+
+===word: 卒なく===
+Meaning: Without fault / Smoothly
+Nuance_EN: "Sotsunaku" is an adverb meaning to handle things smoothly without any mistakes or omissions. It is a compliment, used in business contexts.
+
+===word: 卒倒===
+Meaning: Fainting / Collapse
+Nuance_EN: "Sotou" is a medical term for suddenly losing consciousness and falling down. It is similar to "kizetsu" (fainting) but emphasizes suddenness. Used in news or medical contexts, and also metaphorically to exaggerate surprise.
+
+===word: 卒業後の進路を迷っています。===
+Meaning: I am uncertain about my career path after graduation.
+Nuance_EN: "Shinro" refers to the direction of life, especially regarding future education or employment. It is commonly used in school and career contexts.
+
+===word: 卒然===
+Meaning: Suddenly / Abruptly
+Nuance_EN: "Sotsuzen" is an adverb meaning "suddenly" or "unexpectedly," describing an event that occurs without warning. It is more literary than "totsuzen" and suitable for written language, used for moments of abrupt change or action.
+
+===word: 卒論===
+Meaning: Thesis / Dissertation
+Nuance_EN: "Sotsuron" is short for "sotsugyou ronbun" (graduation thesis), a research paper required to graduate from university. It is a major project for most fourth-year students, taking a long time from topic selection to writing.
+
+===word: 卓球===
+Meaning: Table tennis
+Nuance_EN: Also called ping-pong, this is an indoor sport using a small racket and light ball. It is popular in Japan.
+
+===word: 卓越===
+Meaning: Excellence / Preeminence
+Nuance_EN: "Takuetsu" means being superior to others in ability, skill, or quality. It is a formal word describing extremely high-level excellence.
+
+===word: 協会===
+Meaning: Association
+Nuance_EN: "Kyoukai" refers to an organization formed by people with a common purpose or interest. It is a general term used in various fields, such as academic societies, industry groups, and sports associations.
+
+===word: 協力===
+Meaning: Cooperation
+Nuance_EN: "Kyouryoku" means multiple people working together to accomplish something. It is commonly used in work, volunteering, and team activities.
+
+===word: 協奏曲===
+Meaning: Concerto
+Nuance_EN: "Kyousoukyoku" is a classical music term for a musical work featuring a solo instrument accompanied by an orchestra. Examples include piano and violin concertos, known for balancing virtuosic performance with orchestral richness.
+
+===word: 協定 NOT 仮定===
+Meaning: Agreement / Pact
+Nuance_EN: "Kari" is a prefix or noun meaning temporary or provisional. It is used for things that are not genuine but serve as a substitute for the time being, such as "kari no sumai" (temporary housing). It implies the possibility of later change.
+
+===word: 協定が調印されれば、輸入規制が解除できる。===
+Meaning: If the agreement is signed, import restrictions can be lifted.
+Nuance_EN: "Kyoukei" refers to an agreement reached through discussion between parties. It indicates a formal agreement, such as treaties between nations or contracts between companies.
+
+===word: 協定世界時===
+Meaning: Coordinated Universal Time (UTC)
+Nuance_EN: "Kyoutei sekai ji" (UTC) is the international standard time, replacing Greenwich Mean Time (GMT) as the current world standard. It is used for precise timekeeping, such as radio clocks and internet time synchronization.
+
+===word: 協調===
+Meaning: Harmony / Coordination
+Nuance_EN: "Kyouchou" means mutual adjustment and cooperation between different positions or opinions. It is used in business, international relations, and personal relationships, with a formal tone.
+
+===word: 協調性===
+Meaning: Cooperativeness
+Nuance_EN: "Kyouchousei" refers to the ability to maintain harmony and work together with others in a group. It is a highly valued quality in Japanese workplaces and schools, reflecting the importance of teamwork and harmony.
+
+===word: 協議===
+Meaning: Deliberation / Consultation
+Nuance_EN: "Kyougi" means gathering multiple people to exchange opinions and discuss matters. It is used in business and official settings, with a somewhat formal tone.
+
+===word: 協賛===
+Meaning: Sponsorship / Support
+Nuance_EN: No nuance explanation provided. It refers to financial or material support for an event or project.
+
+===word: 南下する===
+Meaning: Move southward
+Nuance_EN: "Nanka suru" means to move from north to south. It is used for the path of typhoons, air masses, or travel directions.
+
+===word: 南京錠===
+Meaning: Padlock
+Nuance_EN: "Nankinjou" refers to a removable lock consisting of a U-shaped metal piece and a body. It is commonly used for lockers, storage, and bicycles.
+
+===word: 南半球===
+Meaning: Southern Hemisphere
+Nuance_EN: "Minami hankyuu" refers to the half of the Earth south of the equator. It is used in geography lessons and travel topics, including Australia and South America.
+
+===word: 南国===
+Meaning: Southern country (tropical)
+Nuance_EN: "Nangoku" refers to warm countries or regions in the south. In Japan, it evokes images of Okinawa, Hawaii, and Southeast Asia, associated with eternal summer and bright, open atmospheres.
+
+===word: 南極===
+Meaning: Antarctica
+Nuance_EN: "Nankyoku" is the name of the continent at the southernmost point of the Earth. It is extremely cold and covered in glaciers, home to unique wildlife like penguins. It is often contrasted with the Arctic (hokkyoku).
+
+===word: 南端の===
+Meaning: Southernmost
+Nuance_EN: "Nantan no" is an adjectival expression referring to the most southern part of an area or object. It is used to describe geographical locations, such as the southernmost islands of Japan or the southernmost room of a building.
+
+===word: 南部===
+Meaning: Southern part
+Nuance_EN: "Nanbu" refers to the southern part of an area. It is a geographical division term similar to "toubu" (eastern part) and "seibu" (western part).
+
+===word: 単に===
+Meaning: Simply / Merely
+Nuance_EN: "Tanni" is an adverb meaning "just that and nothing else." It is often followed by negative content or limitations.
+
+===word: 単一===
+Meaning: Single / Uniform
+Nuance_EN: "Tan'itsu" means being only one or not compound. The antonym is "fukugou" (compound) or "tayou" (diverse).
+
+===word: 単位===
+Meaning: Unit / Credit
+Nuance_EN: "Tan'i" refers to a standard quantity for measuring things. It has multiple meanings, including academic credits, units of measurement (length, weight), and organizational units.
+
+===word: 単位を落とす===
+Meaning: Fail a course
+Nuance_EN: "Tan'i o otosu" is a student term meaning to fail to earn credits for a course at university or vocational school. It is used when a student does not pass the exam or meet credit requirements.
+
+===word: 単位行列===
+Meaning: Identity matrix
+Nuance_EN: "Tan'i gyouretsu" is a basic matrix in linear algebra, a square matrix with 1s on the diagonal and 0s elsewhere. It is a technical term in mathematics and engineering, not used in daily conversation.
+
+===word: 単体===
+Meaning: Simple substance / Alone
+Nuance_EN: In chemistry, "tantai" refers to a substance composed of a single element (e.g., O₂₂). In general, it means "something alone without combination," used in phrases like "tantai de wa ugokanai" (cannot move alone).
+
+===word: 単価７５円で===
+Meaning: At a unit price of 75 yen
+Nuance_EN: "En" is a word for the price or value of an item, or the importance of something. It is also used as a component in compound words like "kachi" (value) and "kakaku" (price).
+
+===word: 単刀直入に===
+Meaning: Straight to the point
+Nuance_EN: "Tantou chokunyuu ni" is an adverbial phrase describing a direct way of speaking without beating around the bush. It comes from the image of thrusting directly with a single sword in kendo, meaning straightforward communication.
+
+===word: 単座===
+Meaning: Single-seat
+Nuance_EN: "Tanza" means having only one seat in a vehicle. It is mainly used for aircraft and fighter planes, such as "tanza sentouki" (single-seat fighter).
+
+===word: 単数===
+Meaning: Singular (grammar)
+Nuance_EN: "Tansuu" in grammar refers to the form of a noun or verb indicating a single quantity. Japanese does not have a clear distinction between singular and plural, but it is used in grammar explanations for languages like English.
+
+===word: 単独===
+Meaning: Alone / Independent
+Nuance_EN: "Tandoku" means being alone without accompaniment. It is used in forms like "tandoku koudou" (acting alone) or "tandoku han" (lone perpetrator).
+
+===word: 単独行動===
+Meaning: Acting alone
+Nuance_EN: "Tandoku koudou" refers to acting on one's own without others. In team settings, it can carry a negative nuance of going off independently.
+
+===word: 単純===
+Meaning: Simple
+Nuance_EN: "Tanjun" describes a state where the structure or mechanism is not complex and easy to understand. It can be used positively or negatively, such as a simple-minded person or simple tasks.
+
+===word: 単純明快===
+Meaning: Simple and clear
+Nuance_EN: "Tanjun meikai" means being straightforward and easy to understand without complexity. It is used for explanations, designs, etc.
+
+===word: 単色===
+Meaning: Monochrome / Single color
+Nuance_EN: "Tanshoku" means using only one color, such as monochrome or single-color printing.
+
+===word: 単行本===
+Meaning: Book (standalone volume)
+Nuance_EN: "Tankoubon" refers to a book published independently as a single volume, rather than as part of a magazine or series. In manga, it refers to collected volumes of serialized works.
+
+===word: 単調===
+Meaning: Monotonous
+Nuance_EN: "Tanchou" describes a state with little change and repetition of the same pattern. It is used for tasks, lifestyles, music, or speech, and carries a nuance of boredom or tedium.
+
+===word: 単身赴任===
+Meaning: Solo assignment (without family)
+Nuance_EN: "Tanshin funin" refers to going to a distant workplace alone, leaving family behind. It is a common phenomenon in Japanese corporate transfer culture.
+
+===word: 単車===
+Meaning: Motorcycle
+Nuance_EN: "Tansha" means a two-wheeled motor vehicle, i.e., a motorcycle. It was once widely used as an abbreviation for "jidou nirinsha," but "bike" is now more common. It has a slightly old-fashioned tone.
+
+===word: 博す===
+Meaning: Win / Gain
+Nuance_EN: "Haku(su)" is a literary verb meaning to obtain fame, profit, or applause through effort. It is used in phrases like "kassai o haku" (win applause) or "shinrai o haku" (gain trust), with a formal and stiff impression.
+
+===word: 博士はその道の権威です。===
+Meaning: The doctor is an authority in that field.
+Nuance_EN: "Ken'i" means authority or expert in a particular field.
+
+===word: 博士号===
+Meaning: Doctorate degree
+Nuance_EN: "Hakasegou" is the highest academic degree awarded to those who complete a doctoral program. It is equivalent to a Ph.D. and requires research and thesis defense. Colloquially referred to as "hakase."
+
+===word: 博学===
+Meaning: Erudite / Learned
+Nuance_EN: "Hakugaku" means having a very wide range of knowledge. It is a somewhat formal expression used to praise scholars or experts.
+
+===word: 博愛===
+Meaning: Universal love / Philanthropy
+Nuance_EN: "Hakuai" means loving all people without discrimination. It is a Chinese-derived term used in religious and philosophical contexts, such as Christianity and Confucianism, implying broad human love.
+
+===word: 博打===
+Meaning: Gambling
+Nuance_EN: "Bakuchi" refers to a game of chance where money or goods are bet. It covers all forms of gambling and is also used metaphorically for risky ventures.
+
+===word: 博打で彼は失敗した。===
+Meaning: He failed in gambling.
+Nuance_EN: "Bakuchi" refers to gambling, a game of chance where money or goods are bet. It covers all forms of gambling and is also used metaphorically for risky ventures.
+
+===word: 博物館===
+Meaning: Museum
+Nuance_EN: "Hakubutsukan" is a facility that collects and displays materials related to history, science, and art for public viewing. It is operated for educational purposes and enjoyed by people of all ages.
+
+===word: 博物館で昔の貨幣を見ました。===
+Meaning: I saw old coins at the museum.
+Nuance_EN: "Yakata" is a Japanese word for a grand mansion or castle-like building. When read as "kan," it refers to functions like art museums or libraries, but as "yakata," it evokes images of stately residences or noble homes, with an old-fashioned and romantic tone.
+
+===word: 博物館で珍しい蝶の標本を見た===
+Meaning: I saw a rare butterfly specimen at the museum.
+Nuance_EN: "Yakata" is a Japanese word for a grand mansion or castle-like building. When read as "kan," it refers to functions like art museums or libraries, but as "yakata," it evokes images of stately residences or noble homes, with an old-fashioned and romantic tone.
+
+===word: 博覧会===
+Meaning: Exposition / World's fair
+Nuance_EN: "Hakurankai" is a large-scale event where various countries and companies showcase the latest technology and culture. The World Expo (EXPO) is the most famous example.
+
+===word: 博覧強記===
+Meaning: Widely read and retentive
+Nuance_EN: "Hakurankyouki" is a four-character idiom meaning to read widely and remember the content well. It is a high-flown expression praising someone with extensive knowledge and excellent memory.
+
+===word: 博識===
+Meaning: Wide knowledge
+Nuance_EN: "Hakushiki" means having deep knowledge across a broad range of fields. It is a positive expression used to praise someone's knowledge, with a respectful nuance.
+
+===word: 占める===
+Meaning: Occupy / Account for
+Nuance_EN: "Shimeru" is a verb meaning to occupy a certain range, proportion, or position. It is used in a wide range of contexts, such as accounting for a specific percentage or holding an important position.
+
+===word: 占拠===
+Meaning: Occupation / Seizure
+Nuance_EN: "Senkyo" means to occupy a place by force or authority. While it can be used peacefully like "seki o senkyo suru" (occupy a seat), it often carries a forceful nuance.
+
+===word: 占星学===
+Meaning: Astrology
+Nuance_EN: "Senseigaku" is the study of the relationship between celestial positions and human destiny or personality. It is also called horoscope reading.
+
+===word: 占星術===
+Meaning: Astrology (divination)
+Nuance_EN: "Senseijutsu" is the technique of divining fortune and future from star positions. It is commonly enjoyed as a form of fortune-telling.
+
+===word: 占領される===
+Meaning: Be occupied (by force)
+Nuance_EN: "Senryou sareru" is a passive expression meaning to be controlled by military force over an area or building. It is used in historical and war contexts, with a strong negative nuance.
+
+===word: 印===
+Meaning: Mark / Seal
+Nuance_EN: No nuance explanation provided. It refers to a mark or stamp.
+
+===word: 印刷===
+Meaning: Printing
+Nuance_EN: "Insatsu" refers to printing text or images on paper or other surfaces. It is a common word used daily in contexts involving printers and printing machines.
+
+===word: 印刷機が安いほど、インクが高い===
+Meaning: The cheaper the printer, the more expensive the ink.
+Nuance_EN: "Takai" means expensive or high in price.
+
+===word: 印形===
+Meaning: Seal / Stamp
+Nuance_EN: "In-gyou" refers to a seal used as a mark of an individual or organization. It is used for contracts and important documents, with a somewhat old-fashioned or formal tone.
+
+===word: 印紙===
+Meaning: Revenue stamp
+Nuance_EN: "Inshi" is a certificate issued by the government, affixed to contracts and receipts to prove tax payment. The most common is the "shuunyuu inshi" (revenue stamp), which is mandatory for certain legally specified documents.
+
+===word: 印象===
+Meaning: Impression
+Nuance_EN: "Inshou" is a noun referring to the feeling or image left in one's mind after encountering something or someone. It is a common word used to describe first impressions or overall image.
+
+===word: 印象に残る===
+Meaning: Leave an impression
+Nuance_EN: "Nokoru" means to remain or be left behind.
+
+===word: 印象付ける===
+Meaning: Impress / Imprint
+Nuance_EN: "Tsukeru" means to leave a strong impression or image in someone's mind. It is used when consciously trying to convey something to others.
+
+===word: 印象的===
+Meaning: Impressive
+Nuance_EN: "Inshouteki" is a na-adjective describing something that leaves a strong impression on the mind. It is used for beautiful scenery, touching events, or memorable words and actions.
+
+===word: 印鑑===
+Meaning: Personal seal / Hanko
+Nuance_EN: "Inkan" is read as "inkan" and refers to the seal itself used for personal identification or official use. While "hanko" is a more casual term, "inkan" has a formal and official tone, used in bank accounts and contracts.
+
+===word: 危うい===
+Meaning: Precarious / Dangerous
+Nuance_EN: "Ayaui" is similar to "abunai" but more literary and formal, expressing imminent danger or a situation that almost leads to disaster.
+
+===word: 危うく===
+Meaning: Narrowly / Almost
+Nuance_EN: "Ayauku" is an adverb meaning "just barely avoided danger," used to describe a close call.
+
+===word: 危ないので子供からライターを取り上げました。===
+Meaning: I took the lighter away from the child because it was dangerous.
+Nuance_EN: "Toriageru" means to take something away from someone, often from a subordinate or younger person.
+
+===word: 危なっかしい===
+Meaning: Risky-looking / Unsteady
+Nuance_EN: "Abunakkashii" is an adjective describing something that looks dangerous and makes one nervous, or a person's unreliable and unsteady movements.
+
+===word: 危害===
+Meaning: Harm / Injury
+Nuance_EN: "Kigai" refers to damage or injury to a person's body or property. It is also used as a legal term.
+
+===word: 危惧===
+Meaning: Apprehension / Fear
+Nuance_EN: "Kigu" is a formal expression for being anxious about future negative outcomes. It implies a more abstract and vague fear than "kenen" (concern), often used in official speeches and documents.
+
+===word: 危機的===
+Meaning: Critical / Crisis
+Nuance_EN: "Kikiteki" is a na-adjective describing a state related to a crisis, emphasizing urgency. It is used in phrases like "kikiteki jyoukyou" (critical situation) in news and business contexts.
+
+===word: 危篤===
+Meaning: Critical condition (medical)
+Nuance_EN: "Kitoku" is a medical and news term for a state where illness or injury is extremely dangerous and life may be lost at any time. It is a very serious word used only in formal and grave situations.
+
+===word: 危険性===
+Meaning: Risk / Danger
+Nuance_EN: "Kikensei" is a noun referring to the possibility or degree of danger. It is used to indicate the inherent risk in a situation or thing.
+
+===word: 危険性を取る===
+Meaning: Take a risk
+Nuance_EN: "Toru" means to take or accept a risk knowingly.
+
+===word: 危険視===
+Meaning: View as dangerous
+Nuance_EN: "Kikenshi" is a compound noun meaning to regard something or someone as dangerous. It adds the meaning of "to see as" from "shi suru."
+
+===word: 危難===
+Meaning: Peril / Distress
+Nuance_EN: "Kinan" is a noun meaning danger or disaster that threatens life or safety. It refers to serious crisis situations rather than everyday dangers, with a somewhat formal tone.
+
+===word: 即位===
+Meaning: Enthronement / Accession
+Nuance_EN: "Sokui" means to formally ascend to the throne of a king or emperor. It is a formal expression used in ceremonial contexts.
+
+===word: 即刻===
+Meaning: Immediately / Instantly
+Nuance_EN: "Sokoku" is a somewhat formal expression meaning "right away" or "immediately." It is used in business and official settings to emphasize urgency and speed.
+
+===word: 即効===
+Meaning: Immediate effect
+Nuance_EN: "Sokkou" means that the effect appears quickly. It is used in phrases like "sokkou-sei ga aru" (has immediate effect) or "sokkou-yaku" (fast-acting medicine), often for medicines or treatments.
+
+===word: 即席===
+Meaning: Impromptu / Instant
+Nuance_EN: "Sokuseki" means doing something on the spot without preparation or practice. It also refers to instant foods like instant noodles.
+
+===word: 即席のスピーチを頼まれた===
+Meaning: I was asked to give an impromptu speech.
+Nuance_EN: "Mare" means rare or seldom occurring, used in both negative and positive contexts but often implying rarity value.
+
+===word: 即座に===
+Meaning: Immediately / At once
+Nuance_EN: "Sokuza ni" is a formal adverb meaning to act without any pause, emphasizing speed in business or responses.
+
+===word: 即座の否定===
+Meaning: Immediate denial
+Nuance_EN: "Hitei" means to deny something or take the opposite position. It is more formal than simply saying "chigau" and implies a clear rejection of an opinion or fact.
+
+===word: 即戦力===
+Meaning: Immediate asset / Ready contributor
+Nuance_EN: No nuance explanation provided. It refers to a person who can be immediately productive in a job.
+
+===word: 即死===
+Meaning: Instant death
+Nuance_EN: "Sokushi" means to die instantly upon encountering an accident or incident. It is used in medical and news contexts, indicating no chance of survival.
+
+===word: 即決===
+Meaning: Immediate decision
+Nuance_EN: "Sokketsu" means to decide on the spot without taking a long time. It describes making a judgment without deliberation.
+
+===word: 即物的===
+Meaning: Materialistic / Pragmatic
+Nuance_EN: "Sokubutsuteki" describes an attitude that focuses on reality, profit, and practicality rather than ideals or concepts. It is based on concrete interests.
+
+===word: 即答する===
+Meaning: Answer immediately
+Nuance_EN: "Sokutou suru" is a verb meaning to answer a question right away, without thinking too long.
+
+===word: 即興===
+Meaning: Improvisation
+Nuance_EN: "Sokkyou" means doing something on the spur of the moment without preparation or practice. It is often used in arts and performances like music improvisation or impromptu speeches.
+
+===word: 即興演奏===
+Meaning: Improvisation (music)
+Nuance_EN: "Ensou" means performing music without sheet music, creating it on the spot. This is common in jazz and other music genres.
+
+===word: 即金===
+Meaning: Cash payment
+Nuance_EN: "Sokkin" means paying the full amount in cash on the spot when purchasing a product. It is the opposite of installment or credit payment, implying financial ease or certainty.
+
+===word: 却下===
+Meaning: Rejection / Dismissal
+Nuance_EN: "Kyakka" means to reject a proposal, application, or claim without accepting it. It is used in courts (dismissing a lawsuit) or business (a project being rejected by a superior), with a formal tone.
+
+===word: 卵型===
+Meaning: Egg-shaped / Oval
+Nuance_EN: "Kata" refers to an egg-like elliptical shape. It is used to describe the shape of objects, such as "tamago-gata no kao" (egg-shaped face) or designs, with a neutral and everyday tone.
+
+===word: 卵形===
+Meaning: Egg-shaped / Oval
+Nuance_EN: "Tamago-gata" refers to an egg-like shape, i.e., oval. It is commonly used in phrases like "tamago-gata no kao" (oval face). It is a convenient term for describing object shapes.
+
+===word: 卵殻===
+Meaning: Eggshell
+Nuance_EN: "Rankaku" is the hard outer shell of an egg. While "kara" is the general term, "rankaku" is used in more scientific or specialized contexts, such as biology, cooking, or fertilizer.
+
+===word: 卵白===
+Meaning: Egg white
+Nuance_EN: "Ranhaku" is the white part of a bird's egg, a food term. It is mainly used as a protein source in cooking, used in meringues and egg white dishes.
+
+===word: 卵黄===
+Meaning: Egg yolk
+Nuance_EN: "Ran'ou" is the yellow part of an egg. It is nutritionally rich and plays an important role in cooking and baking. "Kimi" is more common in daily speech, while "ran'ou" is more specialized.
+
+===word: 卸す===
+Meaning: Wholesale / Sell in bulk
+Nuance_EN: No nuance explanation provided. "Orosu" means to sell goods in large quantities to retailers.
+
+===word: 卸売り===
+Meaning: Wholesale
+Nuance_EN: No nuance explanation provided. "Oroshiuri" refers to the business of selling goods in bulk to retailers.
+
+===word: 卿===
+Meaning: Lord / Sir
+Nuance_EN: "Kyou" is a title of respect for nobles or high-ranking figures, used mainly in historical contexts or fantasy works. It corresponds to "Lord" or "Sir" in English.
+
+===word: 厄介払い===
+Meaning: Getting rid of a nuisance
+Nuance_EN: "Yakkai-barai" refers to driving away or dealing with a troublesome person or thing. It is a somewhat casual expression used in everyday conversation.
+
+===word: 厄介者===
+Meaning: Burden / Nuisance
+Nuance_EN: "Yakkaimono" refers to a person who causes trouble or inconvenience to others. It has a strong negative meaning, implying someone who is more of a hindrance than a help. It is rude to say directly to someone.
+
+===word: 厄年===
+Meaning: Unlucky year (age)
+Nuance_EN: "Yakudoshi" refers to specific ages believed to be prone to misfortune in Japanese tradition. Different ages are set for men and women.
+
+===word: 厄日===
+Meaning: Unlucky day
+Nuance_EN: "Yakubi" is a common expression for a day when everything goes wrong. Originally from the calendar, it is now used casually to lament personal bad luck, as in "Kyou wa yakubi da."
+
+===word: 厄災===
+Meaning: Calamity / Disaster
+Nuance_EN: "Yakusai" is a somewhat old-fashioned Chinese term for unfortunate events or disasters. It combines "yaku" (misfortune) and "sai" (disaster), used in fantasy or game contexts for major calamities.
+
+===word: 厄除け===
+Meaning: Prevention of evil / Good luck charm
+Nuance_EN: "Yakuyoke" refers to religious or customary acts to avoid misfortune, or the charms used for that purpose. It is done at shrines and temples.
+
+===word: 厚かましい===
+Meaning: Brazen / Shameless
+Nuance_EN: "Atsukamashii" is an adjective describing a person who acts without considering others' feelings, boldly and impudently. It has a strong negative meaning, criticizing a lack of social manners.
+
+===word: 厚かましいついでにお願いがもう一つあります。===
+Meaning: While I'm being shameless, I have one more request.
+Nuance_EN: "Hitotsu" means one (item or request).
+
+===word: 厚意===
+Meaning: Kindness / Goodwill
+Nuance_EN: "Koui" refers to a deep consideration or kindhearted act toward others. It implies a genuine warmth, often used in expressing gratitude.
+
+===word: 厚生労働省===
+Meaning: Ministry of Health, Labour and Welfare
+Nuance_EN: "Kousei Roudou Shou" is a Japanese government ministry responsible for healthcare, welfare, labor, and employment. Abbreviated as "Kouroushou."
+
+===word: 厚着===
+Meaning: Dressing warmly
+Nuance_EN: "Atsugi" means wearing many layers of clothing to stay warm. It is a common word used in winter. The opposite is "usugi" (light dressing).
+
+===word: 厚紙===
+Meaning: Thick paper / Cardboard
+Nuance_EN: "Atsugami" is paper that is thicker and stronger than normal paper. It is used for crafts, packaging, and business cards. It is similar to cardboard but not as thick.
+
+===word: 厚顔===
+Meaning: Impudence / Shamelessness
+Nuance_EN: No nuance explanation provided. "Kougan" means being brazen or shameless.
+
+===word: 原っぱ===
+Meaning: Field / Open lot
+Nuance_EN: "Hara" refers to a vacant lot of land without buildings, often covered with grass. It can be a playground for children.
+
+===word: 原チャリ===
+Meaning: Moped / Scooter
+Nuance_EN: "Genchari" is a colloquial term for a motorbike (moped or scooter), popular among young people. It is commonly used for daily transportation.
+
+===word: 原付===
+Meaning: Moped (50cc)
+Nuance_EN: "Gen-tsuki" is short for "gendouki-tsuki jitensha" (motorized bicycle), referring to small motorcycles with engine displacement under 50cc. It is a unique Japanese classification, often used in conversations about licenses and traffic rules.
+
+===word: 原価===
+Meaning: Cost price
+Nuance_EN: "Genka" refers to the original cost incurred to manufacture or purchase a product. It is a key concept in retail and manufacturing for calculating profit. It is somewhat business-like, while "shiire-ne" (purchase price) is more common in daily conversation.
+
+===word: 原則===
+Meaning: Principle / Rule
+Nuance_EN: "Gensoku" refers to the basic rules or policies for doing things. It is also used in the form "gensoku to shite" (as a rule), meaning "except for special cases."
+
+===word: 原則として。。。===
+Meaning: In principle...
+Nuance_EN: "Gensoku" refers to the basic rules or policies for doing things. It is used as "gensoku to shite" to mean "as a general rule."
+
+===word: 原則としてキャンセルできません。===
+Meaning: In principle, it cannot be cancelled.
+Nuance_EN: "Gensoku" refers to the basic rules or policies for doing things.
+
+===word: 原動力===
+Meaning: Driving force / Motive power
+Nuance_EN: "Gendouryoku" refers to the fundamental force or energy that drives or changes things. It is used from physical power sources to metaphorical meanings, such as the driving force behind reform or growth.
+
+===word: 原告===
+Meaning: Plaintiff
+Nuance_EN: "Genkoku" is the person who brings a lawsuit in court. They are opposed to the defendant (hikoku).
+
+===word: 原因===
+Meaning: Cause / Reason
+Nuance_EN: "Gen'in" refers to the underlying matter or reason that causes something to happen. It is an objective and analytical word used to identify the source of problems or events.
+
+===word: 原因をとことん追究しましょう===
+Meaning: Let's thoroughly investigate the cause.
+Nuance_EN: "Tsuikyuu" means to delve deeply into the truth or essence of a matter. It is often used in academic or research contexts.
+
+===word: 原因究明===
+Meaning: Investigation of the cause
+Nuance_EN: "Gen'in kyuumee" means to investigate and clarify the cause of something. It is used in the context of analyzing accidents or problems.
+
+===word: 原型===
+Meaning: Prototype / Original form
+Nuance_EN: "Genkei" means the original shape or basic model of something. It is used in various fields, from product development to art, and refers to the initial model or framework. It is similar to "mokei" (model) but more conceptual.
+
+===word: 原始===
+Meaning: Primitive / Primeval
+Nuance_EN: "Genshi" refers to the early state of culture or technology without development. It is used in the context of human history or biological evolution.
+
+===word: 原始人===
+Meaning: Primitive man
+Nuance_EN: "Genshijin" refers to humans who lived in primitive times. It is an archaeological term, often associated with ancient people who used stone tools. It can also metaphorically refer to a rough, uncivilized person.
+
+===word: 原始時代===
+Meaning: Primitive age
+Nuance_EN: "Genshi jidai" refers to the very ancient era before human civilization developed. It was a time of hunting and gathering, often appearing in school history lessons.
+
+===word: 原子力===
+Meaning: Nuclear power
+Nuance_EN: "Genshiryoku" refers to the enormous energy produced by nuclear fission or fusion. It is used in various fields such as power generation, medicine, and research.
+
+===word: 原子力の安全な利用について考えましょう。===
+Meaning: Let's think about the safe use of nuclear power.
+Nuance_EN: "Kangaeru" means to think or consider.

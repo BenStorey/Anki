@@ -1,0 +1,799 @@
+===word: 静脈===
+Meaning: Vein
+Nuance_EN: A blood vessel that returns blood to the heart, as opposed to arteries. Because they run close to the surface, injections and blood draws are often done from veins.
+
+===word: 静観===
+Meaning: Observing quietly
+Nuance_EN: Refers to watching a situation without actively intervening. Often used in business or political contexts where judgment and patience are required.
+
+===word: 静観===
+Meaning: Observing quietly
+Nuance_EN: The act of watching a situation without intervening, used as "静観する". Unlike indifference, it implies consciously observing while not acting. A somewhat formal expression used in business and politics.
+
+===word: 静謐===
+Meaning: Tranquil / Serene
+Nuance_EN: A literary noun/adjective-na meaning "quiet and calm," but with a deeper, sacred, peaceful stillness than just "静か." Used in literary descriptions and news reports, with a formal and beautiful tone.
+
+===word: 静電気===
+Meaning: Static electricity
+Nuance_EN: A state where electric charge accumulates on an object without discharging. Causes the shock when touching a doorknob in winter or clothes clinging. A common everyday word.
+
+===word: 静養===
+Meaning: Rest / Recuperation
+Nuance_EN: Resting quietly to recover from illness or fatigue, often under a doctor's orders. Implies a prescribed period of rest.
+
+===word: 非ず===
+Meaning: Is not (archaic)
+Nuance_EN: A classical Japanese negation, equivalent to modern "ではない." Rarely used in modern speech, found in literary or historical contexts.
+
+===word: 非の打ちどころのない===
+Meaning: Flawless / Perfect
+Nuance_EN: A set phrase meaning "no point to criticize," describing something that is completely without fault. Used in both formal and informal contexts.
+
+===word: 非を諭す===
+Meaning: Reason with / Admonish gently
+Nuance_EN: To point out someone's mistake or fault and gently make them understand. A calm persuasion, softer than outright scolding.
+
+===word: 非人間化===
+Meaning: Dehumanization
+Nuance_EN: The process of depriving someone of human qualities or treating them as less than human. Used in psychological, social, or political contexts.
+
+===word: 非凡===
+Meaning: Extraordinary / Exceptional
+Nuance_EN: Describes someone or something that stands out from the ordinary due to talent or quality. Used from casual conversation to writing.
+
+===word: 非力な===
+Meaning: Powerless / Weak
+Nuance_EN: An adjective-na meaning lacking strength, influence, or ability. Can refer to physical weakness or lack of power in position or capability.
+
+===word: 非合理===
+Meaning: Irrational
+Nuance_EN: Lacking reason or logic. Used in philosophical or everyday contexts to describe ideas or actions that don't make sense.
+
+===word: 非同期===
+Meaning: Asynchronous
+Nuance_EN: An IT/engineering term indicating that timing or cycles are not synchronized. Commonly used in programming for async/await, rarely outside technical contexts.
+
+===word: 非営利===
+Meaning: Nonprofit
+Nuance_EN: Refers to organizations or activities not aimed at profit, often used for educational, welfare, or cultural groups.
+
+===word: 非売品===
+Meaning: Not for sale
+Nuance_EN: Items that cannot be purchased with money, typically given away as novelties or premiums.
+
+===word: 非常に===
+Meaning: Extremely
+Nuance_EN: An adverb indicating a very high degree. Often used in formal writing and speeches, giving a polite impression.
+
+===word: 非常にうまい洒落だったので、満場爆笑した。===
+Meaning: [Sentence] It was such a great pun that the whole place burst out laughing.
+Nuance_EN: This is a sentence example, not a single vocabulary word.
+
+===word: 非常勤講師===
+Meaning: Part-time lecturer
+Nuance_EN: A teacher at universities or schools hired on a part-time basis, paid per course. Unlike full-time, they have fewer research duties but less stable income.
+
+===word: 非常手段===
+Meaning: Emergency measure
+Nuance_EN: Special drastic measures taken in emergencies or crises when normal methods fail. Often used in business, law, or social issues.
+
+===word: 非常用の===
+Meaning: Emergency (attr.)
+Nuance_EN: An adnominal indicating something prepared for emergencies like disasters. Used in terms like "emergency exit" or "emergency food."
+
+===word: 非常識===
+Meaning: Unreasonable / Absurd
+Nuance_EN: A noun/adjective-na meaning lacking common sense or social norms. Used critically for behavior that deviates from expectations.
+
+===word: 非常警戒===
+Meaning: Heightened alert
+Nuance_EN: Taking extra security measures for abnormal situations. A formal expression used in security or disaster prevention contexts.
+
+===word: 非常食===
+Meaning: Emergency food
+Nuance_EN: Food stored for disasters or emergencies, often long-lasting and ready-to-eat. Increasingly stocked at home due to disaster awareness.
+
+===word: 非情な===
+Meaning: Heartless / Ruthless
+Nuance_EN: An adjective-na meaning lacking compassion, taking cold actions. Used for cruel judgments that ignore human feelings.
+
+===word: 非業===
+Meaning: Untimely / Violent death
+Nuance_EN: Refers to an unfortunate, tragic death against one's will, usually in the phrase "非業の死." Describes sudden death from accidents or incidents.
+
+===word: 非母語話者===
+Meaning: Non-native speaker
+Nuance_EN: A person who does not speak a language as their mother tongue, used for language learners or second-language speakers.
+
+===word: 非番===
+Meaning: Day off (shift work)
+Nuance_EN: Refers to a day off for shift workers like police or nurses. The opposite of being on duty.
+
+===word: 非礼===
+Meaning: Rudeness / Discourtesy
+Nuance_EN: A noun meaning behavior against etiquette, often used in apologizing: "非礼をお詫びします" (I apologize for my rudeness). A formal apology expression.
+
+===word: 非社交的な===
+Meaning: Unsociable
+Nuance_EN: Describes a tendency to avoid socializing, used to express an introverted personality.
+
+===word: 非科学的（な）===
+Meaning: Unscientific
+Nuance_EN: Describes something not based on scientific methods, used critically for unsubstantiated claims or untested ideas.
+
+===word: 非行に走る===
+Meaning: Take to delinquency
+Nuance_EN: A phrase meaning juveniles engage in criminal or antisocial behavior. Used in social or educational contexts, somewhat formal.
+
+===word: 非行グループ===
+Meaning: Delinquent group
+Nuance_EN: A group of juveniles involved in delinquency, often associated with crime and antisocial behavior. A social issue term.
+
+===word: 非負===
+Meaning: Non-negative
+Nuance_EN: A technical term in math and programming meaning zero or positive, not negative.
+
+===word: 非通知===
+Meaning: Caller ID blocked
+Nuance_EN: A phone setting that hides the caller's number from the recipient. Used in "非通知設定" or "非通知電話."
+
+===word: 非道===
+Meaning: Atrocious / Inhuman
+Nuance_EN: Describes cruel, immoral acts against humanity. Stronger than just "bad," condemning inhuman brutality.
+
+===word: 非難===
+Meaning: Criticism / Blame
+Nuance_EN: Expressing disapproval or fault-finding. Used in both casual and formal contexts.
+
+===word: 靡く===
+Meaning: Sway / Yield
+Nuance_EN: To move softly with wind or flow, like flags or hair. Also used metaphorically for a person's mind yielding to another's opinion.
+
+===word: 面===
+Meaning: Face / Mask / Aspect
+Nuance_EN: A polysemous word: a mask used in Noh theater, a side or aspect of something, or the face itself.
+
+===word: 面々===
+Meaning: Each person / Everyone
+Nuance_EN: A noun meaning "each person" or "everyone present," somewhat formal. Often confused with "顔ぶれ" (lineup), but 面々 refers to the people themselves.
+
+===word: 面する===
+Meaning: Face / Look out onto
+Nuance_EN: A verb meaning to be facing a direction or object, from physical (building facing the street) to abstract (facing a problem).
+
+===word: 面と向かう===
+Meaning: Face to face
+Nuance_EN: To confront someone directly. Used in the phrase "面と向かって言う" (say it to someone's face), implying direct honesty.
+
+===word: 面の皮が厚い===
+Meaning: Thick-skinned / Shameless
+Nuance_EN: An idiom meaning brazen or shameless, describing someone who ignores criticism. Literally "face skin is thick."
+
+===word: 面会===
+Meaning: Visit / Meeting
+Nuance_EN: Meeting someone in person, especially in hospitals or prisons where procedures are required. Somewhat formal.
+
+===word: 面会時間===
+Meaning: Visiting hours
+Nuance_EN: Specific times when visits are allowed in hospitals or prisons.
+
+===word: 面会謝絶===
+Meaning: No visitors allowed
+Nuance_EN: A sign or expression indicating that a patient is too ill for any visitors. A formal, serious expression.
+
+===word: 面倒===
+Meaning: Troublesome / Bother
+Nuance_EN: Describes something that is troublesome and takes effort. Very common in casual conversation, with a colloquial tone.
+
+===word: 面倒を見る===
+Meaning: Take care of
+Nuance_EN: A phrase meaning to look after someone or something, providing care and attention.
+
+===word: 面倒見の良い===
+Meaning: Caring / Attentive
+Nuance_EN: Describes a person who is good at taking care of others, often used for reliable people in workplaces or schools.
+
+===word: 面妖===
+Meaning: Mysterious / Strange
+Nuance_EN: An adjective-na describing something inexplicable and bizarre, like being foxed. Often appears in period dramas, somewhat archaic.
+
+===word: 面子===
+Meaning: Face / Prestige
+Nuance_EN: A noun meaning social honor or reputation, key in Asian culture. Often used in "面子を保つ" (save face).
+
+===word: 面当て===
+Meaning: Backhanded remark
+Nuance_EN: Indirect sarcasm or criticism aimed at someone. A somewhat old-fashioned expression.
+
+===word: 面当てがましい===
+Meaning: Sarcastic / Snide
+Nuance_EN: An adjective describing behavior that is indirectly sarcastic or insinuating, using the suffix "-gamashii" to mean "seeming like."
+
+===word: 面影===
+Meaning: Vestige / Remnant
+Nuance_EN: Traces or atmosphere of past scenes or people remaining in the present. Used emotionally, especially when someone reminds you of a deceased person.
+
+===word: 面持ち===
+Meaning: Expression / Look
+Nuance_EN: A slightly literary word for facial expression, used in phrases like "悲しげな面持ち" (sad look). More formal than "表情."
+
+===word: 面接官===
+Meaning: Interviewer
+Nuance_EN: The person who asks questions and evaluates candidates in job or school interviews. Common in hiring contexts.
+
+===word: 面映ゆい===
+Meaning: Embarrassed / Bashful
+Nuance_EN: An archaic adjective describing a feeling of shyness or awkwardness, with a subtle nuance of embarrassment.
+
+===word: 面構え===
+Meaning: Countenance / Look
+Nuance_EN: A person's facial expression, especially a tense or determined one. Used in competitive contexts, like "真剣な面構え" (serious look).
+
+===word: 面汚し===
+Meaning: Disgrace / Dishonor
+Nuance_EN: A strong negative word for an act or person that damages the reputation of a group, like family or organization.
+
+===word: 面白いことに、日本人はやたらと英語の単語を使いたがる。===
+Meaning: [Sentence] Interestingly, Japanese people love to use English words.
+Nuance_EN: This is a sentence example illustrating the tendency of Japanese speakers to use English loanwords.
+
+===word: 面白いことに〜===
+Meaning: Interestingly
+Nuance_EN: A phrase used to introduce an interesting fact, similar to "interestingly enough."
+
+===word: 面白がる===
+Meaning: Find amusing / Be entertained
+Nuance_EN: A verb meaning to enjoy something as interesting or funny, often used in third person.
+
+===word: 面白半分===
+Meaning: Half in jest
+Nuance_EN: Doing something not seriously, but for fun or as a joke. A colloquial expression with a light, mischievous nuance.
+
+===word: 面目===
+Meaning: Honor / Reputation
+Nuance_EN: Refers to one's honor or social standing. Used in idioms like "面目を保つ" (save face).
+
+===word: 面目ない===
+Meaning: I'm ashamed / I'm sorry
+Nuance_EN: An expression of apology and shame, meaning "I have no face to show." Somewhat old-fashioned and formal.
+
+===word: 面積===
+Meaning: Area
+Nuance_EN: A numerical measure of a plane's extent, used in math, real estate, etc. A basic concept.
+
+===word: 面舵===
+Meaning: Starboard
+Nuance_EN: The right side of a ship. A nautical term, used in commands like "面舵いっぱい" (hard a-starboard).
+
+===word: 面談===
+Meaning: Interview / Meeting
+Nuance_EN: A face-to-face talk, broader than 面接. Used in business or education for consultation, not just evaluation.
+
+===word: 面識===
+Meaning: Acquaintance
+Nuance_EN: Knowing someone personally from meeting. Used to indicate whether you have met before.
+
+===word: 面長===
+Meaning: Long face shape
+Nuance_EN: A facial shape that is vertically long, oval-shaped.
+
+===word: 面頬===
+Meaning: Face guard / Mask
+Nuance_EN: Armor covering the face, used in kendo or fencing. Historically part of samurai helmets. Now often called "面" or "マスク."
+
+===word: 面食らう===
+Meaning: Be taken aback
+Nuance_EN: To be surprised by an unexpected event and not know how to react. Literally "eat face," implying being stunned.
+
+===word: 革===
+Meaning: Leather
+Nuance_EN: Processed animal hide used for products like wallets, shoes, bags. Valued for durability and luxury. Contrasted with synthetic leather.
+
+===word: 革命===
+Meaning: Revolution
+Nuance_EN: A fundamental change in political or social systems. Also used metaphorically for technological or ideological innovations.
+
+===word: 革命で騒然としている国===
+Meaning: Country in revolutionary turmoil
+Nuance_EN: A phrase describing a nation thrown into chaos by a revolution.
+
+===word: 革張り===
+Meaning: Leather upholstery
+Nuance_EN: Furniture or car seats covered in genuine leather. Implies luxury and durability, often used for sofas and car interiors.
+
+===word: 革張りのソファにするか？布張りのソファにするか？===
+Meaning: Leather sofa or fabric sofa?
+Nuance_EN: A question comparing leather and fabric upholstery for sofas.
+
+===word: 革新===
+Meaning: Innovation
+Nuance_EN: A noun meaning the introduction of new ideas or methods, often in technology or society.
+
+===word: 革新的===
+Meaning: Innovative
+Nuance_EN: An adjective-na describing new ideas or methods that drastically change conventional norms.
+
+===word: 革綴じ===
+Meaning: Leather binding
+Nuance_EN: Binding book covers or spines with leather, used for diaries, albums, or business files. A somewhat specialized term.
+
+===word: 革靴===
+Meaning: Leather shoes
+Nuance_EN: Shoes made of leather, often worn in business or formal settings, contrasted with sneakers.
+
+===word: 靭帯===
+Meaning: Ligament
+Nuance_EN: Strong fibrous tissue connecting bones to stabilize joints. An anatomical term.
+
+===word: 靴のかかとで彼の足を踏んでしまったの。===
+Meaning: I stepped on his foot with my heel.
+Nuance_EN: A sentence example illustrating the use of "かかと" (heel) and "踏む" (step on).
+
+===word: 靴のひもを解いたの。===
+Meaning: I untied my shoelace.
+Nuance_EN: A sentence example using "ひも" (shoelace) and "解く" (untie).
+
+===word: 靴の底にガムがくっ付いてしまった。===
+Meaning: Gum got stuck to the bottom of my shoe.
+Nuance_EN: A sentence example using "底" (bottom) and "くっ付く" (stick).
+
+===word: 靴の底に釘が刺さってしまったんだ。===
+Meaning: A nail got stuck in the sole of my shoe.
+Nuance_EN: A sentence example using "釘" (nail) and "刺さる" (pierce).
+
+===word: 靴の紐が解けたので結び直した===
+Meaning: I retied my shoelace because it came undone.
+Nuance_EN: A sentence example using "紐" (shoelace) and "結び直す" (retie).
+
+===word: 靴べら===
+Meaning: Shoehorn
+Nuance_EN: A tool used to guide the heel into a shoe, preventing damage to the shoe's shape.
+
+===word: 靴下が綻びている===
+Meaning: Socks are unraveling
+Nuance_EN: A phrase describing socks with runs or holes. "綻びる" can also metaphorically mean a flaw in a plan.
+
+===word: 靴擦れ===
+Meaning: Blister from shoes
+Nuance_EN: Skin damage or blisters caused by rubbing from new or ill-fitting shoes. A common everyday term.
+
+===word: 靴脱ぎ===
+Meaning: Entryway / Genkan
+Nuance_EN: The space in a Japanese house where shoes are removed, the entrance area. A practical architectural term.
+
+===word: 鞄===
+Meaning: Bag / Briefcase
+Nuance_EN: A general term for containers used to carry things, like handbags, backpacks, etc. Very common.
+
+===word: 鞍===
+Meaning: Saddle
+Nuance_EN: Riding equipment placed on a horse's back. Also appears in the idiom "鞍替え" (change jobs/sides).
+
+===word: 鞍替え===
+Meaning: Career change / Switching sides
+Nuance_EN: Moving from one occupation or industry to another, a job change.
+
+===word: 鞘===
+Meaning: Sheath / Scabbard
+Nuance_EN: A cover for a blade like a sword or knife. Also used in idioms like "鞘に収まる" (settle down).
+
+===word: 鞣す===
+Meaning: Tan (leather)
+Nuance_EN: A specialized verb for processing animal hide into leather. Rarely used in daily conversation.
+
+===word: 鞭===
+Meaning: Whip
+Nuance_EN: A tool for striking or guiding, used in horse riding. Also metaphorically for encouragement or reprimand.
+
+===word: 鞭打ち===
+Meaning: Whipping / Whiplash
+Nuance_EN: The act of striking with a whip, or whiplash injury from accidents.
+
+===word: 韓国ブームに便乗して韓国語を習い始めた===
+Meaning: I started learning Korean riding the Korean wave.
+Nuance_EN: A sentence example using "便乗" (capitalize on) and "習い始める" (start learning).
+
+===word: 韓国料理は、香辛料のきいた味でよく知られている。===
+Meaning: Korean food is known for its spiced flavor.
+Nuance_EN: A sentence example using "香辛料" (spices), a more formal term than "スパイス."
+
+===word: 韓国産のハマグリは形はふくらみが少なく身がややかたいものの、うまみが強く、寿司ネタにも使われている===
+Meaning: Korean clams are less plump and firmer but flavorful, used as sushi topping.
+Nuance_EN: A sentence example using "ネタ" in the context of sushi ingredients.
+
+===word: 韓風===
+Meaning: Korean style
+Nuance_EN: Refers to Korean-style trends in fashion, food, music, etc. Follows the pattern of "和風" (Japanese style) and "洋風" (Western style).
+
+===word: 韜晦===
+Meaning: Concealment / Hiding one's light
+Nuance_EN: Intentionally hiding one's talents or intentions to avoid attention. Used in military strategy and personal conduct.
+
+===word: 音を上げる===
+Meaning: Give up / Cry uncle
+Nuance_EN: An idiom meaning to give up under pressure or pain, to admit defeat.
+
+===word: 音を出す===
+Meaning: Make a sound
+Nuance_EN: To intentionally produce sound from an instrument or machine.
+
+===word: 音信不通===
+Meaning: Out of contact
+Nuance_EN: A four-character idiom meaning no communication at all, by any means.
+
+===word: 音声===
+Meaning: Voice / Audio
+Nuance_EN: Refers to human voice or machine-generated sound. Used in tech terms like voice recognition.
+
+===word: 音楽隊===
+Meaning: Music band
+Nuance_EN: A group of musicians playing together, like a band or orchestra.
+
+===word: 音沙汰===
+Meaning: News / Contact
+Nuance_EN: News or communication from someone. Often used in negative "音沙汰がない" (no news at all).
+
+===word: 音痴===
+Meaning: Tone-deaf / No sense of direction
+Nuance_EN: Literally "tone deaf," but also used in compounds like "方向音痴" (no sense of direction).
+
+===word: 音程===
+Meaning: Pitch / Interval
+Nuance_EN: The distance between two musical notes. Used in everyday contexts like karaoke to describe singing accuracy.
+
+===word: 音符===
+Meaning: Musical note
+Nuance_EN: Symbols on a staff indicating pitch and duration, fundamental to music.
+
+===word: 音節===
+Meaning: Syllable
+Nuance_EN: A unit of pronunciation with one vowel sound. Japanese syllable structure is different from English.
+
+===word: 音色===
+Meaning: Timbre / Tone color
+Nuance_EN: The quality or character of sound, varying by instrument or performer.
+
+===word: 音読===
+Meaning: Reading aloud
+Nuance_EN: Contrasted with silent reading, recommended for language learning.
+
+===word: 音読（する）===
+Meaning: Read aloud
+Nuance_EN: Same as above, with "する" indicating the verb form.
+
+===word: 音量===
+Meaning: Volume
+Nuance_EN: The loudness of sound, adjusted on devices.
+
+===word: 音階===
+Meaning: Musical scale
+Nuance_EN: A series of notes in ascending or descending order, fundamental in music.
+
+===word: 音響===
+Meaning: Sound / Acoustics
+Nuance_EN: The resonance or effect of sound, used in technical fields like audio equipment or architecture.
+
+===word: 音頭取り===
+Meaning: Leader / Initiator
+Nuance_EN: Originally the person leading a folk song at a party, now means someone who takes the lead in a project.
+
+===word: 韻を踏む===
+Meaning: Rhyme
+Nuance_EN: To create rhymes, especially in poetry or lyrics.
+
+===word: 韻律===
+Meaning: Rhythm / Meter
+Nuance_EN: The patterned flow of sound in poetry or music.
+
+===word: 響き渡る===
+Meaning: Resound / Echo
+Nuance_EN: To sound loudly and be heard over a wide area.
+
+===word: 響く===
+Meaning: Echo / Affect
+Nuance_EN: Sound traveling and being heard. Also metaphorically used for influence or impact.
+
+===word: 頁岩===
+Meaning: Shale
+Nuance_EN: A sedimentary rock made of clay, easily split into layers. Used in geology and fossil studies.
+
+===word: 頂上===
+Meaning: Summit / Peak
+Nuance_EN: The highest point of a mountain. Metaphorically, the highest rank in a field.
+
+===word: 頂点===
+Meaning: Vertex / Peak
+Nuance_EN: Used for mountain tops, career peaks, or geometric vertices. Almost synonymous with "peak."
+
+===word: 頃合===
+Meaning: Good timing
+Nuance_EN: The right moment to do something, like cooking doneness or starting an activity. Softer and more Japanese than "タイミング."
+
+===word: 項垂れる===
+Meaning: Hang one's head
+Nuance_EN: To droop the head forward in sadness, shame, or dejection.
+
+===word: 項目===
+Meaning: Item / Heading
+Nuance_EN: Individual entries or headings in a document or list.
+
+===word: 順々に===
+Meaning: In order / One by one
+Nuance_EN: An adverb meaning proceeding in sequence, more polite than "順番に."
+
+===word: 順を追って===
+Meaning: Step by step / In order
+Nuance_EN: Following a sequence without skipping, used in explanations or processes.
+
+===word: 順不同===
+Meaning: In no particular order
+Nuance_EN: Indicates that the order of a list is random, often used as a note.
+
+===word: 順位===
+Meaning: Rank / Order
+Nuance_EN: The sequence indicating superiority or inferiority, used in competitions.
+
+===word: 順境===
+Meaning: Prosperity / Favorable circumstances
+Nuance_EN: A somewhat formal term for smooth progress, opposite of 逆境 (adversity).
+
+===word: 順序===
+Meaning: Order / Sequence
+Nuance_EN: The arrangement or procedure of things, used broadly from daily life to business.
+
+===word: 順延になる===
+Meaning: Be postponed
+Nuance_EN: An event being postponed to a later date, often used for scheduled events.
+
+===word: 順当に行けば===
+Meaning: If things go as expected
+Nuance_EN: A phrase meaning under normal circumstances, used to express a likely outcome.
+
+===word: 順応===
+Meaning: Adaptation
+Nuance_EN: The ability to adjust to new conditions, used in biology, psychology, and daily life.
+
+===word: 順応性===
+Meaning: Adaptability
+Nuance_EN: The capacity to adapt to new environments, for people, animals, or systems. Similar to "適応力" but with a nuance of blending in naturally.
+
+===word: 順次===
+Meaning: Sequentially / In turn
+Nuance_EN: An adverb meaning proceeding in order, used in formal business announcements.
+
+===word: 順法===
+Meaning: Law-abiding
+Nuance_EN: Acting in accordance with laws and regulations, used in traffic or business contexts.
+
+===word: 順繰り===
+Meaning: In rotation
+Nuance_EN: A noun/adverb meaning taking turns, slightly old-fashioned but still used.
+
+===word: 順調===
+Meaning: Smooth / Going well
+Nuance_EN: Describes a state where things progress without problems, as planned.
+
+===word: 順路===
+Meaning: Route / Course
+Nuance_EN: A predetermined path or direction, used in museums, tours, or instructions.
+
+===word: 順路に従って展示を見ました===
+Meaning: I viewed the exhibition following the route.
+Nuance_EN: A sentence example using "順路" (route) and "従う" (follow).
+
+===word: 順送り===
+Meaning: Forward in order / Pass along
+Nuance_EN: Passing things in sequence, like documents between departments. Useful for orderly flow in organizations.
+
+===word: 順風===
+Meaning: Favorable wind
+Nuance_EN: Wind blowing in the direction of travel. Metaphorically used in "順風満帆" for smooth sailing.
+
+===word: 順風満帆===
+Meaning: Smooth sailing
+Nuance_EN: A four-character idiom meaning everything is going well without obstacles, used for life or business.
+
+===word: 須要===
+Meaning: Essential / Requisite
+Nuance_EN: An archaic term for "absolutely necessary," rarely used in modern Japanese except in formal legal texts.
+
+===word: 預かりします===
+Meaning: I'll hold this / I'll keep it
+Nuance_EN: A polite phrase used in customer service to temporarily take items for safekeeping, often as "お預かりします."
+
+===word: 預かり物===
+Meaning: Item left in custody
+Nuance_EN: An item temporarily entrusted to someone's care, with responsibility for safekeeping.
+
+===word: 預ける===
+Meaning: Entrust / Leave with
+Nuance_EN: A common verb meaning to leave something in someone else's care, like money in a bank or child at daycare. Implies trust.
+
+===word: 預り証===
+Meaning: Receipt (for deposit)
+Nuance_EN: A document issued as proof of deposit, like at a dry cleaner or luggage storage.
+
+===word: 預言者===
+Meaning: Prophet
+Nuance_EN: A person who conveys divine will and predicts the future, used in religious contexts and metaphorically for visionaries.
+
+===word: 預託===
+Meaning: Deposit / Entrustment
+Nuance_EN: A formal term for leaving money or goods with a custodian, used in business and legal comments, not daily conversation.
+
+===word: 預金===
+Meaning: Bank deposit / Savings
+Nuance_EN: Money deposited in a bank, a formal term compared to "貯金."
+
+===word: 預金には利息がつきます。===
+Meaning: Bank deposits earn interest.
+Nuance_EN: A sentence example using "利息" (interest) and "預金" (deposit).
+
+===word: 頑な===
+Meaning: Stubborn / Obstinate
+Nuance_EN: Describes a rigid refusal to change one's opinion, with a stronger negative nuance than simple stubbornness.
+
+===word: 頑丈===
+Meaning: Sturdy / Robust
+Nuance_EN: Used for objects that are solid and unbreakable, also for physically strong people.
+
+===word: 頑健===
+Meaning: Robust / Hardy
+Nuance_EN: A somewhat formal term for a strong, healthy body, also used metaphorically for machines or systems.
+
+===word: 頑固===
+Meaning: Stubborn / Obstinate
+Nuance_EN: The quality of not yielding to others' opinions, can be used negatively or positively (e.g., stubborn persistence).
+
+===word: 頑張りぬく===
+Meaning: Persevere to the end
+Nuance_EN: To keep trying without giving up until the end, a stronger form of "頑張る."
+
+===word: 頑強===
+Meaning: Stubborn / Sturdy
+Nuance_EN: An adjective-na meaning both stubborn in character and physically strong, used in formal writing.
+
+===word: 頑迷===
+Meaning: Bigoted / Obdurate
+Nuance_EN: Stubbornness combined with narrow-mindedness, stronger than simple "頑固."
+
+===word: 頒布===
+Meaning: Distribution / Circulation
+Nuance_EN: A formal word for distributing widely to the public, more formal than "配る."
+
+===word: 頓挫===
+Meaning: Stalemate / Stalling
+Nuance_EN: A halt in progress due to an obstacle, used for plans or negotiations.
+
+===word: 頓着===
+Meaning: Concern / Care
+Nuance_EN: Often used in negative "頓着しない" meaning not caring or worrying about something. A formal expression.
+
+===word: 頗る===
+Meaning: Extremely / Very
+Nuance_EN: An adverb indicating a very high degree, used in written or formal contexts.
+
+===word: 領主===
+Meaning: Feudal lord
+Nuance_EN: A ruler of a territory in feudal systems, like medieval Europe or Japan's Warring States period.
+
+===word: 領事館===
+Meaning: Consulate
+Nuance_EN: A government office abroad providing consular services like visa issuance and citizen protection, more practical than an embassy.
+
+===word: 領分===
+Meaning: Domain / Territory
+Nuance_EN: The area under one's control, like a field of expertise or a turf.
+
+===word: 領土===
+Meaning: Territory
+Nuance_EN: The land area under a nation's sovereignty, a key concept in politics and international relations.
+
+===word: 領導===
+Meaning: Leadership
+Nuance_EN: A formal term for leading a group, similar to "リーダーシップ," used in political or business contexts.
+
+===word: 領有===
+Meaning: Possession (of territory)
+Nuance_EN: A formal term for possessing territory, used in territorial disputes, not daily conversation.
+
+===word: 領海===
+Meaning: Territorial waters
+Nuance_EN: The sea area under a nation's sovereignty, typically 12 nautical miles from shore, a key international law concept.
+
+===word: 領空===
+Meaning: Airspace
+Nuance_EN: The airspace under a nation's sovereignty, a concept in international law, used in news.
+
+===word: 領袖===
+Meaning: Leader / Chief
+Nuance_EN: The supreme leader of a group or organization, somewhat old-fashioned, used for political parties.
+
+===word: 頤===
+Meaning: Chin / Jaw
+Nuance_EN: An archaic word for the lower jaw, used in idioms like "頤で使う" (order someone around). Literary.
+
+===word: 頬===
+Meaning: Cheek
+Nuance_EN: The side of the face between eye and jaw, turns red or rises when smiling.
+
+===word: 頬ずり===
+Meaning: Cheek rubbing
+Nuance_EN: A affectionate gesture of rubbing cheeks against someone or something, common between parents and children or lovers, also used for cats.
+
+===word: 頬っぺ===
+Meaning: Cheek (cute)
+Nuance_EN: A colloquial and cute term for cheek, especially for children, softer than "頬."
+
+===word: 頬張る===
+Meaning: Stuff one's mouth
+Nuance_EN: To eat with cheeks bulging, often used for children or animals, suggesting eager eating.
+
+===word: 頬杖===
+Meaning: Chin in hand
+Nuance_EN: The gesture of resting one's cheek on a hand, often seen when thinking or bored. Considered bad manners in Japan.
+
+===word: 頬骨===
+Meaning: Cheekbone
+Nuance_EN: The bone that forms the cheek, important for facial structure and contour.
+
+===word: 頭===
+Meaning: Head
+Nuance_EN: The top part of the body containing the brain, also metaphorically for intelligence, leader, etc. Many idioms.
+
+===word: 頭から～が離れない===
+Meaning: Can't get out of one's head
+Nuance_EN: An idiom meaning something is constantly on one's mind.
+
+===word: 頭がよければこその悩みですね。===
+Meaning: That's a worry that comes from being smart.
+Nuance_EN: A phrase meaning that intelligence brings its own troubles.
+
+===word: 頭がガンガンする===
+Meaning: Have a pounding headache
+Nuance_EN: An onomatopoeic expression for a severe headache.
+
+===word: 頭がフラフラする===
+Meaning: Feel dizzy / Lightheaded
+Nuance_EN: Describes a state of dizziness or unsteadiness from fatigue, hunger, or illness.
+
+===word: 頭が冴える===
+Meaning: Mind is sharp
+Nuance_EN: An idiom meaning one's thinking is clear and focused.
+
+===word: 頭が切れる===
+Meaning: Sharp-minded
+Nuance_EN: An idiom praising someone's quick thinking and good judgment.
+
+===word: 頭が高い===
+Meaning: Disrespectful / Arrogant
+Nuance_EN: An old-fashioned expression criticizing someone for not bowing to superiors, seen in period dramas.
+
+===word: 頭ごなし===
+Meaning: Overbearing / Peremptory
+Nuance_EN: Describes scolding or rejecting someone without listening, used to criticize unfair treatment.
+
+===word: 頭にくる===
+Meaning: Get angry / Get irritated
+Nuance_EN: A colloquial expression meaning to become angry or annoyed.
+
+===word: 頭を丸める===
+Meaning: Shave one's head / Become a monk
+Nuance_EN: An idiom for shaving one's head to become a monk, or metaphorically for a fresh start.
+
+===word: 頭を抱える===
+Meaning: Hold one's head in despair
+Nuance_EN: An idiom for a gesture of worry or despair when facing a difficult problem.
+
+===word: 頭上===
+Meaning: Overhead
+Nuance_EN: Above one's head, a spatial term used in warnings like "頭上注意" (watch your head).
+
+===word: 頭取===
+Meaning: Bank president
+Nuance_EN: The title for the highest executive in a bank, equivalent to "president" in other companies.
+
+===word: 頭巾===
+Meaning: Hood / Headscarf
+Nuance_EN: A general term for head coverings, used for warmth, disguise, or dust protection, common in traditional costumes.
