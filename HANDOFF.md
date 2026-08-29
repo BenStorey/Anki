@@ -43,6 +43,22 @@ unless explicitly asked.
 - JP and CN arrival decks each hold the new word on the OLD model (`jp.takoboto`,
   `Chinese`) until covered — the card should show up there before cover runs.
 
+### ⚠️ Field-count mismatch — why it happens and why it matters (IMPORTANT)
+- **Symptom:** after running `cover_new_cards.py`, Anki's **Check Database** says
+  "Fixed N notes with wrong field count." Root cause: `build_fields` wrote a
+  hardcoded field count (13 JP / 12 CN) that became stale once the Image field was
+  added (models are now 14 JP / 13 CN), leaving covered cards one field short.
+- **The real risk (review loss):** a field-count mismatch makes Anki treat the note
+  as locally-modified, which on a two-way sync is exactly what can trigger a
+  conflict / "can't merge" state that risks losing the review. So the field count
+  MUST exactly match the model **before** the user syncs.
+- **Fix:** `build_fields` now calls `enhanced_field_count()` (reads the live
+  `fields` table count) and pads with empty segments to that count. Covered cards
+  always match the model — no mismatch, no Check Database-needed, no sync risk.
+- **Rule:** whenever you add/remove a field on an Enhanced model, the cover script
+  (and any other field builder) must be re-checked to pad to the new live count.
+  Never hardcode a count in a field builder.
+
 ### ▶ THE one command (use this — it does everything)
 After new cards land in an arrival deck, cover them with ONE command (Anki
 closed, project venv):

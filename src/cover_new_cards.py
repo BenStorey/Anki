@@ -256,22 +256,45 @@ def generate_batch(idx, total, cfg, words):
 
 
 # ────────────────────────────── field building / migration ──────────────────────────────
+def enhanced_field_count(cfg):
+    """Return the live number of fields on the Enhanced notetype."""
+    conn = sqlite3.connect(f"file:{COLLECTION}?mode=ro&immutable=1", uri=True)
+    conn.create_collation("unicase", unicase)
+    n = len(conn.execute("SELECT ord FROM fields WHERE ntid=?", (cfg["enhanced_mid"],)).fetchall())
+    conn.close()
+    return n
+
+
 def build_fields(word, reading, e, cfg, ruby):
+    """Build the chr(31)-joined field string, padded to the model's live field count.
+
+    Cards MUST match the model's current field count exactly, or Anki's Check
+    Database flags "wrong field count" and may not sync cleanly. We build the
+    known base fields then pad with empty segments to len(fields-table) — so any
+    trailing fields (e.g. a later-added Image) are empty, never a short note.
+    """
     if cfg["do_furigana"]:
+        # JP: Expr, Meaning, Reading(ruby), Nuance(empty), Ex1..3, Ex1..3_EN,
+        # Nuance_EN, Nuance_JP, Furigana(ruby), then pad (e.g. Image)
         fields = [word, e.get("meaning", ""), ruby, ""]
         for k in ["ex1", "ex1_en", "ex2", "ex2_en", "ex3", "ex3_en"]:
             fields.append(e.get(k, ""))
         fields.append(e.get("nuance_en", ""))
         fields.append(e.get("nuance_jp", ""))
         fields.append(ruby)  # Furigana
-        assert len(fields) == 13
     else:
+        # CN: Expr, Meaning, Pinyin, Nuance(empty), Ex1..3, Ex1..3_EN,
+        # Nuance_EN, Nuance_CN, then pad (e.g. Image)
         fields = [word, e.get("meaning", ""), reading, ""]
         for k in ["ex1", "ex1_en", "ex2", "ex2_en", "ex3", "ex3_en"]:
             fields.append(e.get(k, ""))
         fields.append(e.get("nuance_en", ""))
         fields.append(e.get("nuance_cn", ""))
-        assert len(fields) == 12
+    # pad to the model's live field count (never leave a card short)
+    expected = enhanced_field_count(cfg)
+    while len(fields) < expected:
+        fields.append("")
+    assert len(fields) == expected, f"built {len(fields)} != model {expected}"
     return chr(31).join(fields)
 
 
