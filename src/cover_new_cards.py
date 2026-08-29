@@ -47,11 +47,14 @@ CHUNK = 20          # words per API call — proven for CJK long-form output
 BATCH_SIZE = 200    # words per prompt batch file
 
 # ────────────────────────────── per-language config ──────────────────────────────
+# source_deck_names are resolved to live deck IDs by name at runtime (deck IDs get
+# deleted/recreated on sync/import, so never hardcode an arrival-deck ID).
 LANGUAGES = {
-    # Japanese: arrival decks = Takoboto + Japanese WIP
+    # Japanese: arrivals land in a deck named "Takoboto" (on jp.takoboto model),
+    # and/or "Japanese WIP".
     "jp": {
         "enhanced_mid": 1738229000,
-        "source_decks": [1787581629780, 1754445304808],
+        "source_deck_names": ["Takoboto", "Japanese WIP", "Japanese Enhanced: Takoboto"],
         "out_subdir": "jp_new",
         "prompt_prefix": "prompt_jn",
         "out_prefix": "out_jn",
@@ -75,10 +78,10 @@ Generate all fields yourself from the word; do not copy any English you recognis
 from other sources. Rules: ===word: header matches input exactly; blank line after
 each block; all example sentences natural, polite register.""",
     },
-    # Chinese: arrival deck = Pleco (was "Chinese WIP"), id 1754445298156
+    # Chinese: arrivals land in the "Pleco" deck (renamed from "Chinese WIP").
     "cn": {
         "enhanced_mid": 1787807921282,
-        "source_decks": [1754445298156],
+        "source_deck_names": ["Pleco", "Chinese WIP"],
         "out_subdir": "cn_new",
         "prompt_prefix": "prompt_cn",
         "out_prefix": "out_cn",
@@ -138,12 +141,28 @@ def clean_html(s):
     return re.sub(r"\s+", " ", s).strip()[:200]
 
 
+def resolve_source_decks(cfg):
+    """Resolve cfg['source_deck_names'] -> live deck IDs by exact name match.
+
+    Deck IDs are deleted/recreated on sync/import, so resolve by NAME each run.
+    Returns the set of deck IDs found (may be empty if no arrival deck exists yet).
+    """
+    conn = sqlite3.connect(f"file:{COLLECTION}?mode=ro&immutable=1", uri=True)
+    conn.create_collation("unicase", unicase)
+    ids = set()
+    for name in cfg["source_deck_names"]:
+        for (did,) in conn.execute("SELECT id FROM decks WHERE name=? COLLATE unicase", (name,)):
+            ids.add(did)
+    conn.close()
+    return ids
+
+
 def read_new_rows(cfg):
     """{word: {nid, reading, meaning}} for arrival-deck notes NOT yet Enhanced."""
     conn = sqlite3.connect(f"file:{COLLECTION}?mode=ro&immutable=1", uri=True)
     conn.create_collation("unicase", unicase)
     out = {}
-    for did in cfg["source_decks"]:
+    for did in resolve_source_decks(cfg):
         for nid, flds_raw in conn.execute('''
             SELECT n.id, n.flds FROM notes n
             JOIN cards c ON c.nid = n.id

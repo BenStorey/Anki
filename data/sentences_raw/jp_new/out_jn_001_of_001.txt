@@ -1,0 +1,11 @@
+===word: 抜粋===
+Meaning: excerpt, extract
+Nuance_EN: Refers to a selected portion taken from a larger text, such as a book or article. Often used in formal or academic contexts, and can also function as a suru verb meaning "to excerpt."
+Nuance_JP: 「抜粋」は、書物や文章などから一部分を選び出したものを指します。主に名詞として使われますが、「抜粋する」という動詞形でも用いられます。ややフォーマルな印象の言葉です。
+Nuance_CN: 
+Example1: この論文の抜粋を資料として配布します。
+Example1_EN: I will distribute excerpts from this paper as handouts.
+Example2: 会議の議事録から重要な部分だけを抜粋しました。
+Example2_EN: I extracted only the important parts from the meeting minutes.
+Example3: 彼のスピーチの抜粋がニュースで紹介されました。
+Example3_EN: An excerpt from his speech was introduced on the news.
