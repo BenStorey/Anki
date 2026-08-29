@@ -27,13 +27,14 @@ reference; this file is authoritative for NEW cards.
 Fully offline: generation writes only to disk; the only DB writes are in-place
 note/card updates, gated on Anki being closed.
 """
-import json, re, sqlite3, subprocess, sys, time, urllib.request
+import json, os, re, sqlite3, subprocess, sys, time, urllib.request
 from pathlib import Path
 
 # ────────────────────────────── paths / globals ──────────────────────────────
 HOME = Path.home()
-COLLECTION = HOME / "snap/anki-desktop/common/User 1/collection.anki2"
-ROOT = HOME / "dev/sino-korean"
+# Overridable via env for testing against a throwaway collection / data dir.
+COLLECTION = Path(os.environ.get("ANKI_COLLECTION", HOME / "snap/anki-desktop/common/User 1/collection.anki2"))
+ROOT = Path(os.environ.get("SINOKOREAN_ROOT", HOME / "dev/sino-korean"))
 BACKUP_DIR = ROOT / "backups"
 DATA_DIR = ROOT / "data/sentences_raw"
 API_KEY = next((l.split("=", 1)[1].strip().strip('"').strip("'")
