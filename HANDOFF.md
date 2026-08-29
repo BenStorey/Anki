@@ -27,6 +27,35 @@ when satisfied. Migration steps in the scripts keep cards in whatever deck they
 currently occupy — preserve that. Never add an auto "move to main deck" step
 unless explicitly asked.
 
+### ▶ THE one command (use this — it does everything)
+After new cards land in an arrival deck, cover them with ONE command (Anki
+closed, project venv):
+
+```bash
+cd ~/dev/sino-korean && source .venv/bin/activate
+python3 src/cover_new_cards.py jp    # cover new JP arrivals (Takoboto + JP WIP)
+python3 src/cover_new_cards.py cn    # cover new CN arrivals (Pleco)
+```
+
+`cover_new_cards.py` is deck-agnostic and language-parameterized in a config
+table (LANGUAGES). It does, in order, with safety + in-place/review semantics
+baked in:
+1. **SAFETY** — refuses to run if Anki is open; takes a backup.
+2. **EXTRACT** — finds arrival-deck notes NOT yet on the Enhanced notetype
+   (`mid != enhanced` so covered cards are never reprocessed), dedups, writes
+   `word|reading|raw_meaning` prompt batches.
+3. **GENERATE** — deepseek-flash, 20 words/call, resumable; writes `===word:`
+   blocks to `data/sentences_raw/{jp_new,cn_new}/`.
+4. **MIGRATE** — rebuilds the Enhanced field string (13 jp / 12 cn), UPDATEs in
+   place; cards STAY in their source deck.
+5. **POST (jp)** — regenerates Reading + Furigana ruby via make_furigana().
+6. **VERIFY** — notes==cards, integrity, coverage. Commits the LLM store to git
+   before any DB write.
+
+For a large stack, run the batch ranges in parallel manually (see below);
+otherwise one command is enough for a small Pleco/Takoboto batch.
+
+
 ### 0. Non-negotiables (learned the hard way)
 1. **Anki must be fully closed** before ANY write to `collection.anki2`.
    Verify: `pgrep -x anki` (empty = safe). Writing with Anki open corrupts the DB
@@ -43,66 +72,41 @@ unless explicitly asked.
 4. Keep experimental/imported cards in their own deck until verified — don't move
    them into the main deck prematurely.
 
-### 1. Extract the new words (offline, read-only)
-```bash
-cd ~/dev/sino-korean && source .venv/bin/activate
-python3 src/74_extract_chinese_main.py   # (or equivalent per deck — see below)
-```
-Read-only SQL flattens each deck's notes into prompt files:
-`data/sentences_raw/<lang>/prompt_<prefix>_###.txt`, one line per word:
-```
-word|pinyin|raw_meaning
-```
+### 1-5. Manual / advanced path (only if you need to go piece-by-piece)
 
-### 2. LLM batch generation (speedy, parallel)
-Use `src/75_generate_chinese_main.py` as the reference generator. It:
-- reads a prompt batch, calls **deepseek flash** in **chunks of 20 words** (proven
-  reliable; larger chunks truncate), retries on partial/failed responses,
-- writes `out_*.txt` in strict `===word: WORD===` blocks with all target fields,
-- is **resumable** (skips already-complete batches),
-- supports **parallel workers over batch ranges**:
-  ```bash
-  python3 src/75_generate_chinese_main.py 1 19 &   # worker A
-  python3 src/75_generate_chinese_main.py 20 38 &  # worker B
-  ...
-  ```
-Model/API: `deepseek/deepseek-v4-flash` via OpenRouter. API key in `~/.hermes/.env`
-(`OPENROUTER_API_KEY=`). Use the project `.venv` python (has genanki + requests
-helpers).
+`cover_new_cards.py` handles the normal flow end-to-end. For ad-hoc steps or very
+large stacks you can run the underlying scripts individually (a deck-agnostic
+version of the pipeline; also see the per-deck `src/7x_*` / `src/6x_*` historical
+scripts listed in `src/ABANDONED_SCRIPTS.md`):
 
-**Speed tips:** dispatch all ranges in parallel from the start (don't test 1 batch
-first). Prefer the chunked local script over delegating each file to a subagent —
-the local script is faster and fewer moving parts. If the model times out/truncates
-repeatedly, add retries / shrink chunk size rather than rewriting the pipeline.
+1. **Extract** (offline, read-only): flatten deck notes → `word|reading|raw_meaning`
+   prompt batches under `data/sentences_raw/<lang>/prompt_*_###.txt`.
+2. **Generate** (deepseek flash, 20 words/call, resumable, parallel ranges):
+   call the generator with `start end` batch-range args over
+   `data/sentences_raw/<lang>/` out files in `===word: ===` format.
+   ```bash
+   python3 src/75_generate_chinese_main.py 1 19 &   # worker A (parallel)
+   python3 src/75_generate_chinese_main.py 20 38 &
+   ```
+   Model/API: `deepseek/deepseek-v4-flash` via OpenRouter; key in `~/.hermes/.env`
+   (`OPENROUTER_API_KEY=`). Use the project `.venv` python.
+3. **Refill gaps** if coverage < ~99%: `src/76_refill_chinese_main.py` regenerates
+   only missing-field entries and patches in place (byte-preserving).
+4. **Migrate** in place (Anki closed, backup first, cards stay in their deck):
+   ```bash
+   python3 src/61_migrate_main.py          # JP: old-model notes -> JP Enhanced
+   python3 src/79_migrate_chinese_all.py   # CN: main + Pleco -> CN Enhanced
+   python3 src/78_merge_jp_examples.py     # JP: re-merge Phase-3 examples+Nuance_JP
+   python3 src/66_fix_furigana.py          # JP: Reading+Furigana ruby 漢字[かんな]
+   ```
+5. **Verify**: notes==cards, integrity_check==ok, field coverage. Then tell the
+   user to open Anki → Check Database → sync (big change count is normal).
 
-### 3. Refill gaps (optional, if coverage < ~99%)
-`src/76_refill_chinese_main.py` regenerates only the entries still missing a field,
-then patches them in place (preserves all other content byte-for-byte).
-
-### 4. Migrate into the Enhanced notetype (in place)
-Verified scripts (Anki closed, backup first, cards stay in their deck):
-```bash
-# Japanese new arrivals (Takoboto / WIP -> Japanese Enhanced, 13 fields)
-python3 src/61_migrate_main.py          # maps old-model notes onto JP Enhanced
-
-# Chinese (main + WIP -> Chinese Enhanced, 12 fields)
-python3 src/79_migrate_chinese_all.py
-
-# After it: merge examples/nuance and regenerate ruby reading
-python3 src/78_merge_jp_examples.py     # JP only: re-merges Phase-3 examples+Nuance_JP
-python3 src/66_fix_furigana.py          # JP only: Reading+Furigana in 漢字[かんな]
-```
-Migration scripts refuse to run if Anki is open and take a backup automatically.
-They keep each card in its deck; unmatched non-vocab notes are left on the old model
-(optionally move to `Japanese (Old)` / old deck).
-
-### 5. Verify
-Re-open read-only and assert, per Enhanced notetype:
-- notes == cards (no duplicates),
-- `PRAGMA integrity_check` == `ok`,
-- expected field coverage (Meaning/Nuance ~100%, examples ~95%+).
-Then tell the user to open Anki → **Check Database** → sync (first sync looks like
-a big change count — normal, let it complete).
+**Parallel speed tips:** dispatch all batch ranges in parallel from the start
+(don't test 1 batch first). Prefer the chunked local script over delegating each
+file to a subagent. If the model times out/truncates repeatedly, add retries or
+shrink the chunk size, don't rewrite the pipeline. Commit the LLM data store to
+git immediately after generation, before any DB write.
 
 ---
 

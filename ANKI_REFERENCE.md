@@ -123,14 +123,20 @@ conn.create_collation("unicase", uc)
 ```
 
 ## Working migration approach (READ HANDOFF.md for the full workflow)
-The proven pipeline is captured in **`HANDOFF.md`**. Summary:
-1. Extract new words → prompt files (read-only SQL, src/74).
-2. LLM batch via src/75 (deepseek flash, 20-word chunks, parallel ranges).
-3. Optional refill gaps src/76.
-4. Migrate in place (Anki closed, backup first):
-   - JP: src/61_migrate_main.py (+ 78_merge_jp_examples.py, 66_fix_furigana.py)
-   - CN: src/79_migrate_chinese_all.py
-5. Verify notes==cards and integrity; user runs Check Database + sync.
+The one command for NEW cards is **`src/cover_new_cards.py <jp|cn>`** (deck-agnostic,
+parameterized, in-place, keeps cards in their source deck for review). It does
+extract → LLM batch → migrate → (JP furigana) → verify. See **HANDOFF.md**.
+
+For advanced/ad-hoc steps the underlying pieces are: extract (src/74), LLM batch
+(src/75, 20-word chunks, parallel ranges), refill (src/76), migrate
+(JP src/61 + 78 + 66; CN src/79). All Anki-closed + backup first, cards stay in
+deck.
+
+## Key IDs (arrival decks for new cards)
+- JP new arrivals: `Japanese Enhanced: Takoboto` (1787581629780), `Japanese WIP` (1754445304808)
+- CN new arrivals: `Pleco` (1754445298156, ex-`Chinese WIP`, renamed; ID stable)
+- Both Enhanced models are Recognition-only (1 template) — never add a 2nd: it
+  makes Anki auto-spawn a duplicate "New" card for every migrated note.
 
 ## Key Pitfalls
 1. **`unicase` collation** — register it on every SQLite connection that touches
