@@ -10,8 +10,9 @@ Usage (project venv):
 WHAT IT DOES (all in place — cards stay in their source deck for review):
   1. SAFETY: verifies Anki is closed (refuses otherwise) + takes a backup.
   2. EXTRACT: finds notes in the language's arrival deck(s) that are NOT yet on the
-     Enhanced notetype, dedups by Expression, writes `word|reading|raw_meaning`
-     prompt batches (offline, read-only).
+     Enhanced notetype, dedups by Expression, writes `word|reading` prompt batches
+     (ONLY the word + reading — never the raw meaning, so the model must generate
+     Meaning/examples/nuance itself).
   3. GENERATE: deepseek-flash LLM batch (20 words/call, resumable) → writes
      `===word: {fields}===` blocks to out files on disk.
   4. MIGRATE: rebuilds each note's Enhanced field string and UPDATEs in place —
@@ -57,21 +58,22 @@ LANGUAGES = {
         "n_fields": 13,
         "do_furigana": True,
         "system": """You produce Japanese vocabulary flashcards for an N1 learner.
-Input lines: word|reading|current_meaning
+Input lines: word|reading   (this is ALL you are given — generate everything else yourself)
 For EACH word output exactly:
 ===word: WORD===
 Meaning: clean English gloss, 1-5 words
 Nuance_EN: English, 1-2 sentences on meaning/usage/register
 Nuance_JP: Japanese, 1-2 sentences on the nuance
-Example1: natural Japanese sentence (です/ます)
-Example1_EN: English translation
+Example1: natural Japanese sentence (です/ます), COMPLETE and grammatical
+Example1_EN: natural English translation (never pinyin, never a fragment)
 Example2: natural Japanese sentence
 Example2_EN: English translation
 Example3: natural Japanese sentence
 Example3_EN: English translation
 
-Rules: ===word: header matches input exactly; blank line after each block; all
-example sentences natural, polite register; process every input in order.""",
+Generate all fields yourself from the word; do not copy any English you recognise
+from other sources. Rules: ===word: header matches input exactly; blank line after
+each block; all example sentences natural, polite register.""",
     },
     # Chinese: arrival deck = Pleco (was "Chinese WIP"), id 1754445298156
     "cn": {
@@ -83,21 +85,22 @@ example sentences natural, polite register; process every input in order.""",
         "n_fields": 12,
         "do_furigana": False,
         "system": """You produce Mandarin (Simplified Chinese) vocabulary flashcards.
-Input lines: word|pinyin|current_meaning
+Input lines: word|pinyin   (this is ALL you are given — generate everything else yourself)
 For EACH word output exactly:
 ===word: WORD===
 Meaning: clean English gloss, 1-5 words
 Nuance_EN: English, 1-2 sentences on meaning/usage/register
 Nuance_CN: Simplified Chinese, 1-2 sentences on the nuance
-Example1: natural Simplified Chinese sentence
-Example1_EN: English translation
-Example2: natural Simplified Chinese sentence
+Example1: natural, COMPLETE Simplified Chinese sentence
+Example1_EN: natural English translation (never pinyin, never a fragment)
+Example2: natural, COMPLETE Simplified Chinese sentence
 Example2_EN: English translation
-Example3: natural Simplified Chinese sentence
+Example3: natural, COMPLETE Simplified Chinese sentence
 Example3_EN: English translation
 
-Rules: ===word: header matches input exactly; blank line after each block; all
-example sentences natural, neutral register; process every input in order.""",
+Generate all fields yourself from the word; do not copy any English you recognise
+from other sources. Rules: ===word: header matches input exactly; blank line after
+each block; all example sentences natural, neutral register.""",
     },
 }
 FIELD_LABELS = [("Meaning:", "meaning"), ("Nuance_EN:", "nuance_en"),
@@ -210,7 +213,7 @@ def generate_batch(idx, total, cfg, words):
     entries = {}
     for i in range(0, len(words), CHUNK):
         chunk = words[i:i + CHUNK]
-        lines = [f"{w}|{r}|{m}" for w, r, m in chunk]
+        lines = [f"{w}|{r}" for w, r, _m in chunk]
         ok = False
         for attempt in range(6):
             try:
@@ -344,7 +347,7 @@ def main():
     for i in range(0, len(words), BATCH_SIZE):
         b = i // BATCH_SIZE + 1
         chunk = words[i:i + BATCH_SIZE]
-        lines = [f"{w}|{r}|{m}" for w, r, m in chunk]
+        lines = [f"{w}|{r}" for w, r, _m in chunk]
         (out_dir / f"{cfg['prompt_prefix']}_{b:03d}_of_{n_batches:03d}.txt").write_text("\n".join(lines), encoding="utf-8")
     print(f"  Wrote {n_batches} prompt batch(es) -> {out_dir}")
 
