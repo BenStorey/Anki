@@ -5,10 +5,10 @@ files in this repo are historical/planning docs (some stale — see Conflicts at
 
 Last validated: 2026-08-28. Both languages fully migrated:
 
-| Language | Enhanced notetype | Notes | Templates | Cards (1:1) |
-|----------|-------------------|-------|-----------|--------------|
-| Japanese | `Japanese Enhanced` (id `1738229000`) | 27,949 | 1 × Recognition | 27,949 |
-| Chinese  | `Chinese Enhanced`  (id `1787807921282`) | 16,370 | 1 × Recognition | 16,370 |
+| Language | Enhanced notetype | Fields | Notes | Templates | Cards (1:1) |
+|----------|-------------------|--------|-------|-----------|--------------|
+| Japanese | `Japanese Enhanced` (id `1738229000`) | 14 (incl Image) | 27,949 | 1 × Recognition | 27,949 |
+| Chinese  | `Chinese Enhanced`  (id `1787807921282`) | 13 (incl Image) | 16,370 | 1 × Recognition | 16,370 |
 
 ---
 
@@ -112,22 +112,25 @@ git immediately after generation, before any DB write.
 
 ## Field layouts (authoritative)
 
-### Japanese Enhanced — 13 fields (id 1738229000)
+### Japanese Enhanced — 14 fields (id 1738229000)
 ```
 0 Expression | 1 Meaning | 2 Reading | 3 Nuance(empty) | 4 Example1 | 5 Example1_EN
 6 Example2 | 7 Example2_EN | 8 Example3 | 9 Example3_EN | 10 Nuance_EN
-11 Nuance_JP | 12 Furigana
+11 Nuance_JP | 12 Furigana | 13 Image
 ```
 - Reading and Furigana (fields 2 & 12) use **ruby format** `漢字[かんな]` (via
   `make_furigana()` from `src/50_build_japanese_enhanced.py`).
+- Field 13 Image: holds `<img>` (shown at top of back, above Meaning).
 - Template front = `{{furigana:Reading}}`.
 
-### Chinese Enhanced — 12 fields (id 1787807921282)
+### Chinese Enhanced — 13 fields (id 1787807921282)
 ```
 0 Expression | 1 Meaning | 2 Pinyin | 3 Nuance(empty) | 4 Example1 | 5 Example1_EN
 6 Example2 | 7 Example2_EN | 8 Example3 | 9 Example3_EN | 10 Nuance_EN | 11 Nuance_CN
+12 Image
 ```
 - Pinyin (field 2) comes from the source card — already correct, keep as-is.
+- Field 12 Image: holds `<img>` (shown at top of back, above Meaning).
 - Chinese card: **red top** (`#d14949`), front shows Expression **only**; pinyin on back.
 
 Reads use the `notetypes` / `fields` / `templates` tables (modern v5 schema) + a
