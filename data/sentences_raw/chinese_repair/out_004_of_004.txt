@@ -1,0 +1,197 @@
+===word: 英烈===
+Meaning: heroic martyr; brave fallen
+Nuance_EN: Refers to people who died heroically, especially for a noble cause like national defense or revolution. Formal, reverent, often used in memorial contexts.
+Nuance_CN: 指为正义事业或国家英勇牺牲的人，带有崇敬和缅怀的情感，多用于纪念、悼念场合。
+Example1: 清明节，人们纷纷前往烈士陵园祭奠英烈。
+Example1_EN: During Qingming Festival, people visit the martyrs' cemetery to honor the heroic fallen.
+Example2: 这部纪录片讲述了抗战英烈的感人故事。
+Example2_EN: This documentary tells the moving stories of the heroic martyrs of the War of Resistance.
+Example3: 英烈的精神永远激励着我们前行。
+Example3_EN: The spirit of the heroic martyrs will forever inspire us to move forward.
+
+===word: 流连===
+Meaning: linger; loiter with pleasure
+Nuance_EN: To stay somewhere longer because you enjoy it, often a scenic place or pleasant experience. Slightly literary, implies reluctance to leave.
+Nuance_CN: 因留恋而不愿离开，多用于形容被美景或美好事物吸引，带有诗意和情感色彩。
+Example1: 游客们在西湖边流连忘返。
+Example1_EN: The tourists lingered by West Lake, reluctant to leave.
+Example2: 他流连于书店，一待就是整个下午。
+Example2_EN: He lingered in the bookstore, staying for the entire afternoon.
+Example3: 音乐的美妙让人流连其中。
+Example3_EN: The beauty of the music made people linger in it.
+
+===word: 亟需===
+Meaning: urgently need; pressing demand
+Nuance_EN: Emphasizes an immediate, critical need for something, often in formal or news contexts. Stronger than 需要.
+Nuance_CN: 表示非常紧迫地需要，语气正式，常用于报告、新闻或政策讨论中。
+Example1: 灾区亟需医疗物资和饮用水。
+Example1_EN: The disaster area urgently needs medical supplies and drinking water.
+Example2: 这项改革亟需得到全社会的支持。
+Example2_EN: This reform urgently needs support from the whole society.
+Example3: 公司亟需解决人才短缺的问题。
+Example3_EN: The company urgently needs to solve the problem of talent shortage.
+
+===word: 圣典===
+Meaning: sacred scripture; holy canon
+Nuance_EN: A revered religious or philosophical text, such as the Bible or Quran. Formal, solemn, implies authority and sanctity.
+Nuance_CN: 指宗教或思想体系中具有神圣权威的经典著作，语气庄重，带有敬畏之意。
+Example1: 这部圣典是信徒们每日必读的经文。
+Example1_EN: This sacred scripture is the text that believers read daily.
+Example2: 学者们花了数十年研究这部古代圣典。
+Example2_EN: Scholars spent decades studying this ancient sacred canon.
+Example3: 圣典中的教诲指引着人们的生活。
+Example3_EN: The teachings in the sacred scripture guide people's lives.
+
+===word: 慎入===
+Meaning: enter with caution; viewer discretion advised
+Nuance_EN: A warning label, often on websites or content, telling people to be careful before entering or viewing, due to disturbing or intense material.
+Nuance_CN: 提醒他人谨慎进入或观看的警示语，常见于网络内容或场所入口，暗示可能有不适内容。
+Example1: 这个恐怖视频慎入，胆小者请勿观看。
+Example1_EN: This horror video is enter-with-caution; the faint-hearted should not watch it.
+Example2: 论坛帖子标题写着“慎入”，里面全是血腥图片。
+Example2_EN: The forum post was titled "Enter with Caution," and it was full of bloody images.
+Example3: 网站首页有慎入提示，避免未成年人误入。
+Example3_EN: The website's homepage has a caution notice to prevent minors from entering by mistake.
+
+===word: 有何贵干===
+Meaning: what business do you have; what brings you here
+Nuance_EN: A polite but slightly formal or ironic way to ask why someone has come. Can be sincere or sarcastic depending on tone.
+Nuance_CN: 询问对方来意的客套话，语气礼貌但略带距离感，有时带调侃或讽刺意味。
+Example1: 你突然来访，有何贵干？
+Example1_EN: You've come suddenly—what business do you have?
+Example2: 经理笑着问：“今天有何贵干？”
+Example2_EN: The manager smiled and asked, "What brings you here today?"
+Example3: 他冷冷地说：“有何贵干？没事就请回吧。”
+Example3_EN: He said coldly, "What business do you have? If it's nothing, please leave."
+
+===word: 重口味===
+Meaning: heavy taste; extreme preference
+Nuance_EN: Colloquial, refers to strong flavors in food (very spicy/salty) or metaphorically to extreme, shocking, or unconventional tastes in media or behavior.
+Nuance_CN: 口语词，原指食物味道浓重，后引申为对刺激、极端或非主流事物的偏好，常带调侃语气。
+Example1: 这家火锅店以重口味闻名，辣得让人流泪。
+Example1_EN: This hotpot restaurant is famous for its heavy taste—so spicy it makes you cry.
+Example2: 他喜欢看重口味的恐怖片，越血腥越兴奋。
+Example2_EN: He likes watching extreme horror movies—the bloodier, the more excited he gets.
+Example3: 有些人觉得榴莲太重口味，我却爱不释手。
+Example3_EN: Some people find durian too heavy-tasting, but I can't get enough of it.
+
+===word: 售罄===
+Meaning: sold out
+Nuance_EN: Indicates that all items of a product have been sold, often used in retail, tickets, or events. Neutral, factual.
+Nuance_CN: 表示商品或票务已全部售完，常用于商业公告，语气客观。
+Example1: 演唱会门票在开售一小时内即告售罄。
+Example1_EN: Concert tickets were sold out within an hour of going on sale.
+Example2: 这款限量版球鞋已经售罄，不再补货。
+Example2_EN: This limited-edition sneaker is sold out and will not be restocked.
+Example3: 超市里的口罩已售罄，请明天再来。
+Example3_EN: The masks in the supermarket are sold out; please come back tomorrow.
+
+===word: 超群===
+Meaning: outstanding; surpassing others
+Nuance_EN: Describes exceptional ability or quality that exceeds the norm. Formal, complimentary, often in praise of skills or talents.
+Nuance_CN: 形容才能或品质超出常人，带有赞美之意，多用于正式场合或书面语。
+Example1: 她的绘画技艺超群，屡获国际大奖。
+Example1_EN: Her painting skills are outstanding, and she has won international awards repeatedly.
+Example2: 这位运动员的耐力超群，打破了世界纪录。
+Example2_EN: This athlete's endurance surpasses others, breaking the world record.
+Example3: 他的领导能力超群，团队士气大增。
+Example3_EN: His leadership ability is outstanding, greatly boosting team morale.
+
+===word: 熠熠===
+Meaning: glittering; shining brightly
+Nuance_EN: Literary, describes a sparkling, radiant glow, often of stars, lights, or eyes. Poetic and elegant.
+Nuance_CN: 形容闪光发亮的样子，多用于文学描写，带有诗意和美感。
+Example1: 夜空中的星星熠熠生辉。
+Example1_EN: The stars in the night sky glitter brightly.
+Example2: 她的眼中闪着熠熠的泪光。
+Example2_EN: Her eyes shimmered with glittering tears.
+Example3: 舞台上的灯光熠熠夺目。
+Example3_EN: The stage lights shone dazzlingly bright.
+
+===word: 照拂===
+Meaning: care for; look after
+Nuance_EN: A gentle, protective care, often from a superior or divine force. Formal, warm, slightly literary.
+Nuance_CN: 表示关怀照顾，语气温和庄重，常用于长辈对晚辈、神明对信徒或抽象力量的庇护。
+Example1: 感谢老师多年来的悉心照拂。
+Example1_EN: Thank you for the teacher's meticulous care over the years.
+Example2: 愿上天照拂这个善良的家庭。
+Example2_EN: May heaven look after this kind family.
+Example3: 在祖母的照拂下，他度过了快乐的童年。
+Example3_EN: Under his grandmother's care, he spent a happy childhood.
+
+===word: 猝然===
+Meaning: suddenly; abruptly
+Nuance_EN: Describes something happening without warning, often shocking or unexpected. Formal, literary, implies a sense of surprise.
+Nuance_CN: 表示突然发生，毫无预兆，语气带有意外和冲击感，多用于书面语。
+Example1: 他猝然倒地，众人惊慌失措。
+Example1_EN: He collapsed suddenly, and everyone panicked.
+Example2: 消息猝然传来，让人难以置信。
+Example2_EN: The news came abruptly, hard to believe.
+Example3: 暴风雨猝然而至，打断了野餐。
+Example3_EN: The storm arrived suddenly, interrupting the picnic.
+
+===word: 寰宇===
+Meaning: the whole world; universe
+Nuance_EN: Grand, literary term for the entire world or cosmos. Used in formal or poetic contexts, often with a sense of vastness.
+Nuance_CN: 指整个世界或宇宙，语气宏大，多用于文学或正式演讲中。
+Example1: 他的成就闻名寰宇，无人不知。
+Example1_EN: His achievements are known throughout the world, known to all.
+Example2: 寰宇之内，和平是人类的共同愿望。
+Example2_EN: Across the universe, peace is humanity's common wish.
+Example3: 科学家探索寰宇的奥秘，永无止境。
+Example3_EN: Scientists explore the mysteries of the universe, endlessly.
+
+===word: 鲜少===
+Meaning: rarely; seldom
+Nuance_EN: Formal or literary way to say "very few" or "rarely," emphasizing scarcity. Slightly more elegant than 很少.
+Nuance_CN: 表示很少、极少，语气较正式，多用于书面语或文学描写。
+Example1: 他鲜少在公众场合露面。
+Example1_EN: He rarely appears in public.
+Example2: 这座古城的游客鲜少，显得格外宁静。
+Example2_EN: This ancient city has very few tourists, making it especially peaceful.
+Example3: 她鲜少提及自己的过去。
+Example3_EN: She seldom mentions her past.
+
+===word: 仪态===
+Meaning: bearing; deportment; poise
+Nuance_EN: Refers to a person's posture, manner, and overall appearance, often in formal or elegant contexts. Positive connotation.
+Nuance_CN: 指人的姿态、举止和风度，多用于形容优雅或庄重的形象，带有褒义。
+Example1: 她仪态端庄，令人印象深刻。
+Example1_EN: Her bearing is dignified, leaving a deep impression.
+Example2: 礼仪课上，学生们学习如何保持优雅的仪态。
+Example2_EN: In etiquette class, students learn how to maintain elegant poise.
+Example3: 他的仪态从容，尽显大将风范。
+Example3_EN: His composure and bearing show the demeanor of a great leader.
+
+===word: 说客===
+Meaning: persuader; lobbyist; advocate
+Nuance_EN: Someone who tries to persuade others, often in political or personal matters. Can be neutral or slightly negative, implying manipulation.
+Nuance_CN: 指专门劝说他人的人，常用于政治或人际场合，语气中性或略带贬义。
+Example1: 他作为说客，试图说服董事会接受新方案。
+Example1_EN: As a persuader, he tried to convince the board to accept the new proposal.
+Example2: 别当说客了，我不会改变主意的。
+Example2_EN: Stop being a persuader—I won't change my mind.
+Example3: 这位说客在谈判中发挥了关键作用。
+Example3_EN: This lobbyist played a key role in the negotiations.
+
+===word: 噎住===
+Meaning: choked; stuck in throat
+Nuance_EN: Literally, food stuck in the throat; metaphorically, being speechless or at a loss for words. Colloquial, vivid.
+Nuance_CN: 原指食物卡住喉咙，引申为因惊讶或尴尬而说不出话，口语常用。
+Example1: 他吃得太快，被一块肉噎住了。
+Example1_EN: He ate too fast and choked on a piece of meat.
+Example2: 听到这个答案，她一时噎住，不知如何回应。
+Example2_EN: Hearing that answer, she was momentarily choked, not knowing how to respond.
+Example3: 这个问题问得他噎住了，半天没说话。
+Example3_EN: The question choked him up, and he stayed silent for a long time.
+
+===word: 恢宏===
+Meaning: grand; magnificent; vast
+Nuance_EN: Describes something large in scale, majestic, often of buildings, plans, or visions. Formal, positive, literary.
+Nuance_CN: 形容气势宏大、规模雄伟，多用于建筑、计划或气魄，带有赞美之意。
+Example1: 这座宫殿气势恢宏，令人叹为观止。
+Example1_EN: This palace is grand in scale, breathtaking.
+Example2: 国家的发展蓝图恢宏远大。
+Example2_EN: The nation's development blueprint is grand and ambitious.
+Example3: 交响乐的旋律恢宏壮丽，震撼人心。
+Example3_EN: The symphony's melody is grand and magnificent, stirring the heart.
