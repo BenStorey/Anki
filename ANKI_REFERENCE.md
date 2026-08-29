@@ -96,7 +96,7 @@ conn.create_collation("unicase", uc)
 | `1787581629780` | Japanese Enhanced: Takoboto | Source deck for new JP arrivals |
 | `1754445304808` | Japanese WIP | Source deck for new JP arrivals |
 | `1351219999178` | Chinese | Main target deck |
-| `1754445298156` | Chinese WIP | Pleco import — source deck for new CN arrivals |
+| `1754445298156` | Pleco | Pleco import — source deck for new CN arrivals (was "Chinese WIP"; ID stable) |
 
 ## The 13 Japanese Enhanced Fields
 ```

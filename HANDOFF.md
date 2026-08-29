@@ -15,8 +15,17 @@ Last validated: 2026-08-28. Both languages fully migrated:
 ## The ONLY workflow you need: add new cards covered with LLM examples
 
 New words arrive authoritatively in **`Japanese Enhanced: Takoboto`** (jp) and
-**`Chinese WIP`** (cn) decks. `Chinese WIP` is the Pleco import deck — consider
-renaming to "Pleco".
+**`Pleco`** (cn; renamed from "Chinese WIP", stable deck id `1754445298156`)
+decks.
+
+### ⭐ Card placement policy (user's explicit preference)
+**New arrivals are batch-updated IN PLACE in their source deck, and STAY there**
+for the user to examine. The agent does NOT auto-move them into the main
+`Japanese`/`Chinese` deck. The user reviews the newly-covered cards in the
+source/Pleco/Takoboto deck and **manually** moves them into the main deck only
+when satisfied. Migration steps in the scripts keep cards in whatever deck they
+currently occupy — preserve that. Never add an auto "move to main deck" step
+unless explicitly asked.
 
 ### 0. Non-negotiables (learned the hard way)
 1. **Anki must be fully closed** before ANY write to `collection.anki2`.
@@ -137,7 +146,7 @@ conn.create_collation('unicase', lambda a,b: (a.lower()>b.lower())-(a.lower()<b.
 | deck | Japanese Enhanced: Takoboto | 1787581629780 |
 | deck | Japanese WIP | 1754445304808 |
 | deck | Chinese | 1351219999178 |
-| deck | Chinese WIP | 1754445298156 |
+| deck | Pleco (ex-Chinese WIP) | 1754445298156 |
 
 Values come from `"User 1/collection.anki2"`; re-verify with a read-only query if in doubt.
 
