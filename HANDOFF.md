@@ -27,6 +27,22 @@ when satisfied. Migration steps in the scripts keep cards in whatever deck they
 currently occupy — preserve that. Never add an auto "move to main deck" step
 unless explicitly asked.
 
+### 🔎 Why `cover_new_cards.py` might report "0 new words" (debug this, don't assume)
+- **Look the arrival deck up by NAME, not by a saved ID.** Anki deletes and
+  recreates decks on sync/import, so a deck's ID is NOT stable. The script uses a
+  `source_deck_names` config (e.g. "Takoboto", "Pleco") resolved at runtime via
+  `resolve_source_decks()` → do not hardcode an arrival-deck ID anywhere.
+- **The JP arrival model changed** — Takoboto now imports into a deck literally
+  named "Takoboto" on the `jp.takoboto` (7-field) model, not the older
+  `Japanese Enhanced: Takoboto`. `cover_new_cards.py` covers any note in the
+  resolved deck whose `mid != enhanced`, so it picks these up automatically.
+- **Ensure you actually ran the script.** `read_new_rows` is read-only; a
+  "0 new" result can also mean the run preceded the word landing (Anki was still
+  open / unsynced at the time) — always `pgrep -x anki` and look at the deck's
+  current contents first.
+- JP and CN arrival decks each hold the new word on the OLD model (`jp.takoboto`,
+  `Chinese`) until covered — the card should show up there before cover runs.
+
 ### ▶ THE one command (use this — it does everything)
 After new cards land in an arrival deck, cover them with ONE command (Anki
 closed, project venv):
