@@ -319,6 +319,10 @@ def migrate(cfg, new_rows):
     for new_flds, nid in updates:
         conn.execute("UPDATE notes SET mid=?, flds=?, mod=?, usn=-1 WHERE id=?",
                      (cfg["enhanced_mid"], new_flds, now, nid))
+        # The Enhanced models are Recognition-only (1 template). Arrival models
+        # (e.g. jp.takoboto) may carry a reverse card (ord>=1) that must be
+        # dropped so the note ends up 1:1 — otherwise Anki keeps/creates an orphan.
+        conn.execute("DELETE FROM cards WHERE nid=? AND ord >= 1", (nid,))
         conn.execute("UPDATE cards SET mod=?, usn=-1 WHERE nid=?", (now, nid))
     conn.execute("UPDATE col SET mod=?", (now,))
     conn.commit()
