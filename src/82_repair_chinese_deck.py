@@ -135,19 +135,30 @@ def is_affected(f):
 
 
 def parse(content):
-    """Parse ===word: {fields}=== blocks -> {word: {key: value}}."""
+    """Parse ===word: {fields}=== blocks -> {word: {key: value}}.
+
+    Tolerant of the model emitting the header EITHER as '===word: 下课==='
+    (space after colon) or '===word:下课===' (no space) — a common, intermittent
+    model quirk that previously made whole chunks parse as 0 (huge retry cost).
+    """
     out = {}
-    for block in content.split("===word: ")[1:]:
-        word = block.split("===")[0].strip()
-        rest = block.split("===")[1] if "===" in block else block
+    # locate every block header, tolerant of spacing after the colon
+    heads = list(re.finditer(r"===word:\s*(.*?)===\s*\n", content, re.S))
+    for i, h in enumerate(heads):
+        word = h.group(1).strip()
+        if not word:
+            continue
+        # body runs from just after this header up to the next header (or EOF)
+        start = h.end()
+        end = heads[i + 1].start() if i + 1 < len(heads) else len(content)
+        body = content[start:end]
         fields = {}
-        for line in rest.split("\n"):
+        for line in body.split("\n"):
             s = line.strip()
             for lab, key in FIELD_LABELS:
                 if s.startswith(lab):
                     fields[key] = s[len(lab):].strip()
-        if word:
-            out[word] = fields
+        out[word] = fields
     return out
 
 
