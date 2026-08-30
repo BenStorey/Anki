@@ -94,32 +94,32 @@ def check_anki_closed():
 def is_affected(f):
     """Return True if the note's fields show a defect we want to regenerate.
 
-    User guidance: re-generating a few hundred borderline cards is FINE. So we
-    deliberately err toward over-inclusion — we'd rather regenerate a healthy
-    card than leave a broken example translation.
+    Deliberately over-inclusive (user OK regenerating a few hundred cards):
+    we'd rather regenerate a borderline card than leave a broken translation.
     """
     if len(f) < 12:
         return True
     # missing ALL example sentence sets
     if not f[4].strip() and not f[6].strip() and not f[8].strip():
         return True
-    # check each example EN translation
     for k in (5, 7, 9):
         v = f[k].strip() if k < len(f) else ""
-        if not v:                     # missing EN
+        if not v:                         # missing EN
             return True
-        # pinyin leak (accented pinyin syllables) — simple: any pinyin diacritics
-        # in a short-ish string is suspicious; regenerate on ambiguity
-        if PINYIN_RE.search(v):
-            return True
-        # tiny fragment (not a complete short English word like "Go." which is 3)
-        if len(v) < 4 and v[-1] not in ".!?":
-            return True
-        # contains digits or tabs (garbage)
+        # garbage: digits or tabs (e.g. '2\tsb.')
         if re.search(r"\d|\t", v):
             return True
-        # truncated: a long EN translation cut off without terminal punctuation
-        if len(v) > 12 and v[-1] not in '.!?…"\u2019\u201d':
+        TERMINAL = ".!?…\"”“'"
+        # short fragment with no terminal punct (fragments: 'uan','nr','u de',
+        # 'OK.'/'Go.' end in punct and are real short English)
+        if len(v) < 6 and v[-1] not in TERMINAL:
+            return True
+        # pinyin leak: accented + short (genuine leaks are <40 chars; café/déjà vu
+        # only appear inside longer English sentences, which stay clean)
+        if PINYIN_RE.search(v) and len(v) < 40:
+            return True
+        # truncated: long translation cut off with no terminal punctuation
+        if len(v) > 12 and v[-1] not in TERMINAL:
             return True
     # Pleco-dump meaning
     m = f[1].strip() if len(f) > 1 else ""
