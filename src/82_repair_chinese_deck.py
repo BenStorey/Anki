@@ -92,22 +92,40 @@ def check_anki_closed():
 
 
 def is_affected(f):
-    """Return True if the note's 12 fields show a repair-worthy defect."""
+    """Return True if the note's fields show a defect we want to regenerate.
+
+    User guidance: re-generating a few hundred borderline cards is FINE. So we
+    deliberately err toward over-inclusion — we'd rather regenerate a healthy
+    card than leave a broken example translation.
+    """
     if len(f) < 12:
         return True
     # missing ALL example sentence sets
     if not f[4].strip() and not f[6].strip() and not f[8].strip():
         return True
-    # any Ex_EN is pinyin or a tiny fragment (<2 chars)
+    # check each example EN translation
     for k in (5, 7, 9):
         v = f[k].strip() if k < len(f) else ""
-        if v and (PINYIN_RE.search(v) or len(v) < 2):
+        if not v:                     # missing EN
+            return True
+        # pinyin leak (accented pinyin syllables) — simple: any pinyin diacritics
+        # in a short-ish string is suspicious; regenerate on ambiguity
+        if PINYIN_RE.search(v):
+            return True
+        # tiny fragment (not a complete short English word like "Go." which is 3)
+        if len(v) < 4 and v[-1] not in ".!?":
+            return True
+        # contains digits or tabs (garbage)
+        if re.search(r"\d|\t", v):
+            return True
+        # truncated: a long EN translation cut off without terminal punctuation
+        if len(v) > 12 and v[-1] not in '.!?…"\u2019\u201d':
             return True
     # Pleco-dump meaning
     m = f[1].strip() if len(f) > 1 else ""
     if ("LITERARY" in m or m[:1].isdigit() or "\t" in m or re.search(r"\d[^ ]", m)):
         return True
-    # generic boilerplate nuance (the model didn't really explain this word)
+    # generic boilerplate nuance (model didn't explain this word)
     ne = (f[10] if len(f) > 10 else "").lower()
     if "commonly used as a " in ne:
         return True
