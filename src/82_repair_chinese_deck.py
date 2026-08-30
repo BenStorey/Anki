@@ -46,7 +46,9 @@ API_KEY = next(
     None)
 MODEL = "deepseek/deepseek-v4-flash"
 URL = "https://openrouter.ai/api/v1/chat/completions"
-CHUNK = 20    # words per API call (proven reliable for CJK output)
+CHUNK = 10    # words per API call. Keep small: whole-chunk (0/20) parse failures at
+              # 20 words showed truncation — shorter prompts parse cleanly far more often,
+              # so fewer retries despite more calls.
 BATCH = 100   # words per prompt batch file
 
 SYSTEM = """You produce Mandarin (Simplified Chinese) vocabulary flashcards for a learner.
@@ -270,11 +272,19 @@ def main():
             if not e or not e.get("meaning"):
                 continue
             old = conn.execute("SELECT flds FROM notes WHERE id=?", (nid,)).fetchone()[0].split(chr(31))
-            new_flds = chr(31).join([
+            # Build the base 12 CN Enhanced fields then pad to the model's LIVE
+            # field count (13, incl. Image) so we never produce a wrong-field-count
+            # note that would trip Check Database / risk sync.
+            new_fields = [
                 old[0], e.get("meaning", ""), old[2], "",
                 e.get("ex1", ""), e.get("ex1_en", ""), e.get("ex2", ""), e.get("ex2_en", ""),
                 e.get("ex3", ""), e.get("ex3_en", ""), e.get("nuance_en", ""), e.get("nuance_cn", ""),
-            ])
+            ]
+            # pad to the model's current field count (currently 13 with Image)
+            expected = len(conn.execute("SELECT 1 FROM fields WHERE ntid=?", (ENHANCED_MID,)).fetchall())
+            while len(new_fields) < expected:
+                new_fields.append("")
+            new_flds = chr(31).join(new_fields)
             conn.execute("UPDATE notes SET flds=?, mod=?, usn=-1 WHERE id=?", (new_flds, now, nid))
             conn.execute("UPDATE cards SET mod=?, usn=-1 WHERE nid=?", (now, nid))
             review.append((w, old[1], new_flds.split(chr(31))[1]))
