@@ -38,6 +38,10 @@ COLLECTION = Path(os.environ.get("ANKI_COLLECTION", HOME / "snap/anki-desktop/co
 ROOT = Path(os.environ.get("SINOKOREAN_ROOT", HOME / "dev/sino-korean"))
 BACKUP_DIR = ROOT / "backups"
 DATA_DIR = ROOT / "data/sentences_raw"
+# Set in main() to a per-run timestamped subdir so NO LLM output is ever
+# overwritten/lost across runs (all prompts+outputs preserved for comparison
+# or reuse). Shared by main() and generate_batch().
+RUN_DIR = None
 API_KEY = next((l.split("=", 1)[1].strip().strip('"').strip("'")
                 for l in open(HOME / ".hermes" / ".env")
                 if l.startswith("OPENROUTER_API_KEY=")), None)
@@ -223,7 +227,8 @@ def render(words, entries):
 
 
 def generate_batch(idx, total, cfg, words):
-    out_dir = DATA_DIR / cfg["out_subdir"]
+    # write outputs into this run's preserved dir (never clobber earlier runs)
+    out_dir = RUN_DIR if RUN_DIR else DATA_DIR / cfg["out_subdir"]
     of = out_dir / f"{cfg['out_prefix']}_{idx:03d}_of_{total:03d}.txt"
     if of.exists() and of.read_text(errors="replace").count("===word:") >= len(words):
         print(f"[{idx}] already done", flush=True)
@@ -313,10 +318,14 @@ def get_make_furigana():
 
 
 def migrate(cfg, new_rows):
-    # parse all out files -> {word: fields}
+    # parse ALL out files (current + every preserved historical run) -> {word: fields}
+    # Later runs override earlier ones (dict.update order = newest read last), but
+    # old outputs are never deleted and remain reusable for comparison.
     llm = {}
-    out_dir = DATA_DIR / cfg["out_subdir"]
-    for of in sorted(out_dir.glob(f"{cfg['out_prefix']}_*.txt")):
+    out_base = DATA_DIR / cfg["out_subdir"]
+    for of in sorted(out_base.glob(f"{cfg['out_prefix']}_*.txt")):
+        llm.update(parse_blocks(of.read_text(errors="replace")))
+    for of in sorted(out_base.glob(f"runs/*/{cfg['out_prefix']}_*.txt")):
         llm.update(parse_blocks(of.read_text(errors="replace")))
 
     conn = sqlite3.connect(str(COLLECTION)); conn.create_collation("unicase", unicase)
@@ -384,18 +393,19 @@ def main():
 
     make_backup()
 
-    # write prompt batches
-    out_dir = DATA_DIR / cfg["out_subdir"]
-    out_dir.mkdir(parents=True, exist_ok=True)
-    for f in out_dir.glob(f"{cfg['prompt_prefix']}_*.txt"):
-        f.unlink()
+    # write prompt batches into a per-run dir (LLM output is preserved forever;
+    # we never delete prior runs' files — they're useful for comparison/reuse)
+    global RUN_DIR
+    stamp = time.strftime("%Y%m%d_%H%M%S")
+    RUN_DIR = DATA_DIR / cfg["out_subdir"] / "runs" / stamp
+    RUN_DIR.mkdir(parents=True, exist_ok=True)
     n_batches = (len(words) + BATCH_SIZE - 1) // BATCH_SIZE
     for i in range(0, len(words), BATCH_SIZE):
         b = i // BATCH_SIZE + 1
         chunk = words[i:i + BATCH_SIZE]
         lines = [f"{w}|{r}" for w, r, _m in chunk]
-        (out_dir / f"{cfg['prompt_prefix']}_{b:03d}_of_{n_batches:03d}.txt").write_text("\n".join(lines), encoding="utf-8")
-    print(f"  Wrote {n_batches} prompt batch(es) -> {out_dir}")
+        (RUN_DIR / f"{cfg['prompt_prefix']}_{b:03d}_of_{n_batches:03d}.txt").write_text("\n".join(lines), encoding="utf-8")
+    print(f"  Wrote {n_batches} prompt batch(es) -> {RUN_DIR}")
 
     # generate (sequential; for large batches run parallel ranges manually)
     for b in range(1, n_batches + 1):

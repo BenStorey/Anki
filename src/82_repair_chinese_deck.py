@@ -197,14 +197,14 @@ def main():
     print(f"  Backup: {backup}")
 
     # 3. write prompt batches (word|pinyin ONLY).
-    #    Clear BOTH old prompt AND old out files: the affected set + batch layout
-    #    changes between runs, so a stale out_*.txt (from an earlier repair) would
-    #    wrongly count as "already done" against a different prompt. Start fresh.
-    OUT_DIR.mkdir(parents=True, exist_ok=True)
-    for f in OUT_DIR.glob("prompt_*.txt"):
-        f.unlink()
-    for f in OUT_DIR.glob("out_*.txt"):
-        f.unlink()
+    #    Write into a fresh per-run subdir so NO LLM output is ever lost —
+    #    every run's prompts + outputs are preserved forever (useful for
+    #    comparing a card across runs to spot consistent problems, or reusing
+    #    an old output to recreate a card). We NEVER delete old out files;
+    #    the "already done" check below only applies within this run's dir.
+    stamp = time.strftime("%Y%m%d_%H%M%S")
+    RUN_DIR = OUT_DIR / "runs" / stamp
+    RUN_DIR.mkdir(parents=True, exist_ok=True)
     items = list(affected.items())
     n_batches = (len(items) + BATCH - 1) // BATCH
     batch_plan = {}
@@ -213,9 +213,10 @@ def main():
         chunk = items[i:i + BATCH]
         lines = [f"{info['word']}|{info['pinyin']}" for _nid, info in chunk]
         batch_plan[b] = [(nid, info["word"], info["pinyin"]) for nid, info in chunk]
-        (OUT_DIR / f"prompt_{b:03d}_of_{n_batches:03d}.txt").write_text(
+        (RUN_DIR / f"prompt_{b:03d}_of_{n_batches:03d}.txt").write_text(
             "\n".join(lines), encoding="utf-8")
-    print(f"  Wrote {n_batches} prompt batch(es) -> {OUT_DIR}")
+    print(f"  Wrote {n_batches} prompt batch(es) -> {RUN_DIR}")
+    print(f"  (all runs preserved under {OUT_DIR / 'runs'})")
 
     # 4. generate + patch in place
     now = int(time.time() * 1000)
@@ -225,8 +226,8 @@ def main():
     patched = 0
     review = []
     for b in sorted(batch_plan):
-        of = OUT_DIR / f"out_{b:03d}_of_{n_batches:03d}.txt"
-        plines = (OUT_DIR / f"prompt_{b:03d}_of_{n_batches:03d}.txt").read_text(
+        of = RUN_DIR / f"out_{b:03d}_of_{n_batches:03d}.txt"
+        plines = (RUN_DIR / f"prompt_{b:03d}_of_{n_batches:03d}.txt").read_text(
             encoding="utf-8").splitlines()
         want = len(plines)
         if of.exists() and of.read_text(errors="replace").count("===word:") >= want:
@@ -293,8 +294,8 @@ def main():
     conn.commit(); conn.close()
     print(f"  Patched {patched} notes in place (cards stayed in deck)")
 
-    # 5. review export
-    rv = OUT_DIR / "review_after.txt"
+    # 5. review export (into this run's dir)
+    rv = RUN_DIR / "review_after.txt"
     with open(rv, "w", encoding="utf-8") as fh:
         fh.write("WORD\tOLD_MEANING\tNEW_MEANING\n")
         for w, oldm, newm in review:
