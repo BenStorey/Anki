@@ -1,0 +1,311 @@
+WORD	OLD_MEANING	NEW_MEANING
+下课	Finish class	class finishes
+上课	Start class	attend class
+加油站	gas station, petrol station	gas station
+关门了	Closed	is closed
+药房	Pharmacy / Drugstore	pharmacy
+会	meeting	can, be able to
+超市	Supermarket	supermarket
+左拐	turn left	turn left
+电器店	electronics store, appliance shop	electronics store
+从	from (place, time)	from
+东	east	east
+丢	Lose	lose, throw
+第一声	first tone	first tone
+加班	Work overtime	work overtime
+公寓	Apartment building	apartment
+高	tall; high	high, tall
+会议	Meeting, conference	meeting, conference
+以上	More than, above, the above (preceding)	above, more than
+时差	time difference, jet lag	time difference
+球场	court, field, pitch	ball field, court
+打折	discount, sale, give a discount	discount, to give a discount
+最后次	last/final time	last time, final occasion
+家庭	Family / Household	family, household
+提供	provide, supply, offer	provide, supply
+秒	second	second (unit of time)
+出生	To be born; birth	be born
+缴房租	to pay rent	pay rent
+纸币	Paper money, banknote	paper money, banknote
+小费	Tip (gratuity)	tip, gratuity
+结束	end, finish, conclude	end, finish, conclude
+开放	To open, to lift a ban, to come into bloom	open, open up, liberalized
+超过	To surpass, to exceed, to overtake	exceed, surpass, overtake
+青年	Youth	youth, young adult
+克	gram	gram (unit of weight)
+地震	earthquake	earthquake
+公里	kilometer	kilometer
+世纪	Century	century
+公分	centimeter	centimeter
+力量	strength, power, force, ability	strength, power
+线	string, thread, wire, line	line, thread, wire
+亿	hundred million	hundred million
+先进	advanced, developed, role model	advanced, progressive
+并且	and, besides, moreover	and, moreover
+美元	US dollar	US dollar
+妇女	Woman	woman, women
+紧急	urgent, critical	urgent, emergency
+排	to arrange, to put in order; counter for lines or rows	row, line; to arrange; to exclude
+翻	turn over, search	to turn over, to flip, to translate
+集合	gather, assemble	to gather, assemble
+集	market, fair; collect; counter for volumes	to gather, collection; volume
+发烧	have a fever	have a fever
+耳机	earphones, headphones	earphones, headphones
+农贸市场	farmers market, wet market	farmers' market, wet market
+U盘	USB flash drive	USB flash drive
+笔试	written exam	written exam
+口试	oral exam / spoken test	oral exam
+记住	remember, learn by heart	to remember
+身高	height (of a person)	height (of a person)
+原价	original price	original price
+单人间	single room	single room
+车牌号	license plate number (of a vehicle)	license plate number
+去世	die, pass away	to pass away
+祝贺	To congratulate	to congratulate
+容积	volume, capacity (of a container)	volume (capacity)
+猛增	Sharp increase	to surge sharply
+统治	to govern, rule (a country)	to rule, dominate
+强度	Intensity	intensity, strength
+特此	hereby, especially for this purpose	hereby, specially
+黄油	Butter	butter
+厘米	centimeter	centimeter
+共产党	the Communist Party	Communist Party
+未婚夫	fiancé	fiancé
+首付	Down payment	down payment
+起码	at the minimum, at the very least	at least; minimum
+调节	Adjust, regulate	adjust; regulate
+月球	the moon (celestial body)	the moon
+监狱	Prison, jail	prison; jail
+电压	Voltage	voltage
+加仑	Gallon	gallon
+海拔	height above sea level	altitude; elevation
+时速	speed per hour, kilometers per hour	speed per hour
+限速	speed limit	speed limit
+赛跑	Running race	race running
+碰头	To meet / to bump heads	meet up
+像素	pixel	pixel
+客机	Passenger plane	passenger plane
+高度	Altitude, height	height/altitude
+分成	To divide (into); to split; share/commission	divide into / share
+温度计	Thermometer	thermometer
+历史上	In history	in history
+班车	shuttle bus	shuttle bus
+台湾本岛	Taiwan mainland, Taiwan Island	Taiwan proper
+汇合	meet, rendezvous, merge, link up	converge, meet
+选票	vote, ballot	ballot, vote
+土星	Saturn (planet)	Saturn
+检票口	ticket gate	ticket gate
+老套	old-fashioned, cliché	stereotypical, clichéd
+相距	Be apart; be separated by	apart, separated by
+护理	nurse; care for	nursing, care
+行驶	To travel (vehicles)	drive, travel (by vehicle)
+优惠券	coupon	coupon, discount voucher
+氧	oxygen	oxygen
+权限	Limits to authority, scope of jurisdiction	authority, permission, access rights
+增幅	Growth rate / Amplification	growth rate, increase amplitude
+二进制	Binary system	binary system
+读数	reading (from meter)	reading (on a meter or instrument)
+英寸	inch	inch (unit of length)
+酒精	alcohol; ethanol	alcohol, ethanol
+比分	score (of a match)	score (in a game)
+营业	do business, operate (a business)	to do business, to be open (for business)
+折扣	discount, reduction in price	discount
+减价	reduce price, mark down, discount	price reduction
+三角形	triangle (shape)	triangle
+解散	disband, dissolve, dismiss (a group, meeting, or organization)	dissolve
+新台币	New Taiwan Dollar (NTD)	New Taiwan Dollar
+再现	To recreate, reproduce, reappear	reappear
+今日	today	today
+宣战	declare war	declare war
+沸腾	Boiling	boil
+华氏	Fahrenheit	Fahrenheit
+暴跌	steep fall, crash (in price/stock)	sharp drop, crash
+人体	human body	human body
+销售额	sales figure, total income from sales, turnover	sales revenue
+奥运会	the Olympics	Olympic Games
+宫殿	palace	palace
+吞吐	To take in and send out in large quantities, throughput	throughput; handle (of a port/company)
+请帖	Invitation card; written invitation	invitation card
+捐赠	To donate; to contribute (as a gift); benefaction	donate
+请柬	Invitation card	invitation (formal)
+熄灯	lights out; to turn off the lights	lights out; turn off the lights
+生效	To go into effect / to take effect	take effect, become effective
+柜台	Counter, Front desk, Bar	counter, shop counter
+跌进	fall into, dip below	fall into, tumble into
+近代	modern times (19th-20th c.)	modern times, recent era
+收益	Earnings, profits, returns	profit, yield, return
+变压器	transformer (electrical)	transformer (electrical)
+牌价	list price, posted price, official price	listed price, market price
+增产	to increase production	increase production
+高低	height, altitude, pitch (music), level	height, level, relative stature
+下岗	Laid off, unemployed (due to restructuring)	laid off, become unemployed
+油箱	Fuel tank	fuel tank
+毫米	millimeter	millimeter
+温习	Review, revise (studies)	review
+骨架	skeleton; framework	skeleton, framework
+众人	everyone, all people, the crowd	everyone, many people
+标枪	Javelin	javelin
+攀升	To rise or climb up	rise, climb
+毛重	gross weight	gross weight
+净重	net weight	net weight
+为止	up to, until	until, up to
+索赔	Claim damages	claim compensation
+创建	found, establish	create, establish
+一律	uniformly; without exception	uniformly, without exception
+锐减	plummet; drop sharply	sharp decrease
+诞生	be born; emerge; come into being	be born, come into being
+一言为定	That's settled	it's a deal
+约定	agreement, appointment	agreement, appointment
+值守	be on duty; stand guard	be on duty, keep watch
+停靠	stop and berth, dock	dock, pull in (to a stop)
+冲刺	sprint; final push	sprint, final push
+抽奖	draw lots; lottery	lottery, prize draw
+二次元	anime/manga world, 2D	two-dimensional, anime/manga world
+报到	Report for duty	report (for duty), check in
+脑壳	skull; head (dialect)	head (brain case), skull
+参见	to have an audience with; cf.; see also	refer to, see (also), pay respects
+抽成	take a cut, commission	take a cut, commission
+图鉴	illustrated handbook	illustrated guide, picture book
+倍率	magnifying power	magnification, multiplier, ratio
+限定	limit; restrict	limited, restricted, exclusive
+大致	roughly; approximately	roughly, approximately, generally
+建模	modeling (computing)	modeling
+既视感	déjà vu	déjà vu
+通商	to engage in trade; to establish commercial relations	trade relations
+过时不候	no waiting after the set time	no waiting after deadline
+时薪	hourly wage	hourly wage
+待命	Await orders, stand by	on standby
+复古	retro, vintage	retro style
+距今	dating back to, ago	ago (from now)
+悬赏	offer a reward	bounty reward
+弹匣	magazine (ammunition clip)	ammunition magazine
+效能	efficiency, efficacy, performance	efficiency, effectiveness
+会面	to meet; to have a meeting	meet, meeting
+婆娘	woman, wife (dialect)	wife, woman (colloquial)
+心腹	trusted subordinate, confidant	trusted aide, close confidant
+炮塔	gun turret	gun turret
+桥段	plot device; cliché; scene	plot device, trope, scene (in a story)
+总价	total price, total cost	total price, total cost
+监控	monitor; surveillance	monitor, surveillance
+限额	quota; limit	quota, limit
+顺带一提	by the way; incidentally	by the way, incidentally
+赏金	money reward; pecuniary reward	reward money
+狱警	prison guard; jailer	prison guard
+食欲	appetite	appetite
+预计	to estimate; to predict	estimate, anticipate
+领跑	lead the pack; set the pace; be at the forefront	lead the race
+积分	points; accumulated score; to accumulate points	points, credits
+提纯	purify; refine	purify, refine
+戒严	to impose martial law; to enforce a curfew or emergency measures	impose martial law
+筹集	raise; collect funds	raise (funds), collect
+足足	a full; a whole; no less than	fully, as much as
+解体	to disintegrate; to break up; to decompose	disintegrate, break up, collapse
+开张	to open a business; to begin doing business; debut	open for business, start operations
+滚蛋	get lost, go away (rude)	get out, piss off, scram
+老子	Laozi; "your father"	I, me (arrogant or informal tone); old man
+届时	at the appointed time	at that time, when the time comes
+俗套	cliché, convention	cliché, conventional pattern, hackneyed formula
+探头	to poke one's head out; to look around	poke one's head out, stretch one's head to look
+气喘吁吁	panting heavily	out of breath, panting heavily
+销量	sales volume	sales volume, units sold
+功率	NOUN PHYSICS power	(power) output, wattage, power rating
+存折	deposit book; bankbook	bank passbook
+霹雳舞	breakdancing; breaking	breakdance
+磁浮	maglev; magnetic levitation	maglev (magnetic levitation)
+摩天大楼	skyscraper	skyscraper
+蛮荒	barbarous and remote	savage; wild; uncivilized
+盛极一时	to flourish for a time; to enjoy a period of great popularity	be in vogue for a time; flourish for a period
+露天	outdoor; open-air	open-air; outdoor
+东道主	host (of an event or venue)	host (country/organizer)
+截至	up to, as of, by	by (a deadline); up to
+心率	heart rate	heart rate
+可口	delicious; savory; tasty; palatable	tasty, delicious
+降幅	magnitude of decrease; decline	rate of decrease, decline range
+萌芽	rudiment; shoot; seed; germ	sprout, germinate; beginning
+流量	flow rate, traffic, volume	flow rate, traffic, data usage
+邮编	zip code, postcode	postal code, zip code
+棵	[usu. for plants]	measure word for plants/trees
+庸俗	vulgar; philistine; low	vulgar, philistine, tacky
+指南针	compass	compass
+专程	special trip	specially, on purpose (for a trip)
+航站楼	terminal (airport)	terminal (airport)
+优盘	USB flash drive; USB disk	USB flash drive
+后遗症	sequelae; after-effect; aftermath	aftereffects, sequelae
+猎豹	Cheetah	cheetah
+问卷	questionnaire; survey form	questionnaire
+民警	civilian police, police officer	police officer (civilian)
+股权	stock ownership; equity	equity, stock rights
+覆盖率	coverage rate	coverage rate
+入账	enter an item in an account; earn; get money	enter into account, record income
+案发	occurrence of a case	crime occurs, case happens
+分账	split revenue; profit sharing	split accounts, share proceeds
+礼金	cash gift, monetary gift	gift money (cash gift)
+晚点	late; behind schedule	late, delayed
+充电宝	portable charger, power bank	power bank (portable charger)
+毛利	gross profit	gross profit
+海平面	sea level	sea level
+纯利润	net profit	net profit
+相较	compared to; in comparison with	compared to, in comparison
+天公	Heaven; God of Heaven; nature	Heaven, God of Heaven
+思潮	current of thought; ideological trend; wave of thinking	trend of thought, ideological trend
+谐音	homophone; similar pronunciation	homophone, phonetic similarity
+可乐饼	croquette (Japanese-style)	croquette
+胚子	embryo; (pejorative) person	blank, raw material, potential
+缓过劲儿来	to catch one's breath; to recover one's strength; to regain composure	to recover
+宵禁	Curfew	curfew
+跌破	to fall below; to drop under; to break (a threshold)	fall below
+杀敌	kill the enemy	kill the enemy
+干透	completely dry; dried through	completely dry
+飙	speed, rush, surge	surge, speed
+硬拉	deadlift (weightlifting)	deadlift
+刮目相看	view in a new light; be impressed by improvement	to see in a new light
+弧度	radian; curvature; arc	radian (unit of angle)
+数组	array (programming)	array (data structure)
+房贷	mortgage; housing loan	mortgage (home loan)
+酸碱值	pH value	pH value
+随时待命	be on standby at all times; be ready for action anytime	on standby / ready at any time
+分贝	decibel (dB)	decibel (unit of sound intensity)
+千米	kilometer	kilometer
+腰围	waist measurement, waistline	waist circumference / waist size
+祭坛	Altar; sacrificial platform	altar (religious)
+急诊	emergency treatment, ER	emergency (medical) / emergency room / emergency treatment
+网咖	internet café, cybercafé	internet café
+峰会	Summit meeting; summit	summit meeting
+绝代佳人	woman of matchless beauty; great beauty	unparalleled beauty
+波折	twists and turns	twists and turns
+画卷	1 picture scroll 2 magnificent scenery or stirring battle scene	scroll painting
+蓝图	1 blueprint	blueprint
+天价	price as high as heaven; extremely high price	sky-high price
+服药	take medicine	take medicine
+执勤	be on duty	be on duty
+使眼色	tip sb. the wink; wink at sb.; meaningful glance	give a wink
+白送	give away free (of charge)	give away for free
+隐形	invisible; hidden	invisible, hidden
+呢绒	woollen goods; wool fabric	woolen fabric
+伐木	lumber; fell; cut down trees	lumbering, logging
+营火	campfire	campfire
+沙丁鱼	ICHTHYOLOGY sardine; sardelle	sardine
+合眼	1 close one's eyes; sleep	close one's eyes; fall asleep
+靶心	centre of a target; bull's-eye	bullseye
+校准	MECHANICS calibrate; adjust	calibrate, adjust
+雷厉风行	with the power of a thunderbolt and the speed of lightning—(carry out orders, policies, etc.) vigorously and speedily; vigorously and resolutely	vigorous and swift
+骨骼	skeleton; bone structure	skeleton, bones
+订金	deposit, down payment	deposit (payment)
+时髦	fashionable; stylish; in vogue	fashionable, trendy
+甲方	party A (in a contract) (cf. yǐfāng [	Party A (contract)
+收盘价	closing price (of stocks)	closing price (stock)
+收盘	to close (the market); to end a trading session	close (market), end of trading
+耐磨	(of metals, etc.) wear-resistant; wearproof	wear-resistant, durable
+一概而论	[usu. in the negative] treat (different matters) as the same	lump together, treat as the same
+民脂民膏	flesh and blood of the people	people's hard-earned wealth
+乐呵呵	COLLOQUIAL buoyant; happy and gay	cheerful, happy (manner)
+内存	RAM; memory	computer memory, RAM
+单元	unit	unit, module, cell
+卧推	bench press	bench press (exercise)
+宝塔	NOUN pagoda	pagoda, tower
+闯荡	VERB make a living away from home; venture out into the world	venture out, make one's way
+禁毒	VERB ban drugs; anti-drugs efforts	drug prohibition, anti-drug
+飓风	NOUN hurricane	hurricane, typhoon
+左撇子	NOUN left-handed person; lefty	left-handed person
+塔罗牌	tarot card	tarot cards
+脊椎	spinal column; vertebra	spine, vertebra

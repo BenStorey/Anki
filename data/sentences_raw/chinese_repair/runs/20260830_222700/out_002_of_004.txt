@@ -1,0 +1,1099 @@
+===word: 优惠券===
+Meaning: coupon, discount voucher
+Nuance_EN: Refers to a ticket or code that gives a discount or special offer, commonly used in shopping or dining.
+Nuance_CN: 指可以享受折扣或优惠的凭证，常见于购物、餐饮等消费场景。
+Example1: 我有一张八折优惠券，可以省不少钱。
+Example1_EN: I have a 20% off coupon, which can save a lot of money.
+Example2: 这个优惠券明天就过期了，你赶紧用吧。
+Example2_EN: This coupon expires tomorrow, so use it quickly.
+Example3: 在网上购物时，别忘了使用优惠券。
+Example3_EN: When shopping online, don't forget to use the coupon.
+
+===word: 氧===
+Meaning: oxygen
+Nuance_EN: A chemical element essential for respiration; often used in medical or scientific contexts.
+Nuance_CN: 一种化学元素，是呼吸作用必需的气体，常用于医疗或科学领域。
+Example1: 病人需要吸氧来维持呼吸。
+Example1_EN: The patient needs to inhale oxygen to maintain breathing.
+Example2: 氧气是地球上生命存在的重要条件。
+Example2_EN: Oxygen is an important condition for life on Earth.
+Example3: 登山时，高海拔地区氧气稀薄。
+Example3_EN: When climbing mountains, oxygen is thin at high altitudes.
+
+===word: 权限===
+Meaning: authority, permission, access rights
+Nuance_EN: Refers to the right or power to do something, often used in computer systems or organizational settings.
+Nuance_CN: 指做某事的权利或权力，常用于计算机系统或组织管理中。
+Example1: 你没有权限访问这个文件夹。
+Example1_EN: You do not have permission to access this folder.
+Example2: 管理员可以修改用户的权限设置。
+Example2_EN: The administrator can modify the user's permission settings.
+Example3: 这个职位拥有审批预算的权限。
+Example3_EN: This position has the authority to approve budgets.
+
+===word: 增幅===
+Meaning: growth rate, increase amplitude
+Nuance_EN: Refers to the amount or rate of increase, often used in economic or statistical contexts.
+Nuance_CN: 指增长的数量或比率，常用于经济或统计领域。
+Example1: 今年公司的利润增幅达到了百分之二十。
+Example1_EN: This year, the company's profit growth rate reached 20%.
+Example2: 房价的增幅过快，引起了政府的关注。
+Example2_EN: The rapid increase in housing prices has attracted the government's attention.
+Example3: 我们需要分析销售额的增幅趋势。
+Example3_EN: We need to analyze the growth trend of sales.
+
+===word: 二进制===
+Meaning: binary system
+Nuance_EN: A number system with base 2, using digits 0 and 1, fundamental to computing.
+Nuance_CN: 以2为基数的数制，使用0和1两个数字，是计算机科学的基础。
+Example1: 计算机内部使用二进制来表示数据。
+Example1_EN: Computers use binary internally to represent data.
+Example2: 二进制数1010等于十进制数10。
+Example2_EN: The binary number 1010 equals the decimal number 10.
+Example3: 学习二进制有助于理解计算机的工作原理。
+Example3_EN: Learning binary helps understand how computers work.
+
+===word: 读数===
+Meaning: reading (on a meter or instrument)
+Nuance_EN: The number shown on a measuring device, such as a thermometer, speedometer, or electricity meter.
+Nuance_CN: 测量仪器上显示的数字，如温度计、速度表或电表上的读数。
+Example1: 请记录下电表上的读数。
+Example1_EN: Please record the reading on the electricity meter.
+Example2: 温度计的读数显示今天有三十八度。
+Example2_EN: The thermometer reading shows 38 degrees today.
+Example3: 每次加油前，先记下里程表的读数。
+Example3_EN: Before each refueling, note down the odometer reading.
+
+===word: 英寸===
+Meaning: inch (unit of length)
+Nuance_EN: A unit of length equal to 2.54 cm, commonly used for screen sizes, etc.
+Nuance_CN: 长度单位，等于2.54厘米，常用于表示屏幕尺寸等。
+Example1: 这台电视的屏幕是五十五英寸的。
+Example1_EN: This TV has a 55-inch screen.
+Example2: 他的身高是六英尺两英寸。
+Example2_EN: His height is six feet two inches.
+Example3: 请测量一下这块木板的长度，单位是英寸。
+Example3_EN: Please measure the length of this board in inches.
+
+===word: 酒精===
+Meaning: alcohol, ethanol
+Nuance_EN: Refers to ethanol, used in beverages, disinfectants, and fuels. Also colloquially for alcoholic drinks.
+Nuance_CN: 指乙醇，用于饮料、消毒剂和燃料。也口语中指含酒精的饮品。
+Example1: 医用酒精可以用来消毒伤口。
+Example1_EN: Medical alcohol can be used to disinfect wounds.
+Example2: 他因为喝了太多酒精而头痛。
+Example2_EN: He had a headache because he drank too much alcohol.
+Example3: 这种清洁剂含有酒精成分。
+Example3_EN: This cleaner contains alcohol.
+
+===word: 比分===
+Meaning: score (in a game)
+Nuance_EN: The numerical result of a competition, such as in sports or games.
+Nuance_CN: 比赛中的得分结果，如体育比赛或游戏中的分数。
+Example1: 比赛结束时，比分是三比二。
+Example1_EN: At the end of the match, the score was 3 to 2.
+Example2: 上半场的比分是零比零。
+Example2_EN: The score at halftime was 0-0.
+Example3: 他们以悬殊的比分赢得了比赛。
+Example3_EN: They won the game by a landslide score.
+
+===word: 营业===
+Meaning: to do business, to be open (for business)
+Nuance_EN: Refers to a business being open and operating, or the act of conducting business.
+Nuance_CN: 指商店或公司开门运营，或进行商业活动。
+Example1: 这家商店每天上午九点开始营业。
+Example1_EN: This store opens for business at 9 a.m. every day.
+Example2: 春节期间，很多餐厅暂停营业。
+Example2_EN: During the Spring Festival, many restaurants suspend business.
+Example3: 公司今年的营业利润比去年高。
+Example3_EN: The company's operating profit this year is higher than last year.
+
+===word: 折扣===
+Meaning: discount
+Nuance_EN: Refers to a price reduction, often expressed as a percentage off the original price. Common in shopping and retail contexts.
+Nuance_CN: 指商品原价基础上的降价，通常以百分比表示，广泛用于购物和商业场景。
+Example1: 这家商店所有商品都打八折。
+Example1_EN: All items in this store are 20% off.
+Example2: 折扣季到了，我买了很多东西。
+Example2_EN: The discount season has arrived, so I bought a lot of things.
+Example3: 会员可以享受额外折扣。
+Example3_EN: Members can enjoy an additional discount.
+
+===word: 减价===
+Meaning: price reduction
+Nuance_EN: A general term for lowering a price, often used in sales or promotions. It can be a specific amount or percentage off.
+Nuance_CN: 指降低价格，常用于促销或清仓场合，可以是具体金额或百分比。
+Example1: 这家超市每周都有减价商品。
+Example1_EN: This supermarket has price-reduced items every week.
+Example2: 因为过季，这些衣服都减价处理。
+Example2_EN: These clothes are being sold at a reduced price because they are out of season.
+Example3: 减价活动只持续三天。
+Example3_EN: The price reduction promotion only lasts for three days.
+
+===word: 三角形===
+Meaning: triangle
+Nuance_EN: A three-sided polygon; used in geometry and everyday descriptions of shapes. Neutral and technical term.
+Nuance_CN: 指有三条边的多边形，用于几何学和日常形状描述，属于中性术语。
+Example1: 这个三角形有三个角。
+Example1_EN: This triangle has three angles.
+Example2: 我们画了一个等边三角形。
+Example2_EN: We drew an equilateral triangle.
+Example3: 三角形的面积等于底乘以高除以二。
+Example3_EN: The area of a triangle equals base times height divided by two.
+
+===word: 解散===
+Meaning: dissolve
+Nuance_EN: To break up or dismiss a group, organization, or gathering. Can be formal (e.g., a committee) or casual (e.g., a crowd).
+Nuance_CN: 指使团体、组织或集会结束，可以用于正式场合（如委员会）或非正式场合（如人群）。
+Example1: 公司董事会决定解散。
+Example1_EN: The company’s board of directors decided to dissolve.
+Example2: 会议结束后，大家就解散了。
+Example2_EN: After the meeting ended, everyone dispersed.
+Example3: 军队被下令立即解散。
+Example3_EN: The army was ordered to disband immediately.
+
+===word: 新台币===
+Meaning: New Taiwan Dollar
+Nuance_EN: The official currency of Taiwan (Republic of China). Abbreviated as TWD or NT$. Used in financial and economic contexts.
+Nuance_CN: 台湾地区的官方货币，简称台币或NT$，用于金融和经济领域。
+Example1: 我用新台币支付了这顿饭。
+Example1_EN: I paid for this meal with New Taiwan Dollars.
+Example2: 新台币对人民币的汇率是多少？
+Example2_EN: What is the exchange rate between the New Taiwan Dollar and the Chinese Yuan?
+Example3: 这家商店只收新台币。
+Example3_EN: This store only accepts New Taiwan Dollars.
+
+===word: 再现===
+Meaning: reappear
+Nuance_EN: To appear again or be recreated; often used for events, scenes, or phenomena. Slightly formal or literary.
+Nuance_CN: 指再次出现或重现，常用于事件、场景或现象，带有一定书面色彩。
+Example1: 这一历史场景将在电影中再现。
+Example1_EN: This historical scene will be recreated in the movie.
+Example2: 奇迹很难再现。
+Example2_EN: Miracles are hard to replicate.
+Example3: 他的才华在比赛中再次再现。
+Example3_EN: His talent reappeared in the competition once again.
+
+===word: 今日===
+Meaning: today
+Nuance_EN: Refers to the current day; used in both formal and informal contexts, often in news or schedules.
+Nuance_CN: 指今天，用于正式或非正式场合，常见于新闻或日程安排。
+Example1: 今日天气晴朗，适合出游。
+Example1_EN: The weather is sunny today, perfect for going out.
+Example2: 今日的会议取消了。
+Example2_EN: Today’s meeting has been cancelled.
+Example3: 他今日就要离开这里。
+Example3_EN: He is leaving here today.
+
+===word: 宣战===
+Meaning: declare war
+Nuance_EN: To formally announce the start of a war. Used literally in military contexts or metaphorically for intense conflict.
+Nuance_CN: 正式宣布开始战争，用于军事或比喻激烈的对抗。
+Example1: 那个国家向邻国宣战了。
+Example1_EN: That country declared war on its neighbor.
+Example2: 他们向腐败问题宣战。
+Example2_EN: They declared war on the issue of corruption.
+Example3: 宣战之后，局势变得紧张。
+Example3_EN: After the declaration of war, the situation became tense.
+
+===word: 沸腾===
+Meaning: boil
+Nuance_EN: To reach boiling point (liquid) or to express extreme excitement/anger (figurative). Common in cooking and emotional descriptions.
+Nuance_CN: 指液体达到沸点，或比喻情绪极度激动、喧闹，用于烹饪和情感描述。
+Example1: 水在锅里沸腾了。
+Example1_EN: The water is boiling in the pot.
+Example2: 听到好消息，全场沸腾了。
+Example2_EN: Upon hearing the good news, the whole venue erupted.
+Example3: 因为愤怒，他的血液都沸腾了。
+Example3_EN: His blood boiled with anger.
+
+===word: 华氏===
+Meaning: Fahrenheit
+Nuance_EN: A temperature scale where water freezes at 32°F and boils at 212°F. Used primarily in the United States.
+Nuance_CN: 一种温度单位，冰点为32°F，沸点为212°F，主要在美国使用。
+Example1: 今天气温是华氏80度。
+Example1_EN: Today’s temperature is 80 degrees Fahrenheit.
+Example2: 很多食谱使用华氏温度。
+Example2_EN: Many recipes use Fahrenheit temperatures.
+Example3: 华氏和摄氏怎么换算？
+Example3_EN: How do you convert between Fahrenheit and Celsius?
+
+===word: 暴跌===
+Meaning: sharp drop, crash
+Nuance_EN: Used for prices, stocks, or temperatures falling suddenly and steeply; often suggests a negative economic or financial event.
+Nuance_CN: 指价格、指数或数值在短时间内急剧下降，常用于股票市场、商品价格或气象领域，带有突发性和严重性。
+Example1: 昨天股市暴跌，投资者损失惨重。
+Example1_EN: The stock market crashed yesterday, causing heavy losses for investors.
+Example2: 由于供需失衡，原油价格暴跌至历史新低。
+Example2_EN: Due to an imbalance between supply and demand, crude oil prices plunged to a historic low.
+Example3: 寒潮来袭，气温暴跌了十几度。
+Example3_EN: A cold wave hit, causing temperatures to drop sharply by more than ten degrees.
+
+===word: 人体===
+Meaning: human body
+Nuance_EN: Refers to the physical body of a human being; used in anatomy, health, art, and everyday contexts.
+Nuance_CN: 指人的身体结构或整体，涵盖器官、组织、系统等，常用于医学、生物学、艺术和日常描述。
+Example1: 人体共有二百零六块骨头。
+Example1_EN: The human body has 206 bones in total.
+Example2: 运动对人体健康非常有益。
+Example2_EN: Exercise is very beneficial to human health.
+Example3: 画家正在学习人体素描。
+Example3_EN: The painter is learning to sketch the human body.
+
+===word: 销售额===
+Meaning: sales revenue
+Nuance_EN: The total amount of money generated from selling goods or services within a period; a key business metric.
+Nuance_CN: 指企业在一定时期内通过销售产品或服务所获得的总收入，反映经营业绩。
+Example1: 今年双十一的销售额再创新高。
+Example1_EN: This year's Singles' Day sales revenue hit a new record.
+Example2: 公司上个季度销售额增长了百分之十五。
+Example2_EN: The company's sales revenue increased by 15% last quarter.
+Example3: 我们需要提高产品质量来提升销售额。
+Example3_EN: We need to improve product quality to boost sales revenue.
+
+===word: 奥运会===
+Meaning: Olympic Games
+Nuance_EN: International multi-sport event held every four years; often refers to the Summer or Winter Olympics.
+Nuance_CN: 全球最大的综合性体育赛事，每四年举办一次，分夏季和冬季奥运会，象征和平与竞技精神。
+Example1: 北京成功举办了2008年夏季奥运会。
+Example1_EN: Beijing successfully hosted the 2008 Summer Olympic Games.
+Example2: 他从小梦想在奥运会上获得金牌。
+Example2_EN: He has dreamed of winning a gold medal at the Olympics since childhood.
+Example3: 奥运会促进了各国之间的文化交流。
+Example3_EN: The Olympic Games promote cultural exchange among nations.
+
+===word: 宫殿===
+Meaning: palace
+Nuance_EN: A large, grand building where kings, queens, or emperors live; often part of historical or royal architecture.
+Nuance_CN: 帝王或贵族居住的宏伟建筑，通常具有豪华装饰和历史意义，如故宫、凡尔赛宫。
+Example1: 故宫是北京最著名的宫殿之一。
+Example1_EN: The Forbidden City is one of the most famous palaces in Beijing.
+Example2: 这座宫殿始建于十五世纪。
+Example2_EN: This palace was first built in the 15th century.
+Example3: 游客们惊叹于宫殿的华丽装饰。
+Example3_EN: The tourists marveled at the splendid decoration of the palace.
+
+===word: 吞吐===
+Meaning: throughput; handle (of a port/company)
+Nuance_EN: Refers to the capacity to take in and give out, such as a port's cargo volume or a company's handling ability; also used figuratively for speech (hesitate).
+Nuance_CN: 多指港口、机场或企业的货物或人员处理能力；也可形容说话含混、欲言又止。
+Example1: 这个港口年吞吐量超过一亿吨。
+Example1_EN: This port's annual throughput exceeds 100 million tons.
+Example2: 公司需要提高吞吐效率来应对订单增长。
+Example2_EN: The company needs to increase throughput efficiency to cope with order growth.
+Example3: 他说话吞吞吐吐，似乎有所隐瞒。
+Example3_EN: He spoke hesitantly, as if hiding something.
+
+===word: 请帖===
+Meaning: invitation card
+Nuance_EN: A written or printed notice inviting someone to an event like a wedding, party, or banquet; often formal.
+Nuance_CN: 用于邀请他人参加婚礼、宴会、活动等的书面通知卡片，多采用正式格式。
+Example1: 我收到了朋友的婚礼请帖。
+Example1_EN: I received my friend's wedding invitation card.
+Example2: 请帖上写着宴会八点开始。
+Example2_EN: The invitation card says the banquet starts at eight o'clock.
+Example3: 请帖已经全部发出去了。
+Example3_EN: All the invitation cards have been sent out.
+
+===word: 捐赠===
+Meaning: donate
+Nuance_EN: To give money, goods, or items to a charity, institution, or person in need, often without expectation of return.
+Nuance_CN: 无偿地将财物、物品或资金给予他人或组织，用于公益、救助或支持。
+Example1: 他向灾区捐赠了大量物资。
+Example1_EN: He donated a large amount of supplies to the disaster area.
+Example2: 这家企业每年都会捐赠一笔善款给教育基金。
+Example2_EN: This enterprise donates a sum of money to the education fund every year.
+Example3: 她决定捐赠自己的藏书给图书馆。
+Example3_EN: She decided to donate her collection of books to the library.
+
+===word: 请柬===
+Meaning: invitation (formal)
+Nuance_EN: Similar to 请帖 but often more elegant; a formal invitation to a ceremony, banquet, or important event.
+Nuance_CN: 比“请帖”更正式、更雅致的邀请文书，常用于重要场合，如开幕典礼、国宴等。
+Example1: 她收到了一封精美的婚宴请柬。
+Example1_EN: She received an exquisite invitation to the wedding banquet.
+Example2: 这份请柬是由著名设计师制作的。
+Example2_EN: This invitation card was made by a famous designer.
+Example3: 请柬上注明了着装要求。
+Example3_EN: The invitation specifies the dress code.
+
+===word: 熄灯===
+Meaning: lights out; turn off the lights
+Nuance_EN: The act of switching off lights, either as a daily routine (e.g., in dormitories) or for an event like Earth Hour.
+Nuance_CN: 将灯关闭的动作，常用于学校宿舍的就寝时间，或环保活动中的统一关灯行动。
+Example1: 宿舍十一点准时熄灯。
+Example1_EN: The dormitory lights go out at 11 o'clock sharp.
+Example2: 地球一小时活动呼吁大家熄灯一小时。
+Example2_EN: The Earth Hour campaign urges everyone to turn off lights for one hour.
+Example3: 熄灯后请不要大声喧哗。
+Example3_EN: Please do not make noise after lights out.
+
+===word: 生效===
+Meaning: take effect, become effective
+Nuance_EN: Used for laws, contracts, rules, or actions that officially start to be valid or enforceable. It implies a formal or legal activation.
+Nuance_CN: 用于法律、合同、规定等正式开始有效或执行，带有正式、官方的语境，常出现在公文或通知中。
+Example1: 新法律从明年一月一日起生效。
+Example1_EN: The new law will take effect from January 1st next year.
+Example2: 合同签字后立即生效。
+Example2_EN: The contract takes effect immediately after signing.
+Example3: 这个规定已经生效，请大家遵守。
+Example3_EN: This regulation has taken effect; please comply with it.
+
+===word: 柜台===
+Meaning: counter, shop counter
+Nuance_EN: Refers to the long table or desk in a shop, bank, or hotel where transactions or services are conducted. Common in retail or service settings.
+Nuance_CN: 指商店、银行、酒店等场所用于交易或服务的长形桌子或柜台，常见于日常购物或办事场景。
+Example1: 她在柜台前排队买票。
+Example1_EN: She is waiting in line at the counter to buy tickets.
+Example2: 请把商品放在柜台上结账。
+Example2_EN: Please put the items on the counter to check out.
+Example3: 酒店柜台的员工很热情。
+Example3_EN: The staff at the hotel counter are very warm.
+
+===word: 跌进===
+Meaning: fall into, tumble into
+Nuance_EN: Describes physically falling into something (like a hole or water) or metaphorically entering a bad situation. Implies suddenness and loss of control.
+Nuance_CN: 指身体掉入某处（如坑、水中）或比喻陷入困境，带有突发和失控的含义。
+Example1: 他不小心跌进了河沟里。
+Example1_EN: He accidentally fell into the ditch.
+Example2: 公司跌进了财务危机。
+Example2_EN: The company fell into a financial crisis.
+Example3: 小孩追球时跌进了泥坑。
+Example3_EN: The child tumbled into a mud pit while chasing the ball.
+
+===word: 近代===
+Meaning: modern times, recent era
+Nuance_EN: Refers to the historical period roughly from the mid-19th century to the early 20th century, often marking a transition from traditional to modern. Used in history discussions.
+Nuance_CN: 指大约19世纪中期到20世纪初的历史时期，标志着从传统向现代的过渡，常用于历史或学术语境。
+Example1: 近代中国经历了很大的变化。
+Example1_EN: Modern China underwent great changes.
+Example2: 这本书讲述了近代欧洲的科技发展。
+Example2_EN: This book discusses the technological development of modern Europe.
+Example3: 近代艺术风格与古典完全不同。
+Example3_EN: Modern art styles are completely different from classical ones.
+
+===word: 收益===
+Meaning: profit, yield, return
+Nuance_EN: Refers to financial gains from investments, business, or property. Can also apply to non-financial benefits. Often used in economics or finance.
+Nuance_CN: 指投资、商业或财产带来的财务回报，也可用于非经济利益，常见于经济或金融语境。
+Example1: 这个项目的收益很高。
+Example1_EN: The yield of this project is very high.
+Example2: 投资股票能带来不错的收益。
+Example2_EN: Investing in stocks can bring good returns.
+Example3: 公司的收益比去年增长了百分之十。
+Example3_EN: The company's profit increased by ten percent compared to last year.
+
+===word: 变压器===
+Meaning: transformer (electrical)
+Nuance_EN: An electrical device that changes voltage levels. Used in technical or engineering contexts, often related to power systems.
+Nuance_CN: 一种改变电压的电气设备，常用于电力系统或工程技术领域。
+Example1: 变压器能把电压升高或降低。
+Example1_EN: The transformer can step voltage up or down.
+Example2: 工人们正在安装一个大型变压器。
+Example2_EN: The workers are installing a large transformer.
+Example3: 变压器坏了，导致整个区域停电。
+Example3_EN: The transformer broke down, causing a power outage in the entire area.
+
+===word: 牌价===
+Meaning: listed price, market price
+Nuance_EN: Refers to officially published prices for goods, currencies, or stocks, often in stores, exchanges, or markets. Implies a standard or reference price.
+Nuance_CN: 指官方发布的商品、货币或股票价格，常见于商店、交易所或市场，表示标准或参考价格。
+Example1: 外汇牌价每天都在变化。
+Example1_EN: The foreign exchange listed price changes every day.
+Example2: 商品的牌价已经贴在柜台上了。
+Example2_EN: The listed price of the goods has been posted on the counter.
+Example3: 牌价比实际成交价低一些。
+Example3_EN: The listed price is slightly lower than the actual transaction price.
+
+===word: 增产===
+Meaning: increase production
+Nuance_EN: Refers to raising output of crops, goods, or resources, often in agriculture, industry, or economics. Implies intentional effort or improvement.
+Nuance_CN: 指提高农作物、货物或资源的产量，常用于农业、工业或经济领域，带有主动努力的意味。
+Example1: 农民们采用新技术来增产。
+Example1_EN: The farmers are using new technology to increase production.
+Example2: 工厂通过加班实现了增产。
+Example2_EN: The factory achieved increased production through overtime work.
+Example3: 石油增产有助于稳定油价。
+Example3_EN: The increase in oil production helps stabilize prices.
+
+===word: 高低===
+Meaning: height, level, relative stature
+Nuance_EN: Can refer to literal height differences (e.g., of objects) or figurative differences in quality, ability, or social status. Often used in comparative contexts.
+Nuance_CN: 可指物体高低的差异，也比喻质量、能力或社会地位的高低，常用于比较或评价。
+Example1: 这两栋楼的高低差不多。
+Example1_EN: The heights of these two buildings are about the same.
+Example2: 人的能力有高低之分。
+Example2_EN: People's abilities vary in level.
+Example3: 他不论在什么高低位置都能适应。
+Example3_EN: He can adapt no matter in a high or low position.
+
+===word: 下岗===
+Meaning: laid off, become unemployed
+Nuance_EN: Refers specifically to workers being dismissed from state-owned enterprises in China, often due to restructuring. Carries socio-economic connotations.
+Nuance_CN: 特指中国国有企业因改革而使员工失去工作，带有社会经济背景含义。
+Example1: 他下岗后找到了一份新工作。
+Example1_EN: He found a new job after being laid off.
+Example2: 很多工人在九十年代下岗了。
+Example2_EN: Many workers were laid off in the 1990s.
+Example3: 政府为下岗人员提供培训。
+Example3_EN: The government provides training for laid-off workers.
+
+===word: 油箱===
+Meaning: fuel tank
+Nuance_EN: Refers to the container that holds fuel for vehicles or machinery. Commonly used in automotive contexts.
+Nuance_CN: 指储存燃料的容器，常用于汽车、飞机等交通工具。
+Example1: 我的汽车油箱快没油了。
+Example1_EN: My car's fuel tank is almost empty.
+Example2: 请检查油箱是否有泄漏。
+Example2_EN: Please check if the fuel tank has any leaks.
+Example3: 这个油箱的容量是五十升。
+Example3_EN: The capacity of this fuel tank is fifty liters.
+
+===word: 毫米===
+Meaning: millimeter
+Nuance_EN: A unit of length equal to one thousandth of a meter. Used for precise measurements.
+Nuance_CN: 长度单位，等于千分之一米，常用于精密测量。
+Example1: 这张纸的厚度是0.1毫米。
+Example1_EN: The thickness of this paper is 0.1 millimeters.
+Example2: 误差不能超过两毫米。
+Example2_EN: The error must not exceed two millimeters.
+Example3: 这个零件的尺寸精确到毫米。
+Example3_EN: The dimensions of this part are accurate to the millimeter.
+
+===word: 温习===
+Meaning: review
+Nuance_EN: To review or go over previously learned material, especially for study or preparation.
+Nuance_CN: 指复习已学过的知识，常用于学习或备考。
+Example1: 考试前我需要温习一下笔记。
+Example1_EN: I need to review my notes before the exam.
+Example2: 他每天晚上温习功课。
+Example2_EN: He reviews his lessons every evening.
+Example3: 温习旧知识可以帮助理解新内容。
+Example3_EN: Reviewing old knowledge can help understand new content.
+
+===word: 骨架===
+Meaning: skeleton, framework
+Nuance_EN: Refers to the structural framework of something, like bones of a body or the frame of a building.
+Nuance_CN: 指支撑物体的结构框架，如人体的骨骼或建筑的框架。
+Example1: 这个建筑的骨架是钢结构。
+Example1_EN: The skeleton of this building is steel structure.
+Example2: 人体的骨架由206块骨头组成。
+Example2_EN: The human skeleton consists of 206 bones.
+Example3: 我们需要先搭建帐篷的骨架。
+Example3_EN: We need to set up the framework of the tent first.
+
+===word: 众人===
+Meaning: everyone, many people
+Nuance_EN: Refers to a large group of people, often implying the general public or a crowd.
+Nuance_CN: 指很多人或大家，常表示群体或公众。
+Example1: 众人都同意这个计划。
+Example1_EN: Everyone agreed with this plan.
+Example2: 他的发言赢得了众人的掌声。
+Example2_EN: His speech won applause from the crowd.
+Example3: 众人拾柴火焰高。
+Example3_EN: Many hands make light work.
+
+===word: 标枪===
+Meaning: javelin
+Nuance_EN: A light spear thrown in athletic competitions, or the sport itself.
+Nuance_CN: 一种田径运动用的投掷器械，也指该运动项目。
+Example1: 他标枪投出了70米的好成绩。
+Example1_EN: He threw the javelin a good distance of 70 meters.
+Example2: 标枪是奥运会田径项目之一。
+Example2_EN: Javelin throw is one of the Olympic track and field events.
+Example3: 运动员正在练习标枪投掷技术。
+Example3_EN: The athlete is practicing javelin throwing technique.
+
+===word: 攀升===
+Meaning: rise, climb
+Nuance_EN: To increase or go upward, often used for prices, temperatures, or statistics.
+Nuance_CN: 指上升、增长，常用于价格、温度或数据等。
+Example1: 最近物价持续攀升。
+Example1_EN: Prices have been rising continuously recently.
+Example2: 气温攀升至35摄氏度。
+Example2_EN: The temperature climbed to 35 degrees Celsius.
+Example3: 公司的利润逐年攀升。
+Example3_EN: The company's profits are climbing year by year.
+
+===word: 毛重===
+Meaning: gross weight
+Nuance_EN: The total weight of a product including its packaging or container.
+Nuance_CN: 商品连同包装或容器的总重量。
+Example1: 这箱货物的毛重是20公斤。
+Example1_EN: The gross weight of this box of goods is 20 kilograms.
+Example2: 毛重减去净重就是包装重量。
+Example2_EN: Gross weight minus net weight equals the packaging weight.
+Example3: 请确认毛重是否准确。
+Example3_EN: Please confirm whether the gross weight is accurate.
+
+===word: 净重===
+Meaning: net weight
+Nuance_EN: The weight of the product itself, excluding any packaging.
+Nuance_CN: 商品本身的重量，不包括包装。
+Example1: 这袋米的净重是5公斤。
+Example1_EN: The net weight of this bag of rice is 5 kilograms.
+Example2: 净重通常标注在产品标签上。
+Example2_EN: Net weight is usually marked on the product label.
+Example3: 我们需要知道净重来计算运费。
+Example3_EN: We need to know the net weight to calculate shipping costs.
+
+===word: 为止===
+Meaning: until, up to
+Nuance_EN: Indicates a limit in time or action, often used with "到...为止" meaning "up to (a certain point)".
+Nuance_CN: 表示时间或动作的截止点，常与“到”连用。
+Example1: 到目前为止，一切顺利。
+Example1_EN: So far, everything is going well.
+Example2: 截止到昨天为止，报名人数已超过一百。
+Example2_EN: As of yesterday, the number of registrations has exceeded one hundred.
+Example3: 到此为止，我们不再讨论这个问题。
+Example3_EN: Let's stop here and no longer discuss this issue.
+
+===word: 索赔===
+Meaning: claim compensation
+Nuance_EN: Used in formal or legal contexts when someone demands payment for loss, damage, or injury. It implies an official or contractual right to seek recompense.
+Nuance_CN: 指因遭受损失或伤害而向责任方要求赔偿，常用于保险、合同纠纷或法律诉讼中，语气正式。
+Example1: 他向保险公司索赔了十万元。
+Example1_EN: He claimed 100,000 yuan in compensation from the insurance company.
+Example2: 产品质量有问题，消费者有权索赔。
+Example2_EN: If the product quality is defective, consumers have the right to claim compensation.
+Example3: 事故发生后，他们立即启动了索赔程序。
+Example3_EN: After the accident, they immediately initiated the claim process.
+
+===word: 创建===
+Meaning: create, establish
+Nuance_EN: Refers to the act of bringing something into existence, such as an organization, system, or account. It is neutral to positive, common in both formal and informal settings.
+Nuance_CN: 指从无到有地建立或设立某事物，如公司、账户、文件等，使用范围广泛。
+Example1: 他创建了一家科技公司。
+Example1_EN: He founded a tech company.
+Example2: 请先创建一个新文件夹来保存资料。
+Example2_EN: Please create a new folder to save the documents first.
+Example3: 这个组织创建于二十年前。
+Example3_EN: This organization was established twenty years ago.
+
+===word: 一律===
+Meaning: uniformly, without exception
+Nuance_EN: Emphasizes that a rule or condition applies to all cases equally, leaving no room for special treatment. Often used in formal announcements or regulations.
+Nuance_CN: 表示所有情况都按同一标准处理，没有例外，语气坚决，常用于规定或通知中。
+Example1: 所有乘客一律禁止吸烟。
+Example1_EN: All passengers are uniformly prohibited from smoking.
+Example2: 入场一律凭票，无票不得入内。
+Example2_EN: Admission is by ticket only, without exception.
+Example3: 考试作弊者一律取消成绩。
+Example3_EN: Anyone caught cheating on the exam will have their results canceled without exception.
+
+===word: 锐减===
+Meaning: sharp decrease
+Nuance_EN: Describes a sudden, dramatic drop in quantity, number, or level. Often used in statistics, business, or environmental contexts to emphasize a significant decline.
+Nuance_CN: 指数量或程度在短时间内急剧下降，强调变化剧烈，常用于数据描述。
+Example1: 今年游客数量锐减了百分之五十。
+Example1_EN: The number of tourists this year has sharply decreased by 50%.
+Example2: 由于干旱，粮食产量锐减。
+Example2_EN: Due to the drought, grain output has sharply declined.
+Example3: 公司利润在去年锐减。
+Example3_EN: The company’s profits sharply decreased last year.
+
+===word: 诞生===
+Meaning: be born, come into being
+Nuance_EN: Used for the birth of a person, or figuratively for the origin of an idea, organization, or significant event. It has a positive, often celebratory tone.
+Nuance_CN: 指人或事物的出现，带有庄重或喜悦的色彩，可用于新生命或新事物的产生。
+Example1: 他的儿子在春天诞生了。
+Example1_EN: His son was born in the spring.
+Example2: 这家公司诞生于一个简单的想法。
+Example2_EN: This company was born from a simple idea.
+Example3: 这个理论诞生于二十世纪初期。
+Example3_EN: This theory came into being in the early 20th century.
+
+===word: 一言为定===
+Meaning: it's a deal
+Nuance_EN: An informal, emphatic phrase used to confirm an agreement or promise between two parties. It implies mutual commitment and often ends a negotiation.
+Nuance_CN: 表示双方达成协议或承诺，不再改变，语气肯定，常用于日常对话。
+Example1: 好，明天下午三点见面，一言为定！
+Example1_EN: Okay, we'll meet at 3 p.m. tomorrow, it's a deal!
+Example2: 你说帮我修电脑，一言为定哦。
+Example2_EN: You said you'd help me fix the computer, it's a deal.
+Example3: 这次合作，咱们一言为定。
+Example3_EN: For this cooperation, let's shake on it.
+
+===word: 约定===
+Meaning: agreement, appointment
+Nuance_EN: Refers to a mutual arrangement or promise, often with a specific time, place, or terms. It is neutral and commonly used in both formal and casual contexts.
+Nuance_CN: 指双方共同商定的事项或时间，强调经过协商后达成的一致。
+Example1: 我们约定在咖啡馆见面。
+Example1_EN: We agreed to meet at the café.
+Example2: 根据约定，付款应在月底完成。
+Example2_EN: According to the agreement, payment should be completed by the end of the month.
+Example3: 他们有一个口头约定。
+Example3_EN: They have a verbal agreement.
+
+===word: 值守===
+Meaning: be on duty, keep watch
+Nuance_EN: Refers to staying at a post or location to perform duties, especially during specific hours or in a security role. It implies responsibility and vigilance.
+Nuance_CN: 指在岗位上履行职责，尤其指值班或守卫，强调持续在场和警惕。
+Example1: 保安人员二十四小时值守。
+Example1_EN: The security guards are on duty 24 hours a day.
+Example2: 他今晚在办公室值守。
+Example2_EN: He is on duty in the office tonight.
+Example3: 消防队随时有人值守。
+Example3_EN: The fire brigade has someone on standby at all times.
+
+===word: 停靠===
+Meaning: dock, pull in (to a stop)
+Nuance_EN: Used primarily for vehicles like ships, trains, or buses when they stop at a designated point, such as a port or station. It implies a brief or scheduled halt.
+Nuance_CN: 指车辆或船只到达指定地点并停下，如码头、车站等，通常用于交通运输。
+Example1: 轮船停靠在码头。
+Example1_EN: The ship docked at the pier.
+Example2: 公交车在这个站点停靠两分钟。
+Example2_EN: The bus stops at this station for two minutes.
+Example3: 火车准时停靠在北京站。
+Example3_EN: The train pulled into Beijing Station on time.
+
+===word: 冲刺===
+Meaning: sprint, final push
+Nuance_EN: Refers to a burst of speed or effort at the end of a race, project, or critical moment. It suggests urgency and determination, often used in sports or work contexts.
+Nuance_CN: 指在最后阶段全力加速或努力，常用于体育比赛或项目收尾，体现紧迫感和决心。
+Example1: 他在最后一百米开始冲刺。
+Example1_EN: He started sprinting in the last 100 meters.
+Example2: 年底是销售冲刺的关键时期。
+Example2_EN: The end of the year is a critical period for the final sales push.
+Example3: 考试前一周大家都在冲刺复习。
+Example3_EN: Everyone is doing a final push in review the week before the exam.
+
+===word: 抽奖===
+Meaning: lottery, prize draw
+Nuance_EN: Refers to a promotional activity where people win prizes by drawing lots, usually involving luck. It can be used for sweepstakes, raffles, or in-game gacha systems.
+Nuance_CN: 指通过随机抽取方式获得奖品或奖励的活动，常见于商场促销、游戏抽卡或线上抽奖。带有“凭运气”的含义，有时也暗示中奖率较低。
+Example1: 我参加商场的抽奖活动，结果中了一台电视机。
+Example1_EN: I joined the mall's lucky draw and ended up winning a TV.
+Example2: 这个游戏里的抽奖系统太坑了，花了好多钱都没抽到稀有角色。
+Example2_EN: The gacha system in this game is such a scam; I spent a lot of money but still didn't get the rare character.
+Example3: 公司年会有一个抽奖环节，头奖是现金一万元。
+Example3_EN: The company's annual party has a prize draw segment, with the grand prize being 10,000 yuan in cash.
+
+===word: 二次元===
+Meaning: two-dimensional, anime/manga world
+Nuance_EN: Originally refers to 2D space, but is widely used in Chinese pop culture to describe the world of anime, manga, games, and related fandom. It often implies escapism or niche subculture.
+Nuance_CN: 原指二维空间，但中文流行文化中常指动漫、漫画、游戏等虚构世界及其爱好者群体。带有“脱离现实”或“小众爱好”的意味，有时也用来形容该风格的视觉艺术。
+Example1: 他是典型的二次元爱好者，房间里贴满了动漫海报。
+Example1_EN: He is a typical anime fan, with his room plastered with anime posters.
+Example2: 这次漫展吸引了很多二次元文化的粉丝来参加。
+Example2_EN: This comic convention attracted many fans of the two-dimensional culture to attend.
+Example3: 我不太了解二次元，但朋友推荐我看那部新番。
+Example3_EN: I don't know much about the anime world, but my friend recommended I watch that new series.
+
+===word: 报到===
+Meaning: report (for duty), check in
+Nuance_EN: Used when arriving at a place to register or confirm one's presence, such as at a job, school, or event. It's a formal or semi-formal term.
+Nuance_CN: 指到达某个地点后进行登记、确认到场的行为，常用于新生入学、员工入职、参加活动等场合。带有“正式出席”或“完成手续”的意味。
+Example1: 新员工明天早上九点到公司人事部报到。
+Example1_EN: The new employee should report to the HR department at 9 a.m. tomorrow.
+Example2: 大学开学那天，所有新生都要去体育馆报到。
+Example2_EN: On the first day of university, all freshmen have to report to the gymnasium.
+Example3: 我已经在网上报到了，还要去现场确认吗？
+Example3_EN: I've already checked in online; do I still need to go on-site to confirm?
+
+===word: 脑壳===
+Meaning: head (brain case), skull
+Nuance_EN: An informal, colloquial term for "head," often used in Southern Chinese dialects (e.g., Sichuanese). Can also mean "mind" or "brain" in figurative senses.
+Nuance_CN: 口语化、方言化的“头”或“脑袋”，常见于西南官话（如四川话）。有时也用来指“脑子”或“想法”，语气轻松或带调侃。
+Example1: 他打球的时候不小心撞到了脑壳，疼得直叫。
+Example1_EN: He accidentally hit his head while playing ball and cried out in pain.
+Example2: 你脑壳是不是进水了？这种天气居然穿短袖出门。
+Example2_EN: Are you out of your mind? You're actually wearing short sleeves in this weather.
+Example3: 我脑壳都想破了，还是想不出答案。
+Example3_EN: I racked my brain but still couldn't come up with the answer.
+
+===word: 参见===
+Meaning: refer to, see (also), pay respects
+Nuance_EN: Has two distinct meanings: (1) a formal verb for "paying respects" (e.g., to a senior or deity), and (2) a cross-reference term in texts (e.g., "see also"). The first is literary/old-fashioned.
+Nuance_CN: 有两种主要含义：一是“拜见”或“谒见”上级或神灵，属文言或正式用法；二是文本中的互参考提示，如“参见第X章”。第一种较古雅，第二种用于学术或技术文档。
+Example1: 参见皇上，吾皇万岁万岁万万岁！
+Example1_EN: I pay my respects to the Emperor; long live the Emperor, may he live for ten thousand years!
+Example2: 详细计算方法参见附录A。
+Example2_EN: For detailed calculation methods, see Appendix A.
+Example3: 在古装剧里，臣子每日都要参见皇帝。
+Example3_EN: In costume dramas, officials have to pay respects to the emperor every day.
+
+===word: 抽成===
+Meaning: take a cut, commission
+Nuance_EN: Refers to taking a percentage of revenue or profit as a fee, common in business, sales, or platform transactions. It's a neutral-to-slightly-negative term.
+Nuance_CN: 指从总收入或利润中按比例抽取一部分作为报酬或手续费，常见于销售提成、平台抽成、中介费。语气中性，有时带抱怨意味（如抽成太高）。
+Example1: 这个外卖平台对商家的抽成太高了，很多小餐厅都赚不到钱。
+Example1_EN: This food delivery platform takes too high a cut from merchants, leaving many small restaurants unable to make a profit.
+Example2: 他做销售工作，每卖出一单能抽成百分之十。
+Example2_EN: He works in sales and can take a 10% commission for every deal he closes.
+Example3: 直播平台抽成后，主播实际到手的钱少了很多。
+Example3_EN: After the live-streaming platform takes its cut, the streamer's actual take-home pay is much less.
+
+===word: 图鉴===
+Meaning: illustrated guide, picture book
+Nuance_EN: A book or digital collection that uses pictures to identify or catalog items, such as animals, plants, or collectibles (e.g., Pokemon). It's a formal noun.
+Nuance_CN: 以图片为主要方式介绍和识别事物（如动植物、卡牌、游戏角色）的书籍或资料集。常用于教育、收藏或游戏领域，语气正式。
+Example1: 这本鸟类图鉴收录了三百多种鸟类的照片和介绍。
+Example1_EN: This bird guide contains photos and descriptions of over 300 species of birds.
+Example2: 游戏里的图鉴系统可以查看你收集到的所有角色信息。
+Example2_EN: The game's encyclopedia system lets you view information on all the characters you've collected.
+Example3: 孩子很喜欢看植物图鉴，出门时总想对照着认花。
+Example3_EN: The child loves looking at the plant picture book and always wants to identify flowers with it when going out.
+
+===word: 倍率===
+Meaning: magnification, multiplier, ratio
+Nuance_EN: Describes how many times something is enlarged, or the rate of scaling (e.g., in cameras, microscopes, or economic data). It's a technical term.
+Nuance_CN: 指放大倍数、倍率比率或乘积系数，常用于光学、摄影、数学或经济领域。语气专业、中性。
+Example1: 这台显微镜的最高倍率是一千倍。
+Example1_EN: The maximum magnification of this microscope is 1,000 times.
+Example2: 这个镜头的变焦倍率是五倍，可以拍远处的东西。
+Example2_EN: This lens has a five-times zoom ratio, so it can capture distant objects.
+Example3: 房价上涨的倍率远远超过了工资增长的速度。
+Example3_EN: The multiplier of the increase in housing prices far exceeds the rate of wage growth.
+
+===word: 限定===
+Meaning: limited, restricted, exclusive
+Nuance_EN: Commonly used in product marketing for limited editions (e.g., "limited item"), or in legal/contextual senses meaning "restricted within boundaries." Often implies scarcity or exclusivity.
+Nuance_CN: 指受时间、数量或条件限制，常用于商品“限定版”、范围“限定于某区域”。带“稀缺”、“专属”或“不可超范围”的意味。语气中性，但在促销中带正面色彩。
+Example1: 这家店推出了情人节限定款巧克力，很快就卖光了。
+Example1_EN: This store launched a Valentine's Day limited-edition chocolate, which sold out quickly.
+Example2: 这次活动的参与资格限定为年满十八岁的用户。
+Example2_EN: The eligibility to participate in this event is restricted to users aged 18 and above.
+Example3: 这款游戏里的限定皮肤只有活动期间才能获得。
+Example3_EN: The limited-edition skin in this game can only be obtained during the event period.
+
+===word: 大致===
+Meaning: roughly, approximately, generally
+Nuance_EN: Indicates approximation or summarization, used for quantities, times, or descriptions. It's a neutral adverb, less formal than "approximately" but more precise than "大概."
+Nuance_CN: 表示大概、约略的推测或概括，常用于数字、时间或情况描述。语气中性，比“差不多”正式，比“大约”更偏向整体估计。
+Example1: 这次旅行大致需要三天时间。
+Example1_EN: This trip will roughly take three days.
+Example2: 我大致看了一下报告，发现有几个数据对不上。
+Example2_EN: I took a general look at the report and found a few mismatched figures.
+Example3: 这个计划的大致方向已经定下来了，细节还需要讨论。
+Example3_EN: The general direction of this plan has been decided; the details still need discussion.
+
+===word: 建模===
+Meaning: modeling
+Nuance_EN: Refers to creating a model or representation, commonly used in computer graphics, engineering, or data analysis. Often implies a technical or professional context.
+Nuance_CN: 指建立模型的过程，常见于计算机图形学、工程设计或数据分析等专业领域，强调将现实或抽象概念转化为可操作的模型。
+Example1: 我们需要用三维建模软件来设计这个产品。
+Example1_EN: We need to use 3D modeling software to design this product.
+Example2: 这项研究主要是对经济数据进行建模分析。
+Example2_EN: This research mainly involves modeling analysis of economic data.
+Example3: 他在大学里学习的是建筑建模课程。
+Example3_EN: He studied architectural modeling courses in university.
+
+===word: 既视感===
+Meaning: déjà vu
+Nuance_EN: The feeling that one has lived through the present situation before. Often used in psychological or everyday contexts.
+Nuance_CN: 指对当前场景有似曾相识的感觉，仿佛曾经经历过。常用于描述心理现象或日常体验。
+Example1: 走进这个房间时，我突然有一种强烈的既视感。
+Example1_EN: When I entered this room, I suddenly had a strong sense of déjà vu.
+Example2: 既视感是一种常见的心理现象，很多人都经历过。
+Example2_EN: Déjà vu is a common psychological phenomenon that many people have experienced.
+Example3: 电影里用既视感来制造悬疑效果。
+Example3_EN: The movie uses déjà vu to create a suspenseful effect.
+
+===word: 通商===
+Meaning: trade relations
+Nuance_EN: Refers to the conduct of trade or commercial relations, especially between countries or regions. Often used in historical or political contexts.
+Nuance_CN: 指国家或地区之间进行商业贸易往来，常用于历史、政治或经济语境中，强调开放市场或建立贸易关系。
+Example1: 这两个国家很早以前就开始通商了。
+Example1_EN: These two countries started trading with each other a long time ago.
+Example2: 丝绸之路是古代东西方通商的重要通道。
+Example2_EN: The Silk Road was an important trade route between East and West in ancient times.
+Example3: 为了促进经济发展，他们决定与邻国通商。
+Example3_EN: To promote economic development, they decided to establish trade relations with neighboring countries.
+
+===word: 过时不候===
+Meaning: no waiting after deadline
+Nuance_EN: Often used in announcements or warnings meaning that if you are late, you won't be waited for. Implies punctuality is required.
+Nuance_CN: 常用于通知或警告，表示如果错过指定时间，将不再等待。强调守时的重要性。
+Example1: 演出七点开始，过时不候，请大家准时入场。
+Example1_EN: The show starts at 7 o'clock; latecomers will not be admitted, so please arrive on time.
+Example2: 优惠券的有效期是三天，过时不候。
+Example2_EN: The coupon is valid for three days; after that, it's no longer accepted.
+Example3: 集合时间定在早上八点，过时不候。
+Example3_EN: The gathering time is set at 8 AM; we won't wait for latecomers.
+
+===word: 时薪===
+Meaning: hourly wage
+Nuance_EN: Refers to the amount of money earned per hour of work. Commonly used in labor contexts, part-time jobs, or wage negotiations.
+Nuance_CN: 指每小时工作所得的报酬，常用于兼职、临时工或薪资谈判中，强调按小时计酬。
+Example1: 这家公司给实习生的时薪是二十元。
+Example1_EN: This company pays interns an hourly wage of 20 yuan.
+Example2: 他的时薪比行业平均水平高不少。
+Example2_EN: His hourly wage is much higher than the industry average.
+Example3: 兼职工作的时薪通常比全职工作低一些。
+Example3_EN: Part-time jobs usually have a lower hourly wage than full-time jobs.
+
+===word: 待命===
+Meaning: on standby
+Nuance_EN: Refers to being ready to act or respond when called upon. Common in military, emergency services, or work contexts.
+Nuance_CN: 指保持准备状态，随时听从命令或指示行事。常用于军事、救援或工作安排中。
+Example1: 消防队员已经整装待命。
+Example1_EN: The firefighters are fully equipped and on standby.
+Example2: 所有员工今晚待命，准备应对突发情况。
+Example2_EN: All employees are on standby tonight, ready to handle emergencies.
+Example3: 救援队随时待命，等候出发指令。
+Example3_EN: The rescue team is on standby, waiting for the order to depart.
+
+===word: 复古===
+Meaning: retro style
+Nuance_EN: Refers to a style that imitates or revives trends from the past, especially in fashion, design, or music. Often positive, suggesting charm or nostalgia.
+Nuance_CN: 指模仿或复兴过去流行风格的趋势，常见于时尚、设计或音乐领域，带有怀旧或经典韵味。
+Example1: 今年流行的复古风裙子很受年轻人欢迎。
+Example1_EN: This year's vintage-style dresses are very popular among young people.
+Example2: 这家咖啡馆的装修风格非常复古。
+Example2_EN: The decoration style of this café is very retro.
+Example3: 他喜欢收集复古唱片。
+Example3_EN: He likes collecting vintage records.
+
+===word: 距今===
+Meaning: ago (from now)
+Nuance_EN: Used to indicate the time from a past event to the present. Often used in historical or geological contexts.
+Nuance_CN: 用于表示从过去某个事件至今的时间长度，常用于历史或地质学中。
+Example1: 这座古城距今已有两千多年的历史。
+Example1_EN: This ancient city has a history of more than 2,000 years.
+Example2: 这具化石距今大约一亿年。
+Example2_EN: This fossil is about 100 million years old.
+Example3: 这次地震距今已经过去十年了。
+Example3_EN: It has been ten years since this earthquake.
+
+===word: 悬赏===
+Meaning: bounty reward
+Nuance_EN: Refers to offering a reward, typically for capturing a criminal, finding a lost item, or solving a problem. Often used in law enforcement or public announcements.
+Nuance_CN: 指为获取某物或抓获某人而公开提供的报酬，常见于警方通缉或寻物启事中。
+Example1: 警方悬赏十万元征集破案线索。
+Example1_EN: The police are offering a 100,000 yuan reward for clues to solve the case.
+Example2: 失主悬赏五千元寻找丢失的宠物狗。
+Example2_EN: The owner is offering a 5,000 yuan reward for the return of the lost pet dog.
+Example3: 他们悬赏征集最佳设计方案。
+Example3_EN: They are offering a reward for the best design proposal.
+
+===word: 弹匣===
+Meaning: ammunition magazine
+Nuance_EN: A container that holds ammunition for a firearm. Common in military, shooting, or gaming contexts.
+Nuance_CN: 枪械中储存子弹的部件，常见于军事、射击或游戏语境。
+Example1: 他熟练地更换了弹匣。
+Example1_EN: He expertly changed the magazine.
+Example2: 这种枪的弹匣可以容纳30发子弹。
+Example2_EN: This gun's magazine can hold 30 rounds.
+Example3: 在游戏中，你需要随时注意弹匣里的子弹数量。
+Example3_EN: In the game, you need to keep an eye on the number of bullets in the magazine.
+
+===word: 效能===
+Meaning: efficiency, effectiveness
+Nuance_EN: This noun refers to the capacity to produce a desired result or the effectiveness of a system, machine, or process. It is commonly used in technical or formal contexts.
+Nuance_CN: 这个词指系统、机器或过程产生预期结果的能力，通常用于技术或正式场合，强调功能或性能的高低。
+Example1: 这款新发动机的效能比旧型号提高了百分之二十。
+Example1_EN: The efficiency of this new engine is 20% higher than the old model.
+Example2: 我们需要评估这个方案的效能，然后再做决定。
+Example2_EN: We need to evaluate the effectiveness of this plan before making a decision.
+Example3: 药物的效能取决于患者的体质和用药方式。
+Example3_EN: The efficacy of the drug depends on the patient's constitution and method of administration.
+
+===word: 会面===
+Meaning: meet, meeting
+Nuance_EN: This verb-object compound means to meet someone, usually in a planned or formal context. It can also be used as a noun meaning 'meeting' or 'encounter'.
+Nuance_CN: 这个离合词表示与某人见面，通常指有安排或较正式的会晤。也可作名词使用。
+Example1: 我们约定明天下午三点在咖啡馆会面。
+Example1_EN: We agreed to meet at the café at 3 p.m. tomorrow.
+Example2: 两位领导人将在下月会面商讨贸易合作。
+Example2_EN: The two leaders will meet next month to discuss trade cooperation.
+Example3: 这次会面非常成功，双方达成了初步协议。
+Example3_EN: This meeting was very successful, and both parties reached a preliminary agreement.
+
+===word: 婆娘===
+Meaning: wife, woman (colloquial)
+Nuance_EN: This is a colloquial term for a married woman, often used to refer to one's own wife in a somewhat informal or affectionate way. In some contexts, it can be derogatory. It is more common in northern Chinese dialects.
+Nuance_CN: 口语中对已婚妇女的称呼，常指自己的妻子，带有随意或亲昵的语气。在某些语境下可能带有贬义，多见于北方方言。
+Example1: 他婆娘做的菜特别好吃。
+Example1_EN: The dishes his wife cooks are especially delicious.
+Example2: 别老是唠叨，你婆娘会不高兴的。
+Example2_EN: Stop nagging, your wife will be unhappy.
+Example3: 那个婆娘嗓门真大，整条街都听得见。
+Example3_EN: That woman has such a loud voice, you can hear her down the whole street.
+
+===word: 心腹===
+Meaning: trusted aide, close confidant
+Nuance_EN: This noun refers to a person who is trusted implicitly by someone, often privy to secrets or important matters. It implies a close, loyal relationship, sometimes in a political or organizational context.
+Nuance_CN: 指极度信任的人，通常知晓机密或重要事务。暗示亲密忠诚的关系，常用于政治或组织语境。
+Example1: 他是老板的心腹，负责处理机密文件。
+Example1_EN: He is the boss's trusted aide, responsible for handling confidential documents.
+Example2: 皇帝只与他的心腹大臣商讨军国大事。
+Example2_EN: The emperor only discussed military and national affairs with his close confidants.
+Example3: 她把秘书视为心腹，所有秘密都告诉他。
+Example3_EN: She regards her secretary as a confidant and tells him all her secrets.
+
+===word: 炮塔===
+Meaning: gun turret
+Nuance_EN: This noun refers to a rotating armored structure housing guns or artillery, typically on a warship, tank, or fortification. It is a military term.
+Nuance_CN: 指战舰、坦克或堡垒上旋转的装甲结构，内装火炮或机枪，是军事术语。
+Example1: 坦克的炮塔可以旋转360度。
+Example1_EN: The tank's turret can rotate 360 degrees.
+Example2: 战舰上的炮塔被敌方炮弹击中。
+Example2_EN: The gun turret on the warship was hit by enemy shells.
+Example3: 这座堡垒的炮塔共有四门巨炮。
+Example3_EN: This fortress has four large cannons in its gun turret.
+
+===word: 桥段===
+Meaning: plot device, trope, scene (in a story)
+Nuance_EN: This term is used in film, television, and literature to refer to a specific plot device, cliché, or common scene structure. It often implies a recognizable or formulaic element.
+Nuance_CN: 影视、文学作品中常用的情节设计或套路化场景，常带有可识别或公式化的意味。
+Example1: 这部电影使用了经典的英雄救美桥段。
+Example1_EN: This movie uses the classic trope of the hero saving the damsel in distress.
+Example2: 编剧试图避免老套的桥段，但效果不佳。
+Example2_EN: The screenwriter tried to avoid clichéd plot devices, but the result was not good.
+Example3: 这个桥段在悬疑片中很常见，就是主角突然发现关键线索。
+Example3_EN: This plot device is very common in suspense films: the protagonist suddenly discovers a crucial clue.
+
+===word: 总价===
+Meaning: total price, total cost
+Nuance_EN: This noun refers to the overall price or sum of money for a product, service, or transaction. It is commonly used in commerce, sales, and accounting.
+Nuance_CN: 指商品、服务或交易的总金额，常用于商业、销售和会计。
+Example1: 这辆车的总价包括了税费和保险。
+Example1_EN: The total price of this car includes taxes and insurance.
+Example2: 请计算所有物品的总价。
+Example2_EN: Please calculate the total cost of all items.
+Example3: 合同上写明了项目的总价和付款方式。
+Example3_EN: The contract states the total price of the project and the payment method.
+
+===word: 监控===
+Meaning: monitor, surveillance
+Nuance_EN: This verb/noun means to monitor, supervise, or keep under surveillance. It is widely used in contexts of security, technology, and management.
+Nuance_CN: 动词/名词，表示监视、监督或监控，常用于安全、技术和管理领域。
+Example1: 大楼里安装了多个监控摄像头。
+Example1_EN: Multiple surveillance cameras are installed in the building.
+Example2: 医生正在监控病人的心率变化。
+Example2_EN: The doctor is monitoring the changes in the patient's heart rate.
+Example3: 公司使用软件监控员工的工作效率。
+Example3_EN: The company uses software to monitor employee productivity.
+
+===word: 限额===
+Meaning: quota, limit
+Nuance_EN: This noun means a fixed limit or quota on the quantity or amount of something, such as money, goods, or people. It is often used in finance, trade, and administration.
+Nuance_CN: 指对数量或金额的固定限制，常用于金融、贸易和行政。
+Example1: 每人每日的取款限额是两万元。
+Example1_EN: The daily withdrawal limit per person is 20,000 yuan.
+Example2: 这个项目有采购限额，不能超支。
+Example2_EN: This project has a procurement limit; we cannot overspend.
+Example3: 出口商品必须遵守配额限额。
+Example3_EN: Exported goods must comply with the quota limits.
+
+===word: 顺带一提===
+Meaning: by the way, incidentally
+Nuance_EN: This phrase is used to introduce an additional remark or piece of information that is related but not the main topic. It is conversational and means 'by the way' or 'mentioning it in passing'.
+Nuance_CN: 用于引出附加的评论或信息，与主题相关但非主要，相当于“顺便说一下”。口语化表达。
+Example1: 顺带一提，明天的会议改到了下午两点。
+Example1_EN: By the way, tomorrow's meeting has been moved to 2 p.m.
+Example2: 这道菜很好吃，顺带一提，是店家推荐的。
+Example2_EN: This dish is delicious; incidentally, it was recommended by the restaurant.
+Example3: 顺带一提，你上次借给我的书还没还呢。
+Example3_EN: By the way, you haven't returned the book you borrowed from me last time.
+
+===word: 赏金===
+Meaning: reward money
+Nuance_EN: This term typically refers to a monetary reward offered for capturing a criminal or finding a lost item. It carries a sense of bounty or prize for completing a task.
+Nuance_CN: 赏金通常指为抓捕罪犯或寻找失物而提供的金钱奖励，带有任务完成后的报酬意味。
+Example1: 警方悬赏五万元赏金，征集破案线索。
+Example1_EN: The police offered a 50,000 yuan reward for clues to solve the case.
+Example2: 他靠领取赏金维持生计，专门抓捕逃犯。
+Example2_EN: He made a living by collecting bounties, specializing in capturing fugitives.
+Example3: 赏金猎人在西部电影中是很常见的角色。
+Example3_EN: Bounty hunters are a common character in Western movies.
+
+===word: 狱警===
+Meaning: prison guard
+Nuance_EN: Refers to a warden or guard working in a prison or jail. It is a neutral, official term for prison staff responsible for maintaining order.
+Nuance_CN: 指在监狱中负责管理和看守犯人的工作人员，是正式的职业称谓。
+Example1: 狱警每天都要巡视牢房，确保安全。
+Example1_EN: Prison guards patrol the cells every day to ensure safety.
+Example2: 他通过考试成为了一名狱警。
+Example2_EN: He passed the exam and became a prison guard.
+Example3: 这部电影讲述了一个狱警和囚犯之间的故事。
+Example3_EN: This movie tells a story between a prison guard and a prisoner.
+
+===word: 食欲===
+Meaning: appetite
+Nuance_EN: Refers to the desire to eat, often used in contexts of health, mood, or food appeal. Can be strong or poor.
+Nuance_CN: 指对食物的渴望，常与健康状况、情绪或食物吸引力相关，可以说“食欲好”或“没有食欲”。
+Example1: 我生病了，完全没有食欲。
+Example1_EN: I'm sick and have no appetite at all.
+Example2: 这道菜的香味让人食欲大增。
+Example2_EN: The aroma of this dish greatly stimulates the appetite.
+Example3: 夏天天气太热，很多人食欲不振。
+Example3_EN: In summer, the weather is too hot, so many people have a poor appetite.
+
+===word: 预计===
+Meaning: estimate, anticipate
+Nuance_EN: Used to express an expected or predicted outcome based on available information. Common in news, planning, and finance.
+Nuance_CN: 表示根据现有信息对未来情况的推测或预先估计，常用于新闻、计划、财务等场景。
+Example1: 预计明天会下大雨，记得带伞。
+Example1_EN: It is expected to rain heavily tomorrow; remember to bring an umbrella.
+Example2: 这项工程预计将在明年完工。
+Example2_EN: This project is estimated to be completed next year.
+Example3: 专家预计经济增长率将保持在5%左右。
+Example3_EN: Experts predict that the economic growth rate will remain around 5%.
+
+===word: 领跑===
+Meaning: lead the race
+Nuance_EN: Literally meaning "to lead the run," it is often used metaphorically for being ahead in a competition, industry, or field.
+Nuance_CN: 本义是在赛跑中领先，常引申为在竞争、行业或领域中处于领先地位。
+Example1: 他在长跑比赛中一直领跑。
+Example1_EN: He has been leading the race throughout the long-distance run.
+Example2: 这家公司在技术创新方面领跑行业。
+Example2_EN: This company leads the industry in technological innovation.
+Example3: 中国在5G技术领域领跑全球。
+Example3_EN: China leads the world in 5G technology.
+
+===word: 积分===
+Meaning: points, credits
+Nuance_EN: Refers to accumulated points in a system, such as loyalty programs, grades, or games. Also a mathematical term (integral), but common usage is for points.
+Nuance_CN: 指在某个系统中累积的分数，如会员积分、学分、游戏积分等。也是数学术语“积分”的意思，但日常更多指点数。
+Example1: 用积分可以兑换免费商品。
+Example1_EN: You can exchange points for free merchandise.
+Example2: 这门课有三个学分积分。
+Example2_EN: This course has three credits.
+Example3: 比赛结束后，球队积分排名第一。
+Example3_EN: After the match, the team ranked first in points.
+
+===word: 提纯===
+Meaning: purify, refine
+Nuance_EN: A technical term for removing impurities from a substance, used in chemistry, metallurgy, and also metaphorically (e.g., refining data).
+Nuance_CN: 技术术语，指去除物质中的杂质，常用于化学、冶金领域，也可用于比喻（如提纯数据）。
+Example1: 实验室用蒸馏法提纯酒精。
+Example1_EN: The laboratory purifies alcohol by distillation.
+Example2: 这种设备用于提纯石油。
+Example2_EN: This equipment is used to refine petroleum.
+Example3: 我们需要提纯数据，删除错误信息。
+Example3_EN: We need to purify the data by removing erroneous information.
+
+===word: 戒严===
+Meaning: impose martial law
+Nuance_EN: Refers to a state of emergency where civil liberties are restricted, often by military or police. Used for maintaining order during unrest.
+Nuance_CN: 指在紧急状态下由军队或警察实施的临时管制措施，限制公民自由，以维持秩序。
+Example1: 政府宣布在首都实施戒严。
+Example1_EN: The government declared martial law in the capital.
+Example2: 戒严期间，禁止一切集会活动。
+Example2_EN: All gatherings are prohibited during the martial law period.
+Example3: 军队在骚乱地区执行戒严任务。
+Example3_EN: The military carried out martial law duties in the riot area.
+
+===word: 筹集===
+Meaning: raise (funds), collect
+Nuance_EN: Commonly used for raising money or gathering resources for a specific purpose, like charity or business.
+Nuance_CN: 常用于为特定目的募集资金或收集资源，如慈善、创业等。
+Example1: 他们正在为灾区筹集善款。
+Example1_EN: They are raising donations for the disaster area.
+Example2: 公司计划筹集资金扩大生产。
+Example2_EN: The company plans to raise funds to expand production.
+Example3: 志愿者筹集了大量物资送往贫困山区。
+Example3_EN: Volunteers collected a large amount of supplies and sent them to poor mountainous areas.
+
+===word: 足足===
+Meaning: fully, as much as
+Nuance_EN: An adverb used to emphasize the full amount or duration of something, often with a sense of surprise or abundance. Usually followed by a number or time.
+Nuance_CN: 副词，强调数量或时间的充足，常带有意外或充裕的感觉，后面通常接数量或时间词语。
+Example1: 他足足等了两个小时。
+Example1_EN: He waited for a full two hours.
+Example2: 这只西瓜足足有十斤重。
+Example2_EN: This watermelon weighs a full ten jin (about 5 kg).
+Example3: 她足足吃了三碗饭。
+Example3_EN: She ate as many as three bowls of rice.

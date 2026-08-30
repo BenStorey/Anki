@@ -1,0 +1,109 @@
+===word: 内存===
+Meaning: computer memory, RAM
+Nuance_EN: Refers to internal memory in computing, often used for RAM or storage capacity. Common in tech contexts.
+Nuance_CN: 指计算机内部的存储空间，通常指内存条或运行内存，在科技讨论中常用。
+Example1: 我的手机内存不够了，需要清理一些应用。
+Example1_EN: My phone's memory is insufficient; I need to clear some apps.
+Example2: 这台电脑的内存是16GB，运行速度很快。
+Example2_EN: This computer has 16GB of memory and runs very fast.
+Example3: 请检查一下内存使用情况，看看哪些程序占用了太多资源。
+Example3_EN: Please check the memory usage to see which programs are taking up too many resources.
+
+===word: 单元===
+Meaning: unit, module, cell
+Nuance_EN: Can mean a unit in a building (apartment), a module in a textbook, or a cell in a spreadsheet. Versatile.
+Nuance_CN: 可以指建筑中的单元房、教材中的单元、或表格中的单元格，用途广泛。
+Example1: 我们住在三号楼二单元。
+Example1_EN: We live in Unit 2 of Building 3.
+Example2: 这本书有十个单元，每个单元都有练习题。
+Example2_EN: This book has ten units, and each unit has exercises.
+Example3: 在Excel中，每个单元格就是一个数据单元。
+Example3_EN: In Excel, each cell is a data unit.
+
+===word: 卧推===
+Meaning: bench press (exercise)
+Nuance_EN: A weightlifting exercise where you lie on a bench and push a barbell upward. Common in gym settings.
+Nuance_CN: 一种健身运动，仰卧在长凳上向上推举杠铃，常见于力量训练。
+Example1: 他今天在健身房做了五组卧推。
+Example1_EN: He did five sets of bench press at the gym today.
+Example2: 卧推是锻炼胸肌的经典动作。
+Example2_EN: Bench press is a classic exercise for building chest muscles.
+Example3: 初学者做卧推时最好有教练在旁边保护。
+Example3_EN: Beginners should have a spotter when doing bench press.
+
+===word: 宝塔===
+Meaning: pagoda, tower
+Nuance_EN: A traditional Chinese multi-tiered tower, often associated with temples. Also used metaphorically for something layered.
+Nuance_CN: 中国传统多层塔式建筑，常与寺庙相关，也可比喻层层叠叠的结构。
+Example1: 这座宝塔有七层，是明代建造的。
+Example1_EN: This pagoda has seven stories and was built in the Ming Dynasty.
+Example2: 远处的宝塔在夕阳下显得格外美丽。
+Example2_EN: The pagoda in the distance looks especially beautiful under the sunset.
+Example3: 他们用积木搭了一个宝塔形状的模型。
+Example3_EN: They built a pagoda-shaped model with building blocks.
+
+===word: 闯荡===
+Meaning: venture out, make one's way
+Nuance_EN: To leave home or a familiar place to seek opportunities, often with a sense of adventure and risk. Used for career or life journey.
+Nuance_CN: 离开家乡或熟悉的环境去外面闯世界，寻求发展机会，带有冒险和奋斗的意味。
+Example1: 他年轻时独自去上海闯荡，现在终于有了自己的公司。
+Example1_EN: He ventured out to Shanghai alone when he was young, and now he finally has his own company.
+Example2: 很多年轻人选择去大城市闯荡，追求更好的生活。
+Example2_EN: Many young people choose to venture out to big cities in pursuit of a better life.
+Example3: 在外闯荡多年，他积累了丰富的经验。
+Example3_EN: After years of venturing out, he has accumulated rich experience.
+
+===word: 禁毒===
+Meaning: drug prohibition, anti-drug
+Nuance_EN: Refers to the policy or action of banning drugs, often in the context of law enforcement and public health campaigns.
+Nuance_CN: 指禁止毒品的政策或行动，常用于执法和公共卫生宣传。
+Example1: 中国政府一直严厉打击禁毒工作。
+Example1_EN: The Chinese government has been strictly cracking down on drug prohibition efforts.
+Example2: 学校经常开展禁毒教育活动。
+Example2_EN: Schools often carry out anti-drug education activities.
+Example3: 禁毒是维护社会稳定的重要措施。
+Example3_EN: Drug prohibition is an important measure to maintain social stability.
+
+===word: 飓风===
+Meaning: hurricane, typhoon
+Nuance_EN: A powerful tropical cyclone, especially in the Atlantic and Eastern Pacific. In Chinese, it can also refer to typhoons in general.
+Nuance_CN: 一种强烈的热带气旋，在大西洋和东太平洋称为飓风，在中文中也可泛指台风。
+Example1: 飓风即将登陆，居民们正在紧急撤离。
+Example1_EN: The hurricane is about to make landfall, and residents are evacuating urgently.
+Example2: 这场飓风造成了巨大的破坏。
+Example2_EN: This hurricane caused enormous damage.
+Example3: 气象台发布了飓风预警信号。
+Example3_EN: The weather bureau issued a hurricane warning signal.
+
+===word: 左撇子===
+Meaning: left-handed person
+Nuance_EN: A person who is naturally left-handed. Often used informally, sometimes with a neutral or slightly teasing tone.
+Nuance_CN: 习惯使用左手的人，常带有中性或略带调侃的语气。
+Example1: 他是个左撇子，写字时总是用左手。
+Example1_EN: He is left-handed and always writes with his left hand.
+Example2: 左撇子在生活中有时会遇到一些不便。
+Example2_EN: Left-handed people sometimes encounter some inconveniences in daily life.
+Example3: 很多左撇子运动员在比赛中表现出色。
+Example3_EN: Many left-handed athletes perform excellently in competitions.
+
+===word: 塔罗牌===
+Meaning: tarot cards
+Nuance_EN: A deck of cards used for divination and spiritual guidance, popular in Western occult traditions. Often associated with fortune-telling.
+Nuance_CN: 一种用于占卜和灵性指引的纸牌，源自西方神秘学传统，常与算命相关。
+Example1: 她喜欢用塔罗牌给自己和朋友占卜。
+Example1_EN: She likes to use tarot cards to tell fortunes for herself and her friends.
+Example2: 塔罗牌有78张，分为大阿卡纳和小阿卡纳。
+Example2_EN: Tarot cards have 78 cards, divided into the Major Arcana and Minor Arcana.
+Example3: 我对塔罗牌很感兴趣，正在学习如何解读。
+Example3_EN: I am very interested in tarot cards and am learning how to interpret them.
+
+===word: 脊椎===
+Meaning: spine, vertebra
+Nuance_EN: The backbone or spinal column, consisting of vertebrae. Used in anatomy and medical contexts.
+Nuance_CN: 脊柱或椎骨，由多节椎骨组成，用于解剖学和医学语境。
+Example1: 长时间坐着对脊椎不好。
+Example1_EN: Sitting for long periods is bad for the spine.
+Example2: 医生建议他做脊椎矫正治疗。
+Example2_EN: The doctor recommended he undergo spinal correction treatment.
+Example3: 脊椎是人体的重要支撑结构。
+Example3_EN: The spine is an important supporting structure of the human body.
