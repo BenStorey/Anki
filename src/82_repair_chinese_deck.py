@@ -194,9 +194,14 @@ def main():
     src.backup(dst); dst.close(); src.close()
     print(f"  Backup: {backup}")
 
-    # 3. write prompt batches (word|pinyin ONLY)
+    # 3. write prompt batches (word|pinyin ONLY).
+    #    Clear BOTH old prompt AND old out files: the affected set + batch layout
+    #    changes between runs, so a stale out_*.txt (from an earlier repair) would
+    #    wrongly count as "already done" against a different prompt. Start fresh.
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     for f in OUT_DIR.glob("prompt_*.txt"):
+        f.unlink()
+    for f in OUT_DIR.glob("out_*.txt"):
         f.unlink()
     items = list(affected.items())
     n_batches = (len(items) + BATCH - 1) // BATCH
