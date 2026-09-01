@@ -79,7 +79,7 @@ def main():
         conn.close()
         return
     import time
-    now = int(time.time() * 1000)
+    now = int(time.time())
     conn.execute("BEGIN")
     for nid, idx, img in updates:
         flds = conn.execute("SELECT flds FROM notes WHERE id=?", (nid,)).fetchone()[0].split(chr(31))

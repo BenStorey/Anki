@@ -84,7 +84,7 @@ print(f"Notes needing Reading+Furigana update: {len(updates)}")
 
 if updates:
     print(f"Updating {len(updates)} notes...")
-    now = int(time.time() * 1000)
+    now = int(time.time())
     conn.execute('BEGIN TRANSACTION')
     for flds, nid in updates:
         conn.execute('UPDATE notes SET flds = ?, mod = ?, usn = -1 WHERE id = ?', (flds, now, nid))

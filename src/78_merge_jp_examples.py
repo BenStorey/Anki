@@ -123,7 +123,7 @@ def main():
     print(f"  Matched: {matched}")
 
     if updates:
-        now = int(time.time() * 1000)
+        now = int(time.time())
         conn.execute("BEGIN")
         for flds, nid in updates:
             conn.execute("UPDATE notes SET flds=?, mod=?, usn=-1 WHERE id=?", (flds, now, nid))

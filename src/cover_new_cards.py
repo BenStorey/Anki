@@ -346,7 +346,7 @@ def migrate(cfg, new_rows):
     # Rebuild nid->decks mapping from info we already have (source decks)
     # A note may have cards in multiple decks; keep each card where it is.
     conn = sqlite3.connect(str(COLLECTION)); conn.create_collation("unicase", unicase)
-    now = int(time.time() * 1000)
+    now = int(time.time())
     conn.execute("BEGIN")
     for new_flds, nid in updates:
         conn.execute("UPDATE notes SET mid=?, flds=?, mod=?, usn=-1 WHERE id=?",

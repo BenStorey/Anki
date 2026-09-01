@@ -230,7 +230,7 @@ def main():
     print(f"  (all runs preserved under {OUT_DIR / 'runs'})")
 
     # 4. generate + patch in place
-    now = int(time.time() * 1000)
+    now = int(time.time())
     conn = sqlite3.connect(str(COLLECTION))
     conn.create_collation("unicase", unicase)
     conn.execute("BEGIN")

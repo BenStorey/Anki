@@ -104,7 +104,7 @@ def main():
     conn = sqlite3.connect(str(COLLECTION)); conn.create_collation("unicase", lambda a,b:(a.lower()>b.lower())-(a.lower()<b.lower()))
     rows = conn.execute("SELECT id, flds FROM notes WHERE mid=?", (JP_ENH,)).fetchall()
 
-    now = int(time.time() * 1000)
+    now = int(time.time())
     conn.execute("BEGIN")
     updated = 0; skipped_junk = 0; skipped_validate = 0; skipped_same = 0; skipped_noold = 0
     for nid, flds in rows:

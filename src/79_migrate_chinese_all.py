@@ -137,7 +137,7 @@ def main():
     if updates:
         conn = sqlite3.connect(str(COLLECTION))
         conn.create_collation("unicase", unicase)
-        now = int(time.time() * 1000)
+        now = int(time.time())
         conn.execute("BEGIN")
         for flds, nid, deck_id in updates:
             conn.execute("UPDATE notes SET mid=?, flds=?, mod=?, usn=-1 WHERE id=?",
