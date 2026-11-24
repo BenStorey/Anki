@@ -29,3 +29,7 @@ __pycache__/
 /target/
 # Anki safety backups (keep local only)
 backups/*.anki2
+
+# Pending Pile CSVs (data files live next to the collection / VPS)
+pending_pile/*.csv
+__pycache__/
