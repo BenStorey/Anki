@@ -140,8 +140,12 @@ if (ak.current == null) {
 } else {
   let dtxt = '';
   if (ak.diff != null) {
-    const sign = ak.diff >= 0 ? '+' : '−';
-    dtxt = ` <span class="badge">${sign}${Math.abs(ak.diff).toLocaleString()} vs prev snapshot</span>`;
+    // reduction is the goal: pile grew -> red, shrank -> green
+    const up = ak.diff > 0;
+    const col = ak.diff === 0 ? '#7f8c8d' : (up ? '#c0392b' : '#27ae60');
+    const arrow = ak.diff === 0 ? '●' : (up ? '▲' : '▼');
+    dtxt = ` <span class="badge" style="color:${col};background:transparent;">` +
+      `${arrow} ${Math.abs(ak.diff).toLocaleString()} vs prev snapshot</span>`;
   }
   ac.innerHTML = `<span style="font-size:1.5em;font-weight:600">${ak.current.toLocaleString()}</span>` +
     ` pending review cards <span class="quiet">as of ${ak.date}</span>${dtxt}`;
