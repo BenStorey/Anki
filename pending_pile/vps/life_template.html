@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ben's TODOs</title>
+<style>
+  :root {
+    --bg: #faf9f7;
+    --card: #ffffff;
+    --ink: #1c1b1a;
+    --muted: #8a857c;
+    --line: #eae7e1;
+    --accent: #b3591f;
+    --accent-soft: #fdf0e7;
+    --green: #3f7d54;
+    --amber: #b45309;
+  }
+  * { box-sizing: border-box; }
+  body { font-family: 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, serif; background: var(--bg); color: var(--ink); margin: 0; line-height: 1.5; }
+  .wrap { max-width: 780px; margin: 0 auto; padding: 36px 20px 80px; }
+  header.masthead { border-bottom: 2px solid var(--ink); padding-bottom: 14px; margin-bottom: 28px; display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 8px; }
+  h1 { font-size: 1.7em; margin: 0; letter-spacing: -0.01em; }
+  .stamp { color: var(--muted); font-size: 0.82em; font-style: italic; }
+  section { margin-bottom: 30px; }
+  h2 { font-size: 0.78em; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent); margin: 0 0 12px; font-family: -apple-system, 'Segoe UI', sans-serif; font-weight: 600; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 16px 20px; }
+  ul.plain { list-style: none; margin: 0; padding: 0; }
+  ul.plain li { padding: 9px 0; border-bottom: 1px solid var(--line); display: flex; gap: 12px; align-items: baseline; }
+  ul.plain li:last-child { border-bottom: none; }
+  .when { color: var(--muted); font-size: 0.82em; min-width: 74px; font-family: -apple-system, sans-serif; }
+  .badge { display: inline-block; background: var(--accent-soft); color: var(--accent); border-radius: 4px; padding: 1px 8px; font-size: 0.72em; font-family: -apple-system, sans-serif; margin-left: auto; white-space: nowrap; }
+  .empty { color: var(--muted); font-style: italic; padding: 4px 0; }
+  .empty::before { content: '— '; }
+  .pics { color: var(--muted); font-size: 0.85em; font-style: italic; }
+  .sys-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 10px; }
+  .sys-cell { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 10px 14px; }
+  .sys-cell .k { font-size: 0.72em; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); font-family: -apple-system, sans-serif; }
+  .sys-cell .v { font-size: 1.05em; margin-top: 2px; }
+  .ok { color: var(--green); }
+  .warn { color: var(--amber); }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .quiet { color: var(--muted); font-size: 0.8em; margin-top: 6px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="masthead">
+  <h1>Ben's TODOs</h1>
+  <div class="stamp" id="updated">…</div>
+</header>
+
+<section id="sec-commitments">
+  <h2>Open Commitments</h2>
+  <div class="card"><ul class="plain" id="commitlist"></ul></div>
+</section>
+
+<section id="sec-school">
+  <h2>School — Upcoming</h2>
+  <div class="card"><ul class="plain" id="schoolupcoming"></ul></div>
+  <h2 style="margin-top:22px">School — Recent Posts</h2>
+  <div class="card"><ul class="plain" id="schoollist"></ul></div>
+</section>
+
+<section id="sec-captures">
+  <h2>Recent Captures (Saved Messages)</h2>
+  <div class="card"><ul class="plain" id="captures"></ul></div>
+</section>
+
+<section id="sec-email">
+  <h2>Email Highlights</h2>
+  <div class="card"><ul class="plain" id="emaillist"></ul></div>
+</section>
+
+<section id="sec-subs">
+  <h2>Recurring Senders</h2>
+  <div class="card"><ul class="plain" id="substable"></ul></div>
+  <p class="quiet">Vendors who mail Ben regularly — unsubscribe candidates on request.</p>
+</section>
+
+<section id="sec-infra">
+  <h2>Anki Pending Pile</h2>
+  <div class="card">
+    <div id="ankicur"></div>
+    <svg id="ankispark" width="100%" height="90" viewBox="0 0 600 90" preserveAspectRatio="none" style="margin-top:8px"></svg>
+    <table class="plain" id="ankidecks" style="margin-top:6px"></table>
+  </div>
+</section>
+
+<section id="sec-infra">
+  <h2>Systems</h2>
+  <div class="sys-grid" id="sysgrid"></div>
+
+</section>
+</div>
+<script>
+const DATA = {
+  updated: '%UPDATED%',
+  commitments: %COMMITMENTS%,
+  schoolUpcoming: %SCHOOL_UPCOMING%,
+  school: %SCHOOL%,
+  captures: %CAPTURES%,
+  emailHighlights: %EMAIL%,
+  subs: %SUBS%,
+  anki: %ANKI%,
+  infra: %INFRA%
+};
+document.getElementById('updated').textContent = 'updated ' + DATA.updated;
+
+function fill(id, items, emptyMsg) {
+  const el = document.getElementById(id);
+  if (!items || !items.length) { el.innerHTML = '<li class="empty">' + emptyMsg + '</li>'; return; }
+  el.innerHTML = items.map(items[0] && items[0].when !== undefined ? window['_row_' + id] : window['_row_' + id]).join('');
+}
+window._row_commitlist = it => `<li><span>${it.text || it}</span></li>`;
+window._row_schoolupcoming = it => `<li><span class="when">${it.when}</span><span>${it.text}</span></li>`;
+window._row_schoollist = it => `<li><span class="when">${it.date}</span><span>${it.text || '<span class="pics">(' + (it.images||0) + ' photos)</span>'}</span><span class="badge">${it.klass || ''}</span></li>`;
+window._row_captures = it => `<li><span class="when">${it.when}</span><span>${it.text}</span></li>`;
+window._row_emaillist = it => `<li><span class="when">${it.when}</span><span>${it.text}</span></li>`;
+window._row_substable = it => `<li><span>${it.vendor}</span><span class="badge">${it.note}</span></li>`;
+for (const [id, items, msg] of [
+  ['commitlist', DATA.commitments, 'nothing open'],
+  ['schoolupcoming', DATA.schoolUpcoming, 'no known upcoming events'],
+  ['schoollist', DATA.school, 'no recent posts'],
+  ['captures', DATA.captures, 'nothing new'],
+  ['emaillist', DATA.emailHighlights, 'nothing needs attention'],
+  ['substable', DATA.subs, 'none']
+]) fill(id, items, msg);
+
+const sg = document.getElementById('sysgrid');
+sg.innerHTML = DATA.infra.map(c =>
+  `<div class="sys-cell"><div class="k">${c.k}</div><div class="v ${c.state || 'ok'}">${c.v}</div></div>`).join('');
+
+// Anki pending pile
+const ak = DATA.anki || {};
+const ac = document.getElementById('ankicur');
+if (ak.current == null) {
+  ac.innerHTML = '<span class="quiet">no data yet (laptop pushes pending-pile.csv)</span>';
+} else {
+  let dtxt = '';
+  if (ak.diff != null) {
+    const sign = ak.diff >= 0 ? '+' : '−';
+    dtxt = ` <span class="badge">${sign}${Math.abs(ak.diff).toLocaleString()} vs prev snapshot</span>`;
+  }
+  ac.innerHTML = `<span style="font-size:1.5em;font-weight:600">${ak.current.toLocaleString()}</span>` +
+    ` pending review cards <span class="quiet">as of ${ak.date}</span>${dtxt}`;
+  const hist = ak.history || [];
+  const sp = document.getElementById('ankispark');
+  if (hist.length > 1) {
+    const vs = hist.map(p => p.v);
+    const mn = Math.min(...vs), mx = Math.max(...vs) || 1;
+    const pts = hist.map((p, i) => {
+      const x = 600 * i / (hist.length - 1);
+      const y = 84 - 78 * (p.v - mn) / (mx - mn || 1);
+      return `${x.toFixed(1)},${y.toFixed(1)}`;
+    }).join(' ');
+    const lastp = hist[hist.length - 1];
+    sp.innerHTML = `<polyline points="${pts}" fill="none" stroke="#4e79a7" stroke-width="2"/>` +
+      `<text x="2" y="12" font-size="11" fill="#666">${mx.toLocaleString()}</text>` +
+      `<text x="2" y="86" font-size="11" fill="#666">${mn.toLocaleString()}</text>` +
+      `<text x="598" y="12" font-size="11" text-anchor="end" fill="#666">${lastp.d}</text>`;
+  }
+  const td = document.getElementById('ankidecks');
+  td.innerHTML = (ak.decks || []).map(([k, v]) =>
+    `<tr><td>${k}</td><td style="text-align:right">${v.toLocaleString()}</td></tr>`).join('');
+}
+</script>
+</body>
+</html>
