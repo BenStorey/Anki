@@ -245,11 +245,20 @@ def on_deck_browser_will_render_content(_deck_browser, content) -> None:
             diff = n - int(y["pending_review"])
             base = int(y["pending_review"])
             pct = (diff / base * 100) if base else 0
-            sign = "+" if diff >= 0 else "\u2212"
+            # reduction is the goal: pile grew -> red, shrank -> green
+            if diff > 0:
+                color = "#c0392b"
+                arrow = "\u25b2"
+            elif diff < 0:
+                color = "#27ae60"
+                arrow = "\u25bc"
+            else:
+                color = "#7f8c8d"
+                arrow = "\u25cf"
             banner = (
                 f"Pending pile: <b>{n:,}</b> review cards"
-                f" &nbsp;—&nbsp; {y['date']}: {base:,}"
-                f" ({sign}{abs(diff):,}, {sign}{abs(pct):.1f}%)"
+                f" &nbsp;<span style=\"color:{color};\">"
+                f"{arrow} {abs(diff):,} ({abs(pct):.1f}%)</span>"
             )
         content.stats += (
             f'<div style="text-align:center;font-size:1.1em;'
@@ -285,7 +294,7 @@ def build_svg(series: dict[str, list[tuple[str, int]]]) -> str:
              f'xmlns="http://www.w3.org/2000/svg">']
     for frac in (0.0, 0.25, 0.5, 0.75, 1.0):
         v = int(ymax * frac)
-        y = y1 + (y0 - y1) * frac
+        y = y0 - (y0 - y1) * frac
         parts.append(f'<line x1="{x0}" y1="{y}" x2="{x1}" y2="{y}" '
                      f'stroke="#ccc" stroke-width="1"/>')
         parts.append(f'<text x="{x0 - 6}" y="{y + 4}" font-size="11" '
