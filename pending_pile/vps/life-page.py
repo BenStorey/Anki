@@ -58,12 +58,117 @@ UPCOMING_PATTERNS = re.compile(
 EVENT_DATE = re.compile(
     r'(?:(mon|tues|wednes|thurs|fri|satur|sun)day\s+)?(\d{1,2})(?:st|nd|rd|th)?\s+'
     r'(january|february|march|april|may|june|july|august|september|october|november|december)'
-    r'(?:\s+(\d{4}))?(?:\s+at\s+(\d{1,2}(?::\d{2})?\s*(?:am|pm)))?', re.I)
+    r'(?:\s+(\d{4}))?(?:\s+at\s+(\d{1,2}(?::\d{2})?(?:\s*(?:am|pm))?))?', re.I)
+
+
+def extract_event_details(text, received):
+    """Extract event date/time/location/CTA/link from a school mail body.
+
+    Returns dict {when, where, action, link} or None if no explicit future
+    date is found. 'when' like '03 Dec 08:30'. 'action' is a short verb
+    phrase of what Ben must do. 'link' is the best action URL (Reply /
+    sign-up / register / form), else the first content link."""
+    try:
+        recv = datetime.fromisoformat(received.replace('Z', '+00:00')).astimezone(HKT)
+    except Exception:
+        recv = datetime.now(HKT)
+    MONTHS = {m[:3]: i for i, m in enumerate(
+        ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August',
+         'September', 'October', 'November', 'December'], start=1)}
+
+    # --- date + time ---
+    best_dt = None
+    for m in EVENT_DATE.finditer(text or ''):
+        day = int(m.group(2))
+        mon = m.group(3)[:3].title()
+        if mon not in MONTHS:
+            continue
+        year = int(m.group(4)) if m.group(4) else recv.year
+        if not m.group(4) and (MONTHS[mon] < recv.month or (MONTHS[mon] == recv.month and day < recv.day)):
+            year += 1  # event must be upcoming: roll to next year
+        try:
+            dt = datetime(year, MONTHS[mon], day, tzinfo=HKT)
+        except ValueError:
+            continue
+        if dt.date() < (recv - timedelta(days=1)).date():
+            continue  # past event relative to when the mail arrived
+        if m.group(5):
+            tm = m.group(5).strip()
+            mm = re.match(r'(\d{1,2})(?::(\d{2}))?\s*(AM|PM)?', tm, re.I)
+            if mm:
+                hh = int(mm.group(1))
+                ap = (mm.group(3) or '').upper()
+                if ap == 'PM' and hh != 12:
+                    hh += 12
+                elif ap == 'AM' and hh == 12:
+                    hh = 0
+                dt = dt.replace(hour=hh, minute=int(mm.group(2) or 0))
+        if best_dt is None or dt < best_dt:
+            best_dt = dt
+    if best_dt is None:
+        return None
+    when = best_dt.strftime('%d %b %H:%M').replace(' 00:00', '')
+
+    # --- location ---
+    where = None
+    mw = re.search(r'in the ([A-Z][A-Za-z ]{3,30}(?:Hall|Room|Theatre|Auditorium|Gym|Sports Hall|Playground|Foyer))', text or '')
+    if not mw:
+        mw = re.search(r'(?:location|venue):?\s*([A-Z][A-Za-z ]{3,30}(?:Hall|Room|Theatre|Auditorium|Gym|Playground))', text or '')
+    if mw:
+        where = mw.group(1).strip()
+
+    # --- links: use "Label [ url ]" pairs from the body, action label first ---
+    pairs = [(m.group(1).strip(), m.group(2).replace('&amp;', '&'))
+             for m in re.finditer(r'([A-Za-z][A-Za-z -]{1,30}?)\s*\[\s*(https://[^\]\s]+)\s*\]', text or '')]
+    ACTION_RE = re.compile(r'\breply\b|\brsvp\b|\bregister\b|\bsign[- ]?up\b|\bbook\b|\bform\b|\bticket\b|\bconfirm\b', re.I)
+    VIEW_RE = re.compile(r'view online|open', re.I)
+    # The schoolpost "Reply [ url ]" footer is boilerplate — it appears even
+    # when the body says "return the order slip" or nothing actionable. Only
+    # treat Reply as the action if the body text explicitly asks for it.
+    body_asks_reply = bool(re.search(
+        r'click[ing]? [.\u201c]?reply[.\u201d]?|confirm your attendance|'
+        r'please reply|reply to confirm|rsvp|kindly confirm', text or '', re.I))
+
+    link = action = None
+    for label, url in pairs:
+        lab = label.strip()
+        ltl = lab.lower()
+        if 'reply' in ltl:
+            if body_asks_reply:
+                link, action = url, 'Reply to confirm'
+                break
+            continue  # boilerplate reply footer — skip
+        if ACTION_RE.search(lab):
+            if 'register' in ltl:
+                action = 'Register'
+            elif 'sign' in ltl:
+                action = 'Sign up'
+            elif 'book' in ltl:
+                action = 'Book'
+            elif 'ticket' in ltl:
+                action = 'Get tickets'
+            else:
+                action = lab.title()
+            link = url
+            break
+    if link is None:
+        for label, url in pairs:
+            if VIEW_RE.search(label):
+                link, action = url, 'View online'
+                break
+    if link is None:
+        # fall back: first URL that isn't a schoolpost system link
+        for label, url in pairs:
+            if 'systemhelp' not in url and 'settings' not in url:
+                link, action = url, 'Open link in email'
+                break
+    return {'when': when, 'where': where, 'action': action, 'link': link}
 
 
 def extract_event_date(text, received):
-    """Pull the event date out of a school mail body. Returns 'dd Mon' or None.
-    Looks for explicit dates in the future relative to received date."""
+    """Legacy helper (kept for backfill parity): date only."""
+    d = extract_event_details(text, received)
+    return d['when'] if d else None
     try:
         recv = datetime.fromisoformat(received.replace('Z', '+00:00')).astimezone(HKT)
     except Exception:
@@ -126,42 +231,38 @@ def school_upcoming():
             continue
         seen.add(key)
         subj = base
-        # fetch body to find the event date (limit: only first 12 candidates)
-        if len(rows) < 12:
+        # fetch body to extract date/time/location/CTA/link
+        if len(rows) < 14:
             body = ''
             try:
                 body = subprocess.run(['/home/ben/.local/bin/fm', 'read', e['id'], '--format', 'text'],
                                       capture_output=True, text=True, timeout=60).stdout
             except Exception:
                 pass
-            event = extract_event_date(body, e.get('received_at', ''))
-            try:
-                recv = datetime.fromisoformat(e['received_at'].replace('Z', '+00:00')).astimezone(HKT)
-            except Exception:
-                recv = datetime.now(HKT)
-            if not event:
+            det = extract_event_details(body, e.get('received_at', ''))
+            if det is None:
                 continue  # upcoming list = only real dated events
-            when = event
-            rows.append({'when': when, 'text': html.escape(subj[:90]),
-                         'event': True})
+            src = (e.get('subject', '') or '') + str(e.get('from'))
+            school = 'Shrewsbury' if 'shrewsbury' in src.lower() else (
+                'Pips' if 'pips' in src.lower() else 'School')
+            rows.append({'when': det['when'], 'text': html.escape(subj[:100]),
+                         'where': html.escape(det['where']) if det['where'] else None,
+                         'action': html.escape(det['action']) if det['action'] else None,
+                         'link': html.escape(det['link']) if det['link'] else None,
+                         'deck': school, 'event': True})
     # sort: rows with real event dates first by date, then reminders
     def sort_key(r):
         w = r['when']
         try:
-            mm = re.search(r'(\d{1,2})\s+([A-Za-z]{3})(?:\s+(\d{1,2})(?::(\d{2}))?\s*(AM|PM))?', w)
+            mm = re.match(r'(\d{1,2})\s+([A-Za-z]{3})(?:\s+(\d{2}):(\d{2}))?$', w)
             if not mm:
                 raise ValueError(w)
-            day = int(mm.group(1))
-            mon = mm.group(2)[:3].title()
             months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
                       'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
             year = datetime.now(HKT).year
-            dt = datetime(year, months.index(mon) + 1, day, tzinfo=HKT)
+            dt = datetime(year, months.index(mm.group(2)) + 1, int(mm.group(1)), tzinfo=HKT)
             if mm.group(3):
-                hh = int(mm.group(3)) % 12
-                if (mm.group(5) or 'AM').upper() == 'PM':
-                    hh += 12
-                dt = dt.replace(hour=hh, minute=int(mm.group(4) or 0))
+                dt = dt.replace(hour=int(mm.group(3)), minute=int(mm.group(4) or 0))
             return (0, dt)
         except Exception:
             return (1, datetime.now(HKT))
@@ -305,6 +406,35 @@ def infra():
     return cells
 
 
+
+
+def recommendations():
+    """Recommended reading/TV/YouTube (~/life/recommendations.jsonl).
+    Separate from commitments - things to enjoy, not things to do."""
+    p = Path(f'{HOME}/life/recommendations.jsonl')
+    if not p.exists():
+        return [], []
+    open_rows, done_rows = [], []
+    for line in p.read_text().splitlines():
+        if not line.strip():
+            continue
+        try:
+            d = json.loads(line)
+        except Exception:
+            continue
+        title = html.escape(str(d.get('title', '?')))
+        typ = str(d.get('type', 'thing')).lower()
+        by = html.escape(str(d.get('by', '')))
+        added = str(d.get('added', ''))[5:10]
+        badge = {'book': 'Book', 'tv': 'TV', 'youtube': 'YouTube'}.get(typ, typ.title())
+        rec = by + ' (' + added + ')' if by else added
+        if d.get('done'):
+            done_rows.append({'title': title, 'badge': badge})
+        else:
+            open_rows.append({'title': title, 'badge': badge, 'by': rec})
+    return open_rows[:12], done_rows[:6]
+
+
 def anki_pending():
     """Anki pending-pile stats from the laptop-pushed CSV."""
     csvp = Path('/home/ben/life/anki-pending.csv')
@@ -343,6 +473,7 @@ def anki_pending():
 
 def main():
     tpl = Path(TEMPLATE).read_text()
+    recs_open, recs_done = recommendations()
     data = {
         'updated': datetime.now(HKT).strftime('%Y-%m-%d %H:%M HKT'),
         'commitments': commitments(),
@@ -350,6 +481,8 @@ def main():
         'school': school_posts(),
         'captures': captures(),
         'email': email_highlights(),
+        'recs_open': recs_open,
+        'recs_done': recs_done,
         'subs': recurring(),
         'anki': anki_pending(),
         'infra': infra(),
