@@ -62,18 +62,22 @@ Laptop pushes it:
   reviews done today. Expect the banner to be slightly higher than the
   live deck-browser count on days you already reviewed.
 
-## Hands-free sync (2026-11-25)
+## Hands-free sync (2026-11-25) — AnkiWeb is the primary source
 
-`sync_pending.sh` + a systemd user timer (`pending-pile-sync.timer`, hourly,
-persistent) keep the status page current without opening Anki:
+The status page updates WITHOUT the laptop and WITHOUT opening Anki:
 
-1. `backfill_from_revlog.py` rebuilds the whole series straight from
-   collection.anki2 (read-only, immutable URI) — Anki does NOT need to be
-   open. Since the recon engine replays due-date flips with zero reviews,
-   days with the PC off are reconstructed exactly.
-2. `merge_csv.py` layers the add-on's live anchor snapshots on top (live
-   wins on overlap) — anchors pin recon to ground truth.
-3. Push to the VPS and regenerate the status page.
+- The VPS pulls the collection from AnkiWeb directly (headless client,
+  `vps/ankiweb_sync.py`, mirror at `~/life/anki-sync/collection.anki2`),
+  runs the same recon engine over the mirror, and regenerates the page.
+- Timer: `ankiweb-sync.timer` on the VPS, 4× daily (02:05/08:05/14:05/20:05
+  HKT, persistent). AnkiWeb is often AHEAD of the laptop (phone reviews
+  land there first via AnkiDroid), so this is the freshest source.
+- Credentials: the sync hkey (from the laptop's prefs21.db profile blob)
+  is staged at `~/life/anki-sync/hkey` (600). If Anki ever re-auths
+  (password change, deauth), restage the hkey — same extraction.
+- The mirror is a follower: the VPS never uploads; the laptop's Anki
+  remains the sync master.
 
-Validation gate: recon's last-day total vs live probe must stay within a
-few percent (currently 0.01%).
+The laptop's hourly push timer (`pending-pile-sync.timer`) was retired
+2026-11-25 — one writer (the VPS) owns the CSV now. `push_to_vps.sh` is
+kept for manual overrides but is no longer scheduled.
