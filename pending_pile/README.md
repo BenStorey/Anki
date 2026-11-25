@@ -61,3 +61,19 @@ Laptop pushes it:
 - Snapshots are start-of-day: today's row reflects 03:00 HKT, before any
   reviews done today. Expect the banner to be slightly higher than the
   live deck-browser count on days you already reviewed.
+
+## Hands-free sync (2026-11-25)
+
+`sync_pending.sh` + a systemd user timer (`pending-pile-sync.timer`, hourly,
+persistent) keep the status page current without opening Anki:
+
+1. `backfill_from_revlog.py` rebuilds the whole series straight from
+   collection.anki2 (read-only, immutable URI) — Anki does NOT need to be
+   open. Since the recon engine replays due-date flips with zero reviews,
+   days with the PC off are reconstructed exactly.
+2. `merge_csv.py` layers the add-on's live anchor snapshots on top (live
+   wins on overlap) — anchors pin recon to ground truth.
+3. Push to the VPS and regenerate the status page.
+
+Validation gate: recon's last-day total vs live probe must stay within a
+few percent (currently 0.01%).
