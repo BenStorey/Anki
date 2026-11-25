@@ -15,7 +15,9 @@ from __future__ import annotations
 import csv
 import datetime
 import json
+import math
 import os
+import re
 import sqlite3
 import sys
 import traceback
@@ -270,8 +272,42 @@ def on_deck_browser_will_render_content(_deck_browser, content) -> None:
 
 # --------------------------------------------------------- stats chart
 
+def _nice_ticks(ymax: float) -> list[float]:
+    """d3-style 'nice' ticks for the y axis (0..ymax)."""
+    if ymax <= 0:
+        return [0.0]
+    step = 10 ** math.floor(math.log10(ymax / 4))
+    for c in (1, 2, 2.5, 5, 10):
+        if c * step >= ymax / 4:
+            step *= c
+            break
+    top = math.ceil(ymax / step) * step
+    return [i * step for i in range(int(round(top / step)) + 1)]
+
+
+def _month_labels(dates: list[str]) -> list[tuple[str, str]]:
+    """First occurrence of each month: (iso-date, 'Jan 2025')."""
+    out, seen = [], set()
+    for d in dates:
+        y, m = d[:4], d[5:7]
+        if (y, m) in seen:
+            continue
+        seen.add((y, m))
+        try:
+            dt = datetime.date(int(y), int(m), 1)
+            out.append((d, dt.strftime("%b %Y")))
+        except ValueError:
+            continue
+    return out
+
+
 def build_svg(series: dict[str, list[tuple[str, int]]]) -> str:
-    """Inline SVG: one line per top-level deck + bold ALL line."""
+    """Anki-native-styled SVG: one line per top-level deck + bold ALL line.
+
+    Mimics the sveltekit graphs: nice y ticks, monthly date ticks, d3
+    tick typography (10px, 50% opacity), Anki design-token colors, and
+    a native-style hover tooltip (guide line + per-deck table).
+    """
     if not series:
         return "<p>No pending-pile history yet.</p>"
     dates = sorted({d for pts in series.values() for d, _ in pts})
@@ -281,49 +317,160 @@ def build_svg(series: dict[str, list[tuple[str, int]]]) -> str:
     x0, x1 = 60, W - 140
     y0, y1 = H - 40, 20
     ymax = max(v for pts in series.values() for _, v in pts) or 1
+    ticks = _nice_ticks(ymax)
+    ytop = ticks[-1] if ticks else ymax
     di = {d: i for i, d in enumerate(dates)}
 
     def xy(d: str, v: int) -> tuple[float, float]:
         x = x0 + (x1 - x0) * di[d] / (len(dates) - 1)
-        y = y0 - (y0 - y1) * v / ymax
+        y = y0 - (y0 - y1) * v / ytop
         return x, y
 
-    colors = ["#4e79a7", "#f28e2b", "#e15759", "#76b7b2", "#59a14f",
-              "#edc949", "#af7aa1", "#ff9da7", "#9c755f"]
-    parts = [f'<svg viewBox="0 0 {W} {H}" width="100%" style="max-width:{W}px" '
+    # Anki design tokens (_aqt.colors) for series; chrome uses CSS vars
+    # so it follows the light/dark theme like native graphs.
+    series_colors = [
+        "#3b82f6",  # STATE_NEW
+        "#16a34a",  # STATE_REVIEW
+        "#6366f1",  # STATE_MARKED
+        "#dc2626",  # STATE_LEARN
+        "#f59e0b",  # STATE_BURIED
+        "#facc15",  # STATE_SUSPENDED
+        "#60a5fa",  # ACCENT_CARD
+        "#22c55e",  # ACCENT_NOTE
+        "#ef4444",  # ACCENT_DANGER
+    ]
+    parts = [f'<svg viewBox="0 0 {W} {H}" width="100%" '
+             f'style="max-width:{W}px;color:var(--fg)" '
              f'xmlns="http://www.w3.org/2000/svg">']
-    for frac in (0.0, 0.25, 0.5, 0.75, 1.0):
-        v = int(ymax * frac)
-        y = y0 - (y0 - y1) * frac
-        parts.append(f'<line x1="{x0}" y1="{y}" x2="{x1}" y2="{y}" '
-                     f'stroke="#ccc" stroke-width="1"/>')
-        parts.append(f'<text x="{x0 - 6}" y="{y + 4}" font-size="11" '
-                     f'text-anchor="end">{v:,}</text>')
-    for d in (dates[0], dates[len(dates) // 2], dates[-1]):
-        x, _ = xy(d, 0)
-        parts.append(f'<text x="{x}" y="{H - 20}" font-size="11" '
-                     f'text-anchor="middle">{d}</text>')
+
+    # y gridlines + tick labels (native look: 10px, 50% opacity)
+    for v in ticks:
+        y = y0 - (y0 - y1) * v / ytop
+        parts.append(f'<line x1="{x0}" y1="{y:.1f}" x2="{x1}" y2="{y:.1f}" '
+                     f'stroke="currentColor" stroke-opacity="0.1" '
+                     f'stroke-width="1"/>')
+        parts.append(f'<text x="{x0 - 6}" y="{y + 3:.1f}" font-size="10" '
+                     f'text-anchor="end" fill="currentColor" '
+                     f'opacity="0.5">{v:,.0f}</text>')
+
+    # x date ticks: first, last, and evenly spaced months (deduped,
+    # collision-avoided)
+    ml = _month_labels(dates)
+    xt = [dates[0]] + [d for d, _ in ml] + [dates[-1]]
+    seen = set()
+    xt = [d for d in xt if not (d in seen or seen.add(d))]
+    spaced = []
+    last_x = -1e9
+    for d in xt:
+        x = x0 + (x1 - x0) * di[d] / (len(dates) - 1)
+        if x - last_x >= 90:
+            spaced.append((d, x))
+            last_x = x
+    for d, x in spaced:
+        lab = next((ll for dd, ll in ml if dd == d), d)
+        parts.append(f'<line x1="{x:.1f}" y1="{y0}" x2="{x:.1f}" y2="{y0 + 4}" '
+                     f'stroke="currentColor" stroke-opacity="0.3" '
+                     f'stroke-width="1"/>')
+        parts.append(f'<text x="{x:.1f}" y="{H - 22}" font-size="10" '
+                     f'text-anchor="middle" fill="currentColor" '
+                     f'opacity="0.5">{lab}</text>')
+
+    # per-deck series, largest max first
     items = [(k, v) for k, v in series.items() if k != "ALL"]
     items.sort(key=lambda kv: -max(p[1] for p in kv[1]))
     for i, (deck, pts) in enumerate(items):
-        color = colors[i % len(colors)]
+        color = series_colors[i % len(series_colors)]
         pl = " ".join(f"{xy(d, v)[0]:.1f},{xy(d, v)[1]:.1f}" for d, v in pts)
         last_d, last_v = pts[-1]
         lx, ly = xy(last_d, last_v)
         parts.append(f'<polyline points="{pl}" fill="none" '
                      f'stroke="{color}" stroke-width="1.4" opacity="0.85"/>')
-        parts.append(f'<text x="{lx + 5}" y="{ly + 4}" font-size="11" '
+        parts.append(f'<text x="{lx + 5}" y="{ly + 4:.1f}" font-size="11" '
                      f'fill="{color}">{deck}</text>')
+
+    # ALL line, bold, on top
     pts = series["ALL"]
     pl = " ".join(f"{xy(d, v)[0]:.1f},{xy(d, v)[1]:.1f}" for d, v in pts)
     parts.append(f'<polyline points="{pl}" fill="none" '
-                 f'stroke="#222" stroke-width="2.6"/>')
+                 f'stroke="currentColor" stroke-width="2.6"/>')
     last_d, last_v = pts[-1]
     lx, ly = xy(last_d, last_v)
-    parts.append(f'<text x="{lx + 5}" y="{ly + 4}" font-size="12" '
-                 f'font-weight="bold">{last_v:,}</text>')
+    parts.append(f'<text x="{lx + 5}" y="{ly + 4:.1f}" font-size="12" '
+                 f'font-weight="bold" fill="currentColor">{last_v:,}</text>')
+
+    # hover interactivity: per-date hit rects + guide line + a tooltip
+    # styled exactly like Anki's native one (padding 15px, radius 5px,
+    # canvas-overlay bg, 0 2px 8px shadow). The tooltip div is a sibling
+    # of the svg inside a relatively-positioned wrapper so it can't be
+    # clipped by the svg viewport.
+    order = ["ALL"] + [k for k, _ in items]
+    tooltip_rows = {}
+    for d in dates:
+        row = []
+        for deck in order:
+            dv = dict(series[deck])
+            if d in dv:
+                row.append([deck, dv[d]])
+        tooltip_rows[d] = row
+    col_w = (x1 - x0) / max(len(dates) - 1, 1)
+    parts.append(f'<line id="pp-guide" x1="{x0}" y1="{y1}" x2="{x0}" '
+                 f'y2="{y0}" stroke="currentColor" stroke-opacity="0.35" '
+                 f'stroke-width="1" visibility="hidden"/>')
+    for i, d in enumerate(dates):
+        cx = x0 + (x1 - x0) * i / (len(dates) - 1)
+        hx0 = x0 + (x1 - x0) * (i - 0.5) / (len(dates) - 1)
+        parts.append(
+            f'<rect x="{hx0:.1f}" y="{y1}" width="{col_w:.1f}" '
+            f'height="{y0 - y1}" fill="none" pointer-events="all" '
+            f'data-date="{d}" '
+            f'onmouseover="pp_hover(this,{cx:.1f})" onmouseout="pp_out(this)" '
+            f'/>')
     parts.append("</svg>")
-    return "".join(parts)
+    data_json = json.dumps(tooltip_rows).replace("</", "<\\/")
+    tip = (
+        '<div id="pp-tip" style="position:absolute;display:none;'
+        'white-space:nowrap;padding:15px;border-radius:5px;'
+        'font-family:inherit;font-size:15px;color:var(--fg);'
+        'background:var(--canvas-overlay);box-shadow:0 2px 8px #00000026;'
+        'pointer-events:none;z-index:1000;">'
+        '<div id="pp-tip-date" style="font-weight:bold;margin-bottom:6px;">'
+        "</div>"
+        '<table id="pp-tip-table" style="border-spacing:1em 0;font-size:13px;">'
+        "</table></div>"
+    )
+    script = (
+        '<script>'
+        'window._ppData=' + data_json + ';'
+        'function pp_hover(r,cx){'
+        'var wrap=r.ownerSVGElement.parentNode,'
+        'g=wrap.querySelector("#pp-guide"),tip=wrap.querySelector("#pp-tip");'
+        'if(!g||!tip)return;'
+        'g.setAttribute("x1",cx);g.setAttribute("x2",cx);'
+        'g.setAttribute("visibility","visible");'
+        'var dt=tip.querySelector("#pp-tip-date"),'
+        'tb=tip.querySelector("#pp-tip-table");'
+        'if(!dt||!tb)return;'
+        'var rows=window._ppData[r.getAttribute("data-date")]||[];'
+        'if(!rows.length){tip.style.display="none";return;}'
+        'dt.textContent=r.getAttribute("data-date");tb.innerHTML="";'
+        'for(var i=0;i<rows.length;i++){var tr=document.createElement("tr");'
+        'var td1=document.createElement("td");td1.textContent=rows[i][0];'
+        'var td2=document.createElement("td");'
+        'td2.textContent=rows[i][1].toLocaleString();'
+        'td2.style.textAlign="right";tr.appendChild(td1);'
+        'tr.appendChild(td2);tb.appendChild(tr);}'
+        'var svg=r.ownerSVGElement,sr=wrap.getBoundingClientRect();'
+        'var k=sr.width/1100;'  # svg scales to container width
+        'tip.style.left=Math.min(cx*k+12,sr.width-260)+"px";'
+        'tip.style.top="20px";tip.style.display="block";}'
+        'function pp_out(r){var wrap=r.ownerSVGElement.parentNode,'
+        'g=wrap.querySelector("#pp-guide"),tip=wrap.querySelector("#pp-tip");'
+        'if(g)g.setAttribute("visibility","hidden");'
+        'if(tip)tip.style.display="none";}'
+        "</script>"
+    )
+    return ('<div style="position:relative">' + "".join(parts) + tip
+            + "</div>" + script)
 
 
 def on_stats_dialog_will_show(dialog) -> None:
@@ -377,6 +524,21 @@ def on_stats_dialog_will_show(dialog) -> None:
                     "window.scrollTo(0,0);}"
                 )
                 web.eval(js)
+                # scripts inside insertAdjacentHTML do not execute, so
+                # eval the chart's hover script separately
+                m = re.search(r"<script>(.*)</script>", html, re.S)
+                if m:
+                    web.eval(m.group(1))
+
+                def _probe(ok: object, r: object) -> None:  # noqa: ARG001
+                    log(f"inject probe: ok={ok} res={r}")
+
+                web.evalWithCallback(
+                    "window.pp_hover!==undefined"
+                    "+','+!!document.getElementById('pendingpile')"
+                    "+','+!!document.getElementById('pp-tip')",
+                    _probe,
+                )
                 # a few retries in case the SPA mounts late
                 if attempts["n"] < 5:
                     QTimer.singleShot(1500, inject)
