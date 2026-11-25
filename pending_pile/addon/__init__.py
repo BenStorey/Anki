@@ -530,11 +530,13 @@ def on_stats_dialog_will_show(dialog) -> None:
                 if m:
                     web.eval(m.group(1))
 
-                def _probe(ok: object, r: object) -> None:  # noqa: ARG001
-                    log(f"inject probe: ok={ok} res={r}")
+                def _probe(val: object) -> None:  # noqa: ARG001
+                    # evalWithCallback invokes cb(val) with a single arg
+                    log(f"inject probe: res={val}")
 
+                # NB: typeof before !== to avoid precedence bugs
                 web.evalWithCallback(
-                    "window.pp_hover!==undefined"
+                    "(typeof window.pp_hover!=='undefined')"
                     "+','+!!document.getElementById('pendingpile')"
                     "+','+!!document.getElementById('pp-tip')",
                     _probe,
