@@ -46,8 +46,8 @@ words; then 안/못 nuances, indirect speech, -네요/-죠 mood, honorific speec
 levels (해요 vs 합니다 vs 반말), and 주다/드리다 giving verbs.
 
 ## Progress
-- [ ] Lesson 1: polite -요 (하다 verbs, ㅂ/ㄷ/ㅡ irregular preview)
-- [ ] Lesson 2: past -았/었어요
+- [x] Lesson 1: polite -요 (하다 verbs, ㅂ/ㄷ/ㅡ irregular preview) — live on benstorey.com/korean/
+- [x] Lesson 2: past -았/었어요 — live
 - [ ] Lesson 3: negation
 - [ ] Lesson 4: questions + his wh-words
 - [ ] Lesson 5: particles 은/는/이/가/을/를
